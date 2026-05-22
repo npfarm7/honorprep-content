@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.P.1.1",
+  "benchmark_description": "Summarize the physical properties of Earth materials, including rocks, minerals, soils, water, and gases that make up the atmosphere.",
+  "course": "science",
+  "strand": "P",
+  "lesson": {
+    "title": "Earth's Materials Around Us",
+    "intro": "Look around outside \u2014 do you see dirt, rocks, or puddles of water? All of those are Earth materials! Earth is made of many different materials that we can touch, see, and study.",
+    "body_md": "## What Are Earth Materials?\n\nEarth materials are natural things found on or in the Earth. They include **rocks**, **minerals**, **soil**, **water**, and **gases** in the air.\n\n## Rocks\n\nRocks are hard, solid materials found all over Earth. Rocks can be:\n- **Big or small** (from boulders to tiny pebbles)\n- **Rough or smooth**\n- **Many different colors** (gray, red, white, black)\n\nRocks are made of minerals stuck together.\n\n## Minerals\n\nMinerals are natural, solid materials that make up rocks. Each mineral has its own special properties.\n\n| Mineral | Color | Feels Like |\n|---------|-------|------------|\n| Quartz | Clear or white | Very hard, glassy |\n| Mica | Silver or gold | Shiny, flaky |\n| Feldspar | Pink or white | Rough |\n\n## Soil\n\nSoil is the loose material that covers much of Earth's land. It is made of:\n- Tiny bits of broken rock\n- Bits of dead plants and animals\n- Water and air in tiny spaces\n- Living things like worms and bacteria\n\nSoil helps plants grow by giving them nutrients and water.\n\n## Water\n\nWater covers most of Earth's surface. We find water in:\n- **Oceans** (salty water)\n- **Rivers and lakes** (mostly fresh water)\n- **Ice** (frozen water at the poles)\n- **Clouds** (tiny water droplets in the air)\n\nWater has no color, taste, or smell by itself. It can be a **liquid**, a **solid** (ice), or a **gas** (water vapor).\n\n## Gases in the Atmosphere\n\nThe **atmosphere** is the layer of air that surrounds Earth. Air is a mixture of gases. The main gases are:\n- **Nitrogen** \u2014 makes up most of the air (about 78%)\n- **Oxygen** \u2014 what we breathe (about 21%)\n- **Carbon dioxide** \u2014 plants use this to make food\n\nGases have no shape of their own \u2014 they spread out to fill any space.\n\n## Physical Properties\n\nWe describe Earth materials using **physical properties** \u2014 things we can observe or measure:\n- **Color**\n- **Texture** (smooth, rough, bumpy)\n- **Hardness** (can it be scratched?)\n- **Shape**\n- **Size**\n- **Luster** (does it shine?)",
+    "worked_example_md": "## Worked Example: Describing a Rock\n\nA student finds a rock on the playground. Here is how she describes its physical properties:\n\n**Color:** Gray with small white spots\n\n**Texture:** Rough when she rubs it on her finger\n\n**Size:** About as big as her fist\n\n**Shape:** Rounded on the edges, not perfectly round\n\n**Hardness:** It scratches a piece of chalk, so it is harder than chalk\n\n**Luster:** Not shiny \u2014 it looks dull\n\nBecause the rock has these properties, her teacher says it might be **granite** \u2014 a very common rock found in Earth's crust. Notice that she used words that describe what she can **observe** \u2014 she did not need any special tools to do this!",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an Earth material?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A plastic toy",
+          "correct": false,
+          "explanation": "Plastic is made by people in factories \u2014 it is not found naturally on Earth."
+        },
+        {
+          "id": "b",
+          "label": "A rock",
+          "correct": true,
+          "explanation": "Rocks are natural materials found on and in the Earth \u2014 they are Earth materials."
+        },
+        {
+          "id": "c",
+          "label": "A glass window",
+          "correct": false,
+          "explanation": "Glass is made by people, even though it comes from melting sand. It is not an Earth material in its window form."
+        },
+        {
+          "id": "d",
+          "label": "A metal spoon",
+          "correct": false,
+          "explanation": "Metal spoons are made by people \u2014 they are manufactured objects, not Earth materials."
+        }
+      ],
+      "explanation_md": "Earth materials are natural things found on or in Earth \u2014 rocks, soil, water, minerals, and air. A rock is the only naturally occurring Earth material in this list."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are rocks made of?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soil and water",
+          "correct": false,
+          "explanation": "Soil contains bits of rock, but rocks themselves are not made of soil. Soil is made partly from rocks."
+        },
+        {
+          "id": "b",
+          "label": "Gases and air",
+          "correct": false,
+          "explanation": "Gases make up the atmosphere but not solid rocks."
+        },
+        {
+          "id": "c",
+          "label": "Minerals",
+          "correct": true,
+          "explanation": "Rocks are made of one or more minerals stuck together."
+        },
+        {
+          "id": "d",
+          "label": "Frozen water",
+          "correct": false,
+          "explanation": "Frozen water is ice, not rock \u2014 though ice can look hard like a rock."
+        }
+      ],
+      "explanation_md": "Rocks are made of minerals. Minerals are natural solid materials, and when two or more minerals join together they form a rock."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which physical property describes how a material looks \u2014 shiny or dull?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Texture",
+          "correct": false,
+          "explanation": "Texture describes how rough or smooth a material feels, not how shiny it looks."
+        },
+        {
+          "id": "b",
+          "label": "Color",
+          "correct": false,
+          "explanation": "Color tells us the hue of the material, like red or blue, not whether it shines."
+        },
+        {
+          "id": "c",
+          "label": "Luster",
+          "correct": true,
+          "explanation": "Luster describes how shiny or dull a material looks when light hits it."
+        },
+        {
+          "id": "d",
+          "label": "Hardness",
+          "correct": false,
+          "explanation": "Hardness describes how easily a material can be scratched, not how it looks in light."
+        }
+      ],
+      "explanation_md": "Luster is the physical property that describes how shiny or dull a material looks. Gold has high luster (very shiny); chalk has low luster (dull)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is soil made of?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only water and air",
+          "correct": false,
+          "explanation": "Water and air are found in tiny spaces in soil, but soil is made of more than just these."
+        },
+        {
+          "id": "b",
+          "label": "Tiny bits of rock, dead plant and animal material, water, and air",
+          "correct": true,
+          "explanation": "Soil is a mixture of broken rock pieces, organic matter (dead plants and animals), water, and air \u2014 all four together."
+        },
+        {
+          "id": "c",
+          "label": "Pure minerals with no water",
+          "correct": false,
+          "explanation": "Minerals are part of soil (as tiny rock bits), but healthy soil also contains water, air, and organic matter."
+        },
+        {
+          "id": "d",
+          "label": "Only dead plants and animals",
+          "correct": false,
+          "explanation": "Dead plant and animal material (called organic matter) is an important part of soil, but soil also contains rock bits, water, and air."
+        }
+      ],
+      "explanation_md": "Soil is a mixture of four main things: tiny bits of broken rock, dead plant and animal material (organic matter), water, and air in small spaces. This mixture gives soil the properties that help plants grow."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Mia finds two rocks. Rock A is smooth and shiny. Rock B is rough and dull. Which physical properties is she comparing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color and hardness",
+          "correct": false,
+          "explanation": "She is not talking about color (no colors mentioned) or hardness (no scratching test). These are not the properties being compared."
+        },
+        {
+          "id": "b",
+          "label": "Texture and luster",
+          "correct": true,
+          "explanation": "Smooth/rough describes texture; shiny/dull describes luster. Mia is comparing both texture and luster."
+        },
+        {
+          "id": "c",
+          "label": "Size and shape",
+          "correct": false,
+          "explanation": "Size and shape are physical properties, but smooth/rough and shiny/dull do not describe those properties."
+        },
+        {
+          "id": "d",
+          "label": "Color and texture",
+          "correct": false,
+          "explanation": "Texture fits (smooth/rough), but shiny/dull is luster, not color."
+        }
+      ],
+      "explanation_md": "Smooth vs. rough describes **texture** \u2014 how the surface of the material feels. Shiny vs. dull describes **luster** \u2014 how the material looks when light hits it. Mia is comparing texture and luster."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement about water is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Water is only found in oceans.",
+          "correct": false,
+          "explanation": "Water is found in many places \u2014 oceans, lakes, rivers, underground, in the atmosphere, and in living things. Not just oceans."
+        },
+        {
+          "id": "b",
+          "label": "Water can be a liquid, solid, or gas.",
+          "correct": true,
+          "explanation": "Water exists in all three states: liquid (rain, rivers), solid (ice, snow), and gas (water vapor in the air)."
+        },
+        {
+          "id": "c",
+          "label": "Water has a strong taste and smell.",
+          "correct": false,
+          "explanation": "Pure water has no taste and no smell. Tap water may have a slight taste because of added minerals, but water itself is tasteless and odorless."
+        },
+        {
+          "id": "d",
+          "label": "Water is only found above ground.",
+          "correct": false,
+          "explanation": "Water is also found underground (groundwater), in rocks, and even locked in ice sheets. It is not limited to above ground."
+        }
+      ],
+      "explanation_md": "Water is unique because it can exist in three states: as a **liquid** (in rivers and oceans), as a **solid** (ice and snow), and as a **gas** (water vapor in the atmosphere). This is one of water's key physical properties."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What two gases make up most of Earth's atmosphere?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Oxygen and carbon dioxide",
+          "correct": false,
+          "explanation": "Oxygen is in the top two, but carbon dioxide makes up less than 1% of the atmosphere \u2014 it is not the second most common gas."
+        },
+        {
+          "id": "b",
+          "label": "Nitrogen and oxygen",
+          "correct": true,
+          "explanation": "Nitrogen makes up about 78% of the atmosphere, and oxygen makes up about 21%. Together they account for about 99% of the air we breathe."
+        },
+        {
+          "id": "c",
+          "label": "Hydrogen and nitrogen",
+          "correct": false,
+          "explanation": "Nitrogen is correct but hydrogen is not a major component of Earth's atmosphere \u2014 there is very little free hydrogen in the air."
+        },
+        {
+          "id": "d",
+          "label": "Carbon dioxide and water vapor",
+          "correct": false,
+          "explanation": "Both of these are in the atmosphere, but in very small amounts. They are not the two main gases."
+        }
+      ],
+      "explanation_md": "Earth's atmosphere is mostly **nitrogen** (about 78%) and **oxygen** (about 21%). Nitrogen and oxygen together make up nearly all of the air around us."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests a mineral by trying to scratch it with his fingernail. He is testing its \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color",
+          "correct": false,
+          "explanation": "Testing color means looking at the mineral's hue, not scratching it."
+        },
+        {
+          "id": "b",
+          "label": "Luster",
+          "correct": false,
+          "explanation": "Testing luster means looking at how shiny or dull the mineral looks in light, not scratching it."
+        },
+        {
+          "id": "c",
+          "label": "Hardness",
+          "correct": true,
+          "explanation": "A scratch test checks hardness \u2014 how resistant a material is to being scratched. If a fingernail can scratch it, the mineral is relatively soft."
+        },
+        {
+          "id": "d",
+          "label": "Shape",
+          "correct": false,
+          "explanation": "Shape describes the form of the mineral's crystals or overall form, not what a scratch test shows."
+        }
+      ],
+      "explanation_md": "**Hardness** is the physical property that describes how resistant a material is to scratching. Scientists use scratch tests to compare the hardness of rocks and minerals."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sam says, 'Soil is better for plants than pure sand or pure rock.' Which property of soil best supports his claim?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soil is always the same color as sand.",
+          "correct": false,
+          "explanation": "Color is a physical property, but it does not explain why soil supports plant growth better than sand or rock."
+        },
+        {
+          "id": "b",
+          "label": "Soil contains rock bits, organic matter, water, and air that give plants nutrients and support.",
+          "correct": true,
+          "explanation": "Soil is a mixture that provides minerals from rock bits, nutrients from organic matter, water, and air \u2014 all of which plants need to grow. Sand has no organic matter; pure rock has no spaces for roots."
+        },
+        {
+          "id": "c",
+          "label": "Soil is harder than rock, so roots cannot break through.",
+          "correct": false,
+          "explanation": "Soil is actually softer and looser than rock, which makes it easier for plant roots to grow through it."
+        },
+        {
+          "id": "d",
+          "label": "Soil contains only gases that plants breathe.",
+          "correct": false,
+          "explanation": "Soil does contain air in its tiny spaces, but it also contains rock bits, water, and organic matter \u2014 not just gases."
+        }
+      ],
+      "explanation_md": "Soil supports plant life because it is a **mixture** of tiny rock bits (minerals), organic matter (nutrients), water, and air. These four components give plants everything they need. Pure sand has very little organic matter, and solid rock has no spaces for roots."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist finds a shiny, very hard material in the ground. It has no soil around it and does not look like a rock made of many minerals. It is one single material. What is it most likely to be?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soil",
+          "correct": false,
+          "explanation": "Soil is loose and crumbly, not hard and shiny. It is a mixture, not a single material."
+        },
+        {
+          "id": "b",
+          "label": "A gas",
+          "correct": false,
+          "explanation": "Gases have no fixed shape and are not solid or shiny. The material described is solid."
+        },
+        {
+          "id": "c",
+          "label": "A mineral",
+          "correct": true,
+          "explanation": "Minerals are single, solid, natural materials with specific physical properties like hardness and luster. A shiny, very hard, single material found in the ground is most likely a mineral."
+        },
+        {
+          "id": "d",
+          "label": "A rock",
+          "correct": false,
+          "explanation": "Rocks are usually made of two or more minerals. The scientist said it looks like one single material \u2014 that points to a mineral, not a rock."
+        }
+      ],
+      "explanation_md": "**Minerals** are natural, solid materials made of one kind of substance. They often appear shiny (high luster), can be very hard, and are found in the ground. Because the material is a single substance (not a mixture of minerals like a rock), it is most likely a **mineral**."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list includes ONLY Earth materials?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rock, soil, plastic bag",
+          "correct": false,
+          "explanation": "A plastic bag is a manufactured item, not an Earth material."
+        },
+        {
+          "id": "b",
+          "label": "Water, rock, air",
+          "correct": true,
+          "explanation": "Water, rock, and air are all natural Earth materials found on or in the Earth."
+        },
+        {
+          "id": "c",
+          "label": "Soil, glass, mineral",
+          "correct": false,
+          "explanation": "Glass is manufactured from sand \u2014 it is not an Earth material in its processed form."
+        },
+        {
+          "id": "d",
+          "label": "Air, metal can, water",
+          "correct": false,
+          "explanation": "A metal can is manufactured \u2014 it is made by people, not found in nature."
+        }
+      ],
+      "explanation_md": "Earth materials are natural materials found on Earth: rocks, minerals, soil, water, and atmospheric gases (air). Water, rock, and air are all natural Earth materials."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Leon scratches two rocks together. Rock X scratches Rock Y, but Rock Y does not scratch Rock X. What does this tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rock X has a lighter color than Rock Y.",
+          "correct": false,
+          "explanation": "Scratching tests hardness, not color. Color and hardness are different physical properties."
+        },
+        {
+          "id": "b",
+          "label": "Rock X is harder than Rock Y.",
+          "correct": true,
+          "explanation": "When a material scratches another, it means the scratcher is harder. Rock X scratched Rock Y, so Rock X is harder."
+        },
+        {
+          "id": "c",
+          "label": "Rock Y is rougher than Rock X.",
+          "correct": false,
+          "explanation": "Roughness is texture. A scratch test measures hardness, not texture."
+        },
+        {
+          "id": "d",
+          "label": "Both rocks are the same hardness.",
+          "correct": false,
+          "explanation": "If they were the same hardness, neither would scratch the other \u2014 or both would scratch each other equally. Rock X clearly scratches Rock Y but not vice versa."
+        }
+      ],
+      "explanation_md": "When one rock scratches another, the rock doing the scratching is **harder**. Since Rock X scratched Rock Y but not the reverse, Rock X is harder than Rock Y. This is how scientists compare the hardness of rocks and minerals."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is the atmosphere important for living things on Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The atmosphere provides rocks for animals to live under.",
+          "correct": false,
+          "explanation": "Rocks come from Earth's crust, not the atmosphere. The atmosphere is made of gases, not rocks."
+        },
+        {
+          "id": "b",
+          "label": "The atmosphere contains oxygen that animals breathe and carbon dioxide that plants use.",
+          "correct": true,
+          "explanation": "The atmosphere provides oxygen for animals to breathe and carbon dioxide that plants need to make food \u2014 both essential for life."
+        },
+        {
+          "id": "c",
+          "label": "The atmosphere is made of water that living things drink.",
+          "correct": false,
+          "explanation": "While the atmosphere does contain water vapor, it is mainly made of nitrogen and oxygen gases, not liquid water. We drink water from the ground or rain, not directly from the atmosphere."
+        },
+        {
+          "id": "d",
+          "label": "The atmosphere gives soil its nutrients.",
+          "correct": false,
+          "explanation": "Soil gets its nutrients from decomposed organic matter and minerals in rock, not from the atmosphere."
+        }
+      ],
+      "explanation_md": "The atmosphere contains **oxygen**, which animals (including humans) need to breathe, and **carbon dioxide**, which plants need to make food through photosynthesis. This makes the atmosphere essential for life on Earth."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these can you find in nature outside?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A plastic bottle",
+          "correct": false,
+          "explanation": "Plastic bottles are made by people in factories \u2014 they are not natural Earth materials."
+        },
+        {
+          "id": "b",
+          "label": "A rock",
+          "correct": true,
+          "explanation": "Rocks are natural materials found in nature \u2014 you can find them outside on the ground."
+        },
+        {
+          "id": "c",
+          "label": "A toy car",
+          "correct": false,
+          "explanation": "Toy cars are made by people, not found in nature."
+        },
+        {
+          "id": "d",
+          "label": "A glass cup",
+          "correct": false,
+          "explanation": "Glass cups are made by people \u2014 they are not Earth materials."
+        }
+      ],
+      "explanation_md": "Rocks are Earth materials found naturally. The other options are all made by people."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do we call the layer of gases that surrounds Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soil",
+          "correct": false,
+          "explanation": "Soil is the material on the ground. The layer of gases around Earth has a different name."
+        },
+        {
+          "id": "b",
+          "label": "Atmosphere",
+          "correct": true,
+          "explanation": "The atmosphere is the layer of gases (mostly nitrogen and oxygen) that surrounds Earth."
+        },
+        {
+          "id": "c",
+          "label": "Ocean",
+          "correct": false,
+          "explanation": "An ocean is a large body of water, not the layer of gases around Earth."
+        },
+        {
+          "id": "d",
+          "label": "Mineral",
+          "correct": false,
+          "explanation": "A mineral is a solid Earth material, not a layer of gas."
+        }
+      ],
+      "explanation_md": "The **atmosphere** is the name for the layer of air (gases) that surrounds Earth. It contains nitrogen, oxygen, and other gases."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means how rough or smooth something feels?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color",
+          "correct": false,
+          "explanation": "Color describes the hue of something, like red or blue, not how it feels."
+        },
+        {
+          "id": "b",
+          "label": "Luster",
+          "correct": false,
+          "explanation": "Luster describes how shiny or dull something looks, not how it feels."
+        },
+        {
+          "id": "c",
+          "label": "Texture",
+          "correct": true,
+          "explanation": "Texture describes how rough or smooth something feels when you touch it."
+        },
+        {
+          "id": "d",
+          "label": "Hardness",
+          "correct": false,
+          "explanation": "Hardness describes how hard it is to scratch something, not whether it is rough or smooth."
+        }
+      ],
+      "explanation_md": "**Texture** tells us how a surface feels \u2014 rough, smooth, bumpy, or scratchy. You can check texture by touching the material."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Plants grow best in \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pure rock with no spaces",
+          "correct": false,
+          "explanation": "Pure rock is too hard for plant roots to grow through, and it has no nutrients or water for plants."
+        },
+        {
+          "id": "b",
+          "label": "Soil",
+          "correct": true,
+          "explanation": "Soil has nutrients, water, and air spaces that plants need to grow."
+        },
+        {
+          "id": "c",
+          "label": "Salty ocean water",
+          "correct": false,
+          "explanation": "Most plants cannot grow in salty ocean water \u2014 the salt draws water out of their roots."
+        },
+        {
+          "id": "d",
+          "label": "Just air, with no other material",
+          "correct": false,
+          "explanation": "Plants need soil or a material to anchor their roots and get nutrients from."
+        }
+      ],
+      "explanation_md": "Plants grow best in **soil** because soil has nutrients, water, and air spaces that roots need."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Ice, liquid water, and water vapor (steam) are all forms of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rock",
+          "correct": false,
+          "explanation": "Ice, liquid water, and steam are all water \u2014 not rock."
+        },
+        {
+          "id": "b",
+          "label": "Soil",
+          "correct": false,
+          "explanation": "None of these are soil. Soil is a mixture of rock bits, organic matter, water, and air."
+        },
+        {
+          "id": "c",
+          "label": "Water",
+          "correct": true,
+          "explanation": "Water can be solid (ice), liquid (water), or gas (water vapor/steam). They are all water in different states."
+        },
+        {
+          "id": "d",
+          "label": "Mineral",
+          "correct": false,
+          "explanation": "Minerals are solid Earth materials. Water in its liquid form is not a mineral."
+        }
+      ],
+      "explanation_md": "**Water** can exist as a solid (ice), liquid (liquid water), or gas (water vapor or steam). All three are forms of the same Earth material."
+    }
+  ]
+}
