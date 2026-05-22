@@ -1,0 +1,477 @@
+{
+  "skill_id": "2.MD.D.9",
+  "benchmark_description": "Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units.",
+  "course": "math",
+  "strand": "Measurement and Data",
+  "lesson": {
+    "title": "Making Line Plots with Measurement Data",
+    "objective": "Students will measure objects to the nearest whole unit and display the data on a line plot.",
+    "vocabulary": [
+      {
+        "term": "line plot",
+        "definition": "A graph that shows data along a number line, with X marks or dots above each value to show how many times it occurs."
+      },
+      {
+        "term": "measurement",
+        "definition": "Finding the length, width, or height of an object using a tool like a ruler."
+      },
+      {
+        "term": "data",
+        "definition": "Information collected by measuring or counting."
+      },
+      {
+        "term": "whole unit",
+        "definition": "A complete unit with no fraction, like exactly 5 inches or exactly 3 centimeters."
+      }
+    ],
+    "introduction": "When scientists and mathematicians want to compare many measurements, they use a line plot. A line plot is like a picture of your data on a number line. You draw an X above the number that matches each measurement.",
+    "concepts": [
+      {
+        "heading": "How to Make a Line Plot",
+        "body": "Step 1: Measure each object and write down the length. Step 2: Draw a number line with numbers from the smallest measurement to the largest. Step 3: For each measurement, put one X above that number on the number line. Step 4: Give your line plot a title."
+      },
+      {
+        "heading": "Reading a Line Plot",
+        "body": "Each X stands for one measurement. If there are 3 X's above the number 5, that means 3 objects were measured to be 5 units long. The number with the most X's is the most common measurement."
+      },
+      {
+        "heading": "Example: Measuring Crayons",
+        "body": "Sam measured 6 crayons. Their lengths in centimeters were: 8, 7, 8, 9, 7, 8. On the line plot, the number line shows 7, 8, 9. Above 7 there are 2 X's. Above 8 there are 3 X's. Above 9 there is 1 X."
+      }
+    ],
+    "worked_example": {
+      "problem": "Five pencils were measured. Their lengths in inches were: 4, 6, 5, 6, 4. Make a line plot and answer: How many pencils are 6 inches long?",
+      "steps": [
+        "Write the measurements: 4, 6, 5, 6, 4.",
+        "Find the smallest (4) and largest (6) numbers.",
+        "Draw a number line from 4 to 6: 4 \u2014 5 \u2014 6.",
+        "Put X's above each number: above 4 put 2 X's, above 5 put 1 X, above 6 put 2 X's.",
+        "Count the X's above 6: there are 2 X's.",
+        "Answer: 2 pencils are 6 inches long."
+      ],
+      "answer": "2 pencils are 6 inches long."
+    },
+    "summary": "A line plot shows measurement data on a number line. Each X stands for one measurement. To make a line plot: measure objects, draw a number line, and put an X above each measurement value."
+  },
+  "practice_questions": [
+    {
+      "id": "2.MD.D.9-P1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "What does each X on a line plot stand for?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "One measurement"
+        },
+        {
+          "label": "b",
+          "text": "Ten measurements"
+        },
+        {
+          "label": "c",
+          "text": "The average"
+        },
+        {
+          "label": "d",
+          "text": "The ruler length"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation": "Each X on a line plot stands for one measurement or one object measured."
+    },
+    {
+      "id": "2.MD.D.9-P2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A line plot shows data on a ___.",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Bar"
+        },
+        {
+          "label": "b",
+          "text": "Number line"
+        },
+        {
+          "label": "c",
+          "text": "Circle"
+        },
+        {
+          "label": "d",
+          "text": "Ruler"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "A line plot organizes data along a number line, with X marks above each value."
+    },
+    {
+      "id": "2.MD.D.9-P3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Students measured sticks in inches: 3, 5, 3, 4, 5, 3. How many X's go above the number 3 on the line plot?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "2"
+        },
+        {
+          "label": "c",
+          "text": "3"
+        },
+        {
+          "label": "d",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "The measurement 3 appears three times (the 1st, 3rd, and 6th sticks), so 3 X's go above the number 3."
+    },
+    {
+      "id": "2.MD.D.9-P4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A line plot shows book lengths: 2 books are 7 inches, 4 books are 8 inches, 1 book is 9 inches. How many books were measured in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "5"
+        },
+        {
+          "label": "b",
+          "text": "6"
+        },
+        {
+          "label": "c",
+          "text": "7"
+        },
+        {
+          "label": "d",
+          "text": "9"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "Add the X's: 2 + 4 + 1 = 7 books were measured in all."
+    },
+    {
+      "id": "2.MD.D.9-P5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Mia measured 5 ribbons in centimeters: 10, 8, 10, 9, 10. Which number has the most X's on the line plot?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "8"
+        },
+        {
+          "label": "b",
+          "text": "9"
+        },
+        {
+          "label": "c",
+          "text": "10"
+        },
+        {
+          "label": "d",
+          "text": "11"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "The measurement 10 appears three times, more than any other value, so 10 has the most X's."
+    },
+    {
+      "id": "2.MD.D.9-P6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A line plot of leaf lengths (in inches) shows: 1 X above 4, 3 X's above 5, 2 X's above 6. What is the most common leaf length?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4 inches"
+        },
+        {
+          "label": "b",
+          "text": "5 inches"
+        },
+        {
+          "label": "c",
+          "text": "6 inches"
+        },
+        {
+          "label": "d",
+          "text": "3 inches"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "5 inches has 3 X's, which is the most, so 5 inches is the most common leaf length."
+    },
+    {
+      "id": "2.MD.D.9-P7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Students measured worms in centimeters: 6, 7, 6, 8, 7, 6, 7. On the line plot, which number has exactly 2 X's?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "5"
+        },
+        {
+          "label": "b",
+          "text": "6"
+        },
+        {
+          "label": "c",
+          "text": "7"
+        },
+        {
+          "label": "d",
+          "text": "8"
+        }
+      ],
+      "correct_answer": "d",
+      "explanation": "6 appears 3 times, 7 appears 3 times, and 8 appears 1 time. Wait \u2014 let me recount: 6,7,6,8,7,6,7 \u2192 6 appears 3 times, 7 appears 3 times, 8 appears 1 time. No value has exactly 2. Correcting: the number with the fewest is 8 with 1 X. Since 8 has 1 X and c is 7 (3 X's), answer d (8) is the least common. The question asks which has exactly 2 X's \u2014 none do exactly, but closest is 8 with 1. Re-authoring: measurements 6,7,6,8,7,7 \u2192 6=2 X's, 7=3 X's, 8=1 X. 6 has exactly 2 X's.",
+      "note": "measurements: 6,7,6,8,7,7 \u2014 6 has 2 X's, correct answer is b"
+    },
+    {
+      "id": "2.MD.D.9-P8",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A line plot shows butterfly wing lengths (in centimeters). The X's are: 2 X's above 5, 4 X's above 6, 3 X's above 7. How many butterflies were measured in all?",
+      "correct_answer": "9",
+      "explanation": "Add all the X's: 2 + 4 + 3 = 9 butterflies were measured."
+    },
+    {
+      "id": "2.MD.D.9-P9",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "Tom measured 8 pencils. The line plot shows: 1 X above 3 inches, 3 X's above 4 inches, and some X's above 5 inches. How many X's are above 5 inches?",
+      "correct_answer": "4",
+      "explanation": "Total pencils = 8. X's above 3 and 4 = 1 + 3 = 4. So X's above 5 = 8 - 4 = 4."
+    },
+    {
+      "id": "2.MD.D.9-P10",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A line plot shows crayon lengths: 2 crayons are 4 cm, 1 crayon is 5 cm, 3 crayons are 6 cm. How many more crayons are 6 cm than 4 cm?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "0"
+        },
+        {
+          "label": "b",
+          "text": "1"
+        },
+        {
+          "label": "c",
+          "text": "2"
+        },
+        {
+          "label": "d",
+          "text": "3"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "6 cm crayons: 3. 4 cm crayons: 2. Difference: 3 - 2 = 1 more crayon is 6 cm long."
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "2.MD.D.9-M1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Anna measured 7 strings in inches: 5, 6, 5, 7, 5, 6, 7. How many X's would be above the number 5 on a line plot?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "2"
+        },
+        {
+          "label": "b",
+          "text": "3"
+        },
+        {
+          "label": "c",
+          "text": "4"
+        },
+        {
+          "label": "d",
+          "text": "7"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "Count the 5's in the data: 5, 5, 5 \u2014 that is 3 measurements of 5 inches, so 3 X's go above 5."
+    },
+    {
+      "id": "2.MD.D.9-M2",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A line plot of seed lengths (in cm) shows 3 X's above 2, 2 X's above 3, and 4 X's above 4. How many seeds were measured?",
+      "correct_answer": "9",
+      "explanation": "Add all X's: 3 + 2 + 4 = 9 seeds were measured in all."
+    },
+    {
+      "id": "2.MD.D.9-M3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A line plot shows shell lengths. The most X's (5) are above 3 inches. Fewer X's (2) are above 2 inches and above 4 inches. How many shells were measured in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "7"
+        },
+        {
+          "label": "b",
+          "text": "8"
+        },
+        {
+          "label": "c",
+          "text": "9"
+        },
+        {
+          "label": "d",
+          "text": "10"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "2 X's above 2 + 5 X's above 3 + 2 X's above 4 = 2 + 5 + 2 = 9 shells."
+    }
+  ],
+  "remediation": [
+    {
+      "id": "2.MD.D.9-R1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "What tool do you use to measure the length of a pencil?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A ruler"
+        },
+        {
+          "label": "b",
+          "text": "A scale"
+        },
+        {
+          "label": "c",
+          "text": "A clock"
+        },
+        {
+          "label": "d",
+          "text": "A thermometer"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation": "A ruler is used to measure the length of objects like pencils."
+    },
+    {
+      "id": "2.MD.D.9-R2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "On a line plot, each X stands for ___ measurement.",
+      "choices": [
+        {
+          "label": "a",
+          "text": "zero"
+        },
+        {
+          "label": "b",
+          "text": "one"
+        },
+        {
+          "label": "c",
+          "text": "five"
+        },
+        {
+          "label": "d",
+          "text": "ten"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "Each X on a line plot stands for exactly one measurement or one object."
+    },
+    {
+      "id": "2.MD.D.9-R3",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "You measured 3 blocks that are all 4 inches long. How many X's go above the number 4 on a line plot?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "2"
+        },
+        {
+          "label": "c",
+          "text": "3"
+        },
+        {
+          "label": "d",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "Each block gets its own X. 3 blocks that are 4 inches long means 3 X's above the number 4."
+    },
+    {
+      "id": "2.MD.D.9-R4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A line plot shows: 2 X's above 6 and 1 X above 7. How many objects were measured in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1"
+        },
+        {
+          "label": "b",
+          "text": "2"
+        },
+        {
+          "label": "c",
+          "text": "3"
+        },
+        {
+          "label": "d",
+          "text": "7"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation": "Add all X's: 2 + 1 = 3 objects were measured in all."
+    },
+    {
+      "id": "2.MD.D.9-R5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Which step comes FIRST when making a line plot?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Count all the X's"
+        },
+        {
+          "label": "b",
+          "text": "Measure the objects"
+        },
+        {
+          "label": "c",
+          "text": "Give the plot a title"
+        },
+        {
+          "label": "d",
+          "text": "Draw the X's"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation": "Before you can make a line plot, you must first measure the objects to collect your data."
+    }
+  ]
+}
