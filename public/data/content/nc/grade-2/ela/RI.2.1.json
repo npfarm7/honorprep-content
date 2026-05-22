@@ -1,0 +1,253 @@
+{
+  "skill_id": "RI.2.1",
+  "benchmark_description": "Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in an informational text.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "Finding Key Details in Informational Text",
+    "intro": "When you read books about real things like animals, weather, or history, you can ask questions to find the most important information. Using who, what, where, when, why, and how helps you understand nonfiction texts!",
+    "body_md": "## Informational Text vs. Stories\n\n**Informational text** (also called nonfiction) gives you facts about real things in the world. This is different from a story, which is made up.\n\nExamples of informational text:\n- A book about penguins\n- An article about volcanoes\n- A page about the history of pizza\n\n## The Six Key Questions\n\nJust like with stories, you can use six questions to understand informational text:\n\n| Question | What It Finds |\n|---|---|\n| **Who** | People or animals the text is about |\n| **What** | The main facts or actions described |\n| **Where** | The place described in the text |\n| **When** | When something happened or happens |\n| **Why** | The reason something happens |\n| **How** | The way something works or is done |\n\n## Finding Answers in the Text\n\nIn informational text, most answers are right there in the words. Look for:\n- **Bold or highlighted words** — these are usually important\n- **Headings** — they tell you what that section is about\n- **Numbers and dates** — they often answer WHEN or HOW MANY\n- **Signal words** — because (why), by (how), so that (why), during (when)\n\n## Reading Closely\n\nWhen a question is hard to answer, go back and reread that part of the text. The answer is almost always there.",
+    "worked_example_md": "## Worked Example\n\nRead this informational passage:\n\n> Monarch butterflies travel thousands of miles each fall. They fly from Canada and the United States all the way to forests in central Mexico. They make this journey because the cold winter weather in the north would kill them. In spring, they fly back north again.\n\n**Question:** Why do monarch butterflies travel south in the fall?\n\n**Step 1:** The question asks WHY.\n\n**Step 2:** Look for the reason in the text. Signal word: 'because.'\n\n**Step 3:** Find the sentence: 'They make this journey because the cold winter weather in the north would kill them.'\n\n**Answer:** Monarch butterflies travel south because the cold winter in the north would kill them. They go south to survive.\n\nThe word 'because' in the text was the clue that the reason was nearby.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Penguins are birds, but they cannot fly. They use their wings like flippers to swim very fast underwater. Most penguins live in Antarctica, which is one of the coldest places on Earth.\n\n**Where** do most penguins live?",
+      "choices": [
+        {"id": "a", "label": "In the Arctic", "correct": false, "explanation": "The Arctic and Antarctica are different places. Penguins live in Antarctica, in the south."},
+        {"id": "b", "label": "In Antarctica", "correct": true, "explanation": "The passage says 'Most penguins live in Antarctica,' so the answer is Antarctica."},
+        {"id": "c", "label": "In the ocean", "correct": false, "explanation": "Penguins swim in the ocean but live in Antarctica. The passage gives Antarctica as the location."},
+        {"id": "d", "label": "In rainforests", "correct": false, "explanation": "The passage says Antarctica, which is cold, not a warm rainforest."}
+      ],
+      "explanation_md": "The passage says 'Most penguins live in Antarctica.' That answers the WHERE question."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Penguins are birds, but they cannot fly. They use their wings like flippers to swim very fast underwater. Most penguins live in Antarctica, which is one of the coldest places on Earth.\n\n**How** do penguins use their wings?",
+      "choices": [
+        {"id": "a", "label": "To fly through the air", "correct": false, "explanation": "The passage says penguins cannot fly. Their wings are used for something else."},
+        {"id": "b", "label": "Like flippers to swim", "correct": true, "explanation": "The passage says penguins 'use their wings like flippers to swim very fast underwater.'"},
+        {"id": "c", "label": "To keep themselves warm", "correct": false, "explanation": "The passage does not say penguins use their wings for warmth."},
+        {"id": "d", "label": "To catch fish above water", "correct": false, "explanation": "The passage says they swim underwater. It does not say they catch fish above water with their wings."}
+      ],
+      "explanation_md": "The passage says penguins use their wings 'like flippers to swim very fast underwater.' That answers the HOW question."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Fire ants build large underground nests called mounds. A single mound can hold hundreds of thousands of ants. Fire ants work together to find food and protect their queen. They got their name because their sting feels like a burn.\n\n**Why** are they called fire ants?",
+      "choices": [
+        {"id": "a", "label": "Because they live near fires", "correct": false, "explanation": "Fire ants do not live near fires. The passage explains a different reason for their name."},
+        {"id": "b", "label": "Because their sting feels like a burn", "correct": true, "explanation": "The passage says 'They got their name because their sting feels like a burn.' That is the reason for the name 'fire ants.'"},
+        {"id": "c", "label": "Because they are red like fire", "correct": false, "explanation": "The passage does not say their color is the reason for their name. The reason is the burning feeling of their sting."},
+        {"id": "d", "label": "Because they protect the queen", "correct": false, "explanation": "Protecting the queen is something fire ants do, but it is not the reason they are called 'fire ants.'"}
+      ],
+      "explanation_md": "The passage says fire ants 'got their name because their sting feels like a burn.' The word 'because' signals the reason."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Rosa Parks was a woman who helped change unfair laws in the United States. On December 1, 1955, she refused to give up her seat on a bus in Montgomery, Alabama. Her brave act helped start the Civil Rights Movement.\n\n**When** did Rosa Parks refuse to give up her seat?",
+      "choices": [
+        {"id": "a", "label": "December 1, 1965", "correct": false, "explanation": "The year is wrong. The passage says 1955, not 1965."},
+        {"id": "b", "label": "December 1, 1955", "correct": true, "explanation": "The passage says 'On December 1, 1955, she refused to give up her seat.' That is the WHEN."},
+        {"id": "c", "label": "November 1, 1955", "correct": false, "explanation": "The passage says December, not November."},
+        {"id": "d", "label": "The passage does not say when it happened.", "correct": false, "explanation": "The passage clearly gives the date: December 1, 1955."}
+      ],
+      "explanation_md": "The passage gives the exact date: 'On December 1, 1955.' That answers the WHEN question."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Bees play an important role in growing our food. As they fly from flower to flower collecting nectar, they carry pollen on their bodies. This pollen is left on other flowers, which helps the plants make seeds and fruit. Without bees, many of the fruits and vegetables we eat would not grow.\n\n**How** do bees help plants grow fruit?",
+      "choices": [
+        {"id": "a", "label": "By watering the plants with nectar", "correct": false, "explanation": "Bees collect nectar for themselves, but they do not water plants with it. The passage describes a different process."},
+        {"id": "b", "label": "By carrying pollen from flower to flower, which helps plants make seeds and fruit", "correct": true, "explanation": "The passage explains that bees carry pollen on their bodies and leave it on other flowers. This helps plants make seeds and fruit."},
+        {"id": "c", "label": "By eating insects that would destroy the plants", "correct": false, "explanation": "The passage does not say bees eat insects. Bees carry pollen."},
+        {"id": "d", "label": "By making honey that feeds the plants", "correct": false, "explanation": "Bees make honey, but the passage does not say honey feeds plants. The key process is pollen transfer."}
+      ],
+      "explanation_md": "The passage explains that bees carry pollen from flower to flower, and this pollen helps plants make seeds and fruit. That is HOW bees help plants grow fruit."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The Great Wall of China is one of the longest structures ever built. Workers began building it more than 2,000 years ago. The wall stretches across northern China and was built to protect China from enemies in the north.\n\n**Why** was the Great Wall built?",
+      "choices": [
+        {"id": "a", "label": "To hold the country together in the center", "correct": false, "explanation": "The passage says the wall was built to protect from enemies, not to hold the country together."},
+        {"id": "b", "label": "To give workers jobs", "correct": false, "explanation": "The passage does not say the wall was built to provide jobs. The reason given is protection from enemies."},
+        {"id": "c", "label": "To protect China from enemies in the north", "correct": true, "explanation": "The passage says the wall 'was built to protect China from enemies in the north.' That is the WHY."},
+        {"id": "d", "label": "To mark the border between China and Russia", "correct": false, "explanation": "The passage says the wall was built to protect against enemies, not specifically to mark a border with Russia."}
+      ],
+      "explanation_md": "The passage says the Great Wall 'was built to protect China from enemies in the north.' That is the reason it was built."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Chameleons are lizards that can change the color of their skin. They change color to communicate with other chameleons, to warm up or cool down, and sometimes to blend in with their surroundings. Chameleons have eyes that can move in different directions at the same time.\n\nAccording to the passage, **what** are THREE reasons chameleons change color?",
+      "choices": [
+        {"id": "a", "label": "To find food, to sleep, and to breathe", "correct": false, "explanation": "The passage does not say chameleons change color to find food, sleep, or breathe."},
+        {"id": "b", "label": "To communicate, to control body temperature, and to blend in", "correct": true, "explanation": "The passage lists these three reasons: 'to communicate with other chameleons, to warm up or cool down, and sometimes to blend in with their surroundings.'"},
+        {"id": "c", "label": "To scare predators, to swim, and to find mates", "correct": false, "explanation": "The passage does not list scaring predators, swimming, or finding mates as the reasons for color change."},
+        {"id": "d", "label": "Just to blend in with surroundings", "correct": false, "explanation": "Blending in is one reason, but the passage gives two other reasons as well: communication and controlling body temperature."}
+      ],
+      "explanation_md": "The passage states three reasons: to communicate with other chameleons, to warm up or cool down, and to blend in with surroundings. All three are in the text."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Rainforests cover only about 6% of Earth's surface, yet they are home to more than half of all plant and animal species on the planet. They are found near the equator where it is warm and rainy year-round. Scientists believe rainforests play a crucial role in keeping Earth's air clean because rainforest plants absorb large amounts of carbon dioxide.\n\nAccording to this passage, **why** do scientists believe rainforests are important for Earth's air?",
+      "choices": [
+        {"id": "a", "label": "Because rainforests cover 6% of Earth's surface, which is enough to filter air", "correct": false, "explanation": "The passage does not say 6% is the reason rainforests help the air. The reason is that rainforest plants absorb carbon dioxide."},
+        {"id": "b", "label": "Because rainforest plants absorb large amounts of carbon dioxide", "correct": true, "explanation": "The passage says scientists believe rainforests 'play a crucial role in keeping Earth's air clean because rainforest plants absorb large amounts of carbon dioxide.'"},
+        {"id": "c", "label": "Because rainforests are found near the equator", "correct": false, "explanation": "Being near the equator tells us WHERE rainforests are. It does not explain WHY they help clean the air."},
+        {"id": "d", "label": "Because rainforests have more than half of all species", "correct": false, "explanation": "The large number of species is a fact about biodiversity, not the reason rainforests help clean Earth's air."}
+      ],
+      "explanation_md": "The passage uses the word 'because' to explain: rainforests keep air clean 'because rainforest plants absorb large amounts of carbon dioxide.' That is the WHY."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Ben Franklin is remembered as one of America's founders, but he was also a great inventor and scientist. In 1752, he flew a kite in a thunderstorm to prove that lightning is electricity. He invented the lightning rod, which protects buildings from lightning strikes by directing electricity safely into the ground.\n\n**How** does a lightning rod protect buildings?",
+      "choices": [
+        {"id": "a", "label": "By attracting lightning away from the neighborhood", "correct": false, "explanation": "The passage does not say the lightning rod attracts lightning away from the neighborhood. It protects the building it is on."},
+        {"id": "b", "label": "By directing electricity safely into the ground", "correct": true, "explanation": "The passage says a lightning rod 'protects buildings from lightning strikes by directing electricity safely into the ground.' That is HOW it works."},
+        {"id": "c", "label": "By producing electricity to power the building", "correct": false, "explanation": "A lightning rod directs electricity away from the building into the ground. It does not produce electricity for the building."},
+        {"id": "d", "label": "By blocking storms from hitting the building", "correct": false, "explanation": "A lightning rod does not block storms. It safely channels lightning if it does strike."}
+      ],
+      "explanation_md": "The passage says the lightning rod works 'by directing electricity safely into the ground.' That answers HOW it protects buildings."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Tidal pools are small pools of seawater left behind when the ocean tide goes out. They are found in rocky coastal areas around the world. These pools are home to many tough creatures, including starfish, sea anemones, crabs, and snails. Life in a tidal pool is hard because temperatures and salt levels change rapidly as the sun heats the water and as waves crash in and out.\n\nAccording to the passage, **why** is life in a tidal pool difficult for the creatures that live there?",
+      "choices": [
+        {"id": "a", "label": "Because the pools are very deep and dark", "correct": false, "explanation": "The passage does not say tidal pools are deep or dark. The difficulties described are temperature and salt level changes."},
+        {"id": "b", "label": "Because predators from the ocean constantly attack tidal pool creatures", "correct": false, "explanation": "The passage does not mention ocean predators attacking tidal pool creatures. It focuses on environmental conditions."},
+        {"id": "c", "label": "Because temperatures and salt levels change rapidly", "correct": true, "explanation": "The passage says 'Life in a tidal pool is hard because temperatures and salt levels change rapidly.' The word 'because' signals the reason."},
+        {"id": "d", "label": "Because starfish eat all the other animals", "correct": false, "explanation": "The passage does not say starfish eat other tidal pool creatures. The challenge is the changing environmental conditions."}
+      ],
+      "explanation_md": "The passage says life in a tidal pool is hard 'because temperatures and salt levels change rapidly.' The word 'because' is the signal word that points to the reason."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Bats are the only mammals that can truly fly. Most bats are nocturnal, which means they are active at night. They use a special sense called echolocation to find food in the dark. Bats send out sounds and listen for the echoes that bounce back from objects. This helps them locate insects to eat.\n\n**How** do bats find food in the dark?",
+      "choices": [
+        {"id": "a", "label": "By using their excellent vision to see in the dark", "correct": false, "explanation": "The passage does not say bats use excellent vision. The passage describes echolocation as the method."},
+        {"id": "b", "label": "By using echolocation to send out sounds and listen for echoes", "correct": true, "explanation": "The passage says bats use echolocation by sending out sounds and listening for the echoes. This is HOW they find food."},
+        {"id": "c", "label": "By following other animals to their food", "correct": false, "explanation": "The passage describes echolocation, not following other animals."},
+        {"id": "d", "label": "By smelling insects from far away", "correct": false, "explanation": "The passage focuses on echolocation (sound), not smell, as the method bats use."}
+      ],
+      "explanation_md": "The passage explains that bats use echolocation by sending out sounds and listening for echoes that bounce back. This HOW answers how they locate food in the dark."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Bats are the only mammals that can truly fly. Most bats are nocturnal, which means they are active at night. They use a special sense called echolocation to find food in the dark. Bats send out sounds and listen for the echoes that bounce back from objects. This helps them locate insects to eat.\n\n**What** does 'nocturnal' mean in this passage?",
+      "choices": [
+        {"id": "a", "label": "Active during the day", "correct": false, "explanation": "Nocturnal means active at night, not during the day."},
+        {"id": "b", "label": "Active at night", "correct": true, "explanation": "The passage says 'nocturnal, which means they are active at night.' The text defines the word."},
+        {"id": "c", "label": "Able to fly", "correct": false, "explanation": "'Nocturnal' is about when bats are active. Ability to fly is a separate fact mentioned in the passage."},
+        {"id": "d", "label": "Uses echolocation", "correct": false, "explanation": "Echolocation is a different word and concept. Nocturnal means active at night."}
+      ],
+      "explanation_md": "The passage defines 'nocturnal' right after using it: 'which means they are active at night.' Look for definitions next to unfamiliar words in informational text."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Bats are the only mammals that can truly fly. Most bats are nocturnal, which means they are active at night. They use a special sense called echolocation to find food in the dark. Bats send out sounds and listen for the echoes that bounce back from objects. This helps them locate insects to eat.\n\nA student asks: 'Why are bats the only mammals that can truly fly?' Is the answer to this question **found in the passage**?",
+      "choices": [
+        {"id": "a", "label": "Yes, the passage explains why bats can fly when other mammals cannot.", "correct": false, "explanation": "The passage states that bats are the only flying mammals, but it does not explain the scientific reason why."},
+        {"id": "b", "label": "No, the passage only states this fact but does not explain why.", "correct": true, "explanation": "The passage says bats are 'the only mammals that can truly fly,' but it gives no reason or explanation for this. A reader would need to look elsewhere for that answer."},
+        {"id": "c", "label": "Yes, because the passage talks about echolocation, which is why bats fly.", "correct": false, "explanation": "Echolocation helps bats find food, not the reason bats can fly. And the passage does not explain why other mammals cannot fly."},
+        {"id": "d", "label": "Yes, the passage says bats fly because they are nocturnal.", "correct": false, "explanation": "Being nocturnal means being active at night. The passage does not connect nocturnal behavior to the ability to fly."}
+      ],
+      "explanation_md": "The passage states the fact that bats are the only flying mammals, but it does not explain why. A good reader knows the difference between a fact that is stated and an explanation that must be found elsewhere."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> Dolphins live in the ocean.\n\n**Where** do dolphins live?",
+      "choices": [
+        {"id": "a", "label": "In rivers", "correct": false, "explanation": "Some dolphins live in rivers, but this sentence says dolphins live in the ocean."},
+        {"id": "b", "label": "In the ocean", "correct": true, "explanation": "The sentence says 'Dolphins live in the ocean.'"},
+        {"id": "c", "label": "In trees", "correct": false, "explanation": "Dolphins are water animals, not tree animals."},
+        {"id": "d", "label": "On land", "correct": false, "explanation": "The sentence says dolphins live in the ocean, not on land."}
+      ],
+      "explanation_md": "The sentence clearly states that dolphins live in the ocean."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> Giraffes have long necks so they can reach leaves high in trees.\n\n**Why** do giraffes have long necks?",
+      "choices": [
+        {"id": "a", "label": "To swim in deep water", "correct": false, "explanation": "The sentence does not say giraffes swim. Long necks help them reach leaves in trees."},
+        {"id": "b", "label": "To reach leaves high in trees", "correct": true, "explanation": "The sentence says giraffes have long necks 'so they can reach leaves high in trees.' That is the reason."},
+        {"id": "c", "label": "To look pretty", "correct": false, "explanation": "The sentence gives a practical reason for long necks, not a beauty reason."},
+        {"id": "d", "label": "To scare other animals", "correct": false, "explanation": "The sentence says long necks help giraffes reach food, not scare other animals."}
+      ],
+      "explanation_md": "The sentence says giraffes have long necks 'so they can reach leaves high in trees.' The word 'so' signals the reason."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short passage below, then answer the question.\n\n> Neil Armstrong was the first person to walk on the moon. He landed there on July 20, 1969. He said, 'That's one small step for man, one giant leap for mankind.'\n\n**Who** was the first person to walk on the moon?",
+      "choices": [
+        {"id": "a", "label": "Buzz Aldrin", "correct": false, "explanation": "The passage says Neil Armstrong was the first. Buzz Aldrin was on the mission but is not named in this passage."},
+        {"id": "b", "label": "Neil Armstrong", "correct": true, "explanation": "The passage says 'Neil Armstrong was the first person to walk on the moon.'"},
+        {"id": "c", "label": "The passage does not say who walked on the moon first.", "correct": false, "explanation": "The very first sentence names Neil Armstrong as the first."},
+        {"id": "d", "label": "Ben Franklin", "correct": false, "explanation": "Ben Franklin was an inventor in the 1700s. The passage is about Neil Armstrong."}
+      ],
+      "explanation_md": "The passage starts with 'Neil Armstrong was the first person to walk on the moon.' That answers the WHO question."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short passage below, then answer the question.\n\n> Earthquakes happen when two large pieces of Earth's crust (called plates) move against each other. The shaking you feel is the energy released when the plates slip.\n\n**What** causes an earthquake?",
+      "choices": [
+        {"id": "a", "label": "Heavy rainstorms", "correct": false, "explanation": "Rainstorms do not cause earthquakes. The passage describes a geological cause."},
+        {"id": "b", "label": "Two plates in Earth's crust moving against each other", "correct": true, "explanation": "The passage says earthquakes happen 'when two large pieces of Earth's crust (called plates) move against each other.' That is the cause."},
+        {"id": "c", "label": "Strong winds blowing across the land", "correct": false, "explanation": "Wind does not cause earthquakes. The cause is movement of Earth's crust."},
+        {"id": "d", "label": "Volcanoes erupting underground", "correct": false, "explanation": "The passage does not mention volcanoes. Earthquakes are caused by plate movement."}
+      ],
+      "explanation_md": "The passage says earthquakes happen when two plates in Earth's crust 'move against each other.' That is the cause."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short passage below, then answer the question.\n\n> Caterpillars change into butterflies inside a case called a chrysalis. Inside the chrysalis, the caterpillar's body breaks down and rebuilds into a butterfly over several weeks.\n\n**How** does a caterpillar become a butterfly?",
+      "choices": [
+        {"id": "a", "label": "It grows wings overnight and flies away.", "correct": false, "explanation": "The process takes several weeks and involves a chrysalis. It does not happen overnight."},
+        {"id": "b", "label": "Inside a chrysalis, its body breaks down and rebuilds into a butterfly.", "correct": true, "explanation": "The passage says the caterpillar changes 'inside a case called a chrysalis' where its 'body breaks down and rebuilds into a butterfly.'"},
+        {"id": "c", "label": "It eats more food until it becomes very big and turns into a butterfly.", "correct": false, "explanation": "The passage describes a chrysalis transformation, not just eating more food."},
+        {"id": "d", "label": "It goes to sleep and wakes up as a butterfly.", "correct": false, "explanation": "While it might seem like sleep, the passage describes a physical transformation inside a chrysalis over weeks, not just sleeping."}
+      ],
+      "explanation_md": "The passage explains that a caterpillar's body changes inside a chrysalis, where it 'breaks down and rebuilds into a butterfly.' That is HOW the transformation happens."
+    }
+  ]
+}
