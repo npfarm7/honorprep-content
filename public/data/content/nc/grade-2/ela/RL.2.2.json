@@ -1,0 +1,613 @@
+{
+  "skill_id": "RL.2.2",
+  "benchmark_description": "Recount stories, including fables and folktales from diverse cultures, and determine their central message, lesson, or moral.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Finding the Lesson in a Story",
+    "intro": "Many stories teach us something important about life. When you read a fable or folktale, you can look for the central message, which is the big idea or lesson the author wants you to learn.",
+    "body_md": "## What Is a Central Message?\n\nA **central message** is the main idea or lesson in a story. It is sometimes called:\n- A **moral** (in fables)\n- A **lesson** (in folktales)\n- A **theme** (in longer stories)\n\nThe central message is not always stated right in the story. Sometimes you have to think about what happened and figure it out yourself.\n\n## How to Find the Central Message\n\n**Step 1: Recount the story.**\nTell the story in your own words. Cover the beginning, middle, and end.\n\n**Step 2: Think about what the characters learned.**\nAsk yourself: Did anyone make a mistake? Did anyone change? What happened because of what the characters did?\n\n**Step 3: State the lesson in a sentence.**\nStart with phrases like:\n- \"This story teaches us that...\"\n- \"The lesson is...\"\n- \"The moral of this story is...\"\n\n## Common Central Messages\n\n| Lesson | What It Means |\n|---|---|\n| Slow and steady wins the race | Working steadily is better than rushing |\n| Honesty is the best policy | Telling the truth is always better |\n| Treat others the way you want to be treated | Be kind because others will treat you the same way |\n| Do not judge by appearances | How something looks is not always the whole truth |\n\n## Fables, Folktales, and Diverse Cultures\n\nA **fable** is a short story, often with talking animals, that teaches a lesson.\nA **folktale** is a story passed down through generations in a culture.\n\nMany cultures around the world share stories with similar lessons, even if the characters and settings are different.",
+    "worked_example_md": "## Worked Example\n\nRead this fable:\n\n> A crow was very thirsty. She found a pitcher with a little water at the bottom, but her beak could not reach the water. Instead of giving up, she picked up small pebbles one by one and dropped them into the pitcher. Slowly, the water rose until she could drink.\n\n**Step 1: Recount the story.**\nA thirsty crow found a pitcher with water at the bottom but could not reach it. She dropped pebbles in one by one until the water rose enough for her to drink.\n\n**Step 2: Think about what happened.**\nThe crow did not give up. She thought of a smart idea and worked at it patiently.\n\n**Step 3: State the lesson.**\nThe central message is: **If you keep trying and use your brain, you can solve problems.**\n\nThis is sometimes said as: \"Necessity is the mother of invention\" (meaning that when you really need something, you find a way).",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable below, then answer the question.\n\n> A lion was sleeping when a tiny mouse ran across his nose. The lion caught the mouse and was about to eat him. The mouse begged for his life and promised to help the lion someday. The lion laughed but let him go. Later, the lion was caught in a hunter's net. The little mouse gnawed through the ropes and set him free.\n\nWhat is the **central message** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Lions are the strongest animals in the jungle.",
+          "correct": false,
+          "explanation": "The story is not mainly about who is strongest. A small mouse saved the big lion, which shows strength is not everything."
+        },
+        {
+          "id": "b",
+          "label": "Even small friends can be a great help.",
+          "correct": true,
+          "explanation": "The mouse was tiny but saved the lion's life. The story teaches that small or weak-looking friends can still help you in important ways."
+        },
+        {
+          "id": "c",
+          "label": "It is fun to sleep in the sun.",
+          "correct": false,
+          "explanation": "The lion was sleeping at the start, but sleeping is not the lesson of the story."
+        },
+        {
+          "id": "d",
+          "label": "Hunters should not set traps.",
+          "correct": false,
+          "explanation": "The hunter is part of the story, but the main lesson is about friendship and helping others."
+        }
+      ],
+      "explanation_md": "The tiny mouse saved the mighty lion. The story teaches us that even small friends can be very helpful. That is the central message."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable below, then answer the question.\n\n> A dog was carrying a bone across a bridge over a stream. He looked down and saw his reflection in the water. He thought he saw another dog with a bigger bone. He snapped at the reflection to get the bigger bone. When he did, he dropped his real bone into the water and lost it.\n\nWhich sentence best states the **moral** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Do not walk across bridges.",
+          "correct": false,
+          "explanation": "The bridge is just part of the setting. The lesson is about the dog's greedy behavior, not about bridges."
+        },
+        {
+          "id": "b",
+          "label": "Dogs are smarter than they look.",
+          "correct": false,
+          "explanation": "The story shows the dog was not smart. He lost his real bone because of greed."
+        },
+        {
+          "id": "c",
+          "label": "Be happy with what you have.",
+          "correct": true,
+          "explanation": "The dog already had a bone but wanted more, and he ended up with nothing. The moral is to be grateful for what you have instead of being greedy."
+        },
+        {
+          "id": "d",
+          "label": "Always look before you cross the street.",
+          "correct": false,
+          "explanation": "This is a safety rule, not the lesson of this fable."
+        }
+      ],
+      "explanation_md": "The dog lost his bone because he was greedy and wanted more. The moral is: be happy with what you have, or greed can cost you everything."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the folktale summary below, then answer the question.\n\n> In a village, a poor farmer found a magic pot. Whatever he put into the pot doubled. He put in coins and got twice as many. He put in food and got twice as much. He was happy and shared with his neighbors. But one greedy neighbor stole the pot and put himself inside it to get two of himself. Instead, the two greedy men fought each other and broke the pot.\n\nWhat lesson does this folktale teach?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Magic pots are dangerous for everyone.",
+          "correct": false,
+          "explanation": "The pot was helpful to the kind farmer. The problem was the neighbor's greed, not the pot itself."
+        },
+        {
+          "id": "b",
+          "label": "Sharing and kindness bring happiness, but greed leads to loss.",
+          "correct": true,
+          "explanation": "The kind farmer shared with neighbors and prospered. The greedy neighbor tried to take more and ended up with nothing. The story contrasts these two outcomes."
+        },
+        {
+          "id": "c",
+          "label": "It is smart to always want more.",
+          "correct": false,
+          "explanation": "The story shows the opposite. The greedy neighbor wanted more and lost everything. The story does not encourage wanting more."
+        },
+        {
+          "id": "d",
+          "label": "Neighbors should never speak to each other.",
+          "correct": false,
+          "explanation": "The story does not teach this. The kind farmer had good relationships with neighbors."
+        }
+      ],
+      "explanation_md": "The kind farmer shared and was happy. The greedy neighbor tried to take more and broke the pot. The lesson is that kindness and sharing bring good things, while greed leads to loss."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable below, then answer the question.\n\n> A grasshopper spent the whole summer singing and playing. The ant worked all summer gathering food. When winter came, the grasshopper had nothing to eat and begged the ant for food. The ant said, 'You sang all summer. Now you can dance all winter.'\n\nHow would you **recount** the beginning of this story?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A grasshopper and an ant both worked hard all summer long.",
+          "correct": false,
+          "explanation": "Only the ant worked hard. The grasshopper spent the summer playing and singing."
+        },
+        {
+          "id": "b",
+          "label": "A grasshopper played all summer while an ant stored food for winter.",
+          "correct": true,
+          "explanation": "This correctly retells the beginning. The grasshopper played and the ant worked to store food."
+        },
+        {
+          "id": "c",
+          "label": "An ant begged a grasshopper for food during the winter.",
+          "correct": false,
+          "explanation": "This is backwards. The grasshopper begged the ant for food, not the other way around."
+        },
+        {
+          "id": "d",
+          "label": "The grasshopper and the ant were best friends who shared everything.",
+          "correct": false,
+          "explanation": "The story does not say they were best friends or that they shared. The ant refused to share because the grasshopper had not prepared."
+        }
+      ],
+      "explanation_md": "Recounting means retelling the story in order. The beginning of the story shows the grasshopper playing all summer while the ant gathered and stored food."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable below, then answer the question.\n\n> A boy was tending sheep when he thought it would be fun to trick the villagers. He cried, 'Wolf! Wolf!' The villagers came running, but there was no wolf. He did it again, and they came again. When a real wolf came and the boy cried 'Wolf!' the villagers did not believe him and did not come. The wolf scattered the flock.\n\nWhat is the **central message** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wolves are very dangerous animals.",
+          "correct": false,
+          "explanation": "While wolves appear in the story, the lesson is not about wolves being dangerous. It is about honesty."
+        },
+        {
+          "id": "b",
+          "label": "Shepherds should not tend sheep alone.",
+          "correct": false,
+          "explanation": "The problem was not that the boy was alone. The problem was that he lied."
+        },
+        {
+          "id": "c",
+          "label": "Nobody believes a liar, even when he tells the truth.",
+          "correct": true,
+          "explanation": "The boy lied twice for fun. When he told the truth about the real wolf, no one believed him. The lesson is that liars lose the trust of others."
+        },
+        {
+          "id": "d",
+          "label": "Villagers should always help people in trouble.",
+          "correct": false,
+          "explanation": "The villagers did help the first two times. They stopped helping because the boy had lied to them before."
+        }
+      ],
+      "explanation_md": "The boy cried wolf as a trick twice. When the real wolf came, no one believed him. The central message is that liars lose people's trust, even when they finally tell the truth."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short folktale below, then answer the question.\n\n> Long ago, a woman was known for always telling the truth. One day a thief hid in her barn. When soldiers came looking for the thief, they asked if she had seen anyone. She could have lied to protect herself, but she told the soldiers the truth. Later, the villagers honored her with a feast because her honesty had made the village safer for everyone.\n\nWhat does this folktale show about honesty?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Honesty is easy to practice.",
+          "correct": false,
+          "explanation": "The story shows that honesty was hard for the woman because she risked her safety by telling the truth. It was not described as easy."
+        },
+        {
+          "id": "b",
+          "label": "Honesty can be costly but leads to good results for the community.",
+          "correct": true,
+          "explanation": "The woman took a risk by telling the truth, but in the end the whole village was safer and honored her. The story shows honesty is worth it even when it is hard."
+        },
+        {
+          "id": "c",
+          "label": "It is better to lie to protect others.",
+          "correct": false,
+          "explanation": "The story shows the opposite. The woman told the truth and the community was better off because of it."
+        },
+        {
+          "id": "d",
+          "label": "Honesty only helps you if you get a reward.",
+          "correct": false,
+          "explanation": "The story teaches that honesty is good because it helps the community, not just because you might get a reward."
+        }
+      ],
+      "explanation_md": "The woman told the truth even though it was risky. Because of her honesty, the village was safer and the community honored her. The story shows honesty is important and leads to good outcomes."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable below, then answer the question.\n\n> A fox saw some grapes hanging high on a vine. He jumped and jumped but could not reach them. Finally he walked away saying, 'Those grapes are probably sour anyway.'\n\nWhat is the **central message** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Foxes cannot jump very high.",
+          "correct": false,
+          "explanation": "The fable uses the fox as a character to teach a lesson about people, not to teach facts about foxes."
+        },
+        {
+          "id": "b",
+          "label": "It is easy to pretend you do not want something you cannot have.",
+          "correct": true,
+          "explanation": "The fox could not get the grapes, so he told himself they were sour. This is called 'sour grapes' and describes how people pretend not to want things they cannot reach."
+        },
+        {
+          "id": "c",
+          "label": "Grapes grow too high for most animals.",
+          "correct": false,
+          "explanation": "This is a literal reading of the story. The lesson is about the fox's behavior, not about how high grapes grow."
+        },
+        {
+          "id": "d",
+          "label": "Never give up trying to reach your goals.",
+          "correct": false,
+          "explanation": "The story does not praise the fox for giving up. It shows his excuse was not honest. The lesson is about pretending not to want something you cannot have."
+        }
+      ],
+      "explanation_md": "The fox called the grapes sour only after he could not reach them. The central message is that people sometimes pretend not to want something they cannot have, rather than admitting failure."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the folktale summary below, then answer the question.\n\n> In a West African story, Anansi the spider wanted all the world's stories. The sky god said he could have them if he caught a hornets' nest, captured a python, and brought back a leopard. Everyone thought this was impossible, but clever Anansi tricked all three creatures and brought them to the sky god. In return, the sky god gave Anansi all the world's stories.\n\nWhat central message about cleverness does this folktale teach?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "You should avoid dangerous animals.",
+          "correct": false,
+          "explanation": "Anansi did interact with dangerous animals, but the lesson is not about avoiding them. It is about how cleverness helped him succeed."
+        },
+        {
+          "id": "b",
+          "label": "Cleverness and creative thinking can help you accomplish things that seem impossible.",
+          "correct": true,
+          "explanation": "Everyone thought the tasks were impossible, but Anansi used cleverness to outsmart all three creatures. The story celebrates creative problem-solving."
+        },
+        {
+          "id": "c",
+          "label": "Stories belong to whoever can shout the loudest.",
+          "correct": false,
+          "explanation": "The story is about Anansi earning stories through clever tasks, not by shouting."
+        },
+        {
+          "id": "d",
+          "label": "It is wrong to trick animals.",
+          "correct": false,
+          "explanation": "The story presents Anansi's tricks as a positive thing that led to a great reward. The lesson is about cleverness, not about the wrongness of trickery."
+        }
+      ],
+      "explanation_md": "Anansi was smart enough to trick three powerful creatures when everyone thought it was impossible. The central message is that cleverness and creative thinking help us overcome hard challenges."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below and answer the question.\n\n> Two friends, Mara and Pita, both wanted to be the fastest runner in their village. Before the big race, Mara practiced every day. Pita was sure he was naturally fast enough and did not practice. On race day, Mara won by a wide margin. Pita was surprised.\n\nThis story has a similar lesson to which well-known fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Fox and the Grapes",
+          "correct": false,
+          "explanation": "That fable is about pretending not to want something you cannot have. This story is about practice and hard work, not about making excuses."
+        },
+        {
+          "id": "b",
+          "label": "The Tortoise and the Hare",
+          "correct": true,
+          "explanation": "In The Tortoise and the Hare, the hare thinks he is naturally fast enough and does not try, while the tortoise works steadily and wins. Mara and Pita's story has the same lesson: steady practice beats natural talent that goes unused."
+        },
+        {
+          "id": "c",
+          "label": "The Boy Who Cried Wolf",
+          "correct": false,
+          "explanation": "That fable is about honesty and the consequences of lying. This story is about effort and practice."
+        },
+        {
+          "id": "d",
+          "label": "The Ant and the Grasshopper",
+          "correct": false,
+          "explanation": "That fable is about preparing for hard times. This story is more specifically about working hard to get better at a skill, which matches The Tortoise and the Hare more closely."
+        }
+      ],
+      "explanation_md": "Pita was like the hare who trusted natural ability without practice. Mara was like the tortoise who worked steadily. The lesson matches The Tortoise and the Hare: hard work and practice matter more than natural ability alone."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the two fable endings below, then answer the question.\n\n**Ending A:** The crow worked hard, dropped pebble after pebble into the pitcher, and finally drank the water she needed.\n\n**Ending B:** The crow gave up after three pebbles because the water did not rise fast enough. She flew away thirsty.\n\nIf Ending B were the real ending, how would the **central message** of the story change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The lesson would stay the same because the crow still found the pitcher.",
+          "correct": false,
+          "explanation": "Finding the pitcher is not the main action of the story. What the crow does after finding it is what teaches the lesson."
+        },
+        {
+          "id": "b",
+          "label": "The lesson would change to: giving up too soon means you do not reach your goal.",
+          "correct": true,
+          "explanation": "In the original ending, the crow's persistence is rewarded. In Ending B, the crow gives up and stays thirsty. The new lesson would be about the cost of giving up too early."
+        },
+        {
+          "id": "c",
+          "label": "The lesson would change to: water is the most important thing.",
+          "correct": false,
+          "explanation": "Water is what the crow needs, but the lesson is not about water being important. It is about what the crow's behavior teaches us."
+        },
+        {
+          "id": "d",
+          "label": "There would be no lesson because nothing happened.",
+          "correct": false,
+          "explanation": "Even if the crow gives up, there is still a lesson. The story would teach what happens when you do not persist."
+        }
+      ],
+      "explanation_md": "The original lesson is about persistence. If the crow gives up (Ending B), the central message changes to show that giving up too soon means you will not reach your goal. The action at the end is what determines the lesson."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable, then answer the question.\n\n> A peacock complained to the goddess Juno that his voice was ugly compared to the nightingale's beautiful song. Juno told him that each bird has its own gift. The nightingale has song, the eagle has strength, and the peacock has beautiful feathers. 'Be content with your gift,' said Juno.\n\nWhat is the **central message** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nightingales are better than peacocks.",
+          "correct": false,
+          "explanation": "The fable does not say one bird is better. It says each bird has its own special gift."
+        },
+        {
+          "id": "b",
+          "label": "Be grateful for your own gifts instead of wishing for someone else's.",
+          "correct": true,
+          "explanation": "Juno tells the peacock that every bird has a special gift and he should be happy with his. The lesson is to be content with what you have been given."
+        },
+        {
+          "id": "c",
+          "label": "Goddesses can solve every problem.",
+          "correct": false,
+          "explanation": "Juno gives the peacock advice, but the lesson is about being content with your own gifts, not about what goddesses can do."
+        },
+        {
+          "id": "d",
+          "label": "Peacocks should practice singing more.",
+          "correct": false,
+          "explanation": "Juno does not suggest the peacock practice singing. She tells him to value his own gift of beautiful feathers."
+        }
+      ],
+      "explanation_md": "Juno tells the peacock every bird has its own gift and he should be content with his beautiful feathers. The central message is: be thankful for your own gifts instead of being jealous of others."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the fable, then answer the question.\n\n> A peacock complained to the goddess Juno that his voice was ugly compared to the nightingale's beautiful song. Juno told him that each bird has its own gift. The nightingale has song, the eagle has strength, and the peacock has beautiful feathers. 'Be content with your gift,' said Juno.\n\nWhich sentence best **recounts** this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A peacock asked Juno to give him a better voice, and Juno made him sing like a nightingale.",
+          "correct": false,
+          "explanation": "Juno did not give the peacock a new voice. She told him to be content with his own gift."
+        },
+        {
+          "id": "b",
+          "label": "A peacock was unhappy with his voice, so Juno reminded him that all birds have their own special gifts.",
+          "correct": true,
+          "explanation": "This correctly retells the beginning (peacock complains), middle (Juno explains each bird's gift), and end (the lesson to be content)."
+        },
+        {
+          "id": "c",
+          "label": "The nightingale sang so beautifully that all the other birds were jealous and stopped singing.",
+          "correct": false,
+          "explanation": "The story does not say all birds stopped singing. Only the peacock complained about his own voice."
+        },
+        {
+          "id": "d",
+          "label": "Juno gave every bird the same gifts so no one would be jealous.",
+          "correct": false,
+          "explanation": "Juno gave different gifts to different birds. She did not make them all the same."
+        }
+      ],
+      "explanation_md": "Recounting means retelling the main events. The peacock was unhappy with his voice, asked Juno for help, and Juno reminded him that every bird has its own special gift. That is the correct recount."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Think about these two fables:\n\n**Fable 1:** The Ant and the Grasshopper (the ant works all summer; the grasshopper plays; the ant has food in winter, the grasshopper does not).\n\n**Fable 2:** The Tortoise and the Hare (the tortoise moves slowly but steadily; the hare races ahead then naps; the tortoise wins).\n\nWhat **central message** do BOTH fables share?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Animals that move slowly always win.",
+          "correct": false,
+          "explanation": "Not all slow animals win. The shared message is about consistent effort, not about being slow."
+        },
+        {
+          "id": "b",
+          "label": "Hard work and steady effort lead to success.",
+          "correct": true,
+          "explanation": "In both fables, the character who works consistently (the ant and the tortoise) ends up better off than the character who does not put in steady effort (the grasshopper and the hare)."
+        },
+        {
+          "id": "c",
+          "label": "Insects are smarter than other animals.",
+          "correct": false,
+          "explanation": "The fables do not claim that insects are smarter. The lesson is about effort."
+        },
+        {
+          "id": "d",
+          "label": "Speed and natural talent always win.",
+          "correct": false,
+          "explanation": "The hare was faster but lost. The grasshopper was carefree and suffered. Both fables show the opposite of this."
+        }
+      ],
+      "explanation_md": "Both the ant and the tortoise win through consistent, steady effort. Both the grasshopper and the hare lose because they do not work hard or steadily. The shared lesson is that hard work and steady effort lead to success."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short fable below, then answer the question.\n\n> A rabbit ran very fast but stopped to take a nap. A turtle walked slowly but never stopped. The turtle won the race.\n\nWhat is the **lesson** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Turtles are better than rabbits.",
+          "correct": false,
+          "explanation": "The fable is not saying one animal is better. It teaches something about how you work."
+        },
+        {
+          "id": "b",
+          "label": "Slow and steady wins the race.",
+          "correct": true,
+          "explanation": "The turtle won by moving slowly but never stopping. The lesson is that steady effort wins."
+        },
+        {
+          "id": "c",
+          "label": "Running is bad for you.",
+          "correct": false,
+          "explanation": "The story is not about whether running is bad. It is about the rabbit stopping to nap instead of finishing the race."
+        },
+        {
+          "id": "d",
+          "label": "It is fun to take naps.",
+          "correct": false,
+          "explanation": "Taking a nap is what caused the rabbit to lose the race. That is not the lesson."
+        }
+      ],
+      "explanation_md": "The turtle moved slowly but kept going and won. The lesson is: slow and steady wins the race."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short fable below, then answer the question.\n\n> A rabbit ran very fast but stopped to take a nap. A turtle walked slowly but never stopped. The turtle won the race.\n\nWhich sentence **recounts** the end of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The rabbit woke up and won the race.",
+          "correct": false,
+          "explanation": "The rabbit did not win. The turtle won the race."
+        },
+        {
+          "id": "b",
+          "label": "The turtle won the race.",
+          "correct": true,
+          "explanation": "The fable ends with the turtle winning the race because he never stopped."
+        },
+        {
+          "id": "c",
+          "label": "Both animals stopped to rest.",
+          "correct": false,
+          "explanation": "Only the rabbit stopped. The turtle never stopped."
+        },
+        {
+          "id": "d",
+          "label": "The race was cancelled.",
+          "correct": false,
+          "explanation": "The story does not say the race was cancelled."
+        }
+      ],
+      "explanation_md": "At the end of the fable, the turtle won the race. That is the ending."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short fable below, then answer the question.\n\n> A boy told everyone that a giant fish had pulled his fishing rod right out of his hands. But really, he had dropped the rod himself. When he came home without the rod, his mother asked what happened. He told the truth this time, and she was proud of him.\n\nWhat is the **lesson** of this fable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Fishing is a hard sport.",
+          "correct": false,
+          "explanation": "The story is not about how hard fishing is. It is about telling the truth."
+        },
+        {
+          "id": "b",
+          "label": "It is always better to tell the truth.",
+          "correct": true,
+          "explanation": "The boy lied at first, then told the truth. His mother was proud when he was honest. The lesson is that honesty is the right choice."
+        },
+        {
+          "id": "c",
+          "label": "Never go fishing alone.",
+          "correct": false,
+          "explanation": "The lesson is not about fishing safety. It is about honesty."
+        },
+        {
+          "id": "d",
+          "label": "Giant fish are dangerous.",
+          "correct": false,
+          "explanation": "There was no giant fish. The lesson is about honesty, not about fish."
+        }
+      ],
+      "explanation_md": "The boy told a lie at first, then told the truth, and his mother was proud. The lesson is: it is always better to tell the truth."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which story is most likely a **fable**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A book about how ants build their tunnels underground.",
+          "correct": false,
+          "explanation": "This sounds like a nonfiction book about real ants, not a fable."
+        },
+        {
+          "id": "b",
+          "label": "A story where a talking fox tricks a crow to steal her cheese, teaching that flattery can lead to foolish choices.",
+          "correct": true,
+          "explanation": "This is a fable. It has talking animals and it teaches a lesson."
+        },
+        {
+          "id": "c",
+          "label": "A chapter book about a girl who moves to a new city and makes new friends.",
+          "correct": false,
+          "explanation": "This sounds like a realistic fiction story, not a fable. It does not have talking animals."
+        },
+        {
+          "id": "d",
+          "label": "A poem about the colors of autumn leaves.",
+          "correct": false,
+          "explanation": "This is a poem, not a fable."
+        }
+      ],
+      "explanation_md": "Fables have talking animals and teach a lesson or moral. The story about the fox and crow is a fable."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short story below, then answer the question.\n\n> Mia always made fun of her little sister for being small. One day, Mia got her arm stuck in a small hole in the fence. Her little sister was the only one small enough to squeeze through and get help. After that, Mia never made fun of her sister again.\n\nWhat **lesson** does Mia learn?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Never put your arm in a fence.",
+          "correct": false,
+          "explanation": "The story is not mainly a safety lesson about fences. The lesson is about making fun of others."
+        },
+        {
+          "id": "b",
+          "label": "Do not make fun of others because everyone has value.",
+          "correct": true,
+          "explanation": "Mia made fun of her sister for being small, but her sister's small size was exactly what saved Mia. The lesson is that everyone has value."
+        },
+        {
+          "id": "c",
+          "label": "Little sisters are always better than big sisters.",
+          "correct": false,
+          "explanation": "The story does not say little sisters are always better. It shows that Mia should not have made fun of her sister."
+        },
+        {
+          "id": "d",
+          "label": "It is wrong to go outside alone.",
+          "correct": false,
+          "explanation": "The story does not say anything about going outside alone. The lesson is about respect and not making fun of others."
+        }
+      ],
+      "explanation_md": "Mia made fun of her small sister, but her sister's small size helped rescue her. The lesson is: do not make fun of others because everyone has value."
+    }
+  ]
+}
