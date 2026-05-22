@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.G.1.1",
+  "benchmark_description": "Interpret maps and globes using basic map elements to describe absolute and relative location of places in the community.",
+  "course": "social_studies",
+  "strand": "G",
+  "lesson": {
+    "title": "Reading Maps of Our Community",
+    "intro": "Maps help us find our way! A map is a drawing that shows what a place looks like from above. Let's learn how to read maps so we can find places in our community.",
+    "body_md": "## What Is a Map?\n\nA **map** is a flat drawing that shows a place from above, like a bird looking down. Maps can show your neighborhood, your town, your state, or the whole world.\n\nA **globe** is a round model of Earth. It shows all the land and water on our planet.\n\n## Parts of a Map\n\nEvery map has important parts that help you read it:\n\n| Map Part | What It Does |\n|---|---|\n| **Title** | Tells you what the map shows |\n| **Map key (legend)** | Explains what symbols on the map mean |\n| **Compass rose** | Shows the four directions: North, South, East, West |\n| **Scale** | Shows how distances on the map match real distances |\n\n## Directions on a Map\n\nMaps use four main directions:\n- **North (N)** \u2014 toward the top of most maps\n- **South (S)** \u2014 toward the bottom of most maps\n- **East (E)** \u2014 toward the right of most maps\n- **West (W)** \u2014 toward the left of most maps\n\nThink of it this way: **Never Eat Slimy Worms** (North, East, South, West \u2014 going clockwise).\n\n## Absolute and Relative Location\n\n**Absolute location** is the exact address or coordinates of a place. For example: \"123 Oak Street\" or \"the corner of Main St. and 2nd Ave.\"\n\n**Relative location** describes where a place is compared to something else. For example: \"The school is north of the park\" or \"The library is next to the post office.\"\n\n## Map Symbols\n\nMaps use small pictures (symbols) to stand for real things:\n- A small tree = a park\n- A small square = a building\n- A blue line = a river\n- A dotted line = a trail or path\n\nThe **map key** tells you what each symbol means.\n\n**Key Words:**\n- **map** \u2014 a flat drawing of a place seen from above\n- **globe** \u2014 a round model of Earth\n- **compass rose** \u2014 the symbol on a map showing directions\n- **map key** \u2014 the part of a map that explains symbols\n- **relative location** \u2014 where a place is compared to something else\n- **absolute location** \u2014 the exact spot where a place is",
+    "worked_example_md": "## Worked Example\n\n**Here is a simple map of Greenville Community:**\n\nImagine a map with:\n- A school at the top center\n- A park to the south of the school\n- A library to the east of the park\n- A fire station to the west of the school\n- A compass rose in the corner showing N, S, E, W\n- A map key showing: tree = park, building = school, book = library, truck = fire station\n\n**Question 1:** What is the relative location of the park?\n\n**Answer:** The park is south of the school.\n\n**Question 2:** What direction would you travel from the park to reach the library?\n\n**Answer:** You would travel east from the park to reach the library.\n\n**Question 3:** What does the compass rose on this map do?\n\n**Answer:** The compass rose shows the four directions \u2014 North, South, East, and West \u2014 so you can figure out which way to go on the map.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a compass rose on a map show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "What the symbols on the map mean",
+          "correct": false,
+          "explanation": "The map key (legend) explains what symbols mean \u2014 not the compass rose."
+        },
+        {
+          "id": "b",
+          "label": "The four main directions: North, South, East, and West",
+          "correct": true,
+          "explanation": "A compass rose shows the four main directions (N, S, E, W) so you know which way is which on the map."
+        },
+        {
+          "id": "c",
+          "label": "How far apart places are on the map",
+          "correct": false,
+          "explanation": "The scale shows how distances on the map match real distances \u2014 not the compass rose."
+        },
+        {
+          "id": "d",
+          "label": "The title of the map",
+          "correct": false,
+          "explanation": "The title of the map tells you what the map shows \u2014 not the compass rose."
+        }
+      ],
+      "explanation_md": "A compass rose shows the four main directions \u2014 North, South, East, and West \u2014 so map readers know which way is which."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a map key (legend) used for?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To show directions on the map",
+          "correct": false,
+          "explanation": "Directions are shown by the compass rose \u2014 not the map key."
+        },
+        {
+          "id": "b",
+          "label": "To explain what the symbols on a map mean",
+          "correct": true,
+          "explanation": "The map key (legend) explains what each symbol on the map represents, like a small tree meaning a park."
+        },
+        {
+          "id": "c",
+          "label": "To show the title of the map",
+          "correct": false,
+          "explanation": "The map title tells you what the map shows. The map key explains symbols."
+        },
+        {
+          "id": "d",
+          "label": "To show the real distance between places",
+          "correct": false,
+          "explanation": "The scale shows real distances. The map key explains what symbols mean."
+        }
+      ],
+      "explanation_md": "The map key (legend) explains what each symbol on a map represents \u2014 like a small blue line meaning a river, or a small square meaning a building."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "On most maps, which direction is toward the top of the map?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "South",
+          "correct": false,
+          "explanation": "South is usually toward the BOTTOM of most maps, not the top."
+        },
+        {
+          "id": "b",
+          "label": "North",
+          "correct": true,
+          "explanation": "On most maps, North is toward the top of the map. This is a standard convention that mapmakers follow."
+        },
+        {
+          "id": "c",
+          "label": "East",
+          "correct": false,
+          "explanation": "East is usually toward the RIGHT side of most maps, not the top."
+        },
+        {
+          "id": "d",
+          "label": "West",
+          "correct": false,
+          "explanation": "West is usually toward the LEFT side of most maps, not the top."
+        }
+      ],
+      "explanation_md": "On most maps, North is toward the top. South is at the bottom, East is to the right, and West is to the left."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Emma says, \"The library is next to the post office and across from the park.\" Emma is describing the library's \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Absolute location",
+          "correct": false,
+          "explanation": "Absolute location gives an exact address. Emma is comparing the library's location to other nearby places, which is relative location."
+        },
+        {
+          "id": "b",
+          "label": "Relative location",
+          "correct": true,
+          "explanation": "Relative location describes where a place is in comparison to other places. Emma says the library is next to the post office and across from the park \u2014 both are comparisons."
+        },
+        {
+          "id": "c",
+          "label": "Map key symbol",
+          "correct": false,
+          "explanation": "A map key symbol is a picture on a map representing a place \u2014 not a description of location."
+        },
+        {
+          "id": "d",
+          "label": "Compass direction only",
+          "correct": false,
+          "explanation": "Emma does not use compass directions (north, south) in her description \u2014 she uses landmarks like 'next to' and 'across from.'"
+        }
+      ],
+      "explanation_md": "Relative location describes where a place is compared to other places. 'Next to the post office and across from the park' compares the library to nearby landmarks."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Look at this description of a community map: The school is in the center. The park is to the north. The store is to the south. The library is to the east. Which building is across from the library?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The park",
+          "correct": false,
+          "explanation": "The park is to the north of the school. The library is to the east. Across from east would be west \u2014 no building is described to the west."
+        },
+        {
+          "id": "b",
+          "label": "The store",
+          "correct": false,
+          "explanation": "The store is to the south of the school. The library is to the east. South and east are not across from each other."
+        },
+        {
+          "id": "c",
+          "label": "None \u2014 no building is described to the west of the school",
+          "correct": true,
+          "explanation": "The library is to the east. Directly across from the east side would be the west side. No building is described to the west of the school in this map."
+        },
+        {
+          "id": "d",
+          "label": "The school",
+          "correct": false,
+          "explanation": "The school is in the center \u2014 it is not directly across from the library on the east."
+        }
+      ],
+      "explanation_md": "The library is to the east of the school. Directly across (west) from the east would be the west side \u2014 but no building is described there on this map."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How is a globe DIFFERENT from a flat map?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A globe only shows one country; a map shows the whole world",
+          "correct": false,
+          "explanation": "A globe shows the whole world \u2014 it is a round model of Earth. Maps can also show the whole world or just part of it."
+        },
+        {
+          "id": "b",
+          "label": "A globe is a round model of Earth; a map is a flat drawing",
+          "correct": true,
+          "explanation": "A globe is round, like Earth itself. A flat map shows the same information stretched out on a flat surface."
+        },
+        {
+          "id": "c",
+          "label": "A globe shows only oceans; a map shows only land",
+          "correct": false,
+          "explanation": "Both a globe and a map can show land and water."
+        },
+        {
+          "id": "d",
+          "label": "A globe is always bigger than a map",
+          "correct": false,
+          "explanation": "The size of a globe compared to a map depends on how each is made \u2014 a small handheld globe can be much smaller than a large wall map."
+        }
+      ],
+      "explanation_md": "A globe is a round model of Earth that shows all land and water. A flat map shows the same information on a flat surface. The globe is shaped like Earth; the map is flat."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The address \"456 Elm Street, Maplewood, NC\" is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Relative location",
+          "correct": false,
+          "explanation": "Relative location describes a place by comparing it to something else. A street address is an exact location \u2014 absolute location."
+        },
+        {
+          "id": "b",
+          "label": "Absolute location",
+          "correct": true,
+          "explanation": "An exact street address gives the absolute location \u2014 the precise, specific spot where a place is found."
+        },
+        {
+          "id": "c",
+          "label": "A map key symbol",
+          "correct": false,
+          "explanation": "A map key symbol is a picture on a map representing a type of place \u2014 not an address."
+        },
+        {
+          "id": "d",
+          "label": "A compass rose",
+          "correct": false,
+          "explanation": "A compass rose shows directions \u2014 not an address."
+        }
+      ],
+      "explanation_md": "An exact street address like '456 Elm Street' gives the absolute location \u2014 the precise, specific spot where a place can be found."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student is looking at a map of her community. The map key shows: a blue square = police station, a red cross = hospital, a green tree = park. She sees a green tree symbol in the northeast corner of the map. What is located there?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A police station",
+          "correct": false,
+          "explanation": "A blue square represents the police station in the map key \u2014 not the green tree symbol."
+        },
+        {
+          "id": "b",
+          "label": "A hospital",
+          "correct": false,
+          "explanation": "A red cross represents the hospital in the map key \u2014 not the green tree symbol."
+        },
+        {
+          "id": "c",
+          "label": "A park",
+          "correct": true,
+          "explanation": "According to the map key, a green tree symbol represents a park. Since the student sees a green tree in the northeast corner, that is where the park is."
+        },
+        {
+          "id": "d",
+          "label": "A school",
+          "correct": false,
+          "explanation": "The map key does not include a symbol for a school. The green tree stands for a park."
+        }
+      ],
+      "explanation_md": "The map key says a green tree symbol represents a park. The student sees a green tree in the northeast corner, so that is where the park is located."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to travel from her school (in the center of the map) to the library (on the east side of the map). In which direction should she walk?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "North",
+          "correct": false,
+          "explanation": "North is toward the top of the map. The library is on the east side \u2014 not the north."
+        },
+        {
+          "id": "b",
+          "label": "West",
+          "correct": false,
+          "explanation": "West is toward the left of the map. The library is on the east (right) side \u2014 walking west would take her away from the library."
+        },
+        {
+          "id": "c",
+          "label": "East",
+          "correct": true,
+          "explanation": "The library is on the east side of the map. To travel from center to east, she should walk east \u2014 toward the right side of the map."
+        },
+        {
+          "id": "d",
+          "label": "South",
+          "correct": false,
+          "explanation": "South is toward the bottom of the map. The library is on the east side \u2014 not the south."
+        }
+      ],
+      "explanation_md": "The library is on the east side of the map. To travel from the center to the east, the student should walk east \u2014 toward the right side of the map."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees these descriptions on a community map: 'The hospital is north of City Hall. The school is west of the hospital. The park is south of the school.' Starting at City Hall and walking north, then west, where will the student end up?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "At the park",
+          "correct": false,
+          "explanation": "Walking north from City Hall leads to the hospital. Walking west from the hospital leads to the school \u2014 not the park."
+        },
+        {
+          "id": "b",
+          "label": "Back at City Hall",
+          "correct": false,
+          "explanation": "Walking north then west takes the student away from City Hall \u2014 not back to it."
+        },
+        {
+          "id": "c",
+          "label": "At the school",
+          "correct": true,
+          "explanation": "Walking north from City Hall leads to the hospital. Walking west from the hospital leads to the school. So the student ends up at the school."
+        },
+        {
+          "id": "d",
+          "label": "At the hospital",
+          "correct": false,
+          "explanation": "Walking north from City Hall leads to the hospital, but the student does not stop there \u2014 they continue west to the school."
+        }
+      ],
+      "explanation_md": "Walking north from City Hall leads to the hospital. Then walking west from the hospital leads to the school. The student ends up at the school."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which map part would you use to find out what a picture of a red cross means on a map?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Compass rose",
+          "correct": false,
+          "explanation": "The compass rose shows directions \u2014 not what symbols mean."
+        },
+        {
+          "id": "b",
+          "label": "Map key (legend)",
+          "correct": true,
+          "explanation": "The map key (legend) explains what each symbol on the map represents. A red cross might mean a hospital."
+        },
+        {
+          "id": "c",
+          "label": "Map title",
+          "correct": false,
+          "explanation": "The map title tells you what the whole map shows \u2014 not what individual symbols mean."
+        },
+        {
+          "id": "d",
+          "label": "Scale",
+          "correct": false,
+          "explanation": "The scale shows how distances on the map compare to real distances \u2014 not what symbols mean."
+        }
+      ],
+      "explanation_md": "The map key (legend) explains what each symbol represents. To find out what a red cross means, you look at the map key."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "\"The fire station is south of the school and east of the park.\" This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Absolute location",
+          "correct": false,
+          "explanation": "Absolute location gives an exact address or coordinates. This description compares the fire station's location to other places \u2014 that is relative location."
+        },
+        {
+          "id": "b",
+          "label": "Relative location",
+          "correct": true,
+          "explanation": "Relative location describes where a place is by comparing it to other places. 'South of the school' and 'east of the park' are comparisons to nearby places."
+        },
+        {
+          "id": "c",
+          "label": "A map title",
+          "correct": false,
+          "explanation": "A map title tells you what the whole map shows \u2014 not where a specific place is."
+        },
+        {
+          "id": "d",
+          "label": "A compass rose",
+          "correct": false,
+          "explanation": "A compass rose is a symbol showing directions \u2014 not a description of location."
+        }
+      ],
+      "explanation_md": "Relative location describes where a place is by comparing it to other nearby places. 'South of the school and east of the park' uses comparisons \u2014 that is relative location."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A map shows: City Hall in the center, a river to the north, and a school to the south. If you are standing at City Hall and look toward the river, which direction are you looking?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "South",
+          "correct": false,
+          "explanation": "The school is to the south of City Hall \u2014 not the river. The river is to the north."
+        },
+        {
+          "id": "b",
+          "label": "East",
+          "correct": false,
+          "explanation": "East is to the right on the map. The river is to the north \u2014 toward the top of the map."
+        },
+        {
+          "id": "c",
+          "label": "North",
+          "correct": true,
+          "explanation": "The river is to the north of City Hall. Standing at City Hall and looking toward the river means looking north \u2014 toward the top of the map."
+        },
+        {
+          "id": "d",
+          "label": "West",
+          "correct": false,
+          "explanation": "West is to the left on the map. The river is to the north \u2014 toward the top of the map."
+        }
+      ],
+      "explanation_md": "The river is to the north of City Hall. Standing at City Hall and looking toward the river means looking north \u2014 toward the top of the map."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a map?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A flat drawing that shows what a place looks like from above",
+          "correct": true,
+          "explanation": "A map is a flat drawing that shows a place as if you were looking down from above, like a bird in the sky."
+        },
+        {
+          "id": "b",
+          "label": "A story about a town",
+          "correct": false,
+          "explanation": "A story uses words to tell about people and events \u2014 a map is a drawing that shows places."
+        },
+        {
+          "id": "c",
+          "label": "A photograph taken from the ground",
+          "correct": false,
+          "explanation": "A photograph shows what something looks like from eye level. A map shows what a place looks like from above, as a drawing."
+        },
+        {
+          "id": "d",
+          "label": "A round ball with countries drawn on it",
+          "correct": false,
+          "explanation": "A round ball with countries on it is a globe \u2014 not a flat map."
+        }
+      ],
+      "explanation_md": "A map is a flat drawing that shows a place as if you were looking at it from above \u2014 like a bird looking down."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The four main directions on a map are \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Up, Down, Left, Right",
+          "correct": false,
+          "explanation": "Maps use compass directions \u2014 North, South, East, West \u2014 not up/down/left/right."
+        },
+        {
+          "id": "b",
+          "label": "North, South, East, West",
+          "correct": true,
+          "explanation": "The four main compass directions shown on a map are North, South, East, and West."
+        },
+        {
+          "id": "c",
+          "label": "High, Low, Near, Far",
+          "correct": false,
+          "explanation": "Maps use compass directions \u2014 North, South, East, West \u2014 not high/low/near/far."
+        },
+        {
+          "id": "d",
+          "label": "Fast, Slow, Big, Small",
+          "correct": false,
+          "explanation": "These are descriptions of speed and size \u2014 not compass directions on a map."
+        }
+      ],
+      "explanation_md": "The four main compass directions on a map are North, South, East, and West \u2014 shown by the compass rose."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "\"The school is next to the park.\" This describes the school's \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Absolute location",
+          "correct": false,
+          "explanation": "Absolute location gives an exact address. 'Next to the park' compares the school's location to the park \u2014 that is relative location."
+        },
+        {
+          "id": "b",
+          "label": "Relative location",
+          "correct": true,
+          "explanation": "Relative location describes where a place is by comparing it to something else. 'Next to the park' tells you the school's location relative to the park."
+        },
+        {
+          "id": "c",
+          "label": "Map key symbol",
+          "correct": false,
+          "explanation": "A map key symbol is a picture representing a place on a map \u2014 not a description of location."
+        },
+        {
+          "id": "d",
+          "label": "Compass rose",
+          "correct": false,
+          "explanation": "A compass rose shows directions \u2014 not where the school is compared to other places."
+        }
+      ],
+      "explanation_md": "Relative location describes where a place is by comparing it to something else. 'Next to the park' tells you the school's location relative to the park."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "On a map, the library is shown with a picture of a small book. The fire station is shown with a picture of a small truck. Where would you look to find out what these pictures mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The compass rose",
+          "correct": false,
+          "explanation": "The compass rose shows directions \u2014 it does not explain what pictures mean."
+        },
+        {
+          "id": "b",
+          "label": "The map key (legend)",
+          "correct": true,
+          "explanation": "The map key (legend) explains what each symbol or picture on the map represents \u2014 like a small book meaning a library."
+        },
+        {
+          "id": "c",
+          "label": "The map title",
+          "correct": false,
+          "explanation": "The map title tells you what the whole map shows \u2014 not what individual symbols mean."
+        },
+        {
+          "id": "d",
+          "label": "The scale",
+          "correct": false,
+          "explanation": "The scale shows how distances on the map compare to real distances \u2014 not what symbols mean."
+        }
+      ],
+      "explanation_md": "The map key (legend) explains what each symbol on the map represents. To find out that a small book means library, you look at the map key."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If you are walking east, which way are you heading on a map?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Toward the top of the map",
+          "correct": false,
+          "explanation": "Toward the top of the map is north \u2014 not east."
+        },
+        {
+          "id": "b",
+          "label": "Toward the bottom of the map",
+          "correct": false,
+          "explanation": "Toward the bottom of the map is south \u2014 not east."
+        },
+        {
+          "id": "c",
+          "label": "Toward the right side of the map",
+          "correct": true,
+          "explanation": "East is toward the right side of most maps. The compass rose confirms: East points right."
+        },
+        {
+          "id": "d",
+          "label": "Toward the left side of the map",
+          "correct": false,
+          "explanation": "Toward the left side of the map is west \u2014 not east."
+        }
+      ],
+      "explanation_md": "East is toward the right side of most maps. If you are walking east, you are heading toward the right side of the map."
+    }
+  ]
+}
