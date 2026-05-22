@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.16",
+  "benchmark_description": "Differentiate between primary and secondary sources and explain how each can be used to learn about community history.",
+  "course": "social_studies",
+  "strand": "HIS",
+  "lesson": {
+    "title": "Primary and Secondary Sources",
+    "intro": "How do we learn about the past? Historians use two types of sources to find out what happened. Let's learn the difference between a primary source and a secondary source!",
+    "body_md": "## What Are Historical Sources?\n\nA **source** is anything that gives us information about a topic. Historians use sources to learn about history.\n\n## Primary Sources\n\nA **primary source** is something created by a person who was THERE when something happened. It is a firsthand account.\n\n**Examples of primary sources:**\n- A diary written by a settler\n- A photograph taken during an event\n- A letter written by a soldier\n- An old newspaper from the day an event happened\n- An artifact (object) from the time period\n- An interview with someone who experienced an event\n\n## Secondary Sources\n\nA **secondary source** is something created LATER by someone who was NOT there. It uses primary sources to tell the story.\n\n**Examples of secondary sources:**\n- A history textbook\n- A biography (a book about someone's life, written by someone else)\n- A documentary film about history\n- An encyclopedia article\n- A library book about Tennessee history\n\n## How to Remember the Difference\n\n- **Primary** = First. Primary sources come FIRST in time.\n- **Secondary** = Second. Secondary sources come AFTER and talk ABOUT the primary sources.\n\n## Comparison Table\n\n| | Primary Source | Secondary Source |\n|---|---|---|\n| Created by | Someone who was there | Someone who was NOT there |\n| When made | At the time of the event | Later, after the event |\n| Examples | Diary, letter, photograph, artifact | Textbook, biography, encyclopedia |\n| Point of view | Personal firsthand | Researched, analytical |\n\n## Why Both Types Matter\n\n- **Primary sources** give us a personal, direct view of history.\n- **Secondary sources** help us understand events using many sources put together.\n- **Using both** gives us the best picture of what happened in history.",
+    "worked_example_md": "## Worked Example\n\n**Question:** A second-grade class is learning about life in Tennessee in the 1800s. Sort these into primary and secondary sources:\n\n1. A diary written by a Tennessee pioneer woman in 1832\n2. A history book about Tennessee pioneers published in 2010\n3. A photograph of a Tennessee log cabin from 1890\n4. A chapter from a textbook about life on the frontier\n\n**Step 1 - Check: Was it made BY someone who was there, or ABOUT it later?**\n- Diary (1832): Written BY the pioneer herself. **Primary source.**\n- History book (2010): Written by a historian, 178 years later. **Secondary source.**\n- Photograph (1890): Taken at the time the cabin existed. **Primary source.**\n- Textbook chapter: Written later to teach students. **Secondary source.**\n\n**Answer:**\n- Primary: Diary, Photograph\n- Secondary: History book, Textbook chapter",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A book written after an event by a researcher",
+          "correct": false,
+          "explanation": "A book written after the event by a researcher is a secondary source."
+        },
+        {
+          "id": "b",
+          "label": "Something created by someone who was there when it happened",
+          "correct": true,
+          "explanation": "A primary source is a firsthand account from someone who experienced the event."
+        },
+        {
+          "id": "c",
+          "label": "A documentary film made about a historical event",
+          "correct": false,
+          "explanation": "Documentaries are usually secondary sources made after the event."
+        },
+        {
+          "id": "d",
+          "label": "A history textbook used in school",
+          "correct": false,
+          "explanation": "Textbooks are secondary sources. They are written later by people who were not there."
+        }
+      ],
+      "explanation_md": "A primary source is created by someone who was there during the event - a firsthand account."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a PRIMARY source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A textbook about the Civil War",
+          "correct": false,
+          "explanation": "A textbook is a secondary source. It was written after the Civil War by people who were not there."
+        },
+        {
+          "id": "b",
+          "label": "A letter written by a soldier during the Civil War",
+          "correct": true,
+          "explanation": "A letter written by a soldier who was in the Civil War is a primary source - firsthand."
+        },
+        {
+          "id": "c",
+          "label": "A biography of Abraham Lincoln written in 2020",
+          "correct": false,
+          "explanation": "A biography written in 2020 about Lincoln is a secondary source. The author was not there."
+        },
+        {
+          "id": "d",
+          "label": "An encyclopedia article about the Civil War",
+          "correct": false,
+          "explanation": "An encyclopedia article is a secondary source - it summarizes information from many sources."
+        }
+      ],
+      "explanation_md": "A letter written by a soldier during the Civil War is a primary source - it comes directly from someone who was there."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a SECONDARY source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A diary entry written by a Tennessee pioneer in 1800",
+          "correct": false,
+          "explanation": "A diary from the pioneer is a primary source - written firsthand."
+        },
+        {
+          "id": "b",
+          "label": "A photograph taken in Nashville in 1900",
+          "correct": false,
+          "explanation": "An old photograph is a primary source - it captures the moment directly."
+        },
+        {
+          "id": "c",
+          "label": "A history book about Tennessee written in 2015",
+          "correct": true,
+          "explanation": "A history book written in 2015 about past events is a secondary source - written later by someone who was not there."
+        },
+        {
+          "id": "d",
+          "label": "An artifact found at a historic Cherokee village",
+          "correct": false,
+          "explanation": "An artifact from the Cherokee village is a primary source - it is from the actual time period."
+        }
+      ],
+      "explanation_md": "A history book written later by someone who was not at the event is a secondary source."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An old photograph of Memphis from 1900 is BEST described as a:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Secondary source, because it is old",
+          "correct": false,
+          "explanation": "Age alone does not make something secondary. The photograph was taken at the time, making it primary."
+        },
+        {
+          "id": "b",
+          "label": "Primary source, because it was created at the time the event occurred",
+          "correct": true,
+          "explanation": "A photograph taken in 1900 is a primary source - it captures what Memphis looked like at that time."
+        },
+        {
+          "id": "c",
+          "label": "Secondary source, because photographs cannot be primary sources",
+          "correct": false,
+          "explanation": "Photographs can absolutely be primary sources when taken at the time of the event."
+        },
+        {
+          "id": "d",
+          "label": "Neither primary nor secondary",
+          "correct": false,
+          "explanation": "A historical photograph is a primary source."
+        }
+      ],
+      "explanation_md": "A photograph taken at the time is a primary source - it captures the moment directly."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How is a primary source different from a secondary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Primary sources are always written; secondary sources are always pictures",
+          "correct": false,
+          "explanation": "Both primary and secondary sources can be written, pictures, or other formats."
+        },
+        {
+          "id": "b",
+          "label": "Primary sources are created by people who were there; secondary sources are created later by people who were not",
+          "correct": true,
+          "explanation": "This is the key difference: primary = firsthand (there at the time); secondary = written later by someone not there."
+        },
+        {
+          "id": "c",
+          "label": "Primary sources are always more accurate than secondary sources",
+          "correct": false,
+          "explanation": "Primary sources give a firsthand view but can be biased. Secondary sources analyze multiple sources. Both have value."
+        },
+        {
+          "id": "d",
+          "label": "Secondary sources are always from the future",
+          "correct": false,
+          "explanation": "Secondary sources are created after an event but not necessarily from the future."
+        }
+      ],
+      "explanation_md": "Primary sources are created by someone who was there (firsthand). Secondary sources are created later by those who were not."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to learn about daily life for Cherokee people 200 years ago. Which source would give the MOST direct firsthand information?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A library book about Cherokee history written in 2018",
+          "correct": false,
+          "explanation": "A library book from 2018 is a secondary source. It does not directly come from people who lived 200 years ago."
+        },
+        {
+          "id": "b",
+          "label": "A journal written by a Cherokee person in the 1820s",
+          "correct": true,
+          "explanation": "A journal from the 1820s is a primary source - it directly tells us what life was like from someone who lived it."
+        },
+        {
+          "id": "c",
+          "label": "A documentary film about the Cherokee",
+          "correct": false,
+          "explanation": "A documentary film is a secondary source, created later to explain history."
+        },
+        {
+          "id": "d",
+          "label": "An encyclopedia article about Native Americans",
+          "correct": false,
+          "explanation": "An encyclopedia is a secondary source. A firsthand journal gives more direct information."
+        }
+      ],
+      "explanation_md": "A journal written by a Cherokee person in the 1820s is a primary source - it directly records life as they experienced it."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do historians use BOTH primary and secondary sources?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because primary sources are always wrong",
+          "correct": false,
+          "explanation": "Primary sources are valuable firsthand accounts. They are not always wrong."
+        },
+        {
+          "id": "b",
+          "label": "Because secondary sources are more fun to read",
+          "correct": false,
+          "explanation": "Historians use both types for their information value, not entertainment."
+        },
+        {
+          "id": "c",
+          "label": "Because primary sources give firsthand accounts and secondary sources provide analysis using many sources together",
+          "correct": true,
+          "explanation": "Using both gives a fuller picture: primary for direct accounts, secondary for broader context and analysis."
+        },
+        {
+          "id": "d",
+          "label": "Because only secondary sources are real",
+          "correct": false,
+          "explanation": "Both types are real and valuable. Primary sources are direct accounts; secondary sources analyze history."
+        }
+      ],
+      "explanation_md": "Primary sources give direct firsthand accounts. Secondary sources provide analysis using many sources. Together they give the best picture of history."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A biography of Wilma Rudolph written in 2000 is a:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Primary source, because it is about a real person",
+          "correct": false,
+          "explanation": "Being about a real person does not make it primary. It was written after the events by someone who was not Wilma Rudolph."
+        },
+        {
+          "id": "b",
+          "label": "Secondary source, because it was written after the events by someone who was not Wilma Rudolph herself",
+          "correct": true,
+          "explanation": "A biography written by someone other than the subject, after the events, is a secondary source."
+        },
+        {
+          "id": "c",
+          "label": "Primary source, because it was written in 2000",
+          "correct": false,
+          "explanation": "The date does not determine whether something is primary or secondary. Who wrote it and when relative to the events does."
+        },
+        {
+          "id": "d",
+          "label": "Neither - biographies are not sources",
+          "correct": false,
+          "explanation": "Biographies are secondary sources. They use research and primary sources to tell someone's story."
+        }
+      ],
+      "explanation_md": "A biography written by someone else, after the events occurred, is a secondary source."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Wilma Rudolph kept a diary during the 1960 Olympics. A student also reads a book about Wilma Rudolph written in 2010. Which gives MORE direct information about what Wilma was feeling during the Olympics?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The book written in 2010, because it has more research",
+          "correct": false,
+          "explanation": "The 2010 book is a secondary source. It may have more research, but Wilma's own diary tells us directly what she felt."
+        },
+        {
+          "id": "b",
+          "label": "The diary, because it is a primary source written by Wilma herself during the event",
+          "correct": true,
+          "explanation": "Wilma's own diary tells us directly what she was thinking and feeling during the Olympics."
+        },
+        {
+          "id": "c",
+          "label": "Both give exactly the same quality of information",
+          "correct": false,
+          "explanation": "The diary gives a direct firsthand account of feelings. The book interprets those events from the outside."
+        },
+        {
+          "id": "d",
+          "label": "Neither - we cannot know what Wilma felt",
+          "correct": false,
+          "explanation": "A diary from the person herself is an excellent way to learn what someone was thinking and feeling."
+        }
+      ],
+      "explanation_md": "Wilma's own diary is a primary source. It gives a direct, firsthand account of what she was feeling during the Olympics."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A historian finds two sources about the founding of Nashville in 1779: (1) a letter written by a settler in 1779, and (2) a chapter in a history textbook written in 1985. Which statement about these sources is BEST?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only the 1985 textbook should be trusted",
+          "correct": false,
+          "explanation": "Both sources have value. A recent secondary source does not automatically replace a primary one."
+        },
+        {
+          "id": "b",
+          "label": "Only the 1779 letter should be trusted",
+          "correct": false,
+          "explanation": "The textbook analyzes many sources and may give important context the letter cannot. Both have value."
+        },
+        {
+          "id": "c",
+          "label": "Both are valuable - the letter gives a firsthand account, and the textbook provides context from research",
+          "correct": true,
+          "explanation": "Primary sources give direct experience; secondary sources provide broader context. Using both gives a fuller picture."
+        },
+        {
+          "id": "d",
+          "label": "Neither source tells us anything useful about Nashville's founding",
+          "correct": false,
+          "explanation": "Both sources provide valuable information from different perspectives."
+        }
+      ],
+      "explanation_md": "Using both primary (settler's letter) and secondary (textbook) sources gives the fullest picture of Nashville's founding."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sort these into primary and secondary sources:\n- A pioneer's diary from 1820\n- A textbook chapter about Tennessee history\n- A Civil War letter from a soldier\n- An encyclopedia article about the Civil War\n\nWhich list is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Primary: diary, soldier's letter. Secondary: textbook, encyclopedia.",
+          "correct": true,
+          "explanation": "The diary and soldier's letter are firsthand accounts (primary). The textbook and encyclopedia are written after the events (secondary)."
+        },
+        {
+          "id": "b",
+          "label": "Primary: textbook, encyclopedia. Secondary: diary, soldier's letter.",
+          "correct": false,
+          "explanation": "This is backwards. The diary and letter are primary; the textbook and encyclopedia are secondary."
+        },
+        {
+          "id": "c",
+          "label": "All four are primary sources",
+          "correct": false,
+          "explanation": "The textbook and encyclopedia are secondary sources, not primary."
+        },
+        {
+          "id": "d",
+          "label": "All four are secondary sources",
+          "correct": false,
+          "explanation": "The diary and soldier's letter are primary sources."
+        }
+      ],
+      "explanation_md": "Primary: pioneer's diary, soldier's letter. Secondary: textbook chapter, encyclopedia article."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is a diary from 1830 considered a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because diaries are always correct",
+          "correct": false,
+          "explanation": "Diaries may reflect personal bias. They are primary because they are firsthand accounts, not because they are always correct."
+        },
+        {
+          "id": "b",
+          "label": "Because it was written by someone who lived during that time and recorded events directly",
+          "correct": true,
+          "explanation": "A diary from 1830 is a primary source because it was written firsthand by someone living through those events."
+        },
+        {
+          "id": "c",
+          "label": "Because it is old",
+          "correct": false,
+          "explanation": "Age alone does not make something primary. What matters is whether it was created by someone who was there."
+        },
+        {
+          "id": "d",
+          "label": "Because historians chose to call it primary",
+          "correct": false,
+          "explanation": "Whether something is primary or secondary is determined by who created it and when, not by a historian's choice."
+        }
+      ],
+      "explanation_md": "A diary from 1830 is primary because it was written firsthand by someone who lived during that time."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student needs to write a report about the Cherokee Nation in Tennessee. Why should the student use BOTH primary and secondary sources?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To get more pages in the report",
+          "correct": false,
+          "explanation": "Using both source types is about getting better information, not just more pages."
+        },
+        {
+          "id": "b",
+          "label": "Primary sources give firsthand Cherokee voices; secondary sources provide broader historical context and analysis",
+          "correct": true,
+          "explanation": "Primary sources from Cherokee people give direct accounts. Secondary sources help explain the broader historical context."
+        },
+        {
+          "id": "c",
+          "label": "Because secondary sources are easier to find",
+          "correct": false,
+          "explanation": "The reason to use both is about the quality and type of information they provide, not ease of finding them."
+        },
+        {
+          "id": "d",
+          "label": "Primary sources are only for math; secondary sources are only for history",
+          "correct": false,
+          "explanation": "Both types of sources are used in history research."
+        }
+      ],
+      "explanation_md": "Primary sources give direct Cherokee voices and experiences. Secondary sources provide broader context. Using both gives the most complete picture."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a PRIMARY source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A history textbook",
+          "correct": false,
+          "explanation": "A textbook is a secondary source."
+        },
+        {
+          "id": "b",
+          "label": "A diary written by someone who lived through an event",
+          "correct": true,
+          "explanation": "A diary written firsthand by someone who was there is a primary source."
+        },
+        {
+          "id": "c",
+          "label": "An encyclopedia article",
+          "correct": false,
+          "explanation": "An encyclopedia is a secondary source."
+        },
+        {
+          "id": "d",
+          "label": "A biography about a famous person",
+          "correct": false,
+          "explanation": "A biography written by someone other than the subject is a secondary source."
+        }
+      ],
+      "explanation_md": "A diary written by someone who lived through an event is a primary source - firsthand."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a SECONDARY source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A letter written by a soldier in battle",
+          "correct": false,
+          "explanation": "A letter from a soldier is a primary source - firsthand."
+        },
+        {
+          "id": "b",
+          "label": "A photograph taken during an event",
+          "correct": false,
+          "explanation": "A photograph taken at the time is a primary source."
+        },
+        {
+          "id": "c",
+          "label": "A textbook chapter about the Civil War",
+          "correct": true,
+          "explanation": "A textbook chapter written after the Civil War by someone who was not there is a secondary source."
+        },
+        {
+          "id": "d",
+          "label": "An artifact found at a historic site",
+          "correct": false,
+          "explanation": "An artifact from the actual time period is a primary source."
+        }
+      ],
+      "explanation_md": "A textbook chapter about the Civil War is a secondary source - written after the event by someone who was not there."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Primary means 'first.' A primary source is created ___ the event.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Long after",
+          "correct": false,
+          "explanation": "Created long after describes a secondary source. Primary sources are created at the time of the event."
+        },
+        {
+          "id": "b",
+          "label": "During or at the time of",
+          "correct": true,
+          "explanation": "Primary sources are created during or at the time of the event, by someone who was there."
+        },
+        {
+          "id": "c",
+          "label": "Only in museums",
+          "correct": false,
+          "explanation": "Primary sources are not only found in museums. Diaries, letters, and photos are primary sources."
+        },
+        {
+          "id": "d",
+          "label": "By the government only",
+          "correct": false,
+          "explanation": "Primary sources can be created by anyone - settlers, soldiers, ordinary people."
+        }
+      ],
+      "explanation_md": "Primary sources are created during or at the time of the event by someone who was there."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A photograph of downtown Nashville taken in 1910 is:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A secondary source because it is old",
+          "correct": false,
+          "explanation": "Age does not make something secondary. The photograph was taken at the time, making it primary."
+        },
+        {
+          "id": "b",
+          "label": "A primary source because it was taken at the time",
+          "correct": true,
+          "explanation": "A photograph taken in 1910 captures what Nashville looked like then - it is a primary source."
+        },
+        {
+          "id": "c",
+          "label": "Not a useful source",
+          "correct": false,
+          "explanation": "Old photographs are very useful historical primary sources."
+        },
+        {
+          "id": "d",
+          "label": "A secondary source because it is a picture",
+          "correct": false,
+          "explanation": "Pictures can be primary sources. What matters is when and by whom it was created."
+        }
+      ],
+      "explanation_md": "A photograph taken in 1910 is a primary source - it captures the moment directly."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do we use primary sources to learn about history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because they are always longer than secondary sources",
+          "correct": false,
+          "explanation": "Primary sources are used for their firsthand information, not because of their length."
+        },
+        {
+          "id": "b",
+          "label": "Because they give us a direct firsthand account from people who were there",
+          "correct": true,
+          "explanation": "Primary sources let us hear directly from people who lived through historical events."
+        },
+        {
+          "id": "c",
+          "label": "Because they are always written in easy language",
+          "correct": false,
+          "explanation": "Primary sources can be difficult to read. We use them because they are firsthand."
+        },
+        {
+          "id": "d",
+          "label": "Because secondary sources do not exist",
+          "correct": false,
+          "explanation": "Both primary and secondary sources exist and are used by historians."
+        }
+      ],
+      "explanation_md": "Primary sources give us direct firsthand accounts from people who were there."
+    }
+  ]
+}
