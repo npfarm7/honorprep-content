@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.15",
+  "benchmark_description": "Describe how Tennessee's economy has changed over time, from farming to industry and technology.",
+  "course": "social_studies",
+  "strand": "TN",
+  "lesson": {
+    "title": "How Tennessee's Economy Has Changed",
+    "intro": "Tennessee's economy looks very different today than it did 200 years ago. Long ago, most people farmed the land. Today, people work in factories, offices, hospitals, and technology companies. Let's trace how Tennessee's economy changed over time!",
+    "body_md": "## What Is an Economy?\n\nAn **economy** is the system of making, selling, and buying goods and services in a community or country.\n\n## Early Tennessee: Farming Economy (1700s-1800s)\n\nWhen settlers first came to Tennessee, the land was the main source of income.\n\n**Main crops:**\n- Cotton (West Tennessee)\n- Corn and wheat (statewide)\n- Tobacco (Middle Tennessee)\n\n**How farming worked:**\n- Families grew their own food\n- Surplus (extra) crops were sold at market\n- The Mississippi and Tennessee Rivers helped move crops to market by boat\n- Many enslaved African Americans were forced to work on farms\n\n## Industrial Era: Factories and Manufacturing (Late 1800s-1900s)\n\nAfter the Civil War, Tennessee began to change. New railroads made it easier to move goods. **Factories** were built.\n\n**Industries that grew:**\n- Textile mills (making cloth and clothing)\n- Lumber and wood products\n- Mining (coal in East Tennessee)\n- Metal working\n\n**Tennessee Valley Authority (TVA) - 1933:**\nThe federal government built dams on Tennessee rivers, creating **cheap electricity** for homes and factories. This helped industry grow.\n\n## Modern Tennessee: Diverse Economy (1900s-Today)\n\nToday, Tennessee has one of the most diverse economies in the South.\n\n| Industry | Examples |\n|---|---|\n| **Auto manufacturing** | Volkswagen (Chattanooga), Nissan (Smyrna) |\n| **Healthcare** | Vanderbilt Medical Center, HCA Healthcare |\n| **Technology** | Growing tech scene in Nashville, Knoxville |\n| **Music/Entertainment** | Nashville's music industry |\n| **Tourism** | Smoky Mountains, Nashville, Memphis |\n| **Logistics** | FedEx world headquarters in Memphis |\n| **Education** | University of Tennessee, MTSU, Vanderbilt |\n\n## Why the Economy Changed\n\n- **Technology** made farming more efficient (fewer people needed on farms)\n- **Railroads and highways** made it easier to move goods\n- **Electricity** (especially from TVA dams) powered new factories\n- **Global trade** brought new companies to Tennessee\n- **Education** helped workers get better jobs",
+    "worked_example_md": "## Worked Example\n\n**Question:** Why did Tennessee's economy change from mostly farming to more manufacturing and technology?\n\n**Step 1:** Think about what made farming the main economy early on.\n- Tennessee had good land and rivers for transporting crops.\n- Most people in the 1700s and 1800s lived in rural areas.\n\n**Step 2:** Think about what changed.\n- New technology (machinery) let fewer people grow more crops.\n- Railroads made it possible to move more goods faster.\n- The TVA dams created cheap electricity for factories.\n- Companies started building factories in Tennessee.\n\n**Step 3:** Think about today.\n- Car factories, hospitals, music studios, and tech firms employ many Tennesseans.\n- The economy is much more diverse than farming alone.\n\n**Answer:** Tennessee's economy changed because new technologies, railroads, and electricity made manufacturing and service industries possible. As those grew, fewer people were needed on farms, and workers moved to new jobs in cities and towns.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What was Tennessee's MAIN economic activity in the early 1800s?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Building cars at factories",
+          "correct": false,
+          "explanation": "Car manufacturing came much later. The early economy was based on farming."
+        },
+        {
+          "id": "b",
+          "label": "Farming crops like cotton and corn",
+          "correct": true,
+          "explanation": "In the early 1800s, farming was the main economic activity in Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Running technology companies",
+          "correct": false,
+          "explanation": "Technology companies are a modern development. Early Tennessee was a farming economy."
+        },
+        {
+          "id": "d",
+          "label": "Flying airplanes",
+          "correct": false,
+          "explanation": "Airplanes were not invented until 1903. Early Tennessee had a farming economy."
+        }
+      ],
+      "explanation_md": "In the early 1800s, farming was Tennessee's main economic activity. People grew cotton, corn, and tobacco."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What did the Tennessee Valley Authority (TVA) provide that helped industry grow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "More farmland",
+          "correct": false,
+          "explanation": "The TVA built dams on rivers to create electricity, not to make more farmland."
+        },
+        {
+          "id": "b",
+          "label": "Cheap electricity for homes and factories",
+          "correct": true,
+          "explanation": "The TVA built dams that generated cheap electricity, which powered factories and homes across Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "New country music songs",
+          "correct": false,
+          "explanation": "The TVA was a government program to build dams and create electricity, not to create music."
+        },
+        {
+          "id": "d",
+          "label": "Free cars for all Tennesseans",
+          "correct": false,
+          "explanation": "The TVA provided electricity, not cars."
+        }
+      ],
+      "explanation_md": "The TVA built dams on Tennessee rivers that created cheap electricity, which powered new factories and homes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which modern industry is headquartered in Memphis, Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Volkswagen car factory",
+          "correct": false,
+          "explanation": "Volkswagen's U.S. factory is in Chattanooga, not Memphis."
+        },
+        {
+          "id": "b",
+          "label": "FedEx shipping company",
+          "correct": true,
+          "explanation": "FedEx, one of the world's largest shipping companies, has its world headquarters in Memphis."
+        },
+        {
+          "id": "c",
+          "label": "Country music record labels",
+          "correct": false,
+          "explanation": "Country music record labels are mainly in Nashville."
+        },
+        {
+          "id": "d",
+          "label": "The University of Tennessee",
+          "correct": false,
+          "explanation": "The main University of Tennessee campus is in Knoxville, not Memphis."
+        }
+      ],
+      "explanation_md": "FedEx has its world headquarters in Memphis, making logistics and shipping a major part of West Tennessee's economy."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How did railroads help Tennessee's economy change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Railroads made farming more difficult",
+          "correct": false,
+          "explanation": "Railroads actually helped farmers by making it easier to transport crops to market."
+        },
+        {
+          "id": "b",
+          "label": "Railroads made it easier to move goods and helped factories grow",
+          "correct": true,
+          "explanation": "Railroads allowed goods to travel faster and farther, helping manufacturing and trade grow in Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Railroads replaced all the rivers",
+          "correct": false,
+          "explanation": "Railroads added to the transportation system. Rivers were still used for transport."
+        },
+        {
+          "id": "d",
+          "label": "Railroads had no effect on the economy",
+          "correct": false,
+          "explanation": "Railroads greatly expanded trade and manufacturing by improving transportation."
+        }
+      ],
+      "explanation_md": "Railroads made it easier to transport goods, helping manufacturing and trade grow across Tennessee."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Today, Nashville's economy includes healthcare, music, and technology. This shows that Tennessee's economy is:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Exactly the same as it was in the 1800s",
+          "correct": false,
+          "explanation": "The economy has changed dramatically. In the 1800s, farming dominated. Today, many industries exist."
+        },
+        {
+          "id": "b",
+          "label": "Much more diverse today than it was in the past",
+          "correct": true,
+          "explanation": "Nashville's mix of healthcare, music, technology, and other industries shows a much more diverse economy than the early farming economy."
+        },
+        {
+          "id": "c",
+          "label": "Based only on farming",
+          "correct": false,
+          "explanation": "While farming still exists in Tennessee, the economy is much more diverse today."
+        },
+        {
+          "id": "d",
+          "label": "Getting smaller and weaker over time",
+          "correct": false,
+          "explanation": "Tennessee's economy has grown and diversified over time, not shrunk."
+        }
+      ],
+      "explanation_md": "Nashville's mix of healthcare, music, and technology shows Tennessee's economy is much more diverse today than in the past."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Volkswagen has a car factory in Chattanooga, Tennessee. What does this show about Tennessee's economy today?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee only makes Volkswagen cars",
+          "correct": false,
+          "explanation": "Tennessee makes many products. Volkswagen is just one example of its manufacturing industry."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee has attracted global manufacturing companies",
+          "correct": true,
+          "explanation": "International companies like Volkswagen choosing Tennessee shows the state is competitive in global manufacturing."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee's economy depends only on cars",
+          "correct": false,
+          "explanation": "Tennessee has many industries beyond car manufacturing."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee's economy is the same as Germany's",
+          "correct": false,
+          "explanation": "Having a German car company does not make Tennessee's economy the same as Germany's."
+        }
+      ],
+      "explanation_md": "International companies like Volkswagen choosing Tennessee shows the state has become competitive in global manufacturing."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why did fewer people need to work on farms as time went on?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Farming became illegal",
+          "correct": false,
+          "explanation": "Farming never became illegal. Farming machinery made it possible for fewer workers to grow more crops."
+        },
+        {
+          "id": "b",
+          "label": "New machinery let fewer workers grow more crops",
+          "correct": true,
+          "explanation": "Farm machinery like tractors and harvesters let one person do the work that once required many people."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee ran out of farmland",
+          "correct": false,
+          "explanation": "Tennessee still has farmland. Technology, not land shortage, reduced the number of farm workers needed."
+        },
+        {
+          "id": "d",
+          "label": "People stopped eating food",
+          "correct": false,
+          "explanation": "People never stopped eating. Technology made it possible to grow more food with fewer workers."
+        }
+      ],
+      "explanation_md": "Farm machinery allowed fewer workers to grow more crops, freeing people to work in other industries."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What role did rivers play in Tennessee's early farming economy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rivers were used to water all of Tennessee's crops",
+          "correct": false,
+          "explanation": "While rivers provided water, their main economic role was transportation of crops to market."
+        },
+        {
+          "id": "b",
+          "label": "Rivers were transportation highways for moving crops to markets",
+          "correct": true,
+          "explanation": "The Mississippi and Tennessee Rivers allowed farmers to boat their crops to markets in other states and countries."
+        },
+        {
+          "id": "c",
+          "label": "Rivers prevented farming in Tennessee",
+          "correct": false,
+          "explanation": "Rivers helped farming by providing a way to transport crops."
+        },
+        {
+          "id": "d",
+          "label": "Rivers had no importance to Tennessee's economy",
+          "correct": false,
+          "explanation": "Rivers were critically important for transporting crops in the early economy."
+        }
+      ],
+      "explanation_md": "Rivers like the Mississippi and Tennessee allowed farmers to transport their crops to markets in other places."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student compares Tennessee's economy in 1820 and today. Which statement is MOST accurate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both eras have the same industries",
+          "correct": false,
+          "explanation": "Tennessee's economy has changed dramatically from mainly farming to a diverse mix of industries."
+        },
+        {
+          "id": "b",
+          "label": "In 1820, farming dominated; today, manufacturing, healthcare, music, and tech all play major roles",
+          "correct": true,
+          "explanation": "This accurately describes how Tennessee's economy has diversified from its farming roots."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee's economy was bigger in 1820 than today",
+          "correct": false,
+          "explanation": "Tennessee's economy is much larger and more diverse today than in 1820."
+        },
+        {
+          "id": "d",
+          "label": "Technology has played no role in changing the economy",
+          "correct": false,
+          "explanation": "Technology has been one of the biggest drivers of economic change in Tennessee."
+        }
+      ],
+      "explanation_md": "Tennessee's economy shifted from farming (1820) to a diverse mix of manufacturing, healthcare, music, and tech industries today."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "The TVA was created in 1933 during a time when many Americans were poor and out of work. How did the TVA help Tennessee's economy in the long run?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The TVA only helped in 1933 and had no lasting impact",
+          "correct": false,
+          "explanation": "The TVA's impact lasted decades. Cheap electricity powered factories and economic growth long after 1933."
+        },
+        {
+          "id": "b",
+          "label": "Cheap electricity from TVA dams powered factories and attracted businesses, driving long-term economic growth",
+          "correct": true,
+          "explanation": "The TVA created affordable electricity that powered factories and attracted companies to Tennessee for decades."
+        },
+        {
+          "id": "c",
+          "label": "The TVA replaced all of Tennessee's farms",
+          "correct": false,
+          "explanation": "The TVA created electricity through dams. Farming continued and still exists in Tennessee today."
+        },
+        {
+          "id": "d",
+          "label": "The TVA only helped people in the western United States",
+          "correct": false,
+          "explanation": "The Tennessee Valley Authority specifically served the Tennessee River Valley region of the southeastern United States."
+        }
+      ],
+      "explanation_md": "The TVA created cheap electricity that powered factories and attracted businesses to Tennessee for decades, driving long-term economic growth."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Put Tennessee's economic history in the correct order from oldest to newest:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Farming, then industry and factories, then diverse modern economy",
+          "correct": true,
+          "explanation": "Tennessee's economy moved from farming to manufacturing to today's diverse economy."
+        },
+        {
+          "id": "b",
+          "label": "Technology, then farming, then factories",
+          "correct": false,
+          "explanation": "Technology came last, not first. Farming was first, then factories, then modern diverse industries."
+        },
+        {
+          "id": "c",
+          "label": "Factories, then farming, then technology",
+          "correct": false,
+          "explanation": "Farming came first, before factories. The correct order is farming, factories, diverse modern economy."
+        },
+        {
+          "id": "d",
+          "label": "All three happened at the same time",
+          "correct": false,
+          "explanation": "These economic stages happened in sequence over hundreds of years."
+        }
+      ],
+      "explanation_md": "Tennessee's economic history: farming first, then manufacturing and factories, then today's diverse modern economy."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What caused Tennessee's economy to shift away from mostly farming?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee ran out of good farmland",
+          "correct": false,
+          "explanation": "Tennessee still has farmland. The shift was due to technology and new industries, not lack of land."
+        },
+        {
+          "id": "b",
+          "label": "New technology, railroads, and electricity made manufacturing and service industries possible and efficient",
+          "correct": true,
+          "explanation": "Machines, railroads, and electricity (from TVA) made it possible to grow other industries alongside farming."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee made it illegal to farm",
+          "correct": false,
+          "explanation": "Farming was never made illegal. Other industries simply grew and became important."
+        },
+        {
+          "id": "d",
+          "label": "People in Tennessee stopped eating food",
+          "correct": false,
+          "explanation": "People never stopped eating. Technology reduced the number of workers needed on farms."
+        }
+      ],
+      "explanation_md": "New technology, railroads, and electricity made manufacturing and service industries grow in Tennessee."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How is Tennessee's economy today DIFFERENT from its economy in 1850?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In 1850 there were more cars; today there are fewer",
+          "correct": false,
+          "explanation": "Cars were not invented until the late 1800s. In 1850, there were no cars."
+        },
+        {
+          "id": "b",
+          "label": "In 1850 farming dominated; today Tennessee has many industries including manufacturing, healthcare, music, and technology",
+          "correct": true,
+          "explanation": "Tennessee's economy has diversified dramatically from mostly farming in 1850 to many different industries today."
+        },
+        {
+          "id": "c",
+          "label": "The economy is exactly the same as it was in 1850",
+          "correct": false,
+          "explanation": "Tennessee's economy has changed greatly. Many new industries have grown."
+        },
+        {
+          "id": "d",
+          "label": "In 1850 Tennessee had more technology companies",
+          "correct": false,
+          "explanation": "Technology companies are a modern phenomenon. In 1850, Tennessee was primarily a farming state."
+        }
+      ],
+      "explanation_md": "In 1850 farming dominated. Today Tennessee has manufacturing, healthcare, music, technology, and more."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What did most people in early Tennessee do for work?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Work at computer companies",
+          "correct": false,
+          "explanation": "Computers were not invented in early Tennessee. Most people farmed."
+        },
+        {
+          "id": "b",
+          "label": "Farm the land",
+          "correct": true,
+          "explanation": "In early Tennessee, farming was the main way people made a living."
+        },
+        {
+          "id": "c",
+          "label": "Drive cars",
+          "correct": false,
+          "explanation": "Cars were not invented in early Tennessee. Most people farmed."
+        },
+        {
+          "id": "d",
+          "label": "Work in hospitals",
+          "correct": false,
+          "explanation": "Modern hospitals are a recent development. Early Tennesseans mainly farmed."
+        }
+      ],
+      "explanation_md": "In early Tennessee, farming was the main way people made a living."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the TVA stand for?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee Vehicles Association",
+          "correct": false,
+          "explanation": "TVA stands for Tennessee Valley Authority, which built dams for electricity."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee Valley Authority",
+          "correct": true,
+          "explanation": "TVA stands for Tennessee Valley Authority. It built dams to create cheap electricity."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee Vacation Area",
+          "correct": false,
+          "explanation": "TVA stands for Tennessee Valley Authority, a government program to build dams."
+        },
+        {
+          "id": "d",
+          "label": "Tall Vehicles of America",
+          "correct": false,
+          "explanation": "TVA stands for Tennessee Valley Authority."
+        }
+      ],
+      "explanation_md": "TVA stands for Tennessee Valley Authority. It built dams on Tennessee rivers to create cheap electricity."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How did the TVA help Tennessee grow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It gave everyone in Tennessee a free car",
+          "correct": false,
+          "explanation": "The TVA created electricity, not free cars."
+        },
+        {
+          "id": "b",
+          "label": "It created cheap electricity that powered homes and factories",
+          "correct": true,
+          "explanation": "TVA dams on Tennessee rivers created affordable electricity that helped factories and homes grow."
+        },
+        {
+          "id": "c",
+          "label": "It built new schools across the state",
+          "correct": false,
+          "explanation": "The TVA built dams for electricity, not schools."
+        },
+        {
+          "id": "d",
+          "label": "It made Tennessee a separate country",
+          "correct": false,
+          "explanation": "Tennessee is a U.S. state. The TVA was a U.S. government program."
+        }
+      ],
+      "explanation_md": "The TVA created cheap electricity from dams on Tennessee rivers, which powered factories and homes."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which city in Tennessee is famous for country music?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Memphis",
+          "correct": false,
+          "explanation": "Memphis is known for blues music. Nashville is famous for country music."
+        },
+        {
+          "id": "b",
+          "label": "Nashville",
+          "correct": true,
+          "explanation": "Nashville is called Music City USA and is famous for country music."
+        },
+        {
+          "id": "c",
+          "label": "Knoxville",
+          "correct": false,
+          "explanation": "Knoxville is known for the University of Tennessee and Smoky Mountains access. Nashville is famous for country music."
+        },
+        {
+          "id": "d",
+          "label": "Chattanooga",
+          "correct": false,
+          "explanation": "Chattanooga is known for its Volkswagen factory and natural beauty. Nashville is famous for country music."
+        }
+      ],
+      "explanation_md": "Nashville is called Music City USA and is famous for its country music industry."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Tennessee's economy today has many different industries. This means it is:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only based on farming",
+          "correct": false,
+          "explanation": "Tennessee's economy today includes manufacturing, healthcare, music, technology, and more, not just farming."
+        },
+        {
+          "id": "b",
+          "label": "Diverse, with many different types of jobs",
+          "correct": true,
+          "explanation": "Today Tennessee has farming, manufacturing, healthcare, music, technology, and many other industries."
+        },
+        {
+          "id": "c",
+          "label": "Getting smaller and weaker",
+          "correct": false,
+          "explanation": "Tennessee's economy has grown and diversified over time."
+        },
+        {
+          "id": "d",
+          "label": "Exactly the same as it was 200 years ago",
+          "correct": false,
+          "explanation": "Tennessee's economy has changed greatly in 200 years."
+        }
+      ],
+      "explanation_md": "Today Tennessee has many different industries, making its economy diverse."
+    }
+  ]
+}
