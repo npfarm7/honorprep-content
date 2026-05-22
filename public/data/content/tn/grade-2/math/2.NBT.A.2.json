@@ -1,0 +1,463 @@
+{
+  "skill_id": "2.NBT.A.2",
+  "benchmark_description": "Count within 1000; skip-count by 5s, 10s, and 100s.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Skip Counting by 5s, 10s, and 100s",
+    "intro": "Skip counting is like jumping over numbers! Instead of counting one at a time, you jump by 5, 10, or 100. This helps you count big groups of things really fast!",
+    "body_md": "## Skip Count by 5s\n\nWhen you skip count by 5, you add 5 each time.\n\n5, 10, 15, 20, 25, 30, 35, 40, 45, 50...\n\n**Pattern:** Numbers end in 0 or 5.\n\n**Trick:** Count your fingers! Each hand has 5 fingers. Two hands = 10. Three hands = 15.\n\n## Skip Count by 10s\n\nWhen you skip count by 10, you add 10 each time.\n\n10, 20, 30, 40, 50, 60, 70, 80, 90, 100...\n\n**Pattern:** Numbers always end in 0.\n\n**What happens to the digits:** Only the tens digit changes! The ones digit stays 0.\n\n| Number | Tens digit | Ones digit |\n|---|---|---|\n| 10 | 1 | 0 |\n| 20 | 2 | 0 |\n| 30 | 3 | 0 |\n| 40 | 4 | 0 |\n\n## Skip Count by 100s\n\nWhen you skip count by 100, you add 100 each time.\n\n100, 200, 300, 400, 500, 600, 700, 800, 900, 1000\n\n**Pattern:** Only the hundreds digit changes!\n\n**What stays the same:** The tens and ones digits do not change.\n\n**Example starting at 240:**\n240, 340, 440, 540, 640, 740...\n\n## Starting from Different Numbers\n\nYou do not always start at 0!\n\n**By 5s from 25:** 25, 30, 35, 40, 45...\n**By 10s from 35:** 35, 45, 55, 65, 75...\n**By 100s from 125:** 125, 225, 325, 425...\n\n## The Number Chart\n\nA number chart helps you see the patterns. Count by 10s going down any column. Count by 1s going across any row.",
+    "worked_example_md": "**Problem:** Skip count by 10s. Start at 260. Write the next 4 numbers.\n\n**Think:** I am adding 10 each time. Only the tens digit changes!\n\n- 260 + 10 = **270**\n- 270 + 10 = **280**\n- 280 + 10 = **290**\n- 290 + 10 = **300** (when tens reach 10, we regroup into a new hundred!)\n\n**Answer:** 270, 280, 290, 300",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 5s: 5, 10, 15, ?, 25\n\nWhat is the missing number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "18",
+          "correct": false,
+          "explanation": "18 is not in the count-by-5s pattern. 5, 10, 15, then add 5 more: 20. The pattern only hits numbers ending in 0 or 5."
+        },
+        {
+          "id": "b",
+          "label": "19",
+          "correct": false,
+          "explanation": "19 is not in the skip-count-by-5s pattern. 15 + 5 = 20."
+        },
+        {
+          "id": "c",
+          "label": "20",
+          "correct": true,
+          "explanation": "Correct! 15 + 5 = 20. Counting by 5s: 5, 10, 15, 20, 25."
+        },
+        {
+          "id": "d",
+          "label": "22",
+          "correct": false,
+          "explanation": "22 is not in the count-by-5s pattern. 15 + 5 = 20."
+        }
+      ],
+      "explanation_md": "Count by 5s: 5, 10, 15, 20, 25. The missing number is 20."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 10s: 40, 50, 60, ?\n\nWhat comes next?",
+      "correct_answer": "70",
+      "explanation_md": "Adding 10 each time: 40, 50, 60, 70. The next number is 70."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 100s: 100, 200, 300, ?, 500\n\nWhat is the missing number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "350",
+          "correct": false,
+          "explanation": "350 is not in the count-by-100s pattern. 300 + 100 = 400."
+        },
+        {
+          "id": "b",
+          "label": "310",
+          "correct": false,
+          "explanation": "310 is not in the count-by-100s pattern. 300 + 100 = 400."
+        },
+        {
+          "id": "c",
+          "label": "400",
+          "correct": true,
+          "explanation": "Correct! 300 + 100 = 400. Counting by 100s: 100, 200, 300, 400, 500."
+        },
+        {
+          "id": "d",
+          "label": "330",
+          "correct": false,
+          "explanation": "330 is not in the count-by-100s pattern. Adding 100 to 300 gives 400."
+        }
+      ],
+      "explanation_md": "Count by 100s: 100, 200, 300, 400, 500. The missing number is 400."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Skip count by 5s: 30, 35, 40, 45, ?\n\nWhat comes next?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "46",
+          "correct": false,
+          "explanation": "46 is not in the count-by-5s pattern. 45 + 5 = 50."
+        },
+        {
+          "id": "b",
+          "label": "48",
+          "correct": false,
+          "explanation": "48 is not in the count-by-5s pattern. 45 + 5 = 50."
+        },
+        {
+          "id": "c",
+          "label": "50",
+          "correct": true,
+          "explanation": "Correct! 45 + 5 = 50."
+        },
+        {
+          "id": "d",
+          "label": "55",
+          "correct": false,
+          "explanation": "55 comes after 50. The question asks for the next number after 45: 45 + 5 = 50."
+        }
+      ],
+      "explanation_md": "Count by 5s: 30, 35, 40, 45, 50. The next number is 50."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Skip count by 100s starting at 250. What is the 3rd number in the sequence?",
+      "correct_answer": "450",
+      "explanation_md": "Starting at 250, count by 100s: 350 (1st), 450 (2nd... wait \u2014 the 3rd number after 250 would be: 1st = 350, 2nd = 450, 3rd = 550. But if the first number IS 250, then: 250 (1st), 350 (2nd), 450 (3rd). The 3rd number is 450."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list shows skip counting by 10s?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "12, 17, 22, 27",
+          "correct": false,
+          "explanation": "This is counting by 5s, not 10s. Counting by 10s: each number is 10 more than the last."
+        },
+        {
+          "id": "b",
+          "label": "25, 35, 45, 55",
+          "correct": true,
+          "explanation": "Correct! 25 + 10 = 35, 35 + 10 = 45, 45 + 10 = 55. This is skip counting by 10s."
+        },
+        {
+          "id": "c",
+          "label": "10, 20, 40, 80",
+          "correct": false,
+          "explanation": "This doubles each time. Count by 10s: 10, 20, 30, 40. Each number should be exactly 10 more."
+        },
+        {
+          "id": "d",
+          "label": "100, 200, 300, 400",
+          "correct": false,
+          "explanation": "This is counting by 100s, not 10s."
+        }
+      ],
+      "explanation_md": "25, 35, 45, 55 \u2014 each number is 10 more than the last. This is skip counting by 10s."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Count by 100s: 400, 500, 600, 700, ?\n\nWhat comes next?",
+      "correct_answer": "800",
+      "explanation_md": "Count by 100s: 400, 500, 600, 700, 800. The next number is 800."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Amy counts by 5s starting at 45. What are the next three numbers she says?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "46, 47, 48",
+          "correct": false,
+          "explanation": "Those are counting by 1s. Skip counting by 5s means adding 5 each time: 50, 55, 60."
+        },
+        {
+          "id": "b",
+          "label": "50, 55, 60",
+          "correct": true,
+          "explanation": "Correct! 45 + 5 = 50, 50 + 5 = 55, 55 + 5 = 60."
+        },
+        {
+          "id": "c",
+          "label": "50, 60, 70",
+          "correct": false,
+          "explanation": "50, 60, 70 counts by 10s, not 5s. By 5s: 50, 55, 60."
+        },
+        {
+          "id": "d",
+          "label": "55, 65, 75",
+          "correct": false,
+          "explanation": "You skipped 50. The first number after 45 is 45 + 5 = 50. Then 55, then 60."
+        }
+      ],
+      "explanation_md": "Skip counting by 5s from 45: 50, 55, 60."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 10s: ?, 680, 690, 700\n\nWhat is the missing first number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "660",
+          "correct": false,
+          "explanation": "670 - 10 = 660, but we need the number before 680. 680 - 10 = 670."
+        },
+        {
+          "id": "b",
+          "label": "670",
+          "correct": true,
+          "explanation": "Correct! 680 - 10 = 670. The missing number is 670."
+        },
+        {
+          "id": "c",
+          "label": "675",
+          "correct": false,
+          "explanation": "675 does not fit the count-by-10s pattern. 680 - 10 = 670."
+        },
+        {
+          "id": "d",
+          "label": "690",
+          "correct": false,
+          "explanation": "690 comes after 680, not before it. The number before 680 in count-by-10s is 670."
+        }
+      ],
+      "explanation_md": "Count by 10s backward: 700, 690, 680, 670. The missing first number is 670."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "James counts by 100s starting at 125. What is the 5th number he says?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "525",
+          "correct": true,
+          "explanation": "Correct! Starting at 125: 125 (1st), 225 (2nd), 325 (3rd), 425 (4th), 525 (5th)."
+        },
+        {
+          "id": "b",
+          "label": "625",
+          "correct": false,
+          "explanation": "625 is the 6th number. Count: 125, 225, 325, 425, 525 (5th), 625 (6th)."
+        },
+        {
+          "id": "c",
+          "label": "500",
+          "correct": false,
+          "explanation": "500 is not in this sequence. Starting at 125, skip by 100: 125, 225, 325, 425, 525."
+        },
+        {
+          "id": "d",
+          "label": "425",
+          "correct": false,
+          "explanation": "425 is the 4th number. The 5th is one more skip: 425 + 100 = 525."
+        }
+      ],
+      "explanation_md": "Starting at 125, count by 100s: 125, 225, 325, 425, 525. The 5th number is 525."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 5s: 75, 80, ?, 90, 95\n\nWhat is the missing number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "82",
+          "correct": false,
+          "explanation": "82 is not in the count-by-5s pattern. 80 + 5 = 85."
+        },
+        {
+          "id": "b",
+          "label": "84",
+          "correct": false,
+          "explanation": "84 does not fit. Count-by-5s numbers end in 0 or 5. 80 + 5 = 85."
+        },
+        {
+          "id": "c",
+          "label": "85",
+          "correct": true,
+          "explanation": "Correct! 80 + 5 = 85. Count by 5s: 75, 80, 85, 90, 95."
+        },
+        {
+          "id": "d",
+          "label": "88",
+          "correct": false,
+          "explanation": "88 does not fit the count-by-5s pattern. 80 + 5 = 85."
+        }
+      ],
+      "explanation_md": "Count by 5s: 75, 80, 85, 90, 95. The missing number is 85."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Count by 100s: 350, 450, ?, 650\n\nWhat is the missing number?",
+      "correct_answer": "550",
+      "explanation_md": "Count by 100s: 350, 450, 550, 650. The missing number is 550."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sara counts by 10s starting at 730. What is the 4th number she says?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "760",
+          "correct": false,
+          "explanation": "760 is the 4th number if we count the first jump as 740. But if 730 is the 1st number: 730, 740, 750, 760 (4th). Actually 760 IS correct."
+        },
+        {
+          "id": "b",
+          "label": "770",
+          "correct": false,
+          "explanation": "Starting at 730: 730 (1st), 740 (2nd), 750 (3rd), 760 (4th). The 4th number is 760, not 770."
+        },
+        {
+          "id": "c",
+          "label": "760",
+          "correct": true,
+          "explanation": "Correct! Starting at 730: 730 (1st), 740 (2nd), 750 (3rd), 760 (4th)."
+        },
+        {
+          "id": "d",
+          "label": "730",
+          "correct": false,
+          "explanation": "730 is the 1st number. By 10s: 730, 740, 750, 760. The 4th is 760."
+        }
+      ],
+      "explanation_md": "Starting at 730: 730 (1st), 740 (2nd), 750 (3rd), 760 (4th)."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 10s: 10, 20, 30, ?\n\nWhat comes next?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "31",
+          "correct": false,
+          "explanation": "31 is only 1 more than 30. We are adding 10 each time. 30 + 10 = 40."
+        },
+        {
+          "id": "b",
+          "label": "35",
+          "correct": false,
+          "explanation": "35 is only 5 more than 30. We are adding 10 each time. 30 + 10 = 40."
+        },
+        {
+          "id": "c",
+          "label": "40",
+          "correct": true,
+          "explanation": "Correct! 30 + 10 = 40. Count by 10s: 10, 20, 30, 40."
+        },
+        {
+          "id": "d",
+          "label": "50",
+          "correct": false,
+          "explanation": "50 comes after 40. The next number after 30 is 30 + 10 = 40."
+        }
+      ],
+      "explanation_md": "Count by 10s: 10, 20, 30, 40. The next number is 40."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 5s: 5, 10, 15, ?\n\nWhat comes next?",
+      "correct_answer": "20",
+      "explanation_md": "Count by 5s: 5, 10, 15, 20. Add 5 each time."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 100s: 100, 200, ?\n\nWhat comes next?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "210",
+          "correct": false,
+          "explanation": "210 is only 10 more than 200. We add 100 each time. 200 + 100 = 300."
+        },
+        {
+          "id": "b",
+          "label": "250",
+          "correct": false,
+          "explanation": "250 is 50 more than 200. We add 100 each time. 200 + 100 = 300."
+        },
+        {
+          "id": "c",
+          "label": "300",
+          "correct": true,
+          "explanation": "Correct! 200 + 100 = 300."
+        },
+        {
+          "id": "d",
+          "label": "400",
+          "correct": false,
+          "explanation": "400 skips over 300. The next number after 200 is 200 + 100 = 300."
+        }
+      ],
+      "explanation_md": "Count by 100s: 100, 200, 300. Add 100 each time."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Count by 10s: 60, 70, 80, ?\n\nWhat comes next?",
+      "correct_answer": "90",
+      "explanation_md": "Count by 10s: 60, 70, 80, 90. Add 10 each time."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 5s: 20, 25, 30, ?, 40\n\nWhat is the missing number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "33",
+          "correct": false,
+          "explanation": "33 is not in the count-by-5s pattern. Numbers must end in 0 or 5. 30 + 5 = 35."
+        },
+        {
+          "id": "b",
+          "label": "35",
+          "correct": true,
+          "explanation": "Correct! 30 + 5 = 35. Count by 5s: 20, 25, 30, 35, 40."
+        },
+        {
+          "id": "c",
+          "label": "37",
+          "correct": false,
+          "explanation": "37 is not in the count-by-5s pattern. 30 + 5 = 35."
+        },
+        {
+          "id": "d",
+          "label": "38",
+          "correct": false,
+          "explanation": "38 is not in the count-by-5s pattern. 30 + 5 = 35."
+        }
+      ],
+      "explanation_md": "Count by 5s: 20, 25, 30, 35, 40. The missing number is 35."
+    }
+  ]
+}
