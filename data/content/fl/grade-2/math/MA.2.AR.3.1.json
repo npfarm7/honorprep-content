@@ -1,0 +1,248 @@
+{
+  "skill_id": "MA.2.AR.3.1",
+  "benchmark_description": "Represent an even number using two equal groups or two equal addends. Represent an odd number using two equal groups with one left over or two equal addends plus one.",
+  "course": "math",
+  "strand": "AR",
+  "lesson": {
+    "title": "Even and Odd Numbers",
+    "intro": "Can you share 10 grapes equally with a friend? What about 9 grapes? Some numbers share perfectly (even), and some leave one extra (odd)!",
+    "body_md": "## Even Numbers\nA number is **even** if you can split it into two equal groups with nothing left over.\n\n- 6 is even: 3 + 3 = 6. Two groups of 3.\n- 8 is even: 4 + 4 = 8. Two groups of 4.\n- 10 is even: 5 + 5 = 10. Two groups of 5.\n\n**Pattern:** Even numbers end in 0, 2, 4, 6, or 8.\n\n## Odd Numbers\nA number is **odd** if you split it into two equal groups and ONE is left over.\n\n- 7 is odd: 3 + 3 + 1 = 7. Two groups of 3, with 1 left.\n- 9 is odd: 4 + 4 + 1 = 9. Two groups of 4, with 1 left.\n- 5 is odd: 2 + 2 + 1 = 5. Two groups of 2, with 1 left.\n\n**Pattern:** Odd numbers end in 1, 3, 5, 7, or 9.\n\n## Quick Check\nLook at the ones digit:\n- 0, 2, 4, 6, 8 in the ones place = **EVEN**\n- 1, 3, 5, 7, 9 in the ones place = **ODD**\n\n## Doubles\nEven numbers = a double: 12 = 6+6, 14 = 7+7\nOdd numbers = a double plus one: 13 = 6+6+1, 15 = 7+7+1",
+    "worked_example_md": "**Is 18 even or odd? Show using equal groups.**\n\nStep 1: Look at the ones digit of 18. The ones digit is **8**.\n8 is in the list 0,2,4,6,8, so 18 is **even**.\n\nStep 2: Show two equal groups.\n18 = 9 + 9. Two groups of 9, nothing left over.\n\n**18 is EVEN.**\n\n**Is 15 even or odd?**\nOnes digit = 5. Odd digit. 15 is **ODD**.\n15 = 7 + 7 + 1. Two groups of 7, plus 1 left over.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 8 even or odd?",
+      "choices": [
+        {"id": "a", "label": "Even", "correct": true, "explanation": "8 ends in 8 (even digit). 8 = 4+4, two equal groups with nothing left over. Even!"},
+        {"id": "b", "label": "Odd", "correct": false, "explanation": "8 ends in 8, an even digit. 8 = 4+4. Two equal groups, nothing left over. 8 is even."},
+        {"id": "c", "label": "Both", "correct": false, "explanation": "Numbers are either even or odd, not both. 8 is even."},
+        {"id": "d", "label": "Neither", "correct": false, "explanation": "Every whole number is even or odd. 8 is even."}
+      ],
+      "explanation_md": "8 is EVEN. Ends in 8. 8 = 4+4, two equal groups, nothing left over."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 13 even or odd?",
+      "choices": [
+        {"id": "a", "label": "Even", "correct": false, "explanation": "13 ends in 3, an odd digit. 13 = 6+6+1. One is left over, so 13 is odd."},
+        {"id": "b", "label": "Odd", "correct": true, "explanation": "13 ends in 3 (odd digit). 13 = 6+6+1. Two groups of 6, 1 left over. Odd!"},
+        {"id": "c", "label": "Both", "correct": false, "explanation": "Numbers are either even or odd. 13 is odd."},
+        {"id": "d", "label": "Neither", "correct": false, "explanation": "Every whole number is even or odd. 13 is odd."}
+      ],
+      "explanation_md": "13 is ODD. Ones digit is 3. 13 = 6+6+1. One left over."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Fill in: 16 = ___ + ___. (Use two equal addends. Write just one number.)",
+      "correct_answer": "8",
+      "explanation_md": "16 = 8+8. Two equal groups of 8. 16 is even."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is EVEN?",
+      "choices": [
+        {"id": "a", "label": "17", "correct": false, "explanation": "17 ends in 7 (odd). 17 is odd."},
+        {"id": "b", "label": "23", "correct": false, "explanation": "23 ends in 3 (odd). 23 is odd."},
+        {"id": "c", "label": "34", "correct": true, "explanation": "34 ends in 4 (even). 34 = 17+17. Even!"},
+        {"id": "d", "label": "45", "correct": false, "explanation": "45 ends in 5 (odd). 45 is odd."}
+      ],
+      "explanation_md": "34 ends in 4 (even). 34 = 17+17. Even!"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Max has 11 grapes to share equally with a friend. What happens?",
+      "choices": [
+        {"id": "a", "label": "Each gets 5 grapes and 1 is left over.", "correct": true, "explanation": "11 is odd. 11 = 5+5+1. Each gets 5, and 1 is left over."},
+        {"id": "b", "label": "Each gets 5 grapes with nothing left over.", "correct": false, "explanation": "5+5=10, not 11. There is 1 extra grape. 11 is odd."},
+        {"id": "c", "label": "Each gets 6 grapes with nothing left over.", "correct": false, "explanation": "6+6=12, not 11. 11 = 5+5+1."},
+        {"id": "d", "label": "Each gets 6 grapes and 1 is left over.", "correct": false, "explanation": "6+6+1=13, not 11. 11 = 5+5+1."}
+      ],
+      "explanation_md": "11 is odd. 11 = 5+5+1. Each gets 5 with 1 left over."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which equation shows that 22 is even?",
+      "choices": [
+        {"id": "a", "label": "22 = 10 + 12", "correct": false, "explanation": "10 and 12 are not equal addends. Even numbers use two EQUAL addends: 22 = 11+11."},
+        {"id": "b", "label": "22 = 11 + 11", "correct": true, "explanation": "22 = 11+11. Two equal groups of 11, nothing left over. Proves 22 is even."},
+        {"id": "c", "label": "22 = 10 + 10 + 1 + 1", "correct": false, "explanation": "This does not show two equal addends. Use 22 = 11+11."},
+        {"id": "d", "label": "22 = 21 + 1", "correct": false, "explanation": "21 and 1 are not equal addends. Even numbers need two EQUAL groups."}
+      ],
+      "explanation_md": "22 = 11+11. Two equal addends. Shows 22 is even."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which equation shows that 17 is odd?",
+      "choices": [
+        {"id": "a", "label": "17 = 8 + 9", "correct": false, "explanation": "8 and 9 are not equal. To show odd, use two EQUAL groups plus one: 17 = 8+8+1."},
+        {"id": "b", "label": "17 = 8 + 8 + 1", "correct": true, "explanation": "17 = 8+8+1. Two equal groups of 8, plus 1. Proves 17 is odd."},
+        {"id": "c", "label": "17 = 10 + 7", "correct": false, "explanation": "10 and 7 are not equal groups plus one. The odd model is: 8+8+1=17."},
+        {"id": "d", "label": "17 = 16 + 1", "correct": false, "explanation": "16 and 1 are not two equal groups. Use 8+8+1."}
+      ],
+      "explanation_md": "17 = 8+8+1. Two equal groups of 8, plus 1. Shows 17 is odd."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Is 50 even or odd? How do you know?",
+      "choices": [
+        {"id": "a", "label": "Odd, because it has two digits.", "correct": false, "explanation": "Number of digits does not decide even or odd. Look at the ones digit: 0 is even."},
+        {"id": "b", "label": "Even, because the ones digit is 0.", "correct": true, "explanation": "50 ends in 0. Zero is an even digit. 50 = 25+25. Even!"},
+        {"id": "c", "label": "Odd, because 5 is odd.", "correct": false, "explanation": "The 5 is in the TENS place. For even/odd, look at the ONES digit: 0. Zero is even."},
+        {"id": "d", "label": "Even, because all big numbers are even.", "correct": false, "explanation": "Not all big numbers are even. The ones digit decides: 50 ends in 0, so even."}
+      ],
+      "explanation_md": "50 ends in 0 (ones digit). 0 is even. 50 = 25+25. EVEN."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement about even numbers is NOT true?",
+      "choices": [
+        {"id": "a", "label": "Even numbers end in 0, 2, 4, 6, or 8.", "correct": false, "explanation": "This IS true about even numbers."},
+        {"id": "b", "label": "Every even number equals a number plus itself.", "correct": false, "explanation": "This IS true. 12=6+6, 20=10+10."},
+        {"id": "c", "label": "Even numbers split into two equal groups with one left over.", "correct": true, "explanation": "This is NOT true. Even numbers split with NOTHING left over. One left over means ODD."},
+        {"id": "d", "label": "Even numbers include 0, 2, 4, 6, 8, 10...", "correct": false, "explanation": "This IS true. 0 is even."}
+      ],
+      "explanation_md": "Even numbers have NOTHING left over when split into two equal groups. One left over = odd."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "When you add two odd numbers, is the sum even or odd?",
+      "choices": [
+        {"id": "a", "label": "Always even", "correct": true, "explanation": "Odd + Odd = Even. 3+5=8, 7+9=16, 11+13=24. The two extra ones pair up to make an even number."},
+        {"id": "b", "label": "Always odd", "correct": false, "explanation": "Two odd numbers always sum to even. 5+7=12 (even). The two leftover 1s combine: 1+1=2, which is even."},
+        {"id": "c", "label": "Sometimes even, sometimes odd", "correct": false, "explanation": "Two odd numbers always make an even sum. Test: 1+1=2, 3+3=6, 5+7=12. Always even!"},
+        {"id": "d", "label": "Cannot tell without calculating", "correct": false, "explanation": "Odd + Odd always = Even. The two leftovers pair up to make 2 (even)."}
+      ],
+      "explanation_md": "Odd + Odd = Even. Each odd number has 1 extra. Those two extras combine: 1+1=2 (even)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is odd?",
+      "choices": [
+        {"id": "a", "label": "46", "correct": false, "explanation": "46 ends in 6 (even). 46 is even."},
+        {"id": "b", "label": "72", "correct": false, "explanation": "72 ends in 2 (even). 72 is even."},
+        {"id": "c", "label": "85", "correct": true, "explanation": "85 ends in 5 (odd). 85 is odd."},
+        {"id": "d", "label": "90", "correct": false, "explanation": "90 ends in 0 (even). 90 is even."}
+      ],
+      "explanation_md": "85 ends in 5 (odd digit). 85 is ODD."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Show that 19 is odd using two equal groups.",
+      "choices": [
+        {"id": "a", "label": "19 = 9 + 10", "correct": false, "explanation": "9 and 10 are not equal. To show odd, use equal groups plus one: 19 = 9+9+1."},
+        {"id": "b", "label": "19 = 9 + 9 + 1", "correct": true, "explanation": "19 = 9+9+1. Two equal groups of 9 with 1 left over. Proves 19 is odd."},
+        {"id": "c", "label": "19 = 10 + 9", "correct": false, "explanation": "This does not use equal groups. Use 9+9+1."},
+        {"id": "d", "label": "19 = 18 + 1", "correct": false, "explanation": "18 and 1 are not equal groups. Use 9+9+1."}
+      ],
+      "explanation_md": "19 = 9+9+1. Two equal groups of 9, plus 1. Shows 19 is odd."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Bella has 24 cookies to share equally between 2 plates. Can she do it with no extras? Is 24 even or odd?",
+      "choices": [
+        {"id": "a", "label": "Yes, no extras. 24 is even.", "correct": true, "explanation": "24 ends in 4 (even). 24 = 12+12. Two equal groups of 12, no extras. Even!"},
+        {"id": "b", "label": "No, 1 extra. 24 is odd.", "correct": false, "explanation": "24 ends in 4 (even). 24 = 12+12. No extras. 24 is even."},
+        {"id": "c", "label": "Yes, no extras. 24 is odd.", "correct": false, "explanation": "If you split equally with no extras, the number is EVEN."},
+        {"id": "d", "label": "No, 2 extras. 24 is odd.", "correct": false, "explanation": "24 = 12+12. Zero extras. 24 is even."}
+      ],
+      "explanation_md": "24 ends in 4 (even). 24 = 12+12. Two equal groups, no extras. EVEN."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which numbers are even? Look at: 1, 2, 3, 4, 5",
+      "choices": [
+        {"id": "a", "label": "1, 3, 5", "correct": false, "explanation": "1, 3, and 5 are odd. Even numbers are 2 and 4."},
+        {"id": "b", "label": "2, 4", "correct": true, "explanation": "2 and 4 are even. They split into equal groups with nothing left over."},
+        {"id": "c", "label": "1, 2, 3, 4, 5", "correct": false, "explanation": "Not all are even. Only 2 and 4 are even."},
+        {"id": "d", "label": "5", "correct": false, "explanation": "5 is odd. Even numbers end in 0, 2, 4, 6, or 8."}
+      ],
+      "explanation_md": "Even numbers: 2 and 4. They split into equal groups with nothing left over."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "I have 6 cookies. Can I share them equally with 1 friend so we each get the same amount?",
+      "choices": [
+        {"id": "a", "label": "No, there will be 1 left over.", "correct": false, "explanation": "6 is even. 6 = 3+3. Each gets 3 cookies, none left over."},
+        {"id": "b", "label": "Yes, each gets 3 with none left over.", "correct": true, "explanation": "6 is even. 6 = 3+3. Two equal groups of 3. No extras!"},
+        {"id": "c", "label": "No, 6 is odd.", "correct": false, "explanation": "6 ends in 6, which is even. 6 is even."},
+        {"id": "d", "label": "Yes, each gets 4 with none left over.", "correct": false, "explanation": "4+4=8, not 6. Each gets 3: 3+3=6."}
+      ],
+      "explanation_md": "6 is even. 6 = 3+3. Each gets 3 with nothing left over."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Is 9 even or odd?",
+      "choices": [
+        {"id": "a", "label": "Even", "correct": false, "explanation": "9 ends in 9, an odd digit. 9 = 4+4+1. One is left over. 9 is odd."},
+        {"id": "b", "label": "Odd", "correct": true, "explanation": "9 ends in 9 (odd digit). 9 = 4+4+1. Two groups of 4 with 1 left over."},
+        {"id": "c", "label": "Both", "correct": false, "explanation": "Numbers are either even or odd. 9 is odd."},
+        {"id": "d", "label": "Neither", "correct": false, "explanation": "Every number is even or odd. 9 is odd."}
+      ],
+      "explanation_md": "9 ends in 9 (odd). 9 = 4+4+1. Two groups of 4 with 1 left over. ODD."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the ones digit of 18? Is 18 even or odd?",
+      "choices": [
+        {"id": "a", "label": "Ones digit is 1; 18 is odd.", "correct": false, "explanation": "The ones digit of 18 is 8 (the last digit), not 1. 18 is even."},
+        {"id": "b", "label": "Ones digit is 8; 18 is even.", "correct": true, "explanation": "Ones digit of 18 is 8. 8 is even, so 18 is even. 18 = 9+9."},
+        {"id": "c", "label": "Ones digit is 8; 18 is odd.", "correct": false, "explanation": "8 is an even digit, so 18 is even."},
+        {"id": "d", "label": "Ones digit is 1; 18 is even.", "correct": false, "explanation": "The ones digit of 18 is 8, not 1. 8 is even, so 18 is even."}
+      ],
+      "explanation_md": "Ones digit of 18 is 8. 8 is even, so 18 is EVEN. 18 = 9+9."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which equation shows that 14 is even?",
+      "choices": [
+        {"id": "a", "label": "14 = 7 + 7", "correct": true, "explanation": "7+7=14. Two equal groups of 7, nothing left over. 14 is even."},
+        {"id": "b", "label": "14 = 6 + 8", "correct": false, "explanation": "6 and 8 are not equal addends. Even numbers use two EQUAL addends: 7+7."},
+        {"id": "c", "label": "14 = 6 + 6 + 1 + 1", "correct": false, "explanation": "This does not show two equal addends. Use 7+7=14."},
+        {"id": "d", "label": "14 = 13 + 1", "correct": false, "explanation": "13 and 1 are not equal. Even numbers use two equal addends."}
+      ],
+      "explanation_md": "14 = 7+7. Two equal addends, nothing left over. Shows 14 is even."
+    }
+  ]
+}
