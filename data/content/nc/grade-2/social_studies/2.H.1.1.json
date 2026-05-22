@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.H.1.1",
+  "benchmark_description": "Explain how families and communities change over time.",
+  "course": "social_studies",
+  "strand": "H",
+  "lesson": {
+    "title": "How Communities Change Over Time",
+    "intro": "Have you ever looked at an old photo of your town and thought it looked different? Communities change over time \u2014 some things stay the same, but many things grow and change!",
+    "body_md": "## What Is a Community?\n\nA **community** is a place where people live, work, and play together. Your neighborhood, your town, or your city is a community.\n\n## How Do Communities Change?\n\nCommunities look different over time. Here are some ways they change:\n\n| Long Ago | Today |\n|---|---|\n| Dirt roads | Paved roads and highways |\n| Small wooden buildings | Tall brick and concrete buildings |\n| People traveled by horse | People travel by car, bus, and train |\n| Small stores | Large grocery stores and shopping centers |\n| Very few people | Many more people |\n\n## Why Do Communities Change?\n\n- **More people move in.** When more families move to a place, new homes and stores are built.\n- **New inventions.** Cars replaced horses, so roads changed. Electricity replaced candles, so homes changed.\n- **People make choices.** Leaders decide to build parks, schools, or libraries.\n\n## What Stays the Same?\n\nSome things in a community do not change much. Rivers, mountains, and lakes stay in the same place. Some old buildings are kept because they are important to people.\n\n## Families Change Over Time Too\n\nFamilies also change. Babies are born. Children grow up. Grandparents were once young children. Families move to new places. Old family traditions are passed on to new generations.\n\n**Key Words:**\n- **community** \u2014 a place where people live, work, and play\n- **change** \u2014 when something becomes different\n- **tradition** \u2014 a custom passed from one generation to the next",
+    "worked_example_md": "## Worked Example\n\n**Look at these two pictures of Maple Street:**\n\n- **1920:** A dirt road with three small wooden shops and a few houses. People traveled on horses.\n- **Today:** A paved road with a grocery store, a school, apartments, and cars parked everywhere.\n\n**Question:** How did Maple Street change over time?\n\n**Step 1:** Look at what was there long ago \u2014 dirt road, small wooden shops, horses.\n\n**Step 2:** Look at what is there today \u2014 paved road, big stores, apartments, cars.\n\n**Step 3:** Describe the change: Maple Street grew bigger. The road was paved. More buildings were built. Cars replaced horses.\n\n**Answer:** Maple Street changed because more people moved in and new inventions like cars were used. The community grew over time.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A place where only animals live",
+          "correct": false,
+          "explanation": "A community is made up of people, not just animals."
+        },
+        {
+          "id": "b",
+          "label": "A place where people live, work, and play together",
+          "correct": true,
+          "explanation": "A community is a place where people live, work, and play together \u2014 like a neighborhood or town."
+        },
+        {
+          "id": "c",
+          "label": "A single house with one family",
+          "correct": false,
+          "explanation": "A community is bigger than one house \u2014 it includes many families and places."
+        },
+        {
+          "id": "d",
+          "label": "A school building",
+          "correct": false,
+          "explanation": "A school is part of a community, but it is not the whole community."
+        }
+      ],
+      "explanation_md": "A community is a place where people live, work, and play together. Towns and neighborhoods are communities."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago, many people in communities traveled by \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "airplane",
+          "correct": false,
+          "explanation": "Airplanes were not common long ago in early American communities."
+        },
+        {
+          "id": "b",
+          "label": "horse",
+          "correct": true,
+          "explanation": "Before cars were invented, people and families traveled by horse or horse-drawn wagon."
+        },
+        {
+          "id": "c",
+          "label": "subway train",
+          "correct": false,
+          "explanation": "Subways were not used in most communities long ago."
+        },
+        {
+          "id": "d",
+          "label": "electric scooter",
+          "correct": false,
+          "explanation": "Electric scooters are a modern invention and were not used long ago."
+        }
+      ],
+      "explanation_md": "Before cars were invented, people traveled by horse or horse-drawn wagon. Cars replaced horses as communities changed."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a reason why a community might grow bigger over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The river dries up",
+          "correct": false,
+          "explanation": "A dry river would make it harder for people to live there, not easier."
+        },
+        {
+          "id": "b",
+          "label": "More families move into the area",
+          "correct": true,
+          "explanation": "When more families move to a community, new homes, schools, and stores are built, making the community bigger."
+        },
+        {
+          "id": "c",
+          "label": "People stop using cars",
+          "correct": false,
+          "explanation": "Stopping car use would not make a community grow bigger."
+        },
+        {
+          "id": "d",
+          "label": "The library closes",
+          "correct": false,
+          "explanation": "Closing a library would not cause a community to grow."
+        }
+      ],
+      "explanation_md": "Communities grow when more people move in. New homes and businesses are built to serve the growing population."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following shows how a community changed over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A river that has always been in the same place",
+          "correct": false,
+          "explanation": "Rivers stay in the same place \u2014 they do not show change in the community."
+        },
+        {
+          "id": "b",
+          "label": "A dirt road that became a paved highway",
+          "correct": true,
+          "explanation": "A dirt road becoming a paved highway shows how communities change as more people use them and new materials are available."
+        },
+        {
+          "id": "c",
+          "label": "A mountain that has stood for thousands of years",
+          "correct": false,
+          "explanation": "Mountains stay in the same place and are an example of what does not change."
+        },
+        {
+          "id": "d",
+          "label": "A family that always eats dinner together",
+          "correct": false,
+          "explanation": "Eating dinner together is a tradition that stays the same \u2014 it shows continuity, not change."
+        }
+      ],
+      "explanation_md": "A dirt road becoming a paved highway shows change in a community over time. Roads were improved as more people and cars used them."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Rosa looked at a photo of her town from 100 years ago. She saw small wooden buildings. Today there are tall brick apartments. What does this tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The town has always looked the same",
+          "correct": false,
+          "explanation": "The photos show the town looked different 100 years ago, so it has not always looked the same."
+        },
+        {
+          "id": "b",
+          "label": "The town grew and changed over time",
+          "correct": true,
+          "explanation": "Moving from small wooden buildings to tall brick apartments shows the town grew \u2014 more people moved in and new buildings were constructed."
+        },
+        {
+          "id": "c",
+          "label": "The town became smaller over time",
+          "correct": false,
+          "explanation": "Tall apartments hold more people than small wooden buildings, so the town likely grew, not shrank."
+        },
+        {
+          "id": "d",
+          "label": "Wooden buildings are better than brick buildings",
+          "correct": false,
+          "explanation": "The question is about change over time, not which type of building is better."
+        }
+      ],
+      "explanation_md": "When a town goes from small wooden buildings to large brick apartments, it shows the community grew and changed as more people moved in over time."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is something that usually stays the same in a community over a long time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The number of cars on the road",
+          "correct": false,
+          "explanation": "The number of cars changes over time as more people move in."
+        },
+        {
+          "id": "b",
+          "label": "The location of a river or lake",
+          "correct": true,
+          "explanation": "Rivers and lakes stay in the same location for a very long time. They are natural features that do not move."
+        },
+        {
+          "id": "c",
+          "label": "The size of buildings",
+          "correct": false,
+          "explanation": "Buildings change \u2014 new ones are built and old ones may be replaced."
+        },
+        {
+          "id": "d",
+          "label": "The kinds of jobs people have",
+          "correct": false,
+          "explanation": "Jobs change over time as new inventions create new kinds of work."
+        }
+      ],
+      "explanation_md": "Natural features like rivers and lakes stay in the same location for a very long time. They are examples of what remains constant as communities change."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Marcus's grandmother says she used to walk to a small corner store as a child. Now the same corner has a large supermarket. This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "a community tradition staying the same",
+          "correct": false,
+          "explanation": "The corner changing from a small store to a supermarket shows change, not something staying the same."
+        },
+        {
+          "id": "b",
+          "label": "a community changing over time",
+          "correct": true,
+          "explanation": "The small corner store becoming a large supermarket shows how communities change over time as they grow."
+        },
+        {
+          "id": "c",
+          "label": "a family moving to a new community",
+          "correct": false,
+          "explanation": "The story is about a building changing, not a family moving."
+        },
+        {
+          "id": "d",
+          "label": "the community getting smaller",
+          "correct": false,
+          "explanation": "A large supermarket replacing a small store suggests growth, not shrinking."
+        }
+      ],
+      "explanation_md": "When a small corner store becomes a large supermarket, it shows the community changed over time \u2014 the area grew and needed a bigger store to serve more people."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to learn about how our community looked in the past?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So we can copy exactly what people did long ago",
+          "correct": false,
+          "explanation": "We do not need to copy the past exactly \u2014 we learn from it to understand how things changed."
+        },
+        {
+          "id": "b",
+          "label": "So we can understand how it grew and changed to become what it is today",
+          "correct": true,
+          "explanation": "Learning about the past helps us understand how our community developed and why it looks the way it does today."
+        },
+        {
+          "id": "c",
+          "label": "So we know which buildings to tear down",
+          "correct": false,
+          "explanation": "Learning history is not about deciding what to remove \u2014 it is about understanding how and why change happened."
+        },
+        {
+          "id": "d",
+          "label": "Because the past is always better than today",
+          "correct": false,
+          "explanation": "Whether the past was 'better' is a matter of opinion. The purpose of studying history is to understand change, not to judge which time was better."
+        }
+      ],
+      "explanation_md": "Studying how our community looked in the past helps us understand how it grew and changed to become what it is today."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student compares two maps of her city \u2014 one from 1920 and one from today. The 1920 map shows farms and a small town center. Today's map shows neighborhoods, schools, and highways. What BEST explains this change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People decided to stop farming and more people moved into the area over many years",
+          "correct": true,
+          "explanation": "As more people moved in over time, farms were replaced by neighborhoods and roads. New inventions and a larger population drove the growth."
+        },
+        {
+          "id": "b",
+          "label": "A big storm destroyed the farms overnight",
+          "correct": false,
+          "explanation": "A single storm does not explain the gradual growth shown on the map over 100 years."
+        },
+        {
+          "id": "c",
+          "label": "The city was rebuilt after a war",
+          "correct": false,
+          "explanation": "The question describes typical community growth, not rebuilding after a war."
+        },
+        {
+          "id": "d",
+          "label": "The families who lived there moved away",
+          "correct": false,
+          "explanation": "If families moved away, the city would get smaller \u2014 but the map shows it grew larger."
+        }
+      ],
+      "explanation_md": "When farms turn into neighborhoods and highways over 100 years, the best explanation is that more people moved in over time, requiring new homes, schools, and roads."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "An old newspaper from 1900 says the town had 500 people and one school. Today the town has 50,000 people and 30 schools. Which conclusion is BEST supported by this information?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Schools are more important today than they were in 1900",
+          "correct": false,
+          "explanation": "The information tells us the number of schools changed, not that schools are valued differently."
+        },
+        {
+          "id": "b",
+          "label": "The town grew much larger over time, so more schools were needed to serve the community",
+          "correct": true,
+          "explanation": "Population growing from 500 to 50,000 means 100 times more people. More schools were needed to serve the many more children in the community."
+        },
+        {
+          "id": "c",
+          "label": "People in 1900 did not value education",
+          "correct": false,
+          "explanation": "Having one school does not mean people did not value education \u2014 it means there were fewer people who needed it."
+        },
+        {
+          "id": "d",
+          "label": "The town will stop growing in the future",
+          "correct": false,
+          "explanation": "The information only tells us about past and present \u2014 it does not tell us what will happen in the future."
+        }
+      ],
+      "explanation_md": "When a town grows from 500 to 50,000 people, it needs many more schools to serve all those children. The increase from 1 school to 30 schools directly reflects the community's growth."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST example of a community changing over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Children going to school every day",
+          "correct": false,
+          "explanation": "Children going to school every day is a routine, not a change over time."
+        },
+        {
+          "id": "b",
+          "label": "A small farm becoming a neighborhood with homes and a park",
+          "correct": true,
+          "explanation": "A farm becoming a neighborhood with homes and a park shows how land use in a community changes as more people move in."
+        },
+        {
+          "id": "c",
+          "label": "A family eating the same meal every Sunday",
+          "correct": false,
+          "explanation": "Eating the same meal every Sunday is a tradition that stays the same \u2014 it shows continuity, not change."
+        },
+        {
+          "id": "d",
+          "label": "A mountain being visible from town",
+          "correct": false,
+          "explanation": "A mountain's location is a natural feature that does not change \u2014 it shows what stays the same."
+        }
+      ],
+      "explanation_md": "A small farm becoming a neighborhood with homes and a park is the best example of a community changing over time as more people move in and the land is used differently."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing a report about how her community changed over the last 50 years. Which source would BEST help her?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A story about a made-up town in a book",
+          "correct": false,
+          "explanation": "A made-up story would not give accurate facts about her real community."
+        },
+        {
+          "id": "b",
+          "label": "Old photographs and newspapers from 50 years ago",
+          "correct": true,
+          "explanation": "Old photographs and newspapers show what the community actually looked like and what was happening 50 years ago \u2014 primary sources are the most useful for this kind of research."
+        },
+        {
+          "id": "c",
+          "label": "A weather report from today",
+          "correct": false,
+          "explanation": "Today's weather report does not tell us about how the community has changed over 50 years."
+        },
+        {
+          "id": "d",
+          "label": "A map of a different state",
+          "correct": false,
+          "explanation": "A map of a different state would not help describe changes in her own community."
+        }
+      ],
+      "explanation_md": "Old photographs and newspapers from 50 years ago are primary sources that show what the community actually looked like at that time \u2014 the best evidence for a report about how it changed."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago, people in a community used candles for light. Today they use electric lights. This change happened because \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "people forgot how to make candles",
+          "correct": false,
+          "explanation": "People did not forget how to make candles \u2014 they chose electric light because it was a better invention."
+        },
+        {
+          "id": "b",
+          "label": "new inventions made life different for people in the community",
+          "correct": true,
+          "explanation": "Electricity was a new invention that changed how people lived. New inventions are one of the main reasons communities change over time."
+        },
+        {
+          "id": "c",
+          "label": "candles were too expensive to buy",
+          "correct": false,
+          "explanation": "While cost may be one factor, the bigger reason is that electricity was a new invention that worked better."
+        },
+        {
+          "id": "d",
+          "label": "the community decided lights were not important",
+          "correct": false,
+          "explanation": "Communities still valued light \u2014 they just found a better way to make it with the new invention of electricity."
+        }
+      ],
+      "explanation_md": "New inventions like electricity changed how people in communities lived. This is one of the main reasons communities change over time."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word 'change' mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "When something becomes different",
+          "correct": true,
+          "explanation": "Change means something becomes different from the way it was before."
+        },
+        {
+          "id": "b",
+          "label": "When something stays exactly the same",
+          "correct": false,
+          "explanation": "When something stays the same, that is called continuity \u2014 not change."
+        },
+        {
+          "id": "c",
+          "label": "When something disappears forever",
+          "correct": false,
+          "explanation": "Change does not always mean something disappears \u2014 it means something becomes different."
+        },
+        {
+          "id": "d",
+          "label": "When something is broken",
+          "correct": false,
+          "explanation": "Something broken is damaged, but that is not the same meaning as 'change.'"
+        }
+      ],
+      "explanation_md": "Change means something becomes different from the way it was before."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A dirt road was paved and made into a smooth street. This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "change",
+          "correct": true,
+          "explanation": "The road changed from dirt to pavement \u2014 this is change because it became something different."
+        },
+        {
+          "id": "b",
+          "label": "staying the same",
+          "correct": false,
+          "explanation": "The road changed \u2014 it did not stay the same."
+        },
+        {
+          "id": "c",
+          "label": "a tradition",
+          "correct": false,
+          "explanation": "A tradition is a custom passed down in families or communities \u2014 paving a road is not a tradition."
+        },
+        {
+          "id": "d",
+          "label": "a community shrinking",
+          "correct": false,
+          "explanation": "Paving a road is an improvement, which often happens when a community grows \u2014 not shrinks."
+        }
+      ],
+      "explanation_md": "A dirt road becoming a paved street is an example of change \u2014 the road became something different from what it was before."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which picture shows a community that has NOT changed much over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A small fishing village that still has the same wooden docks it had 80 years ago",
+          "correct": true,
+          "explanation": "A village that still has the same wooden docks shows very little change \u2014 things look the same as they did long ago."
+        },
+        {
+          "id": "b",
+          "label": "A city that has added 50 new skyscrapers in the last 20 years",
+          "correct": false,
+          "explanation": "Adding 50 new skyscrapers is a big change \u2014 the city looks very different now."
+        },
+        {
+          "id": "c",
+          "label": "A town that replaced all its farms with highways",
+          "correct": false,
+          "explanation": "Replacing farms with highways is a large change in the community."
+        },
+        {
+          "id": "d",
+          "label": "A neighborhood that grew from 10 houses to 500 houses",
+          "correct": false,
+          "explanation": "Growing from 10 houses to 500 houses is a very big change."
+        }
+      ],
+      "explanation_md": "A small fishing village that still has the same wooden docks it had 80 years ago has not changed much \u2014 it looks similar to how it looked long ago."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A family passes down a special recipe from grandparent to grandchild every year. This is called a \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "change",
+          "correct": false,
+          "explanation": "A change is when something becomes different. Passing down a recipe keeps things the same \u2014 it is a tradition."
+        },
+        {
+          "id": "b",
+          "label": "tradition",
+          "correct": true,
+          "explanation": "A tradition is a custom passed from one generation to the next, like sharing a special family recipe."
+        },
+        {
+          "id": "c",
+          "label": "community",
+          "correct": false,
+          "explanation": "A community is a place where people live, work, and play \u2014 not a family custom."
+        },
+        {
+          "id": "d",
+          "label": "invention",
+          "correct": false,
+          "explanation": "An invention is a new thing created by people \u2014 not a family custom passed down over time."
+        }
+      ],
+      "explanation_md": "A tradition is a custom passed from one generation to the next, like a family recipe shared every year."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago there were no cars. People rode horses. Today most people ride in cars. What caused this change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People ran out of horses",
+          "correct": false,
+          "explanation": "People did not run out of horses \u2014 they chose to use cars because they were a new and faster invention."
+        },
+        {
+          "id": "b",
+          "label": "A new invention \u2014 the car \u2014 gave people a better way to travel",
+          "correct": true,
+          "explanation": "The car was a new invention that changed how people traveled. New inventions are a main cause of change in communities."
+        },
+        {
+          "id": "c",
+          "label": "Horses became too heavy to ride",
+          "correct": false,
+          "explanation": "Horses did not become too heavy \u2014 people just had a better option available with the invention of the car."
+        },
+        {
+          "id": "d",
+          "label": "The government made horses illegal",
+          "correct": false,
+          "explanation": "Horses were not made illegal \u2014 people chose cars because they were a faster and more convenient invention."
+        }
+      ],
+      "explanation_md": "The car was a new invention that gave people a better way to travel. New inventions are one of the main reasons things change in communities."
+    }
+  ]
+}
