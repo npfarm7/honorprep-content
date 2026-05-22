@@ -1,0 +1,613 @@
+{
+  "skill_id": "NC.2.MD.3",
+  "benchmark_description": "Estimate lengths using units of inches, feet, centimeters, and meters.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Estimating Length",
+    "intro": "What if you need a quick idea of how long something is, but you do not have a ruler? That is when you estimate! An estimate is a smart guess based on what you know. Let's practice!",
+    "body_md": "## What Is an Estimate?\n\nAn **estimate** is a careful guess. It is not exact, but it should be reasonable.\n\n## Reference Lengths to Remember\n\n| Item | About this long |\n|---|---|\n| Tip of your thumb | 1 inch |\n| Width of your hand | 4 inches |\n| Length of your arm | 1 foot |\n| Big step | 1 yard |\n| Height of a doorknob | 1 meter |\n| Width of your pinky finger | 1 centimeter |\n| New crayon | 10 centimeters |\n\n## How to Estimate\n\n**Step 1:** Think of a reference you know.\n**Step 2:** Compare the object to that reference.\n**Step 3:** Make your estimate.\n\n## Choosing the Right Unit\n\n- A bug: **centimeters**\n- A classroom: **meters** or **feet**\n- A city block: **yards** or **meters**\n\n## Reasonable vs. Unreasonable\n\n- A pencil is about 7 inches. (Reasonable!)\n- A pencil is about 7 feet. (Not reasonable!)",
+    "worked_example_md": "## Worked Example\n\n**Problem:** Estimate the height of a classroom door in feet.\n\n**Step 1:** An adult is about 6 feet tall. A door is about as tall as an adult.\n\n**Step 2:** Doors let tall adults walk through, so about 7 feet.\n\n**Answer: About 7 feet.**",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is a new crayon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "About 1 centimeter",
+          "correct": false,
+          "explanation": "1 cm is your pinky width -- too short for a crayon."
+        },
+        {
+          "id": "b",
+          "label": "About 10 centimeters",
+          "correct": true,
+          "explanation": "Yes! A new crayon is about 10 centimeters long."
+        },
+        {
+          "id": "c",
+          "label": "About 1 meter",
+          "correct": false,
+          "explanation": "1 meter is doorknob height -- too long for a crayon."
+        },
+        {
+          "id": "d",
+          "label": "About 10 meters",
+          "correct": false,
+          "explanation": "10 meters is a large room -- way too long."
+        }
+      ],
+      "explanation_md": "A new crayon is about **10 centimeters** long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which unit would you use to estimate the length of a swimming pool?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Centimeters",
+          "correct": false,
+          "explanation": "Too small for a pool. Use meters."
+        },
+        {
+          "id": "b",
+          "label": "Inches",
+          "correct": false,
+          "explanation": "Gives a huge number. Use meters."
+        },
+        {
+          "id": "c",
+          "label": "Meters",
+          "correct": true,
+          "explanation": "Yes! A pool is best measured in meters."
+        },
+        {
+          "id": "d",
+          "label": "Millimeters",
+          "correct": false,
+          "explanation": "Millimeters are tiny. Use meters."
+        }
+      ],
+      "explanation_md": "A swimming pool is best measured in **meters**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A table is estimated to be 2 feet long. Is this reasonable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, tables are much longer than 2 feet.",
+          "correct": true,
+          "explanation": "Correct! A typical table is 4 to 6 feet long. 2 feet is too short."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 2 feet is a good estimate.",
+          "correct": false,
+          "explanation": "2 feet is too short for most tables."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 2 is a small number.",
+          "correct": false,
+          "explanation": "Small numbers are not always reasonable. A table is 4 to 6 feet long."
+        },
+        {
+          "id": "d",
+          "label": "Cannot tell without measuring.",
+          "correct": false,
+          "explanation": "We can judge reasonableness. 2 feet is too short for a table."
+        }
+      ],
+      "explanation_md": "A table is 4 to 6 feet long. **2 feet is not reasonable** for most tables."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the height of a second-grade student?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 foot",
+          "correct": false,
+          "explanation": "1 foot is too short. A second-grader is about 4 feet tall."
+        },
+        {
+          "id": "b",
+          "label": "4 feet",
+          "correct": true,
+          "explanation": "Yes! A typical second-grader is about 4 feet tall."
+        },
+        {
+          "id": "c",
+          "label": "10 feet",
+          "correct": false,
+          "explanation": "10 feet is taller than most ceilings!"
+        },
+        {
+          "id": "d",
+          "label": "4 inches",
+          "correct": false,
+          "explanation": "4 inches is tiny. A second-grader is about 4 feet tall."
+        }
+      ],
+      "explanation_md": "A second-grader is about **4 feet** tall."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Sam estimates his desk is 24 inches long. He measures and finds 26 inches. Is his estimate good?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, estimates must be exactly right.",
+          "correct": false,
+          "explanation": "Estimates do not have to be exact. 24 is only 2 away from 26."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 24 is close to 26.",
+          "correct": true,
+          "explanation": "Yes! 24 is only 2 inches off. That is a good estimate."
+        },
+        {
+          "id": "c",
+          "label": "No, 24 and 26 are different numbers.",
+          "correct": false,
+          "explanation": "Being 2 apart is fine. Estimates do not need to be exact."
+        },
+        {
+          "id": "d",
+          "label": "Yes, but only if he rounds up to 30.",
+          "correct": false,
+          "explanation": "24 is already a good estimate."
+        }
+      ],
+      "explanation_md": "24 is only 2 off from 26. **Sam's estimate is good.**"
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is a real car?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 centimeters",
+          "correct": false,
+          "explanation": "5 cm is shorter than your hand."
+        },
+        {
+          "id": "b",
+          "label": "5 inches",
+          "correct": false,
+          "explanation": "5 inches is pencil length. A car is about 5 meters long."
+        },
+        {
+          "id": "c",
+          "label": "5 feet",
+          "correct": false,
+          "explanation": "A car is about 15 feet (5 meters) long."
+        },
+        {
+          "id": "d",
+          "label": "5 meters",
+          "correct": true,
+          "explanation": "Yes! A car is about 4 to 5 meters long."
+        }
+      ],
+      "explanation_md": "A car is about **5 meters** long."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a reasonable estimate for the length of a paper clip?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 cm",
+          "correct": true,
+          "explanation": "Yes! A paper clip is about 3 cm long."
+        },
+        {
+          "id": "b",
+          "label": "3 inches",
+          "correct": false,
+          "explanation": "3 inches is about 7.5 cm. A paper clip is only about 3 cm."
+        },
+        {
+          "id": "c",
+          "label": "3 feet",
+          "correct": false,
+          "explanation": "3 feet is 36 inches. A paper clip is tiny."
+        },
+        {
+          "id": "d",
+          "label": "3 meters",
+          "correct": false,
+          "explanation": "3 meters is 300 cm. A paper clip is only about 3 cm."
+        }
+      ],
+      "explanation_md": "A paper clip is about **3 cm** long."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A window is about 1 meter wide. Which estimate in centimeters is most reasonable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "About 100 centimeters",
+          "correct": true,
+          "explanation": "Yes! 1 meter = 100 centimeters."
+        },
+        {
+          "id": "b",
+          "label": "About 10 centimeters",
+          "correct": false,
+          "explanation": "10 cm is crayon-length. 1 meter = 100 cm."
+        },
+        {
+          "id": "c",
+          "label": "About 100 inches",
+          "correct": false,
+          "explanation": "100 inches is more than 8 feet."
+        },
+        {
+          "id": "d",
+          "label": "About 10 meters",
+          "correct": false,
+          "explanation": "10 meters is as wide as a small house."
+        }
+      ],
+      "explanation_md": "1 meter = **100 centimeters**."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Lily says a door is about 3 meters tall. Tom says about 7 feet. (1 meter is about 3.3 feet.) Whose estimate is closer to real door height?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Lily, because 3 meters is the right height.",
+          "correct": false,
+          "explanation": "3 meters is about 10 feet -- a bit tall. Tom's 7 feet is closer."
+        },
+        {
+          "id": "b",
+          "label": "Tom, because 7 feet is closer to a door's real height.",
+          "correct": true,
+          "explanation": "Yes! Doors are about 6 to 7 feet tall. Tom is closer."
+        },
+        {
+          "id": "c",
+          "label": "Both are equally reasonable.",
+          "correct": false,
+          "explanation": "3 meters is a bit tall. Tom's 7 feet is closer."
+        },
+        {
+          "id": "d",
+          "label": "Neither is reasonable.",
+          "correct": false,
+          "explanation": "Tom's 7 feet is close to real door height."
+        }
+      ],
+      "explanation_md": "A door is about 6 to 7 feet. **Tom's 7 feet** is closer."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A hallway is about 30 feet long. Which estimate in yards is most reasonable? (1 yard = 3 feet)",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 yards",
+          "correct": false,
+          "explanation": "3 yards = 9 feet. Too short."
+        },
+        {
+          "id": "b",
+          "label": "10 yards",
+          "correct": true,
+          "explanation": "Yes! 30 feet / 3 = 10 yards."
+        },
+        {
+          "id": "c",
+          "label": "30 yards",
+          "correct": false,
+          "explanation": "30 yards = 90 feet. Too long."
+        },
+        {
+          "id": "d",
+          "label": "90 yards",
+          "correct": false,
+          "explanation": "90 yards = 270 feet. Way too long."
+        }
+      ],
+      "explanation_md": "30 feet / 3 = **10 yards**."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a reasonable estimate for the width of a classroom whiteboard?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 centimeters",
+          "correct": false,
+          "explanation": "3 cm is tiny. A whiteboard is much larger."
+        },
+        {
+          "id": "b",
+          "label": "3 inches",
+          "correct": false,
+          "explanation": "3 inches is finger-length. A whiteboard is much wider."
+        },
+        {
+          "id": "c",
+          "label": "3 meters",
+          "correct": true,
+          "explanation": "Yes! A whiteboard is about 2 to 4 meters wide."
+        },
+        {
+          "id": "d",
+          "label": "3 miles",
+          "correct": false,
+          "explanation": "3 miles is enormous."
+        }
+      ],
+      "explanation_md": "A classroom whiteboard is about **3 meters** wide."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Ana guesses her pencil is 7 inches. She measures and finds 6 inches. Is her estimate reasonable?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, she was 1 inch off.",
+          "correct": false,
+          "explanation": "Being 1 inch off is a good estimate."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 7 is close to 6.",
+          "correct": true,
+          "explanation": "Yes! Only 1 inch off -- a great estimate."
+        },
+        {
+          "id": "c",
+          "label": "No, estimates must always match.",
+          "correct": false,
+          "explanation": "Estimates do not match exactly. 7 is only 1 from 6."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because she guessed a bigger number.",
+          "correct": false,
+          "explanation": "It is good because 7 is close to 6, not because it is bigger."
+        }
+      ],
+      "explanation_md": "7 and 6 are only 1 apart. **Ana's estimate is reasonable.**"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is a school bus?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "About 10 centimeters",
+          "correct": false,
+          "explanation": "10 cm is crayon-length. A bus is much longer."
+        },
+        {
+          "id": "b",
+          "label": "About 10 meters",
+          "correct": true,
+          "explanation": "Yes! A school bus is about 10 to 12 meters long."
+        },
+        {
+          "id": "c",
+          "label": "About 10 miles",
+          "correct": false,
+          "explanation": "10 miles is a driving distance. A bus is about 10 meters."
+        },
+        {
+          "id": "d",
+          "label": "About 10 inches",
+          "correct": false,
+          "explanation": "10 inches is less than a foot. A bus is about 10 meters."
+        }
+      ],
+      "explanation_md": "A school bus is about **10 meters** long."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is your thumb?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "About 1 inch",
+          "correct": true,
+          "explanation": "Yes! Your thumb is about 1 inch long."
+        },
+        {
+          "id": "b",
+          "label": "About 1 foot",
+          "correct": false,
+          "explanation": "1 foot is 12 inches -- much longer than your thumb."
+        },
+        {
+          "id": "c",
+          "label": "About 1 meter",
+          "correct": false,
+          "explanation": "1 meter is about doorknob height. Your thumb is about 1 inch."
+        },
+        {
+          "id": "d",
+          "label": "About 1 yard",
+          "correct": false,
+          "explanation": "1 yard is 36 inches. Your thumb is about 1 inch."
+        }
+      ],
+      "explanation_md": "Your thumb is about **1 inch** long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Would you measure a bug in inches or feet?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Feet",
+          "correct": false,
+          "explanation": "Feet are too large for a tiny bug."
+        },
+        {
+          "id": "b",
+          "label": "Inches",
+          "correct": true,
+          "explanation": "Yes! A bug is tiny. Inches or centimeters are the right unit."
+        },
+        {
+          "id": "c",
+          "label": "Miles",
+          "correct": false,
+          "explanation": "Miles are for long distances."
+        },
+        {
+          "id": "d",
+          "label": "Yards",
+          "correct": false,
+          "explanation": "A yard is 36 inches -- too large for a bug."
+        }
+      ],
+      "explanation_md": "A bug is tiny, so measure in **inches** or **centimeters**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is this estimate reasonable? A door is about 7 feet tall.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, doors are only 1 foot tall.",
+          "correct": false,
+          "explanation": "1 foot is much too short. Doors are about 7 feet tall."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 7 feet is a reasonable door height.",
+          "correct": true,
+          "explanation": "Yes! A standard door is about 6 to 7 feet tall."
+        },
+        {
+          "id": "c",
+          "label": "No, doors are about 7 inches tall.",
+          "correct": false,
+          "explanation": "7 inches is much too short. Doors are about 7 FEET tall."
+        },
+        {
+          "id": "d",
+          "label": "No, doors are about 70 feet tall.",
+          "correct": false,
+          "explanation": "70 feet is as tall as a 7-story building."
+        }
+      ],
+      "explanation_md": "A door is about **7 feet** tall. Reasonable!"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the length of a classroom?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "10 inches is less than a foot."
+        },
+        {
+          "id": "b",
+          "label": "10 centimeters",
+          "correct": false,
+          "explanation": "10 cm is crayon-length."
+        },
+        {
+          "id": "c",
+          "label": "10 meters",
+          "correct": true,
+          "explanation": "Yes! A classroom is about 8 to 10 meters long."
+        },
+        {
+          "id": "d",
+          "label": "10 miles",
+          "correct": false,
+          "explanation": "10 miles is a long drive."
+        }
+      ],
+      "explanation_md": "A classroom is about **10 meters** long."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A book is estimated to be 30 cm. The real length is 28 cm. Is the estimate close?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, 30 and 28 are too far apart.",
+          "correct": false,
+          "explanation": "30 and 28 are only 2 apart. Very close!"
+        },
+        {
+          "id": "b",
+          "label": "Yes, 30 and 28 are close.",
+          "correct": true,
+          "explanation": "Yes! Only 2 cm difference -- a very good estimate."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 30 is bigger than 28.",
+          "correct": false,
+          "explanation": "It is good because 30 is CLOSE to 28."
+        },
+        {
+          "id": "d",
+          "label": "No, because they are different numbers.",
+          "correct": false,
+          "explanation": "Estimates are not exact. 30 is only 2 from 28."
+        }
+      ],
+      "explanation_md": "30 is only 2 cm from 28. **Yes, the estimate is close.**"
+    }
+  ]
+}
