@@ -1,0 +1,634 @@
+{
+  "skill_id": "2.SL.PKI.4",
+  "benchmark_description": "Tell a story or recount an experience with appropriate facts and relevant, descriptive details, speaking audibly in coherent sentences.",
+  "course": "ela",
+  "strand": "SL",
+  "lesson": {
+    "title": "Speaking to Tell a Story: Facts, Details, and Clear Sentences",
+    "objective": "Students will tell a story or recount an experience using relevant facts and descriptive details, speaking in clear, complete sentences that can be heard by the audience.",
+    "overview": "When you tell a story or share an experience with an audience, you need to speak clearly, use facts and details, and organize your ideas in complete sentences. A good speaker helps the listener picture what happened and understand why it was important.",
+    "key_concepts": [
+      "Audible: speaking loudly and clearly enough for everyone to hear",
+      "Coherent sentences: complete, organized sentences that make sense",
+      "Relevant details: details that fit the story and help the listener understand it",
+      "Descriptive details: words that help the listener picture what happened (colors, sounds, feelings)",
+      "Recounting: retelling something that happened in a clear, organized way"
+    ],
+    "examples": [
+      {
+        "label": "Weak recounting",
+        "text": "We went somewhere. It was fun. Stuff happened."
+      },
+      {
+        "label": "Strong recounting",
+        "text": "Last summer, my family hiked to the top of a mountain. The trail was steep and rocky, and I could hear the wind rushing through the pine trees. When we finally reached the top, I saw a stunning view of the whole valley below. I felt so proud that I had made it!"
+      }
+    ],
+    "common_errors": [
+      "Speaking too quietly for the audience to hear",
+      "Using vague words like 'stuff' and 'things' instead of specific descriptive details",
+      "Telling events out of order so the story is hard to follow",
+      "Speaking in incomplete sentences or fragments"
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When telling a story to your class, your voice should be ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Very quiet so only one friend can hear",
+          "correct": false,
+          "explanation": "If only one friend can hear, the audience is missing the story. Speak audibly."
+        },
+        {
+          "id": "B",
+          "label": "Loud enough for everyone in the room to hear",
+          "correct": true,
+          "explanation": "Speaking audibly means loud and clear enough for the whole audience to hear you."
+        },
+        {
+          "id": "C",
+          "label": "Silent -- let someone else tell it",
+          "correct": false,
+          "explanation": "The speaker must present the story. Staying silent is not presenting."
+        },
+        {
+          "id": "D",
+          "label": "As fast as possible so you finish quickly",
+          "correct": false,
+          "explanation": "Speaking too fast makes it hard to understand. Speak at a clear, steady pace."
+        }
+      ],
+      "explanation_md": "**Audible** means speaking loudly and clearly enough for every listener to hear. Good speakers project their voice to the whole audience."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **complete, coherent sentence**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The dog.",
+          "correct": false,
+          "explanation": "This is a fragment. It does not have a verb and does not express a complete thought."
+        },
+        {
+          "id": "B",
+          "label": "Ran so fast and then.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no subject and is not a complete thought."
+        },
+        {
+          "id": "C",
+          "label": "The dog ran so fast that he slid across the floor.",
+          "correct": true,
+          "explanation": "This is a complete sentence with a subject (the dog), a verb (ran), and a complete thought."
+        },
+        {
+          "id": "D",
+          "label": "Fast dog.",
+          "correct": false,
+          "explanation": "This is a fragment, not a complete sentence."
+        }
+      ],
+      "explanation_md": "A **coherent sentence** has a subject and a verb and expresses a complete thought. Speak in complete sentences so your audience understands your story."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which detail is MOST relevant when recounting a story about your first day of school?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "My cousin has a cat.",
+          "correct": false,
+          "explanation": "This detail has nothing to do with the first day of school."
+        },
+        {
+          "id": "B",
+          "label": "I felt nervous waiting in line to enter my new classroom.",
+          "correct": true,
+          "explanation": "This detail about a feeling and a specific event is directly relevant to the first day of school story."
+        },
+        {
+          "id": "C",
+          "label": "My favorite food is macaroni and cheese.",
+          "correct": false,
+          "explanation": "Food preferences are not relevant to the first day of school story."
+        },
+        {
+          "id": "D",
+          "label": "The weather last January was cold.",
+          "correct": false,
+          "explanation": "This is not relevant to the first day of school story."
+        }
+      ],
+      "explanation_md": "**Relevant details** directly connect to the story. Choose details that help the listener understand what happened and why it matters."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: *'We went to the park. Things happened. It was nice.'*\n\nWhat would make this recounting STRONGER?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Speak even more quietly",
+          "correct": false,
+          "explanation": "Speaking quietly makes the problem worse -- the listener cannot hear the details."
+        },
+        {
+          "id": "B",
+          "label": "Add descriptive details about what actually happened at the park",
+          "correct": true,
+          "explanation": "Replacing vague words like 'Things happened' with specific, descriptive details would make the story clear and vivid."
+        },
+        {
+          "id": "C",
+          "label": "Leave out the part about the park",
+          "correct": false,
+          "explanation": "The park is the topic of the story. Leaving it out makes the recounting incomplete."
+        },
+        {
+          "id": "D",
+          "label": "Use fewer sentences",
+          "correct": false,
+          "explanation": "The recounting already has too little detail. Fewer sentences would make it even weaker."
+        }
+      ],
+      "explanation_md": "Strong recount uses **descriptive details** -- specific words that help the listener picture the experience. Replace vague words like 'things' with what actually happened."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which recounting of a trip to the library is STRONGEST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "We went to the library. It was good.",
+          "correct": false,
+          "explanation": "No descriptive details and no relevant facts. Too vague."
+        },
+        {
+          "id": "B",
+          "label": "Library.",
+          "correct": false,
+          "explanation": "A single-word fragment is not a recounting."
+        },
+        {
+          "id": "C",
+          "label": "Last Friday, our class walked to the city library. We each chose two books, and I picked a mystery about a girl who solves codes. The librarian read us a funny story and we laughed the whole time.",
+          "correct": true,
+          "explanation": "This includes when (Last Friday), what happened (chose books, librarian read), specific details (mystery, codes, laughed), and complete sentences -- a strong recounting."
+        },
+        {
+          "id": "D",
+          "label": "We went somewhere and someone did something and it was fine.",
+          "correct": false,
+          "explanation": "Extremely vague -- no relevant facts, no descriptive details, no specific events."
+        }
+      ],
+      "explanation_md": "A strong recounting includes **when** it happened, **what** happened step by step, **specific details**, and **complete sentences** that the audience can clearly follow."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which detail is MOST descriptive when telling a story about a thunderstorm?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It rained.",
+          "correct": false,
+          "explanation": "This is a fact but has no descriptive detail. The listener cannot picture the storm."
+        },
+        {
+          "id": "B",
+          "label": "The thunder boomed like a drumroll and the lightning lit up my whole bedroom.",
+          "correct": true,
+          "explanation": "This uses sound words (boomed, drumroll) and a visual detail (lit up the bedroom) -- vivid descriptive language."
+        },
+        {
+          "id": "C",
+          "label": "There was weather outside.",
+          "correct": false,
+          "explanation": "Completely vague. 'Weather' gives no picture of the thunderstorm."
+        },
+        {
+          "id": "D",
+          "label": "I was inside.",
+          "correct": false,
+          "explanation": "This is a relevant fact but has no descriptive detail."
+        }
+      ],
+      "explanation_md": "**Descriptive details** use specific sensory words (sounds, sights, feelings) that help the listener picture the experience as if they were there."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When presenting a story to the class, you should look ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Down at the floor the whole time",
+          "correct": false,
+          "explanation": "Looking at the floor makes it hard to connect with the audience and your voice may not project well."
+        },
+        {
+          "id": "B",
+          "label": "At your audience",
+          "correct": true,
+          "explanation": "Eye contact with the audience shows confidence and helps listeners feel engaged with your story."
+        },
+        {
+          "id": "C",
+          "label": "Out the window",
+          "correct": false,
+          "explanation": "Looking out the window shows you are distracted and not focused on your audience."
+        },
+        {
+          "id": "D",
+          "label": "At only one person the entire time",
+          "correct": false,
+          "explanation": "Good speakers share eye contact with the whole audience, not just one person."
+        }
+      ],
+      "explanation_md": "**Eye contact** with the audience is an important speaking skill. It shows confidence, keeps listeners engaged, and helps your voice project clearly."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is telling a story about winning a race. Which sentence belongs in the MIDDLE of the story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Last week, my school held a field day.",
+          "correct": false,
+          "explanation": "This introduces the event. It belongs at the beginning."
+        },
+        {
+          "id": "B",
+          "label": "As I rounded the last curve, my legs burned and I pushed harder than ever.",
+          "correct": true,
+          "explanation": "This is a middle-of-the-story detail describing the action and feelings during the race."
+        },
+        {
+          "id": "C",
+          "label": "Winning the race was the proudest moment of my year.",
+          "correct": false,
+          "explanation": "This reflects back on the event. It belongs at the end as closure."
+        },
+        {
+          "id": "D",
+          "label": "My name is Tayla and I like to run.",
+          "correct": false,
+          "explanation": "This is an introduction about the speaker. It belongs at the beginning, not the middle."
+        }
+      ],
+      "explanation_md": "When recounting, organize events logically: **beginning** (introduce), **middle** (tell the main action with descriptive details), **end** (closure/reflection)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this recounting:\n\n*'On Monday, our class planted seeds in paper cups. First, I poured dark brown soil into my cup. Next, I pressed one tiny seed into the center with my finger. Then our teacher watered each cup gently. I hope the seeds grow into tall sunflowers!'*\n\nWhat makes this recounting strong?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It uses opinions instead of facts.",
+          "correct": false,
+          "explanation": "The recounting uses facts (soil, seed, watered) -- not pure opinions."
+        },
+        {
+          "id": "B",
+          "label": "It has temporal words, descriptive details, and coherent sentences.",
+          "correct": true,
+          "explanation": "Temporal words (First, Next, Then), descriptive details (dark brown soil, tiny seed, pressed with my finger), and complete sentences make this a strong recounting."
+        },
+        {
+          "id": "C",
+          "label": "It has no organization and jumps around.",
+          "correct": false,
+          "explanation": "The recounting is clearly organized with temporal words. It does not jump around."
+        },
+        {
+          "id": "D",
+          "label": "It is too short to be a good recounting.",
+          "correct": false,
+          "explanation": "Quality matters more than length. This short recounting is detailed and well-organized."
+        }
+      ],
+      "explanation_md": "A strong recounting uses **temporal words** (first, next, then), **descriptive details** (specific sensory words), and **coherent sentences** that the audience can follow."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to recount making pancakes with her grandmother. Which plan would produce the STRONGEST recounting?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Say 'We made pancakes. They were good.' and sit down.",
+          "correct": false,
+          "explanation": "Two vague sentences with no details, temporal words, or complete story -- the weakest approach."
+        },
+        {
+          "id": "B",
+          "label": "List every ingredient they used without saying what happened.",
+          "correct": false,
+          "explanation": "A list of ingredients is not a recounting. It has no events, feelings, or story arc."
+        },
+        {
+          "id": "C",
+          "label": "Organize events in order with temporal words, add specific details about smells and feelings, and speak in complete sentences.",
+          "correct": true,
+          "explanation": "Organizing events, using temporal words, adding sensory details (smells, feelings), and speaking in complete sentences produces the strongest recounting."
+        },
+        {
+          "id": "D",
+          "label": "Speak as fast as possible so she finishes before the timer goes off.",
+          "correct": false,
+          "explanation": "Speed makes it hard to understand. A strong recounting is paced clearly, not rushed."
+        }
+      ],
+      "explanation_md": "The strongest recounting plan: organize events with **temporal words**, include **sensory and emotional details**, and speak in **clear, complete sentences** at a pace the audience can follow."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which detail is MOST relevant to a recounting about your first time swimming?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Swimming pools were invented a long time ago.",
+          "correct": false,
+          "explanation": "Historical facts about pools are not relevant to your personal first-time swimming experience."
+        },
+        {
+          "id": "B",
+          "label": "I took a deep breath, jumped in, and felt the cool water surround me.",
+          "correct": true,
+          "explanation": "This is directly relevant. It describes the physical and sensory experience of jumping in for the first time."
+        },
+        {
+          "id": "C",
+          "label": "My favorite movie is about a mermaid.",
+          "correct": false,
+          "explanation": "Your favorite movie is not relevant to your first swimming experience."
+        },
+        {
+          "id": "D",
+          "label": "Water is made of hydrogen and oxygen.",
+          "correct": false,
+          "explanation": "A chemistry fact is not a relevant detail for a personal narrative recounting."
+        }
+      ],
+      "explanation_md": "**Relevant details** connect directly to the story being told. Sensory and emotional details about the experience itself are the most relevant."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the MOST descriptive language to tell about seeing a firework show?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "There were fireworks.",
+          "correct": false,
+          "explanation": "No descriptive detail. The listener gets no picture of the fireworks."
+        },
+        {
+          "id": "B",
+          "label": "Fireworks went off.",
+          "correct": false,
+          "explanation": "Still vague -- no sensory details."
+        },
+        {
+          "id": "C",
+          "label": "Fireworks exploded in bursts of red, gold, and purple that lit up the whole night sky.",
+          "correct": true,
+          "explanation": "Colors (red, gold, purple), action (exploded), and scope (lit up the whole night sky) -- rich descriptive language."
+        },
+        {
+          "id": "D",
+          "label": "We saw some things in the sky.",
+          "correct": false,
+          "explanation": "'Some things' is the most vague description possible -- completely lacking detail."
+        }
+      ],
+      "explanation_md": "**Descriptive language** uses specific sensory words -- colors, sounds, sizes -- that help the audience picture exactly what happened."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student's recounting of a class science experiment says: *'We put baking soda in the bottle. Then we added vinegar. It fizzed up like crazy and smelled like sour lemons.'*\n\nWhat makes the last sentence the STRONGEST part?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It uses the word 'crazy' which is funny.",
+          "correct": false,
+          "explanation": "While vivid, the real strength is the sensory details, not just one word."
+        },
+        {
+          "id": "B",
+          "label": "It adds sensory details (sight and smell) that help the audience picture the reaction.",
+          "correct": true,
+          "explanation": "'Fizzed up' gives a visual, and 'smelled like sour lemons' gives a smell -- two sensory details that make the experience vivid."
+        },
+        {
+          "id": "C",
+          "label": "It tells the audience the experiment failed.",
+          "correct": false,
+          "explanation": "Fizzing up is what was supposed to happen -- the experiment succeeded."
+        },
+        {
+          "id": "D",
+          "label": "It uses a temporal word.",
+          "correct": false,
+          "explanation": "The last sentence has no temporal word. The temporal word 'Then' is in the previous sentence."
+        }
+      ],
+      "explanation_md": "The strongest descriptive details appeal to the **senses** -- what you see, hear, smell, taste, or feel. Multi-sensory details create the most vivid picture for the listener."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you speak to your class, you should speak ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "So softly nobody can hear",
+          "correct": false,
+          "explanation": "If nobody can hear you, your story is not being shared. Speak louder."
+        },
+        {
+          "id": "B",
+          "label": "Loudly and clearly so everyone can hear",
+          "correct": true,
+          "explanation": "Speaking loudly and clearly (audibly) makes sure the whole audience can enjoy your story."
+        },
+        {
+          "id": "C",
+          "label": "As fast as possible",
+          "correct": false,
+          "explanation": "Speed makes it hard to understand. Pace yourself so the audience can follow."
+        },
+        {
+          "id": "D",
+          "label": "In a whisper",
+          "correct": false,
+          "explanation": "Whispering is too quiet for a class presentation."
+        }
+      ],
+      "explanation_md": "**Audible** speaking means everyone can hear you clearly. Project your voice to the back of the room."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is COMPLETE?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The big red.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no verb and no complete idea."
+        },
+        {
+          "id": "B",
+          "label": "My sister won the spelling bee.",
+          "correct": true,
+          "explanation": "This is a complete sentence. It has a subject (My sister), a verb (won), and a complete thought."
+        },
+        {
+          "id": "C",
+          "label": "Won the",
+          "correct": false,
+          "explanation": "This is a fragment -- incomplete."
+        },
+        {
+          "id": "D",
+          "label": "Because she studied.",
+          "correct": false,
+          "explanation": "This is a dependent clause, not a complete sentence on its own."
+        }
+      ],
+      "explanation_md": "A **complete sentence** has a subject and a verb and expresses a full thought. Speak in complete sentences when recounting a story."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "You are telling the class about your birthday party. Which detail should you include?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "My neighbor's phone number",
+          "correct": false,
+          "explanation": "This is not relevant to the birthday party story."
+        },
+        {
+          "id": "B",
+          "label": "We played freeze tag and I won three rounds in a row!",
+          "correct": true,
+          "explanation": "This detail is directly relevant -- it describes a specific event at the party."
+        },
+        {
+          "id": "C",
+          "label": "My teacher's favorite book",
+          "correct": false,
+          "explanation": "This has nothing to do with your birthday party."
+        },
+        {
+          "id": "D",
+          "label": "The history of birthday cakes",
+          "correct": false,
+          "explanation": "Historical background is not relevant to recounting your personal birthday party."
+        }
+      ],
+      "explanation_md": "Include **relevant details** -- things that actually happened at your party and help the audience picture the experience."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which recounting sentence has the MOST descriptive detail?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The food was good.",
+          "correct": false,
+          "explanation": "No specific details. 'Good' does not help the listener picture the food."
+        },
+        {
+          "id": "B",
+          "label": "We ate food.",
+          "correct": false,
+          "explanation": "Completely vague -- no descriptive detail at all."
+        },
+        {
+          "id": "C",
+          "label": "We bit into crispy tacos loaded with melted cheese and tangy salsa.",
+          "correct": true,
+          "explanation": "Crispy, melted, tangy -- these descriptive words let the listener taste and picture the food."
+        },
+        {
+          "id": "D",
+          "label": "There was something to eat.",
+          "correct": false,
+          "explanation": "Extremely vague. 'Something' gives no detail."
+        }
+      ],
+      "explanation_md": "**Descriptive details** use specific words for colors, textures, tastes, sounds, and feelings. Replace vague words with specific ones."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What should you do FIRST when getting ready to share a story with the class?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Think about what happened in order and what details you want to share",
+          "correct": true,
+          "explanation": "Organizing your thoughts -- what happened, in what order, and what details matter -- is the first step before speaking."
+        },
+        {
+          "id": "B",
+          "label": "Start talking immediately without thinking",
+          "correct": false,
+          "explanation": "Speaking without organizing your thoughts often produces a confusing, out-of-order story."
+        },
+        {
+          "id": "C",
+          "label": "Read from a book",
+          "correct": false,
+          "explanation": "Recounting is about telling your own story, not reading from a book."
+        },
+        {
+          "id": "D",
+          "label": "Ask someone else to tell your story",
+          "correct": false,
+          "explanation": "You are the speaker. Organize your thoughts and share your own story."
+        }
+      ],
+      "explanation_md": "Before presenting, **organize your story**: what happened first? Next? What details will help the audience picture it? Planning makes your recounting clear."
+    }
+  ]
+}
