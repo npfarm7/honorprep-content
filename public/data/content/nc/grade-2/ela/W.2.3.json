@@ -1,0 +1,253 @@
+{
+  "skill_id": "W.2.3",
+  "benchmark_description": "Write narratives in which they recount a well-elaborated event or short sequence of events, include details to describe actions, thoughts, and feelings, use temporal words to signal event order, and provide a sense of closure.",
+  "course": "ela",
+  "strand": "W",
+  "lesson": {
+    "title": "Writing a Story: Tell What Happened!",
+    "intro": "A narrative is a story about something that happened — to you, to someone else, or to a made-up character. Great narrative writers share details about what they saw, did, thought, and felt. Let's learn how to write one!",
+    "body_md": "## What Is a Narrative?\n\nA **narrative** tells about a sequence of events — what happened from beginning to end. Narratives can be:\n- **Personal narratives** — about something real that happened to you\n- **Fictional narratives** — made-up stories\n\n## Parts of a Strong Narrative\n\n| Part | What It Does | Example |\n|---|---|---|\n| **Beginning** | Introduces who, where, when, and the setup | 'Last summer, my sister and I found a turtle in our backyard.' |\n| **Events in order** | Tells what happened, step by step | 'First we picked it up. Then we brought it inside.' |\n| **Details** | Shows actions, thoughts, and feelings | 'I felt excited and nervous. What if it bit me?' |\n| **Closure** | Wraps up the story | 'We let the turtle go in the garden, and it disappeared into the bushes.' |\n\n## Temporal Words: Showing Order\n\nTemporal words tell the reader WHEN things happened:\n\n| Temporal Word | Meaning |\n|---|---|\n| First | The beginning thing |\n| Then / Next | What came after |\n| After that | Something that followed |\n| Later | A bit after that |\n| Finally | The last thing |\n| At last | It is over now |\n\n## Adding Details: Actions, Thoughts, Feelings\n\nDetails make your story come alive!\n- **Action:** 'She sprinted across the field.'\n- **Thought:** 'I wondered if the map was wrong.'\n- **Feeling:** 'My heart pounded with excitement.'\n\nStrong narrative: 'Finally, I reached the top of the hill. My legs ached, but I felt so proud. From up there, I could see the whole town spread out below me like a patchwork quilt.'",
+    "worked_example_md": "## Worked Example\n\n**Prompt:** Write a short narrative about a time you felt nervous.\n\n**Narrative:**\n\n> Last March, I was about to perform in my school's spring concert. My hands were shaking as I waited backstage. I kept thinking, 'What if I forget the words?' First, the lights went dim. Then, one by one, my classmates walked out onto the stage. Finally, it was my turn. I took a deep breath and walked into the bright light. When the music started, something strange happened — I stopped feeling nervous. I sang every word perfectly. After the last note, the audience clapped loudly. I felt a huge wave of relief and pride wash over me. That was the day I learned that feeling nervous is okay because it usually goes away once you start.\n\n**Analysis:**\n- **Beginning:** Last March, spring concert, hands shaking\n- **Temporal words:** First, Then, Finally, After, That was the day\n- **Details:** hands shaking, thinking 'What if I forget the words?', took a deep breath\n- **Thoughts and feelings:** nervous, then relief and pride\n- **Closure:** 'That was the day I learned...'",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **narrative**?",
+      "choices": [
+        {"id": "a", "label": "A piece of writing that gives the writer's opinion about something", "correct": false, "explanation": "That is an opinion piece. A narrative tells about a sequence of events."},
+        {"id": "b", "label": "A piece of writing that tells about events in order", "correct": true, "explanation": "A narrative recounts what happened. It tells a story by describing events from beginning to end."},
+        {"id": "c", "label": "A piece of writing that teaches facts about a topic", "correct": false, "explanation": "That is informational writing. A narrative tells a story about events."},
+        {"id": "d", "label": "A list of words and their meanings", "correct": false, "explanation": "That is a glossary or dictionary. A narrative is a story."}
+      ],
+      "explanation_md": "A narrative tells a story about a sequence of events. It recounts what happened from beginning to end."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is a **temporal word** that shows the order of events?",
+      "choices": [
+        {"id": "a", "label": "Because", "correct": false, "explanation": "'Because' shows a reason. It is a linking word, not a temporal word."},
+        {"id": "b", "label": "Finally", "correct": true, "explanation": "'Finally' is a temporal word that signals the last event. It shows when something happened in a sequence."},
+        {"id": "c", "label": "However", "correct": false, "explanation": "'However' shows contrast. It is not a temporal word."},
+        {"id": "d", "label": "Also", "correct": false, "explanation": "'Also' adds an idea. It is a linking word, not a temporal word that shows time order."}
+      ],
+      "explanation_md": "'Finally' is a temporal word. It signals that the last event in a sequence is about to be described."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'We went to the store. We bought milk. We went home.'\n\nWhich revision BEST adds **temporal words** and **details** to improve this narrative?",
+      "choices": [
+        {"id": "a", "label": "'First we went to the store. Then we bought milk. Finally we went home.'", "correct": false, "explanation": "Adding temporal words is good, but there are still no details about actions, thoughts, or feelings. This is a step up but not fully improved."},
+        {"id": "b", "label": "'First, Mom and I rushed to the store before it closed. Then we grabbed the last carton of milk from the cold shelf. Finally, we drove home just as it started to rain.'", "correct": true, "explanation": "This revision adds temporal words (First, Then, Finally), details (rushed, last carton, cold shelf, just as it started to rain), and creates a more vivid picture."},
+        {"id": "c", "label": "'The store has milk and other things. People go there.'", "correct": false, "explanation": "This is informational writing about stores in general, not a narrative about what happened."},
+        {"id": "d", "label": "'I think stores are important because they sell food.'", "correct": false, "explanation": "This is an opinion statement, not a narrative revision."}
+      ],
+      "explanation_md": "The best revision adds temporal words (First, Then, Finally) AND details (rushed, last carton of milk, just as it started to rain). These details make the narrative more vivid and interesting."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> 'My hands shook as I walked onto the stage, and I wished I could disappear.'\n\nWhat kind of detail does this sentence add to a narrative?",
+      "choices": [
+        {"id": "a", "label": "A fact about stages", "correct": false, "explanation": "This is not a fact about stages in general. It describes the narrator's specific experience."},
+        {"id": "b", "label": "A feeling and a thought", "correct": true, "explanation": "Shaking hands shows the physical feeling of nervousness. 'I wished I could disappear' is a thought that shows what the narrator is thinking. Together they add emotional depth to the narrative."},
+        {"id": "c", "label": "A temporal word", "correct": false, "explanation": "There is no temporal word (like first, then, finally) in this sentence. It adds feelings and thoughts, not time order."},
+        {"id": "d", "label": "A definition of a word", "correct": false, "explanation": "This sentence is not defining any word. It adds feelings and thoughts to the narrative."}
+      ],
+      "explanation_md": "'My hands shook' shows a physical feeling (nervousness). 'I wished I could disappear' is a thought. Both add emotional detail to the narrative, making it more vivid and relatable."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the narrative below, then answer the question.\n\n> It was the last day of school. I had been looking forward to summer all year. First, my teacher handed out our report cards. Next, we had a party with cake and punch. After that, the bell rang and everyone ran outside. My best friend and I hugged goodbye. The summer sun felt warm on my face as I walked home, already planning our next adventure.\n\nWhat does the **last sentence** do for the narrative?",
+      "choices": [
+        {"id": "a", "label": "It introduces the main characters.", "correct": false, "explanation": "The characters were introduced earlier. The last sentence wraps up the story."},
+        {"id": "b", "label": "It gives a sense of closure by showing the narrator's feelings and looking ahead.", "correct": true, "explanation": "The warm sun on the face shows a positive feeling. Planning their next adventure wraps up the school year and looks forward. This gives the story a satisfying ending."},
+        {"id": "c", "label": "It begins a new problem for the narrator.", "correct": false, "explanation": "The last sentence wraps up the story. It does not introduce a new problem."},
+        {"id": "d", "label": "It is a temporal word.", "correct": false, "explanation": "The last sentence is not a temporal word. It is a full closing sentence with details and feelings."}
+      ],
+      "explanation_md": "The last sentence shows the narrator feeling the warm summer sun and looking forward to adventures. It closes the story with a feeling of happiness and anticipation, giving the reader a sense of completion."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes this narrative ending:\n\n> 'And that was that. The end.'\n\nWhich revision would give a **stronger sense of closure**?",
+      "choices": [
+        {"id": "a", "label": "'The story continues in Chapter 2.'", "correct": false, "explanation": "This opens up a new story instead of closing the current one. Good closure wraps up the events and feelings."},
+        {"id": "b", "label": "'From that day on, I never forgot what I learned: sometimes you have to be brave to discover something wonderful.'", "correct": true, "explanation": "This closure reflects on what the narrator learned, ties back to the events of the story, and gives the reader something meaningful to take away."},
+        {"id": "c", "label": "'I went home and watched TV.'", "correct": false, "explanation": "This is an anticlimactic ending that does not wrap up the feelings or meaning of the story."},
+        {"id": "d", "label": "'The weather was cloudy that day.'", "correct": false, "explanation": "Describing the weather is a random detail that does not provide closure. A good ending reflects on the story's meaning or feeling."}
+      ],
+      "explanation_md": "'From that day on, I never forgot what I learned: sometimes you have to be brave to discover something wonderful' gives strong closure. It reflects on the story's meaning, connects to the narrator's experience, and leaves the reader with a memorable idea."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes a narrative with good events in order but no details about feelings or thoughts. What is **missing** and why does it matter?",
+      "choices": [
+        {"id": "a", "label": "Nothing is missing; events in order are enough.", "correct": false, "explanation": "A narrative needs more than just events. Details about feelings and thoughts make the story vivid and relatable."},
+        {"id": "b", "label": "Details about the narrator's thoughts and feelings are missing. Without them, the story feels like a report, not a lived experience.", "correct": true, "explanation": "Thoughts and feelings help the reader connect with the narrator. Without them, the narrative is dry and hard to engage with. Readers want to know what characters experienced emotionally."},
+        {"id": "c", "label": "Temporal words are missing, which is what makes narratives interesting.", "correct": false, "explanation": "Temporal words are already present (good events in order). What is missing is the emotional detail."},
+        {"id": "d", "label": "More facts about the topic are needed.", "correct": false, "explanation": "Narrative writing does not need more facts. It needs details about the human experience — thoughts and feelings."}
+      ],
+      "explanation_md": "Details about thoughts and feelings connect the reader to the narrator's experience. Without them, a narrative feels like a dry list of events rather than a lived story. Feelings and thoughts are essential for vivid, engaging narratives."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the narrative passage below. Identify the **temporal words** used.\n\n> Saturday morning started like any other. First, I woke up and heard rain hitting my window. Then Mom called us for breakfast. After we ate, the rain stopped and a rainbow appeared. Finally, my brother and I ran outside to see it up close.\n\nWhich temporal words does the passage use?",
+      "choices": [
+        {"id": "a", "label": "Because, also, and, for example", "correct": false, "explanation": "These are linking words used in opinion and informational writing. The passage uses temporal words that show time order."},
+        {"id": "b", "label": "First, Then, After, Finally", "correct": true, "explanation": "The passage uses First (morning events), Then (breakfast), After (rain stopped), and Finally (running outside). These are all temporal words that signal the order of events."},
+        {"id": "c", "label": "Saturday, Mom, brother, rainbow", "correct": false, "explanation": "These are nouns in the narrative. They are not temporal words that signal order."},
+        {"id": "d", "label": "Started, woke, called, appeared, ran", "correct": false, "explanation": "These are action verbs in the narrative. Temporal words are different — they signal WHEN something happened, not what happened."}
+      ],
+      "explanation_md": "The temporal words in the passage are: First, Then, After, and Finally. These words signal the order of events in the narrative."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two narrative sentences:\n\n**Sentence A:** 'We found the puppy.'\n**Sentence B:** 'Suddenly, a tiny whimper came from behind the bushes, and there she was — a small brown puppy with one floppy ear, looking up at us with the biggest eyes I had ever seen.'\n\nWhat makes Sentence B a STRONGER narrative sentence?",
+      "choices": [
+        {"id": "a", "label": "Sentence B uses more commas.", "correct": false, "explanation": "Commas are punctuation. The strength of the sentence comes from its specific details and vivid language, not just its punctuation."},
+        {"id": "b", "label": "Sentence B adds sensory details and specific description that let the reader picture the scene.", "correct": true, "explanation": "Sentence B describes exactly how they found the puppy (a whimper), what the puppy looked like (small, brown, one floppy ear), and the narrator's reaction (biggest eyes I had ever seen). These specific details create a vivid picture."},
+        {"id": "c", "label": "Sentence B is longer, which always makes it better.", "correct": false, "explanation": "Length alone does not make a sentence better. The quality of the details is what matters."},
+        {"id": "d", "label": "Sentence B uses a temporal word.", "correct": false, "explanation": "'Suddenly' is a temporal signal, but the main strength of Sentence B is its vivid sensory details, not just the word 'suddenly.'"}
+      ],
+      "explanation_md": "Sentence B is stronger because it adds specific sensory details: a whimper, a small brown puppy with one floppy ear, biggest eyes ever seen. These details let the reader experience the scene rather than just knowing 'they found a puppy.'"
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes a narrative about a storm. The narrative has a beginning, events in order, and a closure but no details about thoughts or feelings. Another student says: 'A storm is exciting! Why would you write about it so boringly?'\n\nWhat revision would MOST improve the narrative?",
+      "choices": [
+        {"id": "a", "label": "Change the topic to something more exciting.", "correct": false, "explanation": "Storms CAN be exciting. The topic is not the problem. The lack of emotional detail is."},
+        {"id": "b", "label": "Add sentences that describe what the narrator heard, feared, wondered, and felt during the storm.", "correct": true, "explanation": "Adding sensory details (thunder cracking, rain drumming) and emotional details (I huddled under my blanket, heart racing; I wondered if the power would go out) would make the storm narrative vivid and exciting."},
+        {"id": "c", "label": "Add more temporal words at the beginning of every sentence.", "correct": false, "explanation": "More temporal words would help with order but the main problem is the lack of feelings and thoughts that make the storm feel real."},
+        {"id": "d", "label": "Add facts about storms from a science book.", "correct": false, "explanation": "Adding science facts would turn the narrative into informational writing. Narratives need personal details and emotions, not scientific facts."}
+      ],
+      "explanation_md": "To make a storm narrative exciting, add sensory details (what you heard, saw, smelled) and emotional details (what you thought and felt). These transform a flat list of events into a vivid, personal experience that engages the reader."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the narrative below, then answer the question.\n\n> One rainy afternoon, my sister dared me to jump in the biggest puddle I could find. First, I looked around and spotted a huge one near the fence. Then I backed up to get a running start. Finally, I leaped — and splashed muddy water all over both of us! We laughed so hard we almost fell down.\n\nWhich temporal words are used in this narrative?",
+      "choices": [
+        {"id": "a", "label": "rainy, huge, muddy, hard", "correct": false, "explanation": "These are adjectives that describe things. They are not temporal words."},
+        {"id": "b", "label": "First, Then, Finally", "correct": true, "explanation": "First, Then, and Finally are the temporal words in this narrative. They signal the order of events: looking for a puddle, backing up, then jumping."},
+        {"id": "c", "label": "dared, looked, backed up, leaped", "correct": false, "explanation": "These are action verbs. Temporal words signal time and order, not actions."},
+        {"id": "d", "label": "One, me, us, we", "correct": false, "explanation": "These are pronouns or number words. They are not temporal words."}
+      ],
+      "explanation_md": "First, Then, and Finally are the temporal words. They signal the order of events and help the reader follow the sequence of the narrative."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the narrative below, then answer the question.\n\n> One rainy afternoon, my sister dared me to jump in the biggest puddle I could find. First, I looked around and spotted a huge one near the fence. Then I backed up to get a running start. Finally, I leaped — and splashed muddy water all over both of us! We laughed so hard we almost fell down.\n\nWhat details about **feelings** are in this narrative?",
+      "choices": [
+        {"id": "a", "label": "The mud and the water", "correct": false, "explanation": "Mud and water are physical details. The question asks about feelings."},
+        {"id": "b", "label": "Laughing so hard they almost fell down, which shows they were having a great time.", "correct": true, "explanation": "Laughing hard to the point of almost falling is a detail that shows the narrator and sister were joyful and having fun. It is an emotional detail."},
+        {"id": "c", "label": "The size of the puddle", "correct": false, "explanation": "The size of the puddle is a physical detail. The question asks about feelings."},
+        {"id": "d", "label": "The rainy afternoon", "correct": false, "explanation": "The rainy afternoon is the setting. The question asks about emotional details."}
+      ],
+      "explanation_md": "Laughing so hard they almost fell down shows joy and fun. This is the emotional detail that tells the reader how the narrator felt about what happened."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student's narrative ends with: 'Then we left.'\n\nWhich revision gives the narrative a BETTER sense of **closure**?",
+      "choices": [
+        {"id": "a", "label": "'Then we left because we had to.'", "correct": false, "explanation": "This adds a vague reason but still does not give a sense of closure or a meaningful ending."},
+        {"id": "b", "label": "'As we walked away, I looked back one last time and smiled. It had been the best day of the whole summer.'", "correct": true, "explanation": "This revision adds a final action (looking back), an emotion (smiled), and a reflection (best day of the summer). This gives the reader a satisfying, complete feeling."},
+        {"id": "c", "label": "'We left and then came back and left again.'", "correct": false, "explanation": "This is confusing and repetitive. It does not provide closure."},
+        {"id": "d", "label": "'We left. The weather was cold. There were clouds.'", "correct": false, "explanation": "Adding random details about weather does not provide emotional closure. A good ending reflects on the experience."}
+      ],
+      "explanation_md": "Looking back and smiling while reflecting 'best day of the whole summer' provides closure by adding emotion and reflection. The reader feels the story is complete and meaningful."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Put these events in the correct **order** for a narrative:\n\n> A. We played on the swings.\n> B. We arrived at the park.\n> C. We went home for dinner.\n\nWhat is the correct order?",
+      "choices": [
+        {"id": "a", "label": "C, A, B", "correct": false, "explanation": "You can not go home before you arrive at the park. The correct order follows what would logically happen first."},
+        {"id": "b", "label": "B, A, C", "correct": true, "explanation": "First you arrive at the park (B), then you play on the swings (A), then you go home for dinner (C). This is the logical order."},
+        {"id": "c", "label": "A, B, C", "correct": false, "explanation": "You can not play on the swings before you arrive at the park."},
+        {"id": "d", "label": "A, C, B", "correct": false, "explanation": "This order does not make logical sense. You arrive first, then play, then go home."}
+      ],
+      "explanation_md": "The correct order is B → A → C: arrive at the park, play on the swings, then go home for dinner. Narratives tell events in the order they happened."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word shows the **last event** in a narrative?",
+      "choices": [
+        {"id": "a", "label": "First", "correct": false, "explanation": "'First' shows the beginning event, not the last."},
+        {"id": "b", "label": "Then", "correct": false, "explanation": "'Then' shows an event that comes after another. It is not specifically for the last event."},
+        {"id": "c", "label": "Finally", "correct": true, "explanation": "'Finally' signals the last event in a sequence. It tells the reader this is the end of the events."},
+        {"id": "d", "label": "Next", "correct": false, "explanation": "'Next' shows something that comes after, but not necessarily the last thing."}
+      ],
+      "explanation_md": "'Finally' is the temporal word that signals the last event in a narrative sequence."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'I played with my dog.'\n\nWhich revision adds a **feeling** to this sentence?",
+      "choices": [
+        {"id": "a", "label": "'I played with my dog outside in the yard.'", "correct": false, "explanation": "This adds a place (outside, yard) but not a feeling."},
+        {"id": "b", "label": "'I played with my dog, and I was laughing the whole time because he kept chasing his tail.'", "correct": true, "explanation": "Laughing the whole time is a feeling/action that shows the narrator was happy and having fun. This adds emotional detail to the sentence."},
+        {"id": "c", "label": "'My dog is brown with white spots.'", "correct": false, "explanation": "This adds a physical description of the dog, not a feeling about playing."},
+        {"id": "d", "label": "'My dog and I played.'", "correct": false, "explanation": "This just rephrases the sentence without adding any feelings."}
+      ],
+      "explanation_md": "'I was laughing the whole time because he kept chasing his tail' adds a feeling (laughter, happiness) and a specific funny detail (chasing his tail). This makes the narrative more vivid."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence gives a **sense of closure** to a narrative?",
+      "choices": [
+        {"id": "a", "label": "'Suddenly, the door opened.'", "correct": false, "explanation": "This sounds like a new event is about to begin. It opens up a new action, not closes the story."},
+        {"id": "b", "label": "'I walked home, tired but grateful for such a wonderful day.'", "correct": true, "explanation": "This sentence shows the end of the story (walking home) and a reflection on the day (tired but grateful). It wraps up the narrative with a feeling."},
+        {"id": "c", "label": "'The next day, something even bigger happened.'", "correct": false, "explanation": "This starts a new story, not closes the current one."},
+        {"id": "d", "label": "'First, we got to the park.'", "correct": false, "explanation": "'First' signals the beginning of events, not the end."}
+      ],
+      "explanation_md": "'I walked home, tired but grateful for such a wonderful day' wraps up the narrative by showing the end of the day and how the narrator felt about it. That is closure."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which narrative beginning is the STRONGEST?",
+      "choices": [
+        {"id": "a", "label": "'This is a story about my birthday.'", "correct": false, "explanation": "This tells the reader what the story is about but does not draw them in. It is flat and generic."},
+        {"id": "b", "label": "'One chilly October morning, I woke up to the smell of blueberry pancakes and the sound of my family singing Happy Birthday from downstairs.'", "correct": true, "explanation": "This beginning is specific (October morning, blueberry pancakes, family singing), uses sensory details (smell, sound), and immediately puts the reader in the scene."},
+        {"id": "c", "label": "'Birthdays happen every year.'", "correct": false, "explanation": "This is a general fact, not a narrative beginning. It does not pull the reader into a specific event."},
+        {"id": "d", "label": "'My birthday was good.'", "correct": false, "explanation": "This is vague. A strong narrative beginning uses specific details to put the reader in the scene."}
+      ],
+      "explanation_md": "The strongest beginning uses specific sensory details (chilly October, smell of pancakes, sound of singing) to pull the reader immediately into the scene. Strong narrative beginnings are specific and vivid."
+    }
+  ]
+}
