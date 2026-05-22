@@ -1,0 +1,363 @@
+{
+  "skill_id": "2.MD.B.5",
+  "benchmark_description": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units, e.g., by using drawings (such as drawings of rulers) and equations with a symbol for the unknown number to represent the problem.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Solving Length Word Problems",
+    "intro": "Now you get to combine two skills: measuring and solving word problems! When a word problem gives you lengths, you use addition or subtraction to find the answer. Let's use drawings and equations to help!",
+    "body_md": "## Word Problems with Lengths\n\nLength word problems work just like other word problems \u2014 except all the numbers have a unit like inches or centimeters!\n\n**Important:** Only add or subtract lengths in the same unit. You cannot add 5 inches and 3 centimeters \u2014 the units must match!\n\n## Types of Length Problems\n\n### Adding Lengths\n\nWhen you put two lengths together or find the total:\n\n**Example:** A red rope is 24 cm. A blue rope is 38 cm. What is the total length if they are tied together?\n- 24 + 38 = 62 cm\n- The ropes together are **62 centimeters** long.\n\n### Subtracting Lengths\n\nWhen you find how much is left or the difference:\n\n**Example:** A board is 80 inches long. 35 inches are cut off. How long is what is left?\n- 80 - 35 = 45 inches\n- **45 inches** are left.\n\n## Using a Symbol for the Unknown\n\nYou can use a ? or a box to show the part you are finding.\n\n| Situation | Equation |\n|---|---|\n| Two lengths joined | 18 + 25 = ? |\n| Part removed | 50 - 23 = ? |\n| Unknown part | ? + 30 = 70 |\n\n## Drawing a Ruler Diagram\n\nYou can draw a ruler to show the problem!\n\n```\n|----24 cm----|----38 cm----|\n|----------? cm-------------|\n```\n\nThe ? box covers both sections, so we ADD: 24 + 38 = 62 cm.\n\n## Units Must Match!\n\nAlways check that the units are the same before you add or subtract!",
+    "worked_example_md": "**Problem:** Sarah's jump rope is 75 inches long. She cuts off 28 inches to make it shorter. Then she adds a piece 12 inches long. How long is the rope now?\n\n**Step 1:** She starts with 75 inches.\n**Step 2:** She cuts off 28 inches: 75 - 28 = 47 inches.\n**Step 3:** She adds 12 inches: 47 + 12 = 59 inches.\n\n**Answer:** The rope is now **59 inches** long.\n\n**Equation:** 75 - 28 + 12 = 59",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "A red ribbon is 15 cm long. A blue ribbon is 23 cm long. How long are they together?",
+      "correct_answer": "38",
+      "explanation_md": "15 + 23 = 38. Together they are 38 centimeters long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A board is 50 inches long. A piece 18 inches is cut off. How long is the board now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "68 inches",
+          "correct": false,
+          "explanation": "68=50+18. You added. Subtract: 50-18=32 inches."
+        },
+        {
+          "id": "b",
+          "label": "32 inches",
+          "correct": true,
+          "explanation": "Correct! 50-18=32. The board is 32 inches long."
+        },
+        {
+          "id": "c",
+          "label": "30 inches",
+          "correct": false,
+          "explanation": "50-18=32, not 30."
+        },
+        {
+          "id": "d",
+          "label": "28 inches",
+          "correct": false,
+          "explanation": "50-18=32. Not 28."
+        }
+      ],
+      "explanation_md": "50-18=32. The board is now 32 inches long."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A caterpillar is 8 cm long. It grows 6 more centimeters. How long is it now?",
+      "correct_answer": "14",
+      "explanation_md": "8 + 6 = 14. The caterpillar is now 14 centimeters long."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two sticks together measure 85 cm. One stick is 47 cm. How long is the other stick?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "132 cm",
+          "correct": false,
+          "explanation": "132=85+47. We need the other stick: 85-47=38 cm."
+        },
+        {
+          "id": "b",
+          "label": "38 cm",
+          "correct": true,
+          "explanation": "Correct! 85-47=38 cm. The other stick is 38 centimeters."
+        },
+        {
+          "id": "c",
+          "label": "40 cm",
+          "correct": false,
+          "explanation": "85-47=38, not 40. Check: 47+38=85."
+        },
+        {
+          "id": "d",
+          "label": "48 cm",
+          "correct": false,
+          "explanation": "85-47=38 cm."
+        }
+      ],
+      "explanation_md": "85-47=38. The other stick is 38 centimeters long."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake has a 65-inch rope. He cuts off 27 inches. Later his friend gives him a 15-inch piece. How long is Jake's rope now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "53 inches",
+          "correct": true,
+          "explanation": "Correct! 65-27=38. Then 38+15=53 inches."
+        },
+        {
+          "id": "b",
+          "label": "23 inches",
+          "correct": false,
+          "explanation": "65-27=38, then 38+15=53. Not 23."
+        },
+        {
+          "id": "c",
+          "label": "77 inches",
+          "correct": false,
+          "explanation": "65-27=38, not 65-12. Then 38+15=53."
+        },
+        {
+          "id": "d",
+          "label": "107 inches",
+          "correct": false,
+          "explanation": "Do not add all three. 65-27=38, then 38+15=53."
+        }
+      ],
+      "explanation_md": "65-27=38. Then 38+15=53 inches."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A garden path is ? cm long. A section 34 cm long is added to it. The total is now 79 cm. How long was the original path?",
+      "correct_answer": "45",
+      "explanation_md": "? + 34 = 79. So 79 - 34 = 45. The original path was 45 centimeters long."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A worm moves 32 inches forward, then 19 inches back, then 40 inches forward. How far is it from where it started?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "91 inches",
+          "correct": false,
+          "explanation": "91=32+19+40 (adding all). Go forward 32, back 19: 32-19=13. Then 13+40=53 inches."
+        },
+        {
+          "id": "b",
+          "label": "53 inches",
+          "correct": true,
+          "explanation": "Correct! 32-19=13, then 13+40=53 inches forward from the start."
+        },
+        {
+          "id": "c",
+          "label": "40 inches",
+          "correct": false,
+          "explanation": "32-19=13, then 13+40=53 inches."
+        },
+        {
+          "id": "d",
+          "label": "11 inches",
+          "correct": false,
+          "explanation": "32-19=13, then 13+40=53 inches."
+        }
+      ],
+      "explanation_md": "32-19=13 (net forward so far). Then 13+40=53 inches from the start."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A piece of wire is 94 cm. 38 cm is used. How many centimeters of wire are left?",
+      "correct_answer": "56",
+      "explanation_md": "94-38=56. There are 56 centimeters of wire left."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Emma needs 72 cm of ribbon total. She already has one piece that is 43 cm. How many more centimeters does she need?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "115 cm",
+          "correct": false,
+          "explanation": "115=72+43. She needs: 72-43=29 cm more."
+        },
+        {
+          "id": "b",
+          "label": "29 cm",
+          "correct": true,
+          "explanation": "Correct! 72-43=29 cm. Emma needs 29 more centimeters."
+        },
+        {
+          "id": "c",
+          "label": "39 cm",
+          "correct": false,
+          "explanation": "72-43=29 cm. Check: 43+29=72."
+        },
+        {
+          "id": "d",
+          "label": "30 cm",
+          "correct": false,
+          "explanation": "72-43=29 cm, not 30."
+        }
+      ],
+      "explanation_md": "72-43=29. Emma needs 29 more centimeters."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "A road is 98 inches long. Workers paved 37 inches on Monday and some more inches on Tuesday. After Tuesday, 24 inches are still unpaved. How many inches did they pave on Tuesday?",
+      "correct_answer": "37",
+      "explanation_md": "Paved so far: 98-24=74 inches. Monday paved 37. So Tuesday: 74-37=37 inches."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A jump rope is 86 cm. Sam shortens it by 24 cm. How long is it now?",
+      "correct_answer": "62",
+      "explanation_md": "86-24=62. The rope is now 62 centimeters long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two boards are placed end to end. One is 48 inches, the other is 35 inches. How long are they together?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "13 inches",
+          "correct": false,
+          "explanation": "13=48-35. Add to find total: 48+35=83 inches."
+        },
+        {
+          "id": "b",
+          "label": "83 inches",
+          "correct": true,
+          "explanation": "Correct! 48+35=83 inches together."
+        },
+        {
+          "id": "c",
+          "label": "93 inches",
+          "correct": false,
+          "explanation": "48+35=83, not 93."
+        },
+        {
+          "id": "d",
+          "label": "73 inches",
+          "correct": false,
+          "explanation": "48+35=83. Check ones: 8+5=13 (write 3 carry 1). Tens: 4+3+1=8. Answer: 83."
+        }
+      ],
+      "explanation_md": "48+35=83. The boards together are 83 inches long."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "? + 26 = 91. Write the missing length in centimeters.",
+      "correct_answer": "65",
+      "explanation_md": "91-26=65. The missing length is 65 centimeters."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "A red string is 10 cm. A blue string is 6 cm. How long are they together?",
+      "correct_answer": "16",
+      "explanation_md": "10+6=16. Together they are 16 centimeters."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A rope is 20 inches. 8 inches are cut off. How long is the rope now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "28 inches",
+          "correct": false,
+          "explanation": "28=20+8. Subtract: 20-8=12 inches."
+        },
+        {
+          "id": "b",
+          "label": "12 inches",
+          "correct": true,
+          "explanation": "Correct! 20-8=12 inches."
+        },
+        {
+          "id": "c",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "20-8=12 inches."
+        },
+        {
+          "id": "d",
+          "label": "2 inches",
+          "correct": false,
+          "explanation": "20-8=12, not 2."
+        }
+      ],
+      "explanation_md": "20-8=12. The rope is now 12 inches long."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A snake is 35 cm. It grows 12 cm. How long is it now?",
+      "correct_answer": "47",
+      "explanation_md": "35+12=47. The snake is now 47 centimeters long."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two ribbons total 50 cm. One is 32 cm. How long is the other?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "82 cm",
+          "correct": false,
+          "explanation": "82=50+32. We need: 50-32=18 cm."
+        },
+        {
+          "id": "b",
+          "label": "18 cm",
+          "correct": true,
+          "explanation": "Correct! 50-32=18 cm."
+        },
+        {
+          "id": "c",
+          "label": "20 cm",
+          "correct": false,
+          "explanation": "50-32=18 cm."
+        },
+        {
+          "id": "d",
+          "label": "22 cm",
+          "correct": false,
+          "explanation": "50-32=18 cm."
+        }
+      ],
+      "explanation_md": "50-32=18. The other ribbon is 18 centimeters."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A board is 75 inches. A piece of 40 inches is cut off. How many inches are left?",
+      "correct_answer": "35",
+      "explanation_md": "75-40=35. There are 35 inches left."
+    }
+  ]
+}
