@@ -1,0 +1,588 @@
+{
+  "skill_id": "MA.2.NSO.1.3",
+  "benchmark_description": "Plot, order, and compare whole numbers up to 1,000 using a number line and the symbols >, =, and <.",
+  "course": "math",
+  "strand": "NSO",
+  "lesson": {
+    "title": "Comparing Numbers to 1,000",
+    "intro": "Which is bigger, 342 or 358? Learning to compare numbers helps you put them in order from smallest to biggest or biggest to smallest!",
+    "body_md": "## Comparison Symbols\n- **>** means GREATER THAN (the open mouth faces the bigger number)\n- **<** means LESS THAN (the small point faces the smaller number)\n- **=** means EQUAL TO (both sides are the same)\n\n## Memory Trick\nThink of the symbol as a hungry alligator mouth. The alligator always wants to eat the BIGGER number, so the open side faces the bigger number.\n- 456 **>** 421 (456 is greater than 421)\n- 321 **<** 400 (321 is less than 400)\n\n## How to Compare Three-Digit Numbers\n**Step 1: Compare the hundreds digit first.**\n- 567 vs 489: 5 hundreds > 4 hundreds, so 567 > 489\n\n**Step 2: If hundreds are the same, compare the tens digit.**\n- 743 vs 761: same hundreds (7), but 4 tens < 6 tens, so 743 < 761\n\n**Step 3: If tens are also the same, compare the ones digit.**\n- 825 vs 828: same hundreds (8), same tens (2), but 5 ones < 8 ones, so 825 < 828\n\n## Number Line\nOn a number line, numbers get BIGGER as you move RIGHT and SMALLER as you move LEFT.\n\n```\n0 ------- 100 ------- 200 ------- 300 ------- 400 ------- 500\n```\n\nTo plot 350, find where it falls between 300 and 400, exactly halfway.\n\n## Ordering Numbers\nTo order numbers from least to greatest, compare them and put the smallest first.\n- 415, 182, 620: order is 182, 415, 620",
+    "worked_example_md": "**Compare 548 and 562. Use >, <, or =.**\n\nStep 1: Compare hundreds. Both have 5 hundreds. Same!\n\nStep 2: Compare tens. 548 has 4 tens. 562 has 6 tens. 4 < 6.\n\nSince the tens digit of 548 is less, 548 < 562.\n\n**Answer: 548 < 562**\n\nCheck on a number line: 548 is to the LEFT of 562, so it is less.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol goes in the blank? 300 ___ 200",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "300 is larger than 200, so the alligator mouth opens toward 300. Use >."
+        },
+        {
+          "id": "b",
+          "label": ">",
+          "correct": true,
+          "explanation": "300 is greater than 200. The open side of > faces the bigger number (300)."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": false,
+          "explanation": "300 and 200 are different numbers. 300 is 100 more than 200."
+        },
+        {
+          "id": "d",
+          "label": "+",
+          "correct": false,
+          "explanation": "The plus sign is for adding, not comparing. Use > because 300 is greater than 200."
+        }
+      ],
+      "explanation_md": "300 > 200. Three hundred is greater than two hundred."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is least? 425, 524, 245",
+      "choices": [
+        {
+          "id": "a",
+          "label": "425",
+          "correct": false,
+          "explanation": "425 has 4 hundreds. 245 has only 2 hundreds, making 245 the smallest."
+        },
+        {
+          "id": "b",
+          "label": "524",
+          "correct": false,
+          "explanation": "524 has 5 hundreds, making it the largest of the three."
+        },
+        {
+          "id": "c",
+          "label": "245",
+          "correct": true,
+          "explanation": "245 has only 2 hundreds. 425 has 4 hundreds and 524 has 5 hundreds. 245 is least."
+        },
+        {
+          "id": "d",
+          "label": "All are equal",
+          "correct": false,
+          "explanation": "These numbers have different digits in the hundreds place, so they are not equal."
+        }
+      ],
+      "explanation_md": "Compare hundreds first: 245 has 2, 425 has 4, 524 has 5. The least is 245."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol goes in the blank? 671 ___ 671",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "671 is not greater than itself. They are the same number."
+        },
+        {
+          "id": "b",
+          "label": "<",
+          "correct": false,
+          "explanation": "671 is not less than itself. They are the same number."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": true,
+          "explanation": "671 equals 671. Any number equals itself."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "The equal sign (=) works here. 671 = 671."
+        }
+      ],
+      "explanation_md": "671 = 671. When two numbers are the same, use the equal sign."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol makes this true? 783 ___ 738",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "783 is greater than 738. The hundreds are the same (7), but 783 has 8 tens and 738 has 3 tens. 8 > 3."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "783 and 738 are different numbers. The tens digits are different: 8 tens vs 3 tens."
+        },
+        {
+          "id": "c",
+          "label": ">",
+          "correct": true,
+          "explanation": "Both have 7 hundreds. Compare tens: 783 has 8 tens, 738 has 3 tens. 8 > 3, so 783 > 738."
+        },
+        {
+          "id": "d",
+          "label": "None applies",
+          "correct": false,
+          "explanation": "> works here. 783 is greater than 738."
+        }
+      ],
+      "explanation_md": "Same hundreds (7). Compare tens: 783 has 8 tens, 738 has 3 tens. 8 > 3, so 783 > 738."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Order these numbers from least to greatest. Write the position (1, 2, or 3) of 512. Numbers: 512, 251, 521",
+      "correct_answer": "2",
+      "explanation_md": "251 < 512 < 521. 251 is first (least), 512 is second, 521 is third (greatest). 512 is in position 2."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list shows these numbers in order from greatest to least? 467, 476, 647, 674",
+      "choices": [
+        {
+          "id": "a",
+          "label": "467, 476, 647, 674",
+          "correct": false,
+          "explanation": "This is least to greatest. The question asks for greatest to least."
+        },
+        {
+          "id": "b",
+          "label": "674, 647, 476, 467",
+          "correct": true,
+          "explanation": "674 has the most hundreds (6) and the most tens, then 647 (6 hundreds, 4 tens), then 476 (4 hundreds, 7 tens), then 467 (4 hundreds, 6 tens)."
+        },
+        {
+          "id": "c",
+          "label": "647, 674, 467, 476",
+          "correct": false,
+          "explanation": "674 > 647 because 7 tens > 4 tens. 476 > 467 because 7 tens > 6 tens. The correct order is 674, 647, 476, 467."
+        },
+        {
+          "id": "d",
+          "label": "674, 647, 467, 476",
+          "correct": false,
+          "explanation": "467 and 476 are both 4 hundreds. Comparing tens: 476 has 7 tens > 467 has 6 tens. So 476 comes before 467."
+        }
+      ],
+      "explanation_md": "Start with highest hundreds: 647 and 674 both have 6. 674 > 647 (7 tens > 4 tens). Then 476 and 467 both have 4. 476 > 467 (7 tens > 6 tens). Order: 674, 647, 476, 467."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "On a number line, which number is between 400 and 500?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "398",
+          "correct": false,
+          "explanation": "398 is less than 400, so it is to the LEFT of 400 on the number line, not between 400 and 500."
+        },
+        {
+          "id": "b",
+          "label": "501",
+          "correct": false,
+          "explanation": "501 is greater than 500, so it is to the RIGHT of 500 on the number line, not between 400 and 500."
+        },
+        {
+          "id": "c",
+          "label": "450",
+          "correct": true,
+          "explanation": "450 is between 400 and 500. On the number line: 400 < 450 < 500."
+        },
+        {
+          "id": "d",
+          "label": "530",
+          "correct": false,
+          "explanation": "530 > 500, so it is past 500 on the number line."
+        }
+      ],
+      "explanation_md": "450 is between 400 and 500. On a number line: 400 < 450 < 500."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Maya says 899 > 900. Is she correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, because 899 has more digits when you add them up.",
+          "correct": false,
+          "explanation": "Adding digits is not how we compare numbers. We compare place by place."
+        },
+        {
+          "id": "b",
+          "label": "No, 899 < 900 because 899 has 8 hundreds but 900 has 9 hundreds.",
+          "correct": true,
+          "explanation": "Comparing hundreds: 899 has 8 hundreds, 900 has 9 hundreds. 8 < 9, so 899 < 900."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 899 ends in 99 which is big.",
+          "correct": false,
+          "explanation": "The hundreds digit decides first. 900 has more hundreds (9) than 899 (8), so 900 is greater."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because 899 is very close to 900.",
+          "correct": false,
+          "explanation": "Being close to a number does not make it greater. 899 < 900."
+        }
+      ],
+      "explanation_md": "899 has 8 hundreds. 900 has 9 hundreds. 8 < 9, so 899 < 900. Maya is wrong."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which digit could go in the blank to make this true? 6_4 > 654",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3",
+          "correct": false,
+          "explanation": "634 < 654 because 3 tens < 5 tens."
+        },
+        {
+          "id": "b",
+          "label": "5",
+          "correct": false,
+          "explanation": "654 = 654, which is equal, not greater."
+        },
+        {
+          "id": "c",
+          "label": "7",
+          "correct": true,
+          "explanation": "674 > 654 because 7 tens > 5 tens. Any digit 6, 7, 8, or 9 in the tens place works, but 7 is the best answer here."
+        },
+        {
+          "id": "d",
+          "label": "1",
+          "correct": false,
+          "explanation": "614 < 654 because 1 ten < 5 tens."
+        }
+      ],
+      "explanation_md": "Both numbers have 6 hundreds and 4 ones. To be greater, the tens digit must be more than 5. The digit 7 makes 674 > 654."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "How many three-digit numbers are greater than 995 and less than 1,000?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "0",
+          "correct": false,
+          "explanation": "There are numbers between 995 and 1,000: 996, 997, 998, 999."
+        },
+        {
+          "id": "b",
+          "label": "3",
+          "correct": false,
+          "explanation": "Count carefully: 996, 997, 998, 999. That is 4 numbers, not 3."
+        },
+        {
+          "id": "c",
+          "label": "4",
+          "correct": true,
+          "explanation": "996, 997, 998, and 999 are all three-digit numbers greater than 995 and less than 1,000."
+        },
+        {
+          "id": "d",
+          "label": "5",
+          "correct": false,
+          "explanation": "995 itself is not greater than 995. Count only 996, 997, 998, 999 = 4 numbers."
+        }
+      ],
+      "explanation_md": "Three-digit numbers between 995 and 1,000: 996, 997, 998, 999. That is 4 numbers."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol makes this true? 549 ___ 594",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "Both have 5 hundreds. Comparing tens: 549 has 4 tens, 594 has 9 tens. 4 < 9, so 549 < 594."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "549 and 594 are different. The tens digits differ: 4 vs 9."
+        },
+        {
+          "id": "c",
+          "label": "<",
+          "correct": true,
+          "explanation": "Same hundreds (5). Compare tens: 4 tens < 9 tens. So 549 < 594."
+        },
+        {
+          "id": "d",
+          "label": "None",
+          "correct": false,
+          "explanation": "< works here. 549 is less than 594."
+        }
+      ],
+      "explanation_md": "549 and 594 both have 5 hundreds. Tens: 4 vs 9. Since 4 < 9, 549 < 594."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Order 803, 830, 308, 380 from least to greatest.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "308, 380, 803, 830",
+          "correct": true,
+          "explanation": "308 and 380 have 3 hundreds (less). 803 and 830 have 8 hundreds (more). Within each pair, compare tens: 308 (0 tens) < 380 (8 tens), and 803 (0 tens) < 830 (3 tens)."
+        },
+        {
+          "id": "b",
+          "label": "308, 803, 380, 830",
+          "correct": false,
+          "explanation": "380 > 308 and 830 > 803, but 380 has only 3 hundreds, so it must come before 803 (8 hundreds)."
+        },
+        {
+          "id": "c",
+          "label": "803, 830, 308, 380",
+          "correct": false,
+          "explanation": "This is greatest to least, not least to greatest."
+        },
+        {
+          "id": "d",
+          "label": "380, 308, 803, 830",
+          "correct": false,
+          "explanation": "308 < 380 because 0 tens < 8 tens. So 308 should come before 380."
+        }
+      ],
+      "explanation_md": "Compare hundreds: 308 and 380 have 3 hundreds (smaller). 803 and 830 have 8 hundreds (larger). Within 3-hundreds: 308 < 380. Within 8-hundreds: 803 < 830. Order: 308, 380, 803, 830."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "On a number line, which number would be closest to 700?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "400",
+          "correct": false,
+          "explanation": "400 is 300 away from 700. That is farther than 680."
+        },
+        {
+          "id": "b",
+          "label": "750",
+          "correct": false,
+          "explanation": "750 is 50 away from 700. 680 is only 20 away, so 680 is closer."
+        },
+        {
+          "id": "c",
+          "label": "680",
+          "correct": true,
+          "explanation": "680 is only 20 away from 700. 750 is 50 away and 400 is 300 away. 680 is closest."
+        },
+        {
+          "id": "d",
+          "label": "600",
+          "correct": false,
+          "explanation": "600 is 100 away from 700. 680 is only 20 away, making 680 closer."
+        }
+      ],
+      "explanation_md": "680 is 20 away from 700. 750 is 50 away. 600 is 100 away. 400 is 300 away. 680 is closest."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is greater, 5 or 8?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is less than 8. When counting, we reach 5 before 8, so 8 is greater."
+        },
+        {
+          "id": "b",
+          "label": "8",
+          "correct": true,
+          "explanation": "8 is greater than 5. On a number line, 8 is to the right of 5."
+        },
+        {
+          "id": "c",
+          "label": "They are equal",
+          "correct": false,
+          "explanation": "5 and 8 are different numbers. 8 is the larger one."
+        },
+        {
+          "id": "d",
+          "label": "Cannot tell",
+          "correct": false,
+          "explanation": "We can compare 5 and 8. 8 is greater."
+        }
+      ],
+      "explanation_md": "8 > 5. Eight is greater than five."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol means GREATER THAN?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "< means less than. The small tip points to the smaller number."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "= means equal to. Both numbers are the same size."
+        },
+        {
+          "id": "c",
+          "label": ">",
+          "correct": true,
+          "explanation": "> means greater than. The open side faces the bigger number."
+        },
+        {
+          "id": "d",
+          "label": "+",
+          "correct": false,
+          "explanation": "+ is the addition sign, not a comparison symbol."
+        }
+      ],
+      "explanation_md": "> means greater than. The alligator mouth opens toward the bigger number."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is greater, 300 or 400?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "300",
+          "correct": false,
+          "explanation": "300 has 3 hundreds. 400 has 4 hundreds. More hundreds means a greater number."
+        },
+        {
+          "id": "b",
+          "label": "400",
+          "correct": true,
+          "explanation": "400 has 4 hundreds and 300 has only 3 hundreds. 400 > 300."
+        },
+        {
+          "id": "c",
+          "label": "They are equal",
+          "correct": false,
+          "explanation": "300 and 400 are different. 400 is 100 more than 300."
+        },
+        {
+          "id": "d",
+          "label": "Cannot compare",
+          "correct": false,
+          "explanation": "We compare by looking at the hundreds: 4 hundreds > 3 hundreds, so 400 > 300."
+        }
+      ],
+      "explanation_md": "400 > 300. Four hundreds is greater than three hundreds."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which list is in order from least to greatest? 120, 210, 102",
+      "choices": [
+        {
+          "id": "a",
+          "label": "102, 120, 210",
+          "correct": true,
+          "explanation": "102 has 1 hundred and 0 tens. 120 has 1 hundred and 2 tens. 210 has 2 hundreds. 102 < 120 < 210."
+        },
+        {
+          "id": "b",
+          "label": "210, 120, 102",
+          "correct": false,
+          "explanation": "This is greatest to least, not least to greatest."
+        },
+        {
+          "id": "c",
+          "label": "120, 102, 210",
+          "correct": false,
+          "explanation": "102 < 120 because 0 tens < 2 tens. So 102 should come before 120."
+        },
+        {
+          "id": "d",
+          "label": "102, 210, 120",
+          "correct": false,
+          "explanation": "120 and 210: 120 has only 1 hundred while 210 has 2 hundreds, so 120 < 210 and should come before 210."
+        }
+      ],
+      "explanation_md": "Compare hundreds: 102 and 120 both have 1 hundred (less). 210 has 2 hundreds (more). Between 102 and 120: 0 tens < 2 tens, so 102 < 120. Order: 102, 120, 210."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol goes in the blank? 456 ___ 465",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "Both have 4 hundreds. Compare tens: 456 has 5 tens, 465 has 6 tens. 5 < 6, so 456 < 465."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "456 and 465 are different numbers. The tens digits are different: 5 vs 6."
+        },
+        {
+          "id": "c",
+          "label": "<",
+          "correct": true,
+          "explanation": "Same hundreds (4). Compare tens: 5 tens < 6 tens. So 456 < 465."
+        },
+        {
+          "id": "d",
+          "label": "None",
+          "correct": false,
+          "explanation": "< works. 456 is less than 465."
+        }
+      ],
+      "explanation_md": "456 and 465 both have 4 hundreds. Tens: 5 vs 6. Since 5 < 6, 456 < 465."
+    }
+  ]
+}
