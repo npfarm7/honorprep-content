@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.09",
+  "benchmark_description": "Describe the physical and human features of communities and explain how people adapt to and modify their environment.",
+  "course": "social_studies",
+  "strand": "GEO",
+  "lesson": {
+    "title": "Physical and Human Features: How People Shape Their Environment",
+    "intro": "The land around us shapes how we live. And the things people build change the land too! Let's explore the difference between natural features and things people create.",
+    "body_md": "## Physical Features\n\n**Physical features** are natural parts of the land and water. People did not make them.\n\nExamples:\n- **Mountains** — high, rocky land\n- **Rivers and lakes** — bodies of water\n- **Plains** — flat, open land\n- **Forests** — large areas with many trees\n- **Valleys** — low land between hills or mountains\n- **Coastlines** — where land meets the ocean\n\nTennessee has all of these! The Great Smoky Mountains are in the east. The Mississippi River forms the western border.\n\n## Human Features\n\n**Human features** are things that people built or created.\n\nExamples:\n- Roads and highways\n- Bridges\n- Buildings and houses\n- Dams and reservoirs\n- Farms and fields\n- Parks and playgrounds\n\n## Adapting to the Environment\n\n**Adapting** means changing how you live to fit the environment around you.\n\n| Environment | How People Adapt |\n|---|---|\n| Cold, snowy mountains | Build warm houses; wear heavy coats |\n| Hot desert | Build adobe homes to stay cool; collect water |\n| Near a river | Build boats; fish for food |\n| Flat plains | Farm the land; build wide roads |\n| Coastal area | Build harbors for fishing boats |\n\n## Modifying the Environment\n\n**Modifying** means changing the environment to better fit human needs.\n\nExamples of modifications:\n- **Cutting down trees** to make space for farms or buildings\n- **Building dams** to control rivers and create reservoirs\n- **Draining wetlands** to build neighborhoods\n- **Planting crops** to use the soil\n- **Building bridges** to cross rivers\n\n## Pros and Cons of Modification\n\nModifying the environment can be helpful, but sometimes it causes problems.\n\n| Modification | Helpful | Possible Problem |\n|---|---|---|\n| Building a dam | Creates electricity and water supply | Floods land upstream; harms fish |\n| Cutting trees | Makes space for homes | Destroys wildlife habitat |\n| Farming | Provides food | Soil erosion over time |\n\n## Tennessee Examples\n\n- **Physical:** Great Smoky Mountains, Cumberland River, Mississippi River, Tennessee Valley\n- **Human:** Norris Dam (built on the Clinch River), I-40 highway, Nashville's downtown skyline",
+    "worked_example_md": "## Worked Example\n\n**Question:** A pioneer family settled near a river in Tennessee. How did they ADAPT to the environment? How did they MODIFY it?\n\n**Step 1 — Adapting:**\n- They fished in the river for food.\n- They drank river water (adapting to the water source nearby).\n- They built a log cabin from trees in the nearby forest.\n- They planted crops on the flat land beside the river.\n\n**Step 2 — Modifying:**\n- They cleared trees to make room for their farm (modifying the forest).\n- They dug irrigation ditches to move river water to their crops (modifying the land).\n- They built a wooden bridge to cross the river (modifying access).\n\n**Answer:** The family adapted by using the river for food and water. They modified the environment by clearing trees, digging ditches, and building a bridge. Both adapting and modifying helped them survive in their new community.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **physical feature** of the environment?",
+      "choices": [
+        {"id": "a", "label": "A bridge over a river", "correct": false, "explanation": "A bridge is built by people, so it is a human feature, not a physical feature."},
+        {"id": "b", "label": "A mountain", "correct": true, "explanation": "A mountain is a natural land feature. People did not create it."},
+        {"id": "c", "label": "A highway", "correct": false, "explanation": "Highways are built by people. They are human features."},
+        {"id": "d", "label": "A farm", "correct": false, "explanation": "Farms are created and managed by people. They are human features."}
+      ],
+      "explanation_md": "A mountain is a physical feature. Physical features are natural parts of the environment that people did not make."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **human feature**?",
+      "choices": [
+        {"id": "a", "label": "A river", "correct": false, "explanation": "A river is a natural physical feature. People did not create rivers."},
+        {"id": "b", "label": "A forest", "correct": false, "explanation": "A forest is a natural physical feature made up of trees."},
+        {"id": "c", "label": "A dam", "correct": true, "explanation": "A dam is built by people to control water. It is a human feature."},
+        {"id": "d", "label": "A valley", "correct": false, "explanation": "A valley is a natural landform. It is a physical feature."}
+      ],
+      "explanation_md": "A dam is a human feature. People build dams to control rivers and create water supplies."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "People who live near a cold, snowy mountain wear warm clothing and build insulated houses. This is an example of:",
+      "choices": [
+        {"id": "a", "label": "Modifying the environment", "correct": false, "explanation": "Modifying means changing the land. Wearing warm clothes and building cozy homes is adapting."},
+        {"id": "b", "label": "Adapting to the environment", "correct": true, "explanation": "Changing how you dress and build your home to match the cold environment is adapting."},
+        {"id": "c", "label": "Creating a physical feature", "correct": false, "explanation": "Physical features are natural. Wearing warm clothes is adapting, not creating a physical feature."},
+        {"id": "d", "label": "Making a new community law", "correct": false, "explanation": "Wearing coats is personal adapting to climate, not making laws."}
+      ],
+      "explanation_md": "People adapt to their environment by changing how they live to fit the land and climate around them."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "People cut down trees to clear land for a farm. This is an example of:",
+      "choices": [
+        {"id": "a", "label": "Adapting to the environment", "correct": false, "explanation": "Adapting means fitting in with the environment. Cutting trees and changing the land is modifying."},
+        {"id": "b", "label": "Modifying the environment", "correct": true, "explanation": "Cutting trees to make land for farming changes the natural environment. This is modification."},
+        {"id": "c", "label": "Creating a physical feature", "correct": false, "explanation": "Physical features are natural. Clearing land for farming is modifying the environment."},
+        {"id": "d", "label": "Following community laws", "correct": false, "explanation": "Clearing trees to farm is an environmental modification, not a law-following action."}
+      ],
+      "explanation_md": "Cutting trees to create farmland changes the natural environment. This is called modifying the environment."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of people ADAPTING to living near a river?",
+      "choices": [
+        {"id": "a", "label": "Building a dam to stop the river's flow", "correct": false, "explanation": "Building a dam changes the river. That is modifying the environment, not adapting."},
+        {"id": "b", "label": "Using the river to transport goods by boat", "correct": true, "explanation": "Using the river as a natural transportation route is adapting — taking advantage of what is already there."},
+        {"id": "c", "label": "Draining the river to make more dry land", "correct": false, "explanation": "Draining a river changes it permanently. That is modification, not adaptation."},
+        {"id": "d", "label": "Moving the river to a different location", "correct": false, "explanation": "Moving a river is a major modification of the environment."}
+      ],
+      "explanation_md": "Using the river for boat transportation is adapting — people use the natural feature as it already exists."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A city built a dam on a river to create electricity. What is one possible PROBLEM this might cause?",
+      "choices": [
+        {"id": "a", "label": "More fish would live in the river", "correct": false, "explanation": "Dams actually often block fish from swimming upstream, which is a problem."},
+        {"id": "b", "label": "The dam could flood land upstream and harm fish habitat", "correct": true, "explanation": "Dams block rivers, which can flood land behind the dam and block fish from swimming to their spawning areas."},
+        {"id": "c", "label": "People would have too much water to drink", "correct": false, "explanation": "Dams create water reservoirs, but the main concern is the harm to the natural river habitat."},
+        {"id": "d", "label": "The mountains near the dam would disappear", "correct": false, "explanation": "A dam does not make mountains disappear."}
+      ],
+      "explanation_md": "Dams can flood land upstream and block fish from swimming to their spawning areas — a harm to the natural environment."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Great Smoky Mountains are in eastern Tennessee. This is a:",
+      "choices": [
+        {"id": "a", "label": "Human feature because people visit them", "correct": false, "explanation": "People visiting mountains does not make them human features. The mountains formed naturally."},
+        {"id": "b", "label": "Physical feature because they are a natural landform", "correct": true, "explanation": "The Great Smoky Mountains are a natural mountain range, making them a physical feature."},
+        {"id": "c", "label": "Human feature because they were built by settlers", "correct": false, "explanation": "Mountains are not built by people. They are natural landforms formed over millions of years."},
+        {"id": "d", "label": "Not a feature of any kind", "correct": false, "explanation": "The Great Smoky Mountains are absolutely a physical (natural) feature of Tennessee."}
+      ],
+      "explanation_md": "The Great Smoky Mountains are a natural landform. Natural landforms are physical features of the environment."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Compare physical features and human features. What is the MAIN difference?",
+      "choices": [
+        {"id": "a", "label": "Physical features are larger; human features are smaller", "correct": false, "explanation": "Size is not the main difference. A bridge can be very large but it is still a human feature."},
+        {"id": "b", "label": "Physical features are made by nature; human features are made by people", "correct": true, "explanation": "Physical features (mountains, rivers) are natural. Human features (roads, bridges) are built by people."},
+        {"id": "c", "label": "Physical features are found only in cities; human features are found in the country", "correct": false, "explanation": "Physical features can be anywhere — mountains, rivers, and forests are in many places, not just cities."},
+        {"id": "d", "label": "They are the same thing", "correct": false, "explanation": "Physical and human features are clearly different: natural versus built by people."}
+      ],
+      "explanation_md": "Physical features are natural (made by nature). Human features are built or created by people."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A coastal community builds a harbor for fishing boats. Is this adapting or modifying? Explain.",
+      "choices": [
+        {"id": "a", "label": "Adapting only — they are using the ocean as it is", "correct": false, "explanation": "Building a harbor changes the coastline. That is modifying, even though it is also adapting to coastal life."},
+        {"id": "b", "label": "Modifying — they are changing the coastline to create a harbor", "correct": true, "explanation": "Building a harbor changes the natural coastline. Changing the environment is modification."},
+        {"id": "c", "label": "Neither adapting nor modifying", "correct": false, "explanation": "Building a harbor is clearly a modification of the natural coastline."},
+        {"id": "d", "label": "Creating a new physical feature naturally", "correct": false, "explanation": "A harbor is built by people. It is a human feature created by modifying the natural coastline."}
+      ],
+      "explanation_md": "Building a harbor changes the coastline. Changing the environment to meet human needs is modifying the environment."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "People in a flat prairie region build windmills to pump water from the ground. Is this adapting or modifying, and why?",
+      "choices": [
+        {"id": "a", "label": "Modifying, because they changed the flat land into a hill to put the windmill on", "correct": false, "explanation": "Building a windmill on flat land does not change the flatness of the land into a hill."},
+        {"id": "b", "label": "Adapting, because they used the wind (a natural feature of flat open land) to solve a water problem", "correct": true, "explanation": "Windmills use the naturally strong winds on flat plains to pump water. Using what the environment provides is adapting."},
+        {"id": "c", "label": "Neither — windmills have nothing to do with the environment", "correct": false, "explanation": "Windmills use wind, a natural part of the environment. Using the environment is adapting."},
+        {"id": "d", "label": "Modifying, because they moved the water from underground to the surface", "correct": false, "explanation": "Moving water from underground to the surface is a clever use of the environment (adapting), not fundamentally changing the land itself."}
+      ],
+      "explanation_md": "Using the natural wind on flat plains to pump water is adapting — the community used what the environment provides to meet their needs."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sort these into physical features and human features:\n- Mississippi River\n- Highway I-40\n- Great Smoky Mountains\n- Norris Dam\n\nWhich list is correct?",
+      "choices": [
+        {"id": "a", "label": "Physical: Mississippi River, Great Smoky Mountains. Human: Highway I-40, Norris Dam.", "correct": true, "explanation": "Rivers and mountains are natural (physical). Highways and dams are built by people (human)."},
+        {"id": "b", "label": "Physical: Highway I-40, Norris Dam. Human: Mississippi River, Great Smoky Mountains.", "correct": false, "explanation": "This is backwards. Rivers and mountains are physical. Highways and dams are human features."},
+        {"id": "c", "label": "Physical: Mississippi River, Highway I-40. Human: Norris Dam, Great Smoky Mountains.", "correct": false, "explanation": "Highways are built by people. Mountains are natural. The list is mixed up."},
+        {"id": "d", "label": "All four are physical features", "correct": false, "explanation": "Highways and dams are built by people. They are human features, not physical features."}
+      ],
+      "explanation_md": "Rivers and mountains are natural physical features. Highways and dams are built by people — human features."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A family that lives in the mountains learns to grow cold-weather vegetables. This is an example of:",
+      "choices": [
+        {"id": "a", "label": "Modifying the mountains", "correct": false, "explanation": "Growing vegetables does not change the mountains. It is the family adapting their farming to the mountain climate."},
+        {"id": "b", "label": "Adapting to the mountain environment", "correct": true, "explanation": "Growing vegetables suited for cold, mountain climates is adapting — fitting their behavior to the environment."},
+        {"id": "c", "label": "Creating a new physical feature", "correct": false, "explanation": "Growing crops is not creating a natural landform."},
+        {"id": "d", "label": "A community making a new law", "correct": false, "explanation": "Growing cold-weather crops is an environmental adaptation, not a law."}
+      ],
+      "explanation_md": "Choosing crops that grow in a cold mountain climate is adapting to the environment."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A city cuts down a forest and builds an apartment complex. What happened to the physical feature, and what replaced it?",
+      "choices": [
+        {"id": "a", "label": "The forest (physical feature) was modified; apartments (human feature) replaced it", "correct": true, "explanation": "The natural forest was changed (modified), and buildings (human feature) now stand where the trees were."},
+        {"id": "b", "label": "The apartments (human feature) were modified; the forest (physical feature) replaced them", "correct": false, "explanation": "The question says a forest was cut down and apartments were built. This answer is backwards."},
+        {"id": "c", "label": "Nothing changed — forests and apartments are the same", "correct": false, "explanation": "Forests (natural) and apartments (human-built) are clearly different."},
+        {"id": "d", "label": "The apartments became a physical feature over time", "correct": false, "explanation": "Buildings built by people remain human features. Only natural landforms are physical features."}
+      ],
+      "explanation_md": "The forest (physical feature) was cut down and modified. Apartments (human features) were built in its place."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these was made by NATURE?",
+      "choices": [
+        {"id": "a", "label": "A road", "correct": false, "explanation": "Roads are built by people. They are human features."},
+        {"id": "b", "label": "A lake", "correct": true, "explanation": "A lake is a natural body of water. It was made by nature, not people."},
+        {"id": "c", "label": "A bridge", "correct": false, "explanation": "Bridges are built by people. They are human features."},
+        {"id": "d", "label": "A farm", "correct": false, "explanation": "Farms are created by people. They are human features."}
+      ],
+      "explanation_md": "A lake is a natural physical feature created by nature, not by people."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these was BUILT by people?",
+      "choices": [
+        {"id": "a", "label": "A river", "correct": false, "explanation": "Rivers are natural. They were not built by people."},
+        {"id": "b", "label": "A mountain", "correct": false, "explanation": "Mountains are natural landforms. People did not build them."},
+        {"id": "c", "label": "A highway", "correct": true, "explanation": "Highways are built by people. They are human features of the environment."},
+        {"id": "d", "label": "A valley", "correct": false, "explanation": "Valleys are natural landforms formed by water and time. People did not create them."}
+      ],
+      "explanation_md": "A highway is built by people. It is a human feature of the environment."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "People who live near the ocean learn to fish and build boats. They are **adapting** to their environment. What does adapting mean?",
+      "choices": [
+        {"id": "a", "label": "Changing the land around you", "correct": false, "explanation": "Changing the land is modifying. Adapting means changing how you live to fit the environment."},
+        {"id": "b", "label": "Moving far away from the environment", "correct": false, "explanation": "Adapting means staying and adjusting how you live, not moving away."},
+        {"id": "c", "label": "Changing how you live to fit the environment around you", "correct": true, "explanation": "Adapting means adjusting your habits, diet, or shelter to match the environment."},
+        {"id": "d", "label": "Making the environment disappear", "correct": false, "explanation": "Adapting means working with the environment, not making it disappear."}
+      ],
+      "explanation_md": "Adapting means changing how you live — your clothes, food, or home — to fit the environment around you."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Building a dam on a river is an example of:",
+      "choices": [
+        {"id": "a", "label": "Adapting to the environment", "correct": false, "explanation": "Building a dam changes the river. Changing the environment is modifying, not adapting."},
+        {"id": "b", "label": "Modifying the environment", "correct": true, "explanation": "A dam changes the natural flow of a river. Changing the natural environment is modifying."},
+        {"id": "c", "label": "Creating a natural physical feature", "correct": false, "explanation": "A dam is built by people. It is a human feature, not a natural physical feature."},
+        {"id": "d", "label": "A community law about rivers", "correct": false, "explanation": "Building a dam is a physical change to the land, not a community law."}
+      ],
+      "explanation_md": "Building a dam changes the natural river. Changing the environment to fit human needs is called modifying."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a physical feature of Tennessee?",
+      "choices": [
+        {"id": "a", "label": "Interstate Highway 40", "correct": false, "explanation": "A highway is built by people. It is a human feature."},
+        {"id": "b", "label": "Norris Dam", "correct": false, "explanation": "Norris Dam was built by the TVA (Tennessee Valley Authority). It is a human feature."},
+        {"id": "c", "label": "The Cumberland River", "correct": true, "explanation": "The Cumberland River is a natural river. It is a physical feature of Tennessee."},
+        {"id": "d", "label": "Nashville's downtown skyline", "correct": false, "explanation": "Buildings in a skyline are built by people. They are human features."}
+      ],
+      "explanation_md": "The Cumberland River is a natural waterway — a physical feature of Tennessee."
+    }
+  ]
+}
