@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.P.3.1",
+  "benchmark_description": "Classify mixtures as a combination of matter and explain how mixtures can be separated by physical properties such as magnetism, size, density, and evaporation.",
+  "course": "science",
+  "strand": "P",
+  "lesson": {
+    "title": "Mixtures and How to Separate Them",
+    "intro": "Have you ever mixed sand and pebbles together? What if you wanted to separate them? A mixture is a combination of two or more materials. The good news is that since mixtures are just materials combined together (not changed into something new), they can be separated! In this lesson we will learn what makes a mixture and four ways scientists separate mixtures.",
+    "body_md": "## What Is a Mixture?\n\nA **mixture** is made when two or more materials are combined together but keep their own properties. The materials in a mixture do NOT chemically change — they can be taken apart again.\n\n**Examples of mixtures:**\n- Trail mix (nuts, raisins, chocolate chips — all still their own selves)\n- Sand and gravel\n- Iron filings and sand\n- Salt water (salt dissolved in water)\n- A salad (lettuce, tomatoes, cucumbers all mixed together)\n\n**Key idea:** When you combine materials in a mixture, each material KEEPS its own properties. The chocolate chip in trail mix is still chocolate. The pebble in sand-and-pebbles is still a pebble.\n\n## Separating Mixtures by Physical Properties\n\nBecause each material in a mixture keeps its own properties, we can use those properties to separate them. Here are four methods:\n\n### 1. Magnetism\nSome materials are attracted to magnets (like iron, steel, nickel) and some are not (like plastic, wood, most rocks).\n- **Example:** A mixture of iron filings and sand can be separated by running a magnet over it. The iron filings stick to the magnet; the sand stays behind.\n\n### 2. Size (Sieving)\nIf the pieces in a mixture are different sizes, a sieve (like a strainer with small holes) can separate them.\n- **Example:** A mixture of gravel and sand can be poured through a sieve. The large gravel pieces stay on top of the sieve; the fine sand falls through the holes.\n- **Another example:** Panning for gold — a miner shakes a pan in a stream so small sand particles wash away while larger heavy gold stays.\n\n### 3. Density (Floating and Sinking)\nObjects with lower density float in water; objects with higher density sink.\n- **Example:** A mixture of plastic pellets (float) and metal washers (sink) in water can be separated because the plastic floats to the top and the metal sinks to the bottom.\n- **Example:** In cooking, oil (less dense) floats on top of water (more dense), so they are easily poured apart.\n\n### 4. Evaporation\nWhen a liquid evaporates (turns into water vapor and goes into the air), solid materials dissolved in it are left behind.\n- **Example:** If you dissolve salt in water and then heat the water until it evaporates, the salt is left behind as white crystals on the bottom of the pan.\n- This works because salt cannot evaporate — only the water does.\n\n## Summary Table\n\n| Method | Property Used | Example |\n|--------|--------------|--------|\n| Magnetism | Magnetic attraction | Iron filings from sand |\n| Sieving | Particle size | Gravel from sand |\n| Density | Floating vs. sinking | Plastic from metal in water |\n| Evaporation | Boiling point of liquid | Salt from saltwater |",
+    "worked_example_md": "### Worked Example: Choosing the Right Separation Method\n\n**Question:** A student has a mixture of sand, small pebbles, and iron filings. She wants to separate all three. Which sequence of steps would work?\n\n**Step 1 – Identify the properties of each material:**\n- Sand: tiny grains, NOT magnetic\n- Iron filings: tiny like sand but MAGNETIC\n- Pebbles: larger pieces, NOT magnetic\n\n**Step 2 – Choose methods:**\n- Iron filings vs. sand and pebbles → **Magnetism** (iron is attracted to a magnet; sand and pebbles are not)\n- Pebbles vs. sand → **Sieving** (pebbles are larger than the holes; sand falls through)\n\n**Step 3 – Apply the steps in order:**\n1. Run a magnet through the mixture → iron filings cling to the magnet; remove them. You now have a sand-and-pebble mixture.\n2. Pour the sand-and-pebble mixture through a sieve with holes bigger than a sand grain but smaller than a pebble → sand falls through; pebbles stay on top.\n\n**Result:** Three separate piles — iron filings (from the magnet), pebbles (on the sieve), and sand (below the sieve).\n\n**Lesson:** Scientists choose the separation method that matches the PHYSICAL PROPERTY that makes the materials different.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a mixture?",
+      "choices": [
+        {"id": "a", "label": "Two or more materials combined together that each keep their own properties", "correct": true, "explanation": "Correct! A mixture combines materials without changing them chemically. Each material keeps its own properties and can be separated again."},
+        {"id": "b", "label": "A new material created when two substances melt together and can never be separated", "correct": false, "explanation": "A mixture does NOT create a new material and CAN be separated. When materials create something entirely new that cannot be separated, that is a chemical change, not a mixture."},
+        {"id": "c", "label": "Only liquids combined together", "correct": false, "explanation": "Mixtures can combine solids, liquids, and gases in any combination. Trail mix (all solids) and saltwater (solid dissolved in liquid) are both mixtures."},
+        {"id": "d", "label": "A single pure material found in nature", "correct": false, "explanation": "A single pure material is an element or compound. A mixture has two or more materials combined."}
+      ],
+      "explanation_md": "A mixture is two or more materials combined together where each material keeps its own properties. The materials can be separated again because no chemical change occurred."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of a mixture?",
+      "choices": [
+        {"id": "a", "label": "A glass of pure water", "correct": false, "explanation": "Pure water is a single substance — it is not a mixture because nothing has been combined with it."},
+        {"id": "b", "label": "A bowl of trail mix (nuts, raisins, and chocolate chips)", "correct": true, "explanation": "Correct! Trail mix is a mixture — nuts, raisins, and chocolate chips are combined together but each keeps its own properties (the raisin is still a raisin, the nut is still a nut)."},
+        {"id": "c", "label": "A gold coin", "correct": false, "explanation": "A pure gold coin is (essentially) a single metal, not a combination of different materials. A mixture requires two or more different materials."},
+        {"id": "d", "label": "An ice cube", "correct": false, "explanation": "An ice cube is just frozen water — a single substance. There is nothing mixed together."}
+      ],
+      "explanation_md": "Trail mix is a classic mixture — nuts, raisins, and chocolate chips are combined but each ingredient keeps its original identity and could be sorted out again by hand."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How could you separate a mixture of iron filings and sand?",
+      "choices": [
+        {"id": "a", "label": "Pour water over it to wash the sand away", "correct": false, "explanation": "Both iron and sand can mix with water, so pouring water would not separate them effectively. A magnet works much better for this mixture."},
+        {"id": "b", "label": "Use a magnet — the iron filings will stick to the magnet and the sand will not", "correct": true, "explanation": "Correct! Iron is magnetic; sand is not. Running a magnet through or over the mixture pulls the iron filings out, leaving the sand behind."},
+        {"id": "c", "label": "Use a sieve with tiny holes — the iron will fall through but the sand will stay", "correct": false, "explanation": "Iron filings and sand are similar in size, so a sieve would not separate them. Magnetism works because only the iron is attracted to a magnet."},
+        {"id": "d", "label": "Heat the mixture until both materials evaporate", "correct": false, "explanation": "Iron does not evaporate — it melts and then vaporizes only at extremely high temperatures. Evaporation works for separating dissolved substances from water, not iron from sand."}
+      ],
+      "explanation_md": "Magnetism is the correct method here. Iron is attracted to magnets while sand is not. Running a magnet through the mixture collects all the iron filings, separating them from the sand without mixing in any other materials."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student pours a mixture of gravel and sand through a sieve (a screen with small holes). The gravel stays on top of the sieve and the sand falls through. What property allows this separation?",
+      "choices": [
+        {"id": "a", "label": "Density — gravel is denser than sand", "correct": false, "explanation": "While gravel may be denser than sand, density (floating vs. sinking) is tested in water. This separation works because of SIZE — the gravel pieces are too large to fit through the holes."},
+        {"id": "b", "label": "Size — the gravel pieces are larger than the holes in the sieve; the sand grains are small enough to fall through", "correct": true, "explanation": "Correct! Sieving works because of particle size. The sieve's holes are small enough that gravel cannot pass through, while sand grains are small enough to fall through."},
+        {"id": "c", "label": "Magnetism — gravel is magnetic and sand is not", "correct": false, "explanation": "Most gravel and sand are not magnetic. This separation works because of the physical size difference between the two materials, not magnetic properties."},
+        {"id": "d", "label": "Evaporation — the sand evaporates away and leaves the gravel", "correct": false, "explanation": "Sand cannot evaporate — it is a solid at normal temperatures. Evaporation separates dissolved solids from liquids, not two different-sized solids."}
+      ],
+      "explanation_md": "A sieve separates materials by size. Holes sized between sand grains and gravel pieces let the small sand through while blocking the large gravel. This is a size-based separation method."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher dissolves salt in water and then heats the water until all the water evaporates (turns to water vapor). What is left in the pan?",
+      "choices": [
+        {"id": "a", "label": "Nothing — the salt evaporates too", "correct": false, "explanation": "Salt does NOT evaporate — it remains solid even at high temperatures (it would need temperatures far above boiling water to evaporate). Only the water turns to vapor."},
+        {"id": "b", "label": "Only water", "correct": false, "explanation": "The water evaporates and leaves. What remains behind is the solid salt that was dissolved in it."},
+        {"id": "c", "label": "Salt crystals", "correct": true, "explanation": "Correct! When the water evaporates, the salt is left behind as solid crystals. This works because salt cannot evaporate at normal temperatures — only the water does."},
+        {"id": "d", "label": "A new chemical that is neither salt nor water", "correct": false, "explanation": "Separating a mixture does not create new chemicals. The salt remains salt after the water evaporates."}
+      ],
+      "explanation_md": "When saltwater is heated until the water evaporates, only the salt remains. This is because the water changes from liquid to water vapor (gas) and rises into the air, but the salt cannot evaporate — it stays solid in the pan."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "You have a mixture of wooden blocks and metal nails. Which method would BEST separate them?",
+      "choices": [
+        {"id": "a", "label": "Evaporation — heat them until one evaporates", "correct": false, "explanation": "Wood and metal are both solids that do not evaporate at normal temperatures. Evaporation is for separating dissolved substances from liquid."},
+        {"id": "b", "label": "Magnetism — use a magnet to pull out the nails", "correct": true, "explanation": "Correct! Steel nails are magnetic. A magnet will attract the nails and pull them out of the mixture, leaving the non-magnetic wooden blocks behind."},
+        {"id": "c", "label": "Sieving — pour them through a sieve with medium-sized holes", "correct": false, "explanation": "If the wooden blocks and nails are similar in size, sieving would not work — both would either fall through or both would stay on top. Magnetism is a better choice because nails are magnetic and wood is not."},
+        {"id": "d", "label": "Density — place them in water and see what floats", "correct": false, "explanation": "Wood floats and nails sink in water, so density COULD work here, but this would also wet the wood. A dry magnet is the simpler, more practical method for this mixture."}
+      ],
+      "explanation_md": "Metal nails are magnetic while wood is not. Running a magnet through the mixture attracts all the nails and lifts them out, leaving only the wooden blocks. Magnetism is the most direct and clean method for this separation."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student has a mixture of plastic beads and metal washers. She drops the mixture into a bucket of water. The plastic beads float and the metal washers sink. What property is she using to separate them?",
+      "choices": [
+        {"id": "a", "label": "Size", "correct": false, "explanation": "If size were the method, she would use a sieve. This method uses water and the fact that one material floats while the other sinks — that is density."},
+        {"id": "b", "label": "Magnetism", "correct": false, "explanation": "No magnet was used. The student is using water and the difference in whether objects float or sink — that is a density-based separation."},
+        {"id": "c", "label": "Density", "correct": true, "explanation": "Correct! Objects with lower density float; objects with higher density sink. Plastic is less dense than water (floats); metal is more dense than water (sinks). She is separating by density."},
+        {"id": "d", "label": "Evaporation", "correct": false, "explanation": "Evaporation separates dissolved substances from liquids by heating until the liquid turns to vapor. The student is using floating vs. sinking in water — that is density."}
+      ],
+      "explanation_md": "This is a density-based separation. Plastic is less dense than water and floats. Metal is more dense than water and sinks. By placing the mixture in water, the two materials naturally separate to different levels — plastic at the top, metal at the bottom."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why can mixtures always be separated, while some other changes to matter CANNOT be reversed?",
+      "choices": [
+        {"id": "a", "label": "Mixtures can always be separated because someone added a special reversing chemical", "correct": false, "explanation": "No special chemical is needed. Mixtures can be separated because the original materials never chemically changed — they still have their own properties."},
+        {"id": "b", "label": "Mixtures can be separated because each material keeps its own physical properties and no new substance was created", "correct": true, "explanation": "Correct! In a mixture, materials are combined but NOT chemically changed. Since each material still has its original properties (magnetic, size, density, boiling point), those properties can be used to pull the materials apart."},
+        {"id": "c", "label": "Mixtures cannot actually be separated — it just looks like separation is possible", "correct": false, "explanation": "Mixtures absolutely can be separated. The whole definition of a mixture is that the materials keep their properties and can be taken back apart."},
+        {"id": "d", "label": "Mixtures can only be separated if they contain exactly two materials", "correct": false, "explanation": "Mixtures with three or more materials can still be separated — you may need multiple methods in sequence (like the iron + sand + gravel worked example)."}
+      ],
+      "explanation_md": "Mixtures can be separated because no chemical change occurred. Each material still has all its original physical properties — magnetic properties, size, density, boiling point — intact. Scientists use those properties to pull the materials back apart. In contrast, a chemical change creates new substances with entirely different properties that cannot easily be 'un-reacted.'"
+    },
+    {
+      "ordering": 9,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is NOT a physical property that can be used to separate a mixture?",
+      "choices": [
+        {"id": "a", "label": "Color", "correct": true, "explanation": "Correct! Color is not one of the four main separation methods taught in grade 2 science. The four methods are magnetism, size, density, and evaporation."},
+        {"id": "b", "label": "Size", "correct": false, "explanation": "Size IS a property used to separate mixtures. Sieving uses the size difference between materials to separate them."},
+        {"id": "c", "label": "Magnetism", "correct": false, "explanation": "Magnetism IS a property used to separate mixtures. Magnets pull out magnetic materials from non-magnetic ones."},
+        {"id": "d", "label": "Density", "correct": false, "explanation": "Density IS a property used to separate mixtures. Materials with different densities separate when placed in water — some float and some sink."}
+      ],
+      "explanation_md": "The four physical properties most commonly used to separate mixtures are magnetism, size (sieving), density (floating/sinking), and evaporation (for dissolved substances). While color might help identify materials, it is not a standard separation method — you cannot 'sort by color' using a simple physical process the way you can sieve by size or attract by magnetism."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A chef makes soup by mixing vegetables, noodles, salt, and water. Which material in the soup would be HARDEST to separate and why?",
+      "choices": [
+        {"id": "a", "label": "Vegetables — because they are too large to remove", "correct": false, "explanation": "Vegetables are solid and large — they can easily be scooped out with a spoon or poured through a strainer."},
+        {"id": "b", "label": "Noodles — because they stick together", "correct": false, "explanation": "While noodles might clump, they are still solid and can be scooped out or strained from the liquid."},
+        {"id": "c", "label": "Salt — because it dissolves in the water and cannot be easily picked out", "correct": true, "explanation": "Correct! Salt dissolves in water — it breaks into invisible particles mixed throughout the liquid. Unlike the vegetables or noodles, you cannot scoop the salt out. Evaporation would be the only practical separation method (and it would destroy the soup!)."},
+        {"id": "d", "label": "Water — because it is everywhere in the soup", "correct": false, "explanation": "Water can be evaporated by heating, or the solids can be removed and the water stays. Water is not the hardest to separate — dissolved salt is."}
+      ],
+      "explanation_md": "The salt is dissolved in the water — it is invisible and mixed at the molecular level throughout the liquid. You cannot scoop it, sieve it, or magnetically attract it. The only way to separate dissolved salt from water is evaporation (heating until the water turns to vapor and the salt is left as crystals). This is the most difficult separation because the salt is no longer in identifiable pieces."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Name the four methods used to separate mixtures and give one example for each.",
+      "choices": [
+        {"id": "a", "label": "Melting, freezing, boiling, condensing", "correct": false, "explanation": "Those are phase change processes, not mixture separation methods. The four methods are magnetism, size (sieving), density, and evaporation."},
+        {"id": "b", "label": "Magnetism (iron from sand), size/sieving (gravel from sand), density (plastic from metal in water), evaporation (salt from saltwater)", "correct": true, "explanation": "Correct! These are the four main physical separation methods. Each uses a different physical property of the materials in the mixture."},
+        {"id": "c", "label": "Mixing, stirring, shaking, pouring", "correct": false, "explanation": "Mixing, stirring, shaking, and pouring are ways to MAKE a mixture — not ways to separate one."},
+        {"id": "d", "label": "Cutting, grinding, pressing, folding", "correct": false, "explanation": "These are mechanical operations that break materials into smaller pieces — they do not separate a mixture into its original components."}
+      ],
+      "explanation_md": "The four methods are: (1) Magnetism — pulls magnetic materials out of non-magnetic ones; (2) Size/Sieving — larger pieces stay on the sieve while smaller ones fall through; (3) Density — less dense materials float, denser ones sink; (4) Evaporation — liquid turns to vapor, leaving dissolved solids behind."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student has a mixture containing four materials: iron filings, sand, pebbles, and salt. She has a magnet, a sieve, water, and a hot plate. Describe the correct order of steps to separate all four materials.",
+      "choices": [
+        {"id": "a", "label": "Step 1: Evaporate all water. Step 2: Use magnet. Step 3: Sieve. Step 4: Dissolve in water.", "correct": false, "explanation": "This order would not work — you cannot evaporate water before adding it. The logical order starts with dry methods (magnetism, then sieving) before adding water."},
+        {"id": "b", "label": "Step 1: Magnet (removes iron). Step 2: Sieve (separates pebbles from sand+salt). Step 3: Dissolve sand+salt in water, then evaporate (salt stays; sand remains).", "correct": true, "explanation": "Correct! Using the magnet first removes the iron without wetting anything. Sieving then separates pebbles (too large) from sand+salt (fine enough to fall through). Dissolving in water and evaporating separates salt (left behind) from sand (insoluble, can be filtered or poured off)."},
+        {"id": "c", "label": "Step 1: Add water to everything. Step 2: Evaporate. Step 3: Magnet. Step 4: Sieve.", "correct": false, "explanation": "Adding water first mixes everything with water, making magnetism and sieving much messier. Starting with dry separation methods first (magnet, sieve) is more efficient."},
+        {"id": "d", "label": "The mixture cannot be fully separated because some materials are too similar", "correct": false, "explanation": "All four materials can be separated using the correct sequence of methods — magnetism, sieving, water dissolving, and evaporation."}
+      ],
+      "explanation_md": "The optimal sequence: (1) Magnet — pulls iron filings out of the dry mix (cleanest step first). (2) Sieve — separates pebbles (too large) from the remaining sand-and-salt mixture. (3) Add water to the sand-salt mix — salt dissolves, sand does not. (4) Evaporate — water turns to vapor, leaving salt crystals; sand stays solid and can be poured or filtered off. Each step uses a different physical property."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Explain why the same physical separation methods (magnetism, size, density, evaporation) do NOT work when a chemical change has occurred — for example, when wood is burned and turns to ash.",
+      "choices": [
+        {"id": "a", "label": "Burned wood can be unburned by using a very powerful magnet", "correct": false, "explanation": "Magnetism separates magnetic materials from non-magnetic ones. Ash is not magnetic, and no magnet can reverse a chemical change."},
+        {"id": "b", "label": "After a chemical change, the original materials no longer exist — the ash has completely different properties than the wood, so the original materials cannot be recovered by physical methods", "correct": true, "explanation": "Correct! When wood burns, it chemically reacts with oxygen to form entirely new substances (ash, carbon dioxide, water vapor). The wood no longer exists — its original properties are gone. Physical separation methods only work if the original properties (magnetism, size, density) still exist in the mixture."},
+        {"id": "c", "label": "The separation methods would still work perfectly on ash", "correct": false, "explanation": "Ash does not have the same properties as wood (same size, density, magnetism). Burning is a chemical change — it creates a new substance with new properties. You cannot use wood's old properties to 'separate' ash back into wood."},
+        {"id": "d", "label": "Evaporation would turn the ash back into wood", "correct": false, "explanation": "Evaporation removes a liquid by heating it. It cannot reverse a chemical change. Ash is a solid that cannot be 'evaporated' back into wood."}
+      ],
+      "explanation_md": "Physical separation methods rely on the original physical properties of each material (magnetic, size, density). In a mixture, each material keeps its properties — that is why separation is possible. But a chemical change destroys the original materials and creates entirely new substances with new properties. Burned wood becomes ash, carbon dioxide, and water — none of which have the properties of wood anymore. Since the original wood properties are gone, no physical method can recover the original wood."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is a mixture?",
+      "choices": [
+        {"id": "a", "label": "Sand and pebbles mixed together in a bucket", "correct": true, "explanation": "Correct! Sand and pebbles mixed together is a mixture — both materials keep their own properties and can be separated."},
+        {"id": "b", "label": "A single ice cube made of pure water", "correct": false, "explanation": "A single pure substance is not a mixture. A mixture requires two or more different materials combined together."},
+        {"id": "c", "label": "A rock sitting on the ground", "correct": false, "explanation": "A single rock is one material, not a mixture of different materials combined together."},
+        {"id": "d", "label": "A raindrop", "correct": false, "explanation": "A pure raindrop is essentially just water — one substance. A mixture needs at least two different materials combined."}
+      ],
+      "explanation_md": "A mixture is two or more different materials combined together. Sand and pebbles together are a mixture because they are two different materials that have been combined and can be separated again."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool would you use to separate a mixture of small sand and large rocks?",
+      "choices": [
+        {"id": "a", "label": "A magnet", "correct": false, "explanation": "A magnet is used to separate magnetic materials (like iron) from non-magnetic materials. Sand and rocks are not usually magnetic."},
+        {"id": "b", "label": "A sieve (strainer with holes)", "correct": true, "explanation": "Correct! A sieve has holes sized so that small sand grains fall through but large rocks stay on top. This separates the mixture by size."},
+        {"id": "c", "label": "A hot plate (for heating)", "correct": false, "explanation": "A hot plate is used for evaporation — separating dissolved substances from liquid. It cannot separate solid sand from solid rocks."},
+        {"id": "d", "label": "A bucket of water", "correct": false, "explanation": "Water could work if their densities are different enough (density method), but a sieve is the most direct tool for separating by size when the materials are both solids."}
+      ],
+      "explanation_md": "A sieve (strainer) separates materials by size. The holes are large enough for small sand grains to fall through but too small for large rocks. This is a quick, dry, and easy method for size-based separation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "If you stir sugar into water until it disappears, what do you have?",
+      "choices": [
+        {"id": "a", "label": "A new liquid that is neither sugar nor water", "correct": false, "explanation": "The sugar and water did not chemically react to make something new. The sugar just dissolved — it is still sugar dissolved in water."},
+        {"id": "b", "label": "A mixture of sugar dissolved in water", "correct": true, "explanation": "Correct! Sugar dissolved in water is still a mixture — the sugar is invisible but it is still there. You can taste the sweetness, and if you evaporate the water, the sugar will reappear."},
+        {"id": "c", "label": "Pure water with no sugar", "correct": false, "explanation": "The sugar did not disappear — it dissolved. If you taste the water, it is sweet. If you evaporate the water, the sugar will crystallize and appear again."},
+        {"id": "d", "label": "Pure sugar with no water", "correct": false, "explanation": "The water is still there. Dissolving does not remove the water — it just mixes the sugar into the water at an invisible level."}
+      ],
+      "explanation_md": "When sugar dissolves in water, it forms a mixture called a solution. The sugar is invisible but still present — you can taste it. This mixture can be separated by evaporation: heat the water until it evaporates as vapor, leaving the sugar behind as crystals."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You have a mixture of plastic chips and steel paper clips. Which method would separate them?",
+      "choices": [
+        {"id": "a", "label": "Sieving — the paper clips are too large to fall through", "correct": false, "explanation": "If the plastic chips and paper clips are similar in size, sieving would not separate them. Use a magnet — steel is magnetic but plastic is not."},
+        {"id": "b", "label": "Magnetism — the steel paper clips are attracted to the magnet but the plastic chips are not", "correct": true, "explanation": "Correct! Steel is magnetic; plastic is not. A magnet will attract and hold the paper clips while the plastic chips stay behind."},
+        {"id": "c", "label": "Evaporation — heat them until one evaporates", "correct": false, "explanation": "Neither plastic chips nor paper clips evaporate at normal temperatures. Evaporation is for separating dissolved substances from liquid."},
+        {"id": "d", "label": "Nothing can separate them once they are mixed", "correct": false, "explanation": "Mixtures can always be separated using the right method. Steel is magnetic, so a magnet makes this separation easy."}
+      ],
+      "explanation_md": "Steel paper clips are magnetic. Running a magnet through the mixture will attract and lift out all the paper clips, leaving only the non-magnetic plastic chips behind."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student dissolves salt in water and wants to get the salt back. What should she do?",
+      "choices": [
+        {"id": "a", "label": "Use a magnet to pull the salt out", "correct": false, "explanation": "Salt is not magnetic — a magnet will not attract it. Evaporation is the correct method for recovering dissolved salt."},
+        {"id": "b", "label": "Pour the water through a sieve with tiny holes", "correct": false, "explanation": "Dissolved salt has broken into invisible particles that pass through any sieve. Sieving only works for solid pieces that are larger than the holes."},
+        {"id": "c", "label": "Heat the water until it evaporates, leaving the salt behind", "correct": true, "explanation": "Correct! Heating the saltwater causes the water to evaporate (turn to water vapor) while the salt cannot evaporate and stays in the pan as white crystals."},
+        {"id": "d", "label": "Add more salt until the water evaporates on its own", "correct": false, "explanation": "Adding more salt does not cause the water to evaporate. You need heat to turn the water into vapor and recover the salt."}
+      ],
+      "explanation_md": "To separate salt from saltwater, heat the mixture until the water evaporates. The water turns to water vapor and escapes into the air. The salt, which cannot evaporate, stays behind in the pan as solid salt crystals."
+    }
+  ]
+}
