@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.MD.A.3",
+  "benchmark_description": "Estimate lengths using units of inches, feet, centimeters, and meters.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Estimating Lengths",
+    "intro": "A good estimate is a smart guess! You do not need to measure every single thing — sometimes you can look at an object and use what you already know to make a great estimate. Let's build your estimation superpower!",
+    "body_md": "## Reference Points to Remember\n\nThe best way to estimate is to compare to something you already know!\n\n**Inches:**\n- 1 inch ≈ the width of your thumb\n- 6 inches ≈ the width of a dollar bill\n- 12 inches = 1 foot ≈ a ruler\n\n**Feet:**\n- 1 foot ≈ a large ruler\n- 3 feet = 1 yard ≈ a baseball bat\n- 6 feet ≈ the height of a tall adult\n\n**Centimeters:**\n- 1 cm ≈ the width of your pinky finger\n- 10 cm ≈ the width of your hand\n- 30 cm ≈ one ruler\n\n**Meters:**\n- 1 meter ≈ the height of a kitchen counter\n- 2 meters ≈ a typical door height\n\n## How to Estimate\n\n**Step 1:** Think about a benchmark (something you know).\n**Step 2:** Compare the object to your benchmark.\n**Step 3:** Make a smart guess!\n\n## Examples\n\n**How long is a classroom?**\n- A door is about 1 meter wide.\n- The room is about 8 doors wide.\n- Estimate: **8 meters** long!\n\n**How long is a paper clip?**\n- It is smaller than 1 inch but close.\n- Estimate: **1 inch** (about 3 cm).\n\n## Checking Your Estimate\n\nAfter estimating, measure and compare!\n- If your estimate is close, you are getting good at estimating!\n- Big differences mean you need to practice with that unit.\n\n## Common Object Reference Chart\n\n| Object | About how long |\n|---|---|\n| Paper clip | 1 inch (3 cm) |\n| Crayon | 4 inches (10 cm) |\n| Sheet of paper | 11 inches (28 cm) |\n| Baseball bat | 3 feet (about 1 meter) |\n| School bus | 40 feet (about 12 meters) |",
+    "worked_example_md": "**Problem:** About how long is a bed?\n\n**Think about benchmarks:**\n- An adult is about 6 feet tall.\n- A bed needs to be at least as long as an adult.\n\n**Estimate:** A bed is about **6 feet** (or about 2 meters) long.\n\n**Actual typical length:** About 6.5 feet or about 2 meters for a twin bed.\n\n**Was the estimate good?** Yes! It is very close.",
+    "estimated_minutes": 7
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is a crayon?",
+      "choices": [
+        {"id": "a", "label": "1 inch", "correct": false, "explanation": "1 inch is about the width of your thumb. A crayon is much longer than 1 inch."},
+        {"id": "b", "label": "4 inches", "correct": true, "explanation": "Correct! A crayon is about 4 inches (10 cm) long."},
+        {"id": "c", "label": "4 feet", "correct": false, "explanation": "4 feet is too long for a crayon. That is about the height of a young child. A crayon is about 4 inches."},
+        {"id": "d", "label": "4 meters", "correct": false, "explanation": "4 meters is about the height of two doors. A crayon is only about 4 inches (10 cm)."}
+      ],
+      "explanation_md": "A crayon is about 4 inches or 10 centimeters long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how tall is a typical door?",
+      "choices": [
+        {"id": "a", "label": "7 inches", "correct": false, "explanation": "7 inches is less than 1 foot. A door is much taller than that — about 7 feet."},
+        {"id": "b", "label": "7 feet", "correct": true, "explanation": "Correct! A standard door is about 7 feet (about 2 meters) tall."},
+        {"id": "c", "label": "7 centimeters", "correct": false, "explanation": "7 centimeters is tiny — about the width of a few fingers. A door is about 7 feet tall."},
+        {"id": "d", "label": "70 feet", "correct": false, "explanation": "70 feet would be taller than a building! A door is about 7 feet tall."}
+      ],
+      "explanation_md": "A typical door is about 7 feet (about 2 meters) tall."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the length of a school bus?",
+      "choices": [
+        {"id": "a", "label": "4 inches", "correct": false, "explanation": "4 inches is way too short for a bus. That is about the length of a crayon."},
+        {"id": "b", "label": "40 feet", "correct": true, "explanation": "Correct! A school bus is about 35-40 feet long."},
+        {"id": "c", "label": "4 feet", "correct": false, "explanation": "4 feet is less than your height. A school bus is about 40 feet long."},
+        {"id": "d", "label": "400 inches", "correct": false, "explanation": "400 inches = 33 feet, which is close, but 40 feet is the standard estimate."}
+      ],
+      "explanation_md": "A school bus is about 35 to 40 feet long."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is an adult's hand span (from thumb to pinky, stretched out)?",
+      "choices": [
+        {"id": "a", "label": "About 20 centimeters", "correct": true, "explanation": "Correct! An adult's hand span is typically 18 to 22 centimeters — about 20 cm."},
+        {"id": "b", "label": "About 1 centimeter", "correct": false, "explanation": "1 centimeter is barely the width of a pinky finger. An adult hand span is about 20 cm."},
+        {"id": "c", "label": "About 1 meter", "correct": false, "explanation": "1 meter is about the height of a kitchen counter. A hand span is much smaller, about 20 cm."},
+        {"id": "d", "label": "About 100 centimeters", "correct": false, "explanation": "100 cm = 1 meter. That would be a very large hand! A hand span is about 20 cm."}
+      ],
+      "explanation_md": "An adult hand span is about 20 centimeters."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Tom wants to estimate how long his dining table is. He knows his arm (from shoulder to fingertip) is about 2 feet. He measures the table with his arm and finds it takes about 3 arm lengths. What is his estimate?",
+      "choices": [
+        {"id": "a", "label": "2 feet", "correct": false, "explanation": "2 feet is one arm length. The table is 3 arm lengths, so 3 × 2 = 6 feet."},
+        {"id": "b", "label": "3 feet", "correct": false, "explanation": "3 feet would be 3 arm lengths of 1 foot each. Tom's arm is 2 feet, so 3 × 2 = 6 feet."},
+        {"id": "c", "label": "6 feet", "correct": true, "explanation": "Correct! 3 arm lengths × 2 feet per arm = 6 feet."},
+        {"id": "d", "label": "5 feet", "correct": false, "explanation": "3 × 2 = 6. The table is about 6 feet long."}
+      ],
+      "explanation_md": "3 arm lengths × 2 feet per arm = 6 feet. The table is about 6 feet long."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which unit is best for estimating the length of a swimming pool?",
+      "choices": [
+        {"id": "a", "label": "Inches", "correct": false, "explanation": "Inches are too small. A swimming pool would be hundreds of inches. Yards or meters are better."},
+        {"id": "b", "label": "Centimeters", "correct": false, "explanation": "Centimeters are too small. A pool would be thousands of centimeters. Meters are better."},
+        {"id": "c", "label": "Meters", "correct": true, "explanation": "Correct! A swimming pool is about 25 to 50 meters long. Meters are the best unit for large distances."},
+        {"id": "d", "label": "Millimeters", "correct": false, "explanation": "Millimeters are tiny — about the thickness of a dime. Use meters for a swimming pool."}
+      ],
+      "explanation_md": "Meters are the right unit for estimating the length of a swimming pool."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student estimates that a pencil is about 50 inches long. Is this a reasonable estimate?",
+      "choices": [
+        {"id": "a", "label": "Yes, that sounds about right.", "correct": false, "explanation": "No! 50 inches is more than 4 feet. A pencil is only about 7-8 inches long. 50 inches is way too long."},
+        {"id": "b", "label": "No, 50 inches is way too long for a pencil.", "correct": true, "explanation": "Correct! 50 inches is over 4 feet. A pencil is only about 7 to 8 inches long."},
+        {"id": "c", "label": "Yes, pencils are about 4 feet long.", "correct": false, "explanation": "4 feet long? No. A pencil is only about 7 to 8 inches long."},
+        {"id": "d", "label": "It depends on the pencil.", "correct": false, "explanation": "Even a very long pencil is nowhere near 50 inches. A standard pencil is about 7 to 8 inches."}
+      ],
+      "explanation_md": "50 inches is way too long. A pencil is about 7 to 8 inches long."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the height of a second-grader?",
+      "choices": [
+        {"id": "a", "label": "About 4 feet", "correct": true, "explanation": "Correct! Second graders are typically about 4 feet (120 cm) tall."},
+        {"id": "b", "label": "About 4 inches", "correct": false, "explanation": "4 inches is shorter than a ruler. A second-grader is much taller — about 4 feet."},
+        {"id": "c", "label": "About 4 yards", "correct": false, "explanation": "4 yards = 12 feet. That is taller than a basketball hoop! Second graders are about 4 feet tall."},
+        {"id": "d", "label": "About 40 feet", "correct": false, "explanation": "40 feet would be taller than a 3-story building! Second graders are about 4 feet tall."}
+      ],
+      "explanation_md": "A second-grader is about 4 feet (about 120 cm) tall."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sara knows that her classroom door is about 1 meter wide. She estimates that her classroom is about 8 meters long. Which tool did she use to estimate?",
+      "choices": [
+        {"id": "a", "label": "She used a ruler.", "correct": false, "explanation": "She did not use a physical ruler. She used the door width as a benchmark (reference point) and counted how many times it fit."},
+        {"id": "b", "label": "She used a benchmark — the door width.", "correct": true, "explanation": "Correct! Sara used the door (1 meter wide) as a benchmark and estimated how many times it fit across the room."},
+        {"id": "c", "label": "She guessed randomly.", "correct": false, "explanation": "She used a smart strategy — comparing to something she knew. That is a benchmark estimate."},
+        {"id": "d", "label": "She used centimeters.", "correct": false, "explanation": "She used meters (the door width) as her benchmark, not centimeters."}
+      ],
+      "explanation_md": "Sara used the door width (1 meter) as a benchmark — a known measurement to compare against."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "About how far is it from one end of a football field to the other?",
+      "choices": [
+        {"id": "a", "label": "About 10 feet", "correct": false, "explanation": "10 feet is less than 4 yards. A football field is 100 yards (300 feet) long."},
+        {"id": "b", "label": "About 100 yards", "correct": true, "explanation": "Correct! A standard football field is 100 yards (300 feet) from end zone to end zone."},
+        {"id": "c", "label": "About 100 inches", "correct": false, "explanation": "100 inches is less than 9 feet. A football field is 100 yards long."},
+        {"id": "d", "label": "About 10 meters", "correct": false, "explanation": "10 meters is only about 33 feet. A football field is about 90 meters (100 yards) long."}
+      ],
+      "explanation_md": "A football field is about 100 yards (300 feet or about 90 meters) long."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the length of a toothbrush?",
+      "choices": [
+        {"id": "a", "label": "7 inches", "correct": true, "explanation": "Correct! A toothbrush is about 7 inches (18 cm) long."},
+        {"id": "b", "label": "7 feet", "correct": false, "explanation": "7 feet is as tall as a door! A toothbrush is about 7 inches long."},
+        {"id": "c", "label": "7 meters", "correct": false, "explanation": "7 meters is the length of a medium-sized car! A toothbrush is about 7 inches."},
+        {"id": "d", "label": "1 inch", "correct": false, "explanation": "1 inch is about the width of your thumb. A toothbrush is longer — about 7 inches."}
+      ],
+      "explanation_md": "A toothbrush is about 7 inches (18 cm) long."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A bookshelf is about 2 meters tall. How tall is that in centimeters?",
+      "choices": [
+        {"id": "a", "label": "20 centimeters", "correct": false, "explanation": "20 centimeters is only about 8 inches. 1 meter = 100 centimeters. 2 meters = 200 centimeters."},
+        {"id": "b", "label": "200 centimeters", "correct": true, "explanation": "Correct! 1 meter = 100 centimeters. 2 meters = 200 centimeters."},
+        {"id": "c", "label": "2 centimeters", "correct": false, "explanation": "2 centimeters is very small. 2 meters = 200 centimeters."},
+        {"id": "d", "label": "2000 centimeters", "correct": false, "explanation": "2000 centimeters = 20 meters. That would be a very tall bookshelf! 2 meters = 200 centimeters."}
+      ],
+      "explanation_md": "1 meter = 100 centimeters. 2 meters = 200 centimeters."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake estimates that a car is about 4 centimeters long. Is this reasonable?",
+      "choices": [
+        {"id": "a", "label": "Yes, cars are about 4 centimeters long.", "correct": false, "explanation": "4 centimeters is about the width of a few fingers. A car is much longer — about 4 to 5 meters."},
+        {"id": "b", "label": "No, a car is about 4 to 5 meters long.", "correct": true, "explanation": "Correct! 4 centimeters is tiny. A car is about 4 to 5 meters (or about 15 feet) long."},
+        {"id": "c", "label": "Yes, 4 is always a good answer for estimation.", "correct": false, "explanation": "The number must make sense with the unit. 4 centimeters is too small for a car. 4 meters makes more sense."},
+        {"id": "d", "label": "No, a car is about 4 inches long.", "correct": false, "explanation": "4 inches is barely longer than a crayon. A car is about 4 to 5 meters long."}
+      ],
+      "explanation_md": "A car is about 4 to 5 meters long, not 4 centimeters."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is your pinky finger?",
+      "choices": [
+        {"id": "a", "label": "1 centimeter", "correct": false, "explanation": "1 centimeter is just the width of the finger. The full finger is more like 6-8 centimeters."},
+        {"id": "b", "label": "1 inch", "correct": true, "explanation": "Correct! A pinky finger is about 1 inch (2 to 3 centimeters) wide at the base, but the full length is about 2-3 inches. 1 inch is a good approximation for the width."},
+        {"id": "c", "label": "1 foot", "correct": false, "explanation": "1 foot is 12 inches — much longer than a pinky finger."},
+        {"id": "d", "label": "1 meter", "correct": false, "explanation": "1 meter is about 3 feet tall. That is way too long for a finger!"}
+      ],
+      "explanation_md": "A pinky finger width is about 1 centimeter and the full finger is about 2 to 3 inches."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best estimate for the length of a pencil?",
+      "choices": [
+        {"id": "a", "label": "7 inches", "correct": true, "explanation": "Correct! A pencil is about 7 to 8 inches long."},
+        {"id": "b", "label": "7 yards", "correct": false, "explanation": "7 yards is over 20 feet! A pencil is about 7 inches."},
+        {"id": "c", "label": "7 feet", "correct": false, "explanation": "7 feet is as tall as a door! A pencil is about 7 inches."},
+        {"id": "d", "label": "70 inches", "correct": false, "explanation": "70 inches is almost 6 feet. A pencil is about 7 inches, not 70."}
+      ],
+      "explanation_md": "A pencil is about 7 to 8 inches long."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What would you use to measure something about 1 meter long?",
+      "choices": [
+        {"id": "a", "label": "Ruler", "correct": false, "explanation": "A 12-inch ruler is about 30 centimeters, which is 1/3 of a meter. A meter stick is better."},
+        {"id": "b", "label": "Meter stick", "correct": true, "explanation": "Correct! A meter stick is exactly 1 meter long — the perfect tool."},
+        {"id": "c", "label": "Centimeter cubes", "correct": false, "explanation": "You could use cubes, but you would need 100 of them. A meter stick is much easier."},
+        {"id": "d", "label": "A piece of paper", "correct": false, "explanation": "Paper has no markings for measurement. Use a meter stick."}
+      ],
+      "explanation_md": "A meter stick is 1 meter long and is the perfect tool for measuring 1-meter lengths."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "About how wide is a door?",
+      "choices": [
+        {"id": "a", "label": "About 3 feet", "correct": true, "explanation": "Correct! A standard door is about 3 feet (36 inches or about 1 meter) wide."},
+        {"id": "b", "label": "About 3 inches", "correct": false, "explanation": "3 inches is tiny. A door is much wider — about 3 feet."},
+        {"id": "c", "label": "About 30 feet", "correct": false, "explanation": "30 feet would be a very wide door! A standard door is about 3 feet wide."},
+        {"id": "d", "label": "About 3 meters", "correct": false, "explanation": "3 meters would be a very wide door. A standard door is about 1 meter (3 feet) wide."}
+      ],
+      "explanation_md": "A standard door is about 3 feet (1 meter) wide."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which unit is best for measuring the length of a book?",
+      "choices": [
+        {"id": "a", "label": "Miles", "correct": false, "explanation": "Miles are for very long distances like roads. Inches or centimeters work for a book."},
+        {"id": "b", "label": "Inches", "correct": true, "explanation": "Correct! Inches (or centimeters) are right for measuring a book."},
+        {"id": "c", "label": "Yards", "correct": false, "explanation": "Yards are for longer things. A book is about 11 inches — use inches."},
+        {"id": "d", "label": "Meters", "correct": false, "explanation": "A meter is about 3 feet. A book is much smaller — use inches or centimeters."}
+      ],
+      "explanation_md": "Inches or centimeters are the right units for measuring a book."
+    }
+  ]
+}
