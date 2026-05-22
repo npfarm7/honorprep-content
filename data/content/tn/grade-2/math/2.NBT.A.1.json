@@ -1,0 +1,463 @@
+{
+  "skill_id": "2.NBT.A.1",
+  "benchmark_description": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Hundreds, Tens, and Ones",
+    "intro": "Numbers have secret meanings hiding in each digit! The place where a digit sits tells you if it means ones, tens, or hundreds. Let's become place value detectives!",
+    "body_md": "## The Three Places\n\nEvery three-digit number has three places:\n\n| Place | What it means | Examples |\n|---|---|---|\n| **Hundreds place** (left) | groups of 100 | 3 hundreds = 300 |\n| **Tens place** (middle) | groups of 10 | 5 tens = 50 |\n| **Ones place** (right) | single ones | 7 ones = 7 |\n\n## Reading a Three-Digit Number\n\nLet's look at the number **345**:\n\n```\n3   4   5\n|   |   |\nH   T   O\n```\n\n- 3 is in the **hundreds** place: 3 hundreds = 300\n- 4 is in the **tens** place: 4 tens = 40\n- 5 is in the **ones** place: 5 ones = 5\n\n**345 = 300 + 40 + 5**\n\n## When a Place Has Zero\n\nA zero means **none** of that group. It holds the place so we know where the other digits are.\n\n**706:**\n- 7 hundreds = 700\n- 0 tens = 0 (no tens!)\n- 6 ones = 6\n\n**706 = 700 + 0 + 6**\n\nIf we left out the 0, 76 has only 7 tens and 6 ones \u2014 a very different number!\n\n## Place Value Chart Practice\n\n| Number | Hundreds | Tens | Ones |\n|---|---|---|---|\n| 253 | 2 | 5 | 3 |\n| 407 | 4 | 0 | 7 |\n| 820 | 8 | 2 | 0 |\n| 109 | 1 | 0 | 9 |\n| 560 | 5 | 6 | 0 |\n\n## Building Numbers\n\nYou can build a number from its parts:\n- 5 hundreds + 3 tens + 8 ones = 500 + 30 + 8 = **538**\n- 9 hundreds + 0 tens + 1 one = 900 + 0 + 1 = **901**",
+    "worked_example_md": "**Problem:** What does the number 427 mean? How many hundreds, tens, and ones?\n\n**Step 1:** Write the number in a place value chart.\n\n| Hundreds | Tens | Ones |\n|---|---|---|\n| 4 | 2 | 7 |\n\n**Step 2:** Read each place.\n- 4 is in the hundreds place: **4 hundreds = 400**\n- 2 is in the tens place: **2 tens = 20**\n- 7 is in the ones place: **7 ones = 7**\n\n**Answer:** 427 = 400 + 20 + 7\n\nSay it: four hundred twenty-seven.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In the number 358, what digit is in the hundreds place?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "8",
+          "correct": false,
+          "explanation": "8 is in the ones place (the rightmost digit). The hundreds place is the leftmost digit: 3."
+        },
+        {
+          "id": "b",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is in the tens place (the middle digit). The hundreds place is the leftmost digit: 3."
+        },
+        {
+          "id": "c",
+          "label": "3",
+          "correct": true,
+          "explanation": "Correct! In 358, the 3 is in the hundreds place. Hundreds is on the left."
+        },
+        {
+          "id": "d",
+          "label": "0",
+          "correct": false,
+          "explanation": "There is no 0 in 358. The hundreds place is the leftmost digit: 3."
+        }
+      ],
+      "explanation_md": "In 358, the digits are: 3 (hundreds), 5 (tens), 8 (ones). The hundreds place digit is 3."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "In the number 249, what digit is in the tens place?",
+      "correct_answer": "4",
+      "explanation_md": "249: 2 (hundreds), 4 (tens), 9 (ones). The tens place digit is 4."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What number has 5 hundreds, 0 tens, and 3 ones?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "530",
+          "correct": false,
+          "explanation": "530 has 5 hundreds, 3 tens, 0 ones. We need 5 hundreds, 0 tens, 3 ones = 503."
+        },
+        {
+          "id": "b",
+          "label": "503",
+          "correct": true,
+          "explanation": "Correct! 5 hundreds + 0 tens + 3 ones = 503. The zero holds the tens place."
+        },
+        {
+          "id": "c",
+          "label": "350",
+          "correct": false,
+          "explanation": "350 has 3 hundreds, 5 tens, 0 ones. We need 5 hundreds, 0 tens, 3 ones = 503."
+        },
+        {
+          "id": "d",
+          "label": "53",
+          "correct": false,
+          "explanation": "53 only has 2 digits. We need 5 hundreds: 503."
+        }
+      ],
+      "explanation_md": "5 hundreds + 0 tens + 3 ones = 503. The zero is needed to hold the tens place."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the value of the 7 in the number 374?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 ones = 7. But the 7 in 374 is in the tens place. 7 tens = 70."
+        },
+        {
+          "id": "b",
+          "label": "700",
+          "correct": false,
+          "explanation": "700 would be 7 in the hundreds place. In 374, the 7 is in the tens place. 7 tens = 70."
+        },
+        {
+          "id": "c",
+          "label": "70",
+          "correct": true,
+          "explanation": "Correct! In 374, 7 is in the tens place. 7 tens = 70."
+        },
+        {
+          "id": "d",
+          "label": "17",
+          "correct": false,
+          "explanation": "That is not a place value. In 374, the 7 is in the tens place, so its value is 70."
+        }
+      ],
+      "explanation_md": "In 374: 3 (hundreds) = 300, 7 (tens) = 70, 4 (ones) = 4. The 7 is worth 70."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which number has 8 in the hundreds place, 0 in the tens place, and 4 in the ones place?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "840",
+          "correct": false,
+          "explanation": "840 has 8 hundreds, 4 tens, 0 ones. We need 8 hundreds, 0 tens, 4 ones = 804."
+        },
+        {
+          "id": "b",
+          "label": "408",
+          "correct": false,
+          "explanation": "408 has 4 hundreds, 0 tens, 8 ones. We need 8 hundreds, 0 tens, 4 ones = 804."
+        },
+        {
+          "id": "c",
+          "label": "804",
+          "correct": true,
+          "explanation": "Correct! 804 has 8 in the hundreds, 0 in the tens, and 4 in the ones."
+        },
+        {
+          "id": "d",
+          "label": "480",
+          "correct": false,
+          "explanation": "480 has 4 hundreds, 8 tens, 0 ones. We need 8 hundreds, 0 tens, 4 ones = 804."
+        }
+      ],
+      "explanation_md": "8 hundreds + 0 tens + 4 ones = 804."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is the value of the digit 6 in the number 651?",
+      "correct_answer": "600",
+      "explanation_md": "In 651, 6 is in the hundreds place. 6 hundreds = 600."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How would you write 'four hundred nine' as a number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "49",
+          "correct": false,
+          "explanation": "49 has only 2 digits. Four hundred nine needs 3 digits: 4 in hundreds, 0 in tens, 9 in ones = 409."
+        },
+        {
+          "id": "b",
+          "label": "490",
+          "correct": false,
+          "explanation": "490 has 4 hundreds, 9 tens, 0 ones. Four hundred nine has 4 hundreds, 0 tens, 9 ones = 409."
+        },
+        {
+          "id": "c",
+          "label": "409",
+          "correct": true,
+          "explanation": "Correct! Four hundred nine: 4 hundreds, 0 tens, 9 ones = 409."
+        },
+        {
+          "id": "d",
+          "label": "4009",
+          "correct": false,
+          "explanation": "4009 is a 4-digit number. Four hundred nine is a 3-digit number: 409."
+        }
+      ],
+      "explanation_md": "Four hundred nine = 4 hundreds, 0 tens, 9 ones = 409."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A number has 3 hundreds, 1 ten, and 5 ones. What is the number?",
+      "correct_answer": "315",
+      "explanation_md": "3 hundreds + 1 ten + 5 ones = 300 + 10 + 5 = 315."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "The digit 2 is in the hundreds place of a number. The digit 0 is in the tens place. The digit 7 is in the ones place. What is the number?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "720",
+          "correct": false,
+          "explanation": "720 has 7 hundreds, 2 tens, 0 ones. We need 2 hundreds, 0 tens, 7 ones = 207."
+        },
+        {
+          "id": "b",
+          "label": "270",
+          "correct": false,
+          "explanation": "270 has 2 hundreds, 7 tens, 0 ones. We need 2 hundreds, 0 tens, 7 ones = 207."
+        },
+        {
+          "id": "c",
+          "label": "27",
+          "correct": false,
+          "explanation": "27 only has 2 digits. We need a hundreds digit: 2 hundreds = 200, so the number is 207."
+        },
+        {
+          "id": "d",
+          "label": "207",
+          "correct": true,
+          "explanation": "Correct! 2 in hundreds, 0 in tens, 7 in ones = 207."
+        }
+      ],
+      "explanation_md": "2 hundreds + 0 tens + 7 ones = 207."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "In which number does the 4 have a value of 400?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "542",
+          "correct": false,
+          "explanation": "In 542, 4 is in the tens place. 4 tens = 40, not 400."
+        },
+        {
+          "id": "b",
+          "label": "214",
+          "correct": false,
+          "explanation": "In 214, 4 is in the ones place. 4 ones = 4, not 400."
+        },
+        {
+          "id": "c",
+          "label": "473",
+          "correct": true,
+          "explanation": "Correct! In 473, 4 is in the hundreds place. 4 hundreds = 400."
+        },
+        {
+          "id": "d",
+          "label": "904",
+          "correct": false,
+          "explanation": "In 904, 4 is in the ones place. 4 ones = 4, not 400."
+        }
+      ],
+      "explanation_md": "In 473, 4 is in the hundreds place: 4 hundreds = 400."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In the number 806, which digit is in the tens place and what is its value?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "8, value = 800",
+          "correct": false,
+          "explanation": "8 is in the hundreds place, not the tens place. The tens place (middle digit) has 0, which is worth 0."
+        },
+        {
+          "id": "b",
+          "label": "6, value = 6",
+          "correct": false,
+          "explanation": "6 is in the ones place, not the tens place. The middle digit (tens place) is 0, worth 0."
+        },
+        {
+          "id": "c",
+          "label": "0, value = 0",
+          "correct": true,
+          "explanation": "Correct! In 806, the middle digit (tens place) is 0. 0 tens = 0."
+        },
+        {
+          "id": "d",
+          "label": "0, value = 10",
+          "correct": false,
+          "explanation": "0 is in the tens place, but its value is 0 (zero tens), not 10."
+        }
+      ],
+      "explanation_md": "In 806: 8 (hundreds), 0 (tens), 6 (ones). The tens digit is 0, worth 0."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is the value of the 9 in 492?",
+      "correct_answer": "90",
+      "explanation_md": "In 492, 9 is in the tens place. 9 tens = 90."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A number has these digits: hundreds = 7, tens = 0, ones = 5. Which number is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "750",
+          "correct": false,
+          "explanation": "750 has 7 hundreds, 5 tens, 0 ones. We need 7 hundreds, 0 tens, 5 ones = 705."
+        },
+        {
+          "id": "b",
+          "label": "507",
+          "correct": false,
+          "explanation": "507 has 5 hundreds, 0 tens, 7 ones. We need 7 hundreds, 0 tens, 5 ones = 705."
+        },
+        {
+          "id": "c",
+          "label": "705",
+          "correct": true,
+          "explanation": "Correct! 7 hundreds, 0 tens, 5 ones = 705."
+        },
+        {
+          "id": "d",
+          "label": "570",
+          "correct": false,
+          "explanation": "570 has 5 hundreds, 7 tens, 0 ones. We need 7 hundreds, 0 tens, 5 ones = 705."
+        }
+      ],
+      "explanation_md": "7 hundreds + 0 tens + 5 ones = 705."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In the number 123, which digit is in the ones place?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1",
+          "correct": false,
+          "explanation": "1 is in the hundreds place (leftmost digit). The ones place is the rightmost digit: 3."
+        },
+        {
+          "id": "b",
+          "label": "2",
+          "correct": false,
+          "explanation": "2 is in the tens place (middle digit). The ones place is on the right: 3."
+        },
+        {
+          "id": "c",
+          "label": "3",
+          "correct": true,
+          "explanation": "Correct! 3 is in the ones place (rightmost digit) of 123."
+        },
+        {
+          "id": "d",
+          "label": "0",
+          "correct": false,
+          "explanation": "There is no 0 in 123. The ones place is the rightmost digit: 3."
+        }
+      ],
+      "explanation_md": "In 123: 1 (hundreds), 2 (tens), 3 (ones). The ones place is always on the right."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which number has 2 in the hundreds place?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "452",
+          "correct": false,
+          "explanation": "In 452, 2 is in the ones place. We need 2 in the hundreds place (leftmost): 200, 201, 234, etc."
+        },
+        {
+          "id": "b",
+          "label": "524",
+          "correct": false,
+          "explanation": "In 524, 2 is in the tens place. We need 2 in the hundreds place: 234."
+        },
+        {
+          "id": "c",
+          "label": "234",
+          "correct": true,
+          "explanation": "Correct! In 234, 2 is the leftmost digit in the hundreds place."
+        },
+        {
+          "id": "d",
+          "label": "342",
+          "correct": false,
+          "explanation": "In 342, 3 is in the hundreds place. We need 2 in the hundreds place: 234."
+        }
+      ],
+      "explanation_md": "In 234, 2 is in the hundreds place (leftmost digit)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "How many hundreds are in the number 500?",
+      "correct_answer": "5",
+      "explanation_md": "500 has 5 in the hundreds place: 5 hundreds."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What number has 1 hundred, 2 tens, and 3 ones?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "321",
+          "correct": false,
+          "explanation": "321 has 3 hundreds, 2 tens, 1 one. We need 1 hundred, 2 tens, 3 ones = 123."
+        },
+        {
+          "id": "b",
+          "label": "132",
+          "correct": false,
+          "explanation": "132 has 1 hundred, 3 tens, 2 ones. We need 1 hundred, 2 tens, 3 ones = 123."
+        },
+        {
+          "id": "c",
+          "label": "123",
+          "correct": true,
+          "explanation": "Correct! 1 hundred + 2 tens + 3 ones = 123."
+        },
+        {
+          "id": "d",
+          "label": "231",
+          "correct": false,
+          "explanation": "231 has 2 hundreds, 3 tens, 1 one. We need 1 hundred, 2 tens, 3 ones = 123."
+        }
+      ],
+      "explanation_md": "1 hundred + 2 tens + 3 ones = 123."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is the value of the digit 4 in the number 400?",
+      "correct_answer": "400",
+      "explanation_md": "In 400, the 4 is in the hundreds place. 4 hundreds = 400."
+    }
+  ]
+}
