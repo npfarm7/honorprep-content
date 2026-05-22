@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.C.3.1",
+  "benchmark_description": "Identify and explain the symbols of Florida and the United States, including the state flag, Pledge of Allegiance, and national anthem.",
+  "course": "social_studies",
+  "strand": "C",
+  "lesson": {
+    "title": "Symbols of Florida and the United States",
+    "intro": "Communities and countries use symbols to show who they are and what they value. Florida and the United States each have special symbols that represent them. Learning these symbols helps us understand our state and country.",
+    "body_md": "## What Is a Symbol?\n\nA symbol is something that stands for, or represents, something else. It is a sign or image with special meaning.\n\n## Florida's State Flag\n\nFlorida's state flag has:\n- A **red X** (the cross of St. Andrew) on a white background\n- The **Florida State Seal** in the center\n\nThe seal shows a Seminole woman, a sabal palm (our state tree), a steamboat on water, and a sunburst \u2014 all symbols of Florida's history and nature.\n\n## The United States Flag\n\nThe U.S. flag has:\n- **50 stars** \u2014 one for each state\n- **13 stripes** (7 red, 6 white) \u2014 representing the original 13 colonies\n\nThe flag is sometimes called the **Stars and Stripes**.\n\n## The Pledge of Allegiance\n\nThe Pledge of Allegiance is a promise of loyalty to the United States. When we say the Pledge, we face the flag and put our right hand over our heart.\n\n> 'I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.'\n\n- **Pledge** means to make a promise.\n- **Allegiance** means loyalty.\n- **Republic** means a government where the people choose their leaders.\n- **Indivisible** means cannot be split apart.\n- **Liberty** means freedom.\n- **Justice** means fairness.\n\n## The National Anthem\n\nThe national anthem of the United States is **'The Star-Spangled Banner,'** written by Francis Scott Key in 1814. It describes the U.S. flag flying after a battle. We sing it at sports events and important ceremonies.\n\n## Other Florida Symbols\n\n- **State tree:** Sabal palm\n- **State bird:** Northern mockingbird\n- **State flower:** Orange blossom\n- **State animal:** Florida panther",
+    "worked_example_md": "**Think About It:** During a school assembly, students face the flag and recite the Pledge of Allegiance.\n\n- Why do students face the **flag**? The flag is a symbol of the United States.\n- What does **'indivisible'** mean in the Pledge? It means the United States cannot be split apart \u2014 all the states are united.\n- What do the **50 stars** on the flag represent? One star for each of the 50 states.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **symbol**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A type of food",
+          "correct": false,
+          "explanation": "A symbol is not food."
+        },
+        {
+          "id": "B",
+          "label": "Something that stands for or represents something else",
+          "correct": true,
+          "explanation": "A symbol is a sign or image that has special meaning and represents something larger."
+        },
+        {
+          "id": "C",
+          "label": "A law that everyone must follow",
+          "correct": false,
+          "explanation": "A law is a rule, not a symbol."
+        },
+        {
+          "id": "D",
+          "label": "A person who leads the country",
+          "correct": false,
+          "explanation": "A leader is a person, not a symbol."
+        }
+      ],
+      "explanation_md": "A symbol is something that stands for or represents something else. Flags, songs, and pledges are all symbols."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many **stars** are on the United States flag?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "13",
+          "correct": false,
+          "explanation": "13 is the number of stripes, not stars. There are 50 stars, one for each state."
+        },
+        {
+          "id": "B",
+          "label": "50",
+          "correct": true,
+          "explanation": "There are 50 stars on the U.S. flag, one for each state."
+        },
+        {
+          "id": "C",
+          "label": "48",
+          "correct": false,
+          "explanation": "There are 50 stars. The flag was updated to 50 stars when Hawaii became a state in 1960."
+        },
+        {
+          "id": "D",
+          "label": "100",
+          "correct": false,
+          "explanation": "There are 50 stars on the U.S. flag, not 100."
+        }
+      ],
+      "explanation_md": "There are 50 stars on the U.S. flag, one for each of the 50 states."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What do the 13 **stripes** on the U.S. flag represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The 13 current states",
+          "correct": false,
+          "explanation": "The stripes represent the original 13 colonies, not the current 50 states."
+        },
+        {
+          "id": "B",
+          "label": "The 13 original colonies",
+          "correct": true,
+          "explanation": "The 13 stripes on the U.S. flag represent the original 13 colonies that became the first states."
+        },
+        {
+          "id": "C",
+          "label": "The 13 wars the U.S. has fought",
+          "correct": false,
+          "explanation": "The stripes represent the original 13 colonies."
+        },
+        {
+          "id": "D",
+          "label": "The 13 U.S. presidents",
+          "correct": false,
+          "explanation": "The stripes represent the original 13 colonies."
+        }
+      ],
+      "explanation_md": "The 13 stripes represent the original 13 colonies that declared independence from Britain and became the first U.S. states."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Pledge of Allegiance is a promise of **allegiance** to the United States. What does allegiance mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Freedom",
+          "correct": false,
+          "explanation": "Freedom means liberty. Allegiance means loyalty."
+        },
+        {
+          "id": "B",
+          "label": "Loyalty",
+          "correct": true,
+          "explanation": "Allegiance means loyalty \u2014 being faithful and committed to something."
+        },
+        {
+          "id": "C",
+          "label": "Fairness",
+          "correct": false,
+          "explanation": "Fairness means justice. Allegiance means loyalty."
+        },
+        {
+          "id": "D",
+          "label": "Independence",
+          "correct": false,
+          "explanation": "Independence means freedom from control. Allegiance means loyalty."
+        }
+      ],
+      "explanation_md": "Allegiance means loyalty. The Pledge is a promise of loyalty to the United States."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does **'indivisible'** mean in the Pledge of Allegiance?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The United States has many divisions",
+          "correct": false,
+          "explanation": "Indivisible means the opposite \u2014 cannot be divided or split apart."
+        },
+        {
+          "id": "B",
+          "label": "The United States cannot be split apart \u2014 all states are united",
+          "correct": true,
+          "explanation": "Indivisible means cannot be divided. The Pledge says the United States is one nation that cannot be broken apart."
+        },
+        {
+          "id": "C",
+          "label": "The United States is invisible",
+          "correct": false,
+          "explanation": "Indivisible means cannot be divided, not invisible."
+        },
+        {
+          "id": "D",
+          "label": "The United States is divided into two parts",
+          "correct": false,
+          "explanation": "Indivisible means cannot be divided. The United States is one united nation."
+        }
+      ],
+      "explanation_md": "Indivisible means cannot be split apart or divided. The Pledge says all states are united as one nation."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the national anthem of the United States?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'America the Beautiful'",
+          "correct": false,
+          "explanation": "'America the Beautiful' is a patriotic song but not the national anthem."
+        },
+        {
+          "id": "B",
+          "label": "'The Star-Spangled Banner'",
+          "correct": true,
+          "explanation": "'The Star-Spangled Banner' is the national anthem of the United States."
+        },
+        {
+          "id": "C",
+          "label": "'My Country, 'Tis of Thee'",
+          "correct": false,
+          "explanation": "That is a patriotic song, but the national anthem is 'The Star-Spangled Banner.'"
+        },
+        {
+          "id": "D",
+          "label": "'Yankee Doodle'",
+          "correct": false,
+          "explanation": "'Yankee Doodle' is a traditional song, not the national anthem."
+        }
+      ],
+      "explanation_md": "The national anthem of the United States is 'The Star-Spangled Banner,' written by Francis Scott Key in 1814."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is shown in the center of Florida's state flag?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A photo of Tallahassee",
+          "correct": false,
+          "explanation": "The center of Florida's flag shows the Florida State Seal, not a photo."
+        },
+        {
+          "id": "B",
+          "label": "The Florida State Seal",
+          "correct": true,
+          "explanation": "The Florida State Seal is in the center of the state flag. It shows a Seminole woman, a sabal palm, a steamboat, and a sunburst."
+        },
+        {
+          "id": "C",
+          "label": "The U.S. flag",
+          "correct": false,
+          "explanation": "The U.S. flag is not shown on Florida's state flag."
+        },
+        {
+          "id": "D",
+          "label": "A map of Florida",
+          "correct": false,
+          "explanation": "The state seal, not a map, is in the center of Florida's flag."
+        }
+      ],
+      "explanation_md": "The Florida State Seal is in the center of the state flag. It includes images representing Florida's history and nature."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Who wrote 'The Star-Spangled Banner'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "George Washington",
+          "correct": false,
+          "explanation": "George Washington was the first U.S. president. Francis Scott Key wrote 'The Star-Spangled Banner.'"
+        },
+        {
+          "id": "B",
+          "label": "Francis Scott Key",
+          "correct": true,
+          "explanation": "Francis Scott Key wrote 'The Star-Spangled Banner' in 1814 after watching a battle in which the U.S. flag continued to fly."
+        },
+        {
+          "id": "C",
+          "label": "Abraham Lincoln",
+          "correct": false,
+          "explanation": "Abraham Lincoln was the 16th president. Francis Scott Key wrote the national anthem."
+        },
+        {
+          "id": "D",
+          "label": "Benjamin Franklin",
+          "correct": false,
+          "explanation": "Benjamin Franklin was a Founding Father but did not write the national anthem."
+        }
+      ],
+      "explanation_md": "Francis Scott Key wrote 'The Star-Spangled Banner' in 1814 after watching the U.S. flag survive a battle."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why do students recite the Pledge of Allegiance facing the flag?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because the flag is always on the right side of the room",
+          "correct": false,
+          "explanation": "The flag's position in the room is not why we face it. We face it because it is the symbol we are pledging to."
+        },
+        {
+          "id": "B",
+          "label": "Because the flag is a symbol of the United States, and we are making a promise to the country",
+          "correct": true,
+          "explanation": "The flag represents the United States. Facing it while reciting the Pledge shows respect for the country."
+        },
+        {
+          "id": "C",
+          "label": "Because the flag tells us what to say",
+          "correct": false,
+          "explanation": "The Pledge is memorized; students know the words. The flag is a symbol, not a script."
+        },
+        {
+          "id": "D",
+          "label": "Because the flag is the same as the president",
+          "correct": false,
+          "explanation": "The flag represents the country, not any individual person."
+        }
+      ],
+      "explanation_md": "The flag is a symbol of the United States. Facing it while reciting the Pledge shows loyalty and respect for the country."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "The Pledge says the United States is a **republic** with 'liberty and justice for all.' What does this tell us about American values?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Americans believe the government should make all decisions without citizens",
+          "correct": false,
+          "explanation": "A republic is the opposite \u2014 citizens choose their leaders."
+        },
+        {
+          "id": "B",
+          "label": "Americans value freedom and fairness for every person, and citizens choose their leaders",
+          "correct": true,
+          "explanation": "A republic means citizens elect leaders. Liberty means freedom. Justice means fairness. These reflect core American values."
+        },
+        {
+          "id": "C",
+          "label": "Americans believe only some people should have liberty",
+          "correct": false,
+          "explanation": "The Pledge says 'for all,' meaning liberty and justice should be for every person."
+        },
+        {
+          "id": "D",
+          "label": "Americans do not care about fairness in government",
+          "correct": false,
+          "explanation": "The Pledge specifically mentions justice for all, showing fairness is a core American value."
+        }
+      ],
+      "explanation_md": "The Pledge reflects core American values: citizens choose their leaders (republic), everyone deserves freedom (liberty), and everyone deserves fairness (justice)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What do the 50 stars and 13 stripes on the U.S. flag represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "50 stars = 50 states; 13 stripes = original 13 colonies",
+          "correct": true,
+          "explanation": "The 50 stars represent the 50 current states. The 13 stripes represent the original 13 colonies."
+        },
+        {
+          "id": "B",
+          "label": "50 stars = 50 presidents; 13 stripes = 13 wars",
+          "correct": false,
+          "explanation": "The stars represent states, not presidents. The stripes represent the original colonies, not wars."
+        },
+        {
+          "id": "C",
+          "label": "50 stars = 50 years of independence; 13 stripes = 13 states today",
+          "correct": false,
+          "explanation": "The stars represent the 50 states and the stripes represent the original 13 colonies."
+        },
+        {
+          "id": "D",
+          "label": "50 stars = 50 cities; 13 stripes = 13 rivers",
+          "correct": false,
+          "explanation": "The stars represent states and the stripes represent the original 13 colonies."
+        }
+      ],
+      "explanation_md": "50 stars represent the 50 states. 13 stripes represent the original 13 colonies that became the first states."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the purpose of the Pledge of Allegiance?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To teach students the history of the flag",
+          "correct": false,
+          "explanation": "The Pledge is not a history lesson. It is a promise of loyalty."
+        },
+        {
+          "id": "B",
+          "label": "To make a promise of loyalty to the United States",
+          "correct": true,
+          "explanation": "The Pledge is a pledge, meaning a promise. It is a promise of loyalty to the country."
+        },
+        {
+          "id": "C",
+          "label": "To list all of the rights of U.S. citizens",
+          "correct": false,
+          "explanation": "The Bill of Rights lists citizens' rights. The Pledge is a promise of loyalty."
+        },
+        {
+          "id": "D",
+          "label": "To elect the president of the United States",
+          "correct": false,
+          "explanation": "The Pledge is not a voting process."
+        }
+      ],
+      "explanation_md": "The Pledge of Allegiance is a promise of loyalty to the United States."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why are symbols like the flag, the Pledge of Allegiance, and the national anthem important to citizens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "They replace the need for laws",
+          "correct": false,
+          "explanation": "Symbols do not replace laws. Laws are separate and necessary."
+        },
+        {
+          "id": "B",
+          "label": "They help unite citizens and show shared pride and values",
+          "correct": true,
+          "explanation": "National symbols like the flag, Pledge, and anthem give citizens a shared identity and remind them of common values like freedom and unity."
+        },
+        {
+          "id": "C",
+          "label": "They tell citizens what jobs to do",
+          "correct": false,
+          "explanation": "Symbols inspire shared identity and values, not job assignments."
+        },
+        {
+          "id": "D",
+          "label": "They are only used during wars",
+          "correct": false,
+          "explanation": "National symbols are used at schools, sports events, ceremonies, and many everyday occasions."
+        }
+      ],
+      "explanation_md": "Symbols help unite citizens by giving them a shared identity and reminding them of common values like freedom, unity, and fairness."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a symbol of the United States?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A pizza",
+          "correct": false,
+          "explanation": "A pizza is a food, not a national symbol."
+        },
+        {
+          "id": "B",
+          "label": "The United States flag",
+          "correct": true,
+          "explanation": "The U.S. flag is a symbol that represents the United States."
+        },
+        {
+          "id": "C",
+          "label": "A bicycle",
+          "correct": false,
+          "explanation": "A bicycle is not a national symbol."
+        },
+        {
+          "id": "D",
+          "label": "A school textbook",
+          "correct": false,
+          "explanation": "A textbook is not a national symbol."
+        }
+      ],
+      "explanation_md": "The United States flag is one of the most important symbols of the country."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When students say the Pledge of Allegiance, what are they making?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A wish",
+          "correct": false,
+          "explanation": "The Pledge is not a wish. It is a formal promise."
+        },
+        {
+          "id": "B",
+          "label": "A promise of loyalty to the United States",
+          "correct": true,
+          "explanation": "The Pledge of Allegiance is a promise of loyalty, or allegiance, to the United States."
+        },
+        {
+          "id": "C",
+          "label": "A request for more recess",
+          "correct": false,
+          "explanation": "The Pledge is a promise of loyalty to the country."
+        },
+        {
+          "id": "D",
+          "label": "A song about the flag",
+          "correct": false,
+          "explanation": "The national anthem is a song about the flag. The Pledge is a spoken promise."
+        }
+      ],
+      "explanation_md": "The Pledge of Allegiance is a promise of loyalty to the United States."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the national anthem of the United States?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'America the Beautiful'",
+          "correct": false,
+          "explanation": "That is a patriotic song but not the national anthem."
+        },
+        {
+          "id": "B",
+          "label": "'The Star-Spangled Banner'",
+          "correct": true,
+          "explanation": "'The Star-Spangled Banner' is the national anthem of the United States."
+        },
+        {
+          "id": "C",
+          "label": "'Happy Birthday'",
+          "correct": false,
+          "explanation": "'Happy Birthday' is not the national anthem."
+        },
+        {
+          "id": "D",
+          "label": "'Yankee Doodle'",
+          "correct": false,
+          "explanation": "'Yankee Doodle' is a traditional song, not the national anthem."
+        }
+      ],
+      "explanation_md": "'The Star-Spangled Banner' is the national anthem of the United States."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Florida state flag has a red X on a white background and a seal in the center. What is a **seal**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "An ocean animal",
+          "correct": false,
+          "explanation": "A seal in this context is a symbol or official stamp, not an ocean animal."
+        },
+        {
+          "id": "B",
+          "label": "An official symbol or stamp that represents a government",
+          "correct": true,
+          "explanation": "A state seal is an official symbol. Florida's seal shows images of the state's history and nature."
+        },
+        {
+          "id": "C",
+          "label": "A lock on a door",
+          "correct": false,
+          "explanation": "A seal in this context is a symbol, not a physical lock."
+        },
+        {
+          "id": "D",
+          "label": "A type of cloud",
+          "correct": false,
+          "explanation": "A seal is an official symbol, not a cloud."
+        }
+      ],
+      "explanation_md": "A state seal is an official symbol. Florida's seal shows images of the state's history and nature."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How many stars are on the U.S. flag, and what do they represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "13 stars representing the original colonies",
+          "correct": false,
+          "explanation": "There are 50 stars. The 13 represents the stripes, which stand for the original colonies."
+        },
+        {
+          "id": "B",
+          "label": "50 stars, one for each U.S. state",
+          "correct": true,
+          "explanation": "There are 50 stars on the U.S. flag, one for each of the 50 states."
+        },
+        {
+          "id": "C",
+          "label": "100 stars representing the Senate",
+          "correct": false,
+          "explanation": "There are 50 stars, representing the 50 states, not the 100 senators."
+        },
+        {
+          "id": "D",
+          "label": "48 stars for the 48 continental states",
+          "correct": false,
+          "explanation": "There are 50 stars. When Alaska and Hawaii became states, the flag was updated to 50 stars."
+        }
+      ],
+      "explanation_md": "There are 50 stars on the U.S. flag, one for each of the 50 states."
+    }
+  ]
+}
