@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.08",
+  "benchmark_description": "Identify and use map skills, including cardinal directions, map keys, and symbols to locate places in the community.",
+  "course": "social_studies",
+  "strand": "GEO",
+  "lesson": {
+    "title": "Reading Maps of Our Community",
+    "intro": "Maps help us find our way around! They use special symbols and directions to show us where things are. Let's learn how to read a map like a pro!",
+    "body_md": "## What Is a Map?\n\nA **map** is a drawing that shows what a place looks like from above. Maps can show towns, cities, states, or even the whole world.\n\n## Cardinal Directions\n\n**Cardinal directions** are the four main directions on a map:\n\n- **N** = North (up)\n- **S** = South (down)\n- **E** = East (right)\n- **W** = West (left)\n\nA **compass rose** is the symbol on a map that shows these four directions.\n\n**Memory trick:** To remember in order (N, E, S, W), think: **Never Eat Soggy Waffles**!\n\n## Map Key (Legend)\n\nA **map key** (also called a **legend**) is a box on the map that explains what the symbols mean.\n\nExample symbols in a community map:\n\n| Symbol | Meaning |\n|---|---|\n| Blue line | River or stream |\n| Green square | Park |\n| Red building | School |\n| Yellow building | Fire station |\n| Star | City hall |\n| Dotted line | Walking trail |\n\n## Map Symbols\n\n**Symbols** are small pictures or shapes used on maps to stand for real places or things. Symbols save space — instead of drawing a whole school, the mapmaker draws a small red building.\n\n## Scale\n\nMaps are smaller than the real place. A **map scale** shows how distances on the map compare to real distances.\n\n**Example:** 1 inch on the map = 1 mile in real life.\n\n## Reading a Community Map — Steps\n\n1. **Look at the title** — What place does the map show?\n2. **Find the compass rose** — Which way is north?\n3. **Read the map key** — What do the symbols mean?\n4. **Locate places** — Use the symbols and directions to find buildings, roads, and parks.\n5. **Describe locations** — Use cardinal directions: \"The school is north of the park.\"\n\n## Using Directions to Describe Location\n\nWe use cardinal directions to describe where things are on a map.\n\nExamples:\n- \"The library is **east** of the park.\"\n- \"City Hall is **north** of the school.\"\n- \"The river runs **west** to **east** through the town.\"",
+    "worked_example_md": "## Worked Example\n\n**Question:** Look at this description of a community map. Use the map key and cardinal directions to answer.\n\n**Map description:**\n- The school (red building symbol) is in the center.\n- The park (green square) is to the north of the school.\n- The fire station (yellow building) is to the east of the school.\n- The river (blue line) runs along the southern edge of the map.\n\n**Question 1:** In which direction is the park from the school?\n\n**Step 1:** Find the school (center). Find the park (north of school).\n**Answer:** The park is **north** of the school.\n\n**Question 2:** What symbol would you use to find the fire station?\n\n**Step 1:** Check the map key. Fire station = yellow building symbol.\n**Answer:** Look for the **yellow building** symbol.\n\n**Question 3:** Which direction does the river flow across the map?\n\n**Step 1:** The river is on the southern edge and runs west to east.\n**Answer:** The river runs from **west to east** along the southern edge.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are the four **cardinal directions**?",
+      "choices": [
+        {"id": "a", "label": "Up, Down, Left, Right", "correct": false, "explanation": "Up, down, left, and right describe position, but the cardinal directions have specific names: north, south, east, west."},
+        {"id": "b", "label": "North, South, East, West", "correct": true, "explanation": "The four cardinal directions are north, south, east, and west."},
+        {"id": "c", "label": "Big, Small, Near, Far", "correct": false, "explanation": "These describe size and distance, not cardinal directions."},
+        {"id": "d", "label": "Top, Bottom, Front, Back", "correct": false, "explanation": "These describe position on an object, not map directions."}
+      ],
+      "explanation_md": "The four cardinal directions are north, south, east, and west."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the **map key** (legend) tell you?",
+      "choices": [
+        {"id": "a", "label": "The name of the person who made the map", "correct": false, "explanation": "The map key explains what symbols mean, not who made the map."},
+        {"id": "b", "label": "What the symbols on the map mean", "correct": true, "explanation": "The map key explains each symbol so you can understand what the map shows."},
+        {"id": "c", "label": "How fast you can travel across the map", "correct": false, "explanation": "Speed is not shown in the map key. The key explains symbols."},
+        {"id": "d", "label": "The exact height of mountains", "correct": false, "explanation": "Height of mountains is shown with different map tools, not the map key."}
+      ],
+      "explanation_md": "The map key (legend) explains what each symbol on the map stands for."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "On a compass rose, which direction is at the top?",
+      "choices": [
+        {"id": "a", "label": "South", "correct": false, "explanation": "South is at the bottom of a compass rose."},
+        {"id": "b", "label": "East", "correct": false, "explanation": "East is to the right on a compass rose."},
+        {"id": "c", "label": "West", "correct": false, "explanation": "West is to the left on a compass rose."},
+        {"id": "d", "label": "North", "correct": true, "explanation": "North is at the top of a compass rose on most maps."}
+      ],
+      "explanation_md": "North is at the top of a compass rose. South is at the bottom, East is to the right, and West is to the left."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A map shows a blue line running across it. The map key says a blue line means a river. Where is the river?",
+      "choices": [
+        {"id": "a", "label": "There is no river — blue lines mean roads", "correct": false, "explanation": "The map key says the blue line means a river, not a road."},
+        {"id": "b", "label": "Wherever the blue line is on the map", "correct": true, "explanation": "Since the map key tells us blue lines are rivers, you find the river wherever the blue line appears."},
+        {"id": "c", "label": "At the top corner of the map only", "correct": false, "explanation": "A river can flow anywhere on the map. You follow the blue line wherever it goes."},
+        {"id": "d", "label": "The map key does not tell us", "correct": false, "explanation": "The map key clearly tells us the blue line is a river."}
+      ],
+      "explanation_md": "The map key tells us the blue line means a river. You find the river wherever that blue line appears on the map."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "On a community map, the school is in the center. The park is above the school. The park is to the _____ of the school.",
+      "choices": [
+        {"id": "a", "label": "South", "correct": false, "explanation": "South is below or down on a map. The park is above the school."},
+        {"id": "b", "label": "East", "correct": false, "explanation": "East is to the right. The park is above the school."},
+        {"id": "c", "label": "North", "correct": true, "explanation": "Above on a map means north. The park is north of the school."},
+        {"id": "d", "label": "West", "correct": false, "explanation": "West is to the left. The park is above the school, which is north."}
+      ],
+      "explanation_md": "Above on a map is north. The park is above the school, so it is north of the school."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A map shows the library to the right of the post office. The library is to the _____ of the post office.",
+      "choices": [
+        {"id": "a", "label": "North", "correct": false, "explanation": "North is above or up on a map. Right is east."},
+        {"id": "b", "label": "South", "correct": false, "explanation": "South is below. Right is east."},
+        {"id": "c", "label": "East", "correct": true, "explanation": "Right on a map is east. The library is east of the post office."},
+        {"id": "d", "label": "West", "correct": false, "explanation": "West is to the left. The library is to the right (east) of the post office."}
+      ],
+      "explanation_md": "Right on a map is east. The library is to the right (east) of the post office."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do mapmakers use symbols instead of drawing real pictures of buildings?",
+      "choices": [
+        {"id": "a", "label": "Because real pictures would be too small to see", "correct": false, "explanation": "The reason for symbols is not about picture size but about saving space and making maps easy to read."},
+        {"id": "b", "label": "Because symbols save space and make maps easier to read", "correct": true, "explanation": "Symbols are simple shapes that represent real places. They keep maps from looking too cluttered."},
+        {"id": "c", "label": "Because mapmakers do not know what buildings look like", "correct": false, "explanation": "Mapmakers know what buildings look like. They use symbols to make maps simpler."},
+        {"id": "d", "label": "Because symbols are prettier than real pictures", "correct": false, "explanation": "The purpose of symbols is to make maps easier to read and understand, not just to look pretty."}
+      ],
+      "explanation_md": "Symbols save space and make maps easier to read. A small star or square is simpler than drawing each building."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the purpose of a **compass rose** on a map?",
+      "choices": [
+        {"id": "a", "label": "To show how old the map is", "correct": false, "explanation": "A compass rose shows directions, not the age of a map."},
+        {"id": "b", "label": "To show the four cardinal directions", "correct": true, "explanation": "A compass rose is the symbol that shows north, south, east, and west on a map."},
+        {"id": "c", "label": "To explain what the symbols mean", "correct": false, "explanation": "Explaining symbols is the job of the map key. The compass rose shows directions."},
+        {"id": "d", "label": "To show how many roads are in the community", "correct": false, "explanation": "Roads are shown with line symbols on the map, not with the compass rose."}
+      ],
+      "explanation_md": "A compass rose shows the four cardinal directions (north, south, east, west) on a map."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "On a community map, a green square symbol means a park. You count three green squares on the map. What can you conclude?",
+      "choices": [
+        {"id": "a", "label": "There are three parks in the community shown on the map", "correct": true, "explanation": "Each green square represents one park. Three green squares = three parks in the community."},
+        {"id": "b", "label": "There are three schools in the community", "correct": false, "explanation": "Schools have a different symbol. Green squares represent parks according to the map key."},
+        {"id": "c", "label": "All three green squares are the same park", "correct": false, "explanation": "Each symbol on the map represents a separate location. Three green squares = three separate parks."},
+        {"id": "d", "label": "The map only shows parks, not other places", "correct": false, "explanation": "Maps usually show many types of places. Green squares show parks, but other symbols show other places."}
+      ],
+      "explanation_md": "Each green square symbol represents one park. Three green squares mean three parks are shown on the map."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "You are at the school. The hospital is to your east and the fire station is to your south. If you walk south from the school, where will you end up?",
+      "choices": [
+        {"id": "a", "label": "At the hospital", "correct": false, "explanation": "The hospital is to the east. Walking south takes you to the fire station."},
+        {"id": "b", "label": "At the fire station", "correct": true, "explanation": "The fire station is south of the school. Walking south from the school leads you to the fire station."},
+        {"id": "c", "label": "Back at the school", "correct": false, "explanation": "Walking south moves you away from the school toward the fire station."},
+        {"id": "d", "label": "At the park, which is north of the school", "correct": false, "explanation": "A park to the north would be reached by walking north, not south."}
+      ],
+      "explanation_md": "South is down on the map. The fire station is south of the school, so walking south leads to the fire station."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees a symbol on a map that looks like a flame. The map key says: flame = fire station. What does the student now know?",
+      "choices": [
+        {"id": "a", "label": "There is a fire near that spot", "correct": false, "explanation": "The flame symbol stands for a fire station, not an actual fire."},
+        {"id": "b", "label": "The fire station is located where the flame symbol appears", "correct": true, "explanation": "Map keys explain symbols. The flame symbol marks where the fire station is located."},
+        {"id": "c", "label": "The map is on fire", "correct": false, "explanation": "The flame is a symbol. Symbols stand for real places, not literal things."},
+        {"id": "d", "label": "There is a restaurant that serves hot food", "correct": false, "explanation": "The map key clearly states the flame = fire station. Map keys define what symbols mean."}
+      ],
+      "explanation_md": "The map key tells us the flame symbol marks the fire station's location on the map."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Using cardinal directions, how would you describe the location of a store that is to the LEFT of a park on a map?",
+      "choices": [
+        {"id": "a", "label": "The store is north of the park", "correct": false, "explanation": "North is above on a map. Left is west."},
+        {"id": "b", "label": "The store is west of the park", "correct": true, "explanation": "Left on a map is west. The store to the left of the park is west of the park."},
+        {"id": "c", "label": "The store is south of the park", "correct": false, "explanation": "South is below on a map. Left is west."},
+        {"id": "d", "label": "The store is east of the park", "correct": false, "explanation": "East is to the right. The store is to the left (west) of the park."}
+      ],
+      "explanation_md": "Left on a map is west. A store to the left of the park is west of the park."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A map shows three things: a school north of City Hall, a park east of the school, and a river south of City Hall. Where is City Hall compared to the river?",
+      "choices": [
+        {"id": "a", "label": "City Hall is south of the river", "correct": false, "explanation": "The river is south of City Hall, which means City Hall is north of the river."},
+        {"id": "b", "label": "City Hall is north of the river", "correct": true, "explanation": "If the river is south of City Hall, then City Hall must be north of the river."},
+        {"id": "c", "label": "City Hall is east of the river", "correct": false, "explanation": "The clue says the river is south of City Hall, not east. City Hall is north of the river."},
+        {"id": "d", "label": "City Hall is west of the river", "correct": false, "explanation": "The clue says the river is south of City Hall. City Hall is north of the river."}
+      ],
+      "explanation_md": "If the river is south of City Hall, then City Hall is north of the river. These are opposite directions."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a map?",
+      "choices": [
+        {"id": "a", "label": "A book with lots of stories", "correct": false, "explanation": "A book with stories is called a storybook. A map shows where places are."},
+        {"id": "b", "label": "A drawing that shows what a place looks like from above", "correct": true, "explanation": "A map is a flat drawing that shows where places are, as if looking from above."},
+        {"id": "c", "label": "A puzzle with missing pieces", "correct": false, "explanation": "A map is a tool for finding places, not a puzzle."},
+        {"id": "d", "label": "A photo of a neighborhood", "correct": false, "explanation": "A photo shows what a place looks like. A map uses symbols to show where things are."}
+      ],
+      "explanation_md": "A map is a flat drawing that shows what a place looks like from above and where things are located."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is NOT a cardinal direction?",
+      "choices": [
+        {"id": "a", "label": "North", "correct": false, "explanation": "North is one of the four cardinal directions."},
+        {"id": "b", "label": "East", "correct": false, "explanation": "East is one of the four cardinal directions."},
+        {"id": "c", "label": "Up", "correct": true, "explanation": "Up is not a cardinal direction. The four cardinal directions are north, south, east, and west."},
+        {"id": "d", "label": "West", "correct": false, "explanation": "West is one of the four cardinal directions."}
+      ],
+      "explanation_md": "The four cardinal directions are north, south, east, and west. Up is not a cardinal direction."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The map key shows that a green square means a park. You see three green squares on the map. How many parks are there?",
+      "choices": [
+        {"id": "a", "label": "One park", "correct": false, "explanation": "Each green square represents one park. Three green squares = three parks."},
+        {"id": "b", "label": "Two parks", "correct": false, "explanation": "There are three green squares, so there are three parks, not two."},
+        {"id": "c", "label": "Three parks", "correct": true, "explanation": "Each green square = one park. Three green squares = three parks."},
+        {"id": "d", "label": "No parks", "correct": false, "explanation": "Green squares represent parks. Three squares = three parks."}
+      ],
+      "explanation_md": "Each green square symbol stands for one park. Three green squares means three parks."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "On a map, which direction is to the right?",
+      "choices": [
+        {"id": "a", "label": "North", "correct": false, "explanation": "North is at the top of a map, not the right side."},
+        {"id": "b", "label": "South", "correct": false, "explanation": "South is at the bottom of a map, not the right side."},
+        {"id": "c", "label": "East", "correct": true, "explanation": "East is to the right on most maps."},
+        {"id": "d", "label": "West", "correct": false, "explanation": "West is to the left on a map, not the right."}
+      ],
+      "explanation_md": "East is to the right on a map. West is to the left."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does the compass rose on a map show?",
+      "choices": [
+        {"id": "a", "label": "The names of streets", "correct": false, "explanation": "Street names are labeled on the map itself. The compass rose shows directions."},
+        {"id": "b", "label": "The four cardinal directions", "correct": true, "explanation": "The compass rose shows north, south, east, and west."},
+        {"id": "c", "label": "What symbols mean", "correct": false, "explanation": "The map key explains symbols. The compass rose shows directions."},
+        {"id": "d", "label": "How far one place is from another", "correct": false, "explanation": "A map scale shows distances. The compass rose shows directions."}
+      ],
+      "explanation_md": "The compass rose shows the four cardinal directions: north, south, east, and west."
+    }
+  ]
+}
