@@ -1,0 +1,613 @@
+{
+  "skill_id": "SC.2.N.1.4",
+  "benchmark_description": "Distinguish between empirical observation (what you see, hear, feel, smell, or taste) and inference (what you think about or conclude from your observations).",
+  "course": "science",
+  "strand": "N",
+  "lesson": {
+    "title": "What I See vs. What I Think",
+    "intro": "Did you ever see dark clouds and think it was going to rain? Seeing the dark clouds is an observation. Thinking it will rain is an inference \u2014 a smart guess based on what you saw. Scientists know the difference between these two important ideas!",
+    "body_md": "## Observation: What Your Senses Tell You\n\nAn **observation** is something you notice using your five senses:\n- **See** \u2014 color, shape, size, movement\n- **Hear** \u2014 loud, quiet, high or low sounds\n- **Feel** (touch) \u2014 rough, smooth, cold, warm\n- **Smell** \u2014 sweet, sour, or no smell\n- **Taste** \u2014 only when it is safe!\n\nObservations are facts \u2014 they describe what is actually happening right now.\n\n**Examples of observations:**\n- 'The rock is gray and bumpy.'\n- 'The water feels cold.'\n- 'The dog is barking loudly.'\n\n## Inference: What You Think It Means\n\nAn **inference** is a conclusion you draw from your observations. You use what you already know plus what you observe to make an inference.\n\n**Examples of inferences:**\n- 'The rock was probably in a river because river rocks are usually smooth and rounded.' (This is an inference \u2014 you were not there when the rock was in a river.)\n- 'The water is cold because it came from the refrigerator.' (This is an inference \u2014 you did not see it come out of the fridge, you are guessing based on what you know.)\n- 'The dog is barking because someone is at the door.' (This is an inference \u2014 you cannot be certain why the dog barked.)\n\n## The Key Difference\n\n| Observation | Inference |\n|-------------|----------|\n| Based on your senses | Based on thinking about observations |\n| A fact about what you notice | An explanation or conclusion |\n| 'The sky is gray' | 'It is going to rain' |\n| 'The leaf is wet' | 'It rained recently' |\n\n**Remember:** An inference might be wrong! More observations can help you decide if your inference is a good one.",
+    "worked_example_md": "## Worked Example\n\n**Situation:** You find a bird nest on the ground under a tree. The nest has broken eggshells in it.\n\n**Observations (senses):**\n- The nest is made of small sticks and dried grass.\n- There are three small, cracked blue eggshells inside.\n- The nest is on the ground.\n- The sticks feel dry.\n\n**Inferences (thinking about what the observations mean):**\n- The baby birds probably hatched and left the nest. (This explains the broken shells.)\n- The nest may have fallen from the tree. (Nests are usually up in trees, not on the ground.)\n- The nest has been there a while. (The dry sticks suggest it has not been rained on recently, OR it has dried out.)\n\n**Why this matters:** The observations are facts \u2014 you can confirm them with your senses. The inferences are your best explanations \u2014 they could be right or wrong. More investigation (like looking up in the tree) could check the inference about falling from the tree.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is an **observation**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The rock is probably from a volcano",
+          "correct": false,
+          "explanation": "Probably from a volcano is a conclusion \u2014 you are inferring where it came from."
+        },
+        {
+          "id": "b",
+          "label": "The rock is black and shiny",
+          "correct": true,
+          "explanation": "Black and shiny describes what your eyes tell you right now \u2014 that is an observation."
+        },
+        {
+          "id": "c",
+          "label": "The rock must be very old",
+          "correct": false,
+          "explanation": "'Must be old' is an inference \u2014 you cannot see how old a rock is with your eyes."
+        },
+        {
+          "id": "d",
+          "label": "The rock was formed underground",
+          "correct": false,
+          "explanation": "How the rock formed is a conclusion \u2014 you were not there when it formed."
+        }
+      ],
+      "explanation_md": "An observation uses your senses to describe what you notice right now. 'Black and shiny' is what your eyes tell you \u2014 a direct observation."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is an **inference**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The puddle looks like it is 10 cm wide",
+          "correct": false,
+          "explanation": "Estimating the size of a puddle by looking is an observation."
+        },
+        {
+          "id": "b",
+          "label": "The puddle feels cold when I touch it",
+          "correct": false,
+          "explanation": "Touching and feeling is an observation using your sense of touch."
+        },
+        {
+          "id": "c",
+          "label": "The puddle is probably there because it rained last night",
+          "correct": true,
+          "explanation": "You did not see it rain \u2014 you are concluding this based on what you know about puddles and rain."
+        },
+        {
+          "id": "d",
+          "label": "The puddle has ripples when I drop a pebble in it",
+          "correct": false,
+          "explanation": "Seeing ripples is a direct observation \u2014 you saw it happen."
+        }
+      ],
+      "explanation_md": "An inference is a conclusion based on observations combined with prior knowledge. You did not see the rain \u2014 you inferred it happened because a puddle appeared."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Rosa sees footprints in the mud and says, 'A dog walked here.' Is this an observation or inference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Observation, because she can see the footprints",
+          "correct": false,
+          "explanation": "Seeing the footprints is the observation. The conclusion that a dog made them is not directly seen."
+        },
+        {
+          "id": "b",
+          "label": "Inference, because she did not see the dog walk there \u2014 she is concluding it from the footprints",
+          "correct": true,
+          "explanation": "Rosa sees footprints (observation) and concludes a dog made them (inference). She did not witness the dog walking."
+        },
+        {
+          "id": "c",
+          "label": "Both an observation and inference at the same time",
+          "correct": false,
+          "explanation": "The footprints are the observation; the conclusion about the dog is the inference \u2014 they are separate things."
+        },
+        {
+          "id": "d",
+          "label": "Neither \u2014 it is just a guess with no basis",
+          "correct": false,
+          "explanation": "The inference is based on evidence (the footprints). It is not a random guess \u2014 but it is still an inference."
+        }
+      ],
+      "explanation_md": "Seeing the footprints is the observation. Deciding that a dog made them is an inference \u2014 Rosa did not see it happen. The inference is reasonable but could be wrong (it might be a cat or another animal)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "James sees that the soil around a plant is dry and the plant's leaves are wilting. He says, 'The plant needs water.' Is this an observation or inference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Observation, because he can see the dry soil and droopy leaves",
+          "correct": false,
+          "explanation": "Seeing the dry soil and wilting leaves is the observation. The conclusion that it needs water is the inference."
+        },
+        {
+          "id": "b",
+          "label": "Inference, because he is concluding the plant needs water based on what he sees",
+          "correct": true,
+          "explanation": "The dry soil and wilting leaves are observations. 'Needs water' is a conclusion he drew from those observations."
+        },
+        {
+          "id": "c",
+          "label": "A prediction about what will happen next",
+          "correct": false,
+          "explanation": "A prediction looks to the future. James is explaining the current situation \u2014 that is an inference."
+        },
+        {
+          "id": "d",
+          "label": "A question, because he is not sure",
+          "correct": false,
+          "explanation": "James is not asking \u2014 he is concluding. That makes it an inference, not a question."
+        }
+      ],
+      "explanation_md": "Dry soil and wilting leaves are observations (what James sees). 'The plant needs water' is his inference \u2014 a conclusion he drew based on those observations and his knowledge that plants wilt when dry."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees a bird fly away quickly when she walks near it. She writes: 'The bird was scared of me.' Which part is observation and which is inference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both are observations because she saw the whole thing",
+          "correct": false,
+          "explanation": "She saw the bird fly (observation) but cannot see the bird's feelings \u2014 concluding it was scared is an inference."
+        },
+        {
+          "id": "b",
+          "label": "The bird flying away is the observation; 'scared of me' is the inference",
+          "correct": true,
+          "explanation": "Flying away is what she saw (observation). The reason \u2014 that the bird was scared \u2014 is what she concluded from that action (inference)."
+        },
+        {
+          "id": "c",
+          "label": "Both are inferences because she is not sure",
+          "correct": false,
+          "explanation": "Seeing the bird fly away is a direct sensory observation \u2014 it is not uncertain."
+        },
+        {
+          "id": "d",
+          "label": "Neither \u2014 you cannot study bird behavior",
+          "correct": false,
+          "explanation": "Bird behavior is absolutely a valid subject of scientific study \u2014 it falls within life science."
+        }
+      ],
+      "explanation_md": "The observation is what her eyes saw: the bird flew away. The inference is her conclusion about why: it was scared. She cannot directly observe a bird's feelings \u2014 that is an interpretation."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which observation would BEST help you make an inference about whether a liquid is acidic?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The liquid is blue in color",
+          "correct": false,
+          "explanation": "Color alone does not reliably indicate acidity without additional context."
+        },
+        {
+          "id": "b",
+          "label": "The liquid turns red litmus paper pink",
+          "correct": true,
+          "explanation": "Litmus paper changing to pink/red is a direct observation that provides strong evidence for inferring the liquid is acidic."
+        },
+        {
+          "id": "c",
+          "label": "The liquid feels thick",
+          "correct": false,
+          "explanation": "Thickness (viscosity) does not indicate acidity."
+        },
+        {
+          "id": "d",
+          "label": "The liquid is in a glass bottle",
+          "correct": false,
+          "explanation": "The container tells you nothing about whether the liquid is acidic."
+        }
+      ],
+      "explanation_md": "Litmus paper turning pink is a direct observation using sight. From that observation, you infer the liquid is acidic \u2014 because you know pink litmus means acid."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why might an inference be WRONG even when it is based on real observations?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because observations are always wrong",
+          "correct": false,
+          "explanation": "Observations are direct sensory data \u2014 they are generally reliable. The issue is how we interpret them."
+        },
+        {
+          "id": "b",
+          "label": "Because there may be other explanations for what was observed",
+          "correct": true,
+          "explanation": "An observation can have more than one possible explanation. An inference picks one \u2014 but another explanation might be correct."
+        },
+        {
+          "id": "c",
+          "label": "Because inferences should never be made",
+          "correct": false,
+          "explanation": "Making inferences is a key part of science \u2014 the point is to test them and refine them with more evidence."
+        },
+        {
+          "id": "d",
+          "label": "Because wrong inferences are always based on wrong observations",
+          "correct": false,
+          "explanation": "Even correct observations can lead to wrong inferences if the wrong conclusion is drawn from them."
+        }
+      ],
+      "explanation_md": "An observation can support more than one inference. Those muddy footprints could be from a dog, a cat, or a child with small feet. More evidence is needed to choose the best inference."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student digs up a bone in the backyard. She says: 'I observed a hard, white object about 10 cm long. I infer it is an animal bone, possibly from a dog based on its size and shape.' What makes this a strong scientific statement?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She clearly separated the observation from the inference",
+          "correct": true,
+          "explanation": "Labeling what she directly observed versus what she concluded makes the science communication clear and honest."
+        },
+        {
+          "id": "b",
+          "label": "She used the word 'possibly' which means she is guessing randomly",
+          "correct": false,
+          "explanation": "'Possibly' shows appropriate scientific uncertainty \u2014 this is a strength, not a weakness."
+        },
+        {
+          "id": "c",
+          "label": "She should have said it was definitely a dog bone",
+          "correct": false,
+          "explanation": "Without more evidence, claiming certainty would be unscientific. 'Possibly' is correct."
+        },
+        {
+          "id": "d",
+          "label": "She should not have included the measurement",
+          "correct": false,
+          "explanation": "The measurement (10 cm) is specific evidence that supports her inference about size \u2014 it strengthens the statement."
+        }
+      ],
+      "explanation_md": "Strong scientific statements clearly separate observations (what the senses recorded) from inferences (conclusions drawn from those observations). Using 'possibly' is honest about the uncertainty of the inference."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "You smell something burning when you walk into the kitchen. You have NOT seen anything. What is the BEST thing to do as a scientist?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Immediately tell everyone the stove is on fire (inference without evidence)",
+          "correct": false,
+          "explanation": "Jumping to one conclusion without checking is not scientific \u2014 and could create unnecessary panic."
+        },
+        {
+          "id": "b",
+          "label": "Observe more carefully before concluding \u2014 look around the kitchen to gather more evidence",
+          "correct": true,
+          "explanation": "Gathering more observations before making a firm inference is the scientific approach."
+        },
+        {
+          "id": "c",
+          "label": "Ignore the smell because smell is not a reliable sense",
+          "correct": false,
+          "explanation": "Smell is a valid observational sense \u2014 ignoring it would miss important evidence."
+        },
+        {
+          "id": "d",
+          "label": "Declare it is not a fire because you cannot see any flames",
+          "correct": false,
+          "explanation": "Absence of visible flames does not rule out a fire \u2014 more observation is needed."
+        }
+      ],
+      "explanation_md": "Scientists gather more observations before making a firm conclusion. One sensory observation (smell) supports an inference but more evidence \u2014 looking around \u2014 is needed before concluding what caused it."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist observes that a fossil has long, sharp teeth. She infers the animal was a meat eater. Which piece of additional evidence would BEST support her inference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Finding other fossils of the same color nearby",
+          "correct": false,
+          "explanation": "Color of fossils does not indicate diet \u2014 it is related to the minerals in the rock where they fossilized."
+        },
+        {
+          "id": "b",
+          "label": "Finding fossils of smaller animals with bite marks that match those sharp teeth",
+          "correct": true,
+          "explanation": "Bite marks from those teeth on prey animals would directly support the inference that this animal ate meat."
+        },
+        {
+          "id": "c",
+          "label": "Noticing the fossil is larger than other fossils",
+          "correct": false,
+          "explanation": "Size alone does not confirm diet \u2014 some large animals eat only plants (like elephants)."
+        },
+        {
+          "id": "d",
+          "label": "Confirming that the rock layer where it was found is old",
+          "correct": false,
+          "explanation": "Age of the rock layer tells when the animal lived, not what it ate."
+        }
+      ],
+      "explanation_md": "The best evidence for a meat-eating inference is direct physical evidence of predation \u2014 bite marks on prey fossils matching those sharp teeth would strongly confirm the inference."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Alex says: 'The apple feels smooth and cool, and it smells sweet.' Then he says: 'It is probably ripe.' Which part is the **inference**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It feels smooth and cool",
+          "correct": false,
+          "explanation": "Smooth and cool are what his sense of touch detected \u2014 those are observations."
+        },
+        {
+          "id": "b",
+          "label": "It is probably ripe",
+          "correct": true,
+          "explanation": "Ripeness is a conclusion he drew from the observations of smoothness, coolness, and sweet smell \u2014 that is an inference."
+        },
+        {
+          "id": "c",
+          "label": "It smells sweet",
+          "correct": false,
+          "explanation": "Smelling sweetness is a direct sensory observation."
+        },
+        {
+          "id": "d",
+          "label": "All of these are inferences",
+          "correct": false,
+          "explanation": "The smooth, cool, and sweet-smelling descriptions are all observations. Only 'probably ripe' is the inference."
+        }
+      ],
+      "explanation_md": "Smooth, cool, and sweet-smelling are all things Alex's senses detected directly \u2014 observations. 'Probably ripe' is the conclusion he drew from those observations \u2014 an inference."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'I hear thunder, so there is definitely lightning far away.' Which problem does this statement have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Thunder is not a real observation",
+          "correct": false,
+          "explanation": "Hearing thunder is a real observation using the sense of hearing."
+        },
+        {
+          "id": "b",
+          "label": "The word 'definitely' is too strong for an inference \u2014 the student should say 'likely' or 'probably'",
+          "correct": true,
+          "explanation": "Thunder usually comes with lightning, but saying 'definitely' claims certainty that is not fully supported. 'Probably' or 'likely' is more scientifically honest."
+        },
+        {
+          "id": "c",
+          "label": "You cannot infer lightning from thunder",
+          "correct": false,
+          "explanation": "Thunder and lightning are directly connected \u2014 inferring lightning from thunder is a valid and common inference."
+        },
+        {
+          "id": "d",
+          "label": "Hearing is not one of the five senses",
+          "correct": false,
+          "explanation": "Hearing is absolutely one of the five senses used for observation in science."
+        }
+      ],
+      "explanation_md": "Thunder and lightning are strongly connected, making this a good inference. But 'definitely' claims too much certainty. Scientific inferences use words like 'probably,' 'likely,' or 'appears to be' to reflect that inferences can be wrong."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student observes that a plant's leaves are yellow. She infers that the plant is not getting enough sunlight. Could there be another explanation for the yellow leaves?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No \u2014 yellow leaves only mean one thing",
+          "correct": false,
+          "explanation": "Yellow leaves can have multiple causes, which is why an inference may not be the only correct explanation."
+        },
+        {
+          "id": "b",
+          "label": "Yes \u2014 yellow leaves could also be caused by too little water or disease",
+          "correct": true,
+          "explanation": "Yellow leaves (called chlorosis) can result from lack of sunlight, lack of water, nutrient deficiency, or disease \u2014 multiple inferences are possible."
+        },
+        {
+          "id": "c",
+          "label": "No \u2014 inferences are always correct",
+          "correct": false,
+          "explanation": "Inferences are conclusions based on evidence \u2014 they can be wrong and should always be tested."
+        },
+        {
+          "id": "d",
+          "label": "Yes \u2014 the leaves are yellow because they are a new variety of plant",
+          "correct": false,
+          "explanation": "While possible, this is not as well-supported as the other explanations \u2014 lack of sunlight, water, or disease are more common causes."
+        }
+      ],
+      "explanation_md": "Multiple inferences are often possible from one observation. Yellow leaves can indicate insufficient sunlight, water problems, or disease. Gathering more observations (checking soil moisture, looking for spots, moving the plant to sunlight) would help narrow down the inference."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sense do you use when you say 'The sand feels warm'?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sight",
+          "correct": false,
+          "explanation": "Sight tells you what something looks like, not how it feels."
+        },
+        {
+          "id": "b",
+          "label": "Touch",
+          "correct": true,
+          "explanation": "Feeling warmth is detected by your sense of touch."
+        },
+        {
+          "id": "c",
+          "label": "Hearing",
+          "correct": false,
+          "explanation": "Hearing tells you about sounds, not temperature."
+        },
+        {
+          "id": "d",
+          "label": "Smell",
+          "correct": false,
+          "explanation": "Smell tells you about odors, not temperature."
+        }
+      ],
+      "explanation_md": "Your sense of touch (skin) detects temperature, texture, and pressure. 'The sand feels warm' is an observation made with your sense of touch."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You see wet shoes by the door. You think someone was outside in the rain. Is your thought an observation or inference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Observation, because you can see the shoes",
+          "correct": false,
+          "explanation": "Seeing the wet shoes is the observation. Thinking someone was in the rain is your conclusion \u2014 an inference."
+        },
+        {
+          "id": "b",
+          "label": "Inference, because you are concluding something you did not see happen",
+          "correct": true,
+          "explanation": "You did not see anyone go outside in the rain \u2014 you are concluding it based on the wet shoes. That is an inference."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 wet shoes do not tell you anything",
+          "correct": false,
+          "explanation": "Wet shoes are evidence that leads to a reasonable inference about rain or water."
+        },
+        {
+          "id": "d",
+          "label": "Both, because observations and inferences are the same thing",
+          "correct": false,
+          "explanation": "Observations and inferences are different \u2014 observations use your senses; inferences are conclusions you draw from them."
+        }
+      ],
+      "explanation_md": "Seeing the wet shoes is the observation. Concluding someone was in the rain is the inference \u2014 you did not see it happen, you reasoned it out."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is an observation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A guess about what might happen",
+          "correct": false,
+          "explanation": "A guess about what might happen is a prediction, not an observation."
+        },
+        {
+          "id": "b",
+          "label": "Something you notice using your five senses",
+          "correct": true,
+          "explanation": "An observation is information gathered through your senses \u2014 sight, hearing, touch, smell, or taste."
+        },
+        {
+          "id": "c",
+          "label": "A conclusion you make from evidence",
+          "correct": false,
+          "explanation": "A conclusion from evidence is an inference, not an observation."
+        },
+        {
+          "id": "d",
+          "label": "A question you want to investigate",
+          "correct": false,
+          "explanation": "A question is the starting point of an investigation, not an observation."
+        }
+      ],
+      "explanation_md": "An observation uses one or more of your five senses to notice something about the world around you right now."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an observation you could make about a flower?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The flower has been growing for three weeks",
+          "correct": false,
+          "explanation": "How long the flower has been growing is a conclusion \u2014 you would need records over time to know this."
+        },
+        {
+          "id": "b",
+          "label": "The flower smells like lemons",
+          "correct": true,
+          "explanation": "Smelling a lemon scent is a direct observation using your sense of smell."
+        },
+        {
+          "id": "c",
+          "label": "The flower probably blooms every spring",
+          "correct": false,
+          "explanation": "'Probably blooms every spring' is an inference about a pattern, not an observation of right now."
+        },
+        {
+          "id": "d",
+          "label": "The flower is good for bees",
+          "correct": false,
+          "explanation": "Whether a flower is good for bees is a conclusion \u2014 not a direct sensory observation."
+        }
+      ],
+      "explanation_md": "Smelling the flower and detecting a lemon scent is a direct observation using your sense of smell. It is about what you notice right now, not a conclusion."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why should scientists be careful to separate observations from inferences when reporting their findings?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because observations are always more important than inferences",
+          "correct": false,
+          "explanation": "Both are important \u2014 observations are the evidence, inferences are the explanation. Neither is automatically more important."
+        },
+        {
+          "id": "b",
+          "label": "So readers know which parts are what was seen and which parts are conclusions that could be wrong",
+          "correct": true,
+          "explanation": "Separating them makes science honest and clear \u2014 readers can check the observations themselves and decide if they agree with the inferences."
+        },
+        {
+          "id": "c",
+          "label": "Because inferences are never based on real evidence",
+          "correct": false,
+          "explanation": "Good inferences are based on real observations \u2014 the distinction is between direct evidence and conclusions drawn from it."
+        },
+        {
+          "id": "d",
+          "label": "Because teachers require it for grades",
+          "correct": false,
+          "explanation": "The scientific reason is honesty and clarity \u2014 not just for school."
+        }
+      ],
+      "explanation_md": "Separating observations from inferences is honest science. It lets others check whether the observations are accurate and whether the conclusions drawn from them make sense."
+    }
+  ]
+}
