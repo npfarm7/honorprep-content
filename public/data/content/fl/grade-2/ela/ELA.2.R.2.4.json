@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.R.2.4",
+  "benchmark_description": "Identify and explain the text structure an author uses and how that structure helps the reader understand the text, including description, sequence, compare and contrast, cause and effect, and problem and solution.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Text Structure: How Authors Organize Information",
+    "intro": "When authors write nonfiction texts, they organize their ideas in patterns called text structures. Knowing the structure helps you understand what you are reading and find information more easily.",
+    "body_md": "## The 5 Main Text Structures\n\n### 1. Description\nThe author describes features or characteristics of something.\n\nSignal words: for example, such as, including, characteristics\n\nExample: The blue whale is the largest animal on Earth. It can be up to 100 feet long.\n\n### 2. Sequence\nThe author presents events or steps in time order.\n\nSignal words: first, next, then, after, last, finally\n\nExample: First, the egg hatches. Next, the caterpillar eats. Then it forms a chrysalis. Finally, a butterfly emerges.\n\n### 3. Compare and Contrast\nThe author shows how two or more things are alike and different.\n\nSignal words: both, also, similarly, however, but, while, unlike\n\nExample: Frogs and toads are both amphibians. However, frogs have smooth skin, while toads have bumpy skin.\n\n### 4. Cause and Effect\nThe author explains why something happened and what resulted.\n\nSignal words: because, so, as a result, therefore, which caused, led to\n\nExample: It did not rain for weeks. As a result, the plants began to die.\n\n### 5. Problem and Solution\nThe author presents a problem and explains how it was solved.\n\nSignal words: problem, solution, one way to fix, as a result\n\nExample: Oil spills harm sea birds. One solution is to clean the birds and release them back into the wild.",
+    "worked_example_md": "## Worked Example\n\nPassage: The town had a flooding problem every spring. Rainwater had nowhere to go because trees had been cut down. Local leaders found a solution: they planted thousands of new trees along the river. Because of this, the flooding became much less severe.\n\nIdentify the structure by looking for signal words:\n- 'problem' - yes!\n- 'solution' - yes!\n- 'because of this' - cause/effect within the solution\n\nText structure: Problem and solution (with cause/effect blended in)\n\nHow does knowing this help? You can quickly find: (1) the problem (flooding), (2) the cause (no trees), (3) the solution (plant trees), and (4) the result (less flooding).",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which signal words tell you a text uses **sequence** structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "because, as a result",
+          "correct": false,
+          "explanation": "These signal cause and effect."
+        },
+        {
+          "id": "B",
+          "label": "first, next, then, finally",
+          "correct": true,
+          "explanation": "Correct! These words signal time order - sequence structure."
+        },
+        {
+          "id": "C",
+          "label": "for example, such as",
+          "correct": false,
+          "explanation": "These signal examples are given."
+        },
+        {
+          "id": "D",
+          "label": "both, however",
+          "correct": false,
+          "explanation": "These signal comparison."
+        }
+      ],
+      "explanation_md": "Sequence signal words: first, next, then, last, finally. They show steps or events in time order."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A passage explains how frogs and toads are alike and different. What text structure does it use?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Cause and effect",
+          "correct": false,
+          "explanation": "Cause and effect explains why things happen."
+        },
+        {
+          "id": "B",
+          "label": "Compare and contrast",
+          "correct": true,
+          "explanation": "Correct! Comparing two animals to find similarities and differences is compare and contrast structure."
+        },
+        {
+          "id": "C",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "Sequence lists events in time order, not comparisons."
+        },
+        {
+          "id": "D",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "Problem and solution tells about a difficulty and how it was fixed."
+        }
+      ],
+      "explanation_md": "Compare and contrast structure shows how two things are alike and different. Signal words: both, also, however, but, while, unlike."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *Many sea turtles get sick from eating plastic bags. People are working to fix this problem. One solution is to use reusable bags.*\n\nWhat text structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "No steps in time order are given."
+        },
+        {
+          "id": "B",
+          "label": "Description",
+          "correct": false,
+          "explanation": "The passage does not mainly describe sea turtle characteristics."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": true,
+          "explanation": "Correct! The passage states a problem (turtles eating plastic) and gives a solution (reusable bags)."
+        },
+        {
+          "id": "D",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "No two things are compared side by side."
+        }
+      ],
+      "explanation_md": "Problem and solution structure: a difficulty is presented and a way to fix it is explained. Signal words: problem, solution, one way to fix."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *Forests are cut down to make room for farms. Because of this, many animals lose their homes. As a result, some animals become endangered.*\n\nWhat structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "The passage does not compare two things."
+        },
+        {
+          "id": "B",
+          "label": "Cause and effect",
+          "correct": true,
+          "explanation": "Correct! 'Because of this' and 'as a result' are cause-and-effect signal words."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "The passage explains why things happen, not how to fix a problem."
+        },
+        {
+          "id": "D",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "No steps in order are described."
+        }
+      ],
+      "explanation_md": "Cause and effect: 'because of this' and 'as a result' show why things happen. Cutting forests causes animals to lose homes."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *Butterflies go through four stages. First, a female lays an egg. Next, a caterpillar hatches. Then, it forms a chrysalis. Finally, a butterfly emerges.*\n\nWhat structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Description",
+          "correct": false,
+          "explanation": "Description tells characteristics. This passage lists events in order."
+        },
+        {
+          "id": "B",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "No two things are compared."
+        },
+        {
+          "id": "C",
+          "label": "Sequence",
+          "correct": true,
+          "explanation": "Correct! First, next, then, finally signal sequence - steps in time order."
+        },
+        {
+          "id": "D",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "No problem is being solved."
+        }
+      ],
+      "explanation_md": "Sequence: first, next, then, finally signal time order. The butterfly life cycle is presented in sequence."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which signal words suggest **cause and effect** structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "First, then, next, finally",
+          "correct": false,
+          "explanation": "These are sequence signal words."
+        },
+        {
+          "id": "B",
+          "label": "Both, also, similarly",
+          "correct": false,
+          "explanation": "These are comparison signal words."
+        },
+        {
+          "id": "C",
+          "label": "Because, as a result, therefore, so",
+          "correct": true,
+          "explanation": "Correct! These signal why things happen."
+        },
+        {
+          "id": "D",
+          "label": "For example, such as",
+          "correct": false,
+          "explanation": "These signal examples."
+        }
+      ],
+      "explanation_md": "Cause and effect signal words: because, as a result, therefore, so, which caused, led to."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The Amazon rainforest is very hot and wet. It is home to millions of plants and animals. Many trees are hundreds of feet tall.*\n\nWhat structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "No time order or steps are given."
+        },
+        {
+          "id": "B",
+          "label": "Description",
+          "correct": true,
+          "explanation": "Correct! The passage describes the rainforest's characteristics."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "No problem is presented."
+        },
+        {
+          "id": "D",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "Only one thing is described, not two things compared."
+        }
+      ],
+      "explanation_md": "Description structure tells what something is like by giving its features and characteristics."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads a passage about why volcanoes erupt. What is the FIRST thing she should do to identify text structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Look at the pictures",
+          "correct": false,
+          "explanation": "Looking for signal words in the text is more reliable."
+        },
+        {
+          "id": "B",
+          "label": "Look for signal words like because, as a result",
+          "correct": true,
+          "explanation": "Correct! Signal words are the fastest way to identify text structure."
+        },
+        {
+          "id": "C",
+          "label": "Count the paragraphs",
+          "correct": false,
+          "explanation": "Paragraph count does not reveal text structure."
+        },
+        {
+          "id": "D",
+          "label": "Read only the title",
+          "correct": false,
+          "explanation": "Titles give topic clues but not always structure clues."
+        }
+      ],
+      "explanation_md": "Check for signal words: sequence (first, next), compare/contrast (both, however), cause/effect (because, as a result), problem/solution (problem, solution)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A chapter is titled 'Sharks vs. Dolphins: What's the Difference?' What structure will it MOST LIKELY use?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "'Vs.' and 'difference' suggest comparison, not time order."
+        },
+        {
+          "id": "B",
+          "label": "Compare and contrast",
+          "correct": true,
+          "explanation": "Correct! 'Vs.' and 'What's the Difference?' strongly signal compare and contrast."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "No problem is suggested in the title."
+        },
+        {
+          "id": "D",
+          "label": "Description",
+          "correct": false,
+          "explanation": "The chapter will compare two animals, not just describe one."
+        }
+      ],
+      "explanation_md": "The title signals compare and contrast: 'vs.' (versus) and 'What's the Difference?' indicate comparison."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Passage A: *Many bees are dying. Pesticides and habitat loss are the main causes. Scientists are working on solutions, including creating safe spaces for bees.*\n\nPassage B: *Bees and wasps are both stinging insects. However, bees pollinate flowers, while wasps eat other insects.*\n\nWhich correctly identifies both structures?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A: Compare/contrast; B: Cause/effect",
+          "correct": false,
+          "explanation": "A has a problem and solutions. B compares bees and wasps."
+        },
+        {
+          "id": "B",
+          "label": "A: Problem/solution; B: Compare/contrast",
+          "correct": true,
+          "explanation": "Correct! A presents a problem (bees dying) and solutions. B uses 'both' and 'however...while' to compare."
+        },
+        {
+          "id": "C",
+          "label": "Both use sequence",
+          "correct": false,
+          "explanation": "Neither passage lists events in time order."
+        },
+        {
+          "id": "D",
+          "label": "A: Description; B: Sequence",
+          "correct": false,
+          "explanation": "A is problem/solution; B is compare/contrast."
+        }
+      ],
+      "explanation_md": "Passage A = problem/solution. Passage B = compare/contrast ('both' = similarity; 'however...while' = difference)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A passage about how dogs and wolves are similar and different uses what structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "Sequence shows events in time order."
+        },
+        {
+          "id": "B",
+          "label": "Compare and contrast",
+          "correct": true,
+          "explanation": "Correct! Comparing dogs and wolves is compare and contrast structure."
+        },
+        {
+          "id": "C",
+          "label": "Cause and effect",
+          "correct": false,
+          "explanation": "Cause and effect shows why things happen."
+        },
+        {
+          "id": "D",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "Problem and solution tells about a difficulty and how it was fixed."
+        }
+      ],
+      "explanation_md": "Compare and contrast structure shows how two things are alike and different."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *Too much screen time makes it hard to sleep. Because of this, doctors suggest limiting screen time before bed. One solution is to read a book instead.*\n\nWhat structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "No time-ordered steps are given."
+        },
+        {
+          "id": "B",
+          "label": "Description",
+          "correct": false,
+          "explanation": "No single thing is described in detail."
+        },
+        {
+          "id": "C",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "Two things are not compared."
+        },
+        {
+          "id": "D",
+          "label": "Problem and solution",
+          "correct": true,
+          "explanation": "Correct! Screen time causing poor sleep is the problem; limiting screen time is the solution."
+        }
+      ],
+      "explanation_md": "Problem/solution: screen time (problem causes poor sleep); solution is limiting screen time and reading instead."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which text structure BEST organizes a passage about how to make a sandwich?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "Making a sandwich involves steps, not comparing two things."
+        },
+        {
+          "id": "B",
+          "label": "Sequence",
+          "correct": true,
+          "explanation": "Correct! Steps for making a sandwich follow time order - sequence works best."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "Making a sandwich is a process with steps, not a problem."
+        },
+        {
+          "id": "D",
+          "label": "Cause and effect",
+          "correct": false,
+          "explanation": "Making a sandwich is a series of steps, not a cause-effect explanation."
+        }
+      ],
+      "explanation_md": "Sequence is best for how-to texts and processes with steps in order."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A nonfiction text about how a plant grows uses what structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "Plant growth is a series of steps, not a comparison."
+        },
+        {
+          "id": "B",
+          "label": "Sequence",
+          "correct": true,
+          "explanation": "Correct! Plant growth (seed, sprout, plant) follows time order - sequence."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "Growing is a process, not a problem."
+        },
+        {
+          "id": "D",
+          "label": "Description",
+          "correct": false,
+          "explanation": "Plant growth follows time-ordered steps."
+        }
+      ],
+      "explanation_md": "Sequence structure shows events or steps in time order. Plant growth from seed to sprout to adult follows a sequence."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What signal words tell you that a text uses **compare and contrast** structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "First, next, then, finally",
+          "correct": false,
+          "explanation": "These are sequence signal words."
+        },
+        {
+          "id": "B",
+          "label": "Because, as a result, therefore",
+          "correct": false,
+          "explanation": "These are cause-and-effect signal words."
+        },
+        {
+          "id": "C",
+          "label": "Both, however, while, similarly",
+          "correct": true,
+          "explanation": "Correct! 'Both' signals similarity; 'however' and 'while' signal difference."
+        },
+        {
+          "id": "D",
+          "label": "Problem, solution, one way to fix",
+          "correct": false,
+          "explanation": "These are problem-and-solution signal words."
+        }
+      ],
+      "explanation_md": "Compare and contrast signal words: both, also, similarly (for similarities); however, but, while, unlike (for differences)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A passage says: *Forests were cut down, so many animals lost their homes.* What structure is this?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "'So' shows cause and effect, not time order."
+        },
+        {
+          "id": "B",
+          "label": "Cause and effect",
+          "correct": true,
+          "explanation": "Correct! 'So' is a cause-and-effect signal word. Cutting forests caused animals to lose homes."
+        },
+        {
+          "id": "C",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "No two things are compared."
+        },
+        {
+          "id": "D",
+          "label": "Description",
+          "correct": false,
+          "explanation": "The sentence shows why something happened, not characteristics."
+        }
+      ],
+      "explanation_md": "'So' is a cause-and-effect signal word. Cutting forests (cause) so animals lost homes (effect)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A passage titled 'The Problem with Plastic and How We Can Fix It' MOST LIKELY uses what structure?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "The title mentions a problem and a fix, not steps in time order."
+        },
+        {
+          "id": "B",
+          "label": "Compare and contrast",
+          "correct": false,
+          "explanation": "The title does not compare two things."
+        },
+        {
+          "id": "C",
+          "label": "Problem and solution",
+          "correct": true,
+          "explanation": "Correct! The title directly signals problem and solution structure."
+        },
+        {
+          "id": "D",
+          "label": "Description",
+          "correct": false,
+          "explanation": "The title focuses on a problem and solution."
+        }
+      ],
+      "explanation_md": "The title directly names the text structure: 'Problem... and How We Can Fix It' signals problem and solution."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A passage describes an elephant's size, skin color, long trunk, and large ears. What structure is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sequence",
+          "correct": false,
+          "explanation": "No steps or time order are given."
+        },
+        {
+          "id": "B",
+          "label": "Cause and effect",
+          "correct": false,
+          "explanation": "No cause-and-effect relationship is described."
+        },
+        {
+          "id": "C",
+          "label": "Description",
+          "correct": true,
+          "explanation": "Correct! The passage describes the elephant's characteristics. This is description structure."
+        },
+        {
+          "id": "D",
+          "label": "Problem and solution",
+          "correct": false,
+          "explanation": "No problem is presented."
+        }
+      ],
+      "explanation_md": "Description structure tells what something is like by describing its features and characteristics."
+    }
+  ]
+}
