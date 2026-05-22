@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.C.1.4",
+  "benchmark_description": "Present information orally using complete sentences; speak loudly enough, clearly, and at an understandable pace.",
+  "course": "ela",
+  "strand": "C",
+  "lesson": {
+    "title": "Speaking and Listening: Share Your Ideas Clearly",
+    "intro": "When you speak to a group, you want everyone to understand you. Good speakers use complete sentences, speak loudly enough for all to hear, speak clearly, and go at a pace that is not too fast or too slow. Good listeners look at the speaker and think about what is being said.",
+    "body_md": "## Being a Good Speaker\n\nWhen you share information or ideas out loud, follow these four rules:\n\n### 1. Use Complete Sentences\nA complete sentence has a subject (who or what) and a verb (what they do or are).\n\n- Not a complete sentence: *The dog.*\n- Complete sentence: *The dog ran across the yard.*\n\nWhen you present information, say your idea in a full sentence, not just a word or a phrase.\n\n### 2. Speak Loudly Enough\nThe people in the back of the room need to hear you too! Practice projecting your voice so everyone can hear without straining.\n\nTip: Imagine you are speaking to the person farthest away from you.\n\n### 3. Speak Clearly\nSay each word carefully so that listeners can understand every word. Do not mumble or run words together.\n\nTip: Slow down a little when saying tricky or important words.\n\n### 4. Speak at an Understandable Pace\nDo not rush through your presentation. Do not speak so slowly that listeners get bored. Aim for a steady, comfortable speed.\n\nTip: Pause briefly between ideas so listeners have time to think.\n\n## Being a Good Listener\n\n- Face the speaker and make eye contact.\n- Sit or stand quietly.\n- Think about what the speaker is saying.\n- Wait for your turn to talk.\n- Ask questions if you do not understand.\n\n## Asking and Answering Questions\n\nAfter a presentation, listeners may ask questions. When answering:\n- Listen carefully to the whole question before you answer.\n- Answer in a complete sentence.\n- If you do not know the answer, it is okay to say so politely.",
+    "worked_example_md": "## Worked Example\n\nA student named Marcus is presenting information about penguins to the class.\n\n**Poor example:**\n*Marcus speaks quickly and quietly, looking at the floor: 'Penguins...water...cold...yeah.'*\n\nProblems:\n- Not complete sentences\n- Too quiet\n- Too fast\n- Not looking at the audience\n\n**Strong example:**\n*Marcus faces the class and speaks in a steady, clear voice: 'Penguins are birds that cannot fly. They live in cold places, like Antarctica. They use their flippers to swim very fast in the water.'*\n\nStrengths:\n- Complete sentences (subject + verb in each)\n- Loud and clear voice\n- Steady pace with pauses between ideas\n- Looking at the audience\n\n**Q&A Example:**\nListener: *Do penguins live in hot places?*\nMarcus: *No, penguins live in cold places, especially near Antarctica.*\n\nMarcus answered in a complete sentence and directly addressed the question.",
+    "estimated_minutes": 25
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a **complete sentence** to use when speaking to a group?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The big tree.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no verb. We do not know what the big tree does."
+        },
+        {
+          "id": "B",
+          "label": "Running fast.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no subject. We do not know who is running."
+        },
+        {
+          "id": "C",
+          "label": "Frogs eat insects.",
+          "correct": true,
+          "explanation": "Correct! This is a complete sentence. 'Frogs' is the subject, and 'eat' is the verb."
+        },
+        {
+          "id": "D",
+          "label": "Very cold water.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no subject or verb."
+        }
+      ],
+      "explanation_md": "A complete sentence has a subject (who or what) and a verb (what they do or are). 'Frogs eat insects' has both: 'Frogs' (subject) and 'eat' (verb)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to speak **loudly enough** when presenting to your class?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "So the teacher thinks you are excited",
+          "correct": false,
+          "explanation": "Volume is about communication, not showing excitement."
+        },
+        {
+          "id": "B",
+          "label": "So everyone in the room can hear you",
+          "correct": true,
+          "explanation": "Correct! If you speak too softly, people far away cannot hear your information."
+        },
+        {
+          "id": "C",
+          "label": "So you finish your presentation faster",
+          "correct": false,
+          "explanation": "Loudness does not change how fast you finish speaking."
+        },
+        {
+          "id": "D",
+          "label": "So you do not have to use complete sentences",
+          "correct": false,
+          "explanation": "You always need to use complete sentences when presenting, regardless of your volume."
+        }
+      ],
+      "explanation_md": "Good speakers project their voices so that everyone in the room - including students in the back - can hear the presentation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Anna is giving a presentation. She speaks very fast and rushes through all her ideas without pausing. What should she do differently?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Speak even faster so she finishes sooner",
+          "correct": false,
+          "explanation": "Speaking even faster makes it harder to understand. Listeners need time to process ideas."
+        },
+        {
+          "id": "B",
+          "label": "Slow down to a comfortable pace and pause between ideas",
+          "correct": true,
+          "explanation": "Correct! Slowing down and pausing between ideas gives listeners time to understand and think."
+        },
+        {
+          "id": "C",
+          "label": "Whisper so she does not bother anyone",
+          "correct": false,
+          "explanation": "Whispering makes it even harder for listeners to understand her."
+        },
+        {
+          "id": "D",
+          "label": "Only say one word at a time with a long pause between words",
+          "correct": false,
+          "explanation": "Speaking too slowly is also a problem. The goal is a comfortable, steady pace."
+        }
+      ],
+      "explanation_md": "A good pace is steady and comfortable - not too fast and not too slow. Pausing between ideas helps listeners keep up."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A classmate asks you: *What is your favorite book?*\n\nWhich answer uses a complete sentence?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Charlotte's Web.",
+          "correct": false,
+          "explanation": "This is only the title. It is not a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "It is.",
+          "correct": false,
+          "explanation": "This has a subject and verb but does not answer the question."
+        },
+        {
+          "id": "C",
+          "label": "My favorite book is Charlotte's Web because the spider is so clever.",
+          "correct": true,
+          "explanation": "Correct! This is a complete sentence that answers the question with a subject, verb, and detail."
+        },
+        {
+          "id": "D",
+          "label": "Books are good.",
+          "correct": false,
+          "explanation": "This does not answer the question about a favorite book specifically."
+        }
+      ],
+      "explanation_md": "When answering questions, use a complete sentence that directly answers what was asked. Include a subject and verb, and address the specific question."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which describes a **good listener** during a classmate's presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Talking to a friend about something else",
+          "correct": false,
+          "explanation": "Talking during a presentation is distracting to the speaker and other listeners."
+        },
+        {
+          "id": "B",
+          "label": "Looking at the speaker and thinking about what is being said",
+          "correct": true,
+          "explanation": "Correct! Good listeners face the speaker, make eye contact, and focus on what is being said."
+        },
+        {
+          "id": "C",
+          "label": "Drawing pictures while the speaker talks",
+          "correct": false,
+          "explanation": "Drawing during a presentation shows you are not paying attention to the speaker."
+        },
+        {
+          "id": "D",
+          "label": "Looking out the window and waiting for recess",
+          "correct": false,
+          "explanation": "Looking away shows you are not listening. Good listeners face the speaker."
+        }
+      ],
+      "explanation_md": "Good listeners look at the speaker, sit quietly, and focus on what is being said. This helps them understand and shows respect for the speaker."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Leo is presenting facts about bears. He mumbles and does not say words clearly. What is the MAIN problem with his presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He is speaking too loudly",
+          "correct": false,
+          "explanation": "Mumbling means the opposite - the words are not clear, often because the voice is too soft or run together."
+        },
+        {
+          "id": "B",
+          "label": "Listeners cannot understand his words clearly",
+          "correct": true,
+          "explanation": "Correct! Mumbling makes words hard to understand. Good speakers say each word clearly."
+        },
+        {
+          "id": "C",
+          "label": "He is speaking in complete sentences",
+          "correct": false,
+          "explanation": "Speaking in complete sentences is a good thing, not a problem."
+        },
+        {
+          "id": "D",
+          "label": "He knows too many facts about bears",
+          "correct": false,
+          "explanation": "Knowing many facts is helpful for a presentation. The problem is how he is saying the words."
+        }
+      ],
+      "explanation_md": "Mumbling makes it hard for listeners to understand. Good speakers say each word carefully and clearly so everyone can follow along."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence starter is BEST to use when answering a question from a classmate during a presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Um, well, I think maybe...",
+          "correct": false,
+          "explanation": "This filler language makes the answer hard to follow and does not form a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "Yes, because...",
+          "correct": false,
+          "explanation": "This could work but is incomplete. A complete sentence needs a subject and verb after it."
+        },
+        {
+          "id": "C",
+          "label": "The answer to your question is...",
+          "correct": true,
+          "explanation": "Correct! This opener signals a focused, complete response is coming and addresses the question directly."
+        },
+        {
+          "id": "D",
+          "label": "I don't know, ask someone else.",
+          "correct": false,
+          "explanation": "It is fine not to know an answer, but this response is rude. Say politely: 'I am not sure, but I can find out.'"
+        }
+      ],
+      "explanation_md": "When answering questions during a presentation, begin with a clear sentence starter, then give your answer. If you do not know, say so politely."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two presentations on the same topic. Which one follows all four speaking rules?\n\n**Speaker A:** *Butterfly. Wings. Pretty. Flying.*\n\n**Speaker B:** *Butterflies have four wings covered in tiny scales. They fly from flower to flower to collect nectar.*",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Speaker A - shorter is always better",
+          "correct": false,
+          "explanation": "Speaker A only uses single words. These are not complete sentences."
+        },
+        {
+          "id": "B",
+          "label": "Speaker B - complete sentences with clear information",
+          "correct": true,
+          "explanation": "Correct! Speaker B uses complete sentences with subjects and verbs. This follows the rules for clear oral presentation."
+        },
+        {
+          "id": "C",
+          "label": "Both speakers follow all four rules",
+          "correct": false,
+          "explanation": "Speaker A does not use complete sentences, which is one of the four rules."
+        },
+        {
+          "id": "D",
+          "label": "Neither speaker follows the rules",
+          "correct": false,
+          "explanation": "Speaker B uses complete sentences and gives clear, organized information - following the rules."
+        }
+      ],
+      "explanation_md": "Speaker B uses complete sentences and clear information. Speaker A uses only fragments (words without subjects or verbs), which violates the complete-sentence rule."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student asks a question during a presentation but interrupts the speaker before the speaker is finished. What should the student have done instead?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Never ask questions at all",
+          "correct": false,
+          "explanation": "Asking questions is a good listening strategy. The problem is the timing."
+        },
+        {
+          "id": "B",
+          "label": "Wait until the speaker is finished, then raise a hand to ask the question",
+          "correct": true,
+          "explanation": "Correct! Good listeners wait for the right time - usually after the speaker is done or when invited to ask questions."
+        },
+        {
+          "id": "C",
+          "label": "Ask the question in a very loud voice so the speaker stops",
+          "correct": false,
+          "explanation": "This is rude. Interrupting the speaker is not respectful."
+        },
+        {
+          "id": "D",
+          "label": "Whisper the question to a neighbor instead",
+          "correct": false,
+          "explanation": "Whispering during a presentation is distracting to the speaker and nearby students."
+        }
+      ],
+      "explanation_md": "Good listeners wait until the speaker has finished (or until they are invited to ask questions) before raising their hand. Interrupting is not respectful."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Maya is presenting about ocean animals. She has great information, but she stares at her paper the whole time, speaks in a very flat, quiet voice, and rushes through her notes. She wants to improve. What is the MOST important thing she should practice FIRST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Adding more facts to her presentation",
+          "correct": false,
+          "explanation": "She already has great information. The problem is her delivery, not the content."
+        },
+        {
+          "id": "B",
+          "label": "Looking up at her audience and speaking loudly enough for everyone to hear",
+          "correct": true,
+          "explanation": "Correct! Eye contact and volume are foundational delivery skills. Once those are stronger, she can work on pace and expression."
+        },
+        {
+          "id": "C",
+          "label": "Writing a completely new presentation",
+          "correct": false,
+          "explanation": "The content is fine. She needs to work on how she delivers it."
+        },
+        {
+          "id": "D",
+          "label": "Memorizing every single word so she never needs her notes",
+          "correct": false,
+          "explanation": "Using notes is perfectly fine. The issue is delivery skills like volume, pace, and eye contact."
+        }
+      ],
+      "explanation_md": "When a speaker has multiple delivery issues, starting with the most fundamental skills (eye contact and volume) makes the biggest difference. Other improvements can build from there."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a complete sentence that a student could use when presenting?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Oceans and fish.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no verb."
+        },
+        {
+          "id": "B",
+          "label": "Swam quickly.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no subject - we do not know who swam."
+        },
+        {
+          "id": "C",
+          "label": "Dolphins are very intelligent animals.",
+          "correct": true,
+          "explanation": "Correct! 'Dolphins' is the subject and 'are' is the verb. This is a complete sentence."
+        },
+        {
+          "id": "D",
+          "label": "The blue ocean.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no verb."
+        }
+      ],
+      "explanation_md": "A complete sentence has a subject and a verb. 'Dolphins are very intelligent animals' has both: 'Dolphins' (subject) and 'are' (verb)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which describes a POOR speaking habit during a presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Looking at the audience",
+          "correct": false,
+          "explanation": "Looking at the audience is a good speaking habit."
+        },
+        {
+          "id": "B",
+          "label": "Speaking clearly so every word can be understood",
+          "correct": false,
+          "explanation": "Speaking clearly is a good speaking habit."
+        },
+        {
+          "id": "C",
+          "label": "Pausing between ideas to give listeners time to think",
+          "correct": false,
+          "explanation": "Pausing between ideas is a good speaking habit."
+        },
+        {
+          "id": "D",
+          "label": "Speaking so fast that listeners cannot follow along",
+          "correct": true,
+          "explanation": "Correct! Speaking too fast is a poor habit. Listeners cannot process information that comes too quickly."
+        }
+      ],
+      "explanation_md": "Good speakers use a steady, comfortable pace so listeners can follow along. Speaking too fast is a poor speaking habit."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "After a classmate's presentation about weather, you have a question. What should you do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Shout your question while the speaker is still talking",
+          "correct": false,
+          "explanation": "Interrupting is rude and shows you are not a good listener."
+        },
+        {
+          "id": "B",
+          "label": "Wait until the presentation is over, raise your hand, and ask using a complete sentence",
+          "correct": true,
+          "explanation": "Correct! Wait for the right time, raise your hand, and ask clearly in a complete sentence."
+        },
+        {
+          "id": "C",
+          "label": "Decide not to ask the question because you do not want to look confused",
+          "correct": false,
+          "explanation": "Asking questions shows you were listening! Good listeners ask questions to understand better."
+        },
+        {
+          "id": "D",
+          "label": "Ask your neighbor the question during the presentation",
+          "correct": false,
+          "explanation": "Talking during a presentation distracts others and the speaker."
+        }
+      ],
+      "explanation_md": "Good listeners wait for the appropriate time to ask a question (usually after the presentation or when invited), raise their hand, and ask using a complete sentence."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence has BOTH a subject (who) AND a verb (what they do)?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The big red barn.",
+          "correct": false,
+          "explanation": "This has no verb. We do not know what the barn does."
+        },
+        {
+          "id": "B",
+          "label": "Birds fly.",
+          "correct": true,
+          "explanation": "Correct! 'Birds' is the subject (who) and 'fly' is the verb (what they do)."
+        },
+        {
+          "id": "C",
+          "label": "Running in the park.",
+          "correct": false,
+          "explanation": "This has no subject. We do not know who is running."
+        },
+        {
+          "id": "D",
+          "label": "Very sunny day.",
+          "correct": false,
+          "explanation": "This has no subject or verb."
+        }
+      ],
+      "explanation_md": "A complete sentence needs a subject (who or what) and a verb (what they do or are). 'Birds fly' has both."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You are speaking to your class. You should speak loudly enough so that...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Only the teacher can hear you",
+          "correct": false,
+          "explanation": "Everyone in the class should be able to hear you, not just the teacher."
+        },
+        {
+          "id": "B",
+          "label": "Only the students near you can hear you",
+          "correct": false,
+          "explanation": "Everyone in the class - even people far away - should be able to hear you."
+        },
+        {
+          "id": "C",
+          "label": "Everyone in the room can hear you",
+          "correct": true,
+          "explanation": "Correct! Speak loudly enough so every student in the room can hear your words."
+        },
+        {
+          "id": "D",
+          "label": "People in the hallway can hear you",
+          "correct": false,
+          "explanation": "You do not need to shout. The goal is for everyone IN the room to hear - not people outside."
+        }
+      ],
+      "explanation_md": "Project your voice so everyone in the room can hear - from the front to the back of the class."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Kenji is giving a presentation. He speaks very, very fast and does not pause. What should he do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Speak even faster to finish quickly",
+          "correct": false,
+          "explanation": "Speaking faster makes the problem worse. Listeners cannot understand."
+        },
+        {
+          "id": "B",
+          "label": "Slow down and pause between ideas",
+          "correct": true,
+          "explanation": "Correct! Slowing down and pausing gives listeners time to understand each idea."
+        },
+        {
+          "id": "C",
+          "label": "Stop speaking and sit down",
+          "correct": false,
+          "explanation": "He should not stop - he should just slow down and speak more clearly."
+        },
+        {
+          "id": "D",
+          "label": "Speak in a whisper",
+          "correct": false,
+          "explanation": "Whispering makes it even harder to understand. The goal is a clear, steady pace."
+        }
+      ],
+      "explanation_md": "A good speaking pace is steady and comfortable. Slowing down and pausing between ideas helps listeners follow along."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a good listening behavior?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Talking to a friend while someone presents",
+          "correct": false,
+          "explanation": "Talking during a presentation is not respectful and distracts others."
+        },
+        {
+          "id": "B",
+          "label": "Sitting quietly and looking at the speaker",
+          "correct": true,
+          "explanation": "Correct! Good listeners sit quietly, face the speaker, and pay attention."
+        },
+        {
+          "id": "C",
+          "label": "Looking out the window while someone speaks",
+          "correct": false,
+          "explanation": "Looking away shows you are not paying attention to the speaker."
+        },
+        {
+          "id": "D",
+          "label": "Playing with your pencil during the presentation",
+          "correct": false,
+          "explanation": "Playing with objects distracts you and others from the speaker."
+        }
+      ],
+      "explanation_md": "Good listeners sit quietly, face the speaker, and think about what is being said. This shows respect and helps you understand the information."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A classmate finishes their presentation. You have a question. What do you do FIRST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Shout your question right away",
+          "correct": false,
+          "explanation": "Shouting is not respectful. Wait and raise your hand."
+        },
+        {
+          "id": "B",
+          "label": "Raise your hand and wait to be called on",
+          "correct": true,
+          "explanation": "Correct! Raise your hand and wait to be called on before asking your question."
+        },
+        {
+          "id": "C",
+          "label": "Write your question on a piece of paper and hand it in",
+          "correct": false,
+          "explanation": "You can ask your question out loud. Raise your hand and wait to be called on."
+        },
+        {
+          "id": "D",
+          "label": "Decide not to ask because asking questions is rude",
+          "correct": false,
+          "explanation": "Asking questions is a sign of good listening! It is polite when you wait your turn."
+        }
+      ],
+      "explanation_md": "After a presentation, raise your hand and wait to be called on before asking your question. This is respectful to the speaker and other listeners."
+    }
+  ]
+}
