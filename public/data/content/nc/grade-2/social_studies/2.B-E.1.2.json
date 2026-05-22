@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.B-E.1.2",
+  "benchmark_description": "Explain how individuals and groups share and preserve their cultural heritage.",
+  "course": "social_studies",
+  "strand": "BE",
+  "lesson": {
+    "title": "Sharing and Keeping Our Cultural Heritage",
+    "intro": "What special stories does your family tell? What foods do you make every holiday? These are part of your cultural heritage -- the gifts from your family's past. Let us learn how people share and keep these treasures alive!",
+    "body_md": "## What Is Cultural Heritage?\n\n**Cultural heritage** is the traditions, stories, art, food, music, and values passed from older generations to younger ones.\n\nHeritage comes in two forms:\n- **Tangible heritage**: Physical things you can see and touch\n - Old photos, quilts, pottery, buildings, clothing, jewelry, tools\n- **Intangible heritage**: Things that cannot be held but are passed through memory and practice\n - Stories, songs, recipes, dances, languages, celebrations\n\n## How Do Individuals Share and Preserve Heritage?\n\n| Method | Example |\n|---|---|\n| Telling stories | Grandparents share memories of their childhood |\n| Teaching children traditions | Parents teach children how to make a family recipe |\n| Celebrating holidays | Families gather for cultural celebrations each year |\n| Making art and crafts | Teaching children to weave, quilt, or carve |\n| Speaking their language | Families speak their home language at home |\n| Keeping family photos and objects | Saving old letters, photos, and heirlooms |\n\n## How Do Groups Preserve Heritage?\n\n| Method | Example |\n|---|---|\n| Museums | Display artifacts and stories from a culture |\n| Cultural centers | Offer classes and events in traditional arts and language |\n| Community events | Festivals, parades, and cultural fairs |\n| Libraries and archives | Store old books, maps, and historic documents |\n| Historic sites | Old buildings and landmarks that connect to the past |\n| Schools | Teach local and cultural history to young people |\n\n## Why Does Preserving Heritage Matter?\n\n- It connects us to our family and community past\n- It helps us understand who we are and where we come from\n- It gives future generations knowledge of their roots\n- It enriches the whole community with diverse traditions\n\n**Key Words:**\n- **cultural heritage** -- traditions, art, music, stories, and values passed from older to younger generations\n- **preserve** -- to protect something so it is not lost\n- **tangible heritage** -- physical objects from the past (quilts, buildings, tools)\n- **intangible heritage** -- non-physical traditions from the past (songs, stories, recipes)",
+    "worked_example_md": "## Worked Example\n\n**The Johnson Family Heritage**\n\nGrandma Johnson grew up in rural North Carolina. Every Thanksgiving, she teaches her grandchildren to make sweet potato pie from her mother's recipe. She shows them the handmade quilt her great-grandmother sewed. She tells them stories about picking tobacco on the family farm.\n\n**Question:** What cultural heritage is Grandma Johnson preserving? How is she doing it?\n\n**Step 1:** Identify the heritage:\n- Sweet potato pie recipe (intangible -- a tradition)\n- Handmade quilt (tangible -- a physical object)\n- Family stories (intangible -- oral history)\n\n**Step 2:** How is she preserving it?\n- Teaching the recipe by showing her grandchildren how to make it\n- Displaying the quilt and explaining its history\n- Telling stories so the grandchildren remember and can tell them to their children\n\n**Answer:** Grandma Johnson is preserving her family's cultural heritage through teaching (the recipe), showing (the quilt), and telling (the stories). She is making sure the next generation knows and values its roots.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is CULTURAL HERITAGE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Money left to children in a will",
+          "correct": false,
+          "explanation": "Money left in a will is financial inheritance. Cultural heritage refers to traditions, stories, art, and values passed from older to younger generations."
+        },
+        {
+          "id": "b",
+          "label": "Traditions, stories, art, music, and values passed from older generations to younger ones",
+          "correct": true,
+          "explanation": "Cultural heritage is the collection of traditions, stories, art, music, and values that older generations pass down to younger ones -- the cultural gifts of the past."
+        },
+        {
+          "id": "c",
+          "label": "Only the buildings that are more than 100 years old",
+          "correct": false,
+          "explanation": "Old buildings are part of tangible heritage, but cultural heritage is much broader -- it includes stories, recipes, music, and more."
+        },
+        {
+          "id": "d",
+          "label": "Only things that can be seen in a museum",
+          "correct": false,
+          "explanation": "Cultural heritage includes both things in museums and things you cannot see in museums, like recipes, songs, and stories."
+        }
+      ],
+      "explanation_md": "Cultural heritage is the traditions, stories, art, music, and values that older generations pass down to younger ones -- connecting each generation to its past."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of TANGIBLE cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A family story told at bedtime",
+          "correct": false,
+          "explanation": "A story told at bedtime is intangible heritage -- you cannot hold a story in your hands."
+        },
+        {
+          "id": "b",
+          "label": "A handmade quilt passed down from a great-grandmother",
+          "correct": true,
+          "explanation": "A handmade quilt is tangible heritage -- it is a physical object that can be seen, touched, and passed down through generations."
+        },
+        {
+          "id": "c",
+          "label": "A traditional song sung at celebrations",
+          "correct": false,
+          "explanation": "A traditional song is intangible heritage -- it is preserved through memory and practice, not as a physical object."
+        },
+        {
+          "id": "d",
+          "label": "A recipe passed from parent to child",
+          "correct": false,
+          "explanation": "A recipe passed from parent to child is intangible heritage -- it lives in memory and practice, not as a physical object (though a written recipe card would be tangible)."
+        }
+      ],
+      "explanation_md": "A handmade quilt is tangible heritage -- it is a physical object that can be seen, touched, and passed down from generation to generation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Grandma teaches her granddaughter how to make traditional tamales every year. What type of heritage is she passing down?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tangible -- because tamales are food you can eat",
+          "correct": false,
+          "explanation": "The RECIPE and TRADITION of making tamales is intangible heritage -- it is knowledge and practice passed through teaching, not a physical object."
+        },
+        {
+          "id": "b",
+          "label": "Intangible -- because the recipe and tradition of making tamales is knowledge passed through practice",
+          "correct": true,
+          "explanation": "The tradition of making tamales -- the recipe, the technique, the family gathering -- is intangible heritage. It is preserved through teaching and practice, not as a physical object."
+        },
+        {
+          "id": "c",
+          "label": "Neither -- food is not considered cultural heritage",
+          "correct": false,
+          "explanation": "Food traditions are absolutely part of cultural heritage. Recipes and the traditions around preparing them are intangible cultural heritage."
+        },
+        {
+          "id": "d",
+          "label": "Government heritage -- because the government controls what food is made",
+          "correct": false,
+          "explanation": "The government does not control family recipes. Tamale-making traditions are family and cultural heritage passed from generation to generation."
+        }
+      ],
+      "explanation_md": "The tradition of making tamales -- the recipe, the technique, the gathering -- is intangible heritage. It is preserved through teaching and practice, passed from generation to generation."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A community builds a museum of local history to display old photographs, tools, and clothing from 100 years ago. What is the PURPOSE of this museum?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To make money for the city government",
+          "correct": false,
+          "explanation": "While some museums charge admission, their primary purpose is preserving and sharing cultural heritage -- not primarily generating revenue."
+        },
+        {
+          "id": "b",
+          "label": "To preserve and share the community's cultural heritage so people can learn about their history",
+          "correct": true,
+          "explanation": "A local history museum preserves tangible heritage (photographs, tools, clothing) and makes it available for people to see and learn from. This helps the community understand its past."
+        },
+        {
+          "id": "c",
+          "label": "To collect old objects that people no longer want",
+          "correct": false,
+          "explanation": "Museums do collect objects, but the purpose is to preserve heritage and educate the public -- not simply to store unwanted items."
+        },
+        {
+          "id": "d",
+          "label": "To show that life was better 100 years ago",
+          "correct": false,
+          "explanation": "Museums present the past to help people understand it -- not to judge whether it was better or worse than today."
+        }
+      ],
+      "explanation_md": "A local history museum preserves tangible heritage and makes it available for learning. People can see objects from the past and understand how the community developed over time."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to PRESERVE cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So that every generation lives exactly like their grandparents",
+          "correct": false,
+          "explanation": "Preserving heritage does not mean living exactly like past generations. It means maintaining a connection to the past and understanding where traditions come from."
+        },
+        {
+          "id": "b",
+          "label": "So that future generations can connect to their roots and understand their identity and history",
+          "correct": true,
+          "explanation": "Preserving cultural heritage helps future generations understand who they are, where they come from, and what traditions shaped their community. Without preservation, this knowledge can be lost forever."
+        },
+        {
+          "id": "c",
+          "label": "Because only old things have value",
+          "correct": false,
+          "explanation": "Heritage is valuable because of what it teaches and the connection it provides -- not simply because it is old."
+        },
+        {
+          "id": "d",
+          "label": "So that we never have to create anything new",
+          "correct": false,
+          "explanation": "Preserving heritage does not stop communities from creating new things. Old and new can both be valued -- preservation honors the past while allowing communities to grow."
+        }
+      ],
+      "explanation_md": "Preserving cultural heritage helps future generations connect to their roots, understand their identity, and honor the traditions of those who came before them."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An older community member visits a school to teach children traditional basket weaving. How does this help PRESERVE cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It does not help -- only museums can preserve heritage",
+          "correct": false,
+          "explanation": "Heritage can be preserved in many ways -- teaching is one of the most powerful. Museums are just one method."
+        },
+        {
+          "id": "b",
+          "label": "It teaches children a traditional skill so they can practice and pass it on to future generations",
+          "correct": true,
+          "explanation": "When an older person teaches a traditional skill to children, those children can practice the skill, share it with others, and eventually teach it to their own children. This keeps the tradition alive."
+        },
+        {
+          "id": "c",
+          "label": "It shows children that their culture is not important",
+          "correct": false,
+          "explanation": "A community elder sharing traditional skills shows children that their culture IS important and worth preserving."
+        },
+        {
+          "id": "d",
+          "label": "It only helps the teacher -- the children do not benefit",
+          "correct": false,
+          "explanation": "Both the teacher and the children benefit. Children gain knowledge of a traditional skill and a connection to their heritage. The teacher sees the tradition continue."
+        }
+      ],
+      "explanation_md": "Teaching traditional basket weaving to children preserves the skill and the tradition. When children learn it, they can practice it, share it, and eventually teach it to future generations -- keeping the heritage alive."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of a community PRESERVING its cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A town tears down its oldest historic building to build a parking lot",
+          "correct": false,
+          "explanation": "Tearing down a historic building destroys tangible heritage. Preservation means protecting, not destroying, cultural artifacts and places."
+        },
+        {
+          "id": "b",
+          "label": "A community holds an annual cultural festival where traditional music, dance, and food are shared",
+          "correct": true,
+          "explanation": "An annual cultural festival where traditional music, dance, and food are shared is a powerful way to preserve and pass on cultural heritage. Each year, new people experience the traditions and learn to appreciate them."
+        },
+        {
+          "id": "c",
+          "label": "A family throws away all old photographs because they take up space",
+          "correct": false,
+          "explanation": "Old photographs are tangible heritage. Throwing them away destroys irreplaceable records of family history. Preservation means keeping and sharing them."
+        },
+        {
+          "id": "d",
+          "label": "A school removes its history curriculum to focus only on future technology",
+          "correct": false,
+          "explanation": "Removing the history curriculum would prevent children from learning about the community's heritage. Preservation includes teaching history to the next generation."
+        }
+      ],
+      "explanation_md": "An annual cultural festival where traditional music, dance, and food are shared is a powerful way to preserve and pass on cultural heritage. Each year, traditions are kept alive and introduced to new people."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A family's last surviving grandparent passes away. She was the only person who knew the family's traditional songs. What does this show about cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cultural heritage is not important if only one person knew it",
+          "correct": false,
+          "explanation": "The importance of heritage is not determined by how many people know it. The loss of the songs shows precisely why preservation and sharing is so urgent."
+        },
+        {
+          "id": "b",
+          "label": "Intangible heritage like songs can be lost forever if not actively preserved and taught to younger generations",
+          "correct": true,
+          "explanation": "When the only person who knows a tradition dies without having taught it to anyone, that tradition is lost forever. This illustrates why it is so important to actively teach and record cultural knowledge."
+        },
+        {
+          "id": "c",
+          "label": "Songs are not really cultural heritage -- only buildings count",
+          "correct": false,
+          "explanation": "Songs are a classic form of intangible cultural heritage. They are often among the most personally meaningful parts of a culture's heritage."
+        },
+        {
+          "id": "d",
+          "label": "The songs can always be recovered from the internet",
+          "correct": false,
+          "explanation": "Traditional family songs that were never recorded or written down cannot be found on the internet. Once lost, they are gone forever -- which is why active preservation matters."
+        }
+      ],
+      "explanation_md": "When the only person who knows a tradition passes away without having taught it, that tradition is lost forever. This shows why actively sharing and teaching cultural heritage to younger generations is so important."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A library collects old letters, diaries, and photographs from local families and makes them available for researchers to study. How does this preserve heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It does not -- libraries only preserve books, not heritage",
+          "correct": false,
+          "explanation": "Libraries and archives preserve many types of heritage materials -- not just books. Old letters, diaries, and photographs are important historical records."
+        },
+        {
+          "id": "b",
+          "label": "It saves primary source documents from being lost and makes them available for future generations to learn from",
+          "correct": true,
+          "explanation": "Libraries and archives that collect historical materials preserve them from loss and make them accessible to researchers, students, and community members for learning about the past."
+        },
+        {
+          "id": "c",
+          "label": "It removes heritage from families who should keep it private",
+          "correct": false,
+          "explanation": "Libraries typically work with families who donate or loan materials. The goal is to make heritage accessible to more people, not to take things away from families."
+        },
+        {
+          "id": "d",
+          "label": "It only helps adults -- children cannot benefit from old letters and diaries",
+          "correct": false,
+          "explanation": "Old letters and diaries are fascinating primary sources for learners of all ages. Children can learn a great deal from historical documents."
+        }
+      ],
+      "explanation_md": "Libraries and archives save historical documents from being lost and make them available for future generations to learn from. This is an important way communities preserve tangible cultural heritage."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student's family recently immigrated to the US. She worries about losing her home country's language and traditions as she grows up in a new place. What are TWO ways she and her family can preserve their heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Stop speaking the home language and only follow American traditions",
+          "correct": false,
+          "explanation": "Stopping the home language and abandoning traditions would cause the heritage to be lost. Preservation means actively maintaining it."
+        },
+        {
+          "id": "b",
+          "label": "Speak the home language at home AND celebrate traditional holidays each year",
+          "correct": true,
+          "explanation": "Speaking the home language at home keeps it alive for children. Celebrating traditional holidays each year maintains the practices and memories associated with the family's heritage. Both are effective preservation strategies."
+        },
+        {
+          "id": "c",
+          "label": "Keep everything secret so no one else can learn about their heritage",
+          "correct": false,
+          "explanation": "Sharing heritage with others is one of the most powerful ways to preserve it. Keeping it secret actually increases the risk that it will be forgotten."
+        },
+        {
+          "id": "d",
+          "label": "Move back to their home country immediately",
+          "correct": false,
+          "explanation": "Moving back is not preservation -- and families can maintain their heritage while living in a new country. Many families successfully preserve their heritage while building a new life abroad."
+        }
+      ],
+      "explanation_md": "Speaking the home language at home and celebrating traditional holidays each year are two effective ways to preserve cultural heritage while living in a new country."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of INTANGIBLE cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A historic wooden courthouse built in 1850",
+          "correct": false,
+          "explanation": "A historic courthouse is a physical building -- that is tangible heritage. You can see and touch it."
+        },
+        {
+          "id": "b",
+          "label": "A family recipe passed from mother to daughter for four generations",
+          "correct": true,
+          "explanation": "A family recipe passed down through generations is intangible heritage -- it lives in memory and practice rather than as a physical object (though it may be written on a card)."
+        },
+        {
+          "id": "c",
+          "label": "A collection of old coins from the 1800s",
+          "correct": false,
+          "explanation": "Old coins are physical objects -- they are tangible heritage. You can hold and examine them."
+        },
+        {
+          "id": "d",
+          "label": "A quilt handmade by a great-grandmother",
+          "correct": false,
+          "explanation": "A handmade quilt is a physical object -- that is tangible heritage. You can hold and use it."
+        }
+      ],
+      "explanation_md": "A family recipe passed down through generations is intangible heritage -- it is knowledge and practice that lives in memory rather than as a physical object."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST way for a family to preserve intangible heritage like stories?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Keep the stories completely secret so they are never discussed",
+          "correct": false,
+          "explanation": "Keeping stories secret means they may be forgotten when the people who know them pass away. Sharing is the best way to preserve oral heritage."
+        },
+        {
+          "id": "b",
+          "label": "Telling stories regularly to younger family members and recording them so they are not forgotten",
+          "correct": true,
+          "explanation": "Telling stories regularly and recording them (by writing, video, or audio) are the best ways to preserve intangible oral heritage. Both sharing and recording help ensure stories survive."
+        },
+        {
+          "id": "c",
+          "label": "Only telling stories once and never repeating them",
+          "correct": false,
+          "explanation": "Telling stories once is not enough -- people need to hear stories many times to remember them well. Repeated telling strengthens memory and preservation."
+        },
+        {
+          "id": "d",
+          "label": "Waiting until all older family members are gone before sharing the stories",
+          "correct": false,
+          "explanation": "Waiting until older family members are gone is the worst approach -- those members are the SOURCE of the stories. They should share them while they can."
+        }
+      ],
+      "explanation_md": "Telling stories regularly and recording them are the best ways to preserve oral heritage. Repeated sharing builds memory; recording ensures stories survive even when older generations are gone."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A community center offers classes in traditional music, cooking, and language from the local immigrant community. How does this help PRESERVE cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It does not -- cultural heritage can only be preserved by individual families, not organizations",
+          "correct": false,
+          "explanation": "Both families AND community organizations play important roles in preserving heritage. Cultural centers, museums, and schools are all important preservation institutions."
+        },
+        {
+          "id": "b",
+          "label": "It teaches traditional skills to new generations and makes the heritage available to the whole community -- not just one family",
+          "correct": true,
+          "explanation": "Community centers make cultural heritage accessible to anyone who wants to learn. This broadens preservation beyond individual families and helps the wider community appreciate and engage with the tradition."
+        },
+        {
+          "id": "c",
+          "label": "It takes the heritage away from the families who originally owned it",
+          "correct": false,
+          "explanation": "Sharing heritage does not remove it from the original families -- it expands access. Families can still practice their traditions at home while also sharing with the wider community."
+        },
+        {
+          "id": "d",
+          "label": "It only benefits people from that specific immigrant community",
+          "correct": false,
+          "explanation": "When a community center offers classes in traditional music, cooking, and language, anyone in the community can attend and learn. Heritage sharing benefits everyone."
+        }
+      ],
+      "explanation_md": "Community centers make cultural heritage accessible to anyone who wants to learn. This broadens preservation beyond individual families and helps the wider community appreciate diverse traditions."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does PRESERVE mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To throw away old things",
+          "correct": false,
+          "explanation": "Throwing away old things destroys heritage -- it is the opposite of preserving. To preserve means to protect something so it is not lost."
+        },
+        {
+          "id": "b",
+          "label": "To protect something so it is not lost",
+          "correct": true,
+          "explanation": "To preserve means to protect something and keep it safe so it is not lost or forgotten over time."
+        },
+        {
+          "id": "c",
+          "label": "To create something brand new",
+          "correct": false,
+          "explanation": "Creating something new is innovation -- not preservation. Preservation protects existing things from being lost."
+        },
+        {
+          "id": "d",
+          "label": "To sell old things at a store",
+          "correct": false,
+          "explanation": "Selling old things is not preservation. To preserve means to protect and maintain something so future generations can access it."
+        }
+      ],
+      "explanation_md": "To preserve means to protect something so it is not lost or forgotten. Preserving cultural heritage means keeping traditions, art, and stories alive for future generations."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Grandpa tells his grandchildren the same stories about growing up in the mountains every year. This is an example of --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Being forgetful",
+          "correct": false,
+          "explanation": "Telling the same stories each year is not forgetfulness -- it is intentional preservation. Repeated storytelling keeps oral history alive."
+        },
+        {
+          "id": "b",
+          "label": "Preserving cultural heritage through storytelling",
+          "correct": true,
+          "explanation": "Repeating family stories each year is a powerful way to preserve oral heritage. The grandchildren hear the stories many times and will remember and share them when they grow up."
+        },
+        {
+          "id": "c",
+          "label": "A type of government rule",
+          "correct": false,
+          "explanation": "Family storytelling is not a government rule -- it is a personal tradition. Telling family stories preserves cultural heritage through oral history."
+        },
+        {
+          "id": "d",
+          "label": "A way to make children bored",
+          "correct": false,
+          "explanation": "Family stories connect children to their heritage and are often exciting and meaningful. Storytelling is a powerful preservation tool."
+        }
+      ],
+      "explanation_md": "Telling family stories each year preserves oral heritage. Grandchildren hear the stories many times, remember them, and will share them with their own children someday."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A museum displays old tools, photographs, and clothing from 100 years ago. The museum is PRESERVING --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Future inventions that have not been made yet",
+          "correct": false,
+          "explanation": "A museum that displays objects from 100 years ago is preserving past cultural heritage -- not future inventions."
+        },
+        {
+          "id": "b",
+          "label": "Tangible cultural heritage from the community's past",
+          "correct": true,
+          "explanation": "Old tools, photographs, and clothing are tangible heritage -- physical objects from the past. The museum preserves them so people can see and learn from them."
+        },
+        {
+          "id": "c",
+          "label": "Only things that are still used every day",
+          "correct": false,
+          "explanation": "Museums often display things that are no longer in everyday use -- old tools and clothing show how life was different in the past."
+        },
+        {
+          "id": "d",
+          "label": "Items that have no value to anyone",
+          "correct": false,
+          "explanation": "Museum items have great historical and cultural value. They help people understand the past and connect with their heritage."
+        }
+      ],
+      "explanation_md": "Old tools, photographs, and clothing are tangible heritage. A museum preserves them so future generations can see and learn from objects that reflect the community's past."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A family hangs a handmade quilt on the wall that was made by their great-great-grandmother. The quilt is an example of --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Intangible heritage -- because it is a tradition",
+          "correct": false,
+          "explanation": "A quilt is a physical object you can see and touch -- that is tangible heritage. The TRADITION of quilt-making would be intangible heritage."
+        },
+        {
+          "id": "b",
+          "label": "Tangible heritage -- because it is a physical object from the past",
+          "correct": true,
+          "explanation": "The handmade quilt is tangible heritage -- it is a physical object made by a family member from a past generation that has been preserved and passed down."
+        },
+        {
+          "id": "c",
+          "label": "Neither -- quilts are just decorations, not heritage",
+          "correct": false,
+          "explanation": "A handmade quilt passed down through generations is definitely cultural heritage. It reflects the skill, artistry, and history of the person who made it."
+        },
+        {
+          "id": "d",
+          "label": "A government document",
+          "correct": false,
+          "explanation": "A handmade quilt is a family artifact -- not a government document. It is tangible cultural heritage passed down through the family."
+        }
+      ],
+      "explanation_md": "A handmade quilt from a great-great-grandmother is tangible heritage -- a physical object made by a family member and passed down through generations."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for children to learn about their family's cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So they can do exactly what their ancestors did in every way",
+          "correct": false,
+          "explanation": "Learning about heritage does not mean living exactly as ancestors did. It means understanding your roots and honoring the traditions that shaped your family."
+        },
+        {
+          "id": "b",
+          "label": "So they can understand where they come from and what traditions have shaped their family and community",
+          "correct": true,
+          "explanation": "Learning about cultural heritage helps children understand their identity -- who they are and where their family comes from. This knowledge connects them to their roots and helps them appreciate the traditions that shaped them."
+        },
+        {
+          "id": "c",
+          "label": "Because only the past matters, not the present or future",
+          "correct": false,
+          "explanation": "Learning about heritage does not mean dismissing the present or future. Understanding the past helps children navigate the present and plan for the future with a strong sense of identity."
+        },
+        {
+          "id": "d",
+          "label": "So they can avoid all other cultures",
+          "correct": false,
+          "explanation": "Learning about your own heritage does not mean avoiding other cultures. In fact, understanding your own heritage can help you better appreciate and respect the heritage of others."
+        }
+      ],
+      "explanation_md": "Learning about cultural heritage helps children understand where they come from and what traditions shaped their family. This connects them to their roots and helps them value their identity."
+    }
+  ]
+}
