@@ -1,0 +1,363 @@
+{
+  "skill_id": "2.NBT.B.7",
+  "benchmark_description": "Add and subtract within 1000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method. Understand that in adding or subtracting three-digit numbers, one adds or subtracts hundreds and hundreds, tens and tens, ones and ones; and sometimes it is necessary to compose or decompose tens or hundreds.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Adding and Subtracting Three-Digit Numbers",
+    "intro": "Now we get to work with numbers all the way up to 1000! When you add or subtract three-digit numbers, you still use the same place value ideas \u2014 just add hundreds with hundreds, tens with tens, and ones with ones.",
+    "body_md": "## The Big Idea\n\nWhen adding or subtracting three-digit numbers:\n- **Hundreds + Hundreds**\n- **Tens + Tens**\n- **Ones + Ones**\n\nSometimes you need to **compose** (regroup and make a new group of 10 or 100) or **decompose** (break apart a group of 10 or 100 to borrow).\n\n## Addition with Three-Digit Numbers\n\n### No Regrouping Example\n\n**324 + 152**\n- Ones: 4 + 2 = 6\n- Tens: 2 + 5 = 7\n- Hundreds: 3 + 1 = 4\n- Answer: **476**\n\n### With Regrouping in the Ones\n\n**247 + 335**\n- Ones: 7 + 5 = 12 \u2192 write 2, carry 1 to tens\n- Tens: 4 + 3 + 1 = 8\n- Hundreds: 2 + 3 = 5\n- Answer: **582**\n\n### With Regrouping in the Tens\n\n**463 + 274**\n- Ones: 3 + 4 = 7\n- Tens: 6 + 7 = 13 \u2192 write 3 tens, carry 1 to hundreds\n- Hundreds: 4 + 2 + 1 = 7\n- Answer: **737**\n\n## Subtraction with Three-Digit Numbers\n\n### No Regrouping Example\n\n**567 - 234**\n- Ones: 7 - 4 = 3\n- Tens: 6 - 3 = 3\n- Hundreds: 5 - 2 = 3\n- Answer: **333**\n\n### With Regrouping from the Tens\n\n**452 - 218**\n- Ones: 2 - 8 \u2192 need to borrow! Take 1 ten from 5 tens: 12 - 8 = 4\n- Tens: 4 - 1 = 3\n- Hundreds: 4 - 2 = 2\n- Answer: **234**\n\n### With Regrouping from the Hundreds\n\n**635 - 283**\n- Ones: 5 - 3 = 2\n- Tens: 3 - 8 \u2192 need to borrow! Take 1 hundred from 6: now 13 - 8 = 5\n- Hundreds: 5 - 2 = 3\n- Answer: **352**\n\n## Using Drawings\n\nYou can draw base-ten blocks:\n- Flat squares = hundreds\n- Long sticks = tens\n- Small cubes = ones\n\nDraw both numbers, then combine or cross out!",
+    "worked_example_md": "**Problem:** 456 + 278 = ?\n\n**Column method:**\n```\n  456\n+ 278\n-----\n```\n\n**Step 1 \u2014 Ones:** 6 + 8 = 14. Write 4, carry 1.\n```\n    1\n  456\n+ 278\n-----\n    4\n```\n\n**Step 2 \u2014 Tens:** 5 + 7 + 1 = 13. Write 3 tens, carry 1 hundred.\n```\n  11\n  456\n+ 278\n-----\n   34\n```\n\n**Step 3 \u2014 Hundreds:** 4 + 2 + 1 = 7.\n```\n  11\n  456\n+ 278\n-----\n  734\n```\n\n**Answer: 456 + 278 = 734**",
+    "estimated_minutes": 11
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 231 + 145?",
+      "correct_answer": "376",
+      "explanation_md": "Ones: 1+5=6. Tens: 3+4=7. Hundreds: 2+1=3. Answer: 376."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 578 - 234?",
+      "correct_answer": "344",
+      "explanation_md": "Ones: 8-4=4. Tens: 7-3=4. Hundreds: 5-2=3. Answer: 344."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 364 + 253?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "507",
+          "correct": false,
+          "explanation": "Ones: 4+3=7. Tens: 6+5=11 (write 1, carry 1). Hundreds: 3+2+1=6. Answer: 617."
+        },
+        {
+          "id": "b",
+          "label": "617",
+          "correct": true,
+          "explanation": "Correct! Ones: 4+3=7. Tens: 6+5=11 (write 1, carry 1). Hundreds: 3+2+1=6. Answer: 617."
+        },
+        {
+          "id": "c",
+          "label": "627",
+          "correct": false,
+          "explanation": "364+253: Ones 4+3=7. Tens 6+5=11 (carry 1). Hundreds 3+2+1=6. Answer: 617."
+        },
+        {
+          "id": "d",
+          "label": "607",
+          "correct": false,
+          "explanation": "364+253: Ones 4+3=7. Tens 6+5=11 (write 1, carry 1). Hundreds 3+2+1=6. Answer: 617."
+        }
+      ],
+      "explanation_md": "364+253: Ones 4+3=7. Tens 6+5=11 (write 1, carry 1). Hundreds 3+2+1=6. Answer: 617."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 735 - 412?",
+      "correct_answer": "323",
+      "explanation_md": "Ones: 5-2=3. Tens: 3-1=2. Hundreds: 7-4=3. Answer: 323."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 547 + 286?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "723",
+          "correct": false,
+          "explanation": "547+286: Ones 7+6=13 (write 3, carry 1). Tens 4+8+1=13 (write 3, carry 1). Hundreds 5+2+1=8. Answer: 833."
+        },
+        {
+          "id": "b",
+          "label": "833",
+          "correct": true,
+          "explanation": "Correct! Ones 7+6=13 (write 3 carry 1). Tens 4+8+1=13 (write 3 carry 1). Hundreds 5+2+1=8. Answer: 833."
+        },
+        {
+          "id": "c",
+          "label": "823",
+          "correct": false,
+          "explanation": "547+286: Ones 7+6=13 (carry 1). Tens 4+8+1=13 (carry 1). Hundreds 5+2+1=8. Answer: 833."
+        },
+        {
+          "id": "d",
+          "label": "843",
+          "correct": false,
+          "explanation": "547+286: Ones 7+6=13 (write 3 carry 1). Tens 4+8+1=13 (write 3 carry 1). Hundreds 5+2+1=8. Answer: 833."
+        }
+      ],
+      "explanation_md": "547+286: Ones 7+6=13 (3 carry 1). Tens 4+8+1=13 (3 carry 1). Hundreds 5+2+1=8. Answer: 833."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 824 - 376?",
+      "correct_answer": "448",
+      "explanation_md": "Ones: 4-6 need to borrow. 14-6=8. Tens: 1-7 need to borrow. 11-7=4. Hundreds: 7-3=4. Answer: 448."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A school has 362 students. 145 more students join the school. How many students are there now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "417",
+          "correct": false,
+          "explanation": "362+145: Ones 2+5=7. Tens 6+4=10 (write 0 carry 1). Hundreds 3+1+1=5. Answer: 507."
+        },
+        {
+          "id": "b",
+          "label": "507",
+          "correct": true,
+          "explanation": "Correct! 362+145: Ones 2+5=7. Tens 6+4=10 (write 0 carry 1). Hundreds 3+1+1=5. Answer: 507."
+        },
+        {
+          "id": "c",
+          "label": "497",
+          "correct": false,
+          "explanation": "362+145: Ones 2+5=7. Tens 6+4=10 (carry 1). Hundreds 3+1+1=5. Answer: 507."
+        },
+        {
+          "id": "d",
+          "label": "517",
+          "correct": false,
+          "explanation": "362+145: Ones 2+5=7. Tens 6+4=10 (write 0 carry 1). Hundreds 3+1+1=5. Answer: 507."
+        }
+      ],
+      "explanation_md": "362+145: Ones 7. Tens 6+4=10 (carry 1). Hundreds 3+1+1=5. Answer: 507 students."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 623 + 159?",
+      "correct_answer": "782",
+      "explanation_md": "Ones: 3+9=12 (write 2 carry 1). Tens: 2+5+1=8. Hundreds: 6+1=7. Answer: 782."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "700 - 348 = ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "352",
+          "correct": true,
+          "explanation": "Correct! 700-348: Ones 0-8 borrow (10-8=2, carry). Tens 9-4=5 (after borrow from hundreds). Hundreds 6-3=3. Answer: 352."
+        },
+        {
+          "id": "b",
+          "label": "362",
+          "correct": false,
+          "explanation": "700-348: Borrow from tens (but tens is 0 too, so borrow from hundreds). Ones: 10-8=2. Tens: 9-4=5. Hundreds: 6-3=3. Answer: 352."
+        },
+        {
+          "id": "c",
+          "label": "342",
+          "correct": false,
+          "explanation": "700-348=352. Borrow carefully: ones 10-8=2, tens 9-4=5, hundreds 6-3=3."
+        },
+        {
+          "id": "d",
+          "label": "348",
+          "correct": false,
+          "explanation": "348 is the number being subtracted. 700-348=352."
+        }
+      ],
+      "explanation_md": "700-348: Borrow from hundreds to tens (700 becomes 6 hundreds, 10 tens). Borrow from tens to ones (9 tens become 8 tens, 10 ones). Ones: 10-8=2. Tens: 9-4=5. Hundreds: 6-3=3. Answer: 352."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A factory made 573 toys in the morning and 248 toys in the afternoon. A delivery truck took away 385 toys. How many toys are still at the factory?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "436",
+          "correct": true,
+          "explanation": "Correct! Step 1: 573+248=821 toys made. Step 2: 821-385=436 toys left."
+        },
+        {
+          "id": "b",
+          "label": "536",
+          "correct": false,
+          "explanation": "573+248=821. Then 821-385: Ones 1-5 borrow, 11-5=6. Tens 1-8 borrow, 11-8=3. Hundreds 7-3=4. Answer: 436."
+        },
+        {
+          "id": "c",
+          "label": "386",
+          "correct": false,
+          "explanation": "573+248=821 total. 821-385=436 remaining. Not 386."
+        },
+        {
+          "id": "d",
+          "label": "810",
+          "correct": false,
+          "explanation": "810 is the approximate total made. You still need to subtract the 385 taken away: 821-385=436."
+        }
+      ],
+      "explanation_md": "Step 1: 573+248=821 toys total. Step 2: 821-385=436 toys left at the factory."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 437 + 285?",
+      "correct_answer": "722",
+      "explanation_md": "Ones: 7+5=12 (write 2 carry 1). Tens: 3+8+1=12 (write 2 carry 1). Hundreds: 4+2+1=7. Answer: 722."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "What is 503 - 267?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "236",
+          "correct": true,
+          "explanation": "Correct! 503-267: Ones 3-7 borrow. 13-7=6. Tens 9-6=3 (after borrow). Hundreds 4-2=2. Answer: 236."
+        },
+        {
+          "id": "b",
+          "label": "246",
+          "correct": false,
+          "explanation": "503-267: Ones borrow gives 13-7=6. Tens after borrow from hundreds gives 9-6=3. Hundreds: 4-2=2. Answer: 236."
+        },
+        {
+          "id": "c",
+          "label": "344",
+          "correct": false,
+          "explanation": "503-267=236. Work carefully with borrowing from zero tens."
+        },
+        {
+          "id": "d",
+          "label": "336",
+          "correct": false,
+          "explanation": "503-267: Ones 13-7=6. Tens 9-6=3. Hundreds 4-2=2. Answer: 236."
+        }
+      ],
+      "explanation_md": "503-267: tens digit is 0, so borrow from hundreds. 503 becomes 4 hundreds, 10 tens, 3 ones. Borrow from tens: 9 tens, 13 ones. 13-7=6, 9-6=3, 4-2=2. Answer: 236."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A school library had 645 books. Students donated 178 more books. How many books does the library have now?",
+      "correct_answer": "823",
+      "explanation_md": "645+178: Ones 5+8=13 (write 3 carry 1). Tens 4+7+1=12 (write 2 carry 1). Hundreds 6+1+1=8. Answer: 823 books."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 200 + 300?",
+      "correct_answer": "500",
+      "explanation_md": "200 + 300: 2 hundreds + 3 hundreds = 5 hundreds = 500."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 700 - 400?",
+      "correct_answer": "300",
+      "explanation_md": "700 - 400: 7 hundreds - 4 hundreds = 3 hundreds = 300."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 324 + 253?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "467",
+          "correct": false,
+          "explanation": "Ones: 4+3=7. Tens: 2+5=7. Hundreds: 3+2=5. Answer: 577."
+        },
+        {
+          "id": "b",
+          "label": "577",
+          "correct": true,
+          "explanation": "Correct! Ones 4+3=7, Tens 2+5=7, Hundreds 3+2=5. Answer: 577."
+        },
+        {
+          "id": "c",
+          "label": "587",
+          "correct": false,
+          "explanation": "324+253: Ones 4+3=7. Tens 2+5=7. Hundreds 3+2=5. Answer: 577."
+        },
+        {
+          "id": "d",
+          "label": "570",
+          "correct": false,
+          "explanation": "324+253: Ones 7, Tens 7, Hundreds 5. Answer: 577."
+        }
+      ],
+      "explanation_md": "324+253: Ones 4+3=7, Tens 2+5=7, Hundreds 3+2=5. Answer: 577."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 489 - 165?",
+      "correct_answer": "324",
+      "explanation_md": "Ones: 9-5=4. Tens: 8-6=2. Hundreds: 4-1=3. Answer: 324."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 135 + 248?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "373",
+          "correct": true,
+          "explanation": "Correct! Ones: 5+8=13 (write 3 carry 1). Tens: 3+4+1=8. Hundreds: 1+2=3. Answer: 383."
+        },
+        {
+          "id": "b",
+          "label": "383",
+          "correct": true,
+          "explanation": "Correct! Ones: 5+8=13 (write 3 carry 1). Tens: 3+4+1=8. Hundreds: 1+2=3. Answer: 383."
+        },
+        {
+          "id": "c",
+          "label": "363",
+          "correct": false,
+          "explanation": "135+248: Ones 5+8=13 (carry 1). Tens 3+4+1=8. Hundreds 1+2=3. Answer: 383."
+        },
+        {
+          "id": "d",
+          "label": "393",
+          "correct": false,
+          "explanation": "135+248: Ones 5+8=13 (carry 1). Tens 3+4+1=8. Hundreds 1+2=3. Answer: 383."
+        }
+      ],
+      "explanation_md": "135+248: Ones 5+8=13 (write 3, carry 1). Tens 3+4+1=8. Hundreds 1+2=3. Answer: 383."
+    }
+  ]
+}
