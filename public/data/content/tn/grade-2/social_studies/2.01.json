@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.01",
+  "benchmark_description": "Identify and describe the characteristics of a community, including its location, geography, culture, and history.",
+  "course": "social_studies",
+  "strand": "CUL",
+  "lesson": {
+    "title": "What Makes a Community?",
+    "intro": "A community is a place where people live, work, and play together. Every community has its own special look, history, and way of doing things. Let's explore what makes a community unique!",
+    "body_md": "## What Is a Community?\n\nA **community** is a group of people who live in the same area and share things like schools, parks, and stores. Communities can be big cities, small towns, or neighborhoods.\n\n## Four Things That Describe a Community\n\n| Feature | What It Means | Example |\n|---|---|---|\n| **Location** | Where the community is found | Nashville is in middle Tennessee |\n| **Geography** | The land, water, and weather | Rolling hills, rivers, flat plains |\n| **Culture** | The traditions, food, music, and celebrations | Festivals, local foods, languages |\n| **History** | What happened in the community over time | When it was started, important events |\n\n## Location\n\nLocation tells us **where** a community is. We use words like north, south, east, and west. We also look at maps to find communities.\n\n- Knoxville is in **east** Tennessee.\n- Memphis is in **west** Tennessee.\n- Nashville is in **middle** Tennessee.\n\n## Geography\n\nGeography is the land and water around a community. Some communities are near mountains. Some are near rivers. Others are on flat land called **plains**.\n\n## Culture\n\nCulture is the way people in a community live. It includes:\n- **Food** people eat\n- **Music** people enjoy\n- **Celebrations** and holidays\n- **Languages** people speak\n\n## History\n\nHistory tells the story of a community over time. Communities started long ago. Important events shaped what they look like today.\n\n## Communities Can Be Different Sizes\n\n- **Rural** communities are in the country with farms and open land.\n- **Suburban** communities are near big cities.\n- **Urban** communities are big cities with tall buildings and lots of people.",
+    "worked_example_md": "## Worked Example: Describing Nashville, Tennessee\n\n**Question:** Use the four features to describe Nashville.\n\n**Step 1 — Location:** Nashville is located in **middle Tennessee** in the southern United States.\n\n**Step 2 — Geography:** Nashville sits near the **Cumberland River**. The land around it has rolling hills.\n\n**Step 3 — Culture:** Nashville is famous for **country music**. People celebrate music festivals there. Many families eat Southern foods like biscuits and gravy.\n\n**Step 4 — History:** Nashville was founded in 1779. It became the capital of Tennessee and grew into a large city.\n\n**Answer:** Nashville is a community in middle Tennessee. It is near the Cumberland River with rolling hills. Its culture is known for country music and Southern food. It was founded in 1779 and has grown into a large city.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a community?",
+      "choices": [
+        {"id": "a", "label": "A single house where one family lives", "correct": false, "explanation": "A community is bigger than one house. It includes many people and places."},
+        {"id": "b", "label": "A place where people live, work, and play together", "correct": true, "explanation": "A community is a group of people sharing an area with schools, stores, and parks."},
+        {"id": "c", "label": "Only a big city with tall buildings", "correct": false, "explanation": "Communities can be small towns or rural areas, not just big cities."},
+        {"id": "d", "label": "A school building", "correct": false, "explanation": "A school is part of a community, but it is not the whole community."}
+      ],
+      "explanation_md": "A community is a place where people live, work, and play together. It can be any size."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word tells us **where** a community is found?",
+      "choices": [
+        {"id": "a", "label": "Culture", "correct": false, "explanation": "Culture describes traditions and ways of life, not location."},
+        {"id": "b", "label": "History", "correct": false, "explanation": "History tells what happened over time, not where a place is."},
+        {"id": "c", "label": "Location", "correct": true, "explanation": "Location tells us where a community is, such as east or west Tennessee."},
+        {"id": "d", "label": "Geography", "correct": false, "explanation": "Geography describes land and water features, not just where the community is."}
+      ],
+      "explanation_md": "Location tells us where a community is found on a map."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A community near a river with flat land is describing its:",
+      "choices": [
+        {"id": "a", "label": "History", "correct": false, "explanation": "History is about events that happened over time, not land features."},
+        {"id": "b", "label": "Culture", "correct": false, "explanation": "Culture is about traditions, food, and music."},
+        {"id": "c", "label": "Geography", "correct": true, "explanation": "Geography describes the land and water features of a community."},
+        {"id": "d", "label": "Location", "correct": false, "explanation": "Location tells where the community is, not what the land looks like."}
+      ],
+      "explanation_md": "Geography describes the land and water around a community, like rivers and flat plains."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of culture in a community?",
+      "choices": [
+        {"id": "a", "label": "A mountain nearby", "correct": false, "explanation": "A mountain is a geography feature, not part of culture."},
+        {"id": "b", "label": "When the town was started", "correct": false, "explanation": "When a town started is history, not culture."},
+        {"id": "c", "label": "A yearly music festival", "correct": true, "explanation": "A music festival is a celebration and tradition, which is part of culture."},
+        {"id": "d", "label": "The town's location on a map", "correct": false, "explanation": "Location on a map is about where the community is, not its culture."}
+      ],
+      "explanation_md": "Culture includes traditions and celebrations like festivals, music, and local foods."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Memphis is in west Tennessee. Knoxville is in east Tennessee. What feature of a community does this describe?",
+      "choices": [
+        {"id": "a", "label": "Geography", "correct": false, "explanation": "Geography describes land and water, not the direction a place is in the state."},
+        {"id": "b", "label": "Culture", "correct": false, "explanation": "Culture is about traditions and ways of life."},
+        {"id": "c", "label": "Location", "correct": true, "explanation": "Saying a city is in east or west Tennessee tells us its location."},
+        {"id": "d", "label": "History", "correct": false, "explanation": "History is about past events, not where a city sits in the state."}
+      ],
+      "explanation_md": "Telling where Memphis and Knoxville are in Tennessee describes their location."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community in the country with farms and open land is called a:",
+      "choices": [
+        {"id": "a", "label": "Urban community", "correct": false, "explanation": "Urban communities are big cities, not countryside areas with farms."},
+        {"id": "b", "label": "Suburban community", "correct": false, "explanation": "Suburban communities are near big cities, not in the open country."},
+        {"id": "c", "label": "Rural community", "correct": true, "explanation": "Rural communities are in the country and have farms and open land."},
+        {"id": "d", "label": "Island community", "correct": false, "explanation": "An island community is surrounded by water; the question describes farmland."}
+      ],
+      "explanation_md": "Rural communities are in the country. They have farms, open fields, and fewer people."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville was founded in 1779. This information is part of Nashville's:",
+      "choices": [
+        {"id": "a", "label": "Location", "correct": false, "explanation": "Location tells where Nashville is, not when it started."},
+        {"id": "b", "label": "History", "correct": true, "explanation": "When a community was founded and what happened over time is its history."},
+        {"id": "c", "label": "Culture", "correct": false, "explanation": "Culture includes traditions and music, not founding dates."},
+        {"id": "d", "label": "Geography", "correct": false, "explanation": "Geography describes land features, not when the city started."}
+      ],
+      "explanation_md": "History includes when a community was started and important events over time."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student lists these things about her town: hills, a creek, and a valley. She is describing the town's:",
+      "choices": [
+        {"id": "a", "label": "History", "correct": false, "explanation": "History is about past events, not land shapes and water."},
+        {"id": "b", "label": "Culture", "correct": false, "explanation": "Culture is about traditions, food, and celebrations."},
+        {"id": "c", "label": "Location", "correct": false, "explanation": "Location tells where the town is, not what the land looks like."},
+        {"id": "d", "label": "Geography", "correct": true, "explanation": "Hills, creeks, and valleys are land and water features, which is geography."}
+      ],
+      "explanation_md": "Geography covers the land and water features of a community, like hills, creeks, and valleys."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two communities both have rivers. Community A is in the mountains. Community B is on flat plains. How are they **different**?",
+      "choices": [
+        {"id": "a", "label": "Their history is different", "correct": false, "explanation": "The question gives information about land, not past events."},
+        {"id": "b", "label": "Their geography is different", "correct": true, "explanation": "Mountains versus flat plains is a difference in geography, even though both have rivers."},
+        {"id": "c", "label": "Their culture is different", "correct": false, "explanation": "The question does not tell us about traditions or celebrations."},
+        {"id": "d", "label": "Their location is the same", "correct": false, "explanation": "The question does not say both communities are in the same place."}
+      ],
+      "explanation_md": "Even though both communities have rivers, their land looks different. Mountains versus flat plains is a geography difference."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A community near big mountains holds a yearly Harvest Festival and was settled by farmers 150 years ago. Which two features does this describe?",
+      "choices": [
+        {"id": "a", "label": "Location and geography", "correct": false, "explanation": "Location tells where the community is. The passage does not clearly state its location on a map."},
+        {"id": "b", "label": "Culture and geography", "correct": false, "explanation": "The Harvest Festival is culture, but the mountains near the community are geography, not just culture. History (150 years ago) is also included."},
+        {"id": "c", "label": "Culture and history", "correct": true, "explanation": "The Harvest Festival is a tradition (culture). Being settled by farmers 150 years ago is history."},
+        {"id": "d", "label": "Geography and history", "correct": false, "explanation": "Mountains are geography, but the question asks which TWO features are described; the Harvest Festival adds culture, not just geography."}
+      ],
+      "explanation_md": "The Harvest Festival is a tradition, so it is culture. Being settled 150 years ago is history. These are the two features best described in the passage."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which four things help us describe a community?",
+      "choices": [
+        {"id": "a", "label": "Size, color, weather, and trees", "correct": false, "explanation": "These are not the four key features used to describe a community."},
+        {"id": "b", "label": "Location, geography, culture, and history", "correct": true, "explanation": "These are the four features used to describe any community."},
+        {"id": "c", "label": "Roads, buildings, schools, and parks", "correct": false, "explanation": "These are parts of a community, but not the four describing features."},
+        {"id": "d", "label": "Food, music, sports, and jobs", "correct": false, "explanation": "These might be part of culture, but they are not the four describing features."}
+      ],
+      "explanation_md": "Location, geography, culture, and history are the four features used to describe a community."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A city near the ocean celebrates a yearly seafood feast that started 100 years ago. Which feature does the feast best describe?",
+      "choices": [
+        {"id": "a", "label": "Geography", "correct": false, "explanation": "Geography describes land and water, not celebrations."},
+        {"id": "b", "label": "Location", "correct": false, "explanation": "Location tells where the city is, not what people celebrate."},
+        {"id": "c", "label": "History", "correct": false, "explanation": "History is about past events; a yearly feast is an ongoing tradition."},
+        {"id": "d", "label": "Culture", "correct": true, "explanation": "A yearly feast is a tradition and celebration, which is part of culture."}
+      ],
+      "explanation_md": "A yearly feast is a tradition. Traditions are part of a community's culture."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Morgan lives in a small town surrounded by farms and fields. The nearest big city is 30 miles away. Which type of community does Morgan most likely live in?",
+      "choices": [
+        {"id": "a", "label": "Urban", "correct": false, "explanation": "Urban communities are big cities, not small towns with farms."},
+        {"id": "b", "label": "Suburban", "correct": false, "explanation": "Suburban communities are close to big cities, but 30 miles away with farms is too far."},
+        {"id": "c", "label": "Rural", "correct": true, "explanation": "A small town surrounded by farms and fields far from a city is rural."},
+        {"id": "d", "label": "Coastal", "correct": false, "explanation": "The question does not say Morgan's town is near water."}
+      ],
+      "explanation_md": "Rural communities are small, surrounded by farms and fields, and not close to big cities."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A community is a place where people:",
+      "choices": [
+        {"id": "a", "label": "Live alone with no neighbors", "correct": false, "explanation": "Communities have many people living together, not alone."},
+        {"id": "b", "label": "Live, work, and play together", "correct": true, "explanation": "People in a community share the same area and do things together."},
+        {"id": "c", "label": "Only work and never play", "correct": false, "explanation": "Communities include places to play, like parks."},
+        {"id": "d", "label": "Never go to school", "correct": false, "explanation": "Schools are an important part of communities."}
+      ],
+      "explanation_md": "A community is a place where people live, work, and play together."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of geography?",
+      "choices": [
+        {"id": "a", "label": "A music festival", "correct": false, "explanation": "A music festival is culture, not geography."},
+        {"id": "b", "label": "When the town was built", "correct": false, "explanation": "When a town was built is history."},
+        {"id": "c", "label": "A river near the town", "correct": true, "explanation": "A river is a water feature, which is part of geography."},
+        {"id": "d", "label": "Where the town is on a map", "correct": false, "explanation": "Where a town is on a map is its location, not geography."}
+      ],
+      "explanation_md": "Geography includes land and water features like rivers, mountains, and plains."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Culture in a community includes:",
+      "choices": [
+        {"id": "a", "label": "Tall buildings", "correct": false, "explanation": "Buildings are part of the community's look, not its culture."},
+        {"id": "b", "label": "Traditions and celebrations", "correct": true, "explanation": "Traditions and celebrations are part of a community's culture."},
+        {"id": "c", "label": "Mountains and rivers", "correct": false, "explanation": "Mountains and rivers are geography, not culture."},
+        {"id": "d", "label": "Old events from the past", "correct": false, "explanation": "Events from the past are history, not culture."}
+      ],
+      "explanation_md": "Culture includes traditions, celebrations, food, music, and the ways people live."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "History tells us:",
+      "choices": [
+        {"id": "a", "label": "Where a community is on a map", "correct": false, "explanation": "Location tells us where a community is on a map."},
+        {"id": "b", "label": "What the land looks like", "correct": false, "explanation": "What the land looks like is geography."},
+        {"id": "c", "label": "What happened in a community over time", "correct": true, "explanation": "History tells us what happened in a community from long ago until now."},
+        {"id": "d", "label": "What people eat and celebrate", "correct": false, "explanation": "What people eat and celebrate is part of culture."}
+      ],
+      "explanation_md": "History tells the story of a community over time, including when it started and important events."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which type of community has tall buildings and lots of people?",
+      "choices": [
+        {"id": "a", "label": "Rural", "correct": false, "explanation": "Rural communities are in the country with farms, not tall buildings."},
+        {"id": "b", "label": "Suburban", "correct": false, "explanation": "Suburban communities are near cities but do not have as many tall buildings."},
+        {"id": "c", "label": "Farm", "correct": false, "explanation": "Farm is not one of the three types. A farm is found in a rural community."},
+        {"id": "d", "label": "Urban", "correct": true, "explanation": "Urban communities are big cities with tall buildings and many people."}
+      ],
+      "explanation_md": "Urban communities are big cities. They have tall buildings, many stores, and lots of people."
+    }
+  ]
+}
