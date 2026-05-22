@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.L.2.2",
+  "benchmark_description": "Explain how the physical environment and the food an organism eats affect its ability to grow and survive (plants and animals).",
+  "course": "science",
+  "strand": "L",
+  "lesson": {
+    "title": "Adaptations: How Living Things Survive in Their Environment",
+    "intro": "Why does a cactus have spines instead of big flat leaves? Why does an arctic fox have white fur? Living things have special features called adaptations that help them survive in their environments. In this lesson we will explore how the physical environment and available food affect how animals and plants are built.",
+    "body_md": "## What Is an Adaptation?\n\nAn **adaptation** is a body feature or behavior that helps a living thing survive in its environment. Adaptations develop over many generations. Animals and plants that have helpful adaptations are more likely to survive and pass those features to their offspring.\n\n## How the Physical Environment Shapes Animals\n\nThe physical environment includes temperature, water availability, light, and the type of land or water an organism lives in.\n\n### Cold Environments\n- **Polar bears** have thick white fur that keeps them warm AND camouflages them in the snow.\n- **Penguins** have a thick layer of blubber (fat) under their feathers for warmth and swim powerfully in icy water.\n- **Arctic hares** grow extra-thick white winter coats that shed in summer when the snow melts.\n\n### Hot, Dry Environments (Desert)\n- **Camels** store fat in their humps for energy and can drink huge amounts of water at once, storing it for later.\n- **Cacti** have thick, waxy stems that store water and spines instead of leaves to reduce water loss.\n- **Roadrunners** are fast runners (to catch prey quickly and escape predators) and get most of their water from the food they eat.\n\n### Water Environments\n- **Fish** have gills to breathe underwater, streamlined bodies to swim fast, and fins to steer.\n- **Ducks** have webbed feet for paddling and waterproof feathers so they don't get waterlogged.\n- **Dolphins** have smooth, streamlined bodies and a blowhole to breathe air at the surface.\n\n## How Food Availability Shapes Animals\n\nAn animal's body is adapted to the food it eats.\n\n| Animal | Food | Adaptation for Eating |\n|--------|------|----------------------|\n| Eagle | Small animals, fish | Sharp talons to catch prey, hooked beak to tear meat |\n| Hummingbird | Flower nectar | Long, thin beak to reach inside flowers |\n| Cow | Grass | Flat, grinding teeth to chew tough plant material |\n| Wolf | Deer, elk | Sharp, pointed teeth to bite and tear meat |\n| Woodpecker | Insects under bark | Hard, pointed beak to drill into wood, long sticky tongue |\n\n## How the Environment Affects Plants\n\nPlants are also adapted to their environments:\n\n- **Cactus** (desert): Thick, waxy skin and spines instead of leaves to hold water.\n- **Water lily** (pond): Wide flat leaves that float and absorb sunlight on the water surface.\n- **Pine tree** (cold, snowy mountains): Needle-shaped leaves that shed snow easily, thick bark for cold.\n- **Mangrove tree** (coastal saltwater): Special roots that hold the tree in muddy water and filter out salt.\n\n## Behavior as Adaptation\n\nAdaptations are not just body parts — **behaviors** can be adaptations too:\n- **Migration** — some birds fly south in winter to find warmer places with more food.\n- **Hibernation** — bears sleep through winter when food is scarce, using stored fat for energy.\n- **Camouflage** — chameleons change color to blend in with their surroundings and avoid predators.",
+    "worked_example_md": "### Worked Example: Identifying Adaptations\n\n**Question:** A woodpecker lives in a forest and eats insects that hide under tree bark. Which combination of body features BEST helps the woodpecker find and eat its food?\n\nA) Webbed feet and a flat beak\nB) A hard pointed beak, a long sticky tongue, and strong feet with sharp claws for gripping bark\nC) Hollow bones and white feathers for camouflage in snow\nD) A rounded beak for cracking hard seeds and strong jaw muscles\n\n**Step 1 – Describe the food and environment:**\n- Food: Insects UNDER bark → must drill through bark to reach them\n- Environment: Forest with trees → must cling to vertical tree trunks\n\n**Step 2 – Match each feature to the task:**\n- Hard pointed beak → drills into wood ✓\n- Long sticky tongue → reaches insects inside the hole ✓\n- Strong feet with sharp claws → grips the vertical bark ✓\n\n**Step 3 – Eliminate mismatches:**\n- Webbed feet: for swimming, not tree-clinging ✗\n- White feathers: camouflage for snow, not forest ✗\n- Rounded seed-cracking beak: wrong shape for drilling ✗\n\n**Answer: B.** The woodpecker's sharp beak, sticky tongue, and gripping claws are all adaptations that allow it to drill into bark and extract hidden insects.",
+    "estimated_minutes": 35
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is an adaptation?",
+      "choices": [
+        {"id": "a", "label": "A body feature or behavior that helps a living thing survive in its environment", "correct": true, "explanation": "Correct! An adaptation is any trait — physical or behavioral — that improves an organism's ability to survive and reproduce in its environment."},
+        {"id": "b", "label": "A type of food that animals eat in winter", "correct": false, "explanation": "Food is what animals eat, not the definition of an adaptation. An adaptation is a feature that helps survival."},
+        {"id": "c", "label": "The place where an animal lives", "correct": false, "explanation": "The place where an animal lives is a habitat. An adaptation is a feature that helps the animal survive in that habitat."},
+        {"id": "d", "label": "A change in the weather", "correct": false, "explanation": "Weather is a condition of the environment. An adaptation is a feature of an organism's body or behavior, not a weather event."}
+      ],
+      "explanation_md": "An adaptation is a physical feature or behavior that helps a living thing survive and reproduce in its environment. Examples: thick fur in cold climates, webbed feet for swimming."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A polar bear has thick white fur. How does each of these features help it survive?",
+      "choices": [
+        {"id": "a", "label": "The thick fur keeps it cool; the white color scares away other animals", "correct": false, "explanation": "Thick fur provides warmth, not cooling. White coloring provides camouflage in snow, not intimidation."},
+        {"id": "b", "label": "The thick fur keeps it warm in the cold Arctic; the white color camouflages it in the snow", "correct": true, "explanation": "Correct! Thick fur insulates against freezing temperatures. White fur blends with the snowy surroundings, helping the polar bear sneak up on prey like seals."},
+        {"id": "c", "label": "The thick fur helps it swim; the white color attracts fish", "correct": false, "explanation": "Polar bears do swim, but it is their buoyancy and strength — not their fur thickness — that helps them swim. White fur is for camouflage, not attracting fish."},
+        {"id": "d", "label": "Both features help the polar bear live in hot deserts", "correct": false, "explanation": "Polar bears are adapted to the Arctic, not deserts. Their thick fur and white coloring are specifically for cold, snowy environments."}
+      ],
+      "explanation_md": "The polar bear's thick fur is an adaptation for warmth in the Arctic cold. Its white color is an adaptation for camouflage in snowy environments — helping it hide while hunting."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why does a cactus have spines (sharp needles) instead of flat leaves?",
+      "choices": [
+        {"id": "a", "label": "Spines help the cactus climb trees", "correct": false, "explanation": "Cacti do not climb trees. Spines protect the cactus from animals and reduce water loss."},
+        {"id": "b", "label": "Spines scare away predators and reduce water loss in the dry desert", "correct": true, "explanation": "Correct! Spines protect the cactus from animals that want to eat it and — unlike flat leaves — spines lose very little water, which is critical in the dry desert."},
+        {"id": "c", "label": "Spines help the cactus absorb more sunlight", "correct": false, "explanation": "Flat leaves are better for absorbing sunlight than spines. The function of cactus spines is protection and water conservation, not increased light absorption."},
+        {"id": "d", "label": "Spines help the cactus absorb rain more quickly", "correct": false, "explanation": "Cacti absorb rain through their roots, not their spines. The spines minimize the surface area from which water evaporates."}
+      ],
+      "explanation_md": "Cactus spines are adaptations for the desert environment. They protect the plant from animals that might eat it for water, and because they are narrow, they lose much less water to evaporation than flat leaves would in the hot, dry desert air."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A hummingbird has a long, thin beak. How does this beak help it meet its need for food?",
+      "choices": [
+        {"id": "a", "label": "The long beak helps the hummingbird crack open hard seeds", "correct": false, "explanation": "Long thin beaks are not good for cracking seeds — seed-eating birds like finches have short, thick, strong beaks. The hummingbird's beak is for reaching nectar inside flowers."},
+        {"id": "b", "label": "The long beak lets the hummingbird reach deep inside flowers to drink nectar", "correct": true, "explanation": "Correct! Hummingbirds drink nectar from flowers. Their long, thin beaks are perfectly shaped to reach the nectar deep inside tubular flowers that other birds cannot access."},
+        {"id": "c", "label": "The long beak helps the hummingbird spear fish in a river", "correct": false, "explanation": "Herons and kingfishers spear fish — not hummingbirds. A hummingbird eats flower nectar."},
+        {"id": "d", "label": "The long beak is used to build nests, not to eat food", "correct": false, "explanation": "All birds use their beaks for building nests to some degree, but the primary function of the hummingbird's long beak is to feed on nectar inside deep flowers."}
+      ],
+      "explanation_md": "The hummingbird's long, thin beak is adapted to its food source — flower nectar. The beak fits perfectly into tubular flowers to reach the sweet liquid inside. This is an example of how food availability shapes an animal's body structure."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Ducks have webbed feet. How are webbed feet an adaptation to the duck's water environment?",
+      "choices": [
+        {"id": "a", "label": "Webbed feet help ducks run faster on land", "correct": false, "explanation": "Webbed feet actually make walking on land a bit awkward. They are an adaptation for moving through water efficiently."},
+        {"id": "b", "label": "Webbed feet act like paddles, pushing water backward to propel the duck forward when swimming", "correct": true, "explanation": "Correct! Webbed feet increase the surface area of each foot stroke, pushing more water backward and moving the duck forward more efficiently — just like a paddle."},
+        {"id": "c", "label": "Webbed feet help ducks grip tree branches", "correct": false, "explanation": "Birds that perch in trees have narrow, curved talons for gripping. Webbed feet are not useful for gripping branches."},
+        {"id": "d", "label": "Webbed feet keep the duck warm in cold water", "correct": false, "explanation": "Ducks stay warm through waterproof feathers and a layer of down — not webbed feet. Webbed feet are for efficient swimming."}
+      ],
+      "explanation_md": "Webbed feet are an adaptation for life in water. The webbing between the toes acts like a paddle, pushing more water backward with each stroke. This makes swimming much more efficient for the duck."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Some birds in North Carolina fly south to Florida in the fall and return north in the spring. This behavior is called migration. How is migration an adaptation?",
+      "choices": [
+        {"id": "a", "label": "Migration helps birds build better nests", "correct": false, "explanation": "Nesting behavior is separate from migration. Migration is about moving to find better conditions — especially warmer temperatures and more food."},
+        {"id": "b", "label": "Migration helps birds avoid cold winters and find places with more food and warmth", "correct": true, "explanation": "Correct! Birds migrate to escape cold temperatures and food scarcity in winter. By flying to warmer areas, they survive the season when food in their summer habitat is very limited."},
+        {"id": "c", "label": "Migration makes birds grow larger and stronger", "correct": false, "explanation": "Migration does not directly cause birds to grow. It is a survival behavior, not a growth-triggering one."},
+        {"id": "d", "label": "Migration helps birds scare away predators", "correct": false, "explanation": "Migration is about finding food and warmth, not scaring predators. Camouflage or flocking behavior is more related to predator avoidance."}
+      ],
+      "explanation_md": "Migration is a behavioral adaptation. By flying to warmer climates in fall, birds avoid winter cold and food shortages. When spring returns, they fly back north to breed. This behavior greatly improves their chances of survival."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A wolf has sharp, pointed teeth and powerful jaws. A horse has flat, broad teeth and a long digestive system. What do these differences tell us about what each animal eats?",
+      "choices": [
+        {"id": "a", "label": "Both animals eat the same food — sharp and flat teeth are equally useful for any diet", "correct": false, "explanation": "Tooth shape is directly related to diet. Sharp teeth tear meat; flat teeth grind plants. These animals have very different diets."},
+        {"id": "b", "label": "The wolf's sharp teeth are adapted for tearing meat; the horse's flat teeth are adapted for grinding tough grasses and plants", "correct": true, "explanation": "Correct! Sharp, pointed teeth (carnassial teeth) cut through meat efficiently. Flat, broad molars grind fibrous plant material. Tooth shape is one of the best indicators of an animal's diet."},
+        {"id": "c", "label": "The horse eats meat and the wolf eats grass because of their tooth shapes", "correct": false, "explanation": "This is backwards. Flat teeth (horse) are for grinding plant material. Sharp teeth (wolf) are for tearing meat."},
+        {"id": "d", "label": "Tooth shape has nothing to do with diet — both animals could eat anything", "correct": false, "explanation": "Tooth shape is a direct adaptation to diet. A wolf's teeth cannot efficiently grind grass, and a horse's teeth cannot tear through meat."}
+      ],
+      "explanation_md": "Tooth shape is an adaptation to diet. Wolves are carnivores with sharp, pointed teeth designed to grip and tear meat. Horses are herbivores with flat, broad teeth designed to grind tough grasses and plant material. The digestive systems also differ — horses have long intestines to break down plant fiber."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist moves a cactus from the desert to a rainforest. What is most likely to happen, and why?",
+      "choices": [
+        {"id": "a", "label": "The cactus will thrive because it finally has access to plenty of water", "correct": false, "explanation": "Cacti are adapted for dry conditions. Their root systems can rot if overwatered, and they have no adaptations for dealing with very high humidity and constant rain."},
+        {"id": "b", "label": "The cactus may struggle or die because it is adapted for dry, sunny conditions — not the wet, shady rainforest", "correct": true, "explanation": "Correct! The cactus's adaptations (spines, thick waxy skin, shallow wide roots) are for desert survival. Constant rain and shade are the opposite of its adapted environment. It would likely get overwatered root rot."},
+        {"id": "c", "label": "The cactus will immediately grow flat leaves to absorb rainforest light", "correct": false, "explanation": "Plants cannot instantly change their structure. Adaptation takes many generations — a single cactus cannot grow flat leaves during its lifetime."},
+        {"id": "d", "label": "The cactus will stay exactly the same because all environments are equal for plants", "correct": false, "explanation": "Environments are not equal for plants. A cactus is specifically built for desert conditions — moving it to a very different environment will stress it because its adaptations no longer fit."}
+      ],
+      "explanation_md": "A cactus is a desert specialist. Its adaptations — minimal leaf surface area, thick waxy skin to hold water, spines for defense — are perfect for dry, hot conditions. In a rainforest, the constant moisture would overwhelm its water-storage systems and the shade would reduce the intense sunlight it is adapted for. Moving an organism to a mismatched habitat usually causes it to struggle."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A water lily has wide, flat leaves that float on the surface of a pond. How is this an adaptation to its environment?",
+      "choices": [
+        {"id": "a", "label": "Wide flat leaves help the plant sink to the bottom of the pond", "correct": false, "explanation": "Wide flat leaves that float on the surface have large air pockets that keep them buoyant — they stay on top, not on the bottom."},
+        {"id": "b", "label": "Wide flat leaves provide a large surface area to absorb sunlight at the water's surface where light is strongest", "correct": true, "explanation": "Correct! In a pond, light only penetrates the surface. Wide flat leaves spread out to capture as much sunlight as possible right where light is available — at the surface."},
+        {"id": "c", "label": "Wide flat leaves help the plant store water for dry seasons", "correct": false, "explanation": "Water lilies grow in water — they do not need to store water. Their wide leaves are for capturing sunlight, not storing water."},
+        {"id": "d", "label": "Wide flat leaves keep other plants from growing by blocking sunlight from the water below", "correct": false, "explanation": "While this may be a side effect, the primary adaptation is for the lily itself to capture light. The design serves the lily's own photosynthesis needs."}
+      ],
+      "explanation_md": "Water lily leaves are adapted to a pond environment where light is only strong at the surface. Wide, flat leaves maximize the surface area exposed to sunlight, allowing efficient photosynthesis. Floating at the surface puts the leaves right where the light is strongest."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "During a drought, the plants a deer normally eats dry up and disappear. Which of the following is most likely to happen to the deer population?",
+      "choices": [
+        {"id": "a", "label": "The deer will instantly grow new teeth adapted to eating rocks", "correct": false, "explanation": "Organisms cannot change their body structure instantly. Adaptations develop over many generations, not during a single drought."},
+        {"id": "b", "label": "Some deer will starve; others may migrate to areas with more food; the population will decrease", "correct": true, "explanation": "Correct! When food is scarce, animals that cannot find an alternative food source will starve. Some may travel to new areas. The overall population is likely to decline until food returns."},
+        {"id": "c", "label": "All the deer will immediately adapt and begin eating cacti instead", "correct": false, "explanation": "Adaptations require many generations. Individual deer cannot instantly switch to a food their bodies are not built to digest."},
+        {"id": "d", "label": "The deer will not be affected at all because they can survive without food", "correct": false, "explanation": "All animals need food to survive. Without food, deer — like all animals — will weaken and eventually die."}
+      ],
+      "explanation_md": "When food becomes scarce due to drought, animals face serious survival pressure. Deer that cannot find food will weaken and die. Some may travel (migrate) to find food elsewhere. The population will likely shrink until food sources recover. This illustrates how food availability directly affects an organism's ability to survive and grow."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A fish has gills and a streamlined body. What do these adaptations tell you about where the fish lives and what it needs to survive?",
+      "choices": [
+        {"id": "a", "label": "Gills and a streamlined body mean the fish lives on land and eats leaves", "correct": false, "explanation": "Gills are for extracting oxygen from water, and a streamlined body reduces drag while swimming. These adaptations point to a water habitat, not land."},
+        {"id": "b", "label": "Gills allow the fish to breathe in water; a streamlined body lets it swim efficiently — both are adaptations to living in a water environment", "correct": true, "explanation": "Correct! Gills are an adaptation for breathing underwater. A streamlined body (tapered, smooth) reduces water resistance, allowing the fish to swim efficiently and escape predators or catch prey."},
+        {"id": "c", "label": "Gills and a streamlined body help the fish survive in the desert by storing water", "correct": false, "explanation": "Gills extract oxygen from water — they are not water storage organs. Desert survival requires very different adaptations (thick skin, fat reserves) than gills provide."},
+        {"id": "d", "label": "These are not adaptations — all animals have gills and streamlined bodies", "correct": false, "explanation": "Gills are unique to aquatic animals. Mammals and birds do not have gills. A streamlined body is also a specific adaptation for moving through water or air efficiently."}
+      ],
+      "explanation_md": "Gills are a respiratory adaptation for extracting dissolved oxygen from water — something lungs cannot do. A streamlined body reduces drag in water, allowing fast, efficient movement. Together, these features clearly indicate a water-dwelling lifestyle."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Compare a cactus growing in a desert to a fern growing in a shady rainforest. How does each plant's environment affect its physical features?",
+      "choices": [
+        {"id": "a", "label": "Both plants have identical features because all plants need the same things", "correct": false, "explanation": "Plants that grow in very different environments develop very different features. A cactus looks nothing like a fern — their environments shaped them differently."},
+        {"id": "b", "label": "The cactus has spines and thick waxy skin to hold water in a dry, sunny desert; the fern has large, thin, delicate fronds to capture dim light in a shady, wet rainforest", "correct": true, "explanation": "Correct! Desert conditions require water conservation (spines, thick waxy skin). Rainforest shade requires large leaf surfaces to capture limited light (fern fronds). Each plant's features directly reflect its environment."},
+        {"id": "c", "label": "The fern has spines and the cactus has large flat leaves, because they switched environments", "correct": false, "explanation": "This is backwards. The cactus has spines (not the fern), and ferns have large fronds (not flat broad leaves like the cactus has spines in place of). Adaptations match the organism to its OWN environment."},
+        {"id": "d", "label": "Neither plant has any adaptations because adaptations only apply to animals", "correct": false, "explanation": "Plants absolutely have adaptations. Cactus spines, waxy skin, and water storage are all plant adaptations. Adaptations are found in all living things, not just animals."}
+      ],
+      "explanation_md": "The desert cactus is adapted to conserve water: spines instead of leaves (reducing water loss), thick waxy skin (seals in moisture), and wide shallow roots (quickly absorbing rare rain). The rainforest fern is adapted for low light: large, thin fronds maximize surface area to capture dim light filtering through the dense canopy. Each plant's physical features are a direct response to its environment."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: 'Animals can just decide to change their bodies whenever the environment changes.' Is this true? Explain using an example.",
+      "choices": [
+        {"id": "a", "label": "True — animals consciously choose new adaptations whenever they need them", "correct": false, "explanation": "Animals cannot consciously choose new physical adaptations. A wolf cannot decide to grow flat teeth because it wants to eat grass. Adaptations develop over many generations through natural selection."},
+        {"id": "b", "label": "False — adaptations develop over many generations; individual animals cannot change their body structure on demand", "correct": true, "explanation": "Correct! A polar bear moved to a desert cannot shed its thick fur in one generation. Adaptations develop gradually over many generations as organisms with helpful traits survive and reproduce more successfully."},
+        {"id": "c", "label": "True — animals change instantly when they need to, like a snake growing legs if the land floods", "correct": false, "explanation": "Snakes cannot grow legs on demand. Physical structures are determined by genetics and take many generations of natural selection to change."},
+        {"id": "d", "label": "True — because animals and plants always perfectly match any environment they are placed in", "correct": false, "explanation": "If organisms could instantly match any environment, we would not see species go extinct when their habitat changes. The mismatch between an organism's adaptations and its environment is exactly what causes population decline."}
+      ],
+      "explanation_md": "Individual animals cannot change their body structure on demand. Adaptations are inherited genetic traits that develop over many generations. Animals with helpful traits survive and reproduce more; those without them are less likely to survive. Over many generations, the population becomes better adapted to its environment. A single polar bear moved to a hot desert cannot grow new cooling adaptations — it will struggle because its existing adaptations no longer fit its environment."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which animal is BEST adapted to live in cold, icy water?",
+      "choices": [
+        {"id": "a", "label": "A camel", "correct": false, "explanation": "Camels are adapted for hot, dry deserts — not cold, icy water."},
+        {"id": "b", "label": "A penguin", "correct": true, "explanation": "Correct! Penguins have thick blubber for warmth, waterproof feathers, and flipper-like wings for swimming in icy ocean water."},
+        {"id": "c", "label": "A cactus", "correct": false, "explanation": "A cactus is a plant, not an animal. It is also adapted for dry desert conditions, not cold water."},
+        {"id": "d", "label": "A roadrunner", "correct": false, "explanation": "Roadrunners live in hot, dry desert areas — not cold, icy environments."}
+      ],
+      "explanation_md": "Penguins are perfectly adapted for cold oceanic environments: thick blubber insulates against freezing temperatures, waterproof feathers keep them dry, and flipper-like wings propel them through icy water."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "An eagle has sharp talons (claws). How do sharp talons help an eagle get food?",
+      "choices": [
+        {"id": "a", "label": "Talons help the eagle dig up roots from the ground", "correct": false, "explanation": "Eagles eat meat — they are not root-diggers. Sharp talons grip and catch prey like rabbits, mice, and fish."},
+        {"id": "b", "label": "Talons grip and catch prey like fish and small animals", "correct": true, "explanation": "Correct! An eagle's sharp talons are perfectly designed for catching and holding slippery fish or squirming small animals. Without them, the eagle could not catch its food."},
+        {"id": "c", "label": "Talons help the eagle fly faster", "correct": false, "explanation": "Talons are used for capturing food, not for flying. Wing shape and feathers affect flying speed."},
+        {"id": "d", "label": "Talons crush seeds so the eagle can eat them", "correct": false, "explanation": "Eagles are carnivores — they eat meat, not seeds. Their talons catch live prey."}
+      ],
+      "explanation_md": "An eagle's sharp talons (claws) are an adaptation for catching prey. They can grip a fish tightly even as it struggles. This body feature directly relates to the eagle's diet of small animals and fish."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do bears hibernate (sleep) during winter?",
+      "choices": [
+        {"id": "a", "label": "Bears are lazy and prefer not to move in winter", "correct": false, "explanation": "Hibernation is not laziness — it is a survival behavior. Bears enter a deep sleep specifically to survive winter when food is unavailable."},
+        {"id": "b", "label": "To survive winter when food is scarce by using stored body fat for energy", "correct": true, "explanation": "Correct! In fall, bears eat enormous amounts to build up fat. During winter hibernation, they burn this stored fat slowly for energy, allowing them to survive months without eating."},
+        {"id": "c", "label": "Bears hibernate to grow bigger during winter", "correct": false, "explanation": "Bears actually lose weight during hibernation as they use stored fat. They are not growing — they are surviving."},
+        {"id": "d", "label": "Bears hibernate because they are too hot in winter", "correct": false, "explanation": "Winter is cold, not hot. Bears hibernate to survive cold temperatures and the lack of food that comes with winter, not because they are overheated."}
+      ],
+      "explanation_md": "Hibernation is a behavioral adaptation. When winter arrives and food disappears, bears enter a deep sleep and survive on stored body fat. This allows them to endure months of cold and food scarcity — emerging in spring when food is available again."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A chameleon can change its skin color to match leaves or bark. How is this an adaptation?",
+      "choices": [
+        {"id": "a", "label": "It helps the chameleon communicate with other chameleons only", "correct": false, "explanation": "While color can sometimes communicate mood in chameleons, camouflage (matching the background to hide from predators) is the primary survival adaptation."},
+        {"id": "b", "label": "It camouflages the chameleon, helping it hide from predators and sneak up on prey", "correct": true, "explanation": "Correct! By matching the color of its surroundings, a chameleon becomes very hard to see. This hides it from predators and lets it get close to insects before striking."},
+        {"id": "c", "label": "It helps the chameleon stay warm by absorbing sunlight", "correct": false, "explanation": "Dark colors do absorb more heat, but the primary adaptation of color-changing is camouflage — hiding from predators and stalking prey."},
+        {"id": "d", "label": "It helps the chameleon find water by attracting rain", "correct": false, "explanation": "Color-changing does not attract rain. The adaptation is for camouflage and communication, not water collection."}
+      ],
+      "explanation_md": "A chameleon's ability to change color is a camouflage adaptation. By blending in with leaves, bark, or rocks, the chameleon hides from predators that might eat it and sneaks up on insects it wants to eat. This directly improves its survival."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A plant in the rainforest has very large, broad leaves. A plant in the desert has very tiny leaves (or spines). Why do these plants have such different leaf shapes?",
+      "choices": [
+        {"id": "a", "label": "Rainforest plants need large leaves to capture dim, filtered light; desert plants need tiny leaves to avoid losing precious water", "correct": true, "explanation": "Correct! Rainforests have dense shade — large leaves capture more of the available dim light. Deserts are sunny but dry — tiny leaves (or spines) minimize the surface area from which water evaporates."},
+        {"id": "b", "label": "Both plants randomly developed their leaf shapes with no connection to their environment", "correct": false, "explanation": "Leaf shape is directly connected to environment. Leaf size affects how much light is captured and how much water is lost — both critical factors depending on the habitat."},
+        {"id": "c", "label": "Desert plants have large leaves for shade; rainforest plants have small leaves because they don't need light", "correct": false, "explanation": "This is backwards. Large leaves are for capturing MORE light (rainforest), and small leaves are for conserving water in the desert sun."},
+        {"id": "d", "label": "Leaf shape is only determined by the color of the soil, not the environment", "correct": false, "explanation": "Leaf shape is shaped by many environmental factors — primarily light availability and water availability — not soil color."}
+      ],
+      "explanation_md": "Leaf size is a direct adaptation to environment. In the shady rainforest, large leaves capture more of the limited light that filters through the dense canopy. In the hot, dry desert, minimizing leaf size (or replacing leaves with spines) drastically reduces the surface area through which water evaporates — a critical advantage when water is scarce."
+    }
+  ]
+}
