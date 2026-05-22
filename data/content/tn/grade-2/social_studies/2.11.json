@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.11",
+  "benchmark_description": "Describe the cultural practices, traditions, and contributions of various groups that have settled in Tennessee communities.",
+  "course": "social_studies",
+  "strand": "CUL",
+  "lesson": {
+    "title": "Many Cultures, One Tennessee",
+    "intro": "Tennessee is home to people from all over the world! Different groups of people have brought their own traditions, foods, and stories to our state. Let's learn how many cultures have shaped Tennessee's communities.",
+    "body_md": "## Who Has Settled in Tennessee?\n\nMany groups of people have made their home in Tennessee over hundreds of years.\n\n### Native Americans\n\nThe first people to live in what is now Tennessee were **Native Americans**. The **Cherokee** Nation was one of the largest groups in Tennessee.\n\n**Cherokee contributions and traditions:**\n- Farming corn, beans, and squash (called the \"Three Sisters\")\n- Basket weaving and pottery\n- Rich storytelling traditions\n- The Cherokee language and syllabary (an alphabet invented by Sequoyah)\n- Place names across Tennessee come from Cherokee words\n\n### European Settlers\n\n**English, Scottish, Irish, and German** settlers came to Tennessee in the 1700s and 1800s.\n\n**Contributions:**\n- Log cabin construction techniques\n- Country and bluegrass music (brought from Scotland and Ireland)\n- Small farming traditions\n- Many family names and town names (like Jonesborough, Bristol)\n\n### African Americans\n\n**African Americans** have lived in Tennessee for hundreds of years. Many were enslaved, and after the Civil War, they built communities, businesses, and institutions.\n\n**Contributions:**\n- **Blues, soul, and gospel music** — shaping Tennessee's music identity\n- Fisk University (founded 1866 in Nashville) — a historically Black college\n- The **Fisk Jubilee Singers** — brought African American spiritual music to the world\n- Important civil rights contributions during the 1950s and 1960s\n\n### Latino and Hispanic Communities\n\nA growing community of **Latino and Hispanic** people have settled across Tennessee, particularly in Nashville and other cities.\n\n**Contributions:**\n- Mexican food and restaurants\n- Festivals like Cinco de Mayo\n- Agricultural work and community growth\n\n### Other Groups\n\n- **Asian Americans** — growing communities in Nashville; contributions to restaurants, medicine, and business\n- **Kurdish refugees** — Nashville has one of the largest Kurdish communities in America\n- **Somali communities** — contributing to Nashville's diversity\n\n## How Culture Shows in Communities\n\n| Cultural Element | Examples in Tennessee |\n|---|---|\n| Food | BBQ, country cooking, international restaurants |\n| Music | Country, blues, gospel, bluegrass |\n| Language | English, Spanish, Cherokee, Kurdish |\n| Celebrations | Powwows, Greek Festival (Nashville), Nashville's Cinco de Mayo |\n| Art | Quilts, pottery, murals |",
+    "worked_example_md": "## Worked Example\n\n**Question:** How did the Cherokee Nation contribute to Tennessee?\n\n**Step 1 — Think about what \"contribution\" means:**\nA contribution is something a group gave or added to a community or place.\n\n**Step 2 — List Cherokee contributions:**\n- Farming corn, beans, and squash — these crops helped feed many people.\n- Sequoyah created the Cherokee syllabary — a writing system for the Cherokee language.\n- Place names: many Tennessee places have Cherokee names (e.g., \"Tennessee\" itself comes from a Cherokee word).\n- Basket weaving and art traditions.\n\n**Step 3 — Summarize:**\nThe Cherokee Nation was here first and contributed farming techniques, a written language, art, and many place names that are still used today in Tennessee.\n\n**Answer:** The Cherokee contributed farming knowledge, the Cherokee syllabary writing system, art traditions, and many of Tennessee's place names.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who were the FIRST people to live in what is now Tennessee?",
+      "choices": [
+        {"id": "a", "label": "European settlers from England", "correct": false, "explanation": "European settlers came later, in the 1700s. Native Americans lived in Tennessee for thousands of years before them."},
+        {"id": "b", "label": "Native Americans, including the Cherokee", "correct": true, "explanation": "Native Americans, including the Cherokee Nation, were the first people to live in what is now Tennessee."},
+        {"id": "c", "label": "African American communities after the Civil War", "correct": false, "explanation": "African American communities grew after the Civil War, but they were not the first people in Tennessee."},
+        {"id": "d", "label": "Latino and Hispanic families from Mexico", "correct": false, "explanation": "Latino and Hispanic communities are more recent settlers. Native Americans were here first."}
+      ],
+      "explanation_md": "Native Americans, including the Cherokee Nation, were the first people to live in Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which contribution is associated with Sequoyah and the Cherokee Nation?",
+      "choices": [
+        {"id": "a", "label": "Creating the country music industry", "correct": false, "explanation": "Country music was mainly shaped by European settlers and African American traditions, not the Cherokee."},
+        {"id": "b", "label": "Inventing the Cherokee syllabary writing system", "correct": true, "explanation": "Sequoyah created the Cherokee syllabary — a writing system that allowed the Cherokee language to be written down."},
+        {"id": "c", "label": "Building Tennessee's highways", "correct": false, "explanation": "Modern highways were built much later by government workers, not by Sequoyah."},
+        {"id": "d", "label": "Founding Nashville as a city", "correct": false, "explanation": "Nashville was founded by European American settlers. Sequoyah is known for the Cherokee syllabary."}
+      ],
+      "explanation_md": "Sequoyah created the Cherokee syllabary — a writing system for the Cherokee language. This was a major contribution to literacy."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which music styles were influenced by African American culture in Tennessee?",
+      "choices": [
+        {"id": "a", "label": "Bluegrass and Celtic folk music", "correct": false, "explanation": "Bluegrass and Celtic music were mainly shaped by Scottish and Irish settlers."},
+        {"id": "b", "label": "Blues, soul, and gospel music", "correct": true, "explanation": "Blues, soul, and gospel music are rooted in African American culture and strongly shaped Tennessee's music identity."},
+        {"id": "c", "label": "Opera and classical music only", "correct": false, "explanation": "Opera and classical music are from European traditions, not mainly from African American culture in Tennessee."},
+        {"id": "d", "label": "Rock and roll from England", "correct": false, "explanation": "While rock and roll drew from many traditions, the African American contributions to Tennessee music are blues, soul, and gospel."}
+      ],
+      "explanation_md": "Blues, soul, and gospel music are rooted in African American culture. These genres deeply shaped Tennessee's music identity."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Cherokee farmed a group of three crops — corn, beans, and squash. Why was this an important contribution?",
+      "choices": [
+        {"id": "a", "label": "These crops decorating fields made Tennessee look nice", "correct": false, "explanation": "The Three Sisters crops were important as food, not decoration."},
+        {"id": "b", "label": "These crops provided a reliable food supply for people in the region", "correct": true, "explanation": "Corn, beans, and squash provided a healthy, dependable food supply and farming knowledge passed to later settlers."},
+        {"id": "c", "label": "These crops could only be eaten by Cherokee people", "correct": false, "explanation": "These crops were shared and adopted widely. They fed many groups of people over time."},
+        {"id": "d", "label": "These crops were grown in Tennessee before the land existed", "correct": false, "explanation": "The Three Sisters crops were grown for thousands of years in Tennessee — but the land existed long before then."}
+      ],
+      "explanation_md": "Corn, beans, and squash (the Three Sisters) provided a reliable food supply. This farming knowledge was a major contribution."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Country music in Tennessee is often traced to which group of settlers?",
+      "choices": [
+        {"id": "a", "label": "Native Americans", "correct": false, "explanation": "Native Americans contributed to cultural traditions in Tennessee, but country music is mainly traced to European settler traditions."},
+        {"id": "b", "label": "Scottish and Irish settlers", "correct": true, "explanation": "Country and bluegrass music grew out of folk music traditions brought by Scottish and Irish settlers."},
+        {"id": "c", "label": "Kurdish refugees", "correct": false, "explanation": "Kurdish communities came much more recently and contributed different cultural traditions."},
+        {"id": "d", "label": "Asian American communities", "correct": false, "explanation": "Country music is not associated with Asian American cultural contributions."}
+      ],
+      "explanation_md": "Country and bluegrass music grew from folk music traditions brought to Tennessee by Scottish and Irish settlers."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville is known as one of the most diverse cities in the United States. Which statement BEST explains why?",
+      "choices": [
+        {"id": "a", "label": "Nashville has people from many different cultural backgrounds living and contributing to the city", "correct": true, "explanation": "Nashville has large Kurdish, Somali, Latino, Asian, and other communities making it one of the most diverse cities in the U.S."},
+        {"id": "b", "label": "Nashville only has one type of community living in it", "correct": false, "explanation": "Nashville is known for its many different communities, not for having just one."},
+        {"id": "c", "label": "Nashville allows only certain groups to live there", "correct": false, "explanation": "Nashville is welcoming to people from many backgrounds, not restrictive."},
+        {"id": "d", "label": "Nashville's diversity comes only from music", "correct": false, "explanation": "Nashville's diversity comes from many different cultural groups who have settled there, not just music."}
+      ],
+      "explanation_md": "Nashville has many different cultural communities — Kurdish, Somali, Latino, Asian, and more — making it one of the most diverse cities in the U.S."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Fisk Jubilee Singers are from Nashville. They are important because they:",
+      "choices": [
+        {"id": "a", "label": "Invented the guitar", "correct": false, "explanation": "The guitar was not invented by the Fisk Jubilee Singers."},
+        {"id": "b", "label": "Helped bring African American spiritual music to audiences around the world", "correct": true, "explanation": "The Fisk Jubilee Singers from Fisk University traveled the world, sharing African American spiritual music and raising money for their school."},
+        {"id": "c", "label": "Built the first highway in Tennessee", "correct": false, "explanation": "The Fisk Jubilee Singers are musicians, not road builders."},
+        {"id": "d", "label": "Created country music", "correct": false, "explanation": "The Fisk Jubilee Singers performed African American spirituals, not country music."}
+      ],
+      "explanation_md": "The Fisk Jubilee Singers from Fisk University brought African American spiritual music to worldwide audiences and helped preserve that cultural tradition."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is a cultural **tradition**?",
+      "choices": [
+        {"id": "a", "label": "A law that the government makes", "correct": false, "explanation": "Laws are made by governments. Traditions are customs and practices passed down within a cultural group."},
+        {"id": "b", "label": "A custom or practice passed down within a group from generation to generation", "correct": true, "explanation": "Traditions are cultural practices — like music, food, or celebrations — passed from parents to children over many generations."},
+        {"id": "c", "label": "A type of new technology", "correct": false, "explanation": "Technology is invention. Traditions are cultural practices with roots in history."},
+        {"id": "d", "label": "A map used for navigation", "correct": false, "explanation": "Maps are geographic tools. Traditions are cultural customs passed through generations."}
+      ],
+      "explanation_md": "A tradition is a custom or practice passed down from one generation to the next within a cultural group."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Many Tennessee place names come from Cherokee words. What does this tell us?",
+      "choices": [
+        {"id": "a", "label": "The Cherokee had no lasting impact on Tennessee", "correct": false, "explanation": "The fact that place names come from Cherokee words shows a lasting and important impact."},
+        {"id": "b", "label": "The Cherokee Nation had a deep and lasting influence on Tennessee that continues today", "correct": true, "explanation": "Place names from Cherokee words are evidence that Cherokee culture has shaped Tennessee for thousands of years and still influences it today."},
+        {"id": "c", "label": "Tennessee was named by European settlers", "correct": false, "explanation": "The name Tennessee comes from a Cherokee word. This is one example of their lasting influence."},
+        {"id": "d", "label": "Place names in Tennessee are random and have no cultural meaning", "correct": false, "explanation": "Place names often have deep cultural and historical meaning, including those from Cherokee origins."}
+      ],
+      "explanation_md": "Cherokee place names in Tennessee — including the state name itself — show a deep and lasting cultural influence."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for communities to learn about and respect different cultural groups?",
+      "choices": [
+        {"id": "a", "label": "So that everyone eats the same food", "correct": false, "explanation": "Cultural learning is not about making everyone eat the same thing. It is about understanding and valuing differences."},
+        {"id": "b", "label": "Because learning about different cultures helps communities understand each other, grow stronger, and appreciate diverse contributions", "correct": true, "explanation": "Communities that value and learn from different cultures are stronger, more creative, and better at working together."},
+        {"id": "c", "label": "So one culture can teach everyone else to be exactly the same", "correct": false, "explanation": "Respecting cultures means valuing each group's unique contributions, not making everyone the same."},
+        {"id": "d", "label": "Cultural learning is not important in communities", "correct": false, "explanation": "Understanding different cultures is very important. It helps communities be fair, inclusive, and innovative."}
+      ],
+      "explanation_md": "Learning about and respecting different cultures builds stronger communities that value every group's unique contributions."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is one contribution of African Americans to Tennessee's culture?",
+      "choices": [
+        {"id": "a", "label": "Creating the Cherokee syllabary", "correct": false, "explanation": "The Cherokee syllabary was created by Sequoyah, a Cherokee man. It is a Native American contribution."},
+        {"id": "b", "label": "Blues, soul, and gospel music", "correct": true, "explanation": "Blues, soul, and gospel music are rooted in African American culture and have profoundly shaped Tennessee's music identity."},
+        {"id": "c", "label": "Introducing log cabin building", "correct": false, "explanation": "Log cabin construction techniques were brought by European settlers, not African Americans."},
+        {"id": "d", "label": "Cinco de Mayo celebrations", "correct": false, "explanation": "Cinco de Mayo is a Latino and Mexican celebration, not an African American tradition."}
+      ],
+      "explanation_md": "Blues, soul, and gospel music are significant African American contributions to Tennessee's culture."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The word 'Tennessee' comes from a Cherokee word. What does this tell us about the Cherokee Nation?",
+      "choices": [
+        {"id": "a", "label": "The Cherokee had no lasting influence on Tennessee", "correct": false, "explanation": "The state name itself shows Cherokee influence is permanent and lasting."},
+        {"id": "b", "label": "The Cherokee had a lasting cultural influence on Tennessee that continues today", "correct": true, "explanation": "The state name 'Tennessee' from Cherokee shows that Cherokee culture shaped the land and its naming for all time."},
+        {"id": "c", "label": "European settlers invented the name and gave it to the Cherokee", "correct": false, "explanation": "Tennessee comes from a Cherokee word, not from European settlers."},
+        {"id": "d", "label": "The Cherokee only lived in Tennessee for a short time", "correct": false, "explanation": "The Cherokee lived in Tennessee for thousands of years before removal."}
+      ],
+      "explanation_md": "The state name Tennessee comes from a Cherokee word, showing the Cherokee Nation's lasting influence on the region."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How did settling different groups of people BENEFIT Tennessee communities over time?",
+      "choices": [
+        {"id": "a", "label": "Each new group took away from what earlier groups had built", "correct": false, "explanation": "Each new group added contributions. Tennessee's culture grew richer with each group's additions."},
+        {"id": "b", "label": "Different groups brought unique skills, traditions, and knowledge that made Tennessee's culture richer", "correct": true, "explanation": "Native Americans, European settlers, African Americans, and other groups all contributed unique things that made Tennessee's communities stronger."},
+        {"id": "c", "label": "Tennessee only benefited from one cultural group", "correct": false, "explanation": "Many groups contributed to Tennessee. Its rich music, food, and community life reflect many cultural influences."},
+        {"id": "d", "label": "Cultural differences always cause problems and should be avoided", "correct": false, "explanation": "Cultural diversity brings many benefits to communities, including creative ideas, diverse skills, and rich traditions."}
+      ],
+      "explanation_md": "Each group that settled in Tennessee brought unique skills and traditions, making Tennessee's communities and culture richer."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who lived in Tennessee FIRST?",
+      "choices": [
+        {"id": "a", "label": "European settlers", "correct": false, "explanation": "European settlers came in the 1700s. People had lived in Tennessee for thousands of years before them."},
+        {"id": "b", "label": "Native Americans, including the Cherokee", "correct": true, "explanation": "Native Americans, including the Cherokee, were the first people to live in what is now Tennessee."},
+        {"id": "c", "label": "People from Mexico", "correct": false, "explanation": "Latino and Hispanic people are more recent arrivals. Native Americans were here first."},
+        {"id": "d", "label": "People from Asia", "correct": false, "explanation": "Asian American communities have grown more recently. Native Americans were the first people in Tennessee."}
+      ],
+      "explanation_md": "Native Americans, including the Cherokee Nation, were the first people to live in Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a Cherokee contribution to Tennessee?",
+      "choices": [
+        {"id": "a", "label": "Country music", "correct": false, "explanation": "Country music came mainly from Scottish and Irish settler traditions."},
+        {"id": "b", "label": "The Cherokee syllabary writing system", "correct": true, "explanation": "Sequoyah created the Cherokee syllabary — a writing system for the Cherokee language."},
+        {"id": "c", "label": "Spanish-speaking communities", "correct": false, "explanation": "Spanish-speaking communities are Latino cultural contributions."},
+        {"id": "d", "label": "Building modern highways", "correct": false, "explanation": "Modern highways were built by government agencies, not the Cherokee."}
+      ],
+      "explanation_md": "Sequoyah created the Cherokee syllabary — a writing system invented for the Cherokee language."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What kind of music do African Americans most strongly contribute to in Tennessee?",
+      "choices": [
+        {"id": "a", "label": "Classical orchestra music", "correct": false, "explanation": "Classical music is from European traditions. African American contributions to Tennessee music are blues, soul, and gospel."},
+        {"id": "b", "label": "Blues, soul, and gospel music", "correct": true, "explanation": "Blues, soul, and gospel music are rooted in African American traditions and shaped Tennessee's music deeply."},
+        {"id": "c", "label": "Bluegrass music", "correct": false, "explanation": "Bluegrass came mainly from European (Scottish and Irish) settler traditions."},
+        {"id": "d", "label": "Opera", "correct": false, "explanation": "Opera is a European classical tradition. African American contributions to Tennessee music are blues, soul, and gospel."}
+      ],
+      "explanation_md": "Blues, soul, and gospel music are rooted in African American culture. These genres shaped Tennessee's identity."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A tradition is:",
+      "choices": [
+        {"id": "a", "label": "A law made by the government", "correct": false, "explanation": "Laws are government rules. Traditions are cultural customs."},
+        {"id": "b", "label": "A custom or practice passed down through generations", "correct": true, "explanation": "Traditions are practices and customs that families and groups pass from generation to generation."},
+        {"id": "c", "label": "A new invention", "correct": false, "explanation": "Inventions are new creations. Traditions are practices with roots in history."},
+        {"id": "d", "label": "A type of map", "correct": false, "explanation": "Maps are geography tools. Traditions are cultural practices."}
+      ],
+      "explanation_md": "A tradition is a custom or practice passed down from one generation to the next."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to learn about different cultural groups in our community?",
+      "choices": [
+        {"id": "a", "label": "To make everyone do things exactly the same way", "correct": false, "explanation": "The goal is to respect differences, not make everyone identical."},
+        {"id": "b", "label": "To understand and respect the contributions of all community members", "correct": true, "explanation": "Learning about different cultures helps us value everyone's contributions and build a stronger community."},
+        {"id": "c", "label": "Cultural groups are not important to communities", "correct": false, "explanation": "Cultural groups contribute greatly to community life — through food, music, language, and traditions."},
+        {"id": "d", "label": "To decide which culture is the best", "correct": false, "explanation": "All cultures have value. Learning about them is not about ranking them."}
+      ],
+      "explanation_md": "Learning about different cultural groups helps us respect and appreciate everyone's contributions to the community."
+    }
+  ]
+}
