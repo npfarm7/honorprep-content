@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.E.1.2",
+  "benchmark_description": "Summarize weather conditions using common labels (wind, temperature, precipitation) and instruments (thermometer, rain gauge, weather vane) and record data over time.",
+  "course": "science",
+  "strand": "E",
+  "lesson": {
+    "title": "Measuring and Recording Weather",
+    "intro": "Scientists use special tools to measure temperature, wind direction, and precipitation every day. By recording this data over time, they can find patterns that help predict future weather.",
+    "body_md": "## Three Weather Labels\n\n1. **Temperature** — how hot or cold the air is (measured in degrees)\n2. **Wind** — moving air described by its direction\n3. **Precipitation** — water falling from the sky (rain, snow, sleet, or hail)\n\n## Three Main Instruments\n\n### Thermometer\nMeasures **temperature** in degrees Fahrenheit (F) or Celsius (C). The liquid inside rises when warm and falls when cold.\n\n### Rain Gauge\nMeasures **precipitation** — an open container left outside collects rain or melted snow. You read the marked lines on the side to find how many inches fell.\n\n### Weather Vane\nShows **wind direction** — which direction the wind is coming FROM. The arrow points into the wind toward its origin.\n- Arrow pointing North = wind coming from the north\n- Arrow pointing East = wind coming from the east\n\n## Instrument Summary\n\n| Instrument | Measures | Unit |\n|-----------|----------|------|\n| Thermometer | Temperature | Degrees (F or C) |\n| Rain gauge | Precipitation | Inches |\n| Weather vane | Wind direction | N / S / E / W |\n\n## Recording Data Over Time\n\nScientists write daily measurements in a **weather log** or data table. After many days, they look for **patterns**:\n- Which months get the most rain\n- Whether temperature drops before a storm\n- How seasons affect weather\n\n**Sample 3-day log:**\n\n| Day | Temp | Rain | Wind |\n|-----|------|------|------|\n| Mon | 72F | 0 in | North |\n| Tue | 65F | 1 in | East |\n| Wed | 55F | 0.5 in | West |",
+    "worked_example_md": "## Worked Example: Reading and Recording Weather\n\nMia reads the weather station each morning and records her data:\n\n| Day | Thermometer | Rain gauge | Weather vane |\n|-----|------------|------------|--------------|\n| Day 1 | 78F | 0 in | East |\n| Day 2 | 65F | 1.5 in | South |\n| Day 3 | 58F | 0 in | West |\n\n**What patterns does Mia notice?**\n- Temperature dropped each day (78 to 65 to 58F).\n- Rain only fell on Day 2 when wind came from the south.\n- No rain on days with east or west wind.\n\nConclusion: South wind may predict rain at Mia's location. She should keep recording to confirm this pattern.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which instrument measures temperature?",
+      "choices": [
+        {"id": "a", "label": "Rain gauge", "correct": false, "explanation": "A rain gauge measures precipitation amount, not temperature."},
+        {"id": "b", "label": "Weather vane", "correct": false, "explanation": "A weather vane shows wind direction, not temperature."},
+        {"id": "c", "label": "Thermometer", "correct": true, "explanation": "A thermometer measures temperature — how hot or cold the air is."},
+        {"id": "d", "label": "Ruler", "correct": false, "explanation": "A ruler measures length or distance, not temperature."}
+      ],
+      "explanation_md": "A **thermometer** measures **temperature** in degrees."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a rain gauge measure?",
+      "choices": [
+        {"id": "a", "label": "Temperature of rain", "correct": false, "explanation": "Temperature is measured by a thermometer."},
+        {"id": "b", "label": "How much rain fell", "correct": true, "explanation": "A rain gauge collects rain in an open container. You read the marks to find inches of precipitation."},
+        {"id": "c", "label": "Wind direction", "correct": false, "explanation": "Wind direction is shown by a weather vane, not a rain gauge."},
+        {"id": "d", "label": "Tomorrow's rain", "correct": false, "explanation": "A rain gauge measures past precipitation — not future rain."}
+      ],
+      "explanation_md": "A **rain gauge** measures **how much precipitation fell**, read in inches."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A weather vane arrow points West. The wind is coming FROM —",
+      "choices": [
+        {"id": "a", "label": "The East", "correct": false, "explanation": "The arrow points West, so wind is from the west, not the east."},
+        {"id": "b", "label": "The West", "correct": true, "explanation": "A weather vane points toward where wind comes from. Arrow pointing West = wind from the west."},
+        {"id": "c", "label": "The North", "correct": false, "explanation": "The arrow points West, not North."},
+        {"id": "d", "label": "Straight up", "correct": false, "explanation": "Weather vanes show compass directions (N/S/E/W), not vertical direction."}
+      ],
+      "explanation_md": "A weather vane points into the wind — toward its origin. Arrow pointing West = **west wind** blowing from west to east."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a type of precipitation?",
+      "choices": [
+        {"id": "a", "label": "Wind", "correct": false, "explanation": "Wind is moving air, not water falling from the sky."},
+        {"id": "b", "label": "Snow", "correct": true, "explanation": "Snow is frozen precipitation — water that freezes and falls from clouds."},
+        {"id": "c", "label": "Temperature", "correct": false, "explanation": "Temperature measures heat — it is not a form of water falling from the sky."},
+        {"id": "d", "label": "Sunshine", "correct": false, "explanation": "Sunshine is light from the sun — not precipitation."}
+      ],
+      "explanation_md": "**Precipitation** is water falling from clouds. Snow, rain, sleet, and hail are all forms of precipitation."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student records weather for a month and notices it always rains when wind comes from the south. This is an example of —",
+      "choices": [
+        {"id": "a", "label": "Measuring temperature", "correct": false, "explanation": "The student is analyzing wind direction and rainfall — not temperature."},
+        {"id": "b", "label": "Finding a weather pattern from recorded data", "correct": true, "explanation": "Noticing that south wind always brings rain — from many days of recorded data — is identifying a weather pattern."},
+        {"id": "c", "label": "Using only one day of data", "correct": false, "explanation": "The student used a full month of daily data to find this pattern, not just one day."},
+        {"id": "d", "label": "Using a thermometer", "correct": false, "explanation": "This uses a weather vane (wind direction) and rain gauge (rainfall) — not a thermometer."}
+      ],
+      "explanation_md": "Finding a repeating connection (south wind = rain) from many days of recorded data is identifying a **weather pattern**."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The thermometer reads 30 degrees F. What precipitation is most likely?",
+      "choices": [
+        {"id": "a", "label": "Rain", "correct": false, "explanation": "Rain is liquid water. At 30F (below the freezing point of 32F), water would freeze — liquid rain is unlikely."},
+        {"id": "b", "label": "Snow", "correct": true, "explanation": "30F is below the freezing point. Precipitation at this temperature falls as snow."},
+        {"id": "c", "label": "Hail from a summer storm", "correct": false, "explanation": "Hail comes from warm-weather thunderstorms. Snow is far more likely at 30F."},
+        {"id": "d", "label": "No precipitation can occur below freezing", "correct": false, "explanation": "Precipitation can and does fall below freezing — as snow, sleet, or freezing rain."}
+      ],
+      "explanation_md": "At **30F** (below the freezing point of 32F), precipitation falls as **snow**."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do scientists record weather data every day?",
+      "choices": [
+        {"id": "a", "label": "One day of data is enough to know everything.", "correct": false, "explanation": "One day shows only that day's conditions. Patterns that help prediction need many days of data."},
+        {"id": "b", "label": "To find patterns over time that help predict future weather.", "correct": true, "explanation": "Daily records over weeks and months reveal repeating patterns that scientists use to predict weather."},
+        {"id": "c", "label": "To make instruments work better.", "correct": false, "explanation": "Recording data does not improve instruments. It is about finding patterns."},
+        {"id": "d", "label": "Because weather changes too fast to measure once.", "correct": false, "explanation": "Instruments can measure weather at any time. Recording regularly captures changes so patterns can be found."}
+      ],
+      "explanation_md": "Daily data recording reveals **patterns** over time — like which months are rainiest or what wind direction precedes storms. Patterns allow scientists to **predict future weather**."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A weather vane points South. What does this mean?",
+      "choices": [
+        {"id": "a", "label": "The wind is blowing toward the south.", "correct": false, "explanation": "The vane points toward where wind comes FROM — not where it goes. Pointing South = wind from the south, blowing northward."},
+        {"id": "b", "label": "The wind is coming from the south.", "correct": true, "explanation": "A weather vane pointing South = a south wind, blowing from south toward north."},
+        {"id": "c", "label": "There is no wind.", "correct": false, "explanation": "A specific direction means wind IS blowing — that is what turned the vane to point south."},
+        {"id": "d", "label": "It is raining in the south.", "correct": false, "explanation": "A weather vane shows wind direction at your location — not weather conditions elsewhere."}
+      ],
+      "explanation_md": "Weather vane pointing South = wind coming **from the south** (a south wind blowing northward)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Use the table:\n\n| Day | Temp | Rain |\n|-----|------|------|\n| Mon | 80F | 0 in |\n| Tue | 75F | 0 in |\n| Wed | 62F | 2 in |\n| Thu | 58F | 0 in |\n\nWhich conclusion best fits the data?",
+      "choices": [
+        {"id": "a", "label": "Temperature increased each day.", "correct": false, "explanation": "Temperature went from 80 to 58F — a clear decrease, not an increase."},
+        {"id": "b", "label": "Temperature decreased all week; most rain fell on the coldest day.", "correct": true, "explanation": "Temperature fell from 80F to 58F. The most rain (2 in) fell on Wednesday (62F) — the coldest day at that point in the week."},
+        {"id": "c", "label": "Rain fell every day.", "correct": false, "explanation": "Rain only fell on Wednesday. The other three days show 0 inches."},
+        {"id": "d", "label": "Temperature stayed the same all week.", "correct": false, "explanation": "Temperature ranged from 58F to 80F — clearly different each day."}
+      ],
+      "explanation_md": "Two patterns: temperature **decreased** all week; most rain fell on the **coldest day** (Wednesday, 62F)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "For the best information about seasonal weather patterns from a year of data, a scientist should —",
+      "choices": [
+        {"id": "a", "label": "Compare just the hottest and coldest single day.", "correct": false, "explanation": "Two days cannot represent seasonal patterns."},
+        {"id": "b", "label": "Compare average temperature and total rainfall for each month.", "correct": true, "explanation": "Monthly averages across all 12 months reveal clear seasonal patterns — which months are hottest, coolest, rainiest, and driest."},
+        {"id": "c", "label": "Use only wind direction, since temperature does not matter.", "correct": false, "explanation": "Seasonal patterns involve temperature, precipitation, and wind together. One variable is not enough."},
+        {"id": "d", "label": "Record just one week per season.", "correct": false, "explanation": "One week per season is too small a sample for reliable seasonal patterns."}
+      ],
+      "explanation_md": "Comparing **monthly averages** and **monthly totals** across all 12 months reveals clear seasonal patterns — the standard approach meteorologists use."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A rain gauge reads 2 inches. What does this mean?",
+      "choices": [
+        {"id": "a", "label": "Temperature is above 32F.", "correct": false, "explanation": "A rain gauge measures precipitation amount — not temperature."},
+        {"id": "b", "label": "Two inches of precipitation fell.", "correct": true, "explanation": "The gauge collected 2 inches of rain or melted snow — that is what the reading tells you."},
+        {"id": "c", "label": "Wind came from the south.", "correct": false, "explanation": "Wind direction is measured by a weather vane, not a rain gauge."},
+        {"id": "d", "label": "It will rain tomorrow.", "correct": false, "explanation": "The gauge measures past precipitation — it cannot predict tomorrow's weather."}
+      ],
+      "explanation_md": "Rain gauge reading of 2 inches = **2 inches of precipitation fell**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which instrument shows wind direction?",
+      "choices": [
+        {"id": "a", "label": "Thermometer", "correct": false, "explanation": "A thermometer measures temperature."},
+        {"id": "b", "label": "Rain gauge", "correct": false, "explanation": "A rain gauge measures precipitation amount."},
+        {"id": "c", "label": "Weather vane", "correct": true, "explanation": "A weather vane arrow points toward the direction the wind is coming from."},
+        {"id": "d", "label": "Ruler", "correct": false, "explanation": "A ruler measures length."}
+      ],
+      "explanation_md": "A **weather vane** shows **wind direction** by pointing toward where the wind originates."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student records temperatures: 70, 68, 55, 52, 50 degrees F over 5 days. What pattern does this show?",
+      "choices": [
+        {"id": "a", "label": "Temperature increased each day.", "correct": false, "explanation": "70 to 50F is a clear decrease — not an increase."},
+        {"id": "b", "label": "Temperature decreased each day.", "correct": true, "explanation": "Each day's temperature is lower than the day before — a clear downward trend."},
+        {"id": "c", "label": "Temperature stayed the same.", "correct": false, "explanation": "The values clearly differ each day — they are not the same."},
+        {"id": "d", "label": "Temperature went up then came down.", "correct": false, "explanation": "There is no increase in this data set — only decreases from start to end."}
+      ],
+      "explanation_md": "Temperatures 70 to 50F show a clear **decreasing trend** — temperature fell every day."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a thermometer measure?",
+      "choices": [
+        {"id": "a", "label": "Rainfall", "correct": false, "explanation": "Rainfall is measured with a rain gauge."},
+        {"id": "b", "label": "Temperature", "correct": true, "explanation": "A thermometer measures temperature — how hot or cold something is."},
+        {"id": "c", "label": "Wind direction", "correct": false, "explanation": "Wind direction is shown by a weather vane."},
+        {"id": "d", "label": "Cloud shape", "correct": false, "explanation": "Scientists observe clouds visually — no weather instrument measures cloud shape."}
+      ],
+      "explanation_md": "A **thermometer** measures **temperature** in degrees."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Rain and snow are both types of —",
+      "choices": [
+        {"id": "a", "label": "Wind", "correct": false, "explanation": "Wind is moving air — not water falling from the sky."},
+        {"id": "b", "label": "Precipitation", "correct": true, "explanation": "Precipitation is water falling from clouds. Rain and snow are the two most common forms."},
+        {"id": "c", "label": "Temperature", "correct": false, "explanation": "Temperature measures heat — it is not a form of water falling from the sky."},
+        {"id": "d", "label": "Luster", "correct": false, "explanation": "Luster is a property of minerals — nothing to do with weather."}
+      ],
+      "explanation_md": "**Precipitation** is water falling from clouds. Rain and snow are both forms of precipitation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A weather vane points North. The wind blows FROM —",
+      "choices": [
+        {"id": "a", "label": "South", "correct": false, "explanation": "Pointing North means wind is from the north — not the south."},
+        {"id": "b", "label": "North", "correct": true, "explanation": "The weather vane points toward where wind comes from. Pointing North = wind from the north."},
+        {"id": "c", "label": "East", "correct": false, "explanation": "The vane points North, not East."},
+        {"id": "d", "label": "West", "correct": false, "explanation": "For a west wind, the vane would point West."}
+      ],
+      "explanation_md": "Weather vane pointing North = wind **from the north**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool collects rain in a container to measure how much fell?",
+      "choices": [
+        {"id": "a", "label": "Thermometer", "correct": false, "explanation": "A thermometer measures temperature — not for collecting rain."},
+        {"id": "b", "label": "Weather vane", "correct": false, "explanation": "A weather vane shows wind direction — not a rain collector."},
+        {"id": "c", "label": "Rain gauge", "correct": true, "explanation": "A rain gauge is an open container placed outdoors to collect precipitation. You read the marks to find the amount."},
+        {"id": "d", "label": "Anemometer", "correct": false, "explanation": "An anemometer measures wind speed — not a rain collector."}
+      ],
+      "explanation_md": "A **rain gauge** collects precipitation and measures it in inches from the marks on its side."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is recording weather every day useful?",
+      "choices": [
+        {"id": "a", "label": "It makes the weather better.", "correct": false, "explanation": "Recording weather does not change the weather — it only helps us understand and predict it."},
+        {"id": "b", "label": "It helps find patterns to predict future weather.", "correct": true, "explanation": "Daily records reveal patterns — like which months are rainiest or when cold fronts usually arrive."},
+        {"id": "c", "label": "It is required before using a thermometer.", "correct": false, "explanation": "You can use a thermometer anytime — recording data is not a requirement for using tools."},
+        {"id": "d", "label": "It stops storms from happening.", "correct": false, "explanation": "Recording data cannot stop storms — only help us understand and predict them."}
+      ],
+      "explanation_md": "Daily weather records reveal **patterns** over time that help **predict future weather** — the main reason scientists keep weather logs."
+    }
+  ]
+}
