@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.L.2.1",
+  "benchmark_description": "Summarize the life cycle of plants: seed, germination, growth, reproduction, and eventually death.",
+  "course": "science",
+  "strand": "L",
+  "lesson": {
+    "title": "The Life Cycle of Plants",
+    "intro": "Just like animals, plants go through a life cycle. A life cycle is the stages a living thing goes through from the beginning of its life to the end. In this lesson we will follow a plant from a tiny seed to a full-grown plant that makes new seeds.",
+    "body_md": "## Stages of a Plant's Life Cycle\n\nMost plants go through five main stages:\n\n### 1. Seed\nA **seed** contains a tiny plant (embryo) and stored food. Seeds come in many shapes and sizes — an apple seed, an acorn, or a sunflower seed. Inside the seed is everything the new plant needs to start growing.\n\n### 2. Germination\n**Germination** is when the seed begins to sprout and grow. For a seed to germinate it needs:\n- **Water** — softens the seed coat and starts the growing process\n- **Warmth** — the right temperature triggers growth\n- **Air** — the tiny plant needs oxygen to grow\n\nDuring germination, a small **root** grows downward and a tiny **shoot** grows upward toward the light.\n\n### 3. Growth (Seedling → Adult Plant)\nThe tiny plant is now called a **seedling**. It grows bigger by:\n- Absorbing water and nutrients through its **roots**\n- Using sunlight, water, and air to make food through **photosynthesis** in its **leaves**\n- Growing a strong **stem** to hold it upright\n\nOver time the seedling becomes a full **adult plant** with leaves, a strong stem, and (eventually) flowers.\n\n### 4. Reproduction\nAdult plants reproduce (make new plants) by making **seeds**. Many plants grow **flowers** first. Inside the flower, pollen travels from one part to another (pollination) — often carried by bees, butterflies, or the wind. After pollination, a **fruit** or seed pod forms. Inside the fruit are new seeds. When the fruit is ripe, seeds are spread by animals, wind, or water — this is called **seed dispersal**.\n\n### 5. Death\nAfter a plant has reproduced, it eventually **dies**. Annual plants (like sunflowers) complete the whole life cycle in one year. Perennial plants (like oak trees) live for many years and reproduce many times before dying.\n\n## Comparing Plant Life Cycles\n\n| Plant | Seed Type | Time to Grow | How Seeds Spread |\n|-------|-----------|--------------|------------------|\n| Bean plant | Bean (seed in a pod) | ~60 days | Falls to ground |\n| Dandelion | Tiny seed with a parachute | ~2–3 weeks | Wind |\n| Apple tree | Apple seed | Several years | Animals eat apples |\n| Coconut palm | Coconut | Decades | Ocean water |\n\n## Key Vocabulary\n- **Seed** – the starting form of a new plant\n- **Germination** – when a seed begins to sprout\n- **Seedling** – a young plant that has just sprouted\n- **Photosynthesis** – how plants make food using sunlight, water, and air\n- **Pollination** – the process that allows plants to make seeds\n- **Seed dispersal** – how seeds travel to new places to grow",
+    "worked_example_md": "### Worked Example: Sequencing the Bean Plant Life Cycle\n\n**Question:** Put the stages of a bean plant's life cycle in the correct order:\n\n- The bean plant flowers and beans (seeds) form inside pods.\n- A bean seed falls into warm, moist soil.\n- The bean pods dry out and seeds drop to the ground.\n- A seedling pushes up through the soil.\n- The seedling grows into a full adult bean plant.\n\n**Step 1 – Recall the five stages:** Seed → Germination → Growth → Reproduction → Death\n\n**Step 2 – Match each sentence to a stage:**\n- 'A bean seed falls into warm, moist soil' → **Seed** (starting point)\n- 'A seedling pushes up through the soil' → **Germination** (seed sprouting)\n- 'The seedling grows into a full adult bean plant' → **Growth**\n- 'The bean plant flowers and beans form inside pods' → **Reproduction**\n- 'The bean pods dry out and seeds drop to the ground' → beginning of **Death** stage / seed dispersal for the next cycle\n\n**Correct order:** Seed → Germination → Seedling Growth → Flowering & Seed Formation → Seed Dispersal/Death\n\nThe life cycle then begins again when a new seed lands and germinates.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is germination?",
+      "choices": [
+        {"id": "a", "label": "When a plant makes flowers", "correct": false, "explanation": "Flower formation happens during the reproduction stage, which comes after germination."},
+        {"id": "b", "label": "When a seed begins to sprout and grow", "correct": true, "explanation": "Correct! Germination is the stage when a seed absorbs water and starts to sprout — a root grows down and a shoot grows up."},
+        {"id": "c", "label": "When a plant dies at the end of its life", "correct": false, "explanation": "Death is the final stage of the life cycle. Germination is the very beginning — when the seed first starts to grow."},
+        {"id": "d", "label": "When an animal eats the seeds", "correct": false, "explanation": "Animals eating seeds is part of seed dispersal. Germination is when the seed itself begins to sprout."}
+      ],
+      "explanation_md": "Germination is when a seed absorbs water and begins to sprout. A tiny root grows downward and a shoot pushes upward toward light."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following does a seed need to germinate?",
+      "choices": [
+        {"id": "a", "label": "Sunlight, sand, and salt", "correct": false, "explanation": "Seeds need water, warmth, and air to germinate — not sand or salt. Sunlight is important later during the growth stage."},
+        {"id": "b", "label": "Water, warmth, and air", "correct": true, "explanation": "Correct! A seed needs water to soften the seed coat and start growth, warmth to activate the embryo, and air (oxygen) for the tiny plant to begin developing."},
+        {"id": "c", "label": "Only sunlight", "correct": false, "explanation": "Seeds actually germinate underground where there is little sunlight. They need water, warmth, and air — not light — to sprout."},
+        {"id": "d", "label": "Cold temperatures and ice", "correct": false, "explanation": "Most seeds need warmth to germinate. Cold temperatures slow down or stop germination."}
+      ],
+      "explanation_md": "For a seed to germinate it needs water (to start the process), warmth (the right temperature), and air (oxygen). Sunlight is needed later when the seedling's leaves start photosynthesis."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What comes FIRST in a plant's life cycle?",
+      "choices": [
+        {"id": "a", "label": "Flower", "correct": false, "explanation": "Flowers are produced during the reproduction stage, which comes much later in the life cycle."},
+        {"id": "b", "label": "Seedling", "correct": false, "explanation": "A seedling is a young plant that has already sprouted from a seed. The seed comes first."},
+        {"id": "c", "label": "Seed", "correct": true, "explanation": "Correct! The seed is the starting point of a plant's life cycle. From the seed, the plant germinates and begins to grow."},
+        {"id": "d", "label": "Fruit", "correct": false, "explanation": "Fruit forms during the reproduction stage when the plant is already an adult. It comes near the end of the life cycle, not the beginning."}
+      ],
+      "explanation_md": "A plant's life cycle begins with the seed. The order is: Seed → Germination → Growth → Reproduction → Death."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student plants a bean seed in soil and waters it every day. After one week, a tiny shoot appears above the soil. What stage of the life cycle is happening?",
+      "choices": [
+        {"id": "a", "label": "Reproduction", "correct": false, "explanation": "Reproduction happens when the adult plant makes flowers and seeds — much later than one week after planting."},
+        {"id": "b", "label": "Death", "correct": false, "explanation": "Death is the final stage. A tiny shoot pushing out of soil is the very beginning of growth, not the end."},
+        {"id": "c", "label": "Germination", "correct": true, "explanation": "Correct! When a seed sprouts and a shoot appears above the soil, the plant is in the germination stage — the seed is beginning to grow."},
+        {"id": "d", "label": "Seed dispersal", "correct": false, "explanation": "Seed dispersal is when seeds travel to new places (by wind, animals, or water). A shoot pushing up from soil is germination."}
+      ],
+      "explanation_md": "When a seed sprouts and a tiny shoot appears, the plant is germinating. Germination follows the seed stage and precedes the full growth stage."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do plants grow flowers?",
+      "choices": [
+        {"id": "a", "label": "To make leaves for photosynthesis", "correct": false, "explanation": "Leaves carry out photosynthesis, not flowers. Flowers serve a different purpose."},
+        {"id": "b", "label": "To attract insects and birds that help with pollination so the plant can make seeds", "correct": true, "explanation": "Correct! Flowers attract pollinators (bees, butterflies, birds) with their color, shape, and nectar. Pollinators carry pollen between flowers, which allows seeds to form."},
+        {"id": "c", "label": "To absorb water from the soil", "correct": false, "explanation": "Roots absorb water from the soil, not flowers."},
+        {"id": "d", "label": "To anchor the plant in the ground", "correct": false, "explanation": "Roots anchor the plant in the ground. Flowers are used for reproduction, not anchoring."}
+      ],
+      "explanation_md": "Flowers are the plant's reproductive structure. Their colors and scents attract pollinators like bees and butterflies. When a pollinator visits a flower, it transfers pollen, which allows the plant to form seeds and reproduce."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How do dandelion seeds travel to new places?",
+      "choices": [
+        {"id": "a", "label": "Animals carry them in their stomachs after eating berries", "correct": false, "explanation": "Dandelion seeds are not berries. They travel by wind, not by being eaten."},
+        {"id": "b", "label": "They float on water to a new shore", "correct": false, "explanation": "Coconuts float on water, but dandelion seeds are very light and have a fluffy parachute that carries them by wind."},
+        {"id": "c", "label": "The wind carries their fluffy parachute-like seeds through the air", "correct": true, "explanation": "Correct! Each dandelion seed has a tiny feathery parachute. When the wind blows, seeds lift off and float to new locations where they can germinate."},
+        {"id": "d", "label": "They are launched by an explosion from the pod", "correct": false, "explanation": "Some plants like witch hazel launch seeds explosively, but dandelion seeds float on the wind."}
+      ],
+      "explanation_md": "Dandelion seeds have a fluffy, parachute-like structure that catches the wind. This is how they are dispersed — they float through the air to land in new spots where they can grow."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A sunflower germinates in spring, grows all summer, makes seeds in the fall, and then the plant dies by winter. What type of plant is a sunflower?",
+      "choices": [
+        {"id": "a", "label": "A perennial plant that lives for many years", "correct": false, "explanation": "Perennials live for multiple years. A sunflower completes its entire life cycle in one year — that makes it an annual."},
+        {"id": "b", "label": "An annual plant that completes its life cycle in one year", "correct": true, "explanation": "Correct! An annual plant grows from seed, reproduces, and dies all within a single year (or growing season). Sunflowers are annuals."},
+        {"id": "c", "label": "An evergreen plant that keeps its leaves all year", "correct": false, "explanation": "Evergreen refers to plants that keep their leaves through winter (like pine trees). Sunflowers lose all their parts and die — they are annuals."},
+        {"id": "d", "label": "A plant that reproduces without seeds", "correct": false, "explanation": "Sunflowers reproduce with seeds found in their large seed heads. Seedless reproduction (like spores in ferns) is a different strategy."}
+      ],
+      "explanation_md": "Annual plants complete their entire life cycle — from seed through germination, growth, reproduction, and death — within one growing year. Sunflowers are classic annuals. Perennial plants like oak trees can live and reproduce for many years."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student spills apple juice on a bag of apple seeds. Weeks later she finds tiny sprouts growing in the bag. What happened?",
+      "choices": [
+        {"id": "a", "label": "The seeds reproduced inside the bag", "correct": false, "explanation": "Reproduction produces new seeds. The seeds in the bag were already formed — what happened next was germination."},
+        {"id": "b", "label": "The seeds germinated because the juice provided moisture and the bag provided warmth", "correct": true, "explanation": "Correct! The apple juice provided moisture (like water) and the enclosed bag kept warmth in — two of the three requirements for germination. The seeds began to sprout."},
+        {"id": "c", "label": "The seeds died because juice is harmful to plants", "correct": false, "explanation": "The seeds did not die — they sprouted. Moisture (even from juice) can trigger germination if other conditions (warmth, air) are also present."},
+        {"id": "d", "label": "The seeds changed into a different type of plant because of the juice", "correct": false, "explanation": "Seeds cannot change species. An apple seed always grows into an apple tree, regardless of what liquid started germination."}
+      ],
+      "explanation_md": "The moisture from the juice triggered germination — the apple seeds began sprouting because they received the water and warmth needed to activate the embryo inside. This is an example of accidental germination conditions."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is seed dispersal important for plants?",
+      "choices": [
+        {"id": "a", "label": "It prevents animals from eating the seeds", "correct": false, "explanation": "Seed dispersal actually often relies on animals eating fruit and dropping seeds elsewhere. It is not about preventing animals from eating seeds."},
+        {"id": "b", "label": "It allows seeds to reach new areas where there is less competition for water, sunlight, and space", "correct": true, "explanation": "Correct! If all seeds fell directly below the parent plant, many would compete with each other and the parent for the same resources. Dispersal spreads seeds to new spots with better chances of survival."},
+        {"id": "c", "label": "It causes seeds to germinate faster", "correct": false, "explanation": "Dispersal moves seeds to new locations — it does not speed up germination. The speed of germination depends on temperature, moisture, and air."},
+        {"id": "d", "label": "It stops plants from reproducing too many times", "correct": false, "explanation": "Dispersal helps plants reproduce in MORE locations, not fewer. It is about spreading offspring to new areas."}
+      ],
+      "explanation_md": "Seed dispersal spreads seeds to new areas away from the parent plant. This reduces competition for water, sunlight, and nutrients. Seeds that land in good locations have a better chance of germinating and growing into healthy plants."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An oak tree lives for 200 years and produces thousands of acorns. A bean plant lives for about 60 days and produces a few dozen seeds. How are BOTH plants following the same basic life cycle pattern?",
+      "choices": [
+        {"id": "a", "label": "Both skip germination because they are so different", "correct": false, "explanation": "All plants go through germination. Neither the oak nor the bean skips any stage of the life cycle."},
+        {"id": "b", "label": "Both follow the same sequence: seed → germination → growth → reproduction → death, just at different speeds", "correct": true, "explanation": "Correct! Whether a plant lives 60 days or 200 years, it follows the same life cycle pattern. The oak takes longer and reproduces many more times, but the stages are identical."},
+        {"id": "c", "label": "Only the oak tree has a life cycle — bean plants are too small to have one", "correct": false, "explanation": "All plants have a life cycle regardless of their size. The bean plant's life cycle is just faster and smaller than the oak's."},
+        {"id": "d", "label": "The bean plant is a perennial and the oak is an annual", "correct": false, "explanation": "This is backwards. Bean plants are annuals (live one season). Oak trees are perennials (live many years). But both follow the same life cycle stages."}
+      ],
+      "explanation_md": "All plants — large or small, fast or slow-growing — follow the same five-stage life cycle: seed, germination, growth, reproduction, and death. The duration of each stage differs greatly between species, but the pattern is universal."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Put the stages of a plant's life cycle in order from first to last.",
+      "choices": [
+        {"id": "a", "label": "Growth → Seed → Germination → Reproduction → Death", "correct": false, "explanation": "Growth comes after germination, not before. The correct order starts with the seed."},
+        {"id": "b", "label": "Seed → Germination → Growth → Reproduction → Death", "correct": true, "explanation": "Correct! A plant starts as a seed, germinates (sprouts), grows into an adult, reproduces by making new seeds, and eventually dies."},
+        {"id": "c", "label": "Reproduction → Seed → Death → Growth → Germination", "correct": false, "explanation": "This order is scrambled. The life cycle always starts with a seed and ends with death."},
+        {"id": "d", "label": "Germination → Death → Seed → Growth → Reproduction", "correct": false, "explanation": "Death does not happen before growth. The life cycle proceeds from seed through germination and growth to reproduction and finally death."}
+      ],
+      "explanation_md": "The five stages of a plant's life cycle in order are: Seed → Germination → Growth → Reproduction → Death. This pattern repeats each time new seeds are produced."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A cherry tree's fruit is eaten by birds. The birds fly miles away and the cherry seeds pass through the bird and fall to the ground in their droppings. Explain how this helps the cherry tree's life cycle continue.",
+      "choices": [
+        {"id": "a", "label": "The bird's body destroys the seed so a new kind of plant can grow", "correct": false, "explanation": "Cherry seeds are designed to survive digestion. They land intact in a new location — the bird does not destroy them."},
+        {"id": "b", "label": "The birds carry the seeds to new locations where they can germinate and grow, spreading the cherry tree's offspring far from the parent", "correct": true, "explanation": "Correct! Birds disperse seeds in their droppings. The seeds land in a new location with potentially less competition, germinate, and begin a new life cycle."},
+        {"id": "c", "label": "The birds plant the seeds perfectly so they always germinate", "correct": false, "explanation": "Birds do not intentionally plant seeds. Seeds that land in droppings germinate if conditions are right — some do and some do not."},
+        {"id": "d", "label": "The bird's droppings prevent the seed from germinating", "correct": false, "explanation": "Bird droppings (containing nitrogen) can actually help fertilize soil. They do not prevent germination."}
+      ],
+      "explanation_md": "When birds eat cherries and fly away, the seeds pass through undigested and land in droppings miles from the parent tree. This is seed dispersal by animals. The seed is now in a new location where it may germinate and grow with less competition from the parent tree — continuing the cherry tree's life cycle in a new spot."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Compare the life cycle of a bean plant (annual) to an oak tree (perennial). In what ways are they similar, and what is the key difference?",
+      "choices": [
+        {"id": "a", "label": "They are identical in every way — both live the same length of time and make the same number of seeds", "correct": false, "explanation": "Bean plants live ~60 days and produce dozens of seeds. Oak trees live centuries and produce thousands of acorns. They are very different in duration and seed production."},
+        {"id": "b", "label": "Both follow the same five stages (seed, germination, growth, reproduction, death), but a bean plant completes the cycle in one season while an oak tree lives and reproduces for many years", "correct": true, "explanation": "Correct! The stages are the same for both plants. The key difference is time — a bean plant completes the cycle in about 60 days, while an oak tree repeats the reproduction stage for hundreds of years before eventually dying."},
+        {"id": "c", "label": "Oak trees do not go through germination — they grow directly from adult trees", "correct": false, "explanation": "All plants start as seeds and go through germination. Oak trees begin as acorns that germinate in soil."},
+        {"id": "d", "label": "Bean plants are perennials because they grow in gardens, and oak trees are annuals because they grow in forests", "correct": false, "explanation": "Whether a plant is an annual or perennial has nothing to do with where it grows. Bean plants are annuals and oak trees are perennials based on their lifespan, not their location."}
+      ],
+      "explanation_md": "Both annual and perennial plants share the same five-stage life cycle: seed, germination, growth, reproduction, and death. The critical difference is time. An annual like the bean completes all stages in one season. A perennial like the oak grows for decades or centuries, repeating the reproduction stage many times before dying."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is inside a seed?",
+      "choices": [
+        {"id": "a", "label": "A tiny plant (embryo) and stored food", "correct": true, "explanation": "Correct! Every seed contains a tiny plant called an embryo and stored food to help it start growing before it can make its own food through photosynthesis."},
+        {"id": "b", "label": "Water and soil", "correct": false, "explanation": "A seed does not contain water or soil inside it. It contains a tiny plant and food for that plant."},
+        {"id": "c", "label": "Flowers and petals", "correct": false, "explanation": "Flowers are produced much later in the life cycle. A seed contains a tiny embryo, not flowers."},
+        {"id": "d", "label": "Nothing — seeds are empty", "correct": false, "explanation": "Seeds are not empty. Each seed holds a tiny plant embryo and a supply of stored food to help it begin growing."}
+      ],
+      "explanation_md": "A seed contains two important things: a tiny plant (the embryo) and stored food (endosperm) that feeds the embryo until it can make its own food through photosynthesis."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A seed is planted in soil and watered. A few days later, a tiny green shoot pokes out of the ground. What stage is happening?",
+      "choices": [
+        {"id": "a", "label": "Death", "correct": false, "explanation": "Death is the end of the life cycle. A shoot pushing out of soil is the very beginning."},
+        {"id": "b", "label": "Reproduction", "correct": false, "explanation": "Reproduction happens when the adult plant makes flowers and seeds — much later in the life cycle."},
+        {"id": "c", "label": "Germination", "correct": true, "explanation": "Correct! When a seed sprouts and a shoot appears, the plant is germinating. This is the second stage of the plant life cycle."},
+        {"id": "d", "label": "Pollination", "correct": false, "explanation": "Pollination happens during the reproduction stage when pollen moves between flowers. A seedling sprouting is germination."}
+      ],
+      "explanation_md": "When a planted seed sprouts and a shoot pushes out of the soil, that is germination — the beginning of the plant's growth from a seed."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which part of a plant absorbs water from the soil?",
+      "choices": [
+        {"id": "a", "label": "Leaves", "correct": false, "explanation": "Leaves take in sunlight and air — they do not absorb water from soil."},
+        {"id": "b", "label": "Flowers", "correct": false, "explanation": "Flowers are used for reproduction, not absorbing water."},
+        {"id": "c", "label": "Roots", "correct": true, "explanation": "Correct! Roots grow down into the soil and absorb water and nutrients. The water then travels up through the stem to the rest of the plant."},
+        {"id": "d", "label": "Seeds", "correct": false, "explanation": "Seeds absorb water to begin germination, but once the plant is growing, it is the roots that absorb water from the soil."}
+      ],
+      "explanation_md": "Roots grow underground and absorb water and nutrients from the soil. This water travels up through the stem to supply the rest of the plant."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do we call it when seeds travel from one place to another?",
+      "choices": [
+        {"id": "a", "label": "Germination", "correct": false, "explanation": "Germination is when a seed sprouts and starts to grow. Seed movement is called dispersal."},
+        {"id": "b", "label": "Photosynthesis", "correct": false, "explanation": "Photosynthesis is how plants make food using sunlight. Seeds traveling is called dispersal."},
+        {"id": "c", "label": "Seed dispersal", "correct": true, "explanation": "Correct! Seed dispersal is the process by which seeds travel to new places — by wind, water, or animals."},
+        {"id": "d", "label": "Pollination", "correct": false, "explanation": "Pollination is when pollen moves between flowers so seeds can form. Seeds traveling AFTER they form is called dispersal."}
+      ],
+      "explanation_md": "Seed dispersal is how seeds travel to new locations. Wind, water, and animals all help disperse seeds so new plants can grow in different places."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student draws the life cycle of a sunflower: Seed → ? → Growth → Reproduction → Death. What stage is missing?",
+      "choices": [
+        {"id": "a", "label": "Pollination", "correct": false, "explanation": "Pollination is part of the reproduction stage. The missing stage between seed and growth is germination."},
+        {"id": "b", "label": "Germination", "correct": true, "explanation": "Correct! The correct order is Seed → Germination → Growth → Reproduction → Death. Germination is when the seed sprouts."},
+        {"id": "c", "label": "Flower", "correct": false, "explanation": "Flowers form during the reproduction stage. The stage missing between seed and growth is germination."},
+        {"id": "d", "label": "Fruit", "correct": false, "explanation": "Fruit forms during the reproduction stage. The missing stage in the sequence is germination."}
+      ],
+      "explanation_md": "The five stages of a plant's life cycle are: Seed → Germination → Growth → Reproduction → Death. Germination is the missing stage — it is when the seed sprouts and begins to grow."
+    }
+  ]
+}
