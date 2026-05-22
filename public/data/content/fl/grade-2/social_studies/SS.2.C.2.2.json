@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.C.2.2",
+  "benchmark_description": "Identify the rights and responsibilities of citizens of the United States.",
+  "course": "social_studies",
+  "strand": "C",
+  "lesson": {
+    "title": "Rights and Responsibilities of U.S. Citizens",
+    "intro": "As a citizen of the United States, you have special rights. Rights are things the government protects for you, like speaking freely or practicing your religion. But being a citizen also means you have responsibilities \u2014 things you should do to help your community and country.",
+    "body_md": "## What Are Rights?\n\nRights are protections that the government gives every citizen. Some important rights are:\n\n- **Freedom of speech** \u2014 You can share your ideas and opinions.\n- **Freedom of religion** \u2014 You can practice any religion you choose.\n- **Right to vote** \u2014 Adult citizens can choose their leaders.\n- **Right to a fair trial** \u2014 If someone is accused of a crime, they get a fair hearing in court.\n\nThese rights come from important documents like the **Constitution** and the **Bill of Rights**.\n\n## What Are Responsibilities?\n\nResponsibilities are things good citizens do to keep their community and country strong. Some important responsibilities are:\n\n- **Obey the laws** \u2014 Laws protect everyone and keep communities safe.\n- **Pay taxes** \u2014 Taxes help pay for schools, roads, and fire stations.\n- **Vote** \u2014 Adult citizens vote to choose leaders who make good decisions.\n- **Respect others** \u2014 Treat other people kindly, even when you disagree with them.\n- **Stay informed** \u2014 Learn about what is happening in your community and country.\n\n## Rights and Responsibilities Go Together\n\nRights and responsibilities work as a team. You have the right to use a park, but you have the responsibility to keep it clean. You have the right to go to school, but you have the responsibility to work hard and follow school rules.\n\n## Kids Have Rights and Responsibilities Too!\n\nEven as a second grader, you have rights and responsibilities:\n\n- You have the **right** to learn in a safe classroom.\n- You have the **responsibility** to listen, follow rules, and treat classmates with respect.\n- You have the **right** to share your ideas.\n- You have the **responsibility** to let others share their ideas too.",
+    "worked_example_md": "**Think About It:** Mia's town wants to build a new library. The town holds a public meeting where everyone can share ideas. Adults vote to decide if the library should be built.\n\n- What **right** are citizens using at the public meeting? *Freedom of speech \u2014 they can share their opinions.*\n- What **responsibility** are adults fulfilling when they vote? *Voting is a civic responsibility \u2014 citizens help make community decisions.*\n- What **right** will citizens have once the library is built? *The right to use public spaces and access information.*",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **right** of United States citizens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Pay taxes",
+          "correct": false,
+          "explanation": "Paying taxes is a responsibility, not a right."
+        },
+        {
+          "id": "B",
+          "label": "Freedom of speech",
+          "correct": true,
+          "explanation": "Freedom of speech is a right protected by the Bill of Rights."
+        },
+        {
+          "id": "C",
+          "label": "Obey the law",
+          "correct": false,
+          "explanation": "Obeying the law is a responsibility, not a right."
+        },
+        {
+          "id": "D",
+          "label": "Keep the park clean",
+          "correct": false,
+          "explanation": "Keeping the park clean is a responsibility, not a right."
+        }
+      ],
+      "explanation_md": "Rights are protections the government gives you. Freedom of speech is one of the most important rights in the Bill of Rights."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **responsibility** of United States citizens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Freedom of religion",
+          "correct": false,
+          "explanation": "Freedom of religion is a right, not a responsibility."
+        },
+        {
+          "id": "B",
+          "label": "Right to vote",
+          "correct": false,
+          "explanation": "The right to vote is a right, but actually voting is also a responsibility."
+        },
+        {
+          "id": "C",
+          "label": "Obey the laws",
+          "correct": true,
+          "explanation": "Obeying the laws is a responsibility that helps keep everyone safe."
+        },
+        {
+          "id": "D",
+          "label": "Right to a fair trial",
+          "correct": false,
+          "explanation": "A fair trial is a right, not a responsibility."
+        }
+      ],
+      "explanation_md": "Responsibilities are things citizens should do. Obeying the law is one of the most basic responsibilities."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The **Bill of Rights** is important because it",
+      "choices": [
+        {
+          "id": "A",
+          "label": "lists citizens' responsibilities",
+          "correct": false,
+          "explanation": "The Bill of Rights lists rights, not responsibilities."
+        },
+        {
+          "id": "B",
+          "label": "protects the rights of citizens",
+          "correct": true,
+          "explanation": "The Bill of Rights lists and protects important rights like freedom of speech and religion."
+        },
+        {
+          "id": "C",
+          "label": "tells citizens how to pay taxes",
+          "correct": false,
+          "explanation": "The Bill of Rights does not cover taxes."
+        },
+        {
+          "id": "D",
+          "label": "explains how to become president",
+          "correct": false,
+          "explanation": "The Bill of Rights does not explain how to become president."
+        }
+      ],
+      "explanation_md": "The Bill of Rights is the first ten amendments to the Constitution. It protects important rights for all citizens."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is **voting** considered both a right AND a responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because only some citizens can vote",
+          "correct": false,
+          "explanation": "All adult citizens have the right to vote."
+        },
+        {
+          "id": "B",
+          "label": "Because citizens have the right to choose leaders and should use that right",
+          "correct": true,
+          "explanation": "Citizens have the right to vote, and it is also their responsibility to participate in choosing leaders."
+        },
+        {
+          "id": "C",
+          "label": "Because the government forces everyone to vote",
+          "correct": false,
+          "explanation": "In the United States, voting is not required by law."
+        },
+        {
+          "id": "D",
+          "label": "Because only elected officials vote",
+          "correct": false,
+          "explanation": "Ordinary citizens vote to choose elected officials."
+        }
+      ],
+      "explanation_md": "Voting is a right \u2014 the government protects your ability to vote. It is also a responsibility because choosing leaders affects the whole community."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Marcos says that rights and responsibilities go together. Which example best shows what he means?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "You have the right to speak, so you never have to listen",
+          "correct": false,
+          "explanation": "Having the right to speak does not mean you never have to listen. Responsibilities include respecting others' right to speak too."
+        },
+        {
+          "id": "B",
+          "label": "You have the right to use the school library, so you should return books on time",
+          "correct": true,
+          "explanation": "The right to use the library comes with the responsibility to return books so others can use them too."
+        },
+        {
+          "id": "C",
+          "label": "You have the right to a fair trial, so you can break laws",
+          "correct": false,
+          "explanation": "The right to a fair trial does not mean you can break laws. Obeying the law is a responsibility."
+        },
+        {
+          "id": "D",
+          "label": "You have the responsibility to pay taxes, so you get no rights",
+          "correct": false,
+          "explanation": "All citizens have rights regardless of responsibilities."
+        }
+      ],
+      "explanation_md": "Rights and responsibilities are balanced. The right to use the library comes with the responsibility to treat it carefully so everyone can use it."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which document FIRST listed the important rights of American citizens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The Pledge of Allegiance",
+          "correct": false,
+          "explanation": "The Pledge of Allegiance is a promise of loyalty, not a list of rights."
+        },
+        {
+          "id": "B",
+          "label": "The school handbook",
+          "correct": false,
+          "explanation": "A school handbook lists school rules, not citizens' rights."
+        },
+        {
+          "id": "C",
+          "label": "The Constitution and Bill of Rights",
+          "correct": true,
+          "explanation": "The Constitution and its first ten amendments (the Bill of Rights) list and protect citizens' rights."
+        },
+        {
+          "id": "D",
+          "label": "The state flag",
+          "correct": false,
+          "explanation": "The state flag is a symbol, not a list of rights."
+        }
+      ],
+      "explanation_md": "The U.S. Constitution and the Bill of Rights are the founding documents that list and protect the rights of all American citizens."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Layla's neighbor drops litter in the park. What should a responsible citizen do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Litter too, since everyone else does",
+          "correct": false,
+          "explanation": "A responsible citizen does not litter. Responsible citizens help keep public spaces clean."
+        },
+        {
+          "id": "B",
+          "label": "Pick up the litter and put it in a trash can",
+          "correct": true,
+          "explanation": "Keeping public spaces clean is a civic responsibility."
+        },
+        {
+          "id": "C",
+          "label": "Ignore it because the park belongs to the government",
+          "correct": false,
+          "explanation": "Parks belong to the community. Responsible citizens help care for shared spaces."
+        },
+        {
+          "id": "D",
+          "label": "Close the park so no one can use it",
+          "correct": false,
+          "explanation": "Closing the park would not be fair to other citizens."
+        }
+      ],
+      "explanation_md": "Responsible citizens take care of shared community spaces. Picking up litter helps everyone enjoy the park."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do citizens pay taxes as a responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To buy things for themselves",
+          "correct": false,
+          "explanation": "Taxes go to the government, not to individual citizens."
+        },
+        {
+          "id": "B",
+          "label": "To help pay for schools, roads, and fire stations that everyone uses",
+          "correct": true,
+          "explanation": "Taxes fund public services that benefit the whole community."
+        },
+        {
+          "id": "C",
+          "label": "Because the president needs the money",
+          "correct": false,
+          "explanation": "Taxes pay for public services, not personal needs of leaders."
+        },
+        {
+          "id": "D",
+          "label": "To get the right to vote",
+          "correct": false,
+          "explanation": "The right to vote is not earned by paying taxes."
+        }
+      ],
+      "explanation_md": "Taxes are money citizens contribute to the government. That money pays for shared services like schools, roads, fire stations, and parks."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Carlos says, 'I have the right to say whatever I want, so I can say mean things to anyone.' What is WRONG with his thinking?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Citizens do not have freedom of speech",
+          "correct": false,
+          "explanation": "Freedom of speech is a real right for U.S. citizens."
+        },
+        {
+          "id": "B",
+          "label": "Rights come with the responsibility to respect others",
+          "correct": true,
+          "explanation": "Freedom of speech is a right, but responsible citizens use it without harming others. Rights and responsibilities go together."
+        },
+        {
+          "id": "C",
+          "label": "Only adults have freedom of speech",
+          "correct": false,
+          "explanation": "All citizens have freedom of speech, not just adults."
+        },
+        {
+          "id": "D",
+          "label": "The government can take away all rights at any time",
+          "correct": false,
+          "explanation": "The Constitution protects citizens' rights."
+        }
+      ],
+      "explanation_md": "Having a right does not mean you can use it to hurt others. Responsible citizens balance their rights with respect for others."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A new family moved to town and became U.S. citizens. What is BOTH a right AND a responsibility they now have?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Freedom of religion",
+          "correct": false,
+          "explanation": "Freedom of religion is a right, but not typically described as a responsibility."
+        },
+        {
+          "id": "B",
+          "label": "Voting in elections",
+          "correct": true,
+          "explanation": "Adult citizens have the right to vote AND the civic responsibility to participate in choosing leaders."
+        },
+        {
+          "id": "C",
+          "label": "Paying taxes",
+          "correct": false,
+          "explanation": "Paying taxes is a responsibility, not a right."
+        },
+        {
+          "id": "D",
+          "label": "Going to school",
+          "correct": false,
+          "explanation": "Going to school is required for children, not a right-and-responsibility in the civic sense."
+        }
+      ],
+      "explanation_md": "Voting is unique \u2014 it is both a protected right AND a civic responsibility. Citizens have the power AND the duty to participate in democracy."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the difference between a **right** and a **responsibility**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Rights are rules; responsibilities are rewards",
+          "correct": false,
+          "explanation": "Rights are protections, not just rules."
+        },
+        {
+          "id": "B",
+          "label": "Rights are protections the government gives you; responsibilities are duties you owe the community",
+          "correct": true,
+          "explanation": "Rights protect citizens; responsibilities are what citizens should do in return."
+        },
+        {
+          "id": "C",
+          "label": "Rights cost money; responsibilities are free",
+          "correct": false,
+          "explanation": "Rights do not cost money."
+        },
+        {
+          "id": "D",
+          "label": "Responsibilities are for adults only; rights are for everyone",
+          "correct": false,
+          "explanation": "Both rights and responsibilities apply across different ages."
+        }
+      ],
+      "explanation_md": "Rights are protections guaranteed to citizens. Responsibilities are things citizens should do to contribute to the community and country."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list includes ONLY responsibilities of U.S. citizens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Freedom of speech, freedom of religion, right to vote",
+          "correct": false,
+          "explanation": "Those are rights, not responsibilities."
+        },
+        {
+          "id": "B",
+          "label": "Obey laws, pay taxes, respect others, vote",
+          "correct": true,
+          "explanation": "All four are civic responsibilities of U.S. citizens."
+        },
+        {
+          "id": "C",
+          "label": "Fair trial, free speech, religion",
+          "correct": false,
+          "explanation": "Those are rights, not responsibilities."
+        },
+        {
+          "id": "D",
+          "label": "Go to school, earn money, buy food",
+          "correct": false,
+          "explanation": "Those are personal activities, not civic responsibilities."
+        }
+      ],
+      "explanation_md": "Civic responsibilities include obeying laws, paying taxes, respecting others, and voting. These are duties citizens owe to their community and country."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "The Bill of Rights protects freedom of religion. How does this show that rights and responsibilities work together?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Citizens can practice any religion but must also respect others' right to practice their religion",
+          "correct": true,
+          "explanation": "Your right to practice your religion comes with the responsibility to respect others' right to practice theirs."
+        },
+        {
+          "id": "B",
+          "label": "Citizens must only follow one religion chosen by the government",
+          "correct": false,
+          "explanation": "Freedom of religion means the government cannot tell citizens what religion to follow."
+        },
+        {
+          "id": "C",
+          "label": "Rights remove all responsibilities",
+          "correct": false,
+          "explanation": "Having rights does not remove responsibilities."
+        },
+        {
+          "id": "D",
+          "label": "Citizens can only practice religion if they pay taxes",
+          "correct": false,
+          "explanation": "Religious freedom is not tied to paying taxes."
+        }
+      ],
+      "explanation_md": "Freedom of religion gives you the right to practice your beliefs. The corresponding responsibility is respecting that others have the same right."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A **right** is something the government",
+      "choices": [
+        {
+          "id": "A",
+          "label": "makes you do",
+          "correct": false,
+          "explanation": "Something the government makes you do is a responsibility or law."
+        },
+        {
+          "id": "B",
+          "label": "protects for you",
+          "correct": true,
+          "explanation": "Rights are protections the government guarantees to every citizen."
+        },
+        {
+          "id": "C",
+          "label": "charges money for",
+          "correct": false,
+          "explanation": "Rights do not cost money."
+        },
+        {
+          "id": "D",
+          "label": "gives only to children",
+          "correct": false,
+          "explanation": "Rights belong to all citizens."
+        }
+      ],
+      "explanation_md": "A right is something the government protects for you. All citizens have rights like freedom of speech and freedom of religion."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A **responsibility** is something a citizen",
+      "choices": [
+        {
+          "id": "A",
+          "label": "is paid to do",
+          "correct": false,
+          "explanation": "Responsibilities are civic duties, not paid jobs."
+        },
+        {
+          "id": "B",
+          "label": "should do to help the community",
+          "correct": true,
+          "explanation": "Responsibilities are duties citizens should carry out for the good of the community."
+        },
+        {
+          "id": "C",
+          "label": "is not allowed to do",
+          "correct": false,
+          "explanation": "Responsibilities are things you should do, not things you are forbidden from doing."
+        },
+        {
+          "id": "D",
+          "label": "only adults know about",
+          "correct": false,
+          "explanation": "Even children learn about civic responsibilities."
+        }
+      ],
+      "explanation_md": "Responsibilities are duties citizens should do, like obeying laws and treating others with respect."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of a citizen's **right**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Clean up a park",
+          "correct": false,
+          "explanation": "Cleaning up a park is a responsibility, not a right."
+        },
+        {
+          "id": "B",
+          "label": "Pay taxes",
+          "correct": false,
+          "explanation": "Paying taxes is a responsibility."
+        },
+        {
+          "id": "C",
+          "label": "Speak freely about your ideas",
+          "correct": true,
+          "explanation": "Freedom of speech is a right protected by the Bill of Rights."
+        },
+        {
+          "id": "D",
+          "label": "Obey traffic laws",
+          "correct": false,
+          "explanation": "Obeying traffic laws is a responsibility."
+        }
+      ],
+      "explanation_md": "Speaking freely about your ideas is freedom of speech \u2014 one of the rights protected by the Bill of Rights."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of a citizen's **responsibility**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Go to church",
+          "correct": false,
+          "explanation": "Attending a place of worship is a personal choice, not a civic responsibility."
+        },
+        {
+          "id": "B",
+          "label": "Obey the laws",
+          "correct": true,
+          "explanation": "Obeying the laws is a basic civic responsibility that keeps everyone safe."
+        },
+        {
+          "id": "C",
+          "label": "Have a fair trial",
+          "correct": false,
+          "explanation": "A fair trial is a right, not a responsibility."
+        },
+        {
+          "id": "D",
+          "label": "Share your opinion",
+          "correct": false,
+          "explanation": "Sharing your opinion uses your freedom of speech right."
+        }
+      ],
+      "explanation_md": "Obeying the laws is a responsibility. Laws protect everyone in the community."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Juan says the right to go to school means students can do whatever they want. What is the responsibility that comes with that right?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Students must pay to attend class",
+          "correct": false,
+          "explanation": "Public school in the U.S. is free."
+        },
+        {
+          "id": "B",
+          "label": "Students must follow school rules and respect others",
+          "correct": true,
+          "explanation": "The right to learn comes with the responsibility to follow rules so everyone can learn."
+        },
+        {
+          "id": "C",
+          "label": "Students can skip class whenever they want",
+          "correct": false,
+          "explanation": "Students have the responsibility to attend and participate in class."
+        },
+        {
+          "id": "D",
+          "label": "Students have no responsibilities at school",
+          "correct": false,
+          "explanation": "Students have many responsibilities at school, including being kind and following rules."
+        }
+      ],
+      "explanation_md": "The right to attend school comes with responsibilities: following rules, working hard, and respecting classmates and teachers."
+    }
+  ]
+}
