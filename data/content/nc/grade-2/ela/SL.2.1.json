@@ -1,0 +1,253 @@
+{
+  "skill_id": "SL.2.1",
+  "benchmark_description": "Participate in collaborative conversations with diverse partners about grade 2 topics and texts with peers and adults in small and larger groups, following agreed-upon rules for discussions and building on others' talk.",
+  "course": "ela",
+  "strand": "SL",
+  "lesson": {
+    "title": "Taking Turns and Talking Together: Rules for Discussion",
+    "intro": "Have you ever been in a group where everyone talked at once and nobody could hear anything? Good conversations need rules so that everyone gets a chance to share. Today we will learn the rules for having a great discussion.",
+    "body_md": "## What Is a Collaborative Conversation?\n\nA **collaborative conversation** is when a group works and talks together. Everyone contributes — no single person does all the talking.\n\n## The Rules for Good Discussions\n\n**1. Take turns speaking.**\nWait for your turn. Do not interrupt someone who is talking.\n\n**2. Listen carefully when others speak.**\nLook at the speaker. Think about what they are saying. Do not think about your own point only.\n\n**3. Build on others' ideas.**\nSay things like:\n- *\"I agree with __ because...\"*\n- *\"That is a good point. I would add...\"*\n- *\"I see it differently because...\"*\n\n**4. Ask clarifying questions.**\nIf you don't understand, ask:\n- *\"Can you explain what you mean?\"*\n- *\"Could you give an example?\"*\n\n**5. Stay on topic.**\nKeep your comments related to what the group is discussing.\n\n**6. Be respectful.**\nEven if you disagree, use kind words. You can disagree with an idea without being unkind to the person.\n\n## Why These Rules Matter\n\nWhen everyone follows the rules, every person's voice is heard and the group learns more together than any one person could learn alone.",
+    "worked_example_md": "**Scenario:** A class is discussing the question: *\"Should schools have longer recesses?\"*\n\n- Mia says: *\"I think yes, because exercise helps us focus better.\"*\n- Jon says: *\"I agree with Mia. I also think kids are happier after running around.\"* (builds on Mia's idea)\n- Sam says: *\"Can you say more about focusing, Mia?\"* (asks a clarifying question)\n- Lee says: *\"I see it differently. We also need time to learn. Longer recess means less class time.\"* (disagrees respectfully and stays on topic)\n\n**What went well:** Everyone took turns, built on each other's ideas, asked questions, and stayed on topic. Lee disagreed respectfully.",
+    "estimated_minutes": 7
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should you do when someone else is speaking during a discussion?",
+      "choices": [
+        {"id": "a", "label": "Talk over them so everyone can hear your idea.", "correct": false, "explanation": "Talking over someone is rude and breaks the rules for discussion."},
+        {"id": "b", "label": "Listen carefully and wait for your turn.", "correct": true, "explanation": "Good listeners wait for their turn and pay attention to what the speaker says."},
+        {"id": "c", "label": "Whisper to a friend about something else.", "correct": false, "explanation": "Whispering is disrespectful and means you are not listening."},
+        {"id": "d", "label": "Raise your hand and start talking immediately.", "correct": false, "explanation": "Raising your hand is good, but you still need to wait to be called on before speaking."}
+      ],
+      "explanation_md": "The rule is to **listen carefully** when others speak and **wait for your turn**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which phrase is a good way to **build on** someone else's idea?",
+      "choices": [
+        {"id": "a", "label": "\"That's wrong.\"", "correct": false, "explanation": "Just saying 'that's wrong' is not building on an idea and is not respectful."},
+        {"id": "b", "label": "\"I agree with your idea, and I would add that...\"", "correct": true, "explanation": "This phrase shows you heard the other person and are adding to their idea."},
+        {"id": "c", "label": "\"Let's talk about something else.\"", "correct": false, "explanation": "Changing the subject breaks the rule to stay on topic."},
+        {"id": "d", "label": "\"My idea is better.\"", "correct": false, "explanation": "This is not respectful and does not build on the other person's idea."}
+      ],
+      "explanation_md": "**Building on an idea** means connecting your thought to what someone else said and adding to it."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "During a discussion, Keisha says something confusing. What should you do?",
+      "choices": [
+        {"id": "a", "label": "Ignore what she said and share your own idea.", "correct": false, "explanation": "Ignoring is not listening or collaborating."},
+        {"id": "b", "label": "Laugh at her because it was confusing.", "correct": false, "explanation": "Laughing at a classmate is unkind and breaks the rule of being respectful."},
+        {"id": "c", "label": "Ask a clarifying question like 'Can you explain what you mean?'", "correct": true, "explanation": "Asking a clarifying question shows you are listening and want to understand."},
+        {"id": "d", "label": "Ask the teacher to answer for Keisha.", "correct": false, "explanation": "The group should work together first — asking for clarification is the best step."}
+      ],
+      "explanation_md": "**Asking a clarifying question** — like 'Can you explain?' — shows you listened and want to understand."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which student is **NOT** following the rules for a good discussion?",
+      "choices": [
+        {"id": "a", "label": "Ana waits for her turn and then shares her idea.", "correct": false, "explanation": "Ana is following the rules correctly."},
+        {"id": "b", "label": "Ben says 'I agree with what Mia said, and I want to add...'", "correct": false, "explanation": "Ben is building on an idea — that is a great discussion move."},
+        {"id": "c", "label": "Carlos interrupts and starts talking before the teacher finishes speaking.", "correct": true, "explanation": "Interrupting breaks the rule of waiting your turn and listening."},
+        {"id": "d", "label": "Dana asks 'Could you give an example of what you mean?'", "correct": false, "explanation": "Dana is asking a clarifying question — a great discussion move."}
+      ],
+      "explanation_md": "**Carlos** is breaking the rules by interrupting — a key rule is to wait for your turn and not interrupt."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to **stay on topic** during a discussion?",
+      "choices": [
+        {"id": "a", "label": "So the teacher will not get angry.", "correct": false, "explanation": "Staying on topic is about the quality of the discussion, not about avoiding punishment."},
+        {"id": "b", "label": "So the group can go deeper into the topic and learn more together.", "correct": true, "explanation": "When everyone stays on topic, the group can build understanding together instead of getting confused."},
+        {"id": "c", "label": "So only one person gets to talk.", "correct": false, "explanation": "Staying on topic is about the subject, not about limiting who speaks."},
+        {"id": "d", "label": "Because the first person to speak gets to choose the topic forever.", "correct": false, "explanation": "Topics in a discussion are usually set by the teacher or the group, not one person."}
+      ],
+      "explanation_md": "**Staying on topic** keeps the conversation focused so the group can build deeper understanding together."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Lena disagrees with what Sam said. What is the best way for her to respond?",
+      "choices": [
+        {"id": "a", "label": "\"You're wrong and that's a silly idea.\"", "correct": false, "explanation": "Calling an idea 'silly' is disrespectful and breaks discussion rules."},
+        {"id": "b", "label": "Stay silent so she does not upset Sam.", "correct": false, "explanation": "It is okay to respectfully disagree — staying silent is not always the answer."},
+        {"id": "c", "label": "\"I see it differently. I think... because...\"", "correct": true, "explanation": "This phrase disagrees respectfully while staying on topic and giving a reason."},
+        {"id": "d", "label": "Talk to her neighbor instead of the group.", "correct": false, "explanation": "Side conversations are disrespectful to the group and break discussion rules."}
+      ],
+      "explanation_md": "Saying **'I see it differently because...'** lets Lena disagree respectfully and explain her thinking."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A group is discussing the book *Charlotte's Web*. Marcus says, 'My favorite color is blue.' What rule is Marcus breaking?",
+      "choices": [
+        {"id": "a", "label": "He is not listening.", "correct": false, "explanation": "We do not know if Marcus is listening — the issue is what he said."},
+        {"id": "b", "label": "He is not staying on topic.", "correct": true, "explanation": "Marcus's comment about his favorite color has nothing to do with Charlotte's Web."},
+        {"id": "c", "label": "He is interrupting.", "correct": false, "explanation": "There is no indication he interrupted — the problem is the off-topic comment."},
+        {"id": "d", "label": "He is being disrespectful.", "correct": false, "explanation": "His comment is off-topic but not rude or disrespectful."}
+      ],
+      "explanation_md": "Marcus is **not staying on topic**. A good rule for discussion is to keep comments connected to what the group is talking about."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "During a discussion, only one student — Ty — has been talking for five minutes. No one else has said anything. Which rule has been broken, and what should the group do?",
+      "choices": [
+        {"id": "a", "label": "No rule has been broken — Ty clearly knows the most.", "correct": false, "explanation": "In a collaborative discussion, everyone should have a turn — it should not be dominated by one person."},
+        {"id": "b", "label": "The rule of taking turns has been broken; others should share their ideas too.", "correct": true, "explanation": "Collaborative discussions require everyone to take turns — one person dominating is not collaborative."},
+        {"id": "c", "label": "The rule about staying on topic was broken.", "correct": false, "explanation": "We do not know if Ty was off topic — the issue is that no one else had a turn."},
+        {"id": "d", "label": "The group should ask the teacher to stop the discussion.", "correct": false, "explanation": "The group should self-correct — others should ask to share, or someone can invite them."}
+      ],
+      "explanation_md": "**Taking turns** is a key rule. When one person dominates, other voices are lost — collaborative means everyone contributes."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher says: *'Build on what your partner said.'* What does this mean?",
+      "choices": [
+        {"id": "a", "label": "Copy exactly what your partner said.", "correct": false, "explanation": "Building on means adding to or extending, not copying."},
+        {"id": "b", "label": "Disagree with everything your partner said.", "correct": false, "explanation": "Building on is about connecting and adding, not automatically disagreeing."},
+        {"id": "c", "label": "Connect your idea to your partner's idea and add more.", "correct": true, "explanation": "Building on means using what your partner said as a foundation and adding your own thinking."},
+        {"id": "d", "label": "Wait for your partner to finish all their ideas before starting.", "correct": false, "explanation": "Waiting is respectful, but 'building on' means connecting your idea to theirs."}
+      ],
+      "explanation_md": "**Building on** means connecting your idea to what your partner said and adding more — like stacking blocks."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student observes that when her class follows discussion rules, they always learn more than when they do not. Why might following discussion rules lead to **better learning**?",
+      "choices": [
+        {"id": "a", "label": "Because the rules make the teacher happy, so the teacher teaches better.", "correct": false, "explanation": "The rules are for the students' benefit, not about teacher mood."},
+        {"id": "b", "label": "Because when everyone is heard and ideas are built upon, the group develops richer understanding together.", "correct": true, "explanation": "Collaborative rules allow all perspectives to be shared and combined — the group's understanding grows beyond what any one person knew."},
+        {"id": "c", "label": "Because following rules is always better than not following them.", "correct": false, "explanation": "This is too vague — the question asks specifically about WHY rules lead to better learning."},
+        {"id": "d", "label": "Because students who follow rules get better grades.", "correct": false, "explanation": "This is about grades, not about the learning process itself."}
+      ],
+      "explanation_md": "**Collaborative rules** create conditions for everyone to share and build on ideas — the group learns more than any one person could alone."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is the BEST example of a student following discussion rules?",
+      "choices": [
+        {"id": "a", "label": "Mia talks for the whole discussion and does not let anyone else share.", "correct": false, "explanation": "Dominating a discussion breaks the taking-turns rule."},
+        {"id": "b", "label": "Jake says 'I agree with Rosa that the book had a sad ending, and I want to add that the character changed a lot.'", "correct": true, "explanation": "Jake takes his turn, builds on Rosa's idea, and stays on topic — all key rules."},
+        {"id": "c", "label": "Anna whispers to her friend instead of listening to the speaker.", "correct": false, "explanation": "Whispering during a discussion is disrespectful and shows she is not listening."},
+        {"id": "d", "label": "Luis changes the topic to his favorite video game.", "correct": false, "explanation": "Changing the topic breaks the stay-on-topic rule."}
+      ],
+      "explanation_md": "Jake follows **multiple rules**: he builds on Rosa's idea, stays on topic, and takes his turn appropriately."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Nia says something during a discussion that you did not understand. What should you say?",
+      "choices": [
+        {"id": "a", "label": "\"That makes no sense.\"", "correct": false, "explanation": "This is disrespectful and does not ask for clarification."},
+        {"id": "b", "label": "Say nothing — just pretend you understood.", "correct": false, "explanation": "Pretending you understood will not help you or the group learn."},
+        {"id": "c", "label": "\"Nia, can you tell us more about what you mean?\"", "correct": true, "explanation": "This is a respectful clarifying question that helps you and the whole group understand better."},
+        {"id": "d", "label": "Ask the teacher to explain what Nia meant.", "correct": false, "explanation": "Asking Nia directly is better — it shows you want to understand her thinking."}
+      ],
+      "explanation_md": "Asking **'Can you tell us more?'** is a respectful clarifying question that keeps the collaborative conversation going."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Your class is discussing whether animals should be kept in zoos. You think zoos are good, but your partner said zoos are bad. How should you respond?",
+      "choices": [
+        {"id": "a", "label": "\"You are completely wrong, and zoos are great.\"", "correct": false, "explanation": "This is disrespectful and does not build on the partner's idea."},
+        {"id": "b", "label": "Stay silent because you do not want to disagree.", "correct": false, "explanation": "It is okay to disagree respectfully — sharing your view helps the group."},
+        {"id": "c", "label": "\"I understand your point. I see it differently because zoos help endangered animals survive.\"", "correct": true, "explanation": "This acknowledges the partner's view and disagrees respectfully with a reason."},
+        {"id": "d", "label": "Change your opinion to match your partner's so there is no disagreement.", "correct": false, "explanation": "Changing your opinion just to avoid disagreement is not collaborative — honest, respectful disagreement is healthy."}
+      ],
+      "explanation_md": "Acknowledging your partner's view and then explaining your different perspective **respectfully** is the best collaborative move."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "During a discussion, you should wait for your ___ before speaking.",
+      "choices": [
+        {"id": "a", "label": "favorite food", "correct": false, "explanation": "That has nothing to do with discussions."},
+        {"id": "b", "label": "turn", "correct": true, "explanation": "Always wait for your turn before speaking in a discussion."},
+        {"id": "c", "label": "friend to leave the room", "correct": false, "explanation": "That is not a discussion rule."},
+        {"id": "d", "label": "teacher to leave", "correct": false, "explanation": "That is not a discussion rule."}
+      ],
+      "explanation_md": "In a discussion, always wait for your **turn** before speaking."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When someone else is talking in a group, you should ___.",
+      "choices": [
+        {"id": "a", "label": "Talk over them.", "correct": false, "explanation": "Talking over someone is rude and means you are not listening."},
+        {"id": "b", "label": "Look away and think about something else.", "correct": false, "explanation": "Looking away shows you are not listening."},
+        {"id": "c", "label": "Listen carefully to what they are saying.", "correct": true, "explanation": "Listening carefully is a key rule — you need to hear what others say to have a good discussion."},
+        {"id": "d", "label": "Write a note to a friend.", "correct": false, "explanation": "Writing notes means you are not paying attention to the speaker."}
+      ],
+      "explanation_md": "**Listen carefully** when others are speaking — this is one of the most important discussion rules."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If you do not understand what someone said in a discussion, you should ___.",
+      "choices": [
+        {"id": "a", "label": "Ignore what they said.", "correct": false, "explanation": "Ignoring is not collaborative."},
+        {"id": "b", "label": "Ask them to explain or give an example.", "correct": true, "explanation": "Asking for clarification helps you understand and shows you are listening."},
+        {"id": "c", "label": "Laugh at them.", "correct": false, "explanation": "Laughing is unkind and breaks the respectful discussion rule."},
+        {"id": "d", "label": "Leave the discussion.", "correct": false, "explanation": "Leaving is not a solution — asking for clarification is."}
+      ],
+      "explanation_md": "**Ask for clarification** — like 'Can you explain?' — when you do not understand what someone said."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence **builds on** what someone else said?",
+      "choices": [
+        {"id": "a", "label": "\"I like pizza.\"", "correct": false, "explanation": "This does not connect to what someone else said."},
+        {"id": "b", "label": "\"I agree and I want to add that bees also help make fruit.\"", "correct": true, "explanation": "This agrees with a previous speaker and adds new information — it builds on their idea."},
+        {"id": "c", "label": "\"Can we stop talking now?\"", "correct": false, "explanation": "This does not build on any idea."},
+        {"id": "d", "label": "\"What time is lunch?\"", "correct": false, "explanation": "This is off-topic and does not build on any idea."}
+      ],
+      "explanation_md": "**Building on** an idea means connecting your thought to what someone else said and adding more to it."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Your class is talking about rainforests. Tomas says, 'I love video games.' What rule did Tomas break?",
+      "choices": [
+        {"id": "a", "label": "He did not listen.", "correct": false, "explanation": "We do not know if he was listening — the problem is what he said."},
+        {"id": "b", "label": "He did not stay on topic.", "correct": true, "explanation": "Video games have nothing to do with rainforests — Tomas went off topic."},
+        {"id": "c", "label": "He interrupted someone.", "correct": false, "explanation": "There is no sign he interrupted — the issue is the off-topic comment."},
+        {"id": "d", "label": "He was unkind.", "correct": false, "explanation": "Tomas was not unkind — just off topic."}
+      ],
+      "explanation_md": "Tomas broke the **stay-on-topic** rule. Discussions should stay focused on the subject the group is exploring."
+    }
+  ]
+}
