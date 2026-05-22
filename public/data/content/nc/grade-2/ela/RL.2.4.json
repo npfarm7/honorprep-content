@@ -1,0 +1,253 @@
+{
+  "skill_id": "RL.2.4",
+  "benchmark_description": "Describe how words and phrases (e.g., regular beats, alliteration, rhymes, repeated lines) supply rhythm and meaning in a story, poem, or song.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Words That Make Music: Rhythm and Meaning in Poems and Stories",
+    "intro": "Have you ever noticed that some poems feel like they have a beat, almost like music? Authors choose special words on purpose to make reading more fun and to add meaning. Today we will learn about rhyme, alliteration, repetition, and beats.",
+    "body_md": "## What Is Rhythm?\n\nRhythm is a pattern of beats in writing. When you clap along to a poem, you feel the rhythm.\n\n*Hickory, dickory, dock,*\n*The mouse ran up the clock.*\n\nCan you feel two strong beats in each line? That regular beat is rhythm.\n\n## Rhyme\n\nRhyme is when two words end with the same sound:\n- **cat / hat** — both end in /at/\n- **moon / soon** — both end in /oon/\n\nRhyme makes poems fun to say and easy to remember.\n\n## Alliteration\n\nAlliteration is when several words in a row start with the same sound:\n- **S**ally **s**ells **s**eashells\n- **P**eter **P**iper **p**icked **p**eppers\n\n## Repetition\n\nRepetition means a word, phrase, or line is used more than once. In the story *The Three Little Pigs*, the wolf says:\n\n*\"I'll huff, and I'll puff, and I'll blow your house down!\"*\n\nRepeating those words makes the story exciting and builds suspense.\n\n## Why Do These Techniques Matter?\n\nThese techniques do two jobs:\n1. **Rhythm** — they make reading feel like music.\n2. **Meaning** — they draw attention to the most important ideas.",
+    "worked_example_md": "**Read this short poem:**\n\n*The rain, the rain came tumbling down,*\n*It fell on every house in town.*\n*Pitter-patter, pitter-patter, splish and splash,*\n*The puddles grew with every flash.*\n\n**Question:** What technique is used in *\"pitter-patter, pitter-patter\"*?\n\n**Step 1:** Notice the phrase is used twice → that is **repetition**.\n**Step 2:** Also notice \"pitter-patter\" sounds like rain falling → these words help you hear the rain (called **onomatopoeia**, a bonus term).\n**Answer:** Repetition is used to imitate the sound of rain and make the poem feel like it is actually raining.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which pair of words **rhymes**?",
+      "choices": [
+        {"id": "a", "label": "dog / cat", "correct": false, "explanation": "These do not end with the same sound."},
+        {"id": "b", "label": "frog / log", "correct": true, "explanation": "Both end with the /og/ sound — they rhyme!"},
+        {"id": "c", "label": "sun / moon", "correct": false, "explanation": "These do not share the same ending sound."},
+        {"id": "d", "label": "tree / rock", "correct": false, "explanation": "These do not rhyme."}
+      ],
+      "explanation_md": "Rhyming words share the same ending sound. **frog** and **log** both end with /og/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses **alliteration**?",
+      "choices": [
+        {"id": "a", "label": "The dog ran fast.", "correct": false, "explanation": "The beginning sounds are all different."},
+        {"id": "b", "label": "Six slippery seals slid south.", "correct": true, "explanation": "Six, slippery, seals, slid, and south all start with the /s/ sound."},
+        {"id": "c", "label": "She ate a big apple.", "correct": false, "explanation": "Not many words begin with the same sound."},
+        {"id": "d", "label": "The moon is bright tonight.", "correct": false, "explanation": "No repeating beginning sounds here."}
+      ],
+      "explanation_md": "Alliteration means several nearby words start with the same sound. All the key words in choice B start with /s/."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the line: *\"Boom, boom, boom — the drums went boom!\"* What technique is this?",
+      "choices": [
+        {"id": "a", "label": "Alliteration", "correct": false, "explanation": "Alliteration is about beginning sounds, not repeated words."},
+        {"id": "b", "label": "Rhyme", "correct": false, "explanation": "Rhyme matches ending sounds of different words, not the same word repeated."},
+        {"id": "c", "label": "Repetition", "correct": true, "explanation": "The word 'boom' is used four times — that is repetition."},
+        {"id": "d", "label": "Rhythm", "correct": false, "explanation": "Rhythm is the beat pattern; this is specifically about a word being repeated."}
+      ],
+      "explanation_md": "When a word or phrase appears more than once, that is **repetition**. The word *boom* appears four times."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the poem *\"Twinkle, twinkle, little star, How I wonder what you are\"*, which technique creates the regular beat?",
+      "choices": [
+        {"id": "a", "label": "Alliteration", "correct": false, "explanation": "There are no groups of words starting with the same sound."},
+        {"id": "b", "label": "Rhythm", "correct": true, "explanation": "Each line has a steady number of syllables that create a regular beat."},
+        {"id": "c", "label": "Repetition", "correct": false, "explanation": "No phrase is repeated in these two lines."},
+        {"id": "d", "label": "Rhyme only", "correct": false, "explanation": "Rhyme is present (star/are) but the question asks about the beat."}
+      ],
+      "explanation_md": "The even number of syllables in each line creates a **rhythm** — a regular beat you can clap to."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A poet writes: *\"The brook babbles by the big, blue boulders.\"* How does alliteration add **meaning** here?",
+      "choices": [
+        {"id": "a", "label": "It shows the brook is dangerous.", "correct": false, "explanation": "Alliteration does not signal danger here."},
+        {"id": "b", "label": "It makes the line sound like a flowing, bubbling brook.", "correct": true, "explanation": "The repeated /b/ sound mimics the babbling, bubbly sound of water."},
+        {"id": "c", "label": "It tells us the boulders are enormous.", "correct": false, "explanation": "The alliteration is not describing size."},
+        {"id": "d", "label": "It adds a rhyme to the poem.", "correct": false, "explanation": "Alliteration is about beginning sounds, not ending sounds."}
+      ],
+      "explanation_md": "Alliteration can imitate sounds. The repeated /b/ sounds in *babbles, by, big, blue, boulders* sounds like flowing, bubbling water."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A story repeats the phrase *\"Run, run, as fast as you can!\"* three times. Why might the author do this?",
+      "choices": [
+        {"id": "a", "label": "The author forgot they already wrote it.", "correct": false, "explanation": "Authors repeat phrases on purpose, not by accident."},
+        {"id": "b", "label": "To build excitement and make the scene feel urgent.", "correct": true, "explanation": "Repetition of an urgent phrase makes the reader feel the rush and excitement."},
+        {"id": "c", "label": "To show that the character is tired.", "correct": false, "explanation": "The phrase itself does not show tiredness; it shows speed and urgency."},
+        {"id": "d", "label": "To create alliteration.", "correct": false, "explanation": "This is repetition of a full phrase, not alliteration of beginning sounds."}
+      ],
+      "explanation_md": "Authors use **repetition** to build emotion. Repeating an urgent phrase makes the reader feel the excitement."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which line from a poem has **both** rhyme and alliteration?",
+      "choices": [
+        {"id": "a", "label": "The cat sat on the mat.", "correct": false, "explanation": "Cat/sat/mat rhyme, but no alliteration (beginning sounds differ)."},
+        {"id": "b", "label": "Big bears bounce and bump.", "correct": false, "explanation": "Alliteration (b, b, b, b) is present but no rhyme."},
+        {"id": "c", "label": "Silly Sally sang a sweet song.", "correct": false, "explanation": "Alliteration yes (s sounds), but no end rhyme here."},
+        {"id": "d", "label": "Fuzzy Freddie found a frog on a log.", "correct": true, "explanation": "Alliteration: Fuzzy, Freddie, found, frog. Rhyme: frog/log."}
+      ],
+      "explanation_md": "Choice D has alliteration (f sounds: Fuzzy, Freddie, found, frog) AND rhyme (frog/log)."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A poet writes a poem about a thunderstorm and uses the phrase *\"CRASH! CRASH! CRASH!\"* What is the effect of this repetition?",
+      "choices": [
+        {"id": "a", "label": "It creates a soft, peaceful mood.", "correct": false, "explanation": "Repeating 'CRASH' creates a loud, dramatic mood — not peaceful."},
+        {"id": "b", "label": "It slows the poem down to help the reader relax.", "correct": false, "explanation": "Repeating 'CRASH' creates urgency and excitement, not relaxation."},
+        {"id": "c", "label": "It imitates the loud, repeated sounds of thunder and creates excitement.", "correct": true, "explanation": "Repetition of a sound word (CRASH) imitates the storm and builds dramatic tension."},
+        {"id": "d", "label": "It shows that the storm has ended.", "correct": false, "explanation": "Repeating 'CRASH' suggests the storm is still going, not that it has ended."}
+      ],
+      "explanation_md": "Repeating **CRASH** imitates thunder and builds a dramatic, exciting mood — the reader can almost hear the storm."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A poem has these two stanzas that end with the same rhyming couplet: *\"Sleep, little one, sleep. / The world is yours to keep.\"* Why might the poet repeat this ending?",
+      "choices": [
+        {"id": "a", "label": "Because the poet could not think of new words.", "correct": false, "explanation": "Poets repeat purposefully to create a specific effect."},
+        {"id": "b", "label": "To create a comforting rhythm and make the poem feel like a lullaby.", "correct": true, "explanation": "Repeating a gentle, rhyming ending creates a soothing, lullaby-like feel."},
+        {"id": "c", "label": "To make the poem longer.", "correct": false, "explanation": "Length is not the reason — the repetition creates a specific mood."},
+        {"id": "d", "label": "To make the reader feel scared.", "correct": false, "explanation": "A gentle repeated ending creates comfort, not fear."}
+      ],
+      "explanation_md": "Repeating a gentle rhyming couplet creates a **soothing, predictable rhythm** — like a lullaby — making the reader (or listener) feel calm and safe."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two lines:\n\n*\"Lonely lions linger long in the land of lost dreams.\"*\n\nWhich TWO techniques does this line use, and what mood do they create together?",
+      "choices": [
+        {"id": "a", "label": "Rhyme and repetition; they create an exciting mood.", "correct": false, "explanation": "There is no rhyme (no matching end sounds), and the mood is not exciting but melancholy."},
+        {"id": "b", "label": "Alliteration and repetition; they create a happy mood.", "correct": false, "explanation": "Alliteration is present, but there is no repeated phrase. The mood is lonely, not happy."},
+        {"id": "c", "label": "Alliteration and rhythm; they create a slow, lonely, melancholy mood.", "correct": true, "explanation": "The /l/ sounds (alliteration) repeat slowly, and the long syllables create a slow rhythm — both reinforce the lonely feeling."},
+        {"id": "d", "label": "Rhyme and alliteration; they create a playful mood.", "correct": false, "explanation": "There is alliteration but no rhyme, and the mood is melancholy, not playful."}
+      ],
+      "explanation_md": "The /l/ alliteration (lonely, lions, linger, long, land, lost) slows the line down and creates a **sad, lonely mood**. The rhythm also feels slow and heavy, reinforcing that feeling."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which line uses **alliteration**?\n\nA) The sun set slowly behind the hills.\nB) Peter Piper picked a peck of pickled peppers.\nC) She ran to the store to buy some bread.\nD) The dog barked at the mail carrier.",
+      "choices": [
+        {"id": "a", "label": "The sun set slowly behind the hills.", "correct": false, "explanation": "Sun and set start with /s/, but 'slowly' continues that — partially, but the strongest example is B."},
+        {"id": "b", "label": "Peter Piper picked a peck of pickled peppers.", "correct": true, "explanation": "Peter, Piper, picked, peck, pickled, peppers — all start with the /p/ sound. Classic alliteration."},
+        {"id": "c", "label": "She ran to the store to buy some bread.", "correct": false, "explanation": "No repeating beginning sounds here."},
+        {"id": "d", "label": "The dog barked at the mail carrier.", "correct": false, "explanation": "No repeating beginning sounds."}
+      ],
+      "explanation_md": "**Alliteration** is when several nearby words start with the same sound. Choice B has six words starting with /p/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A children's book repeats the phrase *\"Not I, said the little red hen\"* after every request for help. How does this repetition add **meaning**?",
+      "choices": [
+        {"id": "a", "label": "It shows that different animals help every time.", "correct": false, "explanation": "The repeated phrase shows the animals refusing — not helping."},
+        {"id": "b", "label": "It emphasizes that the animals always refuse and builds a pattern the reader expects.", "correct": true, "explanation": "Repeating the refusal each time makes the pattern clear and lets readers predict what will happen."},
+        {"id": "c", "label": "It creates alliteration with the letter R.", "correct": false, "explanation": "This is repetition of a full phrase, not alliteration."},
+        {"id": "d", "label": "It makes the book shorter.", "correct": false, "explanation": "Repetition builds pattern and meaning — it does not shorten the book."}
+      ],
+      "explanation_md": "Repeating the same response each time **builds a predictable pattern** and emphasizes the animals' repeated refusal to help."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A poem about waves at the beach uses the words: *\"wash, whoosh, whisper\"*. What technique is this, and what does it add to the poem?",
+      "choices": [
+        {"id": "a", "label": "Rhyme; it makes the poem fun to say.", "correct": false, "explanation": "Wash, whoosh, and whisper do not share ending sounds — this is not rhyme."},
+        {"id": "b", "label": "Repetition; the same word appears multiple times.", "correct": false, "explanation": "These are three different words — not the same word repeated."},
+        {"id": "c", "label": "Alliteration; the /w/ sound imitates the soft sound of waves and creates a peaceful mood.", "correct": true, "explanation": "All three words start with /w/. The soft /w/ sound mimics gentle waves, creating a calm, peaceful mood."},
+        {"id": "d", "label": "Rhythm; the syllables are evenly spaced.", "correct": false, "explanation": "The question is about the beginning sounds — that is alliteration."}
+      ],
+      "explanation_md": "**Alliteration** — the /w/ sounds in wash, whoosh, and whisper — mimics the gentle sound of waves and creates a **peaceful mood**."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which two words **rhyme**?",
+      "choices": [
+        {"id": "a", "label": "bird / bear", "correct": false, "explanation": "Bird and bear do not share ending sounds."},
+        {"id": "b", "label": "cake / lake", "correct": true, "explanation": "Cake and lake both end with the /ake/ sound — they rhyme!"},
+        {"id": "c", "label": "fish / frog", "correct": false, "explanation": "Fish and frog do not rhyme."},
+        {"id": "d", "label": "run / jump", "correct": false, "explanation": "Run and jump do not share ending sounds."}
+      ],
+      "explanation_md": "Rhyming words share the same ending sound. **Cake** and **lake** both end with /ake/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which group of words shows **alliteration**?",
+      "choices": [
+        {"id": "a", "label": "red, green, blue", "correct": false, "explanation": "These words start with different sounds."},
+        {"id": "b", "label": "big, bad wolf", "correct": true, "explanation": "Big, bad, and wolf — wait, big and bad both start with /b/. Yes, alliteration!"},
+        {"id": "c", "label": "happy, sad, tired", "correct": false, "explanation": "All different beginning sounds."},
+        {"id": "d", "label": "cat, hat, bat", "correct": false, "explanation": "These rhyme, but they don't all start with the same sound."}
+      ],
+      "explanation_md": "Alliteration means words nearby start with the same sound. **Big** and **bad** both start with /b/."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the poem *\"Rain, rain, go away\"*, what technique is used when the word *rain* appears twice?",
+      "choices": [
+        {"id": "a", "label": "Rhyme", "correct": false, "explanation": "Rhyme is about matching ending sounds, not repeating the same word."},
+        {"id": "b", "label": "Alliteration", "correct": false, "explanation": "Alliteration is about beginning sounds of different words."},
+        {"id": "c", "label": "Repetition", "correct": true, "explanation": "The word 'rain' is repeated — that is repetition."},
+        {"id": "d", "label": "Rhythm", "correct": false, "explanation": "Rhythm is the beat; this is specifically about a word being said again."}
+      ],
+      "explanation_md": "When the same word is used again, that is **repetition**. 'Rain' appears twice in a row."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do poets use **rhyme** in their poems?",
+      "choices": [
+        {"id": "a", "label": "To make the poem harder to understand.", "correct": false, "explanation": "Rhyme makes poems easier and more fun, not harder."},
+        {"id": "b", "label": "To make the poem fun to read and easy to remember.", "correct": true, "explanation": "Rhyme creates a musical sound that makes poems enjoyable and memorable."},
+        {"id": "c", "label": "To add extra information.", "correct": false, "explanation": "Rhyme is about sound and music, not adding information."},
+        {"id": "d", "label": "To make the poem shorter.", "correct": false, "explanation": "Rhyme does not change length."}
+      ],
+      "explanation_md": "**Rhyme** makes poems sound musical, which makes them **fun to read and easy to remember**."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is **rhythm** in a poem?",
+      "choices": [
+        {"id": "a", "label": "When two words sound the same at the end.", "correct": false, "explanation": "That describes rhyme, not rhythm."},
+        {"id": "b", "label": "When words start with the same sound.", "correct": false, "explanation": "That describes alliteration."},
+        {"id": "c", "label": "A regular beat you can clap along to.", "correct": true, "explanation": "Rhythm is the pattern of beats in a poem — like music!"},
+        {"id": "d", "label": "When a word is used more than once.", "correct": false, "explanation": "That describes repetition."}
+      ],
+      "explanation_md": "**Rhythm** is the regular beat in a poem — you can clap along to it, just like music."
+    }
+  ]
+}
