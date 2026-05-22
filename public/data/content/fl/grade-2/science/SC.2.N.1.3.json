@@ -1,0 +1,613 @@
+{
+  "skill_id": "SC.2.N.1.3",
+  "benchmark_description": "Keep records as appropriate, such as pictorial, written, and/or digital records, of investigations conducted.",
+  "course": "science",
+  "strand": "N",
+  "lesson": {
+    "title": "How Scientists Keep Records",
+    "intro": "Think about the last time you did something really fun \u2014 do you remember every detail? Scientists need to remember everything they see during an investigation. That is why they keep records! Records are like a memory bank you can look at forever.",
+    "body_md": "## What Are Science Records?\n\nA **record** is anything you use to save information from your investigation. Records help you:\n- Remember what you observed\n- Share your findings with others\n- Check your work later\n- Compare with other investigations\n\n## Types of Records\n\n### 1. Pictorial Records\n**Pictorial** means using pictures or drawings. You might draw:\n- What a leaf looks like up close\n- How tall a plant grew\n- What you see through a hand lens\n\nDrawings capture details that are hard to put into words.\n\n### 2. Written Records\n**Written** records use words and numbers. Examples:\n- Writing '5 cm tall' in your science notebook\n- Making a list of materials you used\n- Writing what you saw happen step by step\n\n### 3. Digital Records\n**Digital** records are saved on a computer, tablet, or camera. Examples:\n- Taking a photo of your experiment\n- Typing notes on a tablet\n- Recording a short video of what happened\n\n## When Do You Record?\n\nYou record **during** and **right after** an investigation \u2014 not the next day, when you might forget details. Good scientists write things down while they are still watching.\n\n## Organizing Your Records\n\nYour records are most useful when they are organized. A **data table** is a great way to keep numbers organized:\n\n| Day | Plant Height |\n|-----|-------------|\n| 1   | 2 cm        |\n| 3   | 4 cm        |\n| 5   | 7 cm        |\n| 7   | 10 cm       |\n\nThis table makes it easy to see that the plant grew over time.",
+    "worked_example_md": "## Worked Example\n\n**Investigation:** Watch a caterpillar every day and record what you notice.\n\n**Day 1:** Draw a picture of the caterpillar. Write: 'It is green and about 3 cm long. It is eating a leaf.'\n\n**Day 4:** Draw a picture. Write: 'The caterpillar made a cocoon. It is 2 cm long now and attached to a stick.'\n\n**Day 10:** Draw a picture. Write: 'A butterfly came out of the cocoon! It has orange and black wings.'\n\n**Why these records are good:**\n- **Pictorial** \u2014 drawings show what the caterpillar looked like each day\n- **Written** \u2014 words give details like color, size, and behavior\n- **Organized** \u2014 using day numbers makes it easy to see the sequence\n\nLater, these records could be shared with another class who is also watching caterpillars.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of a **pictorial record** in science?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Writing '10 cm' in your notebook",
+          "correct": false,
+          "explanation": "Writing a number is a written record, not a pictorial one."
+        },
+        {
+          "id": "b",
+          "label": "Drawing a picture of the insect you observed",
+          "correct": true,
+          "explanation": "A drawing is a pictorial record \u2014 it captures what something looks like visually."
+        },
+        {
+          "id": "c",
+          "label": "Telling your friend what you saw",
+          "correct": false,
+          "explanation": "Telling a friend verbally is communication, but not a record you can look at later."
+        },
+        {
+          "id": "d",
+          "label": "Remembering the color in your head",
+          "correct": false,
+          "explanation": "A memory in your head is not a record \u2014 records are things you write, draw, or save."
+        }
+      ],
+      "explanation_md": "A pictorial record is a visual record \u2014 a drawing or photo that shows what something looked like. This is different from a written record that uses words and numbers."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When is the BEST time to write down what you observed in an experiment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A week after the experiment",
+          "correct": false,
+          "explanation": "Waiting a week means you may forget important details."
+        },
+        {
+          "id": "b",
+          "label": "During or right after you observe something",
+          "correct": true,
+          "explanation": "Recording immediately captures accurate details before memory fades."
+        },
+        {
+          "id": "c",
+          "label": "Before you start the experiment",
+          "correct": false,
+          "explanation": "You cannot record what you observed before you have done the observing."
+        },
+        {
+          "id": "d",
+          "label": "Only if the teacher reminds you",
+          "correct": false,
+          "explanation": "Good scientists record automatically \u2014 they do not wait to be reminded."
+        }
+      ],
+      "explanation_md": "Recording during or immediately after an observation ensures the most accurate details. Memory fades quickly, so writing things down right away is a key scientific habit."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student takes a photo of her rock collection on a tablet. What kind of record is this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Written record",
+          "correct": false,
+          "explanation": "A photo does not use words \u2014 it is not a written record."
+        },
+        {
+          "id": "b",
+          "label": "Digital record",
+          "correct": true,
+          "explanation": "A photo taken on a tablet is a digital record \u2014 it is saved electronically."
+        },
+        {
+          "id": "c",
+          "label": "Pictorial record drawn by hand",
+          "correct": false,
+          "explanation": "A photo taken by a camera is digital, not a hand-drawn picture."
+        },
+        {
+          "id": "d",
+          "label": "No record at all",
+          "correct": false,
+          "explanation": "A photo is absolutely a record \u2014 it captures what the rocks looked like."
+        }
+      ],
+      "explanation_md": "A photo taken on a tablet is saved digitally \u2014 that makes it a digital record. Digital records include photos, videos, and typed notes on electronic devices."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is a **data table** useful for recording science results?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it looks fancy on paper",
+          "correct": false,
+          "explanation": "Appearance is not the reason for using a data table."
+        },
+        {
+          "id": "b",
+          "label": "Because it organizes information so it is easy to read and compare",
+          "correct": true,
+          "explanation": "A data table puts numbers in rows and columns so patterns and differences are easy to spot."
+        },
+        {
+          "id": "c",
+          "label": "Because all scientists are required to draw tables by law",
+          "correct": false,
+          "explanation": "There is no law requiring data tables \u2014 scientists use them because they are helpful."
+        },
+        {
+          "id": "d",
+          "label": "Because it takes up more space in your notebook",
+          "correct": false,
+          "explanation": "Using more space is not the goal \u2014 organization is."
+        }
+      ],
+      "explanation_md": "A data table organizes information in rows and columns so it is easy to read, compare numbers across days or groups, and spot patterns."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Carlos watched an ice cube melt. He said he would remember everything and did not write anything down. Later he could only remember it took 'a while.' What was his mistake?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He watched the ice cube \u2014 only adults should do that",
+          "correct": false,
+          "explanation": "Watching an ice cube is a perfectly fine observation for any scientist."
+        },
+        {
+          "id": "b",
+          "label": "He did not keep a record, so he lost the details he observed",
+          "correct": true,
+          "explanation": "Without recording, details fade from memory. 'A while' is not useful data \u2014 a specific time in minutes would be."
+        },
+        {
+          "id": "c",
+          "label": "He should have used a bigger ice cube",
+          "correct": false,
+          "explanation": "Ice cube size is not the issue here \u2014 recording is the issue."
+        },
+        {
+          "id": "d",
+          "label": "Ice cubes cannot be studied scientifically",
+          "correct": false,
+          "explanation": "Ice cubes are studied in science all the time \u2014 melting is a physical process with measurable properties."
+        }
+      ],
+      "explanation_md": "Without a written or drawn record, specific details are lost. 'A while' tells us nothing useful \u2014 a note saying '14 minutes' would be real evidence."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student wrote 'The worm moved fast' in her notebook. Her partner drew a detailed picture of the worm's path. Which record is MORE useful for sharing findings, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The written record, because words are always better than pictures",
+          "correct": false,
+          "explanation": "Words and pictures are both valuable \u2014 neither is always better. It depends on what information is needed."
+        },
+        {
+          "id": "b",
+          "label": "The drawing, because it shows the actual path the worm took, which words like 'fast' do not capture",
+          "correct": true,
+          "explanation": "A drawing of the path gives specific visual information that words like 'fast' cannot provide. Both records together are even better."
+        },
+        {
+          "id": "c",
+          "label": "Neither, because worms are not scientific subjects",
+          "correct": false,
+          "explanation": "Worms and their behavior are absolutely subjects of scientific study \u2014 they are part of life science."
+        },
+        {
+          "id": "d",
+          "label": "The written record, because drawings take too long",
+          "correct": false,
+          "explanation": "Drawing time is not a reason to prefer written records \u2014 the best record captures what actually happened."
+        }
+      ],
+      "explanation_md": "A drawing of the worm's path shows exactly where it went, how it curved, and how far it moved \u2014 details that 'the worm moved fast' does not capture. Both types of records together are most powerful."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these would be the MOST complete record of a seed growing into a plant over two weeks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One drawing on day 14 only",
+          "correct": false,
+          "explanation": "A single drawing at the end misses everything that happened along the way."
+        },
+        {
+          "id": "b",
+          "label": "Daily drawings and written notes with measurements every other day",
+          "correct": true,
+          "explanation": "Regular drawings combined with measurements gives a complete picture of how growth changed over time."
+        },
+        {
+          "id": "c",
+          "label": "A memory of what the plant looked like at the end",
+          "correct": false,
+          "explanation": "Memory alone is not a reliable record and captures no intermediate steps."
+        },
+        {
+          "id": "d",
+          "label": "One sentence written after the two weeks",
+          "correct": false,
+          "explanation": "A single sentence at the end misses the details of how the plant changed day by day."
+        }
+      ],
+      "explanation_md": "A complete record for a two-week growth study includes regular observations throughout \u2014 drawings, measurements, and notes at multiple time points, not just the end."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Maya observed a butterfly and wrote: 'The butterfly had wings.' Her partner wrote: 'The butterfly had two orange wings with black edges, each about 4 cm wide.' Which record is BETTER for science, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Maya's, because it is shorter and easier to read",
+          "correct": false,
+          "explanation": "Shorter is not better in science if it loses important details."
+        },
+        {
+          "id": "b",
+          "label": "Her partner's, because it includes specific details \u2014 color, pattern, and size \u2014 that are useful as evidence",
+          "correct": true,
+          "explanation": "Specific observations (color, pattern, size in centimeters) are far more useful than vague ones when comparing or explaining findings."
+        },
+        {
+          "id": "c",
+          "label": "Both are equal because they both mention wings",
+          "correct": false,
+          "explanation": "They both mention wings, but one captures far more useful scientific detail than the other."
+        },
+        {
+          "id": "d",
+          "label": "Neither, because butterflies should only be recorded with photos",
+          "correct": false,
+          "explanation": "Written records with detailed observations are perfectly valid and valuable in science."
+        }
+      ],
+      "explanation_md": "Scientific records should be specific and detailed. 'Two orange wings with black edges, 4 cm wide' tells us far more than 'had wings' \u2014 and those details can be compared with records from other butterflies."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A class recorded weather data for 30 days using written numbers. Later, they wanted to see how temperature changed over the month. Which would BEST show this change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Re-reading all 30 numbers aloud one by one",
+          "correct": false,
+          "explanation": "Reading 30 numbers out loud makes it very hard to see the pattern over the month."
+        },
+        {
+          "id": "b",
+          "label": "A graph or chart that plots temperature for each day",
+          "correct": true,
+          "explanation": "A graph turns numbers into a visual shape \u2014 making it easy to see whether temperatures went up, down, or stayed the same over 30 days."
+        },
+        {
+          "id": "c",
+          "label": "A single drawing of a sunny day",
+          "correct": false,
+          "explanation": "One drawing cannot show how temperature changed over 30 days."
+        },
+        {
+          "id": "d",
+          "label": "Asking the teacher to guess the pattern",
+          "correct": false,
+          "explanation": "The data is already collected \u2014 the class should use their own records, not guesses."
+        }
+      ],
+      "explanation_md": "Graphs and charts convert tables of numbers into visual displays that make patterns easy to see. A temperature graph over 30 days immediately shows whether it was getting warmer or cooler."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student recorded her plant heights in a table for 5 days. Another student just memorized theirs. On day 6, they need to write an explanation about how their plants grew. Who can write the BETTER explanation, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The one who memorized, because she has it all in her head and does not need paper",
+          "correct": false,
+          "explanation": "Memory is unreliable for specific numbers over multiple days \u2014 the written record is more accurate."
+        },
+        {
+          "id": "b",
+          "label": "The one with the table, because she has specific measurements for each day to use as evidence",
+          "correct": true,
+          "explanation": "A data table provides exact numbers for each day \u2014 those numbers serve as evidence in the explanation and make it far stronger than one based on memory."
+        },
+        {
+          "id": "c",
+          "label": "Both are equal because they both watched their plants",
+          "correct": false,
+          "explanation": "Watching without recording gives one vague memory; recording gives detailed evidence for all five days."
+        },
+        {
+          "id": "d",
+          "label": "Neither, because plants do not grow fast enough to study in 5 days",
+          "correct": false,
+          "explanation": "Many plants show measurable growth in just a few days \u2014 this is a common science investigation in second grade."
+        }
+      ],
+      "explanation_md": "Written records preserve exact data. On day 6, the student with the table can cite specific heights ('on day 1 it was 2 cm; on day 5 it was 10 cm') as evidence, while the one relying on memory can only give vague descriptions."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is watching snails move across a wet surface. She wants to record the distance each snail moves in 1 minute. What is the BEST record to keep?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tell her friend the numbers after the experiment is done",
+          "correct": false,
+          "explanation": "Telling someone later may introduce errors in the numbers \u2014 writing them down immediately is more accurate."
+        },
+        {
+          "id": "b",
+          "label": "Write each snail's distance in a table during the investigation",
+          "correct": true,
+          "explanation": "A written table with numbers for each snail during the investigation is accurate, organized, and easy to compare."
+        },
+        {
+          "id": "c",
+          "label": "Draw only a picture of each snail without recording distances",
+          "correct": false,
+          "explanation": "A drawing captures appearance but not the distance each snail traveled \u2014 measurement data is needed."
+        },
+        {
+          "id": "d",
+          "label": "Guess how far each snail moved after the minute is up",
+          "correct": false,
+          "explanation": "Guessing instead of measuring is not scientific \u2014 you should measure during the investigation."
+        }
+      ],
+      "explanation_md": "A written table with measurements taken during the investigation is the best way to record distance data. It is accurate, organized, and ready to share or compare."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student used three types of records for her investigation: a drawing of her setup, a table of daily temperatures, and a photo at the end. Why is using multiple types of records better than using just one?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it uses more paper",
+          "correct": false,
+          "explanation": "Using more paper is not a scientific benefit."
+        },
+        {
+          "id": "b",
+          "label": "Because different types capture different information \u2014 visuals, numbers, and sequence \u2014 giving a more complete picture",
+          "correct": true,
+          "explanation": "A drawing shows setup, a table shows number patterns over time, and a photo shows the end result. Together they capture what no single record type could alone."
+        },
+        {
+          "id": "c",
+          "label": "Because scientists are required to use all three types always",
+          "correct": false,
+          "explanation": "Scientists choose the best record types for their investigation \u2014 there is no rule requiring all three every time."
+        },
+        {
+          "id": "d",
+          "label": "Because it is more confusing and scientists like challenges",
+          "correct": false,
+          "explanation": "More record types should make understanding easier, not harder \u2014 organization is key."
+        }
+      ],
+      "explanation_md": "Different record types capture different kinds of information. Combined, they give a richer and more complete account of the investigation than any single type could."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "After investigating how different soils hold water, a student wants to share her findings with another class. Which record would be MOST useful to share?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A memory of what she saw",
+          "correct": false,
+          "explanation": "Memories cannot be shared as a document \u2014 and they may be inaccurate."
+        },
+        {
+          "id": "b",
+          "label": "A data table with the amount of water each soil type held",
+          "correct": true,
+          "explanation": "A table with specific numbers is organized, easy to read, and can be used by another class for comparison."
+        },
+        {
+          "id": "c",
+          "label": "A drawing of the dirt only",
+          "correct": false,
+          "explanation": "A drawing of dirt does not show the data about how much water each soil held."
+        },
+        {
+          "id": "d",
+          "label": "Nothing \u2014 you cannot share science records",
+          "correct": false,
+          "explanation": "Sharing science records is exactly what scientists do \u2014 communication is a core part of science."
+        }
+      ],
+      "explanation_md": "A data table with specific measurements is the most informative record to share \u2014 another class can read the numbers, compare them to their own results, and check the findings."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You are watching seeds sprout. How should you remember what you saw?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Draw a picture in your science notebook",
+          "correct": true,
+          "explanation": "Drawing what you see creates a visual record you can look at later."
+        },
+        {
+          "id": "b",
+          "label": "Just remember it in your head",
+          "correct": false,
+          "explanation": "Memories fade \u2014 a written or drawn record is more reliable."
+        },
+        {
+          "id": "c",
+          "label": "Ask someone else to remember for you",
+          "correct": false,
+          "explanation": "Other people's memories are also unreliable \u2014 you need your own record."
+        },
+        {
+          "id": "d",
+          "label": "Stop watching so you do not forget",
+          "correct": false,
+          "explanation": "Stopping watching means you miss important observations \u2014 keep watching and record at the same time."
+        }
+      ],
+      "explanation_md": "Drawing in your science notebook while you observe creates a permanent pictorial record that you can look at later."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **written record** of a science observation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A photo taken on a tablet",
+          "correct": false,
+          "explanation": "A photo is a digital record, not a written record."
+        },
+        {
+          "id": "b",
+          "label": "Writing 'The rock is rough and gray' in your notebook",
+          "correct": true,
+          "explanation": "Words written in a notebook are a written record."
+        },
+        {
+          "id": "c",
+          "label": "A drawing of the rock",
+          "correct": false,
+          "explanation": "A drawing is a pictorial record, not a written one."
+        },
+        {
+          "id": "d",
+          "label": "Telling the teacher out loud",
+          "correct": false,
+          "explanation": "Speaking is communication but not a record \u2014 a record is something you can go back and look at."
+        }
+      ],
+      "explanation_md": "A written record uses words and numbers \u2014 writing 'The rock is rough and gray' in your notebook is a clear example."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What should a science notebook have in it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Drawings, measurements, and notes from your investigations",
+          "correct": true,
+          "explanation": "A science notebook is the place to keep all your observations \u2014 drawings, numbers, and written notes."
+        },
+        {
+          "id": "b",
+          "label": "Only your favorite drawings that look nice",
+          "correct": false,
+          "explanation": "A science notebook is for recording evidence, not just for artwork."
+        },
+        {
+          "id": "c",
+          "label": "Nothing \u2014 it is only for writing stories",
+          "correct": false,
+          "explanation": "A science notebook is for science observations, not for fiction stories."
+        },
+        {
+          "id": "d",
+          "label": "Your lunch order and spelling words",
+          "correct": false,
+          "explanation": "A science notebook is specifically for recording science observations and data."
+        }
+      ],
+      "explanation_md": "A science notebook holds all of your observations \u2014 drawings of what you saw, numbers from measurements, and written notes about what happened."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do scientists draw pictures during an investigation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because they like art class",
+          "correct": false,
+          "explanation": "Scientists draw to capture what things look like \u2014 it is a tool for recording, not just art."
+        },
+        {
+          "id": "b",
+          "label": "To capture details about what something looks like that are hard to describe with words",
+          "correct": true,
+          "explanation": "A drawing can show shape, color, and detail that words alone cannot fully capture."
+        },
+        {
+          "id": "c",
+          "label": "To make their notebook look pretty",
+          "correct": false,
+          "explanation": "Appearance is not the goal \u2014 accuracy and detail are."
+        },
+        {
+          "id": "d",
+          "label": "Because writing is too slow",
+          "correct": false,
+          "explanation": "Scientists use both drawings and writing \u2014 each captures different information."
+        }
+      ],
+      "explanation_md": "Drawings capture visual details \u2014 shape, texture, color, size relationships \u2014 that are difficult to fully describe in words. Both drawings and words together make the best records."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student measured a rock every day for 3 days and wrote: Day 1: 5 cm, Day 2: 5 cm, Day 3: 5 cm. What does this record tell her?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The rock grew 5 cm each day",
+          "correct": false,
+          "explanation": "The rock stayed at 5 cm \u2014 it did not grow. Rocks do not change size from day to day."
+        },
+        {
+          "id": "b",
+          "label": "The rock stayed the same size all three days",
+          "correct": true,
+          "explanation": "The record shows the same measurement three days in a row \u2014 the rock did not change."
+        },
+        {
+          "id": "c",
+          "label": "She made a mistake because numbers should change",
+          "correct": false,
+          "explanation": "Numbers staying the same is a perfectly valid result \u2014 it shows no change occurred."
+        },
+        {
+          "id": "d",
+          "label": "She only recorded one day",
+          "correct": false,
+          "explanation": "The record shows three separate days with measurements \u2014 that is three days of data."
+        }
+      ],
+      "explanation_md": "The record shows the same measurement (5 cm) on all three days \u2014 this is evidence that the rock did not change size. Consistent results are valid and informative."
+    }
+  ]
+}
