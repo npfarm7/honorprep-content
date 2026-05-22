@@ -1,0 +1,513 @@
+{
+  "skill_id": "2.OA.B.3",
+  "benchmark_description": "Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.",
+  "course": "math",
+  "strand": "OA",
+  "lesson": {
+    "title": "Odd and Even Numbers",
+    "intro": "Have you ever shared something with a friend and had one left over? That leftover means the number is odd! If nothing is left over, the number is even. Let's learn how to tell the difference!",
+    "body_md": "## What Are Even Numbers?\n\nA number is **even** when you can pair everything up with nothing left over.\n\n- You can count even numbers by 2s: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20\n- Even numbers end in 0, 2, 4, 6, or 8.\n\n**Example:** 8 objects\n\nPair them: oo oo oo oo \u2014 4 pairs, nothing left over. **8 is even!**\n\n## What Are Odd Numbers?\n\nA number is **odd** when you pair up everything but **one is left over**.\n\n- Odd numbers: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19\n- Odd numbers end in 1, 3, 5, 7, or 9.\n\n**Example:** 7 objects\n\nPair them: oo oo oo o \u2014 3 pairs with 1 left over. **7 is odd!**\n\n## Counting by 2s to Check\n\nCount your objects by 2s. If you land exactly on the number, it is even. If you go past it on a 2-count, it is odd.\n\n| Number | Count by 2s | Even or Odd? |\n|---|---|---|\n| 6 | 2, 4, **6** | Even |\n| 9 | 2, 4, 6, 8... miss! | Odd |\n| 14 | 2, 4, 6, 8, 10, 12, **14** | Even |\n| 11 | 2, 4, 6, 8, 10... miss! | Odd |\n\n## Writing Equations for Even Numbers\n\nEvery even number can be written as **two equal addends** (the same number added twice).\n\n| Even Number | Equation |\n|---|---|\n| 2 | 1 + 1 = 2 |\n| 4 | 2 + 2 = 4 |\n| 6 | 3 + 3 = 6 |\n| 8 | 4 + 4 = 8 |\n| 10 | 5 + 5 = 10 |\n| 12 | 6 + 6 = 12 |\n| 14 | 7 + 7 = 14 |\n| 16 | 8 + 8 = 16 |\n| 18 | 9 + 9 = 18 |\n| 20 | 10 + 10 = 20 |\n\n**Odd numbers cannot be written as two equal addends.**",
+    "worked_example_md": "**Problem:** Is 13 odd or even? If it is even, write an equation using two equal addends.\n\n**Step 1:** Look at the last digit. 13 ends in 3. Numbers ending in 3 are **odd**.\n\n**Step 2:** Check by pairing.\n13 objects: oo oo oo oo oo oo o \u2014 6 pairs with 1 left over.\n\n**Answer:** 13 is **odd**. We cannot write it as two equal addends because nothing + nothing = 13 with equal numbers.\n\n**Bonus:** What about 14?\n14 ends in 4, so it is even.\n14 = 7 + 7",
+    "estimated_minutes": 7
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 10 odd or even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Odd",
+          "correct": false,
+          "explanation": "10 is not odd. It ends in 0. Even numbers end in 0, 2, 4, 6, or 8. You can write 10 = 5 + 5."
+        },
+        {
+          "id": "b",
+          "label": "Even",
+          "correct": true,
+          "explanation": "Correct! 10 is even. It ends in 0, and 5 + 5 = 10."
+        },
+        {
+          "id": "c",
+          "label": "Both",
+          "correct": false,
+          "explanation": "A number is either odd or even, never both. 10 is even because it ends in 0."
+        },
+        {
+          "id": "d",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "Every whole number is either odd or even. 10 is even."
+        }
+      ],
+      "explanation_md": "10 is even. It ends in 0, and you can pair all 10 objects with none left over. 10 = 5 + 5."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 7 odd or even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Even",
+          "correct": false,
+          "explanation": "7 is not even. It ends in 7. Odd numbers end in 1, 3, 5, 7, or 9. When you pair 7 objects, one is left over."
+        },
+        {
+          "id": "b",
+          "label": "Odd",
+          "correct": true,
+          "explanation": "Correct! 7 is odd. It ends in 7. When you pair 7 objects, 1 is left over."
+        },
+        {
+          "id": "c",
+          "label": "Both",
+          "correct": false,
+          "explanation": "A number cannot be both. 7 is odd because it ends in 7."
+        },
+        {
+          "id": "d",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "7 is odd. It ends in 7, and 1 object would be left over when you try to pair them."
+        }
+      ],
+      "explanation_md": "7 is odd. It ends in 7. Pairing 7 objects leaves 1 left over."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Fill in the blank: 16 = ? + ?\n\nWrite the equal addend (the number that goes in each blank).",
+      "correct_answer": "8",
+      "explanation_md": "16 is even. 16 = 8 + 8. Each equal addend is 8."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "15",
+          "correct": false,
+          "explanation": "15 ends in 5, so it is odd. Even numbers end in 0, 2, 4, 6, or 8."
+        },
+        {
+          "id": "b",
+          "label": "13",
+          "correct": false,
+          "explanation": "13 ends in 3, so it is odd."
+        },
+        {
+          "id": "c",
+          "label": "18",
+          "correct": true,
+          "explanation": "Correct! 18 ends in 8. Even numbers end in 0, 2, 4, 6, or 8. Also, 18 = 9 + 9."
+        },
+        {
+          "id": "d",
+          "label": "19",
+          "correct": false,
+          "explanation": "19 ends in 9, so it is odd."
+        }
+      ],
+      "explanation_md": "18 is even. It ends in 8, and 18 = 9 + 9."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "There are 14 students in class. The teacher wants to pair everyone up. Will there be any students left without a partner?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 1 student will be left over.",
+          "correct": false,
+          "explanation": "14 is even, so everyone gets a partner. 14 = 7 + 7, meaning 7 pairs of students."
+        },
+        {
+          "id": "b",
+          "label": "No, everyone gets a partner.",
+          "correct": true,
+          "explanation": "Correct! 14 is even (ends in 4), so everyone pairs up. 7 + 7 = 14."
+        },
+        {
+          "id": "c",
+          "label": "Yes, 2 students will be left over.",
+          "correct": false,
+          "explanation": "14 is even. You can pair all 14 students into 7 pairs."
+        },
+        {
+          "id": "d",
+          "label": "There is not enough information.",
+          "correct": false,
+          "explanation": "We know there are 14 students. 14 is even, so everyone gets a partner."
+        }
+      ],
+      "explanation_md": "14 is even (ends in 4). 14 = 7 + 7. Everyone gets a partner."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which equation shows an even number written as two equal addends?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 + 4 = 7",
+          "correct": false,
+          "explanation": "3 and 4 are not equal addends. Equal addends are the same number. Also, 7 is odd."
+        },
+        {
+          "id": "b",
+          "label": "6 + 6 = 12",
+          "correct": true,
+          "explanation": "Correct! 6 and 6 are equal addends, and 12 is even."
+        },
+        {
+          "id": "c",
+          "label": "5 + 6 = 11",
+          "correct": false,
+          "explanation": "5 and 6 are not equal. Also, 11 is odd."
+        },
+        {
+          "id": "d",
+          "label": "4 + 5 = 9",
+          "correct": false,
+          "explanation": "4 and 5 are not equal. Also, 9 is odd."
+        }
+      ],
+      "explanation_md": "6 + 6 = 12 shows an even number (12) written as two equal addends (both 6)."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 2s to find which group of objects has an even number: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.\n\nWhich number is NOT in this list?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "16",
+          "correct": false,
+          "explanation": "16 is in the list. Counting by 2s: 2, 4, 6, 8, 10, 12, 14, 16. So 16 is even."
+        },
+        {
+          "id": "b",
+          "label": "11",
+          "correct": true,
+          "explanation": "Correct! 11 is not in the count-by-2s list (2, 4, 6, 8, 10, 12...). 11 is odd."
+        },
+        {
+          "id": "c",
+          "label": "20",
+          "correct": false,
+          "explanation": "20 is in the list. Count by 2s all the way to 20."
+        },
+        {
+          "id": "d",
+          "label": "8",
+          "correct": false,
+          "explanation": "8 is in the list: 2, 4, 6, 8. So 8 is even."
+        }
+      ],
+      "explanation_md": "11 is odd. It is not in the count-by-2s list. Counting by 2s gives only even numbers."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What equation with two equal addends equals 20?  Write just the equal addend.",
+      "correct_answer": "10",
+      "explanation_md": "20 = 10 + 10. The equal addend is 10."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A bag has 17 marbles. Can you split them equally into two groups with nothing left over?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 8 in each group with 1 left over.",
+          "correct": false,
+          "explanation": "If there is 1 left over, you cannot split them equally. 17 is odd, so you cannot make two equal groups."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 8 and 9 in each group.",
+          "correct": false,
+          "explanation": "8 and 9 are not equal groups. Equal means both groups have the same number."
+        },
+        {
+          "id": "c",
+          "label": "No, 17 is odd.",
+          "correct": true,
+          "explanation": "Correct! 17 is odd (ends in 7). Odd numbers cannot be split into two equal groups with nothing left over."
+        },
+        {
+          "id": "d",
+          "label": "Yes, 17 in each group.",
+          "correct": false,
+          "explanation": "That would be 34 total marbles, not 17. We need two groups from 17."
+        }
+      ],
+      "explanation_md": "17 is odd (ends in 7). It cannot be split into two equal groups."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is always true?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An even number plus an even number is odd.",
+          "correct": false,
+          "explanation": "Even + Even = Even. For example, 4 + 6 = 10, and 10 is even."
+        },
+        {
+          "id": "b",
+          "label": "An odd number plus an odd number is odd.",
+          "correct": false,
+          "explanation": "Odd + Odd = Even! For example, 3 + 5 = 8, and 8 is even."
+        },
+        {
+          "id": "c",
+          "label": "An even number plus an odd number is odd.",
+          "correct": true,
+          "explanation": "Correct! Even + Odd = Odd. For example, 4 + 3 = 7 (odd), 6 + 5 = 11 (odd)."
+        },
+        {
+          "id": "d",
+          "label": "An odd number plus an even number is even.",
+          "correct": false,
+          "explanation": "Odd + Even = Odd. For example, 3 + 4 = 7, and 7 is odd."
+        }
+      ],
+      "explanation_md": "Even + Odd = Odd. For example, 6 + 3 = 9 (odd), 8 + 5 = 13 (odd)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which shows 12 written as two equal addends?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 + 7 = 12",
+          "correct": false,
+          "explanation": "5 and 7 are not equal. Equal addends must be the same number. 12 = 6 + 6."
+        },
+        {
+          "id": "b",
+          "label": "6 + 6 = 12",
+          "correct": true,
+          "explanation": "Correct! 6 + 6 = 12. Both addends are equal (both are 6)."
+        },
+        {
+          "id": "c",
+          "label": "4 + 8 = 12",
+          "correct": false,
+          "explanation": "4 and 8 are not equal addends. The equal addend for 12 is 6 + 6."
+        },
+        {
+          "id": "d",
+          "label": "3 + 9 = 12",
+          "correct": false,
+          "explanation": "3 and 9 are not equal. 12 = 6 + 6."
+        }
+      ],
+      "explanation_md": "12 = 6 + 6. Both addends are 6, which are equal."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Ben has 19 grapes. He wants to share them equally with his brother. Which is true?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He can share them equally because 19 is even.",
+          "correct": false,
+          "explanation": "19 is odd, not even. It ends in 9. Odd numbers cannot be split into two equal groups."
+        },
+        {
+          "id": "b",
+          "label": "He cannot share them equally because 19 is odd.",
+          "correct": true,
+          "explanation": "Correct! 19 is odd (ends in 9). One grape would be left over if they tried to split them equally."
+        },
+        {
+          "id": "c",
+          "label": "He can share them equally, 9 each.",
+          "correct": false,
+          "explanation": "9 + 9 = 18, not 19. There would be 1 grape left over. 19 is odd."
+        },
+        {
+          "id": "d",
+          "label": "He can share them equally, 10 each.",
+          "correct": false,
+          "explanation": "10 + 10 = 20, not 19. 19 is odd and cannot be split equally."
+        }
+      ],
+      "explanation_md": "19 is odd (ends in 9). It cannot be split into two equal groups."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Sam has 18 stickers. He writes an equation to show 18 as two equal addends: 18 = ? + ?\n\nWhat number goes in each blank?",
+      "correct_answer": "9",
+      "explanation_md": "18 = 9 + 9. The equal addend is 9."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Look at these dots: o o o o o o\n\nCan you pair all of them up with none left over?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, 1 is left over.",
+          "correct": false,
+          "explanation": "Count the dots: 1, 2, 3, 4, 5, 6. That is 6 dots. 6 can be paired: oo oo oo \u2014 3 pairs, none left over."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 3 pairs with none left over.",
+          "correct": true,
+          "explanation": "Correct! 6 dots pair into 3 groups of 2. None are left over, so 6 is even."
+        },
+        {
+          "id": "c",
+          "label": "Yes, but 2 are left over.",
+          "correct": false,
+          "explanation": "Pairs means groups of 2. With 6 dots: oo oo oo. That is exactly 3 pairs, none left over."
+        },
+        {
+          "id": "d",
+          "label": "I cannot tell.",
+          "correct": false,
+          "explanation": "Count the dots: 6. Try pairing them: oo oo oo. 3 pairs, none left over. 6 is even."
+        }
+      ],
+      "explanation_md": "6 dots pair perfectly into 3 pairs. Nothing is left over. 6 is even."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 4 odd or even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Odd",
+          "correct": false,
+          "explanation": "4 is not odd. Pair 4 objects: oo oo \u2014 2 pairs, nothing left over. 4 is even."
+        },
+        {
+          "id": "b",
+          "label": "Even",
+          "correct": true,
+          "explanation": "Correct! 4 is even. 4 = 2 + 2. Two pairs with nothing left over."
+        },
+        {
+          "id": "c",
+          "label": "Both",
+          "correct": false,
+          "explanation": "A number is either odd or even. 4 is even."
+        },
+        {
+          "id": "d",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "4 is even. Pair 4 objects into 2 pairs with nothing left over."
+        }
+      ],
+      "explanation_md": "4 is even. 4 = 2 + 2."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is 9 odd or even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Even",
+          "correct": false,
+          "explanation": "9 is not even. Pair 9 objects: oo oo oo oo o \u2014 4 pairs with 1 left over. 9 is odd."
+        },
+        {
+          "id": "b",
+          "label": "Odd",
+          "correct": true,
+          "explanation": "Correct! 9 is odd. When you pair 9 objects, 1 is left over."
+        },
+        {
+          "id": "c",
+          "label": "Both",
+          "correct": false,
+          "explanation": "9 is odd. One object is left over when you try to pair them."
+        },
+        {
+          "id": "d",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "9 is odd. It ends in 9, and pairing 9 objects leaves 1 left over."
+        }
+      ],
+      "explanation_md": "9 is odd. It ends in 9 and pairing leaves 1 over."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Fill in the blank: 8 = ? + ?\n\nWrite the equal addend.",
+      "correct_answer": "4",
+      "explanation_md": "8 = 4 + 4. The equal addend is 4."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is even?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is odd. It ends in 5."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is odd. It ends in 7."
+        },
+        {
+          "id": "c",
+          "label": "6",
+          "correct": true,
+          "explanation": "Correct! 6 is even. It ends in 6, and 6 = 3 + 3."
+        },
+        {
+          "id": "d",
+          "label": "9",
+          "correct": false,
+          "explanation": "9 is odd. It ends in 9."
+        }
+      ],
+      "explanation_md": "6 is even. Even numbers end in 0, 2, 4, 6, or 8."
+    }
+  ]
+}
