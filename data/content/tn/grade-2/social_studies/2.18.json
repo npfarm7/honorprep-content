@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.18",
+  "benchmark_description": "Describe the effects of major events and changes in the history of Tennessee communities, including the Civil War and the Civil Rights Movement.",
+  "course": "social_studies",
+  "strand": "HIS",
+  "lesson": {
+    "title": "Major Events That Changed Tennessee",
+    "intro": "Big events in history change the way people live. Tennessee was shaped by two very important events: the Civil War and the Civil Rights Movement. Let's learn what happened and why it still matters today.",
+    "body_md": "## The Civil War (1861-1865)\n\n### What was it?\nThe Civil War was a war between the northern states (the Union) and the southern states (the Confederacy). The main cause was slavery - the South wanted to keep enslaved people; the North wanted to stop slavery from spreading.\n\n### Tennessee in the Civil War\nTennessee was a border state at the center of the war:\n- Tennessee seceded (left) the United States and joined the Confederacy in 1861\n- More battles were fought in Tennessee than in almost any other state\n- Important battles: **Battle of Shiloh**, **Battle of Nashville**, **Battle of Stones River** (Murfreesboro)\n- Nashville was captured by Union forces in 1862 and became a major Union base\n\n### Effects of the Civil War on Tennessee\n- **The end of slavery:** Over 275,000 enslaved people in Tennessee were freed\n- **Destruction:** Many towns, farms, and railroads were damaged or destroyed\n- **Reconstruction:** Tennessee had to rebuild and rejoin the United States\n- **New freedoms:** Formerly enslaved people could now work, own property, go to school, and vote (at least for a time)\n- **Economic change:** The old plantation farming system ended\n\n## The Civil Rights Movement (1950s-1960s)\n\n### What was it?\nEven after the Civil War ended slavery, African Americans still faced discrimination. They were separated from white people at schools, restaurants, and even water fountains (called **segregation**). The Civil Rights Movement was the effort by African Americans and their supporters to gain equal rights.\n\n### Tennessee and Civil Rights\n- **Nashville sit-ins (1960):** African American college students sat at lunch counters that refused to serve them. They were peaceful but were sometimes attacked. Their courage helped change the law.\n- **James Lawson** trained student activists in non-violent protest in Nashville\n- **Diane Nash** was a Nashville student leader who helped organize sit-ins\n- Memphis was where Dr. Martin Luther King Jr. was assassinated on April 4, 1968, while supporting striking sanitation workers\n- **The Civil Rights Act of 1964** made segregation illegal across the United States\n\n### Effects of the Civil Rights Movement on Tennessee\n- Schools, restaurants, and public places became integrated (open to everyone)\n- African Americans gained greater access to voting rights\n- Tennessee communities became more equal under the law\n- Leaders from Tennessee like Diane Nash helped change the whole country",
+    "worked_example_md": "## Worked Example\n\n**Question:** How did the Civil War change life for enslaved people in Tennessee?\n\n**Step 1 - Before the Civil War:**\nOver 275,000 people were enslaved in Tennessee. They were forced to work without pay. They could not own property, go to school, vote, or make choices about their own lives.\n\n**Step 2 - During the Civil War:**\nThe war was partly about whether slavery would continue. In 1863, President Lincoln signed the Emancipation Proclamation, which declared enslaved people in Confederate states to be free.\n\n**Step 3 - After the Civil War:**\nSlavery was made illegal across the United States by the 13th Amendment (1865). Formerly enslaved people in Tennessee gained the freedom to:\n- Work for pay\n- Own property\n- Go to school\n- Travel\n- Vote (though this right was taken away again by unfair laws for many years)\n\n**Answer:** The Civil War led to the freedom of enslaved people in Tennessee. After the war, formerly enslaved people gained rights they had never had before. However, many challenges remained, which is why the Civil Rights Movement was needed 90 years later.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What was the Civil War (1861-1865) about?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A war against another country that attacked the United States",
+          "correct": false,
+          "explanation": "The Civil War was a conflict within the United States between Northern and Southern states, not an attack from another country."
+        },
+        {
+          "id": "b",
+          "label": "A war between northern and southern states, mainly about slavery",
+          "correct": true,
+          "explanation": "The Civil War was fought between the Union (North) and the Confederacy (South), mainly over the issue of slavery."
+        },
+        {
+          "id": "c",
+          "label": "A war about who would build the most railroads",
+          "correct": false,
+          "explanation": "Railroads were important during the war, but the main cause was slavery."
+        },
+        {
+          "id": "d",
+          "label": "A war between Tennessee and Georgia",
+          "correct": false,
+          "explanation": "The Civil War was between the northern and southern states, not just two states."
+        }
+      ],
+      "explanation_md": "The Civil War was fought between the Union (North) and the Confederacy (South), mainly over the issue of slavery."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What was segregation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of farming in Tennessee",
+          "correct": false,
+          "explanation": "Segregation was the practice of separating people by race, not a farming practice."
+        },
+        {
+          "id": "b",
+          "label": "The separation of people by race in schools, restaurants, and public places",
+          "correct": true,
+          "explanation": "Segregation meant African Americans were separated from white people in public places like schools, buses, and restaurants."
+        },
+        {
+          "id": "c",
+          "label": "A community celebration",
+          "correct": false,
+          "explanation": "Segregation was a harmful form of discrimination, not a celebration."
+        },
+        {
+          "id": "d",
+          "label": "A law protecting voting rights",
+          "correct": false,
+          "explanation": "Segregation was discrimination. Voting rights laws were made to protect rights, not restrict them."
+        }
+      ],
+      "explanation_md": "Segregation was the separation of people by race in public places. African Americans were not allowed in the same schools, restaurants, or buses as white people."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What happened at the Nashville sit-ins in 1960?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "African American students went on vacation to Nashville restaurants",
+          "correct": false,
+          "explanation": "The sit-ins were a form of protest, not a vacation."
+        },
+        {
+          "id": "b",
+          "label": "African American college students peacefully protested segregation at lunch counters",
+          "correct": true,
+          "explanation": "The Nashville sit-ins were peaceful protests at segregated lunch counters where African Americans were refused service."
+        },
+        {
+          "id": "c",
+          "label": "Nashville restaurants shut down for the winter",
+          "correct": false,
+          "explanation": "Nashville restaurants did not close for winter. The sit-ins were civil rights protests."
+        },
+        {
+          "id": "d",
+          "label": "White and African American students studied together for the first time",
+          "correct": false,
+          "explanation": "The sit-ins were protests against segregation at lunch counters, not a study session."
+        }
+      ],
+      "explanation_md": "African American college students peacefully sat at segregated lunch counters in Nashville in 1960 to protest segregation."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "One major effect of the Civil War on Tennessee was:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee became a separate country",
+          "correct": false,
+          "explanation": "After the Civil War, Tennessee rejoined the United States during Reconstruction."
+        },
+        {
+          "id": "b",
+          "label": "Slavery ended, and over 275,000 enslaved people in Tennessee were freed",
+          "correct": true,
+          "explanation": "One of the most significant effects of the Civil War was the end of slavery. Over 275,000 enslaved people in Tennessee were freed."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee became the most powerful state",
+          "correct": false,
+          "explanation": "After the war, Tennessee had to rebuild through Reconstruction. It did not become the most powerful state."
+        },
+        {
+          "id": "d",
+          "label": "The population of Tennessee doubled immediately",
+          "correct": false,
+          "explanation": "The Civil War caused destruction and hardship, not an immediate population doubling."
+        }
+      ],
+      "explanation_md": "One major effect was that slavery ended. Over 275,000 enslaved people in Tennessee were freed after the Civil War."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why was Nashville important during the Civil War?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nashville was not affected by the Civil War",
+          "correct": false,
+          "explanation": "Nashville was very much affected. It was captured by Union forces and became a major Union military base."
+        },
+        {
+          "id": "b",
+          "label": "Nashville was captured by Union forces in 1862 and became a major Union military base",
+          "correct": true,
+          "explanation": "When Union forces captured Nashville in 1862, it became one of the most important Union military bases in the South."
+        },
+        {
+          "id": "c",
+          "label": "Nashville was where the Confederate president lived",
+          "correct": false,
+          "explanation": "The Confederate capital was Richmond, Virginia. Nashville was captured by Union forces."
+        },
+        {
+          "id": "d",
+          "label": "Nashville was where the Civil War started",
+          "correct": false,
+          "explanation": "The Civil War began at Fort Sumter, South Carolina. Nashville was a major site during the war."
+        }
+      ],
+      "explanation_md": "Nashville was captured by Union forces in 1862 and became a major Union military base for the rest of the war."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Diane Nash was a Nashville college student who helped organize the sit-ins. She is important because she:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Was the president of Tennessee during the sit-ins",
+          "correct": false,
+          "explanation": "Diane Nash was a college student and civil rights activist, not a government official."
+        },
+        {
+          "id": "b",
+          "label": "Was a key leader in the civil rights movement, helping organize peaceful protests that changed laws",
+          "correct": true,
+          "explanation": "Diane Nash was a leading student organizer of the Nashville sit-ins who helped change segregation laws."
+        },
+        {
+          "id": "c",
+          "label": "Invented the idea of segregation",
+          "correct": false,
+          "explanation": "Diane Nash fought AGAINST segregation. She is a civil rights hero."
+        },
+        {
+          "id": "d",
+          "label": "Was a country music singer in Nashville",
+          "correct": false,
+          "explanation": "Diane Nash was a civil rights activist and student organizer, not a singer."
+        }
+      ],
+      "explanation_md": "Diane Nash was a key student leader who organized peaceful protests in Nashville, helping change segregation laws."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What did the Civil Rights Act of 1964 do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It ended the Civil War",
+          "correct": false,
+          "explanation": "The Civil War ended in 1865. The Civil Rights Act was passed in 1964, nearly 100 years later."
+        },
+        {
+          "id": "b",
+          "label": "It made segregation illegal across the United States",
+          "correct": true,
+          "explanation": "The Civil Rights Act of 1964 made it illegal to discriminate based on race in public places."
+        },
+        {
+          "id": "c",
+          "label": "It created the state of Tennessee",
+          "correct": false,
+          "explanation": "Tennessee became a state in 1796. The Civil Rights Act was about ending discrimination."
+        },
+        {
+          "id": "d",
+          "label": "It gave women the right to vote",
+          "correct": false,
+          "explanation": "Women's right to vote was established by the 19th Amendment in 1920. The Civil Rights Act focused on racial discrimination."
+        }
+      ],
+      "explanation_md": "The Civil Rights Act of 1964 made segregation illegal, giving all Americans equal rights in public places."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How were the Civil War and the Civil Rights Movement connected?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They were not connected at all - they happened at different times",
+          "correct": false,
+          "explanation": "They were deeply connected. The Civil War ended slavery, but the Civil Rights Movement was needed because African Americans still faced discrimination 100 years later."
+        },
+        {
+          "id": "b",
+          "label": "The Civil War ended slavery, but the Civil Rights Movement was needed to end ongoing discrimination against African Americans",
+          "correct": true,
+          "explanation": "Even after the Civil War freed enslaved people, African Americans still faced segregation and discrimination. The Civil Rights Movement worked to end these injustices."
+        },
+        {
+          "id": "c",
+          "label": "The Civil War caused the Civil Rights Movement in the same year",
+          "correct": false,
+          "explanation": "The Civil War ended in 1865. The Civil Rights Movement was mainly in the 1950s and 1960s - about 100 years later."
+        },
+        {
+          "id": "d",
+          "label": "Both were about who would be president of the United States",
+          "correct": false,
+          "explanation": "The Civil War was about slavery and preserving the Union. The Civil Rights Movement was about ending discrimination."
+        }
+      ],
+      "explanation_md": "The Civil War ended slavery, but African Americans still faced discrimination. The Civil Rights Movement was needed to end segregation and gain full equality."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Dr. Martin Luther King Jr. was in Memphis when he was assassinated in 1968. He was there to support sanitation workers. What does this tell us about the Civil Rights Movement?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Civil Rights Movement was only about lunch counter protests",
+          "correct": false,
+          "explanation": "The Civil Rights Movement addressed many forms of inequality, including workers' rights, voting, education, and more."
+        },
+        {
+          "id": "b",
+          "label": "The Civil Rights Movement addressed many kinds of inequality, including workers' rights and fair wages",
+          "correct": true,
+          "explanation": "Dr. King's presence in Memphis showed that the movement cared about workers' rights and economic justice, not just desegregation."
+        },
+        {
+          "id": "c",
+          "label": "Memphis did not play an important role in the Civil Rights Movement",
+          "correct": false,
+          "explanation": "Memphis was very important. Dr. King's assassination there was a pivotal moment in American history."
+        },
+        {
+          "id": "d",
+          "label": "The Civil Rights Movement only happened in the South",
+          "correct": false,
+          "explanation": "The Civil Rights Movement had national impact, though many key events occurred in the South."
+        }
+      ],
+      "explanation_md": "Dr. King's work in Memphis supporting sanitation workers shows the Civil Rights Movement addressed economic equality and workers' rights, not just segregation."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Both the Civil War and the Civil Rights Movement changed Tennessee. Which statement BEST explains what they had in common?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both were only about politics and elections",
+          "correct": false,
+          "explanation": "Both were about fundamental human rights and equality, not just politics."
+        },
+        {
+          "id": "b",
+          "label": "Both were struggles for the rights and dignity of African Americans, and both changed Tennessee's communities permanently",
+          "correct": true,
+          "explanation": "The Civil War ended slavery. The Civil Rights Movement ended legal segregation. Both permanently changed the lives of African Americans in Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Both events happened in the same decade",
+          "correct": false,
+          "explanation": "The Civil War was 1861-1865. The Civil Rights Movement was mainly 1950s-1960s. They were about 100 years apart."
+        },
+        {
+          "id": "d",
+          "label": "Both events made things worse for Tennessee communities",
+          "correct": false,
+          "explanation": "Both events, despite their pain and difficulty, led to greater freedom and equality in Tennessee."
+        }
+      ],
+      "explanation_md": "Both the Civil War and the Civil Rights Movement were struggles for African American rights and dignity, both permanently changing Tennessee."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What was ONE major effect of the Civil War on Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee became a separate country",
+          "correct": false,
+          "explanation": "Tennessee rejoined the United States after the Civil War."
+        },
+        {
+          "id": "b",
+          "label": "Slavery ended and formerly enslaved people were freed",
+          "correct": true,
+          "explanation": "The Civil War led to the end of slavery. Over 275,000 enslaved people in Tennessee were freed."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee grew more cotton than ever before",
+          "correct": false,
+          "explanation": "The war actually disrupted farming and ended the plantation system."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee became the capital of the United States",
+          "correct": false,
+          "explanation": "Washington D.C. remained the U.S. capital. Nashville was a Union base during the war."
+        }
+      ],
+      "explanation_md": "A major Civil War effect was the end of slavery. Over 275,000 enslaved people in Tennessee were freed."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Nashville sit-ins of 1960 were an example of:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A community having a picnic in Nashville",
+          "correct": false,
+          "explanation": "The sit-ins were peaceful civil rights protests at segregated lunch counters."
+        },
+        {
+          "id": "b",
+          "label": "Peaceful civil rights protests against segregation",
+          "correct": true,
+          "explanation": "The Nashville sit-ins were peaceful protests by African American students at segregated lunch counters."
+        },
+        {
+          "id": "c",
+          "label": "A government law requiring people to sit down",
+          "correct": false,
+          "explanation": "The sit-ins were protests against unjust laws, not a government law requiring sitting."
+        },
+        {
+          "id": "d",
+          "label": "A Tennessee music concert",
+          "correct": false,
+          "explanation": "The sit-ins were civil rights protests at lunch counters, not a music event."
+        }
+      ],
+      "explanation_md": "The Nashville sit-ins were peaceful protests by African American students against segregation at lunch counters."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for students today to learn about the Civil War and Civil Rights Movement?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because these events are still happening today",
+          "correct": false,
+          "explanation": "These specific events are part of history. We study them to learn lessons, not because they are ongoing."
+        },
+        {
+          "id": "b",
+          "label": "Because understanding past struggles for equality helps us appreciate rights we have today and work toward fairness for everyone",
+          "correct": true,
+          "explanation": "Learning about these events teaches us the value of rights and the importance of fairness and equality in our communities."
+        },
+        {
+          "id": "c",
+          "label": "Because students must memorize all the battle names",
+          "correct": false,
+          "explanation": "The goal is to understand the meaning and impact of these events, not just memorize names."
+        },
+        {
+          "id": "d",
+          "label": "Because these events had no lasting impact on communities",
+          "correct": false,
+          "explanation": "Both events had profound and lasting impacts on Tennessee communities and the whole nation."
+        }
+      ],
+      "explanation_md": "Learning about these events helps us appreciate the rights we have and understand the importance of fairness and equality."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The Civil War was fought between which two sides?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The United States and England",
+          "correct": false,
+          "explanation": "The Civil War was between Northern and Southern states within the United States."
+        },
+        {
+          "id": "b",
+          "label": "The North (Union) and the South (Confederacy)",
+          "correct": true,
+          "explanation": "The Civil War was between the northern Union states and the southern Confederate states."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee and Georgia",
+          "correct": false,
+          "explanation": "The Civil War was between the northern and southern states, not just two individual states."
+        },
+        {
+          "id": "d",
+          "label": "America and Canada",
+          "correct": false,
+          "explanation": "The Civil War was within the United States between northern and southern states."
+        }
+      ],
+      "explanation_md": "The Civil War was fought between the North (Union) and South (Confederacy) - a war within the United States."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Segregation meant that people were kept separate because of their:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Age",
+          "correct": false,
+          "explanation": "Segregation was based on race, not age."
+        },
+        {
+          "id": "b",
+          "label": "Race",
+          "correct": true,
+          "explanation": "Segregation separated people based on their race - white and African American people were kept apart in public places."
+        },
+        {
+          "id": "c",
+          "label": "Height",
+          "correct": false,
+          "explanation": "Segregation was based on race, not physical traits like height."
+        },
+        {
+          "id": "d",
+          "label": "What they liked to eat",
+          "correct": false,
+          "explanation": "Segregation was based on race, not food preferences."
+        }
+      ],
+      "explanation_md": "Segregation separated people based on race. African Americans and white people were kept apart in schools and public places."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What happened to enslaved people after the Civil War?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nothing changed for them",
+          "correct": false,
+          "explanation": "A major change happened. Slavery was made illegal and enslaved people were freed."
+        },
+        {
+          "id": "b",
+          "label": "They were freed and slavery was made illegal",
+          "correct": true,
+          "explanation": "The Civil War led to the end of slavery. Enslaved people were freed and slavery was made illegal by the 13th Amendment."
+        },
+        {
+          "id": "c",
+          "label": "They were moved to other states",
+          "correct": false,
+          "explanation": "Enslaved people were freed after the Civil War, not moved to other states."
+        },
+        {
+          "id": "d",
+          "label": "They became politicians immediately",
+          "correct": false,
+          "explanation": "While some African Americans did enter politics after the war, the immediate change was being freed from slavery."
+        }
+      ],
+      "explanation_md": "After the Civil War, enslaved people were freed and slavery was made illegal by the 13th Amendment."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Civil Rights Movement worked to end:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Civil War",
+          "correct": false,
+          "explanation": "The Civil War ended in 1865. The Civil Rights Movement was in the 1950s-60s, decades later."
+        },
+        {
+          "id": "b",
+          "label": "Segregation and discrimination against African Americans",
+          "correct": true,
+          "explanation": "The Civil Rights Movement worked to end segregation and give African Americans full equal rights."
+        },
+        {
+          "id": "c",
+          "label": "Country music in Nashville",
+          "correct": false,
+          "explanation": "The Civil Rights Movement was about equal rights, not music."
+        },
+        {
+          "id": "d",
+          "label": "The state of Tennessee",
+          "correct": false,
+          "explanation": "The Civil Rights Movement worked to give all Americans equal rights. Tennessee still exists as a state."
+        }
+      ],
+      "explanation_md": "The Civil Rights Movement worked to end segregation and discrimination against African Americans."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Nashville sit-ins were peaceful protests. What does 'peaceful' mean in this context?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The protesters used violence to get what they wanted",
+          "correct": false,
+          "explanation": "The Nashville sit-ins were non-violent. The protesters were peaceful even when they faced hostility."
+        },
+        {
+          "id": "b",
+          "label": "The protesters did not use violence - they sat quietly to make their point",
+          "correct": true,
+          "explanation": "The Nashville sit-in protesters were peaceful. They sat at lunch counters without fighting back, even when they were treated badly."
+        },
+        {
+          "id": "c",
+          "label": "The protests were too quiet for anyone to notice",
+          "correct": false,
+          "explanation": "The peaceful sit-ins were very noticed and effective at changing laws."
+        },
+        {
+          "id": "d",
+          "label": "Only the police were allowed at the sit-ins",
+          "correct": false,
+          "explanation": "The sit-ins were public protests by students. They were peaceful and non-violent."
+        }
+      ],
+      "explanation_md": "Peaceful means the protesters did not use violence. They sat quietly at lunch counters to make their point."
+    }
+  ]
+}
