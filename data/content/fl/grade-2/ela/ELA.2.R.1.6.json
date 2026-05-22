@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.R.1.6",
+  "benchmark_description": "Identify and explain how an author's word choice and use of figurative language affect the meaning and mood of a literary text.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Author's Craft: Word Choice and Point of View",
+    "intro": "Authors make careful choices about the words they use and who tells their story. These choices shape how readers feel and what they picture. Learning to notice an author's craft helps you understand and enjoy stories more deeply.",
+    "body_md": "## Word Choice: Why It Matters\n\nWord choice means selecting the specific words used to tell a story. Strong word choice:\n- Creates vivid pictures in the reader's mind\n- Sets the mood (happy, scary, peaceful, exciting)\n- Shows character traits and emotions\n- Makes the story come alive\n\n### Strong Verbs\nInstead of: *The dog ran.* Try: *The dog bolted.* OR *The dog crept.* OR *The dog bounded.*\n\nEach verb creates a different picture!\n\n### Descriptive Adjectives\nInstead of: *a big storm* Try: *a furious, howling storm*\n\n### Specific Nouns\nInstead of: *a bird* Try: *a red-tailed hawk*\n\n## Mood: The Feeling of a Story\n\nMood is the emotional atmosphere a story creates. Authors use word choice to create mood:\n\n- **Spooky mood**: The shadows crept along the wall. A door creaked.\n- **Joyful mood**: Sunlight sparkled on the water. She laughed and twirled.\n- **Tense/suspenseful mood**: Something moved in the dark. She held her breath.\n\n## Point of View\n\nPoint of view is the perspective from which a story is told.\n\n**First Person**: The narrator is IN the story. Uses: I, me, my, we\n\nExample: *I heard a noise outside my window.*\n\n**Third Person**: The narrator is OUTSIDE the story. Uses: he, she, they, character names\n\nExample: *Maya heard a noise outside her window.*\n\nThe point of view affects how much we know about characters' inner thoughts and feelings.",
+    "worked_example_md": "## Worked Example: Compare word choice\n\nVersion A (weak word choice): *The dog was big. It ran across the yard and made noise.*\n\nVersion B (strong word choice): *The massive dog thundered across the yard, its bark shattering the quiet morning.*\n\nCompare:\n- 'big' vs. 'massive' - which creates a clearer picture?\n- 'ran' vs. 'thundered' - which shows the dog's power?\n- 'made noise' vs. 'its bark shattering the quiet morning' - which is more vivid?\n\nVersion B uses deliberate word choices to create a specific image and mood.\n\n## Point of View Example\n\nFirst person: *I held my breath as I opened the door.*\n- We know exactly what the narrator feels\n\nThird person: *She held her breath as she opened the door.*\n- We see what the character does but may know less about her inner thoughts",
+    "estimated_minutes": 25
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does **word choice** mean in a story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "How many words are in the story",
+          "correct": false,
+          "explanation": "Word choice is about which words an author selects, not how many words there are."
+        },
+        {
+          "id": "B",
+          "label": "The specific words an author picks to create meaning and feeling",
+          "correct": true,
+          "explanation": "Correct! Word choice means the specific words an author selects. Different words create different feelings and images."
+        },
+        {
+          "id": "C",
+          "label": "Words that are spelled incorrectly",
+          "correct": false,
+          "explanation": "Word choice is a craft skill about selecting the best words, not about errors."
+        },
+        {
+          "id": "D",
+          "label": "Words in alphabetical order",
+          "correct": false,
+          "explanation": "Word choice is about selecting effective words, not putting them in alphabetical order."
+        }
+      ],
+      "explanation_md": "Word choice is the craft of selecting specific words to create vivid images, emotions, and meaning. Authors choose words carefully to shape how readers feel."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A story says: *The old house was **gloomy**.* What does the word 'gloomy' make you picture?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A bright, cheerful house",
+          "correct": false,
+          "explanation": "Gloomy means the opposite of bright and cheerful."
+        },
+        {
+          "id": "B",
+          "label": "A dark, dreary, sad-feeling house",
+          "correct": true,
+          "explanation": "Correct! 'Gloomy' creates a picture of something dark and dreary. It sets a sad, eerie mood."
+        },
+        {
+          "id": "C",
+          "label": "A very large house",
+          "correct": false,
+          "explanation": "Gloomy describes mood/feeling, not size."
+        },
+        {
+          "id": "D",
+          "label": "A house with many windows",
+          "correct": false,
+          "explanation": "Gloomy describes the feeling or atmosphere, not the number of windows."
+        }
+      ],
+      "explanation_md": "The word 'gloomy' creates a mood of darkness and sadness. Authors choose words like 'gloomy' to help readers picture and feel the setting."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An author writes: *The kitten crept slowly toward the bowl.* What does 'crept' tell you about how the kitten moved?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The kitten moved very fast",
+          "correct": false,
+          "explanation": "'Crept' means moved slowly and carefully, not fast."
+        },
+        {
+          "id": "B",
+          "label": "The kitten moved slowly and carefully",
+          "correct": true,
+          "explanation": "Correct! 'Crept' tells us the kitten moved slowly and cautiously, like it was sneaking."
+        },
+        {
+          "id": "C",
+          "label": "The kitten jumped high",
+          "correct": false,
+          "explanation": "'Crept' describes quiet, slow movement, not jumping."
+        },
+        {
+          "id": "D",
+          "label": "The kitten made a loud sound",
+          "correct": false,
+          "explanation": "'Crept' describes movement, not sound."
+        }
+      ],
+      "explanation_md": "'Crept' is a specific word choice. It tells us the kitten moved slowly and carefully - more vivid than just 'walked slowly.' Good word choice creates a clearer picture."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read two sentences:\n\nSentence A: *The dog was big.*\nSentence B: *The dog was enormous, like a small bear.*\n\nWhich sentence uses BETTER word choice?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sentence A - it is shorter and simpler",
+          "correct": false,
+          "explanation": "Shorter is not always better. Strong word choice creates vivid images. 'Enormous' and the comparison to a bear give a much clearer picture."
+        },
+        {
+          "id": "B",
+          "label": "Sentence B - 'enormous' and the comparison to a bear create a vivid picture",
+          "correct": true,
+          "explanation": "Correct! 'Enormous' is more specific than 'big,' and comparing the dog to a bear helps readers picture the size clearly."
+        },
+        {
+          "id": "C",
+          "label": "Both sentences have the same quality of word choice",
+          "correct": false,
+          "explanation": "'Big' is vague; 'enormous... like a small bear' is specific and vivid. Sentence B has stronger word choice."
+        },
+        {
+          "id": "D",
+          "label": "Neither sentence has good word choice",
+          "correct": false,
+          "explanation": "Sentence B has excellent word choice. 'Enormous' and the comparison make it strong."
+        }
+      ],
+      "explanation_md": "Strong word choice creates vivid, specific images. 'Enormous' is more precise than 'big,' and the comparison to a small bear helps readers visualize the dog's size."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A story begins: *'Something was watching me from the dark corner of the room.'* What mood does the author's word choice create?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Joyful and happy",
+          "correct": false,
+          "explanation": "'Something' (vague and threatening) and 'dark corner' create suspense, not joy."
+        },
+        {
+          "id": "B",
+          "label": "Suspenseful and a little scary",
+          "correct": true,
+          "explanation": "Correct! 'Something watching' (unknown threat) and 'dark corner' are deliberate word choices that create a suspenseful, uneasy mood."
+        },
+        {
+          "id": "C",
+          "label": "Calm and peaceful",
+          "correct": false,
+          "explanation": "'Something watching' from a 'dark corner' is the opposite of calm and peaceful."
+        },
+        {
+          "id": "D",
+          "label": "Silly and funny",
+          "correct": false,
+          "explanation": "This word choice creates tension, not humor."
+        }
+      ],
+      "explanation_md": "The author chose vague, threatening words ('something') and a dark setting ('dark corner') to create suspense. Word choice shapes the mood of a story."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the DIFFERENCE between first-person and third-person point of view?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "First person uses 'he' and 'she'; third person uses 'I' and 'me'",
+          "correct": false,
+          "explanation": "It is the other way around. First person uses 'I'; third person uses 'he,' 'she,' or 'they.'"
+        },
+        {
+          "id": "B",
+          "label": "First person uses 'I'; third person uses 'he,' 'she,' or the character's name",
+          "correct": true,
+          "explanation": "Correct! First person is told from inside the story using 'I.' Third person is told from outside using 'he,' 'she,' or character names."
+        },
+        {
+          "id": "C",
+          "label": "First person and third person are the same thing",
+          "correct": false,
+          "explanation": "They are different. In first person, a character in the story is the narrator. In third person, the narrator is outside the story."
+        },
+        {
+          "id": "D",
+          "label": "First person has more characters than third person",
+          "correct": false,
+          "explanation": "Point of view is about the narrator's position (inside or outside the story), not the number of characters."
+        }
+      ],
+      "explanation_md": "First person: narrator IS a character, uses 'I/me/my.' Third person: narrator is outside the story, uses 'he/she/they/character names.'"
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*I walked into the kitchen and smelled something amazing. My mom was baking cookies!*\n\nWhat point of view is used?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "First person - the narrator uses 'I'",
+          "correct": true,
+          "explanation": "Correct! 'I walked' and 'My mom' tell us this is first person - the narrator is a character in the story using 'I.'"
+        },
+        {
+          "id": "B",
+          "label": "Third person - the narrator uses 'he' or 'she'",
+          "correct": false,
+          "explanation": "There is no 'he' or 'she' narrating this. The narrator uses 'I' - that is first person."
+        },
+        {
+          "id": "C",
+          "label": "Second person - the narrator uses 'you'",
+          "correct": false,
+          "explanation": "No 'you' is used here. The narrator uses 'I' - that is first person."
+        },
+        {
+          "id": "D",
+          "label": "It cannot be determined from this passage",
+          "correct": false,
+          "explanation": "The 'I' in 'I walked' clearly signals first-person point of view."
+        }
+      ],
+      "explanation_md": "'I walked' and 'my mom' tell us this is first-person narration. The narrator is a character in the story."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why does an author's word choice matter?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Word choice only matters for spelling tests",
+          "correct": false,
+          "explanation": "Word choice is a literary craft skill that affects the reader's experience, not just spelling."
+        },
+        {
+          "id": "B",
+          "label": "Specific, vivid words create clearer images and stronger feelings in the reader",
+          "correct": true,
+          "explanation": "Correct! Strong word choice helps readers see, feel, and experience the story more vividly."
+        },
+        {
+          "id": "C",
+          "label": "Using simple words always makes a story better",
+          "correct": false,
+          "explanation": "Simple words can be effective, but specific and vivid words create stronger images. 'Crept' is better than 'moved slowly.'"
+        },
+        {
+          "id": "D",
+          "label": "Word choice does not affect how readers feel about a story",
+          "correct": false,
+          "explanation": "Word choice directly shapes how readers feel. 'The storm was bad' vs. 'The storm raged and howled' create very different feelings."
+        }
+      ],
+      "explanation_md": "Strong word choice creates clearer images and stronger emotional responses. Authors carefully select words to shape how readers experience the story."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence:\n\n*She devoured three slices of pizza in under a minute.*\n\nThe word 'devoured' is a strong word choice. What does it suggest?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She ate slowly and carefully",
+          "correct": false,
+          "explanation": "'Devoured' suggests quick, eager eating - the opposite of slow and careful."
+        },
+        {
+          "id": "B",
+          "label": "She ate quickly and hungrily",
+          "correct": true,
+          "explanation": "Correct! 'Devoured' means to eat greedily and quickly. It paints a vivid picture of how eagerly she ate."
+        },
+        {
+          "id": "C",
+          "label": "She did not like the pizza",
+          "correct": false,
+          "explanation": "Devouring food suggests you really want it. She clearly liked the pizza."
+        },
+        {
+          "id": "D",
+          "label": "She shared the pizza with friends",
+          "correct": false,
+          "explanation": "'Devoured' suggests she ate it herself, quickly. No sharing is implied."
+        }
+      ],
+      "explanation_md": "'Devoured' is a vivid word choice that means to eat greedily and quickly. It creates a much stronger image than 'ate' would. Strong verbs like this improve writing quality."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "An author is writing a story about a child exploring a mysterious forest. She wants readers to feel a mix of wonder and slight unease. Which word choice would BEST create this mood?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'The forest was nice and pretty with lots of trees.'",
+          "correct": false,
+          "explanation": "'Nice and pretty' creates a pleasant, ordinary mood - no wonder or unease."
+        },
+        {
+          "id": "B",
+          "label": "'The forest was dark and terrifying. She wanted to run away.'",
+          "correct": false,
+          "explanation": "This is all fear with no wonder. The author wants BOTH wonder and slight unease."
+        },
+        {
+          "id": "C",
+          "label": "'Ancient trees twisted toward the sky, their roots like gnarled fingers reaching from the earth.'",
+          "correct": true,
+          "explanation": "Correct! 'Ancient' (wonder at age), 'twisted' (slight unease), and 'roots like gnarled fingers' (vivid, slightly creepy) blend wonder and unease perfectly."
+        },
+        {
+          "id": "D",
+          "label": "'There were many trees of different sizes in the forest.'",
+          "correct": false,
+          "explanation": "This is plain description with no emotional effect. It creates neither wonder nor unease."
+        }
+      ],
+      "explanation_md": "The best word choice blends the two feelings the author wants. 'Ancient' creates wonder; 'twisted' and 'gnarled fingers' create slight unease. Vivid, carefully chosen words shape the exact mood the author intends."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence:\n\n*The puppy bounded into the room.*\n\nWhat does 'bounded' tell you about how the puppy moved?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The puppy moved slowly",
+          "correct": false,
+          "explanation": "'Bounded' suggests energetic, leaping movement - not slow."
+        },
+        {
+          "id": "B",
+          "label": "The puppy moved with energy, leaping and bounding",
+          "correct": true,
+          "explanation": "Correct! 'Bounded' means to jump and leap energetically. It is a vivid word choice that shows excitement."
+        },
+        {
+          "id": "C",
+          "label": "The puppy stayed still",
+          "correct": false,
+          "explanation": "'Bounded' describes movement, not stillness."
+        },
+        {
+          "id": "D",
+          "label": "The puppy crept quietly",
+          "correct": false,
+          "explanation": "'Bounded' is energetic and loud; 'crept' is quiet and cautious. They are opposites."
+        }
+      ],
+      "explanation_md": "'Bounded' is a vivid verb that shows energetic, leaping movement. Strong verb choices like this create clearer pictures than vague verbs like 'moved.'"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing a story about a sad dog waiting for its owner. Which word choice would create the STRONGEST sad mood?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'The dog sat by the window. It looked outside.'",
+          "correct": false,
+          "explanation": "This is plain description with no emotional weight. It does not create a sad mood strongly."
+        },
+        {
+          "id": "B",
+          "label": "'The dog pressed its nose against the cold glass, its eyes following every passing car, always hoping.'",
+          "correct": true,
+          "explanation": "Correct! 'Pressed,' 'cold,' 'following every passing car,' and 'always hoping' create a vivid, heartfelt sad image."
+        },
+        {
+          "id": "C",
+          "label": "'The dog was sad. It wanted its owner.'",
+          "correct": false,
+          "explanation": "Stating the emotion directly ('was sad') is less powerful than showing it through specific details and actions."
+        },
+        {
+          "id": "D",
+          "label": "'The dog barked a lot and ran around.'",
+          "correct": false,
+          "explanation": "Barking and running do not convey sadness. The word choices must match the mood."
+        }
+      ],
+      "explanation_md": "Strong word choice SHOWS emotion through specific details. 'Pressed its nose,' 'cold glass,' and 'always hoping' paint a vivid picture of sadness without just saying 'the dog was sad.'"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Max ran to the door. He opened it. He went outside. He walked down the street.*\n\nHow could the author IMPROVE the word choice?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Use shorter sentences with fewer words",
+          "correct": false,
+          "explanation": "Shorter is not always better. The issue is weak verbs (ran, opened, went, walked) that need more vivid replacements."
+        },
+        {
+          "id": "B",
+          "label": "Replace vague verbs with vivid, specific ones",
+          "correct": true,
+          "explanation": "Correct! Replacing 'ran' with 'sprinted,' 'went outside' with 'burst into the sunlight,' and 'walked' with 'strolled' would make the writing much more vivid."
+        },
+        {
+          "id": "C",
+          "label": "Add more character names",
+          "correct": false,
+          "explanation": "Adding names would not improve the plain verbs. The word choice problem is weak, vague verbs."
+        },
+        {
+          "id": "D",
+          "label": "The word choice is already strong",
+          "correct": false,
+          "explanation": "'Ran, opened, went, walked' are functional but vague. Stronger verb choices would create much more vivid writing."
+        }
+      ],
+      "explanation_md": "The passage uses plain, functional verbs. Strong word choice replaces vague verbs with vivid, specific ones: 'sprinted' instead of 'ran,' 'burst through' instead of 'went outside.'"
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "An author writes: *The storm **howled** outside.* What does 'howled' make you think of?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A quiet, peaceful storm",
+          "correct": false,
+          "explanation": "'Howled' is a loud, wild word - the opposite of quiet and peaceful."
+        },
+        {
+          "id": "B",
+          "label": "A loud, wild storm with strong winds",
+          "correct": true,
+          "explanation": "Correct! 'Howled' is a vivid word that makes the storm sound wild and loud, like a howling animal."
+        },
+        {
+          "id": "C",
+          "label": "A happy, sunny day",
+          "correct": false,
+          "explanation": "'Howled' is associated with wild, loud, sometimes frightening sounds - not sunshine."
+        },
+        {
+          "id": "D",
+          "label": "A snowstorm that was not very cold",
+          "correct": false,
+          "explanation": "'Howled' describes the wild sound of the storm, not its temperature."
+        }
+      ],
+      "explanation_md": "'Howled' is a vivid word choice. It compares the storm's sound to a howling animal, making it sound wild and powerful. Authors choose specific words to create strong images."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word creates a MORE vivid image than 'walked'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "moved",
+          "correct": false,
+          "explanation": "'Moved' is even more vague than 'walked.' It does not tell us how someone moved."
+        },
+        {
+          "id": "B",
+          "label": "tiptoed",
+          "correct": true,
+          "explanation": "Correct! 'Tiptoed' tells us exactly HOW someone walked - quietly, on their tiptoes. It is more vivid than 'walked.'"
+        },
+        {
+          "id": "C",
+          "label": "went",
+          "correct": false,
+          "explanation": "'Went' is very vague. It does not show HOW someone moved."
+        },
+        {
+          "id": "D",
+          "label": "did",
+          "correct": false,
+          "explanation": "'Did' is extremely vague and does not describe movement at all."
+        }
+      ],
+      "explanation_md": "Specific verbs create vivid images. 'Tiptoed' tells us the person moved quietly on their toes - we can picture it clearly. 'Walked' gives us much less information."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A story says: *'I ran to school today,' said Amy.* What point of view is Amy speaking in?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Third person",
+          "correct": false,
+          "explanation": "Third person uses 'he,' 'she,' or a character's name. Amy says 'I' - that is first person."
+        },
+        {
+          "id": "B",
+          "label": "First person",
+          "correct": true,
+          "explanation": "Correct! Amy uses 'I ran.' When a speaker uses 'I,' they are speaking in first person."
+        },
+        {
+          "id": "C",
+          "label": "Second person",
+          "correct": false,
+          "explanation": "Second person uses 'you.' Amy uses 'I.'"
+        },
+        {
+          "id": "D",
+          "label": "No point of view is shown",
+          "correct": false,
+          "explanation": "The word 'I' clearly shows first-person point of view."
+        }
+      ],
+      "explanation_md": "When a character or narrator says 'I,' they are using first-person point of view. Amy says 'I ran' - that is first person."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An author wants to write about a character who is very quiet and shy. Which word choice is BEST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'Tom talked a lot at lunch.'",
+          "correct": false,
+          "explanation": "Talking a lot is not quiet or shy. The word choice must match the character's traits."
+        },
+        {
+          "id": "B",
+          "label": "'Tom whispered his answers and kept his eyes on his desk.'",
+          "correct": true,
+          "explanation": "Correct! 'Whispered' and 'kept his eyes on his desk' show quiet and shy behavior through specific actions."
+        },
+        {
+          "id": "C",
+          "label": "'Tom was loud and funny.'",
+          "correct": false,
+          "explanation": "Loud and funny are not quiet or shy traits."
+        },
+        {
+          "id": "D",
+          "label": "'Tom was shy.'",
+          "correct": false,
+          "explanation": "Stating 'Tom was shy' is weaker than SHOWING it through specific details like whispering and avoiding eye contact."
+        }
+      ],
+      "explanation_md": "Strong word choice SHOWS character traits through specific details. 'Whispered' and 'kept his eyes on his desk' show shyness more vividly than just saying 'Tom was shy.'"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do authors choose specific, vivid words instead of general ones?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To confuse readers",
+          "correct": false,
+          "explanation": "Vivid words create clarity, not confusion."
+        },
+        {
+          "id": "B",
+          "label": "To create clearer pictures and stronger feelings in the reader's mind",
+          "correct": true,
+          "explanation": "Correct! Specific, vivid words help readers see and feel the story more clearly."
+        },
+        {
+          "id": "C",
+          "label": "To make stories longer",
+          "correct": false,
+          "explanation": "Word choice is about quality, not length."
+        },
+        {
+          "id": "D",
+          "label": "Because short words are always wrong",
+          "correct": false,
+          "explanation": "Short words can be very powerful! 'Slammed' is short but vivid. Word choice is about picking the right word, not the longest."
+        }
+      ],
+      "explanation_md": "Specific, vivid words create clearer mental images and stronger emotions. That is why good authors choose 'devoured' over 'ate' or 'howled' over 'was loud.'"
+    }
+  ]
+}
