@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.A.1.1",
+  "benchmark_description": "Recognize that history tells the story of people and events from other times and places.",
+  "course": "social_studies",
+  "strand": "A",
+  "lesson": {
+    "title": "What Is History?",
+    "intro": "History is the story of real people and events from the past. Studying history helps us understand how people lived before we were born and why the world looks the way it does today.",
+    "body_md": "## What Is History?\n\nHistory is the record of people, places, and events from the past. Historians are people who study history.\n\n## Why Do We Study History?\n\nWhen we study history, we learn:\n- **Who** lived before us\n- **What** happened in the past\n- **When** events took place\n- **Where** events happened\n- **Why** things changed over time\n\n## Sources That Tell Us About History\n\nHistorians use different tools to learn about the past:\n\n| Source | Example |\n|--------|---------|\n| **Written records** | letters, diaries, newspapers |\n| **Photographs** | old family pictures |\n| **Artifacts** | tools, clothing, coins |\n| **Maps** | old maps showing land and borders |\n| **Oral histories** | stories told by family members |\n\n## People Make History\n\nOrdinary and famous people both make history. Your grandparents lived through historical events. Leaders like Presidents make history too. Even your school has its own history!\n\n## Time and Place\n\nHistory takes place at a specific **time** (when something happened) and **place** (where it happened). Historians organize events on a **timeline** to see the order things happened.",
+    "worked_example_md": "## Worked Example\n\n**Question:** Maria found an old photograph of her great-grandmother standing in front of a one-room schoolhouse. How does this photograph help tell history?\n\n**Answer:** The photograph is a historical source. It tells us:\n- **Who:** Maria's great-grandmother\n- **When:** Long ago, before modern schools were built\n- **Where:** A one-room schoolhouse\n- **What:** Children went to a different kind of school in the past\n\nThis is history because it shows how things were different in another time and place.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A story about made-up people and places",
+          "correct": false,
+          "explanation": "History is about real people and events, not made-up ones."
+        },
+        {
+          "id": "b",
+          "label": "The record of real people and events from the past",
+          "correct": true,
+          "explanation": "History tells the story of real people and events that happened in the past."
+        },
+        {
+          "id": "c",
+          "label": "A list of things that will happen in the future",
+          "correct": false,
+          "explanation": "History is about the past, not the future."
+        },
+        {
+          "id": "d",
+          "label": "A map of different countries",
+          "correct": false,
+          "explanation": "A map shows places, but history is the story of people and events over time."
+        }
+      ],
+      "explanation_md": "History is the record of real people and real events from the past. It tells us stories about other times and places."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do we call a person who studies history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A scientist",
+          "correct": false,
+          "explanation": "Scientists study nature and how things work, not history."
+        },
+        {
+          "id": "b",
+          "label": "A geographer",
+          "correct": false,
+          "explanation": "Geographers study land and places, not history."
+        },
+        {
+          "id": "c",
+          "label": "A historian",
+          "correct": true,
+          "explanation": "A historian is someone who studies history and events from the past."
+        },
+        {
+          "id": "d",
+          "label": "An economist",
+          "correct": false,
+          "explanation": "Economists study money and trade, not history."
+        }
+      ],
+      "explanation_md": "A historian is a person who studies history, the story of real people and events from the past."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a source that historians use to learn about the past?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A video game",
+          "correct": false,
+          "explanation": "Video games are made up, not real records of the past."
+        },
+        {
+          "id": "b",
+          "label": "An old diary from 100 years ago",
+          "correct": true,
+          "explanation": "A diary is a written record. It tells historians what a real person thought and did in the past."
+        },
+        {
+          "id": "c",
+          "label": "A cartoon TV show",
+          "correct": false,
+          "explanation": "Cartoons are fictional and not records of real history."
+        },
+        {
+          "id": "d",
+          "label": "A new toy",
+          "correct": false,
+          "explanation": "A brand-new toy does not tell us about the past."
+        }
+      ],
+      "explanation_md": "Historians use written records like diaries to learn about the past. A 100-year-old diary tells us what life was really like back then."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds an old coin with the date 1890 on it. How can this coin help us understand history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It shows what money looked like in the past.",
+          "correct": true,
+          "explanation": "Artifacts like old coins show us what objects looked like in another time, helping us understand life in the past."
+        },
+        {
+          "id": "b",
+          "label": "It tells us the name of every person who lived in 1890.",
+          "correct": false,
+          "explanation": "A coin cannot list the names of all people who lived then."
+        },
+        {
+          "id": "c",
+          "label": "It predicts what will happen in the future.",
+          "correct": false,
+          "explanation": "History looks at the past, not the future."
+        },
+        {
+          "id": "d",
+          "label": "It shows us maps of old cities.",
+          "correct": false,
+          "explanation": "A coin shows images or symbols, not maps of cities."
+        }
+      ],
+      "explanation_md": "An old coin is an artifact. Artifacts like coins help historians understand what life was like in another time and place."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do historians put events on a timeline?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To predict what will happen next year",
+          "correct": false,
+          "explanation": "Timelines show past events, not future predictions."
+        },
+        {
+          "id": "b",
+          "label": "To show the order in which events happened",
+          "correct": true,
+          "explanation": "A timeline organizes events from earliest to most recent so we can see the order things happened in history."
+        },
+        {
+          "id": "c",
+          "label": "To draw pictures of famous people",
+          "correct": false,
+          "explanation": "Timelines use dates and event names, not drawings of people."
+        },
+        {
+          "id": "d",
+          "label": "To find out how much things cost",
+          "correct": false,
+          "explanation": "Timelines are about when events happened, not prices."
+        }
+      ],
+      "explanation_md": "A timeline is a tool historians use to show events in the order they happened, from the oldest to the most recent."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which question does history help us answer?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How tall will I grow?",
+          "correct": false,
+          "explanation": "Height is a science topic, not a history topic."
+        },
+        {
+          "id": "b",
+          "label": "What will the weather be tomorrow?",
+          "correct": false,
+          "explanation": "Weather forecasting is a science topic, not history."
+        },
+        {
+          "id": "c",
+          "label": "How did people travel before cars were invented?",
+          "correct": true,
+          "explanation": "This question is about how people lived in the past. History helps us answer questions like this about other times."
+        },
+        {
+          "id": "d",
+          "label": "What is 10 plus 5?",
+          "correct": false,
+          "explanation": "Math problems are not history questions."
+        }
+      ],
+      "explanation_md": "History helps us answer questions about the past, like how people lived and what tools or transportation they used long ago."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Grandma tells her grandchildren stories about growing up on a farm in the 1950s. What type of historical source is this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An artifact",
+          "correct": false,
+          "explanation": "An artifact is an object from the past, not a spoken story."
+        },
+        {
+          "id": "b",
+          "label": "A map",
+          "correct": false,
+          "explanation": "A map shows geographic information, not a spoken personal story."
+        },
+        {
+          "id": "c",
+          "label": "An oral history",
+          "correct": true,
+          "explanation": "An oral history is a story passed down by talking. Grandma's spoken memories count as an oral history."
+        },
+        {
+          "id": "d",
+          "label": "A photograph",
+          "correct": false,
+          "explanation": "A photograph is a picture, not a spoken story."
+        }
+      ],
+      "explanation_md": "Oral histories are stories told aloud by people who lived through past events. Grandma's spoken memories are an oral history."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A history book says the first school in a town opened in 1902. What two key facts does this tell us about the event?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Who built the school and how much it cost",
+          "correct": false,
+          "explanation": "The fact tells us when and what happened, not who built it or the cost."
+        },
+        {
+          "id": "b",
+          "label": "When it happened and what happened",
+          "correct": true,
+          "explanation": "1902 tells us WHEN the school opened. The school opening tells us WHAT happened. These are two key parts of history."
+        },
+        {
+          "id": "c",
+          "label": "How many students attended and their names",
+          "correct": false,
+          "explanation": "The fact does not include student names or numbers."
+        },
+        {
+          "id": "d",
+          "label": "What subjects were taught and by whom",
+          "correct": false,
+          "explanation": "The fact only tells us when the school opened, not what was taught."
+        }
+      ],
+      "explanation_md": "Every historical fact tells us WHEN something happened (1902) and WHAT happened (the first school opened). Those are two key parts of history."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to learn what her town looked like 100 years ago. Which sources would be MOST helpful?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An old photograph of the town and a newspaper from that time",
+          "correct": true,
+          "explanation": "Old photographs show what the town looked like, and old newspapers report events and details from that time. Both are strong historical sources."
+        },
+        {
+          "id": "b",
+          "label": "A new map of the town and today's school lunch menu",
+          "correct": false,
+          "explanation": "A new map shows today's town, not 100 years ago. A lunch menu is not a historical source."
+        },
+        {
+          "id": "c",
+          "label": "A library book about dinosaurs and a new TV show",
+          "correct": false,
+          "explanation": "Dinosaur books and TV shows do not tell us about this specific town 100 years ago."
+        },
+        {
+          "id": "d",
+          "label": "A math worksheet and a weather chart",
+          "correct": false,
+          "explanation": "Math and weather charts do not tell us what the town looked like in the past."
+        }
+      ],
+      "explanation_md": "Old photographs and old newspapers are both primary sources from the past. They give direct evidence of what the town looked like and what happened 100 years ago."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A historian studies a letter written in 1865 by a soldier. Why is this letter a valuable historical source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It was written long ago by someone who was there, giving a firsthand account.",
+          "correct": true,
+          "explanation": "A letter written by the soldier himself is a primary source. It gives a firsthand, eyewitness account of what that person experienced in 1865."
+        },
+        {
+          "id": "b",
+          "label": "It is the only source ever written about 1865.",
+          "correct": false,
+          "explanation": "There are many sources about 1865. A single letter is valuable because it is firsthand, not because it is the only one."
+        },
+        {
+          "id": "c",
+          "label": "It was written by a historian who studied that time period.",
+          "correct": false,
+          "explanation": "The letter was written by a soldier who lived through the events, not a later historian."
+        },
+        {
+          "id": "d",
+          "label": "Letters are always more accurate than photographs.",
+          "correct": false,
+          "explanation": "Neither letters nor photographs are always more accurate. This letter's value comes from being firsthand."
+        }
+      ],
+      "explanation_md": "A letter written by the soldier himself is a primary source. It comes directly from a person who was there and gives a firsthand account of what happened."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "History tells the story of real people and events from other ___ and ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "planets and stars",
+          "correct": false,
+          "explanation": "History is about people and events on Earth, not outer space."
+        },
+        {
+          "id": "b",
+          "label": "times and places",
+          "correct": true,
+          "explanation": "History tells about people and events from other times (the past) and places (different locations)."
+        },
+        {
+          "id": "c",
+          "label": "dreams and wishes",
+          "correct": false,
+          "explanation": "History is about real events, not dreams or wishes."
+        },
+        {
+          "id": "d",
+          "label": "stories and cartoons",
+          "correct": false,
+          "explanation": "History is about real events, not fictional stories or cartoons."
+        }
+      ],
+      "explanation_md": "History tells the story of real people and events from other **times** (the past) and **places** (different locations)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which item is the BEST example of an artifact a historian could study?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A clay pot found at an ancient village site",
+          "correct": true,
+          "explanation": "A clay pot from an ancient village is an artifact. Historians study artifacts to understand how people lived in the past."
+        },
+        {
+          "id": "b",
+          "label": "A new plastic bottle from the store",
+          "correct": false,
+          "explanation": "A brand-new bottle is not from the past and cannot tell historians about history."
+        },
+        {
+          "id": "c",
+          "label": "A printed copy of today's news",
+          "correct": false,
+          "explanation": "Today's news is a current source, not an artifact from another time."
+        },
+        {
+          "id": "d",
+          "label": "A colored pencil drawing a student made today",
+          "correct": false,
+          "explanation": "A drawing made today is current, not from the past."
+        }
+      ],
+      "explanation_md": "An artifact is an object made or used by people in the past. A clay pot found at an ancient village site is a real artifact that tells historians about how people lived long ago."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does studying history help us understand?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How to solve math problems",
+          "correct": false,
+          "explanation": "Math is a different subject. History helps us understand people and events from the past."
+        },
+        {
+          "id": "b",
+          "label": "How the weather will change",
+          "correct": false,
+          "explanation": "Weather is studied in science, not history."
+        },
+        {
+          "id": "c",
+          "label": "How people lived in the past and why things changed",
+          "correct": true,
+          "explanation": "History helps us understand how people lived in other times and places, and why the world changed over time."
+        },
+        {
+          "id": "d",
+          "label": "How to grow plants and crops",
+          "correct": false,
+          "explanation": "Growing plants is studied in science or agriculture, not history."
+        }
+      ],
+      "explanation_md": "Studying history helps us understand how people lived in the past and why things changed over time to become the world we live in today."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "History is about things that happened in the ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "future",
+          "correct": false,
+          "explanation": "The future has not happened yet. History is about what already happened."
+        },
+        {
+          "id": "b",
+          "label": "past",
+          "correct": true,
+          "explanation": "History is about real events that happened in the past."
+        },
+        {
+          "id": "c",
+          "label": "sky",
+          "correct": false,
+          "explanation": "History is not about the sky. It is about people and events over time."
+        },
+        {
+          "id": "d",
+          "label": "ocean",
+          "correct": false,
+          "explanation": "History is not only about oceans. It is about people and events from the past."
+        }
+      ],
+      "explanation_md": "History tells us about real things that happened in the **past**, before today."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a story about real people from the past?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A fairy tale about dragons",
+          "correct": false,
+          "explanation": "Fairy tales are made up. History is about real people."
+        },
+        {
+          "id": "b",
+          "label": "A book about how Abraham Lincoln grew up",
+          "correct": true,
+          "explanation": "Abraham Lincoln was a real person. A book about his life is history."
+        },
+        {
+          "id": "c",
+          "label": "A cartoon about talking animals",
+          "correct": false,
+          "explanation": "Cartoons with talking animals are made up, not real history."
+        },
+        {
+          "id": "d",
+          "label": "A made-up story about a magic school",
+          "correct": false,
+          "explanation": "A made-up story is fiction, not history."
+        }
+      ],
+      "explanation_md": "A book about Abraham Lincoln is history because Lincoln was a real person from the past. History is always about real people and events."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A photograph taken 80 years ago shows children playing outside. What does this photograph teach us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How children played in the past",
+          "correct": true,
+          "explanation": "Old photographs show us what life was like in another time. This one shows how children played long ago."
+        },
+        {
+          "id": "b",
+          "label": "What the weather will be tomorrow",
+          "correct": false,
+          "explanation": "A photograph from 80 years ago cannot tell us tomorrow's weather."
+        },
+        {
+          "id": "c",
+          "label": "The names of all children in the photo",
+          "correct": false,
+          "explanation": "A photograph alone does not tell us everyone's name."
+        },
+        {
+          "id": "d",
+          "label": "What games people will play in the future",
+          "correct": false,
+          "explanation": "An old photograph shows the past, not the future."
+        }
+      ],
+      "explanation_md": "Old photographs are historical sources. A photo from 80 years ago shows us how things looked and what people did in the past."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "History tells us about people from ___ times and ___ places.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "future; imaginary",
+          "correct": false,
+          "explanation": "History is about the past and real places, not the future and imaginary places."
+        },
+        {
+          "id": "b",
+          "label": "other; other",
+          "correct": true,
+          "explanation": "History tells us about people from other times (the past) and other places (different locations)."
+        },
+        {
+          "id": "c",
+          "label": "new; new",
+          "correct": false,
+          "explanation": "History is about old or past times, not new things."
+        },
+        {
+          "id": "d",
+          "label": "scary; cold",
+          "correct": false,
+          "explanation": "History is not described by those words."
+        }
+      ],
+      "explanation_md": "History tells the story of people and events from **other times** (the past) and **other places** (locations around the world or in your community)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these does a historian study?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Stars and planets",
+          "correct": false,
+          "explanation": "Astronomers study stars and planets. Historians study the past."
+        },
+        {
+          "id": "b",
+          "label": "Animals and plants",
+          "correct": false,
+          "explanation": "Biologists study animals and plants. Historians study the past."
+        },
+        {
+          "id": "c",
+          "label": "Events and people from the past",
+          "correct": true,
+          "explanation": "Historians study events and people from the past."
+        },
+        {
+          "id": "d",
+          "label": "How to add and subtract numbers",
+          "correct": false,
+          "explanation": "Adding and subtracting is math, not history."
+        }
+      ],
+      "explanation_md": "A historian studies events and people from the past using sources like old letters, photographs, and artifacts."
+    }
+  ]
+}
