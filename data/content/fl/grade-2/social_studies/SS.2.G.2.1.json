@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.G.2.1",
+  "benchmark_description": "Describe how Florida's climate and seasons affect the way people live and work.",
+  "course": "social_studies",
+  "strand": "G",
+  "lesson": {
+    "title": "How Florida's Climate Shapes Daily Life",
+    "intro": "Florida is called the Sunshine State for a reason! Florida has a warm, humid climate and mild winters. This affects what Floridians wear, grow, and do for fun and work. Let's explore how weather and seasons shape life in Florida!",
+    "body_md": "## Florida's Climate\n\n**Climate** is the usual weather pattern of a place over many years. Florida's climate is:\n- **Warm and humid** -- feels hot and sticky\n- **Two main seasons:** wet season and dry season (not four seasons like northern states)\n- **Wet season:** May through October -- lots of afternoon thunderstorms\n- **Dry season:** November through April -- sunny, less rain\n- **Hurricane season:** June 1 to November 30 -- storms can be dangerous\n\n## How Climate Affects What People WEAR\n\n- Light, breathable clothing (cotton, linen)\n- Shorts and sandals most of the year\n- Raincoats for afternoon showers in summer\n- Light jacket or sweater only needed in winter (and only in northern Florida)\n\n## How Climate Affects What People DO\n\n- **Tourism:** Millions of visitors come to Florida's beaches each year because of the warm weather\n- **Water sports:** Swimming, surfing, kayaking, fishing are popular because of the warm climate\n- **Outdoor activities:** Year-round because winters are mild\n- **Hurricane preparedness:** Families prepare emergency kits and evacuation plans\n\n## How Climate Affects What People GROW AND WORK\n\n- **Agriculture:** Florida's warm, wet climate is perfect for citrus fruits (oranges, grapefruits), tomatoes, strawberries, and sugar cane\n- **Tourism industry:** Hotels, theme parks, and restaurants depend on Florida's sunny weather to attract visitors\n- **Construction:** Building is easier year-round due to mild winters",
+    "worked_example_md": "## Worked Example\n\n**Question:** A farmer in northern Florida grows strawberries from November through March. How does Florida's climate make this possible?\n\n**Step 1:** Identify the season. November-March is Florida's dry season and mild winter.\n\n**Step 2:** How does the climate help? Strawberries need cool (not freezing) temperatures to grow well. Florida's mild winter is perfect -- cool enough for strawberries, but not cold enough to kill them.\n\n**Step 3:** Compare to other states. In northern states, January is too cold to grow strawberries. Florida's mild climate allows farming year-round.\n\n**Answer:** Florida's **mild winter temperatures** allow farmers to grow strawberries in winter, when northern states cannot.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is CLIMATE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The weather outside today",
+          "correct": false,
+          "explanation": "Today's weather is weather, not climate. Climate is the usual pattern over many years."
+        },
+        {
+          "id": "b",
+          "label": "The usual weather pattern of a place over many years",
+          "correct": true,
+          "explanation": "Climate describes the long-term average weather conditions of a place -- not just one day."
+        },
+        {
+          "id": "c",
+          "label": "A type of storm that hits Florida",
+          "correct": false,
+          "explanation": "A storm is a weather event. Climate is the overall long-term pattern."
+        },
+        {
+          "id": "d",
+          "label": "The temperature only in summer",
+          "correct": false,
+          "explanation": "Climate describes weather patterns throughout the year, not just one season."
+        }
+      ],
+      "explanation_md": "**Climate** is the usual weather pattern of a place over many years -- not just today's weather."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Florida is called the 'Sunshine State.' What does this suggest about Florida's climate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It is always cloudy and rainy.",
+          "correct": false,
+          "explanation": "Florida is called the Sunshine State because it has many sunny days, not cloudy ones."
+        },
+        {
+          "id": "b",
+          "label": "It has many warm and sunny days throughout the year.",
+          "correct": true,
+          "explanation": "The nickname reflects Florida's warm, mostly sunny climate that attracts tourists and farmers."
+        },
+        {
+          "id": "c",
+          "label": "It has very cold winters with snow.",
+          "correct": false,
+          "explanation": "Florida rarely has snow. It is known for warmth, not cold winters."
+        },
+        {
+          "id": "d",
+          "label": "It is the sunniest place on Earth.",
+          "correct": false,
+          "explanation": "Florida has many sunny days but is not necessarily the sunniest place on Earth."
+        }
+      ],
+      "explanation_md": "Florida is called the Sunshine State because it has **many warm and sunny days** throughout the year."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What are Florida's TWO main seasons?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Spring and fall",
+          "correct": false,
+          "explanation": "Florida does not have strong spring and fall seasons. Its two main seasons are wet and dry."
+        },
+        {
+          "id": "b",
+          "label": "Wet season and dry season",
+          "correct": true,
+          "explanation": "Florida has a wet season (May-October with heavy afternoon rains) and a dry season (November-April)."
+        },
+        {
+          "id": "c",
+          "label": "Winter and spring",
+          "correct": false,
+          "explanation": "Florida's seasons are not organized the same way as northern states. The two main seasons are wet and dry."
+        },
+        {
+          "id": "d",
+          "label": "Summer and winter",
+          "correct": false,
+          "explanation": "While Florida has summer and winter, the better description of Florida's seasons is wet and dry."
+        }
+      ],
+      "explanation_md": "Florida's two main seasons are the **wet season** (May-October) and the **dry season** (November-April)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does Florida's warm climate affect the tourism industry?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It makes fewer people want to visit Florida.",
+          "correct": false,
+          "explanation": "Warm weather attracts more tourists, not fewer."
+        },
+        {
+          "id": "b",
+          "label": "It attracts millions of visitors who come to enjoy beaches and outdoor activities.",
+          "correct": true,
+          "explanation": "Florida's warm, sunny climate is a major reason why millions of tourists visit each year."
+        },
+        {
+          "id": "c",
+          "label": "It prevents people from swimming in the ocean.",
+          "correct": false,
+          "explanation": "Warm weather encourages swimming. Florida's warm waters are a major tourism draw."
+        },
+        {
+          "id": "d",
+          "label": "It causes all outdoor activities to be cancelled.",
+          "correct": false,
+          "explanation": "Warm weather in Florida allows outdoor activities year-round, not cancelling them."
+        }
+      ],
+      "explanation_md": "Florida's warm climate **attracts millions of tourists** who come to enjoy beaches and outdoor activities."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer wants to grow oranges. Why is Florida a great state for this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Florida has cold winters that oranges need to grow.",
+          "correct": false,
+          "explanation": "Oranges grow best in warm climates, not cold winters. Florida's warm climate is ideal."
+        },
+        {
+          "id": "b",
+          "label": "Florida's warm, sunny climate is perfect for growing citrus fruits like oranges.",
+          "correct": true,
+          "explanation": "Oranges need warmth and sunshine. Florida's year-round warm climate makes it one of the top orange-producing states."
+        },
+        {
+          "id": "c",
+          "label": "Florida does not grow oranges.",
+          "correct": false,
+          "explanation": "Florida is one of the leading orange-producing states in the U.S."
+        },
+        {
+          "id": "d",
+          "label": "Oranges only grow in cold climates.",
+          "correct": false,
+          "explanation": "Oranges thrive in warm, subtropical climates like Florida's."
+        }
+      ],
+      "explanation_md": "Florida's **warm, sunny climate** is perfect for growing citrus fruits like oranges."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do Floridians need to know about hurricane season?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Hurricanes make the weather cooler.",
+          "correct": false,
+          "explanation": "Hurricanes bring dangerous winds and flooding, not just cooler weather."
+        },
+        {
+          "id": "b",
+          "label": "Hurricanes can be dangerous, so people prepare emergency kits and evacuation plans.",
+          "correct": true,
+          "explanation": "Hurricanes are powerful storms that can cause damage and require evacuation. Floridians prepare for them each year."
+        },
+        {
+          "id": "c",
+          "label": "Hurricanes only affect other states, not Florida.",
+          "correct": false,
+          "explanation": "Florida is one of the states most frequently hit by hurricanes."
+        },
+        {
+          "id": "d",
+          "label": "Hurricanes bring gifts and good weather.",
+          "correct": false,
+          "explanation": "Hurricanes bring dangerous winds, rain, and flooding -- not gifts."
+        }
+      ],
+      "explanation_md": "Hurricane season matters because hurricanes can be **dangerous**. Floridians prepare emergency kits and evacuation plans."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Because of Florida's mild winters, what can people do that is unusual compared to northern states?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ski on snow-covered mountains",
+          "correct": false,
+          "explanation": "Florida has no mountains or snow. Northern states have skiing."
+        },
+        {
+          "id": "b",
+          "label": "Farm and grow crops year-round",
+          "correct": true,
+          "explanation": "Florida's mild winters allow farming to continue when northern states are frozen. Winter strawberries and citrus thrive in Florida."
+        },
+        {
+          "id": "c",
+          "label": "Build snowmen in December",
+          "correct": false,
+          "explanation": "Florida rarely gets snow. Building snowmen is a northern-state activity."
+        },
+        {
+          "id": "d",
+          "label": "Wear heavy winter coats every day",
+          "correct": false,
+          "explanation": "Because Florida's winters are mild, people rarely need heavy coats."
+        }
+      ],
+      "explanation_md": "Florida's mild winters allow people to **farm and grow crops year-round**, unlike colder northern states."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A tourist from Canada visits Florida in January. What would most surprise her about the weather?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It is very cold and snowy.",
+          "correct": false,
+          "explanation": "January in Florida is typically mild and sunny -- not cold and snowy like January in Canada."
+        },
+        {
+          "id": "b",
+          "label": "It is warm and sunny, even in winter.",
+          "correct": true,
+          "explanation": "January in Florida is often warm enough for swimming. This contrasts sharply with Canadian winters."
+        },
+        {
+          "id": "c",
+          "label": "It is the middle of hurricane season.",
+          "correct": false,
+          "explanation": "Hurricane season is June through November. January is in the dry season."
+        },
+        {
+          "id": "d",
+          "label": "There is no sunshine at all.",
+          "correct": false,
+          "explanation": "Florida's dry season (November-April) has plenty of sunshine."
+        }
+      ],
+      "explanation_md": "A Canadian visitor would be surprised that January in Florida is **warm and sunny** -- the opposite of Canadian winter."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Florida's wet season runs from May to October. How might this affect a construction company building new homes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They cannot work at all in the wet season.",
+          "correct": false,
+          "explanation": "While heavy rains slow work, construction companies plan around afternoon showers and continue working."
+        },
+        {
+          "id": "b",
+          "label": "Afternoon thunderstorms may slow some outdoor work, but mild temperatures allow year-round building.",
+          "correct": true,
+          "explanation": "Florida's wet season has afternoon rains that can delay work, but mild temperatures mean construction can continue year-round overall."
+        },
+        {
+          "id": "c",
+          "label": "Construction is only allowed in the dry season by law.",
+          "correct": false,
+          "explanation": "There is no law restricting construction to the dry season. Weather creates practical challenges, not legal ones."
+        },
+        {
+          "id": "d",
+          "label": "The wet season makes buildings stronger.",
+          "correct": false,
+          "explanation": "Rain does not inherently make buildings stronger. It can actually slow and complicate construction."
+        }
+      ],
+      "explanation_md": "Afternoon thunderstorms can slow outdoor work, but **mild temperatures allow year-round building** in Florida."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Why does Florida's climate make it different from states like Minnesota or Michigan?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Florida has more mountains.",
+          "correct": false,
+          "explanation": "Florida is one of the flattest states. Minnesota and Michigan have more elevation variation."
+        },
+        {
+          "id": "b",
+          "label": "Florida has warm weather year-round while Minnesota and Michigan have cold, snowy winters.",
+          "correct": true,
+          "explanation": "Florida's subtropical climate means mild winters. Minnesota and Michigan have harsh winters with snow and ice."
+        },
+        {
+          "id": "c",
+          "label": "Florida gets less rain than northern states.",
+          "correct": false,
+          "explanation": "Florida actually gets quite a lot of rain, especially in the wet season."
+        },
+        {
+          "id": "d",
+          "label": "Florida has stronger laws.",
+          "correct": false,
+          "explanation": "Climate differences are about weather and geography, not laws."
+        }
+      ],
+      "explanation_md": "Florida has **warm weather year-round**, while Minnesota and Michigan have cold, snowy winters. This affects farming, tourism, and daily life."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When is hurricane season in Florida?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "January through April",
+          "correct": false,
+          "explanation": "January through April is Florida's dry season. Hurricane season is June-November."
+        },
+        {
+          "id": "b",
+          "label": "June 1 through November 30",
+          "correct": true,
+          "explanation": "Hurricane season in Florida runs from June 1 to November 30 each year."
+        },
+        {
+          "id": "c",
+          "label": "December through February",
+          "correct": false,
+          "explanation": "December through February is winter in Florida. Hurricane season is June-November."
+        },
+        {
+          "id": "d",
+          "label": "There is no hurricane season in Florida.",
+          "correct": false,
+          "explanation": "Florida is one of the states most frequently affected by hurricanes. June-November is hurricane season."
+        }
+      ],
+      "explanation_md": "Hurricane season in Florida runs from **June 1 to November 30** each year."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'Because of Florida's climate, farmers can grow crops in December.' Is this correct? Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, because Florida has freezing temperatures in December.",
+          "correct": false,
+          "explanation": "Florida's winters are mild, not freezing. Farming in December is possible in Florida."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because Florida's mild winter temperatures allow crops like strawberries and citrus to grow year-round.",
+          "correct": true,
+          "explanation": "Florida's mild December temperatures allow crops to grow when northern states are frozen."
+        },
+        {
+          "id": "c",
+          "label": "No, because December is in Florida's wet season.",
+          "correct": false,
+          "explanation": "December is in Florida's dry season, not the wet season. And yes, farming continues in December."
+        },
+        {
+          "id": "d",
+          "label": "Yes, but only if it rains every day.",
+          "correct": false,
+          "explanation": "Florida's dry season (November-April) has less rain, but farming continues because temperatures are mild."
+        }
+      ],
+      "explanation_md": "Florida's **mild winter temperatures** allow crops like strawberries and citrus to grow even in December."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does Florida's warm climate benefit the tourism industry?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It keeps tourists away because it is too hot.",
+          "correct": false,
+          "explanation": "Florida's warm climate attracts tourists, especially those from cold northern states and countries."
+        },
+        {
+          "id": "b",
+          "label": "It attracts millions of visitors who come to enjoy beaches, theme parks, and outdoor activities.",
+          "correct": true,
+          "explanation": "Warm, sunny weather is Florida's biggest tourism asset."
+        },
+        {
+          "id": "c",
+          "label": "It makes tourism impossible in summer.",
+          "correct": false,
+          "explanation": "Summer is actually one of Florida's busiest tourist seasons despite the heat and afternoon rains."
+        },
+        {
+          "id": "d",
+          "label": "It forces tourists to stay indoors.",
+          "correct": false,
+          "explanation": "Florida's warm weather encourages outdoor activities."
+        }
+      ],
+      "explanation_md": "Florida's warm climate **attracts millions of tourists** who enjoy beaches, theme parks, and year-round outdoor fun."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Florida is known for having a ___ climate.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cold and icy",
+          "correct": false,
+          "explanation": "Florida is known for warmth, not cold and ice."
+        },
+        {
+          "id": "b",
+          "label": "warm and sunny",
+          "correct": true,
+          "explanation": "Florida has a warm, sunny climate, which is why it is called the Sunshine State."
+        },
+        {
+          "id": "c",
+          "label": "very dry with no rain",
+          "correct": false,
+          "explanation": "Florida has a wet season with a lot of rain, especially in summer."
+        },
+        {
+          "id": "d",
+          "label": "mountainous and snowy",
+          "correct": false,
+          "explanation": "Florida is flat with no mountains and very rarely gets snow."
+        }
+      ],
+      "explanation_md": "Florida is known for having a **warm and sunny** climate."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Florida's two main seasons are the wet season and the ___ season.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "snow",
+          "correct": false,
+          "explanation": "Florida rarely gets snow. The two main seasons are wet and dry."
+        },
+        {
+          "id": "b",
+          "label": "dry",
+          "correct": true,
+          "explanation": "Florida's two main seasons are the wet season (May-October) and the dry season (November-April)."
+        },
+        {
+          "id": "c",
+          "label": "tornado",
+          "correct": false,
+          "explanation": "Tornadoes can occur but are not a season. The two main seasons are wet and dry."
+        },
+        {
+          "id": "d",
+          "label": "icy",
+          "correct": false,
+          "explanation": "Florida rarely gets ice or freezing temperatures."
+        }
+      ],
+      "explanation_md": "Florida's two main seasons are the **wet** season and the **dry** season."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Florida grows a lot of oranges. What type of climate makes this possible?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cold and snowy",
+          "correct": false,
+          "explanation": "Oranges cannot grow in cold, snowy climates. They need warmth."
+        },
+        {
+          "id": "b",
+          "label": "Warm and sunny",
+          "correct": true,
+          "explanation": "Oranges grow best in warm, sunny climates like Florida's."
+        },
+        {
+          "id": "c",
+          "label": "Very windy and rainy all the time",
+          "correct": false,
+          "explanation": "While Florida has rain, the warmth and sunshine are what help oranges grow."
+        },
+        {
+          "id": "d",
+          "label": "Below freezing temperatures",
+          "correct": false,
+          "explanation": "Below freezing temperatures would kill orange trees."
+        }
+      ],
+      "explanation_md": "Florida's **warm and sunny** climate makes it perfect for growing oranges and other citrus fruits."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Hurricane season in Florida lasts from June to ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "February",
+          "correct": false,
+          "explanation": "Hurricane season ends in November, not February."
+        },
+        {
+          "id": "b",
+          "label": "April",
+          "correct": false,
+          "explanation": "Hurricane season ends in November. April is well after hurricane season ends."
+        },
+        {
+          "id": "c",
+          "label": "November",
+          "correct": true,
+          "explanation": "Hurricane season in Florida runs from June 1 to November 30."
+        },
+        {
+          "id": "d",
+          "label": "December",
+          "correct": false,
+          "explanation": "Hurricane season officially ends November 30, before December."
+        }
+      ],
+      "explanation_md": "Hurricane season in Florida runs from June 1 to **November** 30."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A family from Minnesota visits Florida in January. They are surprised to go swimming in the ocean. Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because Florida has indoor swimming pools everywhere.",
+          "correct": false,
+          "explanation": "They are swimming in the ocean, not a pool. The reason is Florida's warm winter temperatures."
+        },
+        {
+          "id": "b",
+          "label": "Because Florida's mild winter temperatures keep the water warm enough for swimming.",
+          "correct": true,
+          "explanation": "Florida's warm winter climate keeps ocean temperatures comfortable for swimming in January, unlike Minnesota's frozen winters."
+        },
+        {
+          "id": "c",
+          "label": "Because Florida has special ocean heaters.",
+          "correct": false,
+          "explanation": "The ocean is warm naturally because of Florida's warm climate."
+        },
+        {
+          "id": "d",
+          "label": "Because January is summer in Florida.",
+          "correct": false,
+          "explanation": "January is winter in Florida, but Florida's winters are much milder than Minnesota's."
+        }
+      ],
+      "explanation_md": "Florida's **mild winter temperatures** keep the water warm enough for swimming in January."
+    }
+  ]
+}
