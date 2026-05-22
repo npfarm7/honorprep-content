@@ -1,0 +1,363 @@
+{
+  "skill_id": "MA.2.NSO.2.1",
+  "benchmark_description": "Recall addition facts with sums to 20 and related subtraction facts with automaticity.",
+  "course": "math",
+  "strand": "NSO",
+  "lesson": {
+    "title": "Addition and Subtraction Facts to 20",
+    "intro": "Knowing your addition and subtraction facts by heart makes all math faster and easier. Let's practice until these facts feel automatic!",
+    "body_md": "## Why Memorize Facts?\nWhen you know facts automatically, you do not have to stop and count. You just KNOW the answer, like knowing your name.\n\n## Key Addition Strategies\n**Doubles:** 6 + 6 = 12, 7 + 7 = 14, 8 + 8 = 16, 9 + 9 = 18\n\n**Doubles Plus One:** 6 + 7 = 13 (because 6 + 6 = 12, plus one more)\n\n**Make a Ten:** To add 8 + 5, think: 8 needs 2 more to make 10. Take 2 from 5. Now 10 + 3 = 13.\n\n**Count On:** Start at the bigger number and count on the smaller one.\n- 9 + 4: Start at 9, count on 4: 10, 11, 12, 13\n\n## Related Subtraction Facts\nEvery addition fact has related subtraction facts.\n- 8 + 7 = 15, so 15 - 7 = 8 and 15 - 8 = 7\n- This is called a **fact family**.\n\n## Fact Families\n| + | - | - |\n|---|---|---|\n| 6 + 8 = 14 | 14 - 6 = 8 | 14 - 8 = 6 |\n| 9 + 5 = 14 | 14 - 9 = 5 | 14 - 5 = 9 |\n| 7 + 8 = 15 | 15 - 7 = 8 | 15 - 8 = 7 |\n\n## Quick Reference\n| Fact | Sum |\n|------|-----|\n| 9 + 9 | 18 |\n| 9 + 8 | 17 |\n| 8 + 8 | 16 |\n| 9 + 7 | 16 |\n| 7 + 7 | 14 |\n| 8 + 6 | 14 |\n| 6 + 6 | 12 |",
+    "worked_example_md": "**What is 16 - 9?**\n\nMethod 1 (Think addition): What plus 9 equals 16? 9 + 7 = 16, so 16 - 9 = **7**.\n\nMethod 2 (Count up): Start at 9, count up to 16: 10, 11, 12, 13, 14, 15, 16. That is 7 steps. So 16 - 9 = **7**.\n\nMethod 3 (Make a ten): 16 - 9 = 16 - 10 + 1 = 6 + 1 = **7**.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "7 + 7 = ___",
+      "correct_answer": "14",
+      "explanation_md": "7 + 7 is a doubles fact. 7 + 7 = 14."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "9 + 9 = ___",
+      "correct_answer": "18",
+      "explanation_md": "9 + 9 is a doubles fact. 9 + 9 = 18."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is 8 + 6?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "12",
+          "correct": false,
+          "explanation": "12 is 6 + 6. 8 + 6 is 2 more than 6 + 6, so it is 14."
+        },
+        {
+          "id": "b",
+          "label": "13",
+          "correct": false,
+          "explanation": "13 is 7 + 6. 8 + 6 is one more: 14."
+        },
+        {
+          "id": "c",
+          "label": "14",
+          "correct": true,
+          "explanation": "8 + 6 = 14. Strategy: 8 + 6 = 8 + 2 + 4 = 10 + 4 = 14."
+        },
+        {
+          "id": "d",
+          "label": "15",
+          "correct": false,
+          "explanation": "15 is 9 + 6 or 8 + 7. 8 + 6 = 14."
+        }
+      ],
+      "explanation_md": "8 + 6 = 14. Make a ten: 8 + 2 = 10, then 10 + 4 = 14."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "14 - 7 = ___",
+      "correct_answer": "7",
+      "explanation_md": "14 - 7 = 7. Think: 7 + 7 = 14. So 14 - 7 = 7. This is a doubles fact family."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If 9 + 6 = 15, what is 15 - 6?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "6 would be the answer to 15 - 9, not 15 - 6."
+        },
+        {
+          "id": "b",
+          "label": "9",
+          "correct": true,
+          "explanation": "Since 9 + 6 = 15, then 15 - 6 = 9. They are in the same fact family."
+        },
+        {
+          "id": "c",
+          "label": "21",
+          "correct": false,
+          "explanation": "21 is bigger than 15. When we subtract, the answer must be smaller than 15."
+        },
+        {
+          "id": "d",
+          "label": "10",
+          "correct": false,
+          "explanation": "15 - 6 = 9, not 10. Think: 9 + 6 = 15."
+        }
+      ],
+      "explanation_md": "9 + 6 = 15. The related subtraction fact is 15 - 6 = 9."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "17 - 8 = ___",
+      "correct_answer": "9",
+      "explanation_md": "17 - 8 = 9. Think addition: 8 + 9 = 17. So 17 - 8 = 9."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which two facts are in the SAME fact family?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "8 + 5 = 13 and 14 - 6 = 8",
+          "correct": false,
+          "explanation": "8 + 5 = 13, but 14 - 6 = 8 uses different numbers (14, 6). They are not in the same family."
+        },
+        {
+          "id": "b",
+          "label": "6 + 7 = 13 and 13 - 6 = 7",
+          "correct": true,
+          "explanation": "Both use the numbers 6, 7, and 13. 6 + 7 = 13 and 13 - 6 = 7 are in the same fact family."
+        },
+        {
+          "id": "c",
+          "label": "9 + 8 = 17 and 17 - 9 = 9",
+          "correct": false,
+          "explanation": "9 + 8 = 17 but 17 - 9 = 8, not 9. So 17 - 9 = 9 is wrong, and the facts are not in the same family."
+        },
+        {
+          "id": "d",
+          "label": "5 + 7 = 12 and 12 - 5 = 8",
+          "correct": false,
+          "explanation": "5 + 7 = 12 but 12 - 5 = 7, not 8. These facts have an error."
+        }
+      ],
+      "explanation_md": "A fact family uses the same three numbers. 6 + 7 = 13 and 13 - 6 = 7 both use 6, 7, and 13."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What number makes this true? ___ + 8 = 16",
+      "correct_answer": "8",
+      "explanation_md": "8 + 8 = 16. This is a doubles fact. So ___ = 8."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Jake says 18 - 9 = 8 because 9 + 8 = 17. What mistake did Jake make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Jake is right. 18 - 9 = 8.",
+          "correct": false,
+          "explanation": "Jake is wrong. 9 + 9 = 18, so 18 - 9 = 9, not 8."
+        },
+        {
+          "id": "b",
+          "label": "Jake used the wrong addition fact. 9 + 9 = 18, so 18 - 9 = 9.",
+          "correct": true,
+          "explanation": "Jake used 9 + 8 = 17 instead of 9 + 9 = 18. The correct answer is 18 - 9 = 9."
+        },
+        {
+          "id": "c",
+          "label": "Jake should have added, not subtracted.",
+          "correct": false,
+          "explanation": "Subtraction is the right operation. Jake just used the wrong fact."
+        },
+        {
+          "id": "d",
+          "label": "There is no mistake. 8 is correct.",
+          "correct": false,
+          "explanation": "8 is not correct. 9 + 9 = 18, so 18 - 9 = 9."
+        }
+      ],
+      "explanation_md": "18 - 9 = 9 because 9 + 9 = 18. Jake used 9 + 8 = 17 by mistake."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "What is the missing number? 20 - ___ = 13",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "20 - 6 = 14, not 13."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": true,
+          "explanation": "20 - 7 = 13. Check: 13 + 7 = 20. Yes!"
+        },
+        {
+          "id": "c",
+          "label": "8",
+          "correct": false,
+          "explanation": "20 - 8 = 12, not 13."
+        },
+        {
+          "id": "d",
+          "label": "9",
+          "correct": false,
+          "explanation": "20 - 9 = 11, not 13."
+        }
+      ],
+      "explanation_md": "20 - 7 = 13. Check: 13 + 7 = 20."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "15 - 9 = ___",
+      "correct_answer": "6",
+      "explanation_md": "15 - 9 = 6. Think: 9 + 6 = 15. So 15 - 9 = 6."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which set of facts belongs to the SAME fact family?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7 + 5 = 12, 12 - 5 = 7, 12 - 7 = 5",
+          "correct": true,
+          "explanation": "All three facts use only the numbers 7, 5, and 12. This is a complete fact family."
+        },
+        {
+          "id": "b",
+          "label": "8 + 4 = 12, 12 - 4 = 8, 12 - 8 = 3",
+          "correct": false,
+          "explanation": "12 - 8 = 4, not 3. The fact 12 - 8 = 3 is wrong."
+        },
+        {
+          "id": "c",
+          "label": "6 + 6 = 12, 12 - 6 = 6, 12 + 6 = 18",
+          "correct": false,
+          "explanation": "12 + 6 = 18 is an addition fact but uses a different sum. It is not part of the 6+6=12 fact family."
+        },
+        {
+          "id": "d",
+          "label": "9 + 3 = 12, 12 - 9 = 4, 12 - 3 = 9",
+          "correct": false,
+          "explanation": "12 - 9 = 3, not 4. That fact has an error."
+        }
+      ],
+      "explanation_md": "7 + 5 = 12, 12 - 5 = 7, and 12 - 7 = 5 all use numbers 7, 5, and 12. Complete fact family."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "9 + ___ = 18",
+      "correct_answer": "9",
+      "explanation_md": "9 + 9 = 18. This is the double of 9."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "5 + 5 = ___",
+      "correct_answer": "10",
+      "explanation_md": "5 + 5 = 10. This is a doubles fact. Five fingers on each hand equals ten fingers total."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "6 + 6 = ___",
+      "correct_answer": "12",
+      "explanation_md": "6 + 6 = 12. Doubles fact: any number plus itself."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is 10 - 3?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "10 - 4 = 6. 10 - 3 is one more: 7."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": true,
+          "explanation": "10 - 3 = 7. Think: 3 + 7 = 10."
+        },
+        {
+          "id": "c",
+          "label": "8",
+          "correct": false,
+          "explanation": "10 - 2 = 8. 10 - 3 is one less: 7."
+        },
+        {
+          "id": "d",
+          "label": "13",
+          "correct": false,
+          "explanation": "13 is bigger than 10. When we subtract, the answer is smaller."
+        }
+      ],
+      "explanation_md": "10 - 3 = 7. Think: 3 + 7 = 10."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "12 - 6 = ___",
+      "correct_answer": "6",
+      "explanation_md": "12 - 6 = 6. Think: 6 + 6 = 12. So 12 - 6 = 6."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If 8 + 5 = 13, what is 13 - 5?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 would be the answer to 13 - 8. 13 - 5 = 8."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is not in the fact family for 8 + 5 = 13. 13 - 5 = 8."
+        },
+        {
+          "id": "c",
+          "label": "8",
+          "correct": true,
+          "explanation": "8 + 5 = 13, so 13 - 5 = 8. Same fact family!"
+        },
+        {
+          "id": "d",
+          "label": "18",
+          "correct": false,
+          "explanation": "18 is too big. When we subtract from 13, we get something less than 13."
+        }
+      ],
+      "explanation_md": "8 + 5 = 13, so 13 - 5 = 8. They are related facts in the same family."
+    }
+  ]
+}
