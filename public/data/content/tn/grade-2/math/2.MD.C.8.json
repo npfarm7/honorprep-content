@@ -1,0 +1,438 @@
+{
+  "skill_id": "2.MD.C.8",
+  "benchmark_description": "Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and cent symbols appropriately. e.g., If you have 2 dimes and 3 pennies, how many cents do you have?",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Counting Money and Solving Money Problems",
+    "intro": "Money is all around us! Quarters, dimes, nickels, and pennies all have different values. Let's learn how to count coins and solve money problems so you are always ready to make a purchase!",
+    "body_md": "## Coin and Dollar Values\n\n| Coin/Bill | Value |\n|---|---|\n| Penny | 1 cent (1\u00a2) |\n| Nickel | 5 cents (5\u00a2) |\n| Dime | 10 cents (10\u00a2) |\n| Quarter | 25 cents (25\u00a2) |\n| Dollar bill | 100 cents ($1.00) |\n\n## Using the Symbols\n\n- **\u00a2** means cents (for amounts less than $1.00)\n- **$** means dollars (for amounts $1.00 and more)\n\n**Examples:**\n- 47\u00a2 = forty-seven cents\n- $2.35 = two dollars and thirty-five cents\n\n## Counting Coins\n\nAlways start with the coin of greatest value and work down!\n\n**Example:** 1 quarter, 2 dimes, 1 nickel, 3 pennies\n- Quarter: 25\u00a2\n- 2 Dimes: +20\u00a2 = 45\u00a2\n- Nickel: +5\u00a2 = 50\u00a2\n- 3 Pennies: +3\u00a2 = 53\u00a2\n- **Total: 53\u00a2**\n\n## Helpful Skip-Counting\n\n- Count **quarters** by 25: 25, 50, 75, 100\n- Count **dimes** by 10: 10, 20, 30, 40...\n- Count **nickels** by 5: 5, 10, 15, 20...\n- Count **pennies** by 1: 1, 2, 3...\n\n## Adding and Subtracting Money\n\n**Example:** You have 75\u00a2. You spend 32\u00a2. How much do you have left?\n75\u00a2 - 32\u00a2 = **43\u00a2**\n\n**Example:** An apple costs 45\u00a2 and a banana costs 30\u00a2. How much do they cost together?\n45\u00a2 + 30\u00a2 = **75\u00a2**\n\n## Making Change\n\nChange = amount paid - price\n\n**Example:** You pay $1.00 for something that costs 64\u00a2.\n$1.00 - 64\u00a2 = 100\u00a2 - 64\u00a2 = **36\u00a2 change**",
+    "worked_example_md": "**Problem:** Sam has 3 dimes, 2 nickels, and 4 pennies. How many cents does Sam have?\n\n**Step 1:** Count the dimes (10\u00a2 each).\n3 dimes = 3 \u00d7 10 = 30\u00a2\n\n**Step 2:** Count the nickels (5\u00a2 each).\n2 nickels = 2 \u00d7 5 = 10\u00a2\n\n**Step 3:** Count the pennies (1\u00a2 each).\n4 pennies = 4 \u00d7 1 = 4\u00a2\n\n**Step 4:** Add them all up.\n30\u00a2 + 10\u00a2 + 4\u00a2 = **44\u00a2**\n\n**Answer:** Sam has 44 cents.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "How many cents is 1 quarter worth?",
+      "correct_answer": "25",
+      "explanation_md": "1 quarter = 25 cents."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You have 2 dimes and 3 pennies. How many cents do you have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 cents",
+          "correct": false,
+          "explanation": "2+3=5 is counting coins, not their value. 2 dimes=20\u00a2, 3 pennies=3\u00a2. Total: 23\u00a2."
+        },
+        {
+          "id": "b",
+          "label": "23 cents",
+          "correct": true,
+          "explanation": "Correct! 2 dimes = 20\u00a2, 3 pennies = 3\u00a2. 20+3=23 cents."
+        },
+        {
+          "id": "c",
+          "label": "32 cents",
+          "correct": false,
+          "explanation": "32 reverses the digits. 2 dimes=20, 3 pennies=3. Total: 23\u00a2."
+        },
+        {
+          "id": "d",
+          "label": "13 cents",
+          "correct": false,
+          "explanation": "2 dimes=20\u00a2, 3 pennies=3\u00a2. 20+3=23\u00a2."
+        }
+      ],
+      "explanation_md": "2 dimes = 20\u00a2. 3 pennies = 3\u00a2. Total: 23\u00a2."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "You have 1 quarter, 1 dime, and 1 nickel. How many cents is that?",
+      "correct_answer": "40",
+      "explanation_md": "Quarter=25\u00a2, Dime=10\u00a2, Nickel=5\u00a2. 25+10+5=40\u00a2."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A snack costs 55\u00a2. You pay with 3 quarters. How much change do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "20 cents",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2. 75-55=20\u00a2. Yes, 20 cents is correct."
+        },
+        {
+          "id": "b",
+          "label": "20 cents",
+          "correct": true,
+          "explanation": "Correct! 3 quarters=75\u00a2. 75-55=20\u00a2 change."
+        },
+        {
+          "id": "c",
+          "label": "25 cents",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2. 75-55=20\u00a2 change, not 25."
+        },
+        {
+          "id": "d",
+          "label": "30 cents",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2. 75-55=20\u00a2 change."
+        }
+      ],
+      "explanation_md": "3 quarters=75\u00a2. 75\u00a2-55\u00a2=20\u00a2 change."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sara has 2 quarters, 3 dimes, and 4 nickels. How many cents does she have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "90 cents",
+          "correct": false,
+          "explanation": "2 quarters=50\u00a2, 3 dimes=30\u00a2, 4 nickels=20\u00a2. 50+30+20=100\u00a2."
+        },
+        {
+          "id": "b",
+          "label": "100 cents",
+          "correct": true,
+          "explanation": "Correct! 2 quarters=50\u00a2, 3 dimes=30\u00a2, 4 nickels=20\u00a2. 50+30+20=100\u00a2."
+        },
+        {
+          "id": "c",
+          "label": "80 cents",
+          "correct": false,
+          "explanation": "2 quarters=50, 3 dimes=30, 4 nickels=20. 50+30+20=100\u00a2."
+        },
+        {
+          "id": "d",
+          "label": "70 cents",
+          "correct": false,
+          "explanation": "2 quarters=50\u00a2+3 dimes=30\u00a2+4 nickels=20\u00a2=100\u00a2."
+        }
+      ],
+      "explanation_md": "2 quarters=50\u00a2, 3 dimes=30\u00a2, 4 nickels=20\u00a2. Total: 100\u00a2=$1.00."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A pencil costs 35\u00a2. An eraser costs 20\u00a2. How much do they cost together?",
+      "correct_answer": "55",
+      "explanation_md": "35\u00a2+20\u00a2=55\u00a2."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake had 80\u00a2. He spent 47\u00a2 on a snack. How much does Jake have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "127 cents",
+          "correct": false,
+          "explanation": "127=80+47. Subtract: 80-47=33\u00a2."
+        },
+        {
+          "id": "b",
+          "label": "33 cents",
+          "correct": true,
+          "explanation": "Correct! 80-47=33\u00a2."
+        },
+        {
+          "id": "c",
+          "label": "43 cents",
+          "correct": false,
+          "explanation": "80-47=33, not 43."
+        },
+        {
+          "id": "d",
+          "label": "37 cents",
+          "correct": false,
+          "explanation": "80-47=33\u00a2."
+        }
+      ],
+      "explanation_md": "80\u00a2-47\u00a2=33\u00a2."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which combination equals exactly 50 cents?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 quarter, 2 dimes, 1 nickel",
+          "correct": false,
+          "explanation": "25+20+5=50\u00a2. That is correct!"
+        },
+        {
+          "id": "b",
+          "label": "1 quarter, 2 dimes, 1 nickel",
+          "correct": true,
+          "explanation": "Correct! 25+20+5=50\u00a2."
+        },
+        {
+          "id": "c",
+          "label": "2 dimes, 5 nickels",
+          "correct": false,
+          "explanation": "20+25=45\u00a2, not 50\u00a2."
+        },
+        {
+          "id": "d",
+          "label": "4 dimes, 2 pennies",
+          "correct": false,
+          "explanation": "40+2=42\u00a2, not 50\u00a2."
+        }
+      ],
+      "explanation_md": "1 quarter + 2 dimes + 1 nickel = 25+20+5=50\u00a2."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A book costs $1.25. Maria pays with a $1 bill and 3 dimes. Does she have enough?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, she has exactly enough.",
+          "correct": false,
+          "explanation": "$1.00+30\u00a2=$1.30. $1.30>$1.25, so she has MORE than enough but not exactly enough."
+        },
+        {
+          "id": "b",
+          "label": "Yes, she has more than enough \u2014 she will get 5 cents change.",
+          "correct": true,
+          "explanation": "Correct! $1.00+30\u00a2=$1.30. $1.30-$1.25=5\u00a2 change."
+        },
+        {
+          "id": "c",
+          "label": "No, she needs 5 cents more.",
+          "correct": false,
+          "explanation": "$1.00+30\u00a2=$1.30. $1.30>$1.25. She has enough \u2014 she will get 5\u00a2 change."
+        },
+        {
+          "id": "d",
+          "label": "No, she needs 25 cents more.",
+          "correct": false,
+          "explanation": "$1.00+30\u00a2=$1.30. Since $1.30>$1.25, she has enough."
+        }
+      ],
+      "explanation_md": "$1.00+30\u00a2=$1.30. $1.30>$1.25. She gets 5\u00a2 change."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Tom needs 95\u00a2. He has 3 quarters and 4 nickels. How much more does he need, if any?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He has enough \u2014 95\u00a2 exactly.",
+          "correct": true,
+          "explanation": "Correct! 3 quarters=75\u00a2, 4 nickels=20\u00a2. 75+20=95\u00a2. Exactly enough!"
+        },
+        {
+          "id": "b",
+          "label": "He needs 5\u00a2 more.",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2, 4 nickels=20\u00a2. 75+20=95\u00a2. He has exactly enough."
+        },
+        {
+          "id": "c",
+          "label": "He needs 10\u00a2 more.",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2, 4 nickels=20\u00a2. 75+20=95\u00a2. He has exactly enough."
+        },
+        {
+          "id": "d",
+          "label": "He has 5\u00a2 too many.",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2, 4 nickels=20\u00a2. Total=95\u00a2. He has exactly the right amount."
+        }
+      ],
+      "explanation_md": "3 quarters=75\u00a2, 4 nickels=20\u00a2. 75+20=95\u00a2. Exactly enough!"
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Count these coins: 2 quarters, 2 dimes, 3 nickels. How many cents?",
+      "correct_answer": "85",
+      "explanation_md": "2 quarters=50\u00a2, 2 dimes=20\u00a2, 3 nickels=15\u00a2. 50+20+15=85\u00a2."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A toy costs 68\u00a2. You pay with 3 quarters. How much change do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7 cents",
+          "correct": true,
+          "explanation": "Correct! 3 quarters=75\u00a2. 75-68=7\u00a2 change."
+        },
+        {
+          "id": "b",
+          "label": "8 cents",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2. 75-68=7\u00a2, not 8."
+        },
+        {
+          "id": "c",
+          "label": "25 cents",
+          "correct": false,
+          "explanation": "3 quarters=75\u00a2. 75-68=7\u00a2 change."
+        },
+        {
+          "id": "d",
+          "label": "68 cents",
+          "correct": false,
+          "explanation": "68\u00a2 is the price. Your change is 75-68=7\u00a2."
+        }
+      ],
+      "explanation_md": "3 quarters=75\u00a2. 75-68=7\u00a2 change."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "Emma has 1 dollar bill, 2 quarters, and 3 dimes. How many cents does she have in all?",
+      "correct_answer": "180",
+      "explanation_md": "$1.00=100\u00a2, 2 quarters=50\u00a2, 3 dimes=30\u00a2. 100+50+30=180\u00a2."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many cents is a dime worth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 cent",
+          "correct": false,
+          "explanation": "A penny = 1 cent. A dime = 10 cents."
+        },
+        {
+          "id": "b",
+          "label": "5 cents",
+          "correct": false,
+          "explanation": "A nickel = 5 cents. A dime = 10 cents."
+        },
+        {
+          "id": "c",
+          "label": "10 cents",
+          "correct": true,
+          "explanation": "Correct! A dime = 10 cents."
+        },
+        {
+          "id": "d",
+          "label": "25 cents",
+          "correct": false,
+          "explanation": "A quarter = 25 cents. A dime = 10 cents."
+        }
+      ],
+      "explanation_md": "A dime is worth 10 cents."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "How many cents is 1 nickel and 1 penny?",
+      "correct_answer": "6",
+      "explanation_md": "Nickel=5\u00a2, Penny=1\u00a2. 5+1=6\u00a2."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "You have 3 dimes. How many cents is that?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 cents",
+          "correct": false,
+          "explanation": "3 cents would be 3 pennies. 3 dimes = 3\u00d710 = 30 cents."
+        },
+        {
+          "id": "b",
+          "label": "30 cents",
+          "correct": true,
+          "explanation": "Correct! 3 dimes = 3\u00d710 = 30 cents."
+        },
+        {
+          "id": "c",
+          "label": "15 cents",
+          "correct": false,
+          "explanation": "3 nickels = 15 cents. 3 dimes = 30 cents."
+        },
+        {
+          "id": "d",
+          "label": "25 cents",
+          "correct": false,
+          "explanation": "1 quarter = 25 cents. 3 dimes = 30 cents."
+        }
+      ],
+      "explanation_md": "3 dimes = 3\u00d710 = 30 cents."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Count: 1 quarter and 2 nickels. How many cents?",
+      "correct_answer": "35",
+      "explanation_md": "Quarter=25\u00a2, 2 nickels=10\u00a2. 25+10=35\u00a2."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A pencil costs 25\u00a2. You pay with 3 dimes. How much change do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "55 cents",
+          "correct": false,
+          "explanation": "55=25+30. Subtract to find change: 30-25=5\u00a2."
+        },
+        {
+          "id": "b",
+          "label": "5 cents",
+          "correct": true,
+          "explanation": "Correct! 3 dimes=30\u00a2. 30-25=5\u00a2 change."
+        },
+        {
+          "id": "c",
+          "label": "10 cents",
+          "correct": false,
+          "explanation": "3 dimes=30\u00a2. 30-25=5\u00a2 change."
+        },
+        {
+          "id": "d",
+          "label": "25 cents",
+          "correct": false,
+          "explanation": "25\u00a2 is the price. Change = 30-25=5\u00a2."
+        }
+      ],
+      "explanation_md": "3 dimes=30\u00a2. 30-25=5\u00a2 change."
+    }
+  ]
+}
