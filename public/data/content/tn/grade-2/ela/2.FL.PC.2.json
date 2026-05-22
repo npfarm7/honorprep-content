@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.FL.PC.2",
+  "benchmark_description": "Know and apply grade-level phonics and word analysis skills in decoding words: (a) distinguish long and short vowels when reading regularly spelled one-syllable words; (b) know spelling-sound correspondences for common vowel teams; (c) decode regularly spelled two-syllable words with long vowels; (d) decode words with common prefixes and suffixes; (e) identify words with inconsistent but common spelling-sound correspondences.",
+  "course": "ela",
+  "strand": "FL",
+  "lesson": {
+    "title": "Cracking the Vowel Code",
+    "intro": "Vowels are sneaky \u2014 they can make more than one sound! Knowing when a vowel says its long sound or its short sound helps you read new words all by yourself. Let's become vowel detectives!",
+    "body_md": "## Short Vowels vs. Long Vowels\n\nShort vowels say their 'quick' sound. Long vowels say their letter name.\n\n| Vowel | Short sound | Example | Long sound | Example |\n|-------|-------------|---------|------------|---------|\n| a | /a/ | *cat* | /ay/ | *cake* |\n| e | /e/ | *bed* | /ee/ | *Pete* |\n| i | /i/ | *sit* | /eye/ | *kite* |\n| o | /o/ | *hop* | /oh/ | *hope* |\n| u | /u/ | *cup* | /yoo/ | *cube* |\n\n**The Magic E Rule:** When a word ends in a silent *e*, the vowel before it usually says its long sound.\n- *cap* \u2192 *cape* (the *a* now says /ay/)\n- *hop* \u2192 *hope* (the *o* now says /oh/)\n\n## Vowel Teams\n\nSome vowels team up to make one sound. A common saying: **When two vowels go walking, the first one does the talking.**\n\n| Vowel Team | Sound | Example Words |\n|------------|-------|---------------|\n| ai | /ay/ | *rain*, *mail*, *tail* |\n| ay | /ay/ | *play*, *stay*, *day* |\n| ee | /ee/ | *feet*, *tree*, *see* |\n| ea | /ee/ | *read*, *meat*, *leaf* |\n| oa | /oh/ | *boat*, *coat*, *road* |\n| ow | /oh/ | *slow*, *snow*, *grow* |\n\n## Two-Syllable Words with Long Vowels\n\nLong vowels also appear in two-syllable words. Break the word into syllables to decode it.\n\n- *ba-by* \u2192 /bay/ /bee/ \u2192 *baby*\n- *mu-sic* \u2192 /myoo/ /zik/ \u2192 *music*\n- *pa-per* \u2192 /pay/ /per/ \u2192 *paper*\n\n**Tip:** Look for the vowel team or the magic e in each syllable.\n\n## Prefixes and Suffixes\n\nA **prefix** is a word part added to the FRONT of a word. A **suffix** is a word part added to the END.\n\n| Prefix | Meaning | Example |\n|--------|---------|---------|\n| un- | not | *unhappy* |\n| re- | again | *reread* |\n| pre- | before | *preview* |\n\n| Suffix | Meaning | Example |\n|--------|---------|---------|\n| -ful | full of | *careful* |\n| -less | without | *hopeless* |\n| -er | more / one who | *faster*, *teacher* |\n| -ed | past tense | *jumped* |\n| -ing | happening now | *playing* |\n\n**How to decode:** Cover the prefix/suffix, read the base word, then add the word part back.\n\n## Tricky Words with Irregular Spellings\n\nSome words don't follow the rules \u2014 you just have to know them!\n\n- *said* (sounds like /sed/, not /sayd/)\n- *have* (sounds like /hav/, not /hayv/)\n- *come* (sounds like /kum/, not /kohm/)\n- *some*, *love*, *give*, *live*",
+    "worked_example_md": "## Worked Example\n\n**Problem:** Decode the word *remaking*.\n\n**Step 1 \u2014 Find the prefix.**\n*re-* is a prefix meaning 'again.'\nBase word so far: *making*\n\n**Step 2 \u2014 Find the suffix.**\n*-ing* is a suffix.\nBase word now: *make*\n\n**Step 3 \u2014 Decode the base word.**\n*make* \u2192 m + a + k + e (magic e!)\nThe *a* says its long sound: /ay/\n*make* = /mayk/\n\n**Step 4 \u2014 Put it all together.**\n*re-* + *make* + *-ing* = *remaking* = /ree-MAY-king/\n\n**Meaning:** doing the act of making something again.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Does the word *kite* have a long or short vowel sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Long vowel \u2014 the i says /eye/",
+          "correct": true,
+          "explanation": "Right! *kite* has a magic e at the end, so the i says its long sound /eye/."
+        },
+        {
+          "id": "b",
+          "label": "Short vowel \u2014 the i says /i/",
+          "correct": false,
+          "explanation": "If there were no e at the end, the i would say /i/ (like in *kit*). But the magic e makes it long."
+        },
+        {
+          "id": "c",
+          "label": "No vowel sound",
+          "correct": false,
+          "explanation": "Every word has a vowel sound. In *kite*, the vowel is i, and it says /eye/."
+        },
+        {
+          "id": "d",
+          "label": "Long vowel \u2014 the e says /ee/",
+          "correct": false,
+          "explanation": "The e at the end is silent \u2014 it makes the i long. The vowel sound in *kite* is /eye/, not /ee/."
+        }
+      ],
+      "explanation_md": "*kite* follows the magic e rule: the i says its long sound /eye/ because there is a silent e at the end."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a SHORT vowel sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "hop",
+          "correct": true,
+          "explanation": "Right! *hop* has the short /o/ sound. There is no magic e or vowel team."
+        },
+        {
+          "id": "b",
+          "label": "hope",
+          "correct": false,
+          "explanation": "*hope* has a magic e, so the o says its long sound /oh/."
+        },
+        {
+          "id": "c",
+          "label": "boat",
+          "correct": false,
+          "explanation": "*boat* has the vowel team *oa*, which makes the long /oh/ sound."
+        },
+        {
+          "id": "d",
+          "label": "coat",
+          "correct": false,
+          "explanation": "*coat* has the vowel team *oa*, which makes the long /oh/ sound."
+        }
+      ],
+      "explanation_md": "*hop* has a short /o/ sound. The other words all have long o sounds."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What sound does the vowel team *ai* make in the word *rain*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/ay/ like in play",
+          "correct": true,
+          "explanation": "Correct! The vowel team *ai* makes the long /ay/ sound, the same sound as the letter name 'a'."
+        },
+        {
+          "id": "b",
+          "label": "/a/ like in cat",
+          "correct": false,
+          "explanation": "That is the short a sound. The vowel team *ai* makes the long /ay/ sound."
+        },
+        {
+          "id": "c",
+          "label": "/ee/ like in tree",
+          "correct": false,
+          "explanation": "/ee/ is the sound for *ee* or *ea* vowel teams. The *ai* team says /ay/."
+        },
+        {
+          "id": "d",
+          "label": "/eye/ like in kite",
+          "correct": false,
+          "explanation": "/eye/ is the long i sound. The *ai* team says /ay/."
+        }
+      ],
+      "explanation_md": "The vowel team *ai* makes the long /ay/ sound, as in *rain*, *mail*, and *tail*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word contains the vowel team *ea* making the /ee/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "meat",
+          "correct": true,
+          "explanation": "Right! *meat* has the vowel team *ea* making the /ee/ sound: /meet/."
+        },
+        {
+          "id": "b",
+          "label": "met",
+          "correct": false,
+          "explanation": "*met* has a short /e/ sound and no vowel team."
+        },
+        {
+          "id": "c",
+          "label": "mate",
+          "correct": false,
+          "explanation": "*mate* uses magic e to make a long /ay/ sound, not the *ea* vowel team."
+        },
+        {
+          "id": "d",
+          "label": "mitt",
+          "correct": false,
+          "explanation": "*mitt* has a short /i/ sound and no vowel team."
+        }
+      ],
+      "explanation_md": "*meat* has the *ea* vowel team making the long /ee/ sound."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the prefix *un-* mean in the word *unhappy*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "not happy",
+          "correct": true,
+          "explanation": "Right! The prefix *un-* means 'not,' so *unhappy* means 'not happy.'"
+        },
+        {
+          "id": "b",
+          "label": "very happy",
+          "correct": false,
+          "explanation": "*un-* does not mean 'very.' It means 'not.'"
+        },
+        {
+          "id": "c",
+          "label": "happy again",
+          "correct": false,
+          "explanation": "'Again' is the meaning of *re-*, not *un-*. *Un-* means 'not.'"
+        },
+        {
+          "id": "d",
+          "label": "happy before",
+          "correct": false,
+          "explanation": "'Before' is the meaning of *pre-*, not *un-*. *Un-* means 'not.'"
+        }
+      ],
+      "explanation_md": "The prefix *un-* means 'not,' so *unhappy* = not happy."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means 'full of hope'?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "hopeful",
+          "correct": true,
+          "explanation": "Right! The suffix *-ful* means 'full of,' so *hopeful* = full of hope."
+        },
+        {
+          "id": "b",
+          "label": "hopeless",
+          "correct": false,
+          "explanation": "*hopeless* uses *-less*, which means 'without.' That gives the opposite meaning."
+        },
+        {
+          "id": "c",
+          "label": "unhope",
+          "correct": false,
+          "explanation": "*unhope* is not a real word. *Un-* would mean 'not,' and it does not attach to *hope* this way."
+        },
+        {
+          "id": "d",
+          "label": "rehope",
+          "correct": false,
+          "explanation": "*rehope* is not a real word. *Re-* means 'again' and does not form a standard word here."
+        }
+      ],
+      "explanation_md": "The suffix *-ful* means 'full of,' so *hopeful* = full of hope."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which syllable in the word *ba-by* has a long vowel sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both syllables have long vowel sounds",
+          "correct": true,
+          "explanation": "Right! *ba* = /bay/ (long a) and *by* = /bee/ (long e). Both syllables have long vowel sounds."
+        },
+        {
+          "id": "b",
+          "label": "Only the first syllable (ba)",
+          "correct": false,
+          "explanation": "The first syllable *ba* does have a long /ay/ sound, but the second syllable *by* also has a long /ee/ sound."
+        },
+        {
+          "id": "c",
+          "label": "Only the second syllable (by)",
+          "correct": false,
+          "explanation": "The second syllable *by* does have a long sound, but so does the first syllable *ba* (/bay/)."
+        },
+        {
+          "id": "d",
+          "label": "Neither syllable has a long vowel",
+          "correct": false,
+          "explanation": "Both syllables have long vowel sounds: *ba* = /bay/ and *by* = /bee/."
+        }
+      ],
+      "explanation_md": "In *baby*, both syllables have long vowels: *ba* = /bay/ and *by* = /bee/."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The word *said* does NOT follow regular spelling rules. How is *said* actually pronounced?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/sed/ \u2014 it rhymes with bed",
+          "correct": true,
+          "explanation": "Correct! *said* is an irregular word. Even though it has *ai*, it sounds like /sed/, not /sayd/."
+        },
+        {
+          "id": "b",
+          "label": "/sayd/ \u2014 it rhymes with paid",
+          "correct": false,
+          "explanation": "That would be the regular vowel-team pronunciation, but *said* is irregular. It sounds like /sed/."
+        },
+        {
+          "id": "c",
+          "label": "/sad/ \u2014 it rhymes with bad",
+          "correct": false,
+          "explanation": "*said* does not rhyme with *bad*. It sounds like /sed/, rhyming with *bed*."
+        },
+        {
+          "id": "d",
+          "label": "/side/ \u2014 it rhymes with hide",
+          "correct": false,
+          "explanation": "*said* does not sound like /side/. It sounds like /sed/."
+        }
+      ],
+      "explanation_md": "*said* is an irregular word. It sounds like /sed/, rhyming with *bed*, not *paid*."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Decode this word: *reopen*. What does it mean, and what are its parts?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "re- (again) + open = to open again",
+          "correct": true,
+          "explanation": "Correct! The prefix *re-* means 'again,' so *reopen* means to open again."
+        },
+        {
+          "id": "b",
+          "label": "re- (not) + open = to not open",
+          "correct": false,
+          "explanation": "'Not' is the meaning of *un-*, not *re-*. The prefix *re-* means 'again.'"
+        },
+        {
+          "id": "c",
+          "label": "re- (before) + open = to open before",
+          "correct": false,
+          "explanation": "'Before' is the meaning of *pre-*, not *re-*. The prefix *re-* means 'again.'"
+        },
+        {
+          "id": "d",
+          "label": "re- (more) + open = more open",
+          "correct": false,
+          "explanation": "'More' is one meaning of *-er* as a suffix. The prefix *re-* means 'again.'"
+        }
+      ],
+      "explanation_md": "*reopen* = *re-* (again) + *open* = to open again."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this two-syllable word: *compete*. Which vowel sound is in the first syllable *com-*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Short o, as in hot",
+          "correct": true,
+          "explanation": "Right! The first syllable *com-* has a short /o/ sound, like in *hot*."
+        },
+        {
+          "id": "b",
+          "label": "Long o, as in home",
+          "correct": false,
+          "explanation": "The first syllable *com-* does not have magic e or a vowel team, so the o is short, as in *hot*."
+        },
+        {
+          "id": "c",
+          "label": "Long e, as in feet",
+          "correct": false,
+          "explanation": "The long /ee/ sound is in the second syllable *-pete*, not the first syllable *com-*."
+        },
+        {
+          "id": "d",
+          "label": "Short e, as in pet",
+          "correct": false,
+          "explanation": "The first syllable *com-* has an o, not an e. The o in *com-* makes a short /o/ sound."
+        }
+      ],
+      "explanation_md": "In *compete*, the first syllable *com-* has a short /o/ sound. The second syllable *-pete* has the long /ee/ sound (magic e)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a long vowel sound made by a vowel team?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "road",
+          "correct": true,
+          "explanation": "Right! *road* has the vowel team *oa* making the long /oh/ sound."
+        },
+        {
+          "id": "b",
+          "label": "rod",
+          "correct": false,
+          "explanation": "*rod* has a short /o/ sound with no vowel team."
+        },
+        {
+          "id": "c",
+          "label": "rode",
+          "correct": false,
+          "explanation": "*rode* has a long /oh/ sound, but it uses magic e, not a vowel team."
+        },
+        {
+          "id": "d",
+          "label": "rot",
+          "correct": false,
+          "explanation": "*rot* has a short /o/ sound with no vowel team."
+        }
+      ],
+      "explanation_md": "*road* uses the vowel team *oa* to make the long /oh/ sound."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Break *careful* into its base word and suffix. What does *careful* mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "care + -ful = full of care",
+          "correct": true,
+          "explanation": "Correct! *Care* is the base word. The suffix *-ful* means 'full of.' So *careful* = full of care."
+        },
+        {
+          "id": "b",
+          "label": "car + eful = related to cars",
+          "correct": false,
+          "explanation": "The base word is *care*, not *car*. The suffix is *-ful*, not *-eful*."
+        },
+        {
+          "id": "c",
+          "label": "care + -less = without care",
+          "correct": false,
+          "explanation": "The suffix in *careful* is *-ful* (full of), not *-less* (without). *Careless* would mean without care."
+        },
+        {
+          "id": "d",
+          "label": "careful has no prefix or suffix",
+          "correct": false,
+          "explanation": "*careful* has the suffix *-ful*, which means 'full of.' The base word is *care*."
+        }
+      ],
+      "explanation_md": "*careful* = *care* + *-ful* (full of) = full of care."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Decode the word *snapshot*. Which part has a short vowel and which part has a short vowel? Break it into two syllables: *snap-shot*.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both syllables have short vowels: snap (/a/) and shot (/o/)",
+          "correct": true,
+          "explanation": "Correct! *snap* has a short /a/ and *shot* has a short /o/. Neither syllable has magic e or a vowel team."
+        },
+        {
+          "id": "b",
+          "label": "snap has a long vowel; shot has a short vowel",
+          "correct": false,
+          "explanation": "*snap* does not have magic e or a vowel team, so its /a/ is short, not long."
+        },
+        {
+          "id": "c",
+          "label": "snap has a short vowel; shot has a long vowel",
+          "correct": false,
+          "explanation": "*shot* does not have magic e or a vowel team, so its /o/ is short, not long."
+        },
+        {
+          "id": "d",
+          "label": "Both syllables have long vowels",
+          "correct": false,
+          "explanation": "Neither syllable has magic e or a vowel team, so both vowels are short."
+        }
+      ],
+      "explanation_md": "*snap-shot*: *snap* has short /a/, *shot* has short /o/. Both syllables follow the short vowel pattern."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a LONG vowel sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cake",
+          "correct": true,
+          "explanation": "Right! *cake* has a magic e, so the a says its long sound /ay/."
+        },
+        {
+          "id": "b",
+          "label": "cat",
+          "correct": false,
+          "explanation": "*cat* has a short /a/ sound. There is no magic e."
+        },
+        {
+          "id": "c",
+          "label": "cap",
+          "correct": false,
+          "explanation": "*cap* has a short /a/ sound. There is no magic e."
+        },
+        {
+          "id": "d",
+          "label": "cab",
+          "correct": false,
+          "explanation": "*cab* has a short /a/ sound. There is no magic e."
+        }
+      ],
+      "explanation_md": "*cake* has magic e, so the a says its long sound /ay/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What sound does the letter *a* make in *mad*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Short /a/ as in cat",
+          "correct": true,
+          "explanation": "Right! In *mad*, the a makes the short /a/ sound."
+        },
+        {
+          "id": "b",
+          "label": "Long /ay/ as in cake",
+          "correct": false,
+          "explanation": "*mad* does not have magic e or a vowel team, so the a is short, not long."
+        },
+        {
+          "id": "c",
+          "label": "No sound \u2014 the a is silent",
+          "correct": false,
+          "explanation": "The a in *mad* is not silent. It makes the short /a/ sound."
+        },
+        {
+          "id": "d",
+          "label": "Long /oh/ as in coat",
+          "correct": false,
+          "explanation": "/oh/ is an o sound, not an a sound. The a in *mad* says short /a/."
+        }
+      ],
+      "explanation_md": "In *mad*, the a makes the short /a/ sound, like in *cat*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The vowel team *ee* makes which sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Long /ee/ as in feet",
+          "correct": true,
+          "explanation": "Correct! The vowel team *ee* makes the long /ee/ sound."
+        },
+        {
+          "id": "b",
+          "label": "Short /e/ as in bed",
+          "correct": false,
+          "explanation": "The vowel team *ee* makes the LONG /ee/ sound, not the short /e/ sound."
+        },
+        {
+          "id": "c",
+          "label": "Long /ay/ as in rain",
+          "correct": false,
+          "explanation": "/ay/ is the sound for *ai* or *ay* vowel teams. The *ee* team says /ee/."
+        },
+        {
+          "id": "d",
+          "label": "Short /i/ as in sit",
+          "correct": false,
+          "explanation": "Short /i/ is the sound in words like *sit*. The *ee* team says long /ee/."
+        }
+      ],
+      "explanation_md": "The vowel team *ee* makes the long /ee/ sound, as in *feet*, *tree*, and *see*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does *redo* mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "to do again",
+          "correct": true,
+          "explanation": "Right! *Re-* means 'again,' so *redo* = to do again."
+        },
+        {
+          "id": "b",
+          "label": "to not do",
+          "correct": false,
+          "explanation": "'Not' is the meaning of *un-*, not *re-*. *Re-* means 'again.'"
+        },
+        {
+          "id": "c",
+          "label": "to do before",
+          "correct": false,
+          "explanation": "'Before' is the meaning of *pre-*, not *re-*. *Re-* means 'again.'"
+        },
+        {
+          "id": "d",
+          "label": "to do more",
+          "correct": false,
+          "explanation": "*Re-* means 'again,' not 'more.' *Redo* means to do something again."
+        }
+      ],
+      "explanation_md": "*re-* means 'again,' so *redo* = to do again."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a vowel team that makes the /oh/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "boat",
+          "correct": true,
+          "explanation": "Right! *boat* has the vowel team *oa*, which makes the long /oh/ sound."
+        },
+        {
+          "id": "b",
+          "label": "boot",
+          "correct": false,
+          "explanation": "*boot* has the vowel team *oo*, which makes the /oo/ sound, not /oh/."
+        },
+        {
+          "id": "c",
+          "label": "beet",
+          "correct": false,
+          "explanation": "*beet* has the vowel team *ee*, which makes the /ee/ sound, not /oh/."
+        },
+        {
+          "id": "d",
+          "label": "beat",
+          "correct": false,
+          "explanation": "*beat* has the vowel team *ea*, which makes the /ee/ sound, not /oh/."
+        }
+      ],
+      "explanation_md": "*boat* has the *oa* vowel team, which makes the long /oh/ sound."
+    }
+  ]
+}
