@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.A.2.3",
+  "benchmark_description": "Identify and describe notable Floridians who contributed to Florida's history.",
+  "course": "social_studies",
+  "strand": "A",
+  "lesson": {
+    "title": "Notable Floridians Who Shaped Our State",
+    "intro": "Many important people have lived in Florida and helped make it what it is today. Learning about these notable Floridians helps us understand Florida's history and the people who shaped it.",
+    "body_md": "## What Makes Someone Notable?\n\nA **notable** person is someone who did something important and worth remembering. Notable Floridians made contributions \u2014 they did something that helped Florida or its people.\n\n## Notable Floridians\n\n### Mary McLeod Bethune (1875-1955)\n\nMary McLeod Bethune was an educator and civil rights leader. She was born to formerly enslaved parents in South Carolina but spent much of her important work in Florida.\n\n- In 1904, she founded the **Daytona Educational and Industrial Training School for Negro Girls** in Daytona Beach, Florida. This school later became **Bethune-Cookman University**.\n- She fought for the rights of Black Americans and women.\n- She was an advisor to President Franklin D. Roosevelt.\n- She believed deeply that **education is the key to freedom and equality**.\n\n### Osceola (about 1804-1838)\n\nOsceola was a famous Seminole leader who lived in Florida.\n\n- He led resistance against the U.S. government's plan to force the Seminole people from their Florida lands during the Second Seminole War.\n- He is remembered for his bravery and his fight to protect his people and their homeland.\n- Many Florida places are named after him, including Osceola County.\n\n### Henry Flagler (1830-1913)\n\nHenry Flagler was a businessman and developer.\n\n- He built the **Florida East Coast Railway**, connecting Jacksonville to Key West.\n- He built luxury hotels that made Florida a destination for tourists.\n- His railroad helped open up Florida for settlement and tourism, changing the state forever.\n\n### Marjory Stoneman Douglas (1890-1998)\n\nMarjory Stoneman Douglas was a writer and environmentalist.\n\n- She wrote *The Everglades: River of Grass* (1947), which changed how people think about the Everglades.\n- She spent her life fighting to protect the Everglades from being drained and destroyed.\n- She is called the 'Mother of the Everglades.'\n- Her work led to greater protection for the Everglades ecosystem.\n\n## Why These People Matter\n\nEach of these notable Floridians made the state a better or different place. They improved education, fought for rights, connected communities, or protected nature. Their work affects Florida to this day.",
+    "worked_example_md": "**Compare Two Notable Floridians:**\n\n| Person | What They Did | Why It Matters |\n|---|---|---|\n| Mary McLeod Bethune | Founded a school for Black girls; fought for civil rights | Expanded education and rights in Florida |\n| Marjory Stoneman Douglas | Wrote about the Everglades; protected wetlands | Saved a unique Florida ecosystem |\n\n*Think: Both women worked hard for something they believed in. One focused on people's rights. The other focused on protecting nature.*",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who founded a school in Daytona Beach that later became Bethune-Cookman University?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Marjory Stoneman Douglas",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas was an environmentalist who fought to protect the Everglades, not a school founder in Daytona Beach."
+        },
+        {
+          "id": "B",
+          "label": "Mary McLeod Bethune",
+          "correct": true,
+          "explanation": "Mary McLeod Bethune founded the Daytona Educational and Industrial Training School for Negro Girls in 1904, which became Bethune-Cookman University."
+        },
+        {
+          "id": "C",
+          "label": "Osceola",
+          "correct": false,
+          "explanation": "Osceola was a Seminole leader. Mary McLeod Bethune founded the school."
+        },
+        {
+          "id": "D",
+          "label": "Henry Flagler",
+          "correct": false,
+          "explanation": "Henry Flagler built the Florida East Coast Railway and hotels. Mary McLeod Bethune founded the school."
+        }
+      ],
+      "explanation_md": "Mary McLeod Bethune founded a school in Daytona Beach in 1904 that later became Bethune-Cookman University."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who was Osceola?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A businessman who built railroads in Florida",
+          "correct": false,
+          "explanation": "Henry Flagler built the railroad. Osceola was a Seminole leader."
+        },
+        {
+          "id": "B",
+          "label": "A famous Seminole leader who resisted removal from Florida",
+          "correct": true,
+          "explanation": "Osceola was a Seminole leader who fought to protect his people's homeland during the Second Seminole War."
+        },
+        {
+          "id": "C",
+          "label": "A writer who wrote about the Everglades",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas wrote about the Everglades. Osceola was a Seminole leader."
+        },
+        {
+          "id": "D",
+          "label": "A teacher who started a school for girls",
+          "correct": false,
+          "explanation": "Mary McLeod Bethune started the school. Osceola was a Seminole leader."
+        }
+      ],
+      "explanation_md": "Osceola was a famous Seminole leader who led resistance against the U.S. government's plan to remove the Seminole people from Florida."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What did Henry Flagler build that helped open up Florida for tourism and settlement?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A university",
+          "correct": false,
+          "explanation": "Mary McLeod Bethune founded a university. Henry Flagler built the railroad."
+        },
+        {
+          "id": "B",
+          "label": "The Florida East Coast Railway",
+          "correct": true,
+          "explanation": "Henry Flagler built the Florida East Coast Railway, connecting much of the state and making it easier for tourists and settlers to reach Florida."
+        },
+        {
+          "id": "C",
+          "label": "The Everglades National Park",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas worked to protect the Everglades. Henry Flagler built the railroad."
+        },
+        {
+          "id": "D",
+          "label": "A road from Georgia to Miami",
+          "correct": false,
+          "explanation": "Henry Flagler built the Florida East Coast Railway, not a road from Georgia."
+        }
+      ],
+      "explanation_md": "Henry Flagler built the Florida East Coast Railway, which connected Jacksonville to Key West and helped open Florida for tourists and settlers."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Marjory Stoneman Douglas is called the 'Mother of the Everglades.' Why did she earn this nickname?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because she was born in the Everglades",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas was not born in the Everglades. She earned the nickname for protecting them."
+        },
+        {
+          "id": "B",
+          "label": "Because she spent her life writing about and fighting to protect the Everglades",
+          "correct": true,
+          "explanation": "She wrote 'The Everglades: River of Grass' and fought for decades to protect the Everglades from being destroyed."
+        },
+        {
+          "id": "C",
+          "label": "Because she built a dam in the Everglades",
+          "correct": false,
+          "explanation": "She fought AGAINST draining and damaging the Everglades, not for building dams."
+        },
+        {
+          "id": "D",
+          "label": "Because she owned land in the Everglades",
+          "correct": false,
+          "explanation": "She earned the nickname through her writing and activism to protect the Everglades."
+        }
+      ],
+      "explanation_md": "Marjory Stoneman Douglas wrote 'The Everglades: River of Grass' and fought her whole life to protect the Everglades from destruction."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Mary McLeod Bethune believed that 'education is the key to freedom and equality.' How did her school show this belief?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "By teaching only boys, since girls did not need education",
+          "correct": false,
+          "explanation": "Bethune founded her school specifically FOR girls, believing they deserved education just as much as boys."
+        },
+        {
+          "id": "B",
+          "label": "By providing education for Black girls at a time when they were often denied schooling",
+          "correct": true,
+          "explanation": "In 1904, Black children \u2014 especially girls \u2014 had very limited access to education. Bethune's school gave them that opportunity, showing education could lead to greater freedom and equality."
+        },
+        {
+          "id": "C",
+          "label": "By charging very high prices so only wealthy students could attend",
+          "correct": false,
+          "explanation": "Bethune started the school to expand access to education, not limit it to the wealthy."
+        },
+        {
+          "id": "D",
+          "label": "By teaching only math and science, not reading or history",
+          "correct": false,
+          "explanation": "Bethune's school provided a full education to help students succeed in life."
+        }
+      ],
+      "explanation_md": "In 1904, Black girls had very limited access to schooling. Bethune's school gave them an education, demonstrating that learning could lead to freedom and equality."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is Osceola still remembered today in Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because he built the Florida East Coast Railway",
+          "correct": false,
+          "explanation": "Henry Flagler built the railroad. Osceola is remembered for leading Seminole resistance."
+        },
+        {
+          "id": "B",
+          "label": "Because he bravely led his people in fighting to protect their Florida homeland",
+          "correct": true,
+          "explanation": "Osceola is remembered for his courage and leadership in resisting the forced removal of the Seminole people from Florida."
+        },
+        {
+          "id": "C",
+          "label": "Because he founded a school for Native American children",
+          "correct": false,
+          "explanation": "Osceola was a military and political leader, not a school founder."
+        },
+        {
+          "id": "D",
+          "label": "Because he wrote books about Florida's wetlands",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas wrote about Florida's wetlands. Osceola was a Seminole leader."
+        }
+      ],
+      "explanation_md": "Osceola is remembered for his bravery and leadership in fighting to protect the Seminole people's homeland in Florida."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Henry Flagler built luxury hotels in addition to the railroad. How did this contribute to Florida's history?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It made Florida harder to visit",
+          "correct": false,
+          "explanation": "The hotels and railroad made Florida easier and more attractive to visit."
+        },
+        {
+          "id": "B",
+          "label": "It made Florida a popular tourist destination",
+          "correct": true,
+          "explanation": "Flagler's railroad made it easy to reach Florida, and his luxury hotels gave wealthy tourists a place to stay, helping establish Florida's tourism industry."
+        },
+        {
+          "id": "C",
+          "label": "It helped protect the Everglades",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas worked to protect the Everglades. Flagler's work focused on transportation and tourism."
+        },
+        {
+          "id": "D",
+          "label": "It ended the Seminole Wars",
+          "correct": false,
+          "explanation": "The Seminole Wars ended before Flagler built his railroad. His contribution was to Florida's economy and tourism."
+        }
+      ],
+      "explanation_md": "Flagler's railroad and luxury hotels made Florida a popular tourist destination, helping establish an industry that continues today."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Marjory Stoneman Douglas lived to be 108 years old and fought to protect the Everglades for most of her life. What does this show about her contribution?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She gave up when things got hard",
+          "correct": false,
+          "explanation": "Douglas fought for the Everglades for decades, showing great persistence."
+        },
+        {
+          "id": "B",
+          "label": "Her commitment to protecting nature lasted a lifetime and made a lasting impact",
+          "correct": true,
+          "explanation": "Her decades-long dedication to the Everglades shows deep commitment. Her work led to greater protection for this unique ecosystem."
+        },
+        {
+          "id": "C",
+          "label": "She only cared about the Everglades for a short time",
+          "correct": false,
+          "explanation": "She dedicated most of her very long life to protecting the Everglades."
+        },
+        {
+          "id": "D",
+          "label": "She protected the Everglades only for wealthy Floridians",
+          "correct": false,
+          "explanation": "The Everglades are a natural ecosystem. Protecting them benefits all Floridians and wildlife."
+        }
+      ],
+      "explanation_md": "Douglas's lifetime of dedication shows how one person's sustained commitment can make a lasting difference for a place or community."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Mary McLeod Bethune and Marjory Stoneman Douglas were both women who made major contributions to Florida. What do their stories have in common?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both built railroads and hotels in Florida",
+          "correct": false,
+          "explanation": "Henry Flagler built railroads and hotels. Neither woman focused on transportation."
+        },
+        {
+          "id": "B",
+          "label": "Both persisted in fighting for something they believed in, even when it was difficult",
+          "correct": true,
+          "explanation": "Bethune fought for education and civil rights despite facing racial discrimination. Douglas fought for the Everglades despite opposition. Both showed persistence in their causes."
+        },
+        {
+          "id": "C",
+          "label": "Both were Seminole leaders",
+          "correct": false,
+          "explanation": "Neither was a Seminole leader. Osceola was the Seminole leader."
+        },
+        {
+          "id": "D",
+          "label": "Both focused only on helping wealthy Floridians",
+          "correct": false,
+          "explanation": "Bethune worked to give poor Black girls access to education. Douglas worked to protect a natural ecosystem. Neither focused on the wealthy."
+        }
+      ],
+      "explanation_md": "Both women showed remarkable persistence in fighting for their causes \u2014 Bethune for education and civil rights, Douglas for the Everglades \u2014 despite facing significant challenges."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'Only presidents and famous generals are notable in history.' Do the notable Floridians you studied support or challenge this statement?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Support it \u2014 only political leaders are truly notable",
+          "correct": false,
+          "explanation": "The Floridians studied include an educator, an environmental activist, a Native American leader, and a businessman. None were presidents or generals."
+        },
+        {
+          "id": "B",
+          "label": "Challenge it \u2014 educators, environmentalists, business leaders, and Native leaders all made important historical contributions",
+          "correct": true,
+          "explanation": "Mary McLeod Bethune (educator), Marjory Stoneman Douglas (environmentalist), Henry Flagler (businessman), and Osceola (Native leader) all shaped Florida's history without being presidents or generals."
+        },
+        {
+          "id": "C",
+          "label": "Support it \u2014 teachers and environmentalists are not really notable",
+          "correct": false,
+          "explanation": "Bethune and Douglas made enormous contributions. Bethune founded a university; Douglas saved the Everglades."
+        },
+        {
+          "id": "D",
+          "label": "Challenge it \u2014 only people born in Florida are notable Floridians",
+          "correct": false,
+          "explanation": "Several notable Floridians were not born in Florida. What matters is their contribution to Florida."
+        }
+      ],
+      "explanation_md": "Notable Floridians come from many walks of life \u2014 educators, environmentalists, business leaders, and Native leaders have all shaped Florida's history."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which notable Floridian is known for founding a school that became a university?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Osceola",
+          "correct": false,
+          "explanation": "Osceola was a Seminole leader. Mary McLeod Bethune founded the school."
+        },
+        {
+          "id": "B",
+          "label": "Mary McLeod Bethune",
+          "correct": true,
+          "explanation": "Mary McLeod Bethune founded the Daytona Educational and Industrial Training School for Negro Girls in 1904. It became Bethune-Cookman University."
+        },
+        {
+          "id": "C",
+          "label": "Marjory Stoneman Douglas",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas was an environmentalist. Mary McLeod Bethune founded the school."
+        },
+        {
+          "id": "D",
+          "label": "Henry Flagler",
+          "correct": false,
+          "explanation": "Henry Flagler built the Florida East Coast Railway. Mary McLeod Bethune founded the school."
+        }
+      ],
+      "explanation_md": "Mary McLeod Bethune founded a school in Daytona Beach in 1904 that became Bethune-Cookman University."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How did Henry Flagler's railroad contribute to Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It made it easier for people to visit and settle in Florida, boosting tourism",
+          "correct": true,
+          "explanation": "The Florida East Coast Railway connected the state and brought tourists and settlers, transforming Florida's economy."
+        },
+        {
+          "id": "B",
+          "label": "It protected the Everglades from development",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas worked to protect the Everglades, not Henry Flagler."
+        },
+        {
+          "id": "C",
+          "label": "It helped the Seminole people keep their land",
+          "correct": false,
+          "explanation": "Osceola fought for Seminole land rights. Flagler's railroad increased Florida's development and settlement."
+        },
+        {
+          "id": "D",
+          "label": "It provided education to girls in Florida",
+          "correct": false,
+          "explanation": "Mary McLeod Bethune worked on education. Henry Flagler built the railroad."
+        }
+      ],
+      "explanation_md": "Henry Flagler's Florida East Coast Railway made it much easier to travel in Florida, bringing tourists and settlers and transforming the state's economy."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Osceola fought to protect Seminole lands, and Marjory Stoneman Douglas fought to protect the Everglades. What do these two Floridians have in common?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both built railroads",
+          "correct": false,
+          "explanation": "Henry Flagler built the railroad. Neither Osceola nor Douglas worked on railroads."
+        },
+        {
+          "id": "B",
+          "label": "Both fought to protect something important to Florida that was under threat",
+          "correct": true,
+          "explanation": "Osceola fought to protect his people's homeland from forced removal. Douglas fought to protect the Everglades from being drained and destroyed. Both were defenders of something they valued."
+        },
+        {
+          "id": "C",
+          "label": "Both founded schools",
+          "correct": false,
+          "explanation": "Mary McLeod Bethune founded the school. Neither Osceola nor Douglas focused on school founding."
+        },
+        {
+          "id": "D",
+          "label": "Both were born in Florida",
+          "correct": false,
+          "explanation": "Being born in Florida is not what connects them. Both are remembered for defending something important under threat."
+        }
+      ],
+      "explanation_md": "Both Osceola and Marjory Stoneman Douglas fought to protect something important to Florida that was under threat \u2014 the Seminole homeland and the Everglades, respectively."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to be a **notable** person in history?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Being very tall",
+          "correct": false,
+          "explanation": "Height has nothing to do with historical importance."
+        },
+        {
+          "id": "B",
+          "label": "Doing something important that is worth remembering",
+          "correct": true,
+          "explanation": "A notable person made a contribution \u2014 something important that helped others or changed things for the better."
+        },
+        {
+          "id": "C",
+          "label": "Being the most popular person in school",
+          "correct": false,
+          "explanation": "Popularity in school is not what makes someone notable in history."
+        },
+        {
+          "id": "D",
+          "label": "Having a lot of money",
+          "correct": false,
+          "explanation": "Some notable people were wealthy, but money alone does not make someone notable."
+        }
+      ],
+      "explanation_md": "A notable person in history did something important and worth remembering, like founding a school, protecting nature, or fighting for the rights of others."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Mary McLeod Bethune founded a school in Florida. Why was this important?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because Florida had too many schools already",
+          "correct": false,
+          "explanation": "In 1904, Black children had very limited access to schools. Her school provided education that was otherwise denied."
+        },
+        {
+          "id": "B",
+          "label": "Because it gave Black girls access to education when they were often denied it",
+          "correct": true,
+          "explanation": "In 1904, Black children \u2014 especially girls \u2014 had few schooling options. Bethune's school provided education and opportunity."
+        },
+        {
+          "id": "C",
+          "label": "Because it was the first school in the United States",
+          "correct": false,
+          "explanation": "It was not the first school in the U.S., but it was very important for expanding access to education for Black girls in Florida."
+        },
+        {
+          "id": "D",
+          "label": "Because it taught only cooking and cleaning",
+          "correct": false,
+          "explanation": "Bethune's school provided a full education to help students succeed in life."
+        }
+      ],
+      "explanation_md": "In 1904, Black girls had very limited access to schools. Mary McLeod Bethune's school gave them educational opportunities that were otherwise denied."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What did Osceola fight for?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Building more railroads in Florida",
+          "correct": false,
+          "explanation": "Henry Flagler built railroads. Osceola fought for the Seminole people's right to stay in Florida."
+        },
+        {
+          "id": "B",
+          "label": "The Seminole people's right to stay in their Florida homeland",
+          "correct": true,
+          "explanation": "Osceola led resistance against the U.S. government's plan to remove the Seminole people from Florida."
+        },
+        {
+          "id": "C",
+          "label": "Protecting the Everglades from development",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas worked to protect the Everglades. Osceola fought for Seminole land rights."
+        },
+        {
+          "id": "D",
+          "label": "Starting a school for Native American children",
+          "correct": false,
+          "explanation": "Osceola was a military and political leader who fought for Seminole land rights."
+        }
+      ],
+      "explanation_md": "Osceola led the Seminole people in fighting against being forced out of their Florida homeland."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What did Marjory Stoneman Douglas do to help Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She built a railroad from Jacksonville to Key West",
+          "correct": false,
+          "explanation": "Henry Flagler built the railroad. Douglas wrote about and fought to protect the Everglades."
+        },
+        {
+          "id": "B",
+          "label": "She wrote about the Everglades and spent her life fighting to protect them",
+          "correct": true,
+          "explanation": "Marjory Stoneman Douglas wrote 'The Everglades: River of Grass' and dedicated her life to protecting this unique Florida ecosystem."
+        },
+        {
+          "id": "C",
+          "label": "She founded a university in Daytona Beach",
+          "correct": false,
+          "explanation": "Mary McLeod Bethune founded the university. Douglas focused on protecting the Everglades."
+        },
+        {
+          "id": "D",
+          "label": "She led the Seminole people in battle",
+          "correct": false,
+          "explanation": "Osceola led the Seminole people. Douglas was an environmentalist and writer."
+        }
+      ],
+      "explanation_md": "Marjory Stoneman Douglas wrote about the Everglades and spent her very long life fighting to protect this important Florida ecosystem."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Henry Flagler built the Florida East Coast Railway. What did this railroad do for Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It made it harder to visit Florida",
+          "correct": false,
+          "explanation": "The railroad made it easier and faster to travel to Florida."
+        },
+        {
+          "id": "B",
+          "label": "It connected Florida and made it easier for tourists and settlers to come",
+          "correct": true,
+          "explanation": "The Florida East Coast Railway connected the state and brought tourists and settlers, helping Florida grow."
+        },
+        {
+          "id": "C",
+          "label": "It protected the Everglades",
+          "correct": false,
+          "explanation": "Marjory Stoneman Douglas worked to protect the Everglades. Flagler's railroad helped Florida's tourism and settlement."
+        },
+        {
+          "id": "D",
+          "label": "It helped Osceola fight the U.S. government",
+          "correct": false,
+          "explanation": "Flagler built the railroad decades after the Seminole Wars. His work focused on tourism and development."
+        }
+      ],
+      "explanation_md": "Henry Flagler's Florida East Coast Railway connected the state, making it much easier for tourists and settlers to reach Florida."
+    }
+  ]
+}
