@@ -1,0 +1,253 @@
+{
+  "skill_id": "RI.2.4",
+  "benchmark_description": "Determine the meaning of words and phrases in a text relevant to a grade 2 topic or subject area.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "Finding Word Meanings in Nonfiction",
+    "intro": "Nonfiction books use special words about real topics. When you come across a word you do not know, you can use clues from the words and sentences around it to figure out what it means!",
+    "body_md": "## Why Words in Nonfiction Matter\n\nNonfiction texts use **topic words** (also called domain-specific vocabulary). These are special words used in science, history, or other subjects. Understanding these words helps you understand the whole text.\n\nExamples:\n- Science: *hibernate, predator, habitat, evaporate*\n- Social Studies: *democracy, colony, trade route*\n- Health: *nutrients, pulse, immune system*\n\n## Strategies for Finding Word Meanings\n\n### 1. Look for a definition in the text\nAuthors often define hard words right after using them.\n\n> *Caterpillars undergo metamorphosis, which means they change form completely.*\n\nThe author defined metamorphosis right after the comma.\n\n### 2. Use context clues\nContext clues are the other words and sentences around the unknown word that give you hints.\n\n> *The bear entered its den — a small dark cave in the hillside — and began to hibernate for the winter.*\n\nFrom context, you can figure out 'den' means a small dark cave, and 'hibernate' means to sleep through winter.\n\n### 3. Look for signal words\n- 'which means...' or 'or' after a word often signals a definition\n- 'also called...' introduces another name for something\n- 'such as...' or 'for example' gives examples that help explain the word\n\n### 4. Look for pictures, captions, or headings\nIn nonfiction books, pictures and captions near the word often show what it means.",
+    "worked_example_md": "## Worked Example\n\nRead this passage:\n\n> Animals that only eat plants are called herbivores. Deer, rabbits, and cows are all herbivores. Their bodies are built to digest, or break down, plant material. Carnivores, on the other hand, only eat other animals.\n\n**Question:** What does the word *carnivore* mean?\n\n**Step 1:** Find the word in the text: 'Carnivores, on the other hand, only eat other animals.'\n\n**Step 2:** Look for a definition. There is no 'which means' or comma-definition. Use context.\n\n**Step 3:** Use context clues.\n- Herbivores eat only plants.\n- 'On the other hand' signals the OPPOSITE.\n- Carnivores are the opposite of herbivores.\n- Herbivores eat plants → carnivores eat the opposite = animals.\n\n**Step 4:** The same sentence confirms it: 'only eat other animals.'\n\n**Answer:** *Carnivore* means an animal that only eats other animals.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> Ants communicate, or share information, by releasing special chemicals called pheromones.\n\nWhat does the word **communicate** mean in this sentence?",
+      "choices": [
+        {"id": "a", "label": "To smell something", "correct": false, "explanation": "The sentence says ants communicate by releasing chemicals, not just smell. The word after 'or' tells you the meaning."},
+        {"id": "b", "label": "To share information", "correct": true, "explanation": "The sentence says 'communicate, or share information.' The word 'or' signals a definition. Communicate means to share information."},
+        {"id": "c", "label": "To build a nest", "correct": false, "explanation": "Building a nest is not mentioned as the meaning of communicate."},
+        {"id": "d", "label": "To eat food together", "correct": false, "explanation": "Eating together is not the definition given. The 'or' after 'communicate' gives the meaning: share information."}
+      ],
+      "explanation_md": "The sentence says 'communicate, or share information.' The word 'or' signals that 'share information' is the definition of communicate."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> The Arctic is an extremely frigid place, which means it is very, very cold.\n\nWhat does **frigid** mean?",
+      "choices": [
+        {"id": "a", "label": "Very cold", "correct": true, "explanation": "The sentence says 'frigid...which means it is very, very cold.' The signal phrase 'which means' gives the definition."},
+        {"id": "b", "label": "Very hot", "correct": false, "explanation": "The sentence says 'which means it is very, very cold,' so frigid means cold, not hot."},
+        {"id": "c", "label": "Very windy", "correct": false, "explanation": "The sentence defines frigid as very cold, not windy."},
+        {"id": "d", "label": "Very dark", "correct": false, "explanation": "The sentence defines frigid as very cold, not dark."}
+      ],
+      "explanation_md": "The sentence says 'frigid...which means it is very, very cold.' The phrase 'which means' is a signal that a definition follows."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Some birds migrate every year. In fall, they fly south to warmer places. In spring, they return north. Scientists track birds during migration to learn about their travel routes.\n\nWhat does **migrate** most likely mean based on the passage?",
+      "choices": [
+        {"id": "a", "label": "To build a nest", "correct": false, "explanation": "Building nests is something birds do, but the passage describes migration as flying south in fall and north in spring, which is traveling."},
+        {"id": "b", "label": "To travel from one place to another with the seasons", "correct": true, "explanation": "The passage says birds 'fly south to warmer places' in fall and 'return north' in spring. These are seasonal movements. Migrate means to make these seasonal journeys."},
+        {"id": "c", "label": "To find food", "correct": false, "explanation": "Finding food may be a reason birds migrate, but the word migrate describes the act of moving seasonally, not just finding food."},
+        {"id": "d", "label": "To sleep through winter", "correct": false, "explanation": "Sleeping through winter is hibernation. Migration is traveling to warmer places for winter."}
+      ],
+      "explanation_md": "The passage describes birds flying south in fall and returning north in spring. These seasonal journeys are what migrate means: to travel from one place to another with the seasons."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The Earth's crust is not one solid piece. It is made of many large sections called tectonic plates. These plates move very slowly — only a few centimeters per year. When two plates push against each other, mountains can form.\n\nWhat are **tectonic plates** according to this passage?",
+      "choices": [
+        {"id": "a", "label": "Small rocks on the ocean floor", "correct": false, "explanation": "Tectonic plates are large sections of Earth's crust, not small rocks."},
+        {"id": "b", "label": "Large sections of Earth's crust that move slowly", "correct": true, "explanation": "The passage says the crust is 'made of many large sections called tectonic plates' and that 'these plates move very slowly.' That is what tectonic plates are."},
+        {"id": "c", "label": "Pieces of metal deep inside the Earth", "correct": false, "explanation": "The passage says these are sections of the Earth's crust, not metal deep inside the Earth."},
+        {"id": "d", "label": "Flat rocks used to make mountains", "correct": false, "explanation": "Tectonic plates are large sections of Earth's crust. When they push against each other, mountains form. They are not flat rocks stacked to make mountains."}
+      ],
+      "explanation_md": "The passage says Earth's crust is 'made of many large sections called tectonic plates' that 'move very slowly.' That is the definition given in the text."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> In a beehive, each bee has a specific role. Worker bees gather nectar and pollen. The queen bee lays eggs. Drone bees mate with the queen. The hive depends on each bee doing its job.\n\nBased on the passage, what does **role** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "A type of food bees make", "correct": false, "explanation": "Bees make honey, but 'role' is not a type of food. Context clues show each bee has a specific job."},
+        {"id": "b", "label": "A job or function that someone or something has", "correct": true, "explanation": "The passage says 'each bee has a specific role' and then lists what each type of bee does (gather food, lay eggs, mate). The context shows role means job or function."},
+        {"id": "c", "label": "A type of bee", "correct": false, "explanation": "Worker bees, queen bees, and drones are types of bees. 'Role' is what each type does, not a type of bee."},
+        {"id": "d", "label": "A part of the beehive structure", "correct": false, "explanation": "The hive is the structure. Role describes what each bee does within the hive."}
+      ],
+      "explanation_md": "The passage says each bee has a 'role' and then gives examples: workers gather food, queens lay eggs, drones mate. Each role is a specific job. Role means a job or function."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> In very dry areas, water is a scarce resource. People, animals, and plants must compete for the small amount of water available. Scarce resources often become very valuable because there is not enough for everyone.\n\nWhat does **scarce** most likely mean in this passage?",
+      "choices": [
+        {"id": "a", "label": "Easy to find and very plentiful", "correct": false, "explanation": "The passage says people compete for 'the small amount of water available' and that scarce things are valuable 'because there is not enough for everyone.' This is the opposite of plentiful."},
+        {"id": "b", "label": "Not enough of something; in short supply", "correct": true, "explanation": "The passage says 'the small amount of water available' and 'not enough for everyone.' These clues tell you scarce means not enough; in short supply."},
+        {"id": "c", "label": "Very dirty or unsafe", "correct": false, "explanation": "The passage talks about the amount of water, not its quality or safety."},
+        {"id": "d", "label": "Easy to compete for", "correct": false, "explanation": "Competition happens BECAUSE water is scarce. Scarce does not mean easy to compete for."}
+      ],
+      "explanation_md": "The passage says people compete for 'the small amount of water available' because there is 'not enough for everyone.' Scarce means there is not enough of something."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When animals eat too much of one type of plant in an area, it can devastate the local ecosystem. The plants disappear, smaller animals lose their food source, and the whole community of living things is disrupted.\n\nWhat does **devastate** most likely mean based on the passage?",
+      "choices": [
+        {"id": "a", "label": "To make slightly better", "correct": false, "explanation": "The passage describes negative results: plants disappear, animals lose food, community is disrupted. Devastate means the opposite of making things better."},
+        {"id": "b", "label": "To cause great damage or destruction", "correct": true, "explanation": "After saying something can 'devastate' the ecosystem, the passage shows the results: plants disappear, food is lost, the community is disrupted. These are examples of great damage."},
+        {"id": "c", "label": "To study carefully", "correct": false, "explanation": "Studying is not what devastate means. The passage shows severe negative results from devastation."},
+        {"id": "d", "label": "To bring in water from another area", "correct": false, "explanation": "Water is not mentioned in this passage. Devastate means to cause great damage."}
+      ],
+      "explanation_md": "After 'devastate the local ecosystem,' the passage lists what happens: plants disappear, animals lose food, the community is disrupted. These results show that devastate means to cause great damage or destruction."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Some animals have developed remarkable camouflage. A stick insect, for example, looks almost exactly like a twig. A flounder, which is a flat fish, changes its skin pattern to blend in with the sandy ocean floor. These adaptations make predators far less likely to notice the animals.\n\nWhat does **camouflage** most likely mean based on the passage?",
+      "choices": [
+        {"id": "a", "label": "A special way animals communicate with each other", "correct": false, "explanation": "Camouflage is not about communicating. The passage shows animals hiding by blending into their surroundings."},
+        {"id": "b", "label": "A way of blending in with surroundings to avoid being seen", "correct": true, "explanation": "The passage gives two examples of camouflage: a stick insect that looks like a twig and a flounder that matches the sandy floor. Both examples show the animal blending in to avoid being noticed by predators."},
+        {"id": "c", "label": "A type of shell that protects animals from attack", "correct": false, "explanation": "Shells protect some animals, but camouflage is about blending in visually, not physical protection."},
+        {"id": "d", "label": "A colorful pattern that warns predators to stay away", "correct": false, "explanation": "Colorful warning patterns (like on poison frogs) are the opposite of camouflage. Camouflage makes an animal hard to see, not brightly colored."}
+      ],
+      "explanation_md": "The passage gives examples: a stick insect looks like a twig, a flounder blends with the sand, making 'predators far less likely to notice them.' Camouflage means blending in with surroundings to avoid being seen."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Scientists use fossils to study creatures that lived long ago. Fossils are the preserved remains or impressions of ancient organisms found in rock. By examining fossils, scientists can learn about the size, shape, and diet of extinct species.\n\nBased on context, what does **extinct** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "Very large and powerful", "correct": false, "explanation": "Extinct describes whether a species still exists, not how large it is."},
+        {"id": "b", "label": "No longer alive; a species that has completely died out", "correct": true, "explanation": "Extinct species are studied through fossils, meaning the only way to learn about them is through ancient preserved remains. This suggests they no longer exist. Extinct means no longer alive."},
+        {"id": "c", "label": "Newly discovered by scientists", "correct": false, "explanation": "The passage is about studying ancient creatures through fossils, not newly discovered species."},
+        {"id": "d", "label": "Living but hard to find", "correct": false, "explanation": "If extinct species could be found, scientists would not need fossils to study them. Extinct means they are completely gone."}
+      ],
+      "explanation_md": "Scientists study 'extinct species' through fossils — the preserved remains of ancient organisms. If the species were still alive, scientists could study living examples. The context of ancient fossils tells you extinct means no longer alive."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The Amazon River is the largest river in the world by volume. It is so vast that it discharges more freshwater into the ocean than the next seven largest rivers combined. Scientists describe the Amazon Basin, the land surrounding the river, as the 'lungs of the Earth' because its forests produce so much oxygen.\n\nBased on context, what does **vast** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "Very deep and dark", "correct": false, "explanation": "The passage talks about the size and volume of the river, not its depth or darkness."},
+        {"id": "b", "label": "Extremely large", "correct": true, "explanation": "The passage says the river discharges more water than the next seven largest rivers combined. This gives you a sense of enormous size. Vast means extremely large."},
+        {"id": "c", "label": "Moving very slowly", "correct": false, "explanation": "The passage does not describe the river's speed. The context is about the river's size and the amount of water it discharges."},
+        {"id": "d", "label": "Mostly dry during summer months", "correct": false, "explanation": "The passage describes the river producing a huge amount of freshwater discharge. It is not described as dry."}
+      ],
+      "explanation_md": "The passage says the Amazon is 'so vast that it discharges more freshwater than the next seven largest rivers combined.' That comparison shows enormous size. Vast means extremely large."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Coral reefs are sometimes called 'the rainforests of the sea' because they are teeming with life. Though reefs cover less than 1% of the ocean floor, they are home to about 25% of all marine species.\n\nWhat does **marine** most likely mean in this passage?",
+      "choices": [
+        {"id": "a", "label": "Related to mountains", "correct": false, "explanation": "Marine relates to the ocean. The passage is about coral reefs and the ocean floor."},
+        {"id": "b", "label": "Related to the ocean or sea", "correct": true, "explanation": "The passage is about coral reefs in the ocean. 'Marine species' refers to the animals that live in the sea. Marine means relating to the ocean."},
+        {"id": "c", "label": "Related to rainforests", "correct": false, "explanation": "Rainforest is used as a comparison. Marine describes ocean species, not rainforest species."},
+        {"id": "d", "label": "Related to freshwater rivers", "correct": false, "explanation": "The passage is about oceans and coral reefs, not freshwater rivers."}
+      ],
+      "explanation_md": "The passage discusses coral reefs on the ocean floor. 'Marine species' are the animals that live in the sea. Marine means relating to the ocean or sea."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Coral reefs are sometimes called 'the rainforests of the sea' because they are teeming with life. Though reefs cover less than 1% of the ocean floor, they are home to about 25% of all marine species.\n\nWhat does **teeming** most likely mean in this passage?",
+      "choices": [
+        {"id": "a", "label": "Empty or quiet", "correct": false, "explanation": "The passage says reefs are home to 25% of all marine species, which is a huge amount. Teeming means the opposite of empty."},
+        {"id": "b", "label": "Full of or packed with something", "correct": true, "explanation": "The passage says reefs are 'teeming with life' and then gives evidence: 25% of all marine species live there. Teeming means full of or packed with."},
+        {"id": "c", "label": "Moving very fast", "correct": false, "explanation": "Teeming is about fullness, not movement speed."},
+        {"id": "d", "label": "Covered in coral", "correct": false, "explanation": "While coral reefs are made of coral, 'teeming with life' refers to the variety and quantity of living things, not just coral."}
+      ],
+      "explanation_md": "The passage says coral reefs are 'teeming with life' and notes they hold 25% of all marine species in just 1% of the ocean floor. The contrast shows the reefs are extremely full of life. Teeming means full of or packed with."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> During photosynthesis, plants convert sunlight into food using water and carbon dioxide.\n\nBased on context, what does **convert** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "To destroy or remove", "correct": false, "explanation": "The plants are not destroying sunlight. They are using it to make food. Convert means to change into something else."},
+        {"id": "b", "label": "To change one thing into another", "correct": true, "explanation": "The sentence says plants 'convert sunlight into food.' Something goes in (sunlight) and something different comes out (food). Convert means to change one thing into another."},
+        {"id": "c", "label": "To measure carefully", "correct": false, "explanation": "Measuring is not part of what the sentence describes. Convert means to transform, not to measure."},
+        {"id": "d", "label": "To release into the air", "correct": false, "explanation": "Plants do release oxygen during photosynthesis, but the word 'convert' means to change sunlight into food."}
+      ],
+      "explanation_md": "Plants 'convert sunlight into food.' Sunlight goes in; food comes out. The word convert means to change one thing into another different thing."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> Bears hibernate, or sleep through the winter.\n\nWhat does **hibernate** mean?",
+      "choices": [
+        {"id": "a", "label": "To eat a lot", "correct": false, "explanation": "Bears do eat a lot before winter, but hibernate means sleeping through winter."},
+        {"id": "b", "label": "To sleep through the winter", "correct": true, "explanation": "The sentence says 'hibernate, or sleep through the winter.' The word 'or' signals the definition."},
+        {"id": "c", "label": "To run away from danger", "correct": false, "explanation": "Running from danger is not what hibernate means."},
+        {"id": "d", "label": "To build a home", "correct": false, "explanation": "Building a home is not the meaning given. Hibernate means to sleep through winter."}
+      ],
+      "explanation_md": "The sentence says 'hibernate, or sleep through the winter.' The word 'or' gives the definition."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> The lion is a predator that hunts zebras and antelope for food.\n\nWhat does **predator** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "An animal that is hunted by others", "correct": false, "explanation": "An animal that is hunted is called prey, not a predator. The sentence says the lion hunts other animals, making it the predator."},
+        {"id": "b", "label": "An animal that hunts other animals for food", "correct": true, "explanation": "The sentence says the lion 'hunts zebras and antelope for food.' This tells us a predator is an animal that hunts others."},
+        {"id": "c", "label": "A plant-eating animal", "correct": false, "explanation": "The lion eats other animals (zebras, antelope), not plants. Plant-eaters are called herbivores."},
+        {"id": "d", "label": "An animal that sleeps during the day", "correct": false, "explanation": "Sleeping habits are not mentioned in the sentence. Predator refers to an animal that hunts."}
+      ],
+      "explanation_md": "The sentence says the lion 'hunts zebras and antelope for food.' A predator is an animal that hunts and eats other animals."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Birds that live near the Arctic have dense plumage to survive the cold. Their feathers trap warm air close to their skin.\n\nWhat does **plumage** most likely mean?",
+      "choices": [
+        {"id": "a", "label": "A bird's feathers", "correct": true, "explanation": "The passage says birds have 'dense plumage' and then explains how 'their feathers trap warm air.' The sentence about feathers right after tells you plumage means feathers."},
+        {"id": "b", "label": "A bird's nest", "correct": false, "explanation": "The passage is about how birds stay warm, not their nests."},
+        {"id": "c", "label": "A bird's beak", "correct": false, "explanation": "The next sentence talks about feathers trapping warm air, not beaks."},
+        {"id": "d", "label": "A bird's eggs", "correct": false, "explanation": "The passage describes something that traps warm air near the bird's skin. That is feathers, not eggs."}
+      ],
+      "explanation_md": "After 'dense plumage,' the next sentence says 'their feathers trap warm air.' The feathers sentence is a context clue. Plumage means a bird's feathers."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is a **context clue** that helps you understand an unknown word?",
+      "choices": [
+        {"id": "a", "label": "The font size of the word", "correct": false, "explanation": "Font size does not help you understand a word's meaning."},
+        {"id": "b", "label": "The surrounding sentences that give hints about the word's meaning", "correct": true, "explanation": "Context clues are the other words and sentences around an unknown word that help you figure out what it means."},
+        {"id": "c", "label": "The page number where the word appears", "correct": false, "explanation": "Page numbers do not help explain word meanings."},
+        {"id": "d", "label": "How many times the word appears in the text", "correct": false, "explanation": "How many times a word appears does not explain its meaning."}
+      ],
+      "explanation_md": "Context clues are hints in the surrounding words and sentences. They help you figure out the meaning of an unknown word without a dictionary."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> The desert is an arid land, which means it gets very little rain.\n\nWhat does **arid** mean?",
+      "choices": [
+        {"id": "a", "label": "Very hot", "correct": false, "explanation": "Arid refers to dryness (little rain), not temperature. The sentence says 'which means it gets very little rain.'"},
+        {"id": "b", "label": "Getting very little rain; very dry", "correct": true, "explanation": "The sentence says 'arid land, which means it gets very little rain.' The phrase 'which means' signals the definition."},
+        {"id": "c", "label": "Full of plants and trees", "correct": false, "explanation": "A place full of plants would have rain. Arid means dry with very little rain."},
+        {"id": "d", "label": "Very cold and icy", "correct": false, "explanation": "The sentence describes a desert, and arid means dry (little rain), not cold."}
+      ],
+      "explanation_md": "The sentence says 'arid land, which means it gets very little rain.' The phrase 'which means' signals that what follows is the definition."
+    }
+  ]
+}
