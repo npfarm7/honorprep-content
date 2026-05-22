@@ -1,0 +1,338 @@
+{
+  "skill_id": "2.NBT.B.6",
+  "benchmark_description": "Add up to four two-digit numbers using strategies based on place value and properties of operations.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Adding Four Two-Digit Numbers",
+    "intro": "What happens when you have four numbers to add at once? You can use the same place value tricks \u2014 just add all the ones together, then all the tens, and put them together at the end!",
+    "body_md": "## Why Add Four Numbers?\n\nSometimes you need to add more than two numbers together, like counting scores from four rounds of a game or finding the total number of items in four bags.\n\n## Strategy 1: Add the Ones First, Then Tens\n\nLine up the numbers and add the ones column, then the tens column.\n\n**Example: 23 + 15 + 34 + 21**\n- Ones: 3 + 5 + 4 + 1 = 13\n- Write 3, carry 1\n- Tens: 2 + 1 + 3 + 2 = 8, plus the carried 1 = 9\n- Answer: **93**\n\n## Strategy 2: Make Friendly Numbers\n\nLook for pairs that make 10 or round numbers \u2014 it is much easier!\n\n**Example: 16 + 24 + 13 + 37**\n- 16 + 24 = 40 (friendly pair!)\n- 13 + 37 = 50 (friendly pair!)\n- 40 + 50 = **90**\n\n## Strategy 3: Add in Parts\n\nAdd two at a time.\n\n**Example: 21 + 18 + 33 + 24**\n- First: 21 + 18 = 39\n- Then: 39 + 33 = 72\n- Then: 72 + 24 = **96**\n\n## Properties That Help\n\n**Commutative Property:** Order does not matter.\n17 + 23 = 23 + 17 (both = 40)\n\n**Associative Property:** You can group any way you want.\n(12 + 18) + (25 + 15) = 30 + 40 = 70\n12 + (18 + 25) + 15 = 12 + 43 + 15 = 70\n\nBoth give the same answer!\n\n## Tips\n\n- Always add ones first when using column addition.\n- Look for pairs that add to 10 or 100.\n- Double-check your work by adding in a different order.",
+    "worked_example_md": "**Problem:** 14 + 26 + 33 + 17 = ?\n\n**Method 1: Make friendly pairs**\n- 14 + 26 = 40\n- 33 + 17 = 50\n- 40 + 50 = **90**\n\n**Method 2: Add all ones, then all tens**\n- Ones: 4 + 6 + 3 + 7 = 20 (write 0, carry 2)\n- Tens: 1 + 2 + 3 + 1 = 7, plus 2 carried = 9\n- Answer: **90**\n\nBoth methods give 90!",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 10 + 20 + 30 + 40?",
+      "correct_answer": "100",
+      "explanation_md": "Add the tens: 10 + 20 = 30, 30 + 30 = 60, 60 + 40 = 100. Or: all tens \u2014 1+2+3+4 = 10 tens = 100."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 11 + 12 + 13 + 14?",
+      "correct_answer": "50",
+      "explanation_md": "Ones: 1+2+3+4 = 10, write 0 carry 1. Tens: 1+1+1+1 = 4 plus 1 = 5. Answer: 50."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 13 + 27 + 15 + 35?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "80",
+          "correct": false,
+          "explanation": "Check your addition. 13+27=40, 15+35=50, 40+50=90. The answer is 90."
+        },
+        {
+          "id": "b",
+          "label": "90",
+          "correct": true,
+          "explanation": "Correct! 13+27=40 and 15+35=50. 40+50=90."
+        },
+        {
+          "id": "c",
+          "label": "85",
+          "correct": false,
+          "explanation": "Not quite. Pair friendly numbers: 13+27=40, 15+35=50, 40+50=90."
+        },
+        {
+          "id": "d",
+          "label": "100",
+          "correct": false,
+          "explanation": "One too many tens. 13+27=40, 15+35=50, 40+50=90."
+        }
+      ],
+      "explanation_md": "13+27=40 (friendly pair), 15+35=50 (friendly pair), 40+50=90."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 22 + 31 + 14 + 23?",
+      "correct_answer": "90",
+      "explanation_md": "Ones: 2+1+4+3=10. Write 0, carry 1. Tens: 2+3+1+2=8 plus 1=9. Answer: 90."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Four students collected cans for a food drive. They collected 18, 24, 32, and 16 cans. How many cans in all?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "80",
+          "correct": false,
+          "explanation": "Check again. 18+24=42, 32+16=48, 42+48=90."
+        },
+        {
+          "id": "b",
+          "label": "85",
+          "correct": false,
+          "explanation": "Not quite. 18+24=42, 32+16=48, 42+48=90."
+        },
+        {
+          "id": "c",
+          "label": "90",
+          "correct": true,
+          "explanation": "Correct! 18+24=42, 32+16=48, 42+48=90."
+        },
+        {
+          "id": "d",
+          "label": "95",
+          "correct": false,
+          "explanation": "18+24=42, 32+16=48, 42+48=90. Not 95."
+        }
+      ],
+      "explanation_md": "18+24=42, 32+16=48, 42+48=90 cans total."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 25 + 35 + 18 + 12?",
+      "correct_answer": "90",
+      "explanation_md": "25+35=60, 18+12=30, 60+30=90."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which grouping makes 32 + 18 + 44 + 26 easiest to add?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "(32 + 44) + (18 + 26)",
+          "correct": false,
+          "explanation": "This works but is harder. 32+44=76, 18+26=44, 76+44=120. The friendly grouping is (32+18)+(44+26)=50+70=120."
+        },
+        {
+          "id": "b",
+          "label": "(32 + 18) + (44 + 26)",
+          "correct": true,
+          "explanation": "Correct! 32+18=50 (friendly!), 44+26=70 (friendly!). 50+70=120."
+        },
+        {
+          "id": "c",
+          "label": "(32 + 26) + (18 + 44)",
+          "correct": false,
+          "explanation": "This works but involves harder sums. The friendliest grouping is (32+18)+(44+26)=50+70=120."
+        },
+        {
+          "id": "d",
+          "label": "All four added one at a time",
+          "correct": false,
+          "explanation": "This works but is slowest. Looking for friendly pairs is faster: (32+18)+(44+26)=50+70=120."
+        }
+      ],
+      "explanation_md": "(32+18)+(44+26) = 50+70 = 120. Friendly pairs make the math easiest."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 17 + 23 + 31 + 19?",
+      "correct_answer": "90",
+      "explanation_md": "17+23=40, 31+19=50, 40+50=90."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Kate added 16 + 29 + 34 + 21 and got 96. Is she correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 96 is correct.",
+          "correct": false,
+          "explanation": "16+29=45, 34+21=55, 45+55=100. Kate made an error. The answer is 100."
+        },
+        {
+          "id": "b",
+          "label": "No, the answer is 100.",
+          "correct": true,
+          "explanation": "Correct! 16+29=45, 34+21=55, 45+55=100. Kate got 96, which is wrong."
+        },
+        {
+          "id": "c",
+          "label": "No, the answer is 90.",
+          "correct": false,
+          "explanation": "16+29=45, 34+21=55, 45+55=100. The answer is 100."
+        },
+        {
+          "id": "d",
+          "label": "No, the answer is 110.",
+          "correct": false,
+          "explanation": "16+29=45, 34+21=55, 45+55=100. Not 110."
+        }
+      ],
+      "explanation_md": "16+29=45, 34+21=55, 45+55=100. Kate's answer of 96 is wrong."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "A store sold 41 books on Monday, 29 on Tuesday, 33 on Wednesday, and 37 on Thursday. How many books were sold in all four days?",
+      "correct_answer": "140",
+      "explanation_md": "41+29=70, 33+37=70, 70+70=140 books."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 21 + 19 + 32 + 28?",
+      "correct_answer": "100",
+      "explanation_md": "21+19=40, 32+28=60, 40+60=100."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 15 + 26 + 34 + 25?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "90",
+          "correct": false,
+          "explanation": "15+26=41, 34+25=59, 41+59=100."
+        },
+        {
+          "id": "b",
+          "label": "95",
+          "correct": false,
+          "explanation": "15+26=41, 34+25=59, 41+59=100."
+        },
+        {
+          "id": "c",
+          "label": "100",
+          "correct": true,
+          "explanation": "Correct! 15+26=41, 34+25=59, 41+59=100."
+        },
+        {
+          "id": "d",
+          "label": "105",
+          "correct": false,
+          "explanation": "15+26=41, 34+25=59, 41+59=100."
+        }
+      ],
+      "explanation_md": "15+26=41, 34+25=59, 41+59=100."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "A class counted 12 red blocks, 28 blue blocks, 33 yellow blocks, and 17 green blocks. How many blocks altogether?",
+      "correct_answer": "90",
+      "explanation_md": "12+28=40, 33+17=50, 40+50=90 blocks."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 10 + 10 + 10 + 10?",
+      "correct_answer": "40",
+      "explanation_md": "Four groups of 10: 10+10=20, 20+10=30, 30+10=40."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 5 + 15 + 5 + 15?",
+      "correct_answer": "40",
+      "explanation_md": "5+15=20, 5+15=20, 20+20=40."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 12 + 18 + 11 + 9?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "40",
+          "correct": false,
+          "explanation": "12+18=30, 11+9=20, 30+20=50."
+        },
+        {
+          "id": "b",
+          "label": "50",
+          "correct": true,
+          "explanation": "Correct! 12+18=30, 11+9=20, 30+20=50."
+        },
+        {
+          "id": "c",
+          "label": "45",
+          "correct": false,
+          "explanation": "12+18=30 (friendly pair), 11+9=20 (friendly pair), 30+20=50."
+        },
+        {
+          "id": "d",
+          "label": "60",
+          "correct": false,
+          "explanation": "12+18=30, 11+9=20, 30+20=50. Not 60."
+        }
+      ],
+      "explanation_md": "12+18=30, 11+9=20, 30+20=50."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 20 + 30 + 15 + 25?",
+      "correct_answer": "90",
+      "explanation_md": "20+30=50, 15+25=40, 50+40=90."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 11 + 22 + 33 + 14?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "70",
+          "correct": false,
+          "explanation": "Ones: 1+2+3+4=10, carry 1. Tens: 1+2+3+1+1(carried)=8. Answer: 80."
+        },
+        {
+          "id": "b",
+          "label": "80",
+          "correct": true,
+          "explanation": "Correct! Ones: 1+2+3+4=10, write 0 carry 1. Tens: 1+2+3+1=7+1=8. Answer: 80."
+        },
+        {
+          "id": "c",
+          "label": "90",
+          "correct": false,
+          "explanation": "11+22+33+14: Ones 1+2+3+4=10, Tens 1+2+3+1=7 plus carry =8. Answer: 80."
+        },
+        {
+          "id": "d",
+          "label": "75",
+          "correct": false,
+          "explanation": "11+22+33+14: Ones 1+2+3+4=10, Tens 1+2+3+1+1carried=8. Answer: 80."
+        }
+      ],
+      "explanation_md": "11+22+33+14: Ones 1+2+3+4=10 (write 0, carry 1). Tens 1+2+3+1+1=8. Answer: 80."
+    }
+  ]
+}
