@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.12",
+  "benchmark_description": "Identify important figures in Tennessee history and explain their contributions to the state and the nation.",
+  "course": "social_studies",
+  "strand": "HIS",
+  "lesson": {
+    "title": "Important People in Tennessee History",
+    "intro": "Tennessee has been home to many important people who changed our state and country! From presidents to inventors to civil rights leaders, let's meet some remarkable Tennesseans.",
+    "body_md": "## Why Historical Figures Matter\n\nHistorical figures are people who did something important in the past. By learning about them, we understand how our community and state became what they are today.\n\n## Andrew Jackson (1767-1845)\n\n**Who was he?** Andrew Jackson was the 7th President of the United States. He lived at The Hermitage near Nashville, Tennessee.\n\n**Contributions:**\n- Led the Battle of New Orleans during the War of 1812\n- Known as a champion of ordinary citizens\n- First president from Tennessee\n\n## Sequoyah (around 1770-1843)\n\n**Who was he?** Sequoyah was a Cherokee man from Tennessee. He created the Cherokee syllabary.\n\n**Contributions:**\n- Created a writing system with 86 symbols for the Cherokee language\n- Helped the Cherokee publish their own newspaper\n- One of the most remarkable intellectual achievements in history\n\n## Davy Crockett (1786-1836)\n\n**Who was he?** Davy Crockett was a frontiersman and politician from East Tennessee.\n\n**Contributions:**\n- Served in the Tennessee legislature and U.S. Congress\n- Became a national folk hero known for his wilderness skills\n- Died at the Battle of the Alamo in Texas\n\n## Ida B. Wells (1862-1931)\n\n**Who was she?** Ida B. Wells was a journalist and civil rights leader who worked in Memphis, Tennessee.\n\n**Contributions:**\n- Wrote and spoke out against racial violence\n- Co-founded the NAACP\n- A pioneer for African American and women's rights\n\n## Wilma Rudolph (1940-1994)\n\n**Who was she?** Wilma Rudolph was born in Clarksville, Tennessee. As a child she wore a leg brace due to polio.\n\n**Contributions:**\n- Overcame childhood illness to become the world's fastest woman\n- Won THREE gold medals at the 1960 Olympics\n- First American woman to win 3 gold medals in a single Olympics\n\n## Summary Table\n\n| Person | Known For |\n|---|---|\n| Andrew Jackson | 7th U.S. President |\n| Sequoyah | Cherokee writing system |\n| Davy Crockett | Frontiersman, congressman |\n| Ida B. Wells | Civil rights journalist |\n| Wilma Rudolph | Three Olympic gold medals |",
+    "worked_example_md": "## Worked Example\n\n**Question:** Why was Sequoyah's work so important for the Cherokee people?\n\n**Step 1:** Sequoyah created the Cherokee syllabary - 86 symbols representing sounds in Cherokee.\n\n**Step 2:** Before this, the Cherokee language could only be spoken. After it was created:\n- Cherokee people could write letters\n- They could keep written records\n- They published the Cherokee Phoenix newspaper\n\n**Step 3:** Within a few years, thousands of Cherokee people learned to read and write in their own language.\n\n**Answer:** Sequoyah gave the Cherokee a written language, allowing them to communicate through writing, keep records, and publish a newspaper. This was one of the most important contributions to Cherokee culture ever made.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which president of the United States was from Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Abraham Lincoln",
+          "correct": false,
+          "explanation": "Abraham Lincoln was from Illinois."
+        },
+        {
+          "id": "b",
+          "label": "Andrew Jackson",
+          "correct": true,
+          "explanation": "Andrew Jackson was the 7th President and lived in Tennessee at The Hermitage."
+        },
+        {
+          "id": "c",
+          "label": "George Washington",
+          "correct": false,
+          "explanation": "George Washington was from Virginia."
+        },
+        {
+          "id": "d",
+          "label": "Thomas Jefferson",
+          "correct": false,
+          "explanation": "Thomas Jefferson was from Virginia."
+        }
+      ],
+      "explanation_md": "Andrew Jackson was the 7th President and lived at The Hermitage near Nashville, Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Sequoyah is important to Tennessee history because he:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Led American troops in battle",
+          "correct": false,
+          "explanation": "Sequoyah is known for creating a writing system, not military leadership."
+        },
+        {
+          "id": "b",
+          "label": "Created a writing system for the Cherokee language",
+          "correct": true,
+          "explanation": "Sequoyah created the Cherokee syllabary with 86 symbols."
+        },
+        {
+          "id": "c",
+          "label": "Won three Olympic gold medals",
+          "correct": false,
+          "explanation": "Three Olympic gold medals describes Wilma Rudolph."
+        },
+        {
+          "id": "d",
+          "label": "Served in the U.S. Congress",
+          "correct": false,
+          "explanation": "Davy Crockett served in Congress. Sequoyah created the Cherokee syllabary."
+        }
+      ],
+      "explanation_md": "Sequoyah created the Cherokee syllabary - a writing system for the Cherokee language."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Wilma Rudolph is remembered because she:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Invented a writing system for Native Americans",
+          "correct": false,
+          "explanation": "Sequoyah created a writing system. Wilma Rudolph was an Olympic champion."
+        },
+        {
+          "id": "b",
+          "label": "Won three gold medals at the 1960 Olympics despite childhood illness",
+          "correct": true,
+          "explanation": "Wilma Rudolph overcame polio to win three gold medals at the 1960 Olympics."
+        },
+        {
+          "id": "c",
+          "label": "Was the first female president",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an Olympic athlete, not a president."
+        },
+        {
+          "id": "d",
+          "label": "Wrote articles about voting rights in Nashville",
+          "correct": false,
+          "explanation": "Writing about civil rights describes Ida B. Wells. Wilma Rudolph was an Olympic champion."
+        }
+      ],
+      "explanation_md": "Wilma Rudolph of Clarksville, Tennessee won three gold medals at the 1960 Olympics despite having polio as a child."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Ida B. Wells worked in Memphis. She was most known for:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Winning the Olympics",
+          "correct": false,
+          "explanation": "Olympic victories describe Wilma Rudolph. Ida B. Wells was a journalist."
+        },
+        {
+          "id": "b",
+          "label": "Creating a new writing system",
+          "correct": false,
+          "explanation": "Creating a writing system describes Sequoyah. Ida B. Wells was a civil rights journalist."
+        },
+        {
+          "id": "c",
+          "label": "Speaking out against racial violence and fighting for equal rights",
+          "correct": true,
+          "explanation": "Ida B. Wells was a brave journalist who wrote and spoke against lynching and racial injustice."
+        },
+        {
+          "id": "d",
+          "label": "Serving as a general in the U.S. Army",
+          "correct": false,
+          "explanation": "Ida B. Wells was a journalist and activist, not a military general."
+        }
+      ],
+      "explanation_md": "Ida B. Wells was a journalist in Memphis who spoke out against racial violence and fought for civil rights."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What do Sequoyah and Ida B. Wells have in common?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both were presidents of the United States",
+          "correct": false,
+          "explanation": "Andrew Jackson was the Tennessee president. Neither Sequoyah nor Ida B. Wells was president."
+        },
+        {
+          "id": "b",
+          "label": "Both used writing and communication to help their communities",
+          "correct": true,
+          "explanation": "Sequoyah gave the Cherokee a written language. Ida B. Wells used her writing to fight injustice."
+        },
+        {
+          "id": "c",
+          "label": "Both won Olympic gold medals",
+          "correct": false,
+          "explanation": "Wilma Rudolph won Olympic medals. Neither Sequoyah nor Ida B. Wells did."
+        },
+        {
+          "id": "d",
+          "label": "Both were frontiersmen who lived in the wilderness",
+          "correct": false,
+          "explanation": "Davy Crockett is the Tennessee frontiersman."
+        }
+      ],
+      "explanation_md": "Both Sequoyah and Ida B. Wells used the power of writing to help their communities."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Where did Andrew Jackson live in Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Alamo",
+          "correct": false,
+          "explanation": "The Alamo is in Texas. Davy Crockett died there."
+        },
+        {
+          "id": "b",
+          "label": "The Hermitage near Nashville",
+          "correct": true,
+          "explanation": "Andrew Jackson lived at The Hermitage, his home near Nashville, Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Clarksville, Tennessee",
+          "correct": false,
+          "explanation": "Clarksville is Wilma Rudolph's hometown, not Andrew Jackson's."
+        },
+        {
+          "id": "d",
+          "label": "Chattanooga, Tennessee",
+          "correct": false,
+          "explanation": "Andrew Jackson lived near Nashville at The Hermitage."
+        }
+      ],
+      "explanation_md": "Andrew Jackson lived at The Hermitage, near Nashville, Tennessee."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What was Davy Crockett known for in addition to being a frontiersman?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Running the Olympics",
+          "correct": false,
+          "explanation": "Davy Crockett was a frontiersman and politician, not an Olympic official."
+        },
+        {
+          "id": "b",
+          "label": "Serving in the Tennessee legislature and U.S. Congress",
+          "correct": true,
+          "explanation": "Davy Crockett served as a politician in both the Tennessee legislature and the U.S. Congress."
+        },
+        {
+          "id": "c",
+          "label": "Creating the Cherokee syllabary",
+          "correct": false,
+          "explanation": "The Cherokee syllabary was created by Sequoyah."
+        },
+        {
+          "id": "d",
+          "label": "Writing newspaper articles about civil rights",
+          "correct": false,
+          "explanation": "Writing about civil rights describes Ida B. Wells."
+        }
+      ],
+      "explanation_md": "Davy Crockett served in the Tennessee legislature and the U.S. Congress, in addition to being a famous frontiersman."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to be an important historical figure?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To have a lot of money",
+          "correct": false,
+          "explanation": "Historical importance is about contributions to others, not wealth."
+        },
+        {
+          "id": "b",
+          "label": "To have made contributions that helped others or changed history",
+          "correct": true,
+          "explanation": "Historical figures are remembered because their actions made a difference for their community, state, or country."
+        },
+        {
+          "id": "c",
+          "label": "To have been born a long time ago",
+          "correct": false,
+          "explanation": "Age alone does not make someone historically important. Actions and contributions matter."
+        },
+        {
+          "id": "d",
+          "label": "To win every competition you enter",
+          "correct": false,
+          "explanation": "Historical importance is about meaningful contributions, not just winning."
+        }
+      ],
+      "explanation_md": "Historical figures are important because their contributions helped others or changed the course of history."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Wilma Rudolph wore a leg brace as a child because of polio, yet won three Olympic gold medals. What does her story teach us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only healthy people can become champions",
+          "correct": false,
+          "explanation": "Wilma Rudolph overcame serious childhood illness to become the fastest woman in the world."
+        },
+        {
+          "id": "b",
+          "label": "People can overcome great challenges to achieve remarkable things",
+          "correct": true,
+          "explanation": "Wilma Rudolph's story shows that determination and hard work can overcome serious physical challenges."
+        },
+        {
+          "id": "c",
+          "label": "Olympic medals are easy to win",
+          "correct": false,
+          "explanation": "Olympic medals are extremely hard to win. Wilma Rudolph's achievement was exceptional."
+        },
+        {
+          "id": "d",
+          "label": "Physical challenges always prevent success",
+          "correct": false,
+          "explanation": "Wilma Rudolph is the perfect example that challenges do not have to stop success."
+        }
+      ],
+      "explanation_md": "Wilma Rudolph's story teaches that determination can help people overcome serious challenges to achieve remarkable things."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which Tennessean's work had an impact at the national level?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only Davy Crockett, because he was a frontiersman",
+          "correct": false,
+          "explanation": "Multiple Tennesseans had national impact."
+        },
+        {
+          "id": "b",
+          "label": "Only Andrew Jackson, because he became president",
+          "correct": false,
+          "explanation": "Other Tennesseans also had national impact - Ida B. Wells and Wilma Rudolph reached national audiences."
+        },
+        {
+          "id": "c",
+          "label": "All of them - Jackson as President, Wells for civil rights, Rudolph as Olympic champion, Sequoyah for Native American literacy",
+          "correct": true,
+          "explanation": "Every person listed had national or even global impact beyond just Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "None - they only impacted Tennessee",
+          "correct": false,
+          "explanation": "All five historical figures had national and even international impact."
+        }
+      ],
+      "explanation_md": "All five had national impact: a president, a language innovator, a civil rights journalist, and an Olympic champion."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Who created the Cherokee syllabary writing system?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Andrew Jackson",
+          "correct": false,
+          "explanation": "Andrew Jackson was the 7th President. Sequoyah created the Cherokee syllabary."
+        },
+        {
+          "id": "b",
+          "label": "Sequoyah",
+          "correct": true,
+          "explanation": "Sequoyah was a Cherokee man who created the syllabary - a writing system for the Cherokee language."
+        },
+        {
+          "id": "c",
+          "label": "Wilma Rudolph",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an Olympic champion. Sequoyah created the syllabary."
+        },
+        {
+          "id": "d",
+          "label": "Ida B. Wells",
+          "correct": false,
+          "explanation": "Ida B. Wells was a journalist. Sequoyah created the syllabary."
+        }
+      ],
+      "explanation_md": "Sequoyah created the Cherokee syllabary - a writing system that gave the Cherokee Nation a written language."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Ida B. Wells is an important Tennessee historical figure because she:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Won three Olympic gold medals",
+          "correct": false,
+          "explanation": "Three Olympic gold medals describes Wilma Rudolph. Ida B. Wells was a civil rights journalist."
+        },
+        {
+          "id": "b",
+          "label": "Was the 7th President of the United States",
+          "correct": false,
+          "explanation": "Andrew Jackson was the 7th President. Ida B. Wells was a journalist."
+        },
+        {
+          "id": "c",
+          "label": "Fought for civil rights through her journalism",
+          "correct": true,
+          "explanation": "Ida B. Wells bravely used her journalism to fight racial injustice and advocate for equal rights."
+        },
+        {
+          "id": "d",
+          "label": "Created a writing system for Native Americans",
+          "correct": false,
+          "explanation": "Sequoyah created the Cherokee syllabary. Ida B. Wells was a civil rights journalist."
+        }
+      ],
+      "explanation_md": "Ida B. Wells fought for civil rights through her journalism in Memphis, Tennessee."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why should students today learn about historical figures like Ida B. Wells and Wilma Rudolph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because students must memorize every fact about them",
+          "correct": false,
+          "explanation": "Learning about historical figures is about understanding their contributions and lessons, not just memorizing facts."
+        },
+        {
+          "id": "b",
+          "label": "Because their courage and contributions teach lessons that still matter today",
+          "correct": true,
+          "explanation": "Historical figures inspire us. Their stories of courage and determination offer lasting lessons."
+        },
+        {
+          "id": "c",
+          "label": "Because they are only important to Tennessee",
+          "correct": false,
+          "explanation": "Their impact went far beyond Tennessee. Their stories inspire people everywhere."
+        },
+        {
+          "id": "d",
+          "label": "Because history has nothing to teach us today",
+          "correct": false,
+          "explanation": "History teaches valuable lessons about courage, justice, and perseverance."
+        }
+      ],
+      "explanation_md": "Historical figures like Ida B. Wells and Wilma Rudolph teach lessons about courage and determination that still matter today."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Andrew Jackson was the _____ President of the United States.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1st",
+          "correct": false,
+          "explanation": "George Washington was the 1st President. Andrew Jackson was the 7th."
+        },
+        {
+          "id": "b",
+          "label": "7th",
+          "correct": true,
+          "explanation": "Andrew Jackson was the 7th President of the United States."
+        },
+        {
+          "id": "c",
+          "label": "16th",
+          "correct": false,
+          "explanation": "Abraham Lincoln was the 16th President."
+        },
+        {
+          "id": "d",
+          "label": "50th",
+          "correct": false,
+          "explanation": "Jackson was the 7th President."
+        }
+      ],
+      "explanation_md": "Andrew Jackson was the 7th President of the United States."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What did Sequoyah create?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A writing system for the Cherokee language",
+          "correct": true,
+          "explanation": "Sequoyah created the Cherokee syllabary - a writing system for the Cherokee language."
+        },
+        {
+          "id": "b",
+          "label": "A new road in Tennessee",
+          "correct": false,
+          "explanation": "Sequoyah is known for the Cherokee syllabary, not roads."
+        },
+        {
+          "id": "c",
+          "label": "A new sport",
+          "correct": false,
+          "explanation": "Sequoyah created a writing system, not a sport."
+        },
+        {
+          "id": "d",
+          "label": "A new type of airplane",
+          "correct": false,
+          "explanation": "Sequoyah lived in the early 1800s, long before airplanes."
+        }
+      ],
+      "explanation_md": "Sequoyah created the Cherokee syllabary - a writing system for the Cherokee language."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Wilma Rudolph was from Clarksville, Tennessee. She is remembered for:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Becoming president",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an Olympic athlete, not a president."
+        },
+        {
+          "id": "b",
+          "label": "Winning three gold medals at the 1960 Olympics",
+          "correct": true,
+          "explanation": "Wilma Rudolph won three gold medals at the 1960 Olympics despite childhood illness."
+        },
+        {
+          "id": "c",
+          "label": "Creating a writing system",
+          "correct": false,
+          "explanation": "Sequoyah created a writing system. Wilma Rudolph was an Olympic champion."
+        },
+        {
+          "id": "d",
+          "label": "Writing about civil rights",
+          "correct": false,
+          "explanation": "Writing about civil rights describes Ida B. Wells."
+        }
+      ],
+      "explanation_md": "Wilma Rudolph of Clarksville, Tennessee won three gold medals at the 1960 Olympics."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Ida B. Wells worked in Memphis as a:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Farmer",
+          "correct": false,
+          "explanation": "Ida B. Wells was a journalist."
+        },
+        {
+          "id": "b",
+          "label": "Journalist and civil rights leader",
+          "correct": true,
+          "explanation": "Ida B. Wells was a journalist who wrote about civil rights."
+        },
+        {
+          "id": "c",
+          "label": "Cherokee language teacher",
+          "correct": false,
+          "explanation": "Ida B. Wells was a civil rights journalist."
+        },
+        {
+          "id": "d",
+          "label": "Olympic athlete",
+          "correct": false,
+          "explanation": "Olympic athlete describes Wilma Rudolph."
+        }
+      ],
+      "explanation_md": "Ida B. Wells was a journalist and civil rights leader who worked in Memphis, Tennessee."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Historical figures are people who:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only lived in Tennessee",
+          "correct": false,
+          "explanation": "Historical figures come from everywhere."
+        },
+        {
+          "id": "b",
+          "label": "Made important contributions that affected their community, state, or country",
+          "correct": true,
+          "explanation": "Historical figures are remembered for making important contributions."
+        },
+        {
+          "id": "c",
+          "label": "Had a lot of money and lived in large houses",
+          "correct": false,
+          "explanation": "Wealth does not define historical importance."
+        },
+        {
+          "id": "d",
+          "label": "Were always famous during their own lifetimes",
+          "correct": false,
+          "explanation": "Some historical figures were not always recognized during their own lifetimes."
+        }
+      ],
+      "explanation_md": "Historical figures made important contributions that affected their community, state, or country."
+    }
+  ]
+}
