@@ -1,0 +1,253 @@
+{
+  "skill_id": "ELA.2.R.2.1",
+  "benchmark_description": "Explain the main topic of an informational text and the key details that support it, using text features to locate information.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Main Topic and Key Details in Nonfiction",
+    "intro": "When you read nonfiction, you are learning about real things! The most important ideas are the main topic and the key details that tell you more about it. Authors also use special features to help you find information fast.",
+    "body_md": "## Main Topic vs. Key Details\n\n| | What It Is | Example |\n|---|---|---|\n| **Main Topic** | The BIG idea the whole text is about | Penguins |\n| **Key Detail** | A fact that supports or explains the main topic | Penguins live in Antarctica. |\n| **Key Detail** | Another supporting fact | Penguins eat fish. |\n\n**Think of it like an umbrella:** The main topic is the umbrella, and the key details hang from it.\n\n## Finding the Main Topic\n\n- Ask: What is MOST of this text about?\n- Look at the title — it often tells you the main topic.\n- Notice which idea appears over and over.\n\n## Key Details Support the Main Topic\n\nKey details are facts, examples, or descriptions that give more information about the main topic. Ask:\n- Who? What? Where? When? Why? How?\n\n## Text Features\n\nAuthors use **text features** to help you find information:\n\n| Text Feature | What It Does |\n|---|---|\n| **Title** | Names the whole text |\n| **Headings** | Names each section |\n| **Bold words** | Shows important vocabulary |\n| **Captions** | Explains photos or illustrations |\n| **Table of contents** | Lists chapters or sections and page numbers |\n| **Index** | Lists topics alphabetically with page numbers |\n| **Glossary** | Defines key words |\n| **Diagrams/Labels** | Shows parts of something with labels |",
+    "worked_example_md": "**Text excerpt:**\n\n*Volcanoes*\n\n*A volcano is an opening in Earth's surface. When pressure builds up underground, hot melted rock called lava shoots out. Volcanoes can be found on land or under the ocean. The lava cools and hardens to form new rock.*\n\n**Main topic:** Volcanoes\n\n**Key Details:**\n1. A volcano is an opening in Earth's surface.\n2. Lava is hot melted rock that shoots out of volcanoes.\n3. Volcanoes can be found on land or under the ocean.\n4. Lava cools and hardens to form new rock.\n\n**Text feature used:** The heading *Volcanoes* tells you the main topic of this section.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A nonfiction book is titled **Bees: Amazing Insects**. What is most likely the **main topic**?",
+      "choices": [
+        {"id": "a", "label": "Honey recipes", "correct": false, "explanation": "Honey recipes is too narrow and not about bees as insects."},
+        {"id": "b", "label": "Bees and how they live", "correct": true, "explanation": "Yes! The title tells us the main topic is bees and their lives as insects."},
+        {"id": "c", "label": "All insects in the world", "correct": false, "explanation": "The title specifies bees — not all insects."},
+        {"id": "d", "label": "Famous scientists who study bugs", "correct": false, "explanation": "Nothing in the title suggests the book is about scientists."}
+      ],
+      "explanation_md": "The title *Bees: Amazing Insects* tells us the main topic is bees."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*Sharks are amazing hunters. They have sharp teeth for catching fish. Their sense of smell is very strong. Sharks can sense even tiny movements in the water.*\n\nWhat is the **main topic**?",
+      "choices": [
+        {"id": "a", "label": "Fish", "correct": false, "explanation": "Fish are mentioned as prey — the text is mostly about sharks."},
+        {"id": "b", "label": "Sharks and how they hunt", "correct": true, "explanation": "Yes! Every detail in the paragraph is about sharks and their hunting abilities."},
+        {"id": "c", "label": "The ocean", "correct": false, "explanation": "The ocean is the setting — the text is about sharks."},
+        {"id": "d", "label": "Dangerous animals", "correct": false, "explanation": "The paragraph is specifically about sharks — not all dangerous animals."}
+      ],
+      "explanation_md": "Every detail supports the main topic: sharks and how they hunt."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In a nonfiction book, what does a **heading** do?",
+      "choices": [
+        {"id": "a", "label": "Defines a word you might not know", "correct": false, "explanation": "Defining words is the job of a glossary — not a heading."},
+        {"id": "b", "label": "Names the topic of a section", "correct": true, "explanation": "Yes! Headings tell you what each section is about, like a small title for part of the book."},
+        {"id": "c", "label": "Lists page numbers for topics", "correct": false, "explanation": "Listing page numbers is the job of a table of contents or index."},
+        {"id": "d", "label": "Explains a photo", "correct": false, "explanation": "Explaining a photo is the job of a caption."}
+      ],
+      "explanation_md": "Headings name the topic of each section in a nonfiction text."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*Rain forests are home to thousands of plants and animals. The trees grow very tall and block the sunlight. Many insects, frogs, and birds live there. Rain forests get a lot of rain every year.*\n\nWhich sentence is a **key detail** that supports the main topic of rain forests?",
+      "choices": [
+        {"id": "a", "label": "Rain forests are interesting.", "correct": false, "explanation": "\"Interesting\" is an opinion — not a specific fact or key detail."},
+        {"id": "b", "label": "Rain forests get a lot of rain every year.", "correct": true, "explanation": "Yes! This is a specific fact that tells us more about rain forests."},
+        {"id": "c", "label": "I want to visit a rain forest someday.", "correct": false, "explanation": "That is a personal wish — not information from the text."},
+        {"id": "d", "label": "Deserts are dry places.", "correct": false, "explanation": "That is about deserts — not about rain forests."}
+      ],
+      "explanation_md": "A key detail is a specific fact from the text. \"Rain forests get a lot of rain every year\" is a key detail."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student opens a nonfiction book and wants to find information about elephants quickly. Which text feature should she use?",
+      "choices": [
+        {"id": "a", "label": "The glossary", "correct": false, "explanation": "The glossary defines words — it does not help her find the page about elephants."},
+        {"id": "b", "label": "The index", "correct": true, "explanation": "Yes! The index lists topics alphabetically with page numbers. She can look up *elephants* in the index."},
+        {"id": "c", "label": "The captions", "correct": false, "explanation": "Captions explain specific photos — they do not help her find a topic quickly."},
+        {"id": "d", "label": "The bold words", "correct": false, "explanation": "Bold words highlight key vocabulary — they do not help her find the page about elephants."}
+      ],
+      "explanation_md": "The index lists topics alphabetically with page numbers — perfect for finding information quickly."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*Butterflies start their lives as eggs. The eggs hatch into caterpillars. The caterpillar builds a cocoon and transforms inside. Finally, a butterfly comes out.*\n\nWhich sentence is the BEST main topic statement for this paragraph?",
+      "choices": [
+        {"id": "a", "label": "Caterpillars are fuzzy insects.", "correct": false, "explanation": "That is a detail about caterpillars — not the main topic of the whole paragraph."},
+        {"id": "b", "label": "This paragraph is about the life cycle of a butterfly.", "correct": true, "explanation": "Yes! The paragraph describes all stages of a butterfly's life — egg, caterpillar, cocoon, butterfly."},
+        {"id": "c", "label": "Butterflies are beautiful.", "correct": false, "explanation": "That is an opinion — not a main topic statement."},
+        {"id": "d", "label": "This paragraph is about cocoons.", "correct": false, "explanation": "Cocoons are just one stage — the paragraph covers all stages of the life cycle."}
+      ],
+      "explanation_md": "The paragraph covers all stages of the butterfly's life cycle — that is the main topic."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees these headings in a book: *What Do Penguins Eat?*, *Where Do Penguins Live?*, *How Do Penguins Stay Warm?*  \nWhat is the most likely main topic of the whole book?",
+      "choices": [
+        {"id": "a", "label": "Cold weather animals", "correct": false, "explanation": "The headings all mention penguins specifically — not all cold weather animals."},
+        {"id": "b", "label": "Penguins", "correct": true, "explanation": "Yes! All three headings are about penguins — they all point to the same main topic."},
+        {"id": "c", "label": "Ocean animals", "correct": false, "explanation": "While penguins swim in the ocean, the headings are all specifically about penguins."},
+        {"id": "d", "label": "Birds of the world", "correct": false, "explanation": "Only penguins are mentioned — not birds in general."}
+      ],
+      "explanation_md": "All headings focus on penguins — the main topic of the whole book is penguins."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this caption under a photo: *A worker bee lands on a flower to collect nectar.*  \nWhat does this caption tell the reader?",
+      "choices": [
+        {"id": "a", "label": "What chapter the photo is in", "correct": false, "explanation": "Captions explain the photo — not which chapter it appears in."},
+        {"id": "b", "label": "What is happening in the photo", "correct": true, "explanation": "Yes! Captions tell you what you are looking at in a photo or illustration."},
+        {"id": "c", "label": "The definition of the word nectar", "correct": false, "explanation": "Defining words is the job of a glossary — not a caption."},
+        {"id": "d", "label": "The page number for bees in the index", "correct": false, "explanation": "Page numbers are found in the index or table of contents."}
+      ],
+      "explanation_md": "Captions explain what is happening in a photo or illustration."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*George Washington was the first president of the United States. He led the army during the Revolutionary War. He was known for being honest and brave. Washington, D.C. is named after him.*\n\nWhich detail does NOT belong in this paragraph about George Washington?",
+      "choices": [
+        {"id": "a", "label": "He led the army during the Revolutionary War.", "correct": false, "explanation": "This is a key detail about Washington — it belongs."},
+        {"id": "b", "label": "Abraham Lincoln was also a president.", "correct": true, "explanation": "Yes! This sentence is about Abraham Lincoln — not George Washington. It does not support the main topic."},
+        {"id": "c", "label": "Washington, D.C. is named after him.", "correct": false, "explanation": "This is a key detail about Washington — it belongs."},
+        {"id": "d", "label": "He was known for being honest and brave.", "correct": false, "explanation": "This describes Washington's character — it belongs."}
+      ],
+      "explanation_md": "A detail about Abraham Lincoln does not support the main topic of George Washington."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads a passage about volcanoes. It has these details: *1) Volcanoes form at weak spots in Earth's crust. 2) Mount St. Helens erupted in 1980. 3) Pizza is made in a hot oven. 4) Lava can flow for miles.*  \nWhich detail does NOT support the main topic of volcanoes?",
+      "choices": [
+        {"id": "a", "label": "Volcanoes form at weak spots in Earth's crust.", "correct": false, "explanation": "This is a key detail about how volcanoes form — it belongs."},
+        {"id": "b", "label": "Pizza is made in a hot oven.", "correct": true, "explanation": "Yes! Pizza has nothing to do with volcanoes — this detail does not belong."},
+        {"id": "c", "label": "Mount St. Helens erupted in 1980.", "correct": false, "explanation": "Mount St. Helens is a famous volcano — this is a key detail."},
+        {"id": "d", "label": "Lava can flow for miles.", "correct": false, "explanation": "This is a fact about lava from volcanoes — it belongs."}
+      ],
+      "explanation_md": "Pizza is made in a hot oven — this detail is about cooking, not volcanoes. It does not belong."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*The sun is a star at the center of our solar system. It gives off light and heat. Plants need sunlight to grow. The sun is about 93 million miles from Earth.*\n\nWhat is the **main topic**?",
+      "choices": [
+        {"id": "a", "label": "Plants", "correct": false, "explanation": "Plants are mentioned once as a detail — the paragraph is about the sun."},
+        {"id": "b", "label": "The sun", "correct": true, "explanation": "Yes! Every sentence in the paragraph is about the sun."},
+        {"id": "c", "label": "Our solar system", "correct": false, "explanation": "The solar system is mentioned once — the main focus is the sun."},
+        {"id": "d", "label": "How far away stars are", "correct": false, "explanation": "The distance is one detail — not the main topic of the whole paragraph."}
+      ],
+      "explanation_md": "Every sentence is about the sun — that is the main topic."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to know what a bold word means in her nonfiction book. Which text feature should she use?",
+      "choices": [
+        {"id": "a", "label": "The index", "correct": false, "explanation": "The index gives page numbers for topics — not word definitions."},
+        {"id": "b", "label": "The glossary", "correct": true, "explanation": "Yes! The glossary defines key words, including bold words that appear in the text."},
+        {"id": "c", "label": "The table of contents", "correct": false, "explanation": "The table of contents lists chapters and page numbers — not word definitions."},
+        {"id": "d", "label": "The heading", "correct": false, "explanation": "Headings name sections — they do not define vocabulary words."}
+      ],
+      "explanation_md": "The glossary defines key words. Use it to understand bold or unfamiliar terms."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is the BEST key detail for a paragraph with the main topic *How dogs help people*?",
+      "choices": [
+        {"id": "a", "label": "Dogs have four legs.", "correct": false, "explanation": "Having four legs is a general animal fact — it does not explain how dogs help people."},
+        {"id": "b", "label": "Some dogs are trained to guide people who cannot see.", "correct": true, "explanation": "Yes! This is a specific fact about how dogs help people — it directly supports the main topic."},
+        {"id": "c", "label": "Dogs and cats are both popular pets.", "correct": false, "explanation": "This compares pets — it does not explain how dogs help people."},
+        {"id": "d", "label": "People have owned dogs for thousands of years.", "correct": false, "explanation": "This is a history fact — not a detail about how dogs help people today."}
+      ],
+      "explanation_md": "\"Guide dogs help people who cannot see\" directly supports the main topic of how dogs help people."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The **main topic** of a nonfiction text is:",
+      "choices": [
+        {"id": "a", "label": "One small fact in the text", "correct": false, "explanation": "One small fact is a detail — not the main topic."},
+        {"id": "b", "label": "The big idea the whole text is about", "correct": true, "explanation": "Yes! The main topic is what the WHOLE text is mostly about."},
+        {"id": "c", "label": "The author's name", "correct": false, "explanation": "The author's name is not the main topic."},
+        {"id": "d", "label": "The last paragraph only", "correct": false, "explanation": "The main topic runs through the WHOLE text — not just the last paragraph."}
+      ],
+      "explanation_md": "Main topic = the big idea the WHOLE text is about."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A paragraph is about frogs. Which of these is a **key detail** about frogs?",
+      "choices": [
+        {"id": "a", "label": "Cars go fast.", "correct": false, "explanation": "Cars have nothing to do with frogs."},
+        {"id": "b", "label": "Frogs live near water.", "correct": true, "explanation": "Yes! This is a specific fact about frogs — a key detail."},
+        {"id": "c", "label": "I love ice cream.", "correct": false, "explanation": "That is a personal opinion — not a key detail about frogs."},
+        {"id": "d", "label": "The sky is blue.", "correct": false, "explanation": "The sky has nothing to do with frogs."}
+      ],
+      "explanation_md": "A key detail about frogs is a specific fact about frogs — like where they live."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student opens a nonfiction book and wants to see how many chapters it has. Which text feature should she use?",
+      "choices": [
+        {"id": "a", "label": "The glossary", "correct": false, "explanation": "The glossary has definitions — not chapter information."},
+        {"id": "b", "label": "The table of contents", "correct": true, "explanation": "Yes! The table of contents lists all chapters and page numbers."},
+        {"id": "c", "label": "The bold words", "correct": false, "explanation": "Bold words highlight vocabulary — not chapter information."},
+        {"id": "d", "label": "A caption", "correct": false, "explanation": "Captions explain photos — not chapter information."}
+      ],
+      "explanation_md": "The table of contents lists all chapters and page numbers."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*Lions live in Africa. They are the only cats that live in groups called prides. Male lions have thick manes of fur.*\n\nWhat is the main topic?",
+      "choices": [
+        {"id": "a", "label": "Africa", "correct": false, "explanation": "Africa is where lions live — a detail. The paragraph is about lions."},
+        {"id": "b", "label": "Lions", "correct": true, "explanation": "Yes! Every sentence in the paragraph is about lions."},
+        {"id": "c", "label": "Animal groups", "correct": false, "explanation": "Animal groups is too broad — the paragraph is specifically about lions."},
+        {"id": "d", "label": "Fur", "correct": false, "explanation": "Fur is mentioned once as a detail — not the main topic."}
+      ],
+      "explanation_md": "Every sentence is about lions — that is the main topic."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does a **caption** do in a nonfiction book?",
+      "choices": [
+        {"id": "a", "label": "Lists important words and their definitions", "correct": false, "explanation": "That is the job of a glossary — not a caption."},
+        {"id": "b", "label": "Explains what a photo or illustration shows", "correct": true, "explanation": "Yes! Captions explain the photo or illustration right below them."},
+        {"id": "c", "label": "Tells you the names of each chapter", "correct": false, "explanation": "That is the job of a table of contents."},
+        {"id": "d", "label": "Shows important words in bold", "correct": false, "explanation": "Bold words are a text feature in the main text — captions explain photos."}
+      ],
+      "explanation_md": "A caption explains what a photo or illustration is showing."
+    }
+  ]
+}
