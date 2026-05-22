@@ -1,0 +1,613 @@
+{
+  "skill_id": "RL.2.3",
+  "benchmark_description": "Describe how characters in a story respond to major events and challenges.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "How Characters Respond to Challenges",
+    "intro": "Characters in stories face problems and big events, just like people in real life. Paying attention to how a character reacts tells you a lot about who they are!",
+    "body_md": "## What Is a Character's Response?\n\nA **character's response** is what a character thinks, feels, says, or does when something important happens in the story.\n\nWhen you read about a character's response, ask yourself:\n- What is the character feeling right now?\n- What does the character say?\n- What action does the character take?\n- Does the character change because of this event?\n\n## Major Events and Challenges\n\nA **major event** is something big that happens in the story. A **challenge** is a problem the character has to face.\n\nExamples of challenges:\n- A character loses something important\n- A character moves to a new place\n- A character has a fight with a friend\n- A character faces something scary\n- A character has to make a hard decision\n\n## How Response Shows Character\n\nThe way a character responds to a challenge tells us about their personality.\n\n| Response | What It Shows |\n|---|---|\n| Character helps others during a crisis | Character is caring and brave |\n| Character runs away from a problem | Character might be fearful or avoiding conflict |\n| Character works hard to solve a problem | Character is determined |\n| Character blames others | Character might not take responsibility |\n\n## Tracking Character Responses\n\nAs you read, you can track character responses like this:\n\n**Event:** The bridge washed out in the storm.\n**Character's Response:** Marta stayed calm, collected supplies, and helped her neighbors cross safely on a fallen tree.",
+    "worked_example_md": "## Worked Example\n\nRead this passage:\n\n> Marcus was the new kid at school. At recess, nobody asked him to play. He sat alone on the bench. After a few minutes, he took a deep breath, walked over to a group playing kickball, and asked if he could join. The other kids said yes, and by the end of recess, Marcus had made two new friends.\n\n**Question:** How did Marcus respond to the challenge of being new and alone at recess?\n\n**Step 1: Identify the challenge.**\nMarcus was new and no one invited him to play. He was alone.\n\n**Step 2: Look at his response.**\n- First, he sat alone (showing he felt unsure).\n- Then he took a deep breath (showing he calmed himself).\n- Then he walked over and asked to join (showing he was brave and took action).\n\n**Step 3: Describe the response.**\nMarcus responded to the challenge by being brave and taking the first step. Even though it was hard, he introduced himself and joined in.\n\n**Step 4: Notice the result.**\nBecause of how he responded, Marcus made two new friends.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When the big storm hit, the power went out in Zoe's house. Zoe was scared of the dark. She started to cry. Her older brother found some candles and lit them. When Zoe saw the candlelight, she stopped crying and began to feel better.\n\nHow did Zoe first **respond** to the power going out?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She lit some candles.",
+          "correct": false,
+          "explanation": "Zoe's brother lit the candles. Zoe's first response was to cry."
+        },
+        {
+          "id": "b",
+          "label": "She started to cry.",
+          "correct": true,
+          "explanation": "The story says Zoe was scared of the dark and she started to cry. That was her first response to the power going out."
+        },
+        {
+          "id": "c",
+          "label": "She laughed at the storm.",
+          "correct": false,
+          "explanation": "The story says Zoe was scared and cried. She did not laugh."
+        },
+        {
+          "id": "d",
+          "label": "She went to sleep.",
+          "correct": false,
+          "explanation": "The story does not say Zoe went to sleep. She cried and then felt better when the candles were lit."
+        }
+      ],
+      "explanation_md": "The story says Zoe was scared of the dark and 'started to cry.' That is her first response to the challenge of the power going out."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Ben's favorite kite got stuck high in a tree. He tried jumping to reach it, but it was too high. He asked his tall neighbor for help. The neighbor reached up and got the kite down for Ben.\n\nHow did Ben **respond** to the challenge of his kite being stuck in the tree?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He gave up and went home.",
+          "correct": false,
+          "explanation": "Ben did not give up. He tried jumping and then asked for help."
+        },
+        {
+          "id": "b",
+          "label": "He tried jumping first, then asked for help.",
+          "correct": true,
+          "explanation": "Ben tried to solve the problem himself by jumping, and when that did not work, he asked his tall neighbor for help. He did not give up."
+        },
+        {
+          "id": "c",
+          "label": "He climbed the tree.",
+          "correct": false,
+          "explanation": "The story does not say Ben climbed the tree. He jumped and asked a neighbor."
+        },
+        {
+          "id": "d",
+          "label": "He cried and waited for someone to notice.",
+          "correct": false,
+          "explanation": "Ben took action by jumping and then asking for help. He did not just cry and wait."
+        }
+      ],
+      "explanation_md": "Ben tried two things: jumping to reach the kite, then asking his tall neighbor for help. He responded by trying different solutions."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When Lily found out her best friend Jade was moving away, she felt very sad. At first, she did not want to talk to anyone. After a few days, Lily thought of a plan. She made Jade a memory book filled with photos and notes. Jade cried happy tears when she opened it.\n\nHow did Lily's response to Jade moving **change** over the course of the story?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She went from being happy to being very sad.",
+          "correct": false,
+          "explanation": "The story says Lily was sad at first, not happy. Her feelings went from sadness and withdrawal to action."
+        },
+        {
+          "id": "b",
+          "label": "She went from wanting to be alone to doing something kind for her friend.",
+          "correct": true,
+          "explanation": "At first Lily did not want to talk to anyone. Then she made Jade a memory book. Her response changed from withdrawing to taking a caring action."
+        },
+        {
+          "id": "c",
+          "label": "She went from being angry to forgiving Jade.",
+          "correct": false,
+          "explanation": "The story does not say Lily was angry. She was sad because her friend was moving."
+        },
+        {
+          "id": "d",
+          "label": "She went from making a book to giving up on the friendship.",
+          "correct": false,
+          "explanation": "Making the memory book was Lily's action to show she still cared about the friendship. She did not give up on it."
+        }
+      ],
+      "explanation_md": "Lily first withdrew and did not want to talk to anyone. Then she made Jade a thoughtful memory book. Her response changed from shutting down to doing something kind and creative for her friend."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The school spelling bee was tomorrow, and Maya had not studied. When she found out, she panicked. But instead of giving up, she studied for four hours that night. She missed only two words at the spelling bee and came in second place.\n\nWhat does Maya's response to her challenge tell us about her **character**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She is lazy and does not like to work.",
+          "correct": false,
+          "explanation": "Maya studied for four hours when she realized her mistake. That shows she is willing to work hard."
+        },
+        {
+          "id": "b",
+          "label": "She panics easily and never recovers.",
+          "correct": false,
+          "explanation": "Maya did panic, but she recovered by studying hard and finishing in second place. She did not stay panicked."
+        },
+        {
+          "id": "c",
+          "label": "She is determined and works hard when it matters.",
+          "correct": true,
+          "explanation": "Maya panicked at first but then took action and studied for four hours. She finished in second place. This shows she is determined and willing to put in effort when it counts."
+        },
+        {
+          "id": "d",
+          "label": "She does not care about school.",
+          "correct": false,
+          "explanation": "Maya studied four hours and competed in the spelling bee. These actions show she does care about school."
+        }
+      ],
+      "explanation_md": "Maya panicked but then pushed through and studied for four hours. She came in second place. Her response shows she is determined and hard-working when she faces a challenge."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> During the school play, Sam forgot his lines. He stood on stage in silence for a moment. The audience waited. Then Sam made up new words that fit the scene. The audience laughed (at the right moment!) and the play went on perfectly.\n\nHow did Sam respond to the **challenge** of forgetting his lines?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He ran off the stage.",
+          "correct": false,
+          "explanation": "Sam did not leave the stage. He stayed and came up with a solution."
+        },
+        {
+          "id": "b",
+          "label": "He stood still and said nothing for the rest of the play.",
+          "correct": false,
+          "explanation": "Sam was silent for a moment, but then he made up new words and the play continued."
+        },
+        {
+          "id": "c",
+          "label": "He stayed calm and improvised new words to keep the play going.",
+          "correct": true,
+          "explanation": "Sam took a moment, then created new words that fit the scene. He kept the play moving and even got a laugh from the audience."
+        },
+        {
+          "id": "d",
+          "label": "He asked the teacher to stop the play.",
+          "correct": false,
+          "explanation": "The story does not say Sam asked to stop the play. He handled it himself."
+        }
+      ],
+      "explanation_md": "Sam paused, then made up new lines that fit the scene. The play continued and the audience laughed. He responded to the challenge by staying calm and thinking creatively."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Tomas and his dog Duke were on a trail when Duke slipped and hurt his paw. Duke could not walk on it. Tomas carefully picked Duke up and carried him the whole mile back to the car, even though his own arms were very tired.\n\nWhat does Tomas's response to the challenge tell you about him?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He is not very strong.",
+          "correct": false,
+          "explanation": "Tomas was tired, but he kept carrying Duke. His physical strength matters less than his determination to help Duke."
+        },
+        {
+          "id": "b",
+          "label": "He is caring and does not give up on the ones he loves.",
+          "correct": true,
+          "explanation": "Even when his arms were tired, Tomas carried Duke the whole way. He prioritized Duke's safety over his own comfort, showing he is caring and determined."
+        },
+        {
+          "id": "c",
+          "label": "He does not know how to handle emergencies.",
+          "correct": false,
+          "explanation": "Tomas responded well to the emergency. He picked Duke up and carried him to safety."
+        },
+        {
+          "id": "d",
+          "label": "He likes hiking more than he likes Duke.",
+          "correct": false,
+          "explanation": "Tomas stopped hiking to help Duke. His actions show Duke's wellbeing was more important to him than the hike."
+        }
+      ],
+      "explanation_md": "Tomas carried Duke for a full mile even when he was tired. He put Duke's needs first. His response shows he is caring and persistent."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> A long drought had dried up the village well. Rosa's neighbors began to argue about whose fault it was. But Rosa went to the village elder and asked if there was an old spring that had once fed the well. Together, they searched old maps and found it. They dug until the water flowed again.\n\nHow did Rosa's response to the drought **differ** from her neighbors' response?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rosa ignored the problem while neighbors worked hard.",
+          "correct": false,
+          "explanation": "Rosa worked hard to find a solution. Her neighbors argued instead of solving the problem."
+        },
+        {
+          "id": "b",
+          "label": "Rosa took action to solve the problem while neighbors argued.",
+          "correct": true,
+          "explanation": "The neighbors argued about fault. Rosa focused on finding a solution by asking the elder, researching old maps, and digging. Her response was productive while theirs was not."
+        },
+        {
+          "id": "c",
+          "label": "Rosa and her neighbors both tried to fix the well together.",
+          "correct": false,
+          "explanation": "The neighbors argued. Rosa worked with the elder, not with her neighbors who were arguing."
+        },
+        {
+          "id": "d",
+          "label": "Rosa gave up while her neighbors found the old spring.",
+          "correct": false,
+          "explanation": "Rosa found the old spring. The neighbors were arguing, not searching."
+        }
+      ],
+      "explanation_md": "The neighbors argued about blame. Rosa took action by seeking the elder's help and searching old maps. Rosa's response was constructive while her neighbors' response was not."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When Nadia's painting did not win the art contest, she felt crushed. She almost threw the painting away. But her art teacher said, 'Every great artist gets rejected. Use this to grow.' Nadia thought about it. Two months later she entered another contest with a new painting that was twice as detailed and won first place.\n\nWhich of the following best describes how Nadia's response to **losing** shaped the rest of the story?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Her defeat made her angry at her teacher, which hurt her future work.",
+          "correct": false,
+          "explanation": "Nadia listened to her teacher's advice. She was not angry at her teacher."
+        },
+        {
+          "id": "b",
+          "label": "Her defeat, combined with her teacher's encouragement, pushed her to work harder and improve.",
+          "correct": true,
+          "explanation": "Nadia was crushed but chose to keep going after her teacher's words. She made a better painting and won next time. Her response to losing shaped a positive outcome."
+        },
+        {
+          "id": "c",
+          "label": "Her defeat had no effect on her because she did not care about art.",
+          "correct": false,
+          "explanation": "Nadia was crushed by the loss, which shows she cared deeply. The defeat affected her, but she used it to grow."
+        },
+        {
+          "id": "d",
+          "label": "She won the same contest she entered the first time.",
+          "correct": false,
+          "explanation": "Nadia entered a different contest two months later. She did not win the original contest."
+        }
+      ],
+      "explanation_md": "Nadia felt crushed but listened to her teacher. She worked on a better painting and won the next contest. How she responded to losing, by choosing to keep going and improve, shaped the entire arc of the story."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When the river flooded the town, some people grabbed only their most valuable things and left. Old Mr. Webb stayed behind and spent three days helping neighbors move furniture to high ground and rescue stuck animals. When reporters asked why he stayed, he said, 'Someone had to.'\n\nHow does Mr. Webb's response to the flood **reveal** his character?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He is careless with his own safety.",
+          "correct": false,
+          "explanation": "The story focuses on his selflessness, not carelessness. He made a choice to help others rather than flee."
+        },
+        {
+          "id": "b",
+          "label": "He is selfish and wanted to be on the news.",
+          "correct": false,
+          "explanation": "Mr. Webb stayed to help, not for attention. His response to reporters was simple: 'Someone had to.'"
+        },
+        {
+          "id": "c",
+          "label": "He is selfless and feels a responsibility to help others in need.",
+          "correct": true,
+          "explanation": "While others left with their valuables, Mr. Webb stayed to help neighbors and animals. He felt it was his duty. His response shows deep selflessness and a sense of community responsibility."
+        },
+        {
+          "id": "d",
+          "label": "He did not understand how dangerous the flood was.",
+          "correct": false,
+          "explanation": "The story does not say he was unaware of the danger. His simple quote 'Someone had to' suggests he knew it was hard but chose to help anyway."
+        }
+      ],
+      "explanation_md": "Mr. Webb chose to stay and help others when most people left to protect themselves. His quote 'Someone had to' shows he felt a duty to help. His response reveals that he is selfless and community-minded."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Kenji and his sister both wanted the last piece of cake. Their mother said they had to decide together. Kenji grabbed it first. His sister looked disappointed. Kenji paused, thought about it, and cut the piece in half, giving his sister the larger half. His sister smiled.\n\nWhat does the detail of Kenji giving his sister the **larger** half (instead of equal halves) tell us about how he responded to the challenge?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He was not paying attention to how he cut the cake.",
+          "correct": false,
+          "explanation": "The story says he paused and thought about it, which shows he was deliberate, not careless."
+        },
+        {
+          "id": "b",
+          "label": "He went beyond just being fair and showed extra generosity.",
+          "correct": true,
+          "explanation": "Splitting equally would have been fair. Giving his sister the larger half went further. This shows Kenji did not just compromise, he was actively generous, prioritizing his sister's happiness over his own."
+        },
+        {
+          "id": "c",
+          "label": "He did not like cake very much.",
+          "correct": false,
+          "explanation": "The story says both siblings wanted the last piece, which suggests Kenji did want it. His giving the bigger piece was an act of generosity, not disinterest."
+        },
+        {
+          "id": "d",
+          "label": "He was in a hurry and cut unevenly by accident.",
+          "correct": false,
+          "explanation": "The story says Kenji paused and thought. The unequal cut was intentional, not an accident."
+        }
+      ],
+      "explanation_md": "Giving the larger half went beyond simple fairness. Kenji chose to be extra generous, prioritizing his sister's happiness. This shows his response to the challenge went beyond resolving the conflict and showed real kindness."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Pilar's family had to move to a new city. Pilar was sad to leave her friends. On her first day at the new school, she was nervous. But she smiled at the girl sitting next to her and asked her name. By the end of the day, she had been invited to a birthday party.\n\nHow did Pilar **respond** to the challenge of starting at a new school?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She refused to speak to anyone all day.",
+          "correct": false,
+          "explanation": "Pilar spoke to the girl next to her. She did not refuse to talk to people."
+        },
+        {
+          "id": "b",
+          "label": "She was nervous but took a friendly action and made a connection.",
+          "correct": true,
+          "explanation": "Pilar was nervous, but she smiled and introduced herself to a classmate. Her brave response led to a party invitation by the end of the day."
+        },
+        {
+          "id": "c",
+          "label": "She cried until a teacher helped her.",
+          "correct": false,
+          "explanation": "The story does not say Pilar cried or that a teacher had to help her. She took action herself."
+        },
+        {
+          "id": "d",
+          "label": "She called her old friends and asked them to visit.",
+          "correct": false,
+          "explanation": "The story does not say Pilar called her old friends at school. She focused on meeting someone new."
+        }
+      ],
+      "explanation_md": "Pilar was nervous but she smiled and introduced herself. Taking that friendly step led to a party invitation. Her response was to act bravely despite her nerves."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Pilar's family had to move to a new city. Pilar was sad to leave her friends. On her first day at the new school, she was nervous. But she smiled at the girl sitting next to her and asked her name. By the end of the day, she had been invited to a birthday party.\n\nWhat does Pilar's response to moving tell us about her **character**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She is shy and lets others lead.",
+          "correct": false,
+          "explanation": "Pilar took the first step by smiling and asking the other girl's name. She was the one who started the friendship."
+        },
+        {
+          "id": "b",
+          "label": "She is brave and friendly even when she feels nervous.",
+          "correct": true,
+          "explanation": "Pilar was nervous, but she still reached out to someone new. Her action despite nervousness shows she is brave and friendly."
+        },
+        {
+          "id": "c",
+          "label": "She does not miss her old friends at all.",
+          "correct": false,
+          "explanation": "The story says Pilar was sad to leave her friends. She missed them but still tried to make new ones."
+        },
+        {
+          "id": "d",
+          "label": "She is unkind to new people she meets.",
+          "correct": false,
+          "explanation": "Pilar smiled and asked the girl's name. That is a kind action."
+        }
+      ],
+      "explanation_md": "Even though Pilar felt sad and nervous, she reached out to a classmate. Taking a friendly action even when scared shows she is brave and kind."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> During a camping trip, the group's food supply was ruined by rain. Carlos wanted to turn back. Jade said they should find berries. Owen found a fishing pond nearby and suggested they fish for dinner. The group decided to try Owen's idea. They caught enough fish for everyone.\n\nCompare how **Carlos and Owen** responded to the same challenge. What does the difference show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Carlos was smarter, so his idea was better.",
+          "correct": false,
+          "explanation": "The story does not say Carlos is smarter. Owen's idea of fishing was the one that worked."
+        },
+        {
+          "id": "b",
+          "label": "Carlos gave up while Owen looked for a solution, showing that perseverance leads to better outcomes.",
+          "correct": true,
+          "explanation": "Carlos's response was to quit. Owen's response was to look around for a solution and find the pond. Owen's persistent approach led to the group eating well that night."
+        },
+        {
+          "id": "c",
+          "label": "Both Carlos and Owen had equally good ideas.",
+          "correct": false,
+          "explanation": "Carlos wanted to give up. Owen found a practical solution. Their ideas are not equally effective."
+        },
+        {
+          "id": "d",
+          "label": "Owen did not want to help; he just found the pond by accident.",
+          "correct": false,
+          "explanation": "Owen suggested using the pond to fish for dinner. He was actively problem-solving, not stumbling on a solution."
+        }
+      ],
+      "explanation_md": "Carlos responded by wanting to quit. Owen responded by exploring nearby options and finding the fishing pond. The contrast shows that perseverance and creative thinking lead to better outcomes than giving up."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> When the dog barked, the cat ran and hid under the bed.\n\nHow did the cat **respond** to the dog barking?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The cat barked back.",
+          "correct": false,
+          "explanation": "Cats do not bark. The sentence says the cat ran and hid."
+        },
+        {
+          "id": "b",
+          "label": "The cat ran and hid under the bed.",
+          "correct": true,
+          "explanation": "The sentence says the cat ran and hid under the bed. That is the cat's response to the dog barking."
+        },
+        {
+          "id": "c",
+          "label": "The cat sat still and ignored the dog.",
+          "correct": false,
+          "explanation": "The cat did not sit still. It ran and hid."
+        },
+        {
+          "id": "d",
+          "label": "The cat started to bark.",
+          "correct": false,
+          "explanation": "The sentence says the cat ran and hid, not that it barked."
+        }
+      ],
+      "explanation_md": "The sentence says the cat 'ran and hid under the bed' when the dog barked. That is how the cat responded."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> When it started to rain, the children grabbed their backpacks and ran inside.\n\nWhat was the **challenge** the children faced?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They had too much homework.",
+          "correct": false,
+          "explanation": "The sentence is about rain, not homework."
+        },
+        {
+          "id": "b",
+          "label": "It started to rain.",
+          "correct": true,
+          "explanation": "The challenge was the rain. The children responded by running inside."
+        },
+        {
+          "id": "c",
+          "label": "They lost their backpacks.",
+          "correct": false,
+          "explanation": "The children grabbed their backpacks. They did not lose them."
+        },
+        {
+          "id": "d",
+          "label": "They could not find the door.",
+          "correct": false,
+          "explanation": "The sentence does not say the children could not find the door. They ran inside."
+        }
+      ],
+      "explanation_md": "It started to rain. That is the challenge the children faced, and they responded by grabbing their things and going inside."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> At the talent show, Leo tripped when he walked on stage. Everyone gasped. But Leo stood up, dusted off his knees, smiled, and said, 'And that's just the warm-up!' The audience laughed and cheered.\n\nHow did Leo **respond** to tripping on stage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He cried and left the stage.",
+          "correct": false,
+          "explanation": "Leo did not cry or leave. He stood up and made a joke."
+        },
+        {
+          "id": "b",
+          "label": "He stayed calm and made a joke to lighten the mood.",
+          "correct": true,
+          "explanation": "Leo stood up, smiled, and turned the stumble into a funny moment. The audience laughed and cheered."
+        },
+        {
+          "id": "c",
+          "label": "He got angry at the audience.",
+          "correct": false,
+          "explanation": "Leo smiled at the audience and made them laugh. He was not angry."
+        },
+        {
+          "id": "d",
+          "label": "He pretended it never happened.",
+          "correct": false,
+          "explanation": "Leo acknowledged the fall with a funny joke rather than pretending it did not happen."
+        }
+      ],
+      "explanation_md": "Leo stood up, smiled, and made a joke. He stayed calm and turned the embarrassing moment into something funny. That is how he responded."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **major event or challenge** that a story character might need to respond to?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A character eats breakfast.",
+          "correct": false,
+          "explanation": "Eating breakfast is a routine action, not a major challenge. Characters face challenges that require a real response."
+        },
+        {
+          "id": "b",
+          "label": "A character's house burns down in a fire.",
+          "correct": true,
+          "explanation": "A house fire is a major, life-changing event. A character would need to respond to this in an important way."
+        },
+        {
+          "id": "c",
+          "label": "A character blinks her eyes.",
+          "correct": false,
+          "explanation": "Blinking is not a challenge or major event."
+        },
+        {
+          "id": "d",
+          "label": "A character ties his shoes.",
+          "correct": false,
+          "explanation": "Tying shoes is a small everyday action, not a major challenge or event."
+        }
+      ],
+      "explanation_md": "A house fire is a major event that would require a real, important response. The other choices are small everyday actions."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Jin found a baby bird that had fallen from its nest. He did not know what to do. He gently picked up the bird, put it in a shoebox with a soft cloth, and asked his mom to call a wildlife rescuer.\n\nWhat does Jin's response to finding the bird tell you about him?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He is careless and did not think about the bird.",
+          "correct": false,
+          "explanation": "Jin was careful with the bird and took steps to help it. He was not careless."
+        },
+        {
+          "id": "b",
+          "label": "He is kind and thoughtful when he faces a problem.",
+          "correct": true,
+          "explanation": "Jin gently handled the bird, made it comfortable, and got proper help. These actions show he is kind and thinks carefully about how to help."
+        },
+        {
+          "id": "c",
+          "label": "He was afraid of the bird and wanted to throw it away.",
+          "correct": false,
+          "explanation": "Jin gently picked up the bird and helped it. He was not afraid or unkind."
+        },
+        {
+          "id": "d",
+          "label": "He is too shy to ask for help.",
+          "correct": false,
+          "explanation": "Jin asked his mom to call for help. He had no trouble seeking help when he needed it."
+        }
+      ],
+      "explanation_md": "Jin carefully picked up the bird, made it comfortable, and got proper help. His gentle, thoughtful actions show he is kind and good at handling problems."
+    }
+  ]
+}
