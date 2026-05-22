@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.FL.PC.3",
+  "benchmark_description": "Know and apply grade-level phonics and word analysis skills: read words with consonant blends and digraphs, including three-letter blends (str-, spl-, spr-) and less common digraphs (ph, gh).",
+  "course": "ela",
+  "strand": "FL",
+  "lesson": {
+    "title": "Blends and Digraphs: Consonants Working Together",
+    "intro": "When two or three consonants stand next to each other in a word, they can work together in different ways. Sometimes you hear each sound separately \u2014 that is a blend. Sometimes the letters make a brand-new sound \u2014 that is a digraph. Let's learn the difference!",
+    "body_md": "## Consonant Blends\n\nIn a **blend**, you hear each consonant sound, but they are pushed together quickly.\n\n### Two-Letter Blends\n\n| Blend | Example |\n|-------|---------|\n| bl | *black* |\n| cl | *clap* |\n| fl | *flag* |\n| pl | *plan* |\n| sl | *slow* |\n| br | *bring* |\n| cr | *crab* |\n| dr | *drip* |\n| fr | *frog* |\n| gr | *grin* |\n| tr | *trip* |\n| sk | *skip* |\n| sm | *small* |\n| sn | *snap* |\n| sp | *spin* |\n| st | *stop* |\n| sw | *swim* |\n\n### Three-Letter Blends\n\nThree-letter blends have three consonant sounds all blended together.\n\n| Blend | Example |\n|-------|---------|\n| str- | *string*, *street*, *strong* |\n| spl- | *splash*, *split*, *splint* |\n| spr- | *spring*, *spray*, *spread* |\n| scr- | *scream*, *scratch*, *script* |\n| squ- | *squid*, *squish*, *squeak* |\n\n**Practice:** Say *str* \u2014 you hear /s/, /t/, /r/ all together.\n\n## Digraphs\n\nIn a **digraph**, two letters make ONE new sound \u2014 not the sound of either letter alone.\n\n### Common Digraphs\n\n| Digraph | Sound | Examples |\n|---------|-------|----------|\n| sh | /sh/ | *ship*, *fish*, *shell* |\n| ch | /ch/ | *chip*, *catch*, *chin* |\n| th | /th/ | *this*, *think*, *bath* |\n| wh | /hw/ | *when*, *whale*, *where* |\n| ph | /f/ | *phone*, *photo*, *graph* |\n| gh | /f/ or silent | *laugh* (/f/), *night* (silent) |\n\n### Less Common Digraphs: ph and gh\n\n**ph says /f/:**\n- *phone* = /fohn/\n- *photo* = /FOH-toh/\n- *elephant* = /EL-uh-funt/\n- *graph* = /graf/\n\n**gh says /f/ (at the end of some words):**\n- *laugh* = /laf/\n- *tough* = /tuf/\n- *rough* = /ruf/\n- *enough* = /ih-NUF/\n\n**gh is silent in other words:**\n- *night* = /nyt/ (gh is silent)\n- *light* = /lyt/ (gh is silent)\n- *right* = /ryt/ (gh is silent)\n\n## Blends vs. Digraphs \u2014 Quick Check\n\n- **Blend:** You hear ALL the letter sounds \u2192 *stop* = /s/ + /t/ + /o/ + /p/\n- **Digraph:** Two letters = ONE sound \u2192 *shop* = /sh/ + /o/ + /p/ (sh is one sound)",
+    "worked_example_md": "## Worked Example\n\n**Problem:** Read this word: *splash*. Identify the three-letter blend and any digraph.\n\n**Step 1 \u2014 Look at the beginning.**\nThe word starts with s-p-l. Say each sound: /s/ /p/ /l/.\nThose sounds blend together \u2014 *spl-* is a **three-letter blend**.\n\n**Step 2 \u2014 Look at the rest of the word.**\nAfter *spl* comes *ash*: /a/ /sh/.\n*sh* is a **digraph** \u2014 two letters making the one sound /sh/.\n\n**Step 3 \u2014 Blend it all together.**\n/spl/ + /a/ + /sh/ = *splash*\n\n**Answer:** *splash* starts with the three-letter blend *spl-* and ends with the digraph *sh*.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these words starts with a consonant blend?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "frog",
+          "correct": true,
+          "explanation": "Right! *frog* starts with the blend *fr-*, where you hear both /f/ and /r/."
+        },
+        {
+          "id": "b",
+          "label": "ship",
+          "correct": false,
+          "explanation": "*ship* starts with the digraph *sh*, which makes one sound /sh/ \u2014 that is not a blend."
+        },
+        {
+          "id": "c",
+          "label": "phone",
+          "correct": false,
+          "explanation": "*phone* starts with the digraph *ph*, which makes one sound /f/ \u2014 that is not a blend."
+        },
+        {
+          "id": "d",
+          "label": "that",
+          "correct": false,
+          "explanation": "*that* starts with the digraph *th*, which makes one sound \u2014 that is not a blend."
+        }
+      ],
+      "explanation_md": "*frog* starts with the blend *fr-*. You hear both /f/ and /r/ sounds."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What sound do the letters *ph* make in the word *phone*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/ like in fan",
+          "correct": true,
+          "explanation": "Right! The digraph *ph* makes the /f/ sound. *Phone* sounds like *fone*."
+        },
+        {
+          "id": "b",
+          "label": "/p/ like in pen",
+          "correct": false,
+          "explanation": "The *ph* digraph does NOT say /p/. It makes the /f/ sound, like in *fan*."
+        },
+        {
+          "id": "c",
+          "label": "/ph/ \u2014 both sounds together",
+          "correct": false,
+          "explanation": "*ph* is a digraph \u2014 the two letters make one sound (/f/), not two separate sounds."
+        },
+        {
+          "id": "d",
+          "label": "/h/ like in hat",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /h/. It makes the /f/ sound."
+        }
+      ],
+      "explanation_md": "The digraph *ph* makes the /f/ sound. *Phone* = /fohn/."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word starts with a three-letter blend?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "string",
+          "correct": true,
+          "explanation": "Right! *string* starts with the three-letter blend *str-*: /s/ /t/ /r/ all blended together."
+        },
+        {
+          "id": "b",
+          "label": "sing",
+          "correct": false,
+          "explanation": "*sing* starts with just *s*, a single consonant \u2014 not a blend."
+        },
+        {
+          "id": "c",
+          "label": "shop",
+          "correct": false,
+          "explanation": "*shop* starts with the digraph *sh*, which makes one sound \u2014 not a three-letter blend."
+        },
+        {
+          "id": "d",
+          "label": "trip",
+          "correct": false,
+          "explanation": "*trip* starts with the two-letter blend *tr-*, not a three-letter blend."
+        }
+      ],
+      "explanation_md": "*string* starts with the three-letter blend *str-*: /s/ /t/ /r/ blended together."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What sound does *gh* make in the word *laugh*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/ \u2014 laugh rhymes with staff",
+          "correct": true,
+          "explanation": "Correct! In *laugh*, the *gh* makes the /f/ sound. *Laugh* sounds like /laf/."
+        },
+        {
+          "id": "b",
+          "label": "/g/ \u2014 laugh rhymes with bag",
+          "correct": false,
+          "explanation": "The *gh* in *laugh* does NOT say /g/. It makes the /f/ sound."
+        },
+        {
+          "id": "c",
+          "label": "silent \u2014 the gh makes no sound",
+          "correct": false,
+          "explanation": "The *gh* is silent in words like *night* and *light*, but in *laugh* it says /f/."
+        },
+        {
+          "id": "d",
+          "label": "/h/ \u2014 laugh rhymes with half",
+          "correct": false,
+          "explanation": "Close, but the sound is /f/, not /h/. *Laugh* rhymes with *staff*, not *half*."
+        }
+      ],
+      "explanation_md": "In *laugh*, *gh* makes the /f/ sound. *Laugh* = /laf/."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In which word is *gh* SILENT?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "night",
+          "correct": true,
+          "explanation": "Right! In *night*, the *gh* is silent. It sounds like /nyt/."
+        },
+        {
+          "id": "b",
+          "label": "rough",
+          "correct": false,
+          "explanation": "In *rough*, the *gh* makes the /f/ sound (/ruf/). It is not silent there."
+        },
+        {
+          "id": "c",
+          "label": "tough",
+          "correct": false,
+          "explanation": "In *tough*, the *gh* makes the /f/ sound (/tuf/). It is not silent there."
+        },
+        {
+          "id": "d",
+          "label": "enough",
+          "correct": false,
+          "explanation": "In *enough*, the *gh* makes the /f/ sound (/ih-NUF/). It is not silent there."
+        }
+      ],
+      "explanation_md": "In *night*, *gh* is silent. The word sounds like /nyt/."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the difference between a blend and a digraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In a blend you hear each consonant sound; in a digraph two letters make one new sound.",
+          "correct": true,
+          "explanation": "Correct! In *stop* (blend), you hear /s/ and /t/. In *shop* (digraph), *sh* makes just one sound /sh/."
+        },
+        {
+          "id": "b",
+          "label": "A blend has two letters; a digraph has three letters.",
+          "correct": false,
+          "explanation": "Both blends and digraphs can have two or three letters. The difference is how they sound."
+        },
+        {
+          "id": "c",
+          "label": "In a digraph you hear each consonant sound; in a blend two letters make one sound.",
+          "correct": false,
+          "explanation": "This is backwards. In a BLEND you hear each sound. In a DIGRAPH two letters make one sound."
+        },
+        {
+          "id": "d",
+          "label": "Blends only appear at the end of words; digraphs only appear at the start.",
+          "correct": false,
+          "explanation": "Both blends and digraphs can appear at the start, middle, or end of words."
+        }
+      ],
+      "explanation_md": "In a blend, each consonant sound is heard. In a digraph, two letters make one single new sound."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word contains the three-letter blend *spr-*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "spring",
+          "correct": true,
+          "explanation": "Right! *spring* starts with the three-letter blend *spr-*: /s/ /p/ /r/ all together."
+        },
+        {
+          "id": "b",
+          "label": "sting",
+          "correct": false,
+          "explanation": "*sting* starts with the two-letter blend *st-*, not *spr-*."
+        },
+        {
+          "id": "c",
+          "label": "super",
+          "correct": false,
+          "explanation": "*super* starts with the single consonant *s*, not the blend *spr-*."
+        },
+        {
+          "id": "d",
+          "label": "sprint does not contain spr",
+          "correct": false,
+          "explanation": "Actually, *sprint* DOES contain *spr-*. But the question asks you to choose from the listed answers."
+        }
+      ],
+      "explanation_md": "*spring* starts with the three-letter blend *spr-*."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The word *elephant* contains the digraph *ph*. What sound does it make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/",
+          "correct": true,
+          "explanation": "Correct! *el-e-ph-ant* \u2014 the *ph* makes the /f/ sound: /EL-uh-funt/."
+        },
+        {
+          "id": "b",
+          "label": "/p/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /p/. It always makes the /f/ sound."
+        },
+        {
+          "id": "c",
+          "label": "/h/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /h/. It makes the /f/ sound."
+        },
+        {
+          "id": "d",
+          "label": "It is silent",
+          "correct": false,
+          "explanation": "The *ph* in *elephant* is not silent. It makes the /f/ sound."
+        }
+      ],
+      "explanation_md": "In *elephant*, *ph* makes the /f/ sound: /EL-uh-funt/."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Look at the word *scratch*. How many consonant sounds are at the BEGINNING before the vowel?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 \u2014 the blend scr-",
+          "correct": true,
+          "explanation": "Right! *scratch* starts with the three-letter blend *scr-*: /s/ /k/ /r/ \u2014 three consonant sounds."
+        },
+        {
+          "id": "b",
+          "label": "2 \u2014 the blend sc-",
+          "correct": false,
+          "explanation": "*sc-* is only 2 sounds, but there is also an *r*. *scratch* starts with *scr-*, a three-letter blend."
+        },
+        {
+          "id": "c",
+          "label": "4 \u2014 scra- are all consonants",
+          "correct": false,
+          "explanation": "The *a* in *scratch* is a vowel, not a consonant. The consonant blend before the vowel is *scr-* (3 sounds)."
+        },
+        {
+          "id": "d",
+          "label": "1 \u2014 only s",
+          "correct": false,
+          "explanation": "*scratch* begins with three consonant sounds: /s/ /k/ /r/ (the blend *scr-*), not just one."
+        }
+      ],
+      "explanation_md": "*scratch* begins with the three-letter blend *scr-*: three consonant sounds /s/ /k/ /r/ before the vowel."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has BOTH a three-letter blend AND a digraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "splash",
+          "correct": true,
+          "explanation": "Right! *splash* has the three-letter blend *spl-* AND the digraph *sh* at the end."
+        },
+        {
+          "id": "b",
+          "label": "string",
+          "correct": false,
+          "explanation": "*string* has the three-letter blend *str-* but no digraph."
+        },
+        {
+          "id": "c",
+          "label": "ship",
+          "correct": false,
+          "explanation": "*ship* has the digraph *sh* but no three-letter blend."
+        },
+        {
+          "id": "d",
+          "label": "trip",
+          "correct": false,
+          "explanation": "*trip* has the two-letter blend *tr-* but no digraph and no three-letter blend."
+        }
+      ],
+      "explanation_md": "*splash* has both: the three-letter blend *spl-* and the digraph *sh* at the end."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How do you read the word *photo*? What does the *ph* say?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/FOH-toh/ \u2014 ph says /f/",
+          "correct": true,
+          "explanation": "Correct! *ph* makes the /f/ sound, so *photo* = /FOH-toh/."
+        },
+        {
+          "id": "b",
+          "label": "/POH-toh/ \u2014 ph says /p/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /p/. It makes the /f/ sound."
+        },
+        {
+          "id": "c",
+          "label": "/HOH-toh/ \u2014 ph says /h/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /h/. It makes the /f/ sound."
+        },
+        {
+          "id": "d",
+          "label": "/OH-toh/ \u2014 the ph is silent",
+          "correct": false,
+          "explanation": "The *ph* in *photo* is not silent. It makes the /f/ sound."
+        }
+      ],
+      "explanation_md": "*ph* makes the /f/ sound. *Photo* = /FOH-toh/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Identify the blend in *spray*. How many consonant sounds are in it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "spr- \u2014 three consonant sounds (/s/ /p/ /r/)",
+          "correct": true,
+          "explanation": "Right! *spray* starts with the three-letter blend *spr-*, which has three consonant sounds: /s/ /p/ /r/."
+        },
+        {
+          "id": "b",
+          "label": "sp- \u2014 two consonant sounds (/s/ /p/)",
+          "correct": false,
+          "explanation": "The blend is *spr-*, not just *sp-*. There is also an /r/ sound, making three consonant sounds."
+        },
+        {
+          "id": "c",
+          "label": "pr- \u2014 two consonant sounds (/p/ /r/)",
+          "correct": false,
+          "explanation": "The *s* at the start is also part of the blend. The full three-letter blend is *spr-*."
+        },
+        {
+          "id": "d",
+          "label": "No blend \u2014 spray starts with just s",
+          "correct": false,
+          "explanation": "*spray* starts with the three-letter blend *spr-*, not a single consonant."
+        }
+      ],
+      "explanation_md": "*spray* starts with the three-letter blend *spr-*: three consonant sounds /s/ /p/ /r/."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the word *enough*. What sound does *gh* make here?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/ \u2014 enough rhymes with stuff",
+          "correct": true,
+          "explanation": "Correct! In *enough*, *gh* makes the /f/ sound. *Enough* = /ih-NUF/ and rhymes with *stuff*."
+        },
+        {
+          "id": "b",
+          "label": "Silent \u2014 enough sounds like e-noo",
+          "correct": false,
+          "explanation": "The *gh* in *enough* is not silent. It makes the /f/ sound: /ih-NUF/."
+        },
+        {
+          "id": "c",
+          "label": "/g/ \u2014 enough rhymes with egg",
+          "correct": false,
+          "explanation": "The *gh* in *enough* does NOT say /g/. It makes the /f/ sound."
+        },
+        {
+          "id": "d",
+          "label": "/h/ \u2014 enough rhymes with huff",
+          "correct": false,
+          "explanation": "Interestingly, it DOES rhyme with *huff*, but the sound is /f/, not /h/. *Enough* = /ih-NUF/."
+        }
+      ],
+      "explanation_md": "In *enough*, *gh* makes the /f/ sound: /ih-NUF/."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word starts with a blend where you hear TWO consonant sounds?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "flag",
+          "correct": true,
+          "explanation": "Right! *flag* starts with the blend *fl-*. You hear both /f/ and /l/."
+        },
+        {
+          "id": "b",
+          "label": "shop",
+          "correct": false,
+          "explanation": "*shop* starts with *sh*, a digraph that makes ONE sound /sh/ \u2014 not two separate sounds."
+        },
+        {
+          "id": "c",
+          "label": "chip",
+          "correct": false,
+          "explanation": "*chip* starts with *ch*, a digraph that makes ONE sound /ch/ \u2014 not two separate sounds."
+        },
+        {
+          "id": "d",
+          "label": "then",
+          "correct": false,
+          "explanation": "*then* starts with *th*, a digraph that makes ONE sound /th/ \u2014 not two separate sounds."
+        }
+      ],
+      "explanation_md": "*flag* starts with the blend *fl-*, where you hear both /f/ and /l/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What sound do *sh* letters make together?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/sh/ as in ship",
+          "correct": true,
+          "explanation": "Right! *sh* together makes the /sh/ sound, like in *ship*, *fish*, and *shell*."
+        },
+        {
+          "id": "b",
+          "label": "/s/ and /h/ separately",
+          "correct": false,
+          "explanation": "*sh* is a digraph \u2014 the two letters make ONE new sound /sh/, not two separate sounds."
+        },
+        {
+          "id": "c",
+          "label": "/ch/ as in chip",
+          "correct": false,
+          "explanation": "*ch* makes the /ch/ sound. *Sh* makes the /sh/ sound \u2014 they are different."
+        },
+        {
+          "id": "d",
+          "label": "/th/ as in think",
+          "correct": false,
+          "explanation": "*th* makes the /th/ sound. *Sh* makes the /sh/ sound \u2014 they are different."
+        }
+      ],
+      "explanation_md": "The digraph *sh* makes the /sh/ sound, as in *ship* and *fish*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word starts with the three-letter blend *str-*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "street",
+          "correct": true,
+          "explanation": "Right! *street* starts with the three-letter blend *str-*: /s/ /t/ /r/."
+        },
+        {
+          "id": "b",
+          "label": "sweet",
+          "correct": false,
+          "explanation": "*sweet* starts with the two-letter blend *sw-*, not *str-*."
+        },
+        {
+          "id": "c",
+          "label": "sheet",
+          "correct": false,
+          "explanation": "*sheet* starts with the digraph *sh*, not the blend *str-*."
+        },
+        {
+          "id": "d",
+          "label": "sleet",
+          "correct": false,
+          "explanation": "*sleet* starts with the two-letter blend *sl-*, not *str-*."
+        }
+      ],
+      "explanation_md": "*street* starts with the three-letter blend *str-*: /s/ /t/ /r/."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the word *graph*, what sound does *ph* make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/",
+          "correct": true,
+          "explanation": "Right! The digraph *ph* makes the /f/ sound. *graph* = /graf/."
+        },
+        {
+          "id": "b",
+          "label": "/p/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /p/. It makes the /f/ sound."
+        },
+        {
+          "id": "c",
+          "label": "Silent",
+          "correct": false,
+          "explanation": "The *ph* in *graph* is not silent. It makes the /f/ sound: /graf/."
+        },
+        {
+          "id": "d",
+          "label": "/g/",
+          "correct": false,
+          "explanation": "The *ph* digraph does not say /g/. It makes the /f/ sound."
+        }
+      ],
+      "explanation_md": "In *graph*, *ph* makes the /f/ sound: /graf/."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has the blend *spl-* at the beginning?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "split",
+          "correct": true,
+          "explanation": "Right! *split* starts with the three-letter blend *spl-*: /s/ /p/ /l/."
+        },
+        {
+          "id": "b",
+          "label": "spill",
+          "correct": false,
+          "explanation": "*spill* starts with *sp-*, a two-letter blend, not *spl-*."
+        },
+        {
+          "id": "c",
+          "label": "pill",
+          "correct": false,
+          "explanation": "*pill* starts with just *p*, a single consonant, not a blend."
+        },
+        {
+          "id": "d",
+          "label": "still",
+          "correct": false,
+          "explanation": "*still* starts with the two-letter blend *st-*, not *spl-*."
+        }
+      ],
+      "explanation_md": "*split* starts with the three-letter blend *spl-*: /s/ /p/ /l/."
+    }
+  ]
+}
