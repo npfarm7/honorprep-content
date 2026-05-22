@@ -1,0 +1,640 @@
+{
+  "skill_id": "2.L.VAU.5",
+  "benchmark_description": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings: identify real-life connections between words and their use; distinguish shades of meaning among related words.",
+  "course": "ela",
+  "strand": "L",
+  "lesson": {
+    "title": "Figurative Language and Shades of Meaning",
+    "objective": "Students will identify figurative language, make real-life connections between words and their use, and distinguish shades of meaning among related words.",
+    "overview": "Words can be used in both literal and figurative ways. Figurative language uses words in imaginative ways that are not literally true. Some words have similar meanings but different strengths or feelings -- these are called shades of meaning. Understanding both helps us read and write more precisely.",
+    "key_concepts": [
+      "Simile: a comparison using 'like' or 'as' (Her smile was like sunshine.)",
+      "Metaphor: a comparison that says one thing IS another without using like or as (He is a rocket on the field.)",
+      "Idiom: a phrase whose meaning is different from the literal words (It's raining cats and dogs.)",
+      "Shades of meaning: words with similar meanings but different strengths or feelings (happy vs. thrilled vs. ecstatic)",
+      "Real-life connection: connecting a word to how it is used in the real world (What would you call someone who is very brave? Courageous.)"
+    ],
+    "examples": [
+      {
+        "label": "Simile",
+        "text": "Her voice was as sweet as honey."
+      },
+      {
+        "label": "Metaphor",
+        "text": "The classroom was a zoo during free time."
+      },
+      {
+        "label": "Idiom",
+        "text": "Break a leg! (means good luck, not literally break a leg)"
+      },
+      {
+        "label": "Shades of meaning",
+        "text": "warm -> hot -> scorching (all relate to temperature but get more intense)"
+      },
+      {
+        "label": "Real-life connection",
+        "text": "'Starving' -- when might you use this word? When you have not eaten all day and are very hungry."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence contains a **simile**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The moon glowed in the sky.",
+          "correct": false,
+          "explanation": "This describes the moon literally -- no comparison using like or as."
+        },
+        {
+          "id": "B",
+          "label": "The moon was a bright lantern.",
+          "correct": false,
+          "explanation": "This is a metaphor (says the moon IS a lantern) -- not a simile."
+        },
+        {
+          "id": "C",
+          "label": "The moon shone like a silver coin.",
+          "correct": true,
+          "explanation": "This is a simile -- it compares the moon to a silver coin using the word 'like.'"
+        },
+        {
+          "id": "D",
+          "label": "The moon set at midnight.",
+          "correct": false,
+          "explanation": "This is a literal statement -- no comparison."
+        }
+      ],
+      "explanation_md": "A **simile** compares two things using *like* or *as*: 'The moon shone *like* a silver coin.' Look for the words like or as."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the idiom **'it's raining cats and dogs'** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Cats and dogs are falling from the sky.",
+          "correct": false,
+          "explanation": "This is the literal meaning -- idioms do not mean what the words literally say."
+        },
+        {
+          "id": "B",
+          "label": "It is raining very hard.",
+          "correct": true,
+          "explanation": "This is a common idiom meaning heavy rain -- no cats or dogs are actually involved."
+        },
+        {
+          "id": "C",
+          "label": "The weather is perfect for pets.",
+          "correct": false,
+          "explanation": "The idiom has nothing to do with pets -- it means heavy rain."
+        },
+        {
+          "id": "D",
+          "label": "It is a little drizzly.",
+          "correct": false,
+          "explanation": "The idiom means heavy rain, not a light drizzle."
+        }
+      ],
+      "explanation_md": "An **idiom** is a phrase whose meaning is different from the literal words. 'Raining cats and dogs' is a common idiom meaning heavy rain."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence contains a **metaphor**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Her laugh was like music.",
+          "correct": false,
+          "explanation": "This uses 'like' -- it is a simile, not a metaphor."
+        },
+        {
+          "id": "B",
+          "label": "Her laugh was music to my ears.",
+          "correct": true,
+          "explanation": "This is a metaphor -- it says her laugh WAS music (not like music), comparing the two without using like or as."
+        },
+        {
+          "id": "C",
+          "label": "She laughed loudly.",
+          "correct": false,
+          "explanation": "This is a literal description -- no figurative comparison."
+        },
+        {
+          "id": "D",
+          "label": "She laughed as beautifully as a songbird.",
+          "correct": false,
+          "explanation": "This uses 'as' -- it is a simile, not a metaphor."
+        }
+      ],
+      "explanation_md": "A **metaphor** says one thing IS another without using like or as: 'Her laugh *was* music.' A simile would say 'Her laugh was *like* music.'"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has the STRONGEST meaning in this group?\n\n*warm, hot, scorching*",
+      "choices": [
+        {
+          "id": "A",
+          "label": "warm",
+          "correct": false,
+          "explanation": "Warm is the least intense of the three -- it is mildly heated."
+        },
+        {
+          "id": "B",
+          "label": "hot",
+          "correct": false,
+          "explanation": "Hot is more intense than warm, but less intense than scorching."
+        },
+        {
+          "id": "C",
+          "label": "scorching",
+          "correct": true,
+          "explanation": "Scorching is the most intense -- it means extremely hot, even burning."
+        },
+        {
+          "id": "D",
+          "label": "They are all the same.",
+          "correct": false,
+          "explanation": "These words have different strengths (shades of meaning) -- they are not the same."
+        }
+      ],
+      "explanation_md": "**Shades of meaning** describe how words with similar meanings differ in strength or intensity: *warm* (a little hot) < *hot* (very warm) < *scorching* (extremely hot)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'The athlete sprinted across the finish line.'*\n\nWhich word means NEARLY the same as **sprinted** but with the least intensity?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "dashed",
+          "correct": false,
+          "explanation": "Dashed means to run quickly -- similar to sprinted in intensity."
+        },
+        {
+          "id": "B",
+          "label": "jogged",
+          "correct": true,
+          "explanation": "Jogged means to run at a slow, easy pace -- the least intense of the running words."
+        },
+        {
+          "id": "C",
+          "label": "bolted",
+          "correct": false,
+          "explanation": "Bolted means to run very fast -- similar intensity to sprinted."
+        },
+        {
+          "id": "D",
+          "label": "raced",
+          "correct": false,
+          "explanation": "Raced suggests competition and speed -- close to sprinted in intensity."
+        }
+      ],
+      "explanation_md": "Running words from least to most intense: *jogged* < *ran* < *dashed* < *bolted/sprinted/raced*. **Jogged** is the least intense -- a slow, easy run."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the idiom **'lend me a hand'** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Give me your actual hand.",
+          "correct": false,
+          "explanation": "Lend me a hand is an idiom -- it does not mean literally giving your hand."
+        },
+        {
+          "id": "B",
+          "label": "Help me with something.",
+          "correct": true,
+          "explanation": "Lend me a hand is a common idiom meaning to help someone."
+        },
+        {
+          "id": "C",
+          "label": "Borrow something of mine.",
+          "correct": false,
+          "explanation": "This has it backwards -- lend a hand means to help, not to borrow."
+        },
+        {
+          "id": "D",
+          "label": "Tell me about hands.",
+          "correct": false,
+          "explanation": "The idiom is about helping, not about hands or talking."
+        }
+      ],
+      "explanation_md": "**Idioms** have meanings different from their literal words: 'Lend me a hand' = help me. 'Break a leg' = good luck. 'Hit the sack' = go to sleep."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses a **simile** to describe a feeling?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She was a bundle of nerves.",
+          "correct": false,
+          "explanation": "This is a metaphor (she WAS a bundle of nerves), not a simile."
+        },
+        {
+          "id": "B",
+          "label": "She felt as nervous as a mouse near a cat.",
+          "correct": true,
+          "explanation": "This uses 'as...as' to compare her nervousness to a mouse near a cat -- a simile."
+        },
+        {
+          "id": "C",
+          "label": "She was nervous.",
+          "correct": false,
+          "explanation": "This is a literal statement -- no comparison."
+        },
+        {
+          "id": "D",
+          "label": "Her hands shook.",
+          "correct": false,
+          "explanation": "This describes a physical reaction -- no figurative comparison."
+        }
+      ],
+      "explanation_md": "Similes use **like** or **as**: 'She felt *as* nervous *as* a mouse near a cat.' The fear of a mouse near a cat helps the reader feel just how nervous she was."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which set of words shows **shades of meaning** from least to most intense?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "furious, angry, annoyed",
+          "correct": false,
+          "explanation": "This order goes from most to least intense -- it is reversed."
+        },
+        {
+          "id": "B",
+          "label": "annoyed, angry, furious",
+          "correct": true,
+          "explanation": "Annoyed (mildly upset) < angry (clearly upset) < furious (extremely upset) -- correct order from least to most intense."
+        },
+        {
+          "id": "C",
+          "label": "angry, furious, annoyed",
+          "correct": false,
+          "explanation": "This is not ordered from least to most intense."
+        },
+        {
+          "id": "D",
+          "label": "They all mean the same thing.",
+          "correct": false,
+          "explanation": "These words have different strengths -- they are not the same."
+        }
+      ],
+      "explanation_md": "**Shades of meaning** for upset: *annoyed* (a little bothered) < *angry* (clearly upset) < *furious* (extremely angry). Words have different levels of intensity."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'My backpack weighed a ton after I loaded in all my books.'*\n\nWhat figurative device is used, and what does it mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Simile -- the backpack weighed the same as a ton.",
+          "correct": false,
+          "explanation": "A simile uses like or as. There is no like or as here."
+        },
+        {
+          "id": "B",
+          "label": "Idiom -- the speaker lost a ton of something.",
+          "correct": false,
+          "explanation": "This is not a common idiom about losing things."
+        },
+        {
+          "id": "C",
+          "label": "Metaphor (hyperbole) -- the backpack felt extremely heavy.",
+          "correct": true,
+          "explanation": "Saying the backpack 'weighed a ton' is an exaggerated metaphor (hyperbole) meaning it felt very heavy -- not literally a ton."
+        },
+        {
+          "id": "D",
+          "label": "Literal statement -- the backpack actually weighed 2,000 pounds.",
+          "correct": false,
+          "explanation": "No backpack literally weighs 2,000 pounds -- this is figurative language for emphasis."
+        }
+      ],
+      "explanation_md": "**Hyperbole** is extreme exaggeration used for effect: 'weighed a ton' means extremely heavy -- not a literal measurement. It is a type of figurative language like a metaphor."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which word would you use if someone did something very brave -- more than just brave?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "timid",
+          "correct": false,
+          "explanation": "Timid means shy and easily frightened -- the opposite of brave."
+        },
+        {
+          "id": "B",
+          "label": "bold",
+          "correct": false,
+          "explanation": "Bold means brave and confident -- but there is a stronger word in the list."
+        },
+        {
+          "id": "C",
+          "label": "courageous",
+          "correct": true,
+          "explanation": "Courageous suggests a high level of bravery, even in the face of danger or fear -- stronger than just bold."
+        },
+        {
+          "id": "D",
+          "label": "careful",
+          "correct": false,
+          "explanation": "Careful relates to caution, not bravery."
+        }
+      ],
+      "explanation_md": "**Shades of meaning** for brave: *confident* < *bold* < *courageous* < *heroic*. *Courageous* implies bravery in the face of real fear or danger -- a strong word."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence contains a **simile**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The snow was a white blanket on the ground.",
+          "correct": false,
+          "explanation": "Snow WAS a blanket -- this is a metaphor, not a simile."
+        },
+        {
+          "id": "B",
+          "label": "The snow fell softly.",
+          "correct": false,
+          "explanation": "Literal description -- no figurative comparison."
+        },
+        {
+          "id": "C",
+          "label": "The snow sparkled like a million tiny diamonds.",
+          "correct": true,
+          "explanation": "Uses 'like' to compare snow to diamonds -- a simile."
+        },
+        {
+          "id": "D",
+          "label": "The snow covered the yard.",
+          "correct": false,
+          "explanation": "Literal description -- no figurative comparison."
+        }
+      ],
+      "explanation_md": "A **simile** uses *like* or *as* to make a comparison: 'The snow sparkled *like* a million tiny diamonds.'"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means the LEAST when describing how cold it is?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "frigid",
+          "correct": false,
+          "explanation": "Frigid means extremely cold -- the most intense word in the group."
+        },
+        {
+          "id": "B",
+          "label": "chilly",
+          "correct": true,
+          "explanation": "Chilly means a little cold -- the least intense of the cold words."
+        },
+        {
+          "id": "C",
+          "label": "freezing",
+          "correct": false,
+          "explanation": "Freezing is more intense than chilly -- at or below the freezing point."
+        },
+        {
+          "id": "D",
+          "label": "icy",
+          "correct": false,
+          "explanation": "Icy suggests extreme cold and ice formation -- more intense than chilly."
+        }
+      ],
+      "explanation_md": "Cold-word shades of meaning: *chilly* (a little cold) < *cold* < *freezing* < *icy* < *frigid* (extremely cold)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'After the big game, my feet were killing me.'*\n\nWhat does this idiom mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Her feet are dangerous.",
+          "correct": false,
+          "explanation": "Idioms do not mean what the words literally say."
+        },
+        {
+          "id": "B",
+          "label": "Her feet hurt very much.",
+          "correct": true,
+          "explanation": "'My feet are killing me' is an idiom meaning my feet hurt a lot -- a common expression of pain."
+        },
+        {
+          "id": "C",
+          "label": "She broke her foot in the game.",
+          "correct": false,
+          "explanation": "The idiom means pain, not an actual injury like a broken foot."
+        },
+        {
+          "id": "D",
+          "label": "Her feet fell asleep.",
+          "correct": false,
+          "explanation": "Feet falling asleep (tingling) is a separate expression -- 'killing me' means hurting badly."
+        }
+      ],
+      "explanation_md": "**Idioms** mean something different from their literal words. 'My feet are killing me' = my feet hurt a lot. 'Break a leg' = good luck. 'Hit the sack' = go to sleep."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence has a **simile**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The star was bright.",
+          "correct": false,
+          "explanation": "Literal description -- no comparison."
+        },
+        {
+          "id": "B",
+          "label": "The star shone like a tiny flashlight.",
+          "correct": true,
+          "explanation": "Uses 'like' to compare the star to a flashlight -- a simile."
+        },
+        {
+          "id": "C",
+          "label": "The star was a tiny flashlight.",
+          "correct": false,
+          "explanation": "The star WAS a flashlight -- this is a metaphor, not a simile."
+        },
+        {
+          "id": "D",
+          "label": "The star appeared at night.",
+          "correct": false,
+          "explanation": "Literal statement -- no figurative comparison."
+        }
+      ],
+      "explanation_md": "A **simile** uses *like* or *as* to compare two things. 'The star shone *like* a tiny flashlight' is a simile."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the idiom **'piece of cake'** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A slice of chocolate cake",
+          "correct": false,
+          "explanation": "Idioms do not mean what the words literally say -- no cake is involved."
+        },
+        {
+          "id": "B",
+          "label": "Something very easy",
+          "correct": true,
+          "explanation": "'Piece of cake' is an idiom that means something is very easy to do."
+        },
+        {
+          "id": "C",
+          "label": "Something very hard",
+          "correct": false,
+          "explanation": "This is the opposite -- 'piece of cake' means easy, not hard."
+        },
+        {
+          "id": "D",
+          "label": "A dessert after dinner",
+          "correct": false,
+          "explanation": "The idiom has nothing to do with eating -- it means something is easy."
+        }
+      ],
+      "explanation_md": "**Idioms** have meanings different from their literal words. 'Piece of cake' = easy. 'Break a leg' = good luck. 'Lend a hand' = help."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is STRONGER than 'happy'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "okay",
+          "correct": false,
+          "explanation": "Okay is less positive than happy -- a weaker feeling."
+        },
+        {
+          "id": "B",
+          "label": "fine",
+          "correct": false,
+          "explanation": "Fine is less positive than happy -- a weaker feeling."
+        },
+        {
+          "id": "C",
+          "label": "overjoyed",
+          "correct": true,
+          "explanation": "Overjoyed means extremely happy -- much stronger than just happy."
+        },
+        {
+          "id": "D",
+          "label": "content",
+          "correct": false,
+          "explanation": "Content means calmly satisfied -- a milder feeling than happy."
+        }
+      ],
+      "explanation_md": "**Shades of meaning**: *okay* < *content* < *happy* < *overjoyed* < *ecstatic*. *Overjoyed* is much stronger than happy."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence contains a **metaphor**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The classroom was noisy.",
+          "correct": false,
+          "explanation": "Literal statement -- no figurative comparison."
+        },
+        {
+          "id": "B",
+          "label": "The classroom was as noisy as a zoo.",
+          "correct": false,
+          "explanation": "Uses 'as' -- this is a simile, not a metaphor."
+        },
+        {
+          "id": "C",
+          "label": "The classroom was a zoo.",
+          "correct": true,
+          "explanation": "Says the classroom WAS a zoo -- a metaphor comparing the noisy class to a zoo without using like or as."
+        },
+        {
+          "id": "D",
+          "label": "There were twenty kids in the classroom.",
+          "correct": false,
+          "explanation": "Literal statement -- no figurative comparison."
+        }
+      ],
+      "explanation_md": "A **metaphor** says one thing IS another: 'The classroom *was* a zoo.' It does NOT use like or as (that would make it a simile)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In real life, when would you use the word **starving**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "When you just ate a big meal",
+          "correct": false,
+          "explanation": "After a big meal you would be full -- not starving."
+        },
+        {
+          "id": "B",
+          "label": "When you have not eaten in many hours and are very hungry",
+          "correct": true,
+          "explanation": "Starving describes extreme hunger -- used when you have not eaten for a long time."
+        },
+        {
+          "id": "C",
+          "label": "When you are a little thirsty",
+          "correct": false,
+          "explanation": "Starving is about extreme hunger, not thirst."
+        },
+        {
+          "id": "D",
+          "label": "When you just had a snack",
+          "correct": false,
+          "explanation": "After a snack you are not starving -- starving means extreme hunger."
+        }
+      ],
+      "explanation_md": "Making **real-life connections** to words helps you understand when to use them. *Starving* = extreme hunger -- use it when you have not eaten for a long time."
+    }
+  ]
+}
