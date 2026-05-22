@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.22",
+  "benchmark_description": "Explain how Tennessee communities are connected to the larger United States and the world through trade, communication, and shared events, and describe how goods and ideas move between communities.",
+  "course": "social_studies",
+  "strand": "ECO",
+  "lesson": {
+    "title": "Tennessee's Connections to the Nation and World",
+    "intro": "Tennessee communities do not exist alone. Every day, people in Tennessee are connected to communities across the United States and around the world. We buy products made in other places, share news instantly, and are affected by events happening far away. These connections make our community part of a larger world.",
+    "body_md": "## How Communities Are Connected\n\nCommunities are connected in three main ways:\n\n1. **Trade** \u2014 buying and selling goods between communities\n2. **Communication** \u2014 sharing information, news, and ideas\n3. **Shared events** \u2014 events in one place that affect other places\n\n## Trade: Goods Moving Between Communities\n\n**Trade** is the exchange of goods and services between people, communities, or countries. Tennessee both sends goods OUT and brings goods IN.\n\n### Tennessee Goods Going Out (Exports)\n\nTennessee produces goods that people in other states and countries want:\n\n| Tennessee Product | Who Uses It |\n|---|---|\n| Cars and car parts (Volkswagen, Nissan, GM plants) | People across the U.S. and world |\n| Music and entertainment | Fans everywhere |\n| Cotton and soybeans | Food companies worldwide |\n| Whiskey and bourbon | Customers in many countries |\n| Healthcare products (medical devices) | Hospitals globally |\n\n### Goods Coming Into Tennessee (Imports)\n\nTennessee also brings in goods made elsewhere:\n- Electronics and phones from Asia\n- Tropical fruits like bananas and mangoes from Central America\n- Coffee from South America and Africa\n- Clothing made in different countries\n\n## Communication: Ideas Moving Between Communities\n\nIdeas and information travel between communities through:\n\n- **Television and radio**: News from across the country reaches Tennessee homes.\n- **Internet and social media**: Tennessee residents connect with people worldwide instantly.\n- **Mail and shipping**: Letters and packages arrive from far away.\n- **Books and newspapers**: Ideas from other communities spread through reading.\n\nBecause of fast communication, Tennessee communities know about events happening in other states or countries almost immediately.\n\n## Shared Events: When One Place Affects Another\n\nSometimes, events in one community affect communities far away:\n\n- A **hurricane** hitting the Gulf Coast can affect Tennessee through flooding (as rain moves inland) and price increases for seafood.\n- A **drought** in California can raise the price of fruits and vegetables in Tennessee grocery stores.\n- A **new invention** (like the internet or the car) created in one place changes life everywhere.\n- A **national event** like a presidential election affects people in every Tennessee community.\n\n## Tennessee's Place in the Nation and World\n\nTennessee sits in the center of the eastern United States, making it an important crossroads for:\n- **Transportation**: Major highways (I-40, I-75, I-81) and the Tennessee River carry goods across the region.\n- **Music**: Nashville's music industry connects Tennessee artists with fans worldwide.\n- **Education and healthcare**: Universities and hospitals in Tennessee serve people from many states.\n\nBecause of these connections, what happens in Tennessee affects other places \u2014 and what happens in the world affects Tennessee.",
+    "worked_example_md": "**Question:** A storm destroys many orange groves in Florida. How might this event affect people in a Tennessee community?\n\n**Think it through:**\n- Orange juice is made from Florida oranges.\n- If the storm destroys orange groves, fewer oranges can be harvested.\n- With fewer oranges available, orange juice becomes more expensive.\n- Tennessee grocery stores raise their prices because the supply is lower.\n- Tennessee families pay more for orange juice.\n\n**Answer:** A storm in Florida can affect Tennessee communities by causing the **price of orange juice to rise** in Tennessee grocery stores. This shows how communities across the country are connected through trade.",
+    "estimated_minutes": 11
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is trade?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The buying and selling of goods between communities",
+          "correct": true,
+          "explanation": "Trade is the exchange of goods and services between people and places."
+        },
+        {
+          "id": "b",
+          "label": "A type of national holiday",
+          "correct": false,
+          "explanation": "Trade is not a holiday \u2014 it is an economic activity."
+        },
+        {
+          "id": "c",
+          "label": "A rule that communities must follow",
+          "correct": false,
+          "explanation": "Trade is economic activity, not a rule or law."
+        },
+        {
+          "id": "d",
+          "label": "The study of how communities were founded",
+          "correct": false,
+          "explanation": "That describes history, not trade."
+        }
+      ],
+      "explanation_md": "**Trade** is the **buying and selling of goods and services** between communities, states, or countries."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a product that Tennessee exports (sends out) to other places?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tropical fruits like mangoes",
+          "correct": false,
+          "explanation": "Tropical fruits are imported into Tennessee, not exported from it."
+        },
+        {
+          "id": "b",
+          "label": "Cars built in Tennessee factories",
+          "correct": true,
+          "explanation": "Tennessee has major car factories that export vehicles to the U.S. and world."
+        },
+        {
+          "id": "c",
+          "label": "Coffee from South America",
+          "correct": false,
+          "explanation": "Coffee grows in tropical regions, not Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "Electronics from Asia",
+          "correct": false,
+          "explanation": "Electronics from Asia are imported into Tennessee, not exported from it."
+        }
+      ],
+      "explanation_md": "**Cars built in Tennessee factories** (like Volkswagen, Nissan, and GM plants) are a major Tennessee export sent to buyers across the U.S. and world."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How do people in Tennessee learn about events happening in other states?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They must travel to the other state to find out.",
+          "correct": false,
+          "explanation": "People can learn about other places without traveling there."
+        },
+        {
+          "id": "b",
+          "label": "Through television, internet, and other forms of communication",
+          "correct": true,
+          "explanation": "Communication tools let people share information instantly across distances."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee communities are not connected to other states.",
+          "correct": false,
+          "explanation": "Tennessee communities are connected to other states through many kinds of communication."
+        },
+        {
+          "id": "d",
+          "label": "Only through newspapers delivered by horse messenger",
+          "correct": false,
+          "explanation": "People today use many modern forms of communication, not horse messengers."
+        }
+      ],
+      "explanation_md": "People in Tennessee learn about other states through **television, internet, radio, and other communication tools** that share information instantly."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A banana bought at a Tennessee grocery store was grown in Central America. What does this show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee and Central America are not connected.",
+          "correct": false,
+          "explanation": "The banana proves a connection between these places through trade."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee communities are connected to other parts of the world through trade.",
+          "correct": true,
+          "explanation": "Imported bananas show how trade links Tennessee to distant communities."
+        },
+        {
+          "id": "c",
+          "label": "Bananas are grown in Tennessee.",
+          "correct": false,
+          "explanation": "Tennessee's climate is not suited for growing bananas."
+        },
+        {
+          "id": "d",
+          "label": "Only Tennessee buys products from Central America.",
+          "correct": false,
+          "explanation": "Many places in the U.S. and world import products from Central America."
+        }
+      ],
+      "explanation_md": "A banana from Central America shows that **Tennessee is connected to other parts of the world through trade** \u2014 goods travel long distances to reach consumers."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these shows how Tennessee is connected to the world through communication?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee farmers grow soybeans.",
+          "correct": false,
+          "explanation": "Growing soybeans is trade/agriculture, not communication."
+        },
+        {
+          "id": "b",
+          "label": "A Nashville musician posts a new song online and fans in Japan listen to it.",
+          "correct": true,
+          "explanation": "The internet connects Tennessee musicians with fans worldwide."
+        },
+        {
+          "id": "c",
+          "label": "A family in Tennessee cooks a traditional recipe.",
+          "correct": false,
+          "explanation": "Cooking a recipe is a family tradition, not global communication."
+        },
+        {
+          "id": "d",
+          "label": "A Tennessee school teaches children to read.",
+          "correct": false,
+          "explanation": "Teaching reading is education, not specifically a global communication connection."
+        }
+      ],
+      "explanation_md": "A Nashville musician sharing music online that fans in Japan listen to shows how **communication connects Tennessee to the world** \u2014 ideas and art travel globally."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A drought in California destroys many crops. How might this affect Tennessee families?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee families would grow their own California crops.",
+          "correct": false,
+          "explanation": "California crops don't grow in Tennessee's climate."
+        },
+        {
+          "id": "b",
+          "label": "Fruits and vegetables from California would cost more at Tennessee stores.",
+          "correct": true,
+          "explanation": "When supply drops, prices rise \u2014 California's drought raises prices nationwide."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee families would not notice any change.",
+          "correct": false,
+          "explanation": "Trade connections mean events in other places affect Tennessee communities."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee would stop buying all goods from other states.",
+          "correct": false,
+          "explanation": "Tennessee depends on goods from other states and could not stop all trade."
+        }
+      ],
+      "explanation_md": "A California drought would cause **prices of fruits and vegetables to rise** in Tennessee stores \u2014 because trade connections mean events in one place affect other communities."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is Nashville often called an important city for the world of music?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because only Nashville residents are allowed to listen to music.",
+          "correct": false,
+          "explanation": "Music created in Nashville is heard worldwide \u2014 not just locally."
+        },
+        {
+          "id": "b",
+          "label": "Because Nashville's music industry connects Tennessee artists with fans and businesses around the world.",
+          "correct": true,
+          "explanation": "Nashville's recording industry and live music scene have global reach."
+        },
+        {
+          "id": "c",
+          "label": "Because Nashville is the only city in the United States that has music.",
+          "correct": false,
+          "explanation": "Many U.S. cities have music \u2014 but Nashville has a particularly strong global music industry."
+        },
+        {
+          "id": "d",
+          "label": "Because Nashville exports more cars than any other city.",
+          "correct": false,
+          "explanation": "Nashville is known for music, not primarily for car exports."
+        }
+      ],
+      "explanation_md": "Nashville's music industry **connects Tennessee artists with fans and businesses around the world** \u2014 making it a global music hub."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these best describes how the internet changed the connection between Tennessee communities and the world?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The internet made Tennessee more isolated from other communities.",
+          "correct": false,
+          "explanation": "The internet increased connections, not isolation."
+        },
+        {
+          "id": "b",
+          "label": "The internet allowed Tennessee communities to share and receive information instantly with the rest of the world.",
+          "correct": true,
+          "explanation": "The internet creates near-instant global connections for communication and trade."
+        },
+        {
+          "id": "c",
+          "label": "The internet replaced the need for trade between communities.",
+          "correct": false,
+          "explanation": "Trade still happens even with the internet \u2014 the internet is a tool for communication."
+        },
+        {
+          "id": "d",
+          "label": "The internet only connects cities, not rural Tennessee communities.",
+          "correct": false,
+          "explanation": "The internet connects communities across Tennessee \u2014 urban and rural alike (though access varies)."
+        }
+      ],
+      "explanation_md": "The internet **allows Tennessee communities to share and receive information instantly** with the world \u2014 making connections faster and more frequent than ever before."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How do major highways like I-40 help Tennessee's economy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They keep Tennessee goods inside the state and away from other communities.",
+          "correct": false,
+          "explanation": "Highways connect Tennessee to other states \u2014 they don't keep goods contained."
+        },
+        {
+          "id": "b",
+          "label": "They allow Tennessee goods to be transported quickly to other states and communities.",
+          "correct": true,
+          "explanation": "Highways enable efficient movement of goods, people, and services across regions."
+        },
+        {
+          "id": "c",
+          "label": "They only benefit people traveling for vacation.",
+          "correct": false,
+          "explanation": "Highways are essential for shipping goods and connecting businesses."
+        },
+        {
+          "id": "d",
+          "label": "They stop businesses from other states from entering Tennessee.",
+          "correct": false,
+          "explanation": "Highways increase business connections, not restrict them."
+        }
+      ],
+      "explanation_md": "Major highways like I-40 help Tennessee's economy by **allowing goods, people, and services to move quickly** between Tennessee and other communities."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, \"What happens in the rest of the world doesn't really affect my Tennessee community.\" Is this statement correct? Why or why not?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes \u2014 Tennessee is too far from other countries for world events to matter.",
+          "correct": false,
+          "explanation": "Distance doesn't prevent connections through trade and communication."
+        },
+        {
+          "id": "b",
+          "label": "No \u2014 Tennessee communities are connected to the world through trade, communication, and shared events that affect daily life.",
+          "correct": true,
+          "explanation": "World events affect local prices, information, and opportunities through global connections."
+        },
+        {
+          "id": "c",
+          "label": "Yes \u2014 only national events, not world events, affect Tennessee.",
+          "correct": false,
+          "explanation": "International trade and global events do affect Tennessee daily life."
+        },
+        {
+          "id": "d",
+          "label": "No \u2014 but only because Tennessee is the largest state in the country.",
+          "correct": false,
+          "explanation": "Tennessee is not the largest state, and size is not why world events matter \u2014 connections are."
+        }
+      ],
+      "explanation_md": "The statement is **incorrect**. Tennessee communities are **connected to the world through trade, communication, and shared events** \u2014 world events affect local prices, news, and opportunities every day."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds that her shoes were made in Vietnam. What does this tell us about global connections?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Vietnam and Tennessee are not connected.",
+          "correct": false,
+          "explanation": "The shoes prove a trade connection between Vietnam and Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee communities receive goods made in countries around the world through trade.",
+          "correct": true,
+          "explanation": "Imported shoes show how global trade connects distant communities."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee makes all of its own shoes.",
+          "correct": false,
+          "explanation": "The shoes from Vietnam show that Tennessee imports goods it doesn't produce locally."
+        },
+        {
+          "id": "d",
+          "label": "Only wealthy people in Tennessee buy things from other countries.",
+          "correct": false,
+          "explanation": "Most everyday consumer goods are imported \u2014 this affects everyone."
+        }
+      ],
+      "explanation_md": "Shoes made in Vietnam and sold in Tennessee show that **Tennessee communities receive goods from around the world through trade**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of a shared event that connects Tennessee to another community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A family in Nashville prepares dinner at home.",
+          "correct": false,
+          "explanation": "Cooking dinner at home is a local activity, not a shared event with another community."
+        },
+        {
+          "id": "b",
+          "label": "A flood in a neighboring state causes Tennessee families to donate food and supplies.",
+          "correct": true,
+          "explanation": "Tennessee communities responding to a disaster in another state shows how shared events connect communities."
+        },
+        {
+          "id": "c",
+          "label": "A Tennessee school starts a new math program.",
+          "correct": false,
+          "explanation": "A local school program is not a shared event connecting Tennessee to other communities."
+        },
+        {
+          "id": "d",
+          "label": "A community in Tennessee holds a local parade.",
+          "correct": false,
+          "explanation": "A local parade is not a shared event that connects to other communities."
+        }
+      ],
+      "explanation_md": "Tennessee families **donating to flood victims in another state** shows how a **shared event** connects Tennessee to other communities through support and care."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How do both trade and communication work together to connect Tennessee communities to the rest of the world?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They don't \u2014 trade and communication are completely separate.",
+          "correct": false,
+          "explanation": "Trade and communication often work together \u2014 businesses communicate to make trades happen."
+        },
+        {
+          "id": "b",
+          "label": "Communication spreads information and ideas, while trade moves physical goods \u2014 together they connect communities economically and culturally.",
+          "correct": true,
+          "explanation": "Both systems link Tennessee to the world: communication for information, trade for goods."
+        },
+        {
+          "id": "c",
+          "label": "Only communication matters \u2014 trade is not important for communities.",
+          "correct": false,
+          "explanation": "Both are essential for connecting communities."
+        },
+        {
+          "id": "d",
+          "label": "Trade and communication only help large cities like Nashville \u2014 not small towns.",
+          "correct": false,
+          "explanation": "Trade and communication connect all Tennessee communities, large and small."
+        }
+      ],
+      "explanation_md": "**Communication spreads information and ideas** while **trade moves physical goods** \u2014 together they connect Tennessee communities economically and culturally to the rest of the world."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When a community buys goods from another community, this is called \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "trade",
+          "correct": true,
+          "explanation": "Trade is buying and selling goods between communities."
+        },
+        {
+          "id": "b",
+          "label": "voting",
+          "correct": false,
+          "explanation": "Voting is choosing leaders \u2014 not buying and selling goods."
+        },
+        {
+          "id": "c",
+          "label": "farming",
+          "correct": false,
+          "explanation": "Farming is growing food \u2014 not buying and selling between communities."
+        },
+        {
+          "id": "d",
+          "label": "celebrating",
+          "correct": false,
+          "explanation": "Celebrating is a tradition \u2014 not an economic activity."
+        }
+      ],
+      "explanation_md": "Buying and selling goods between communities is called **trade**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student's family buys coffee at the grocery store. The label says it was grown in Colombia. This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "communities being connected through trade",
+          "correct": true,
+          "explanation": "Buying coffee grown in Colombia shows Tennessee is connected to Colombia through trade."
+        },
+        {
+          "id": "b",
+          "label": "a community having no connections to other places",
+          "correct": false,
+          "explanation": "The imported coffee is evidence of connection, not isolation."
+        },
+        {
+          "id": "c",
+          "label": "a community tradition passed down through families",
+          "correct": false,
+          "explanation": "That would be family history \u2014 this is about trade connections."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee communities only buying local products",
+          "correct": false,
+          "explanation": "Colombian coffee imported to Tennessee shows connection beyond local trade."
+        }
+      ],
+      "explanation_md": "Buying coffee grown in Colombia shows that **Tennessee communities are connected to other parts of the world through trade**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool lets people in Tennessee learn about events happening in other countries right away?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A horse and wagon",
+          "correct": false,
+          "explanation": "Horses are slow \u2014 not suitable for receiving news quickly from other countries."
+        },
+        {
+          "id": "b",
+          "label": "The internet",
+          "correct": true,
+          "explanation": "The internet allows news to travel instantly between any two places."
+        },
+        {
+          "id": "c",
+          "label": "A paper map",
+          "correct": false,
+          "explanation": "A paper map shows locations but does not share current news."
+        },
+        {
+          "id": "d",
+          "label": "A quilt",
+          "correct": false,
+          "explanation": "A quilt is an artifact \u2014 not a tool for sharing current news."
+        }
+      ],
+      "explanation_md": "**The internet** allows people in Tennessee to learn about events happening in other countries **right away**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Tennessee produces cars that are sent to be sold in other states. What is this called?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Importing",
+          "correct": false,
+          "explanation": "Importing is bringing goods IN. Sending goods out is exporting."
+        },
+        {
+          "id": "b",
+          "label": "Exporting",
+          "correct": true,
+          "explanation": "Sending Tennessee-made goods to other places is called exporting."
+        },
+        {
+          "id": "c",
+          "label": "Voting",
+          "correct": false,
+          "explanation": "Voting is choosing leaders \u2014 not sending goods to other states."
+        },
+        {
+          "id": "d",
+          "label": "Governing",
+          "correct": false,
+          "explanation": "Governing means leading a community \u2014 not sending goods elsewhere."
+        }
+      ],
+      "explanation_md": "Sending Tennessee-made cars to other states is called **exporting** \u2014 sending goods out to other places."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How are communities in Tennessee connected to communities in other states?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They are not connected at all.",
+          "correct": false,
+          "explanation": "Tennessee communities are connected to other states through trade, roads, and communication."
+        },
+        {
+          "id": "b",
+          "label": "Through trade, roads, and communication",
+          "correct": true,
+          "explanation": "Trade, highways, and communication tools all connect Tennessee to other states."
+        },
+        {
+          "id": "c",
+          "label": "Only by sharing the same weather.",
+          "correct": false,
+          "explanation": "Weather is not what connects communities \u2014 trade and communication are."
+        },
+        {
+          "id": "d",
+          "label": "Only by being in the same time zone.",
+          "correct": false,
+          "explanation": "Time zones don't create economic or cultural connections between communities."
+        }
+      ],
+      "explanation_md": "Tennessee communities are connected to other states through **trade, roads (like highways), and communication** \u2014 these links allow people and goods to move and information to flow."
+    }
+  ]
+}
