@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.MD.C.7",
+  "benchmark_description": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Telling Time to the Nearest Five Minutes",
+    "intro": "Do you know how to read a clock? Clocks tell us what time it is! There are two kinds of clocks \u2014 analog clocks with hands, and digital clocks with numbers. Let's learn to read both!",
+    "body_md": "## Two Kinds of Clocks\n\n**Analog clock:** Has a round face with numbers 1-12 and two hands.\n- **Hour hand (short):** Points to the hour.\n- **Minute hand (long):** Points to the minutes.\n\n**Digital clock:** Shows numbers like 3:45 or 10:20.\n\n## Reading an Analog Clock\n\n**Step 1:** Look at the short (hour) hand. The hour is the number it points to or just passed.\n**Step 2:** Look at the long (minute) hand. Multiply where it points by 5 to get the minutes.\n\n**Minute hand key:**\n\n| Hand points to | Minutes |\n|---|---|\n| 12 | 0 (or :00) |\n| 1 | 5 |\n| 2 | 10 |\n| 3 | 15 |\n| 4 | 20 |\n| 5 | 25 |\n| 6 | 30 |\n| 7 | 35 |\n| 8 | 40 |\n| 9 | 45 |\n| 10 | 50 |\n| 11 | 55 |\n\n## A.M. and P.M.\n\n- **A.M.** = midnight to noon (morning hours: 12:00 a.m. to 11:59 a.m.)\n- **P.M.** = noon to midnight (afternoon and evening: 12:00 p.m. to 11:59 p.m.)\n\n**Examples:**\n- 7:00 a.m. = morning, time to wake up!\n- 12:00 p.m. = noon, lunchtime!\n- 3:15 p.m. = after school!\n- 8:30 p.m. = bedtime!\n\n## Writing Time\n\n- Hours come before the colon: **3**:25\n- Minutes come after the colon: 3:**25**\n- Minutes always use two digits: 3:05 (not 3:5)\n\n## Examples\n\n- Hour hand past 7, minute hand on 3 \u2192 **7:15**\n- Hour hand between 11 and 12, minute hand on 6 \u2192 **11:30**\n- Hour hand past 4, minute hand on 9 \u2192 **4:45**",
+    "worked_example_md": "**Problem:** Read this clock:\n- Short hand (hour) is just past 2.\n- Long hand (minute) is on 4.\n\n**Step 1:** Hour = 2 (the hand just passed 2).\n**Step 2:** Minutes = 4 \u00d7 5 = 20 minutes.\n**Step 3:** Is it morning or afternoon? If this is during school, it is a.m. or p.m. depending on the time.\n\n**Answer:** The time is **2:20**\n\nIf it is morning: **2:20 a.m.**\nIf it is afternoon: **2:20 p.m.**",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A digital clock shows 4:00. The short hand on an analog clock points to 4 and the long hand points to 12. What time is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4:00",
+          "correct": true,
+          "explanation": "Correct! Short hand on 4, long hand on 12 = 4 hours, 0 minutes = 4:00."
+        },
+        {
+          "id": "b",
+          "label": "12:04",
+          "correct": false,
+          "explanation": "12:04 would have the short hand near 12. Long hand on 12 means 0 minutes. Short hand on 4 means 4 o'clock: 4:00."
+        },
+        {
+          "id": "c",
+          "label": "4:12",
+          "correct": false,
+          "explanation": "4:12 is not a 5-minute mark. Long hand on 12 = 0 minutes. It is 4:00."
+        },
+        {
+          "id": "d",
+          "label": "40:00",
+          "correct": false,
+          "explanation": "A clock only goes to 12 hours. The time is 4:00."
+        }
+      ],
+      "explanation_md": "Short hand on 4, long hand on 12 = 4:00."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The minute hand on an analog clock points to 6. What is the minutes value?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "The minute hand pointing to 6 means 6 \u00d7 5 = 30 minutes, not 6."
+        },
+        {
+          "id": "b",
+          "label": "30",
+          "correct": true,
+          "explanation": "Correct! The minute hand pointing to 6 means 30 minutes. (6 \u00d7 5 = 30)"
+        },
+        {
+          "id": "c",
+          "label": "60",
+          "correct": false,
+          "explanation": "60 minutes = 1 hour. The minute hand on 6 = 30 minutes."
+        },
+        {
+          "id": "d",
+          "label": "12",
+          "correct": false,
+          "explanation": "The minute hand pointing to 12 = 0 minutes. Pointing to 6 = 30 minutes."
+        }
+      ],
+      "explanation_md": "Minute hand on 6 = 6 \u00d7 5 = 30 minutes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An analog clock: short hand is just past 9, long hand points to 3. What time is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "9:03",
+          "correct": false,
+          "explanation": "3 minutes would need the minute hand between 12 and 1. Long hand on 3 means 3\u00d75=15 minutes: 9:15."
+        },
+        {
+          "id": "b",
+          "label": "3:45",
+          "correct": false,
+          "explanation": "Short hand past 9 means the hour is 9. Long hand on 3 means 15 minutes: 9:15."
+        },
+        {
+          "id": "c",
+          "label": "9:15",
+          "correct": true,
+          "explanation": "Correct! Short hand past 9 = hour 9. Long hand on 3 = 3\u00d75=15 minutes. Time: 9:15."
+        },
+        {
+          "id": "d",
+          "label": "9:30",
+          "correct": false,
+          "explanation": "9:30 would have the long hand on 6. Long hand on 3 = 15 minutes: 9:15."
+        }
+      ],
+      "explanation_md": "Hour=9, minute hand on 3 = 3\u00d75=15 minutes. Time: 9:15."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "It is 7:30 a.m. What are you most likely doing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sleeping through the night",
+          "correct": false,
+          "explanation": "7:30 a.m. is morning \u2014 past midnight. You are probably awake getting ready for school."
+        },
+        {
+          "id": "b",
+          "label": "Getting ready for school",
+          "correct": true,
+          "explanation": "Correct! 7:30 a.m. is morning, a common time to get ready for school."
+        },
+        {
+          "id": "c",
+          "label": "Eating dinner",
+          "correct": false,
+          "explanation": "Dinner is usually in the evening (p.m.). 7:30 a.m. is morning."
+        },
+        {
+          "id": "d",
+          "label": "Watching a movie at night",
+          "correct": false,
+          "explanation": "Nighttime activities are p.m. 7:30 a.m. is in the morning."
+        }
+      ],
+      "explanation_md": "7:30 a.m. is morning \u2014 a common get-ready-for-school time."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An analog clock shows: short hand just past 11, long hand on 9. What time is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "11:09",
+          "correct": false,
+          "explanation": "9 minutes would need the long hand between 1 and 2. Long hand on 9 = 9\u00d75=45 minutes: 11:45."
+        },
+        {
+          "id": "b",
+          "label": "9:55",
+          "correct": false,
+          "explanation": "Short hand past 11 means hour=11. Long hand on 9 = 45 minutes: 11:45."
+        },
+        {
+          "id": "c",
+          "label": "11:45",
+          "correct": true,
+          "explanation": "Correct! Hour=11. Long hand on 9 = 9\u00d75=45. Time: 11:45."
+        },
+        {
+          "id": "d",
+          "label": "9:45",
+          "correct": false,
+          "explanation": "The short hand is past 11, so the hour is 11. Time: 11:45."
+        }
+      ],
+      "explanation_md": "Hour=11, long hand on 9 = 45 minutes. Time: 11:45."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake goes to soccer practice at 3:30 p.m. and finishes at 5:00 p.m. He then eats dinner. Is dinner a.m. or p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "a.m.",
+          "correct": false,
+          "explanation": "5:00 p.m. is afternoon. Dinner after that would still be p.m. (evening)."
+        },
+        {
+          "id": "b",
+          "label": "p.m.",
+          "correct": true,
+          "explanation": "Correct! After 5:00 p.m. is still in the afternoon/evening \u2014 p.m."
+        },
+        {
+          "id": "c",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "All times after noon are p.m. Dinner after soccer at 5:00 p.m. is p.m."
+        },
+        {
+          "id": "d",
+          "label": "Cannot tell",
+          "correct": false,
+          "explanation": "5:00 p.m. is after noon, so it is p.m. Dinner shortly after is also p.m."
+        }
+      ],
+      "explanation_md": "5:00 p.m. is in the afternoon/evening. Dinner after that is also p.m."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A digital clock shows 10:50. What does this look like on an analog clock?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Short hand near 11, long hand on 10",
+          "correct": true,
+          "explanation": "Correct! At 10:50, the short hand is almost at 11 (since 11 is coming soon), and the long hand is at 10 (50 minutes = 10\u00d75)."
+        },
+        {
+          "id": "b",
+          "label": "Short hand on 10, long hand on 12",
+          "correct": false,
+          "explanation": "That would be 10:00. At 10:50, the minute hand points to 10 and the hour hand is nearly at 11."
+        },
+        {
+          "id": "c",
+          "label": "Short hand on 5, long hand on 10",
+          "correct": false,
+          "explanation": "Short hand on 5 would mean hour=5. At 10:50, hour hand is near 11."
+        },
+        {
+          "id": "d",
+          "label": "Short hand on 10, long hand on 11",
+          "correct": false,
+          "explanation": "Long hand on 11 = 55 minutes, not 50. At 10:50, long hand is on 10."
+        }
+      ],
+      "explanation_md": "10:50: long hand on 10 (50 min = 10\u00d75), short hand nearly at 11."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "School starts at 8:05 a.m. The minute hand on the clock points to 1. What is the hour?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1",
+          "correct": false,
+          "explanation": "The minute hand at 1 means 5 minutes. At 8:05, the minute hand is on 1 and the hour hand is just past 8."
+        },
+        {
+          "id": "b",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is the number of minutes (1\u00d75=5). The hour is 8. Time: 8:05."
+        },
+        {
+          "id": "c",
+          "label": "8",
+          "correct": true,
+          "explanation": "Correct! At 8:05, the minute hand is on 1 (=5 minutes) and the hour hand is just past 8."
+        },
+        {
+          "id": "d",
+          "label": "12",
+          "correct": false,
+          "explanation": "12 would mean 0 minutes. At 8:05, the short hand is just past 8."
+        }
+      ],
+      "explanation_md": "At 8:05, hour hand is just past 8 and minute hand is on 1 (=5 minutes)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "It is 6:45 p.m. What time will it be in 15 minutes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6:30 p.m.",
+          "correct": false,
+          "explanation": "6:30 is 15 minutes BEFORE 6:45. Adding 15: 6:45+15=7:00."
+        },
+        {
+          "id": "b",
+          "label": "7:00 p.m.",
+          "correct": true,
+          "explanation": "Correct! 6:45 + 15 minutes = 7:00 p.m."
+        },
+        {
+          "id": "c",
+          "label": "7:15 p.m.",
+          "correct": false,
+          "explanation": "6:45+15=7:00, not 7:15."
+        },
+        {
+          "id": "d",
+          "label": "6:00 p.m.",
+          "correct": false,
+          "explanation": "6:00 is 45 minutes before 6:45. Adding 15 gives 7:00."
+        }
+      ],
+      "explanation_md": "6:45 + 15 minutes = 7:00 p.m."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Tom woke up at 7:10 a.m. He ate breakfast 20 minutes later. He left for school 30 minutes after breakfast. What time did he leave for school?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7:30 a.m.",
+          "correct": false,
+          "explanation": "7:30 is when he finished breakfast (7:10+20=7:30). He left 30 minutes after that: 7:30+30=8:00."
+        },
+        {
+          "id": "b",
+          "label": "7:40 a.m.",
+          "correct": false,
+          "explanation": "Breakfast was at 7:30 (7:10+20). Left 30 minutes later: 7:30+30=8:00 a.m."
+        },
+        {
+          "id": "c",
+          "label": "8:00 a.m.",
+          "correct": true,
+          "explanation": "Correct! Woke up 7:10. Breakfast 7:10+20=7:30. Left 7:30+30=8:00 a.m."
+        },
+        {
+          "id": "d",
+          "label": "8:10 a.m.",
+          "correct": false,
+          "explanation": "7:10+20=7:30 (breakfast). 7:30+30=8:00 (left). Not 8:10."
+        }
+      ],
+      "explanation_md": "7:10+20=7:30 (breakfast). 7:30+30=8:00 a.m. (left for school)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An analog clock shows: short hand past 2, long hand on 7. What time is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2:07",
+          "correct": false,
+          "explanation": "7 minutes isn't a 5-minute mark from the clock positions given. Long hand on 7 = 35 minutes: 2:35."
+        },
+        {
+          "id": "b",
+          "label": "7:10",
+          "correct": false,
+          "explanation": "Short hand past 2 means hour=2. Long hand on 7 = 7\u00d75=35 minutes: 2:35."
+        },
+        {
+          "id": "c",
+          "label": "2:35",
+          "correct": true,
+          "explanation": "Correct! Hour=2, minute hand on 7 = 35 minutes. Time: 2:35."
+        },
+        {
+          "id": "d",
+          "label": "2:07",
+          "correct": false,
+          "explanation": "Long hand on 7 = 7\u00d75=35 minutes. Time: 2:35."
+        }
+      ],
+      "explanation_md": "Hour=2, long hand on 7 = 7\u00d75=35 minutes. Time: 2:35."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which activity most likely happens at 8:30 p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Going to school",
+          "correct": false,
+          "explanation": "School starts in the morning (a.m.). 8:30 p.m. is evening."
+        },
+        {
+          "id": "b",
+          "label": "Eating lunch",
+          "correct": false,
+          "explanation": "Lunch is around noon (12:00 p.m.). 8:30 p.m. is evening."
+        },
+        {
+          "id": "c",
+          "label": "Getting ready for bed",
+          "correct": true,
+          "explanation": "Correct! 8:30 p.m. is evening \u2014 a common bedtime for children."
+        },
+        {
+          "id": "d",
+          "label": "Waking up",
+          "correct": false,
+          "explanation": "Waking up is usually in the morning (a.m.). 8:30 p.m. is evening."
+        }
+      ],
+      "explanation_md": "8:30 p.m. is evening \u2014 a common bedtime for children."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sam's soccer game starts at 1:15 p.m. and lasts 45 minutes. What time does it end?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1:45 p.m.",
+          "correct": false,
+          "explanation": "1:15+30=1:45 (only 30 minutes). Add 45 more: 1:15+45=2:00 p.m."
+        },
+        {
+          "id": "b",
+          "label": "2:00 p.m.",
+          "correct": true,
+          "explanation": "Correct! 1:15 + 45 minutes = 2:00 p.m. (15+45=60 minutes = 1 hour added to 1 = 2)."
+        },
+        {
+          "id": "c",
+          "label": "2:15 p.m.",
+          "correct": false,
+          "explanation": "1:15+45: 15+45=60 min = 1 hour. 1:00+1:00=2:00 p.m."
+        },
+        {
+          "id": "d",
+          "label": "2:30 p.m.",
+          "correct": false,
+          "explanation": "1:15+45=2:00. Not 2:30."
+        }
+      ],
+      "explanation_md": "1:15 + 45 minutes = 2:00 p.m."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The long hand on a clock points to 12. What is the minutes value?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "12",
+          "correct": false,
+          "explanation": "12 is the number it points to. Multiply: 12\u00d75=60, but 60 minutes=1 hour=0 minutes for a new hour. The minutes value is 0."
+        },
+        {
+          "id": "b",
+          "label": "0",
+          "correct": true,
+          "explanation": "Correct! Long hand on 12 = 0 minutes (or :00 on a digital clock)."
+        },
+        {
+          "id": "c",
+          "label": "60",
+          "correct": false,
+          "explanation": "60 minutes would be a full hour. Long hand on 12 means 0 minutes into the hour."
+        },
+        {
+          "id": "d",
+          "label": "5",
+          "correct": false,
+          "explanation": "Long hand on 1 = 5 minutes. Long hand on 12 = 0 minutes."
+        }
+      ],
+      "explanation_md": "Long hand on 12 = 0 minutes (:00)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The long hand points to 3. How many minutes is that?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3",
+          "correct": false,
+          "explanation": "3 is the number. Multiply by 5: 3\u00d75=15 minutes."
+        },
+        {
+          "id": "b",
+          "label": "15",
+          "correct": true,
+          "explanation": "Correct! 3\u00d75=15. The long hand on 3 means 15 minutes."
+        },
+        {
+          "id": "c",
+          "label": "30",
+          "correct": false,
+          "explanation": "Long hand on 6=30 minutes. Long hand on 3=3\u00d75=15 minutes."
+        },
+        {
+          "id": "d",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 minutes = long hand on 1. Long hand on 3 = 3\u00d75=15 minutes."
+        }
+      ],
+      "explanation_md": "Long hand on 3 = 3\u00d75 = 15 minutes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A clock shows 5:00. Which describes it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Short hand on 12, long hand on 5",
+          "correct": false,
+          "explanation": "That would be 12:25. Short hand on 5 and long hand on 12 = 5:00."
+        },
+        {
+          "id": "b",
+          "label": "Short hand on 5, long hand on 12",
+          "correct": true,
+          "explanation": "Correct! Short hand on 5 = hour 5. Long hand on 12 = 0 minutes. Time: 5:00."
+        },
+        {
+          "id": "c",
+          "label": "Both hands on 5",
+          "correct": false,
+          "explanation": "Both on 5 would be about 5:25. Long hand on 12 means 0 minutes for 5:00."
+        },
+        {
+          "id": "d",
+          "label": "Short hand on 12, long hand on 12",
+          "correct": false,
+          "explanation": "Both on 12 = 12:00. Short hand on 5 means hour=5."
+        }
+      ],
+      "explanation_md": "5:00: short hand on 5, long hand on 12."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "It is 6:30 in the morning. Is it a.m. or p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "p.m.",
+          "correct": false,
+          "explanation": "p.m. is after noon. 6:30 in the morning is a.m."
+        },
+        {
+          "id": "b",
+          "label": "a.m.",
+          "correct": true,
+          "explanation": "Correct! Morning hours are a.m. 6:30 a.m. is morning."
+        },
+        {
+          "id": "c",
+          "label": "Both",
+          "correct": false,
+          "explanation": "A time is either a.m. or p.m., not both. 6:30 in the morning is a.m."
+        },
+        {
+          "id": "d",
+          "label": "Neither",
+          "correct": false,
+          "explanation": "All times are either a.m. or p.m. Morning 6:30 = 6:30 a.m."
+        }
+      ],
+      "explanation_md": "Morning hours are a.m. 6:30 in the morning = 6:30 a.m."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What time does a clock show when the short hand is just past 3 and the long hand is on 6?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3:06",
+          "correct": false,
+          "explanation": "Long hand on 6 = 6\u00d75=30 minutes. Time: 3:30."
+        },
+        {
+          "id": "b",
+          "label": "6:15",
+          "correct": false,
+          "explanation": "Short hand past 3 means hour=3. Long hand on 6=30 minutes. Time: 3:30."
+        },
+        {
+          "id": "c",
+          "label": "3:30",
+          "correct": true,
+          "explanation": "Correct! Hour=3, long hand on 6 = 30 minutes. Time: 3:30."
+        },
+        {
+          "id": "d",
+          "label": "6:30",
+          "correct": false,
+          "explanation": "Short hand past 3 means hour=3, not 6. Time: 3:30."
+        }
+      ],
+      "explanation_md": "Short hand past 3 = hour 3. Long hand on 6 = 30 minutes. Time: 3:30."
+    }
+  ]
+}
