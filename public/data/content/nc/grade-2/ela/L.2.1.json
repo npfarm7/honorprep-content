@@ -1,0 +1,253 @@
+{
+  "skill_id": "L.2.1",
+  "benchmark_description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking, including use of collective nouns, irregular plural nouns, reflexive pronouns, past tense of irregular verbs, adjectives and adverbs, and simple/compound sentences.",
+  "course": "ela",
+  "strand": "L",
+  "lesson": {
+    "title": "Grammar Rules: Nouns, Pronouns, Verbs, and Sentences",
+    "intro": "Grammar is the set of rules that helps us speak and write clearly so other people can understand us. In second grade, we learn some important grammar rules about nouns, verbs, pronouns, and how to build sentences.",
+    "body_md": "## Collective Nouns\n\nA **collective noun** names a group of people, animals, or things as a single unit:\n- a **flock** of birds\n- a **class** of students\n- a **bunch** of grapes\n\n## Irregular Plural Nouns\n\nMost nouns add -s or -es to show more than one. But **irregular plurals** change differently:\n\n| Singular | Plural |\n|---|---|\n| child | children |\n| mouse | mice |\n| foot | feet |\n| tooth | teeth |\n| man | men |\n| woman | women |\n\n## Reflexive Pronouns\n\n**Reflexive pronouns** end in -self or -selves. They refer back to the subject:\n- I **myself**\n- you **yourself**\n- he/she **himself / herself**\n- we **ourselves**\n- they **themselves**\n\n*She made the cake **herself**.* (She = herself — same person)\n\n## Irregular Past-Tense Verbs\n\nMost verbs add -ed in the past. But **irregular verbs** change spelling:\n\n| Present | Past |\n|---|---|\n| run | ran |\n| see | saw |\n| eat | ate |\n| go | went |\n| say | said |\n| take | took |\n\n## Adjectives and Adverbs\n\n**Adjectives** describe nouns: *the **bright** sun*\n**Adverbs** describe verbs (or adjectives/adverbs): *she ran **quickly***\nMany adverbs end in -ly.\n\n## Simple and Compound Sentences\n\n**Simple sentence:** one subject + one predicate.\n*The dog barked.*\n\n**Compound sentence:** two simple sentences joined by a coordinating conjunction (FANBOYS: for, and, nor, but, or, yet, so).\n*The dog barked, **and** the cat ran away.*",
+    "worked_example_md": "**Edit this sentence:** *The childs runned to the store themselves and buyed two loafs of bread.*\n\n**Step 1:** Find grammar errors.\n- *childs* → children (irregular plural)\n- *runned* → ran (irregular past tense)\n- *themselves* is correct here ✓\n- *buyed* → bought (irregular past tense)\n- *loafs* → loaves (irregular plural)\n\n**Corrected sentence:** *The children ran to the store themselves and bought two loaves of bread.*",
+    "estimated_minutes": 11
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is a **collective noun**?",
+      "choices": [
+        {"id": "a", "label": "Bird", "correct": false, "explanation": "Bird names one animal, not a group."},
+        {"id": "b", "label": "Flock", "correct": true, "explanation": "Flock names a group of birds — it is a collective noun."},
+        {"id": "c", "label": "Flew", "correct": false, "explanation": "Flew is a verb, not a collective noun."},
+        {"id": "d", "label": "Beautiful", "correct": false, "explanation": "Beautiful is an adjective."}
+      ],
+      "explanation_md": "**Flock** is a collective noun — it names a whole group of birds as one unit."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the **irregular plural** of *child*?",
+      "choices": [
+        {"id": "a", "label": "Childs", "correct": false, "explanation": "You cannot just add -s to make child plural — it changes completely."},
+        {"id": "b", "label": "Childes", "correct": false, "explanation": "This is not a word."},
+        {"id": "c", "label": "Children", "correct": true, "explanation": "Children is the irregular plural of child."},
+        {"id": "d", "label": "Childer", "correct": false, "explanation": "This is not standard English."}
+      ],
+      "explanation_md": "The **irregular plural** of *child* is **children** — it does not just add -s."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Choose the correct **past tense** of the verb *run*.",
+      "choices": [
+        {"id": "a", "label": "Runned", "correct": false, "explanation": "Run is an irregular verb — you cannot just add -ed."},
+        {"id": "b", "label": "Runned", "correct": false, "explanation": "Run is an irregular verb — you cannot just add -ed."},
+        {"id": "c", "label": "Ran", "correct": true, "explanation": "Ran is the irregular past tense of run."},
+        {"id": "d", "label": "Running", "correct": false, "explanation": "Running is the present participle, not past tense."}
+      ],
+      "explanation_md": "**Ran** is the past tense of *run* — it is an irregular verb that does not follow the -ed pattern."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses a **reflexive pronoun** correctly?",
+      "choices": [
+        {"id": "a", "label": "Herself made the sandwich.", "correct": false, "explanation": "Reflexive pronouns cannot be used as the subject of a sentence — use 'She made the sandwich herself.'"},
+        {"id": "b", "label": "She made the sandwich herself.", "correct": true, "explanation": "Herself refers back to she (same person) — this is correct reflexive use."},
+        {"id": "c", "label": "Herself is very smart.", "correct": false, "explanation": "Herself cannot be used as a sentence subject."},
+        {"id": "d", "label": "She made the sandwich with herself.", "correct": false, "explanation": "This is awkward — you would not use a reflexive pronoun this way."}
+      ],
+      "explanation_md": "**She made the sandwich herself** is correct. *Herself* refers back to *she* — the same person did both actions."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses an **adverb** correctly?",
+      "choices": [
+        {"id": "a", "label": "The quick dog ran.", "correct": false, "explanation": "Quick is an adjective describing the dog, not an adverb describing how the dog ran."},
+        {"id": "b", "label": "The dog ran quickly.", "correct": true, "explanation": "Quickly is an adverb that describes how the dog ran."},
+        {"id": "c", "label": "She has a quick run.", "correct": false, "explanation": "Quick is an adjective here, modifying the noun 'run.'"},
+        {"id": "d", "label": "The quick runners won.", "correct": false, "explanation": "Quick is an adjective here."}
+      ],
+      "explanation_md": "**Quickly** is an adverb — it describes *how* the dog ran. Many adverbs end in -ly."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **compound sentence**?",
+      "choices": [
+        {"id": "a", "label": "The cat sat on the mat.", "correct": false, "explanation": "This is one subject + one predicate — a simple sentence."},
+        {"id": "b", "label": "The tall, fluffy cat slept all day.", "correct": false, "explanation": "This has adjectives, but it is still a simple sentence."},
+        {"id": "c", "label": "The cat sat on the mat, and the dog played outside.", "correct": true, "explanation": "Two independent clauses joined by 'and' — this is a compound sentence."},
+        {"id": "d", "label": "Sleeping cats", "correct": false, "explanation": "This is not a complete sentence at all."}
+      ],
+      "explanation_md": "A **compound sentence** joins two independent clauses with a conjunction like *and, but, or*. Choice C has two complete thoughts joined by *and*."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the **irregular plural** of *tooth*?",
+      "choices": [
+        {"id": "a", "label": "Tooths", "correct": false, "explanation": "You cannot add -s to tooth — it changes to teeth."},
+        {"id": "b", "label": "Toothes", "correct": false, "explanation": "This is not a word."},
+        {"id": "c", "label": "Teeth", "correct": true, "explanation": "Teeth is the irregular plural of tooth."},
+        {"id": "d", "label": "Teeths", "correct": false, "explanation": "Once you know the irregular form (teeth), you do not add anything else."}
+      ],
+      "explanation_md": "The **irregular plural** of *tooth* is **teeth**."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Identify the error in this sentence: *The team of players fighted hard, but they losted the game.*",
+      "choices": [
+        {"id": "a", "label": "'Team' should be plural: 'teams'", "correct": false, "explanation": "Team is used as a collective noun here — it is correct as singular."},
+        {"id": "b", "label": "'Fighted' and 'losted' are incorrect past tenses.", "correct": true, "explanation": "Both are irregular verbs: fight → fought, lose → lost."},
+        {"id": "c", "label": "'But' should be replaced with 'and'", "correct": false, "explanation": "'But' is correct here — it shows contrast."},
+        {"id": "d", "label": "There are no errors.", "correct": false, "explanation": "'Fighted' and 'losted' are both incorrect irregular past-tense forms."}
+      ],
+      "explanation_md": "*Fight* → **fought** (not fighted). *Lose* → **lost** (not losted). Both are irregular past-tense verbs."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: *Me and him went to the store and bringed home the groceries.* What corrections are needed?",
+      "choices": [
+        {"id": "a", "label": "Change 'Me and him' to 'He and I'; change 'bringed' to 'brought'.", "correct": true, "explanation": "'He and I' is the correct subject form. 'Bringed' is wrong — bring is irregular: bring → brought."},
+        {"id": "b", "label": "Change 'bringed' to 'brought' only.", "correct": false, "explanation": "'Me and him' also needs to be corrected to 'He and I' (subject pronouns)."},
+        {"id": "c", "label": "Change 'Me and him' to 'He and I' only.", "correct": false, "explanation": "'Bringed' also needs to be corrected to 'brought'."},
+        {"id": "d", "label": "No corrections are needed.", "correct": false, "explanation": "Both 'Me and him' and 'bringed' are errors."}
+      ],
+      "explanation_md": "Two corrections: **He and I** (subject pronouns) and **brought** (irregular past tense of bring)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence demonstrates the MOST correct use of grammar — adjective, adverb, irregular past tense, and compound sentence all used correctly?",
+      "choices": [
+        {"id": "a", "label": "The small child runned quickly, and she sitted on the bench.", "correct": false, "explanation": "'Runned' and 'sitted' are both wrong irregular past tenses: ran, sat."},
+        {"id": "b", "label": "The small child ran quickly, and she sat on the comfortable bench.", "correct": true, "explanation": "Adjectives (small, comfortable), adverb (quickly), correct past tenses (ran, sat), compound sentence — all correct."},
+        {"id": "c", "label": "The child quick ran and sitted comfortable.", "correct": false, "explanation": "Multiple errors: 'quick' should be 'quickly' (adverb), 'sitted' should be 'sat', 'comfortable' should be 'comfortably'."},
+        {"id": "d", "label": "Small child ran quickly and sitted on a bench.", "correct": false, "explanation": "'Sitted' is wrong (sat), and the sentence is missing an article before 'small child'."}
+      ],
+      "explanation_md": "Choice B correctly uses: **small** (adjective), **comfortable** (adjective), **quickly** (adverb), **ran/sat** (correct irregular past tenses), and **and** to form a compound sentence."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the correct **irregular past tense**?\n\nA) She goed to the park.\nB) She went to the park.\nC) She go to the park.\nD) She wented to the park.",
+      "choices": [
+        {"id": "a", "label": "She goed to the park.", "correct": false, "explanation": "'Goed' is not a word — go is irregular."},
+        {"id": "b", "label": "She went to the park.", "correct": true, "explanation": "'Went' is the correct irregular past tense of 'go'."},
+        {"id": "c", "label": "She go to the park.", "correct": false, "explanation": "'Go' is present tense — not past."},
+        {"id": "d", "label": "She wented to the park.", "correct": false, "explanation": "'Wented' is not a word."}
+      ],
+      "explanation_md": "The correct past tense of *go* is **went**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **compound sentence**?",
+      "choices": [
+        {"id": "a", "label": "The fluffy white cat slept.", "correct": false, "explanation": "One subject + one predicate = simple sentence."},
+        {"id": "b", "label": "The cat slept all day.", "correct": false, "explanation": "Simple sentence — only one independent clause."},
+        {"id": "c", "label": "The cat slept, but the dog barked.", "correct": true, "explanation": "Two independent clauses joined by 'but' — compound sentence."},
+        {"id": "d", "label": "Sleeping cats are quiet.", "correct": false, "explanation": "Simple sentence."}
+      ],
+      "explanation_md": "A **compound sentence** has two independent clauses joined by a conjunction. 'The cat slept, but the dog barked' has two clauses joined by *but*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Edit this sentence and choose the corrected version:\n*The mices eated the cheese themself.*",
+      "choices": [
+        {"id": "a", "label": "The mices ate the cheese themselves.", "correct": false, "explanation": "'Mices' is wrong — the plural of mouse is mice. 'Themselves' is correct."},
+        {"id": "b", "label": "The mice ate the cheese themselves.", "correct": true, "explanation": "Mice (irregular plural), ate (irregular past tense of eat), themselves (correct reflexive for 'they')."},
+        {"id": "c", "label": "The mice eated the cheese themselves.", "correct": false, "explanation": "'Eated' is wrong — the past tense of eat is ate."},
+        {"id": "d", "label": "The mice ate the cheese itself.", "correct": false, "explanation": "'Itself' refers to a thing, not a group of animals. 'Themselves' is correct."}
+      ],
+      "explanation_md": "Corrected: **The mice ate the cheese themselves.** Mice = irregular plural; ate = irregular past tense; themselves = correct reflexive for 'they'."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of a **collective noun**?",
+      "choices": [
+        {"id": "a", "label": "Run", "correct": false, "explanation": "Run is a verb."},
+        {"id": "b", "label": "Team", "correct": true, "explanation": "Team is a collective noun — it names a group of people as one unit."},
+        {"id": "c", "label": "Tall", "correct": false, "explanation": "Tall is an adjective."},
+        {"id": "d", "label": "Quickly", "correct": false, "explanation": "Quickly is an adverb."}
+      ],
+      "explanation_md": "**Team** is a collective noun — it refers to a group of people as a single unit."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the plural of *foot*?",
+      "choices": [
+        {"id": "a", "label": "Foots", "correct": false, "explanation": "You cannot add -s to foot."},
+        {"id": "b", "label": "Feets", "correct": false, "explanation": "This is not a word."},
+        {"id": "c", "label": "Feet", "correct": true, "explanation": "Feet is the irregular plural of foot."},
+        {"id": "d", "label": "Footses", "correct": false, "explanation": "This is not a word."}
+      ],
+      "explanation_md": "The **irregular plural** of *foot* is **feet**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word describes **how** something is done? (Choose the adverb.)",
+      "choices": [
+        {"id": "a", "label": "Blue", "correct": false, "explanation": "Blue is an adjective (describes a noun)."},
+        {"id": "b", "label": "Dog", "correct": false, "explanation": "Dog is a noun."},
+        {"id": "c", "label": "Softly", "correct": true, "explanation": "Softly is an adverb — it describes how something is done."},
+        {"id": "d", "label": "Huge", "correct": false, "explanation": "Huge is an adjective."}
+      ],
+      "explanation_md": "**Softly** is an adverb — it describes how something is done. Many adverbs end in -ly."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the correct **past tense** of *eat*?",
+      "choices": [
+        {"id": "a", "label": "Eated", "correct": false, "explanation": "Eat is irregular — you cannot just add -ed."},
+        {"id": "b", "label": "Ate", "correct": true, "explanation": "Ate is the correct irregular past tense of eat."},
+        {"id": "c", "label": "Eating", "correct": false, "explanation": "Eating is the present participle, not past tense."},
+        {"id": "d", "label": "Eatted", "correct": false, "explanation": "This is not a word."}
+      ],
+      "explanation_md": "The past tense of *eat* is **ate** — it is an irregular verb."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **simple sentence**?",
+      "choices": [
+        {"id": "a", "label": "The bird sang, and the flowers bloomed.", "correct": false, "explanation": "This is a compound sentence — two clauses joined by 'and'."},
+        {"id": "b", "label": "The bird sang.", "correct": true, "explanation": "One subject (bird) + one predicate (sang) = simple sentence."},
+        {"id": "c", "label": "The bird sang, but the cat hissed.", "correct": false, "explanation": "This is a compound sentence — two clauses joined by 'but'."},
+        {"id": "d", "label": "She ran and he swam.", "correct": false, "explanation": "Two independent clauses — compound sentence."}
+      ],
+      "explanation_md": "A **simple sentence** has one subject and one predicate. 'The bird sang' is a simple sentence."
+    }
+  ]
+}
