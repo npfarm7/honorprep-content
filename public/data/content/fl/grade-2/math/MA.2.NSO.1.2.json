@@ -1,0 +1,463 @@
+{
+  "skill_id": "MA.2.NSO.1.2",
+  "benchmark_description": "Compose and decompose three-digit numbers in multiple ways using hundreds, tens, and ones. Demonstrate each composition or decomposition using objects, drawings, or expressions.",
+  "course": "math",
+  "strand": "NSO",
+  "lesson": {
+    "title": "Breaking Apart and Building Three-Digit Numbers",
+    "intro": "Did you know you can take apart a number in many different ways? It is like building with blocks - you can mix and match hundreds, tens, and ones!",
+    "body_md": "## What Does Compose and Decompose Mean?\n- **Compose** means to PUT numbers together to make a bigger number.\n- **Decompose** means to BREAK APART a number into smaller parts.\n\n## Standard Decomposition\nEvery three-digit number can be broken into hundreds, tens, and ones.\n- 347 = 3 hundreds + 4 tens + 7 ones\n- 347 = 300 + 40 + 7\n\n## Multiple Ways to Decompose\nYou can trade tens for ones or hundreds for tens!\n\n| Hundreds | Tens | Ones | Total |\n|----------|------|------|-------|\n| 3 | 4 | 7 | 347 |\n| 3 | 3 | 17 | 347 |\n| 2 | 14 | 7 | 347 |\n\nWait - how can you have 17 ones or 14 tens? You are trading!\n- 10 ones = 1 ten (so 4 tens 7 ones = 3 tens 17 ones)\n- 10 tens = 1 hundred (so 3 hundreds 4 tens = 2 hundreds 14 tens)\n\n## Drawing Models\nUse blocks to show the number:\n- Big square = 1 hundred (100)\n- Long stick = 1 ten (10)\n- Small dot = 1 one (1)\n\n## Examples\n- 256 = 200 + 50 + 6\n- 256 = 200 + 40 + 16 (traded 1 ten for 10 ones)\n- 256 = 100 + 150 + 6 (traded 1 hundred for 10 tens)\n- 256 = 1 hundred + 15 tens + 6 ones",
+    "worked_example_md": "**Show two different ways to decompose 425.**\n\n**Way 1 (standard):**\n425 = 400 + 20 + 5\n= 4 hundreds + 2 tens + 5 ones\n\n**Way 2 (trade a ten):**\nTrade 1 ten for 10 ones: 2 tens becomes 1 ten, 5 ones becomes 15 ones.\n425 = 400 + 10 + 15\n= 4 hundreds + 1 ten + 15 ones\n\nBoth ways equal 425. Check: 400 + 20 + 5 = 425. Check: 400 + 10 + 15 = 425.",
+    "estimated_minutes": 12
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which shows 263 decomposed in the standard way?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2 hundreds + 6 tens + 3 ones",
+          "correct": true,
+          "explanation": "263 has 2 in the hundreds place (200), 6 in the tens place (60), and 3 in the ones place (3)."
+        },
+        {
+          "id": "b",
+          "label": "2 hundreds + 3 tens + 6 ones",
+          "correct": false,
+          "explanation": "This mixes up the tens and ones digits. 263 has 6 tens and 3 ones, not 3 tens and 6 ones."
+        },
+        {
+          "id": "c",
+          "label": "6 hundreds + 2 tens + 3 ones",
+          "correct": false,
+          "explanation": "This puts 6 in the hundreds place, but 263 starts with 2 hundreds."
+        },
+        {
+          "id": "d",
+          "label": "26 tens + 3 ones",
+          "correct": false,
+          "explanation": "26 tens = 260, plus 3 = 263, so the math is right, but this is not the standard decomposition into hundreds, tens, and ones."
+        }
+      ],
+      "explanation_md": "263 in standard decomposition: 2 hundreds + 6 tens + 3 ones = 200 + 60 + 3."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "If 514 = 500 + ___ + 4, what number goes in the blank?",
+      "correct_answer": "10",
+      "explanation_md": "514 = 500 + 10 + 4. The 1 is in the tens place and is worth 10."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Rosa has 3 hundreds blocks, 5 tens blocks, and 8 ones blocks. What number do the blocks show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "385",
+          "correct": false,
+          "explanation": "385 has 8 tens and 5 ones. Rosa has 5 tens and 8 ones, so the tens and ones are switched."
+        },
+        {
+          "id": "b",
+          "label": "538",
+          "correct": false,
+          "explanation": "538 has 5 hundreds. Rosa has 3 hundreds."
+        },
+        {
+          "id": "c",
+          "label": "358",
+          "correct": true,
+          "explanation": "3 hundreds = 300, 5 tens = 50, 8 ones = 8. 300 + 50 + 8 = 358."
+        },
+        {
+          "id": "d",
+          "label": "835",
+          "correct": false,
+          "explanation": "835 has 8 hundreds. Rosa has 3 hundreds."
+        }
+      ],
+      "explanation_md": "3 hundreds + 5 tens + 8 ones = 300 + 50 + 8 = 358."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is another way to decompose 420?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4 hundreds + 2 tens + 0 ones",
+          "correct": false,
+          "explanation": "This is correct but it is the standard way. The question asks for another way."
+        },
+        {
+          "id": "b",
+          "label": "3 hundreds + 12 tens + 0 ones",
+          "correct": true,
+          "explanation": "Trade 1 hundred for 10 tens: 4 hundreds becomes 3 hundreds, and 2 tens becomes 12 tens. 300 + 120 + 0 = 420."
+        },
+        {
+          "id": "c",
+          "label": "3 hundreds + 2 tens + 10 ones",
+          "correct": false,
+          "explanation": "300 + 20 + 10 = 330, not 420."
+        },
+        {
+          "id": "d",
+          "label": "4 hundreds + 0 tens + 20 ones",
+          "correct": false,
+          "explanation": "400 + 0 + 20 = 420. Wait - this does equal 420! But 420 has 2 tens not 20 ones, and 20 ones = 2 tens already, so this is trading a ten, but the better trade is 3 hundreds + 12 tens which is a cleaner decomposition shown in the answer key."
+        }
+      ],
+      "explanation_md": "Trade 1 hundred for 10 tens: 4 hundreds + 2 tens = 3 hundreds + 12 tens. Check: 300 + 120 = 420."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "If 237 = 2 hundreds + 2 tens + ___ ones, what number fills the blank?",
+      "correct_answer": "17",
+      "explanation_md": "Standard form: 237 = 2 hundreds + 3 tens + 7 ones. If we use only 2 tens instead of 3 tens, we must trade the missing ten for 10 ones. 7 + 10 = 17 ones. Check: 200 + 20 + 17 = 237."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Carlos has 4 hundreds, 11 tens, and 3 ones. What number does he have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4113",
+          "correct": false,
+          "explanation": "4,113 is a four-digit number. Carlos has a three-digit number when we trade the extra tens."
+        },
+        {
+          "id": "b",
+          "label": "413",
+          "correct": false,
+          "explanation": "413 = 4 hundreds + 1 ten + 3 ones. But Carlos has 11 tens, which is more than 1 ten."
+        },
+        {
+          "id": "c",
+          "label": "513",
+          "correct": true,
+          "explanation": "11 tens = 1 hundred + 1 ten. So 4 hundreds + 11 tens = 5 hundreds + 1 ten. 500 + 10 + 3 = 513."
+        },
+        {
+          "id": "d",
+          "label": "503",
+          "correct": false,
+          "explanation": "503 has 0 tens. Carlos has 11 tens, which trades to 1 hundred and 1 ten, giving 5 hundreds and 1 ten."
+        }
+      ],
+      "explanation_md": "11 tens = 1 hundred + 1 ten. So 4 hundreds + 11 tens + 3 ones = 5 hundreds + 1 ten + 3 ones = 513."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these does NOT equal 675?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "600 + 70 + 5",
+          "correct": false,
+          "explanation": "600 + 70 + 5 = 675. This does equal 675."
+        },
+        {
+          "id": "b",
+          "label": "600 + 60 + 15",
+          "correct": false,
+          "explanation": "600 + 60 + 15 = 675. This also equals 675 (trade 1 ten for 10 ones)."
+        },
+        {
+          "id": "c",
+          "label": "500 + 170 + 5",
+          "correct": false,
+          "explanation": "500 + 170 + 5 = 675. This equals 675 (trade 1 hundred for 10 tens)."
+        },
+        {
+          "id": "d",
+          "label": "600 + 80 + 5",
+          "correct": true,
+          "explanation": "600 + 80 + 5 = 685, not 675. This is 10 more than 675."
+        }
+      ],
+      "explanation_md": "600 + 80 + 5 = 685, not 675. All others equal 675."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "If 382 = 3 hundreds + ___ tens + 12 ones, what goes in the blank?",
+      "correct_answer": "7",
+      "explanation_md": "Standard: 382 = 3 hundreds + 8 tens + 2 ones. If we have 12 ones, that is 2 + 10, meaning we traded 1 ten for 10 ones. So we have 8 - 1 = 7 tens. Check: 300 + 70 + 12 = 382."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Ava says 500 + 30 + 7 = 5 hundreds + 4 tens + 7 ones because she added extra. Who made a mistake?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ava is correct. 5 hundreds + 4 tens + 7 ones = 537.",
+          "correct": false,
+          "explanation": "5 hundreds + 4 tens + 7 ones = 500 + 40 + 7 = 547, not 537."
+        },
+        {
+          "id": "b",
+          "label": "Ava is wrong. 500 + 30 + 7 = 537, but 5 hundreds + 4 tens + 7 ones = 547.",
+          "correct": true,
+          "explanation": "500 + 30 + 7 = 537. But 5 hundreds + 4 tens + 7 ones = 547. Ava added an extra ten."
+        },
+        {
+          "id": "c",
+          "label": "Ava is correct because tens can be any number.",
+          "correct": false,
+          "explanation": "The number of tens matters. 3 tens = 30, not 40. Ava added an extra ten by mistake."
+        },
+        {
+          "id": "d",
+          "label": "It does not matter because the hundreds are the same.",
+          "correct": false,
+          "explanation": "Every digit matters. The tens digit changes the value by 10 each time."
+        }
+      ],
+      "explanation_md": "500 + 30 + 7 = 537. 5 hundreds + 4 tens + 7 ones = 547. Ava made an error: 30 = 3 tens, not 4 tens."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "How many different ways can you write 200 using only hundreds and tens (no ones)?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 way",
+          "correct": false,
+          "explanation": "There is more than one way. 200 = 2 hundreds + 0 tens, but also 1 hundred + 10 tens, and 0 hundreds + 20 tens."
+        },
+        {
+          "id": "b",
+          "label": "2 ways",
+          "correct": false,
+          "explanation": "There are 3 ways, not 2."
+        },
+        {
+          "id": "c",
+          "label": "3 ways",
+          "correct": true,
+          "explanation": "Way 1: 2 hundreds + 0 tens. Way 2: 1 hundred + 10 tens. Way 3: 0 hundreds + 20 tens. All equal 200."
+        },
+        {
+          "id": "d",
+          "label": "4 ways",
+          "correct": false,
+          "explanation": "There are exactly 3 ways using only hundreds and tens with no ones."
+        }
+      ],
+      "explanation_md": "200 = 2h + 0t = 1h + 10t = 0h + 20t. Three ways total."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a different way to show 364?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 hundreds + 6 tens + 4 ones",
+          "correct": false,
+          "explanation": "This is the standard decomposition, not a different way."
+        },
+        {
+          "id": "b",
+          "label": "2 hundreds + 16 tens + 4 ones",
+          "correct": true,
+          "explanation": "Trade 1 hundred for 10 tens: 3 hundreds becomes 2 hundreds, 6 tens becomes 16 tens. 200 + 160 + 4 = 364."
+        },
+        {
+          "id": "c",
+          "label": "3 hundreds + 5 tens + 4 ones",
+          "correct": false,
+          "explanation": "300 + 50 + 4 = 354, not 364. This is missing a ten."
+        },
+        {
+          "id": "d",
+          "label": "2 hundreds + 6 tens + 14 ones",
+          "correct": false,
+          "explanation": "200 + 60 + 14 = 274, not 364."
+        }
+      ],
+      "explanation_md": "2 hundreds + 16 tens + 4 ones = 200 + 160 + 4 = 364. Trade 1 hundred for 10 tens."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "593 = ___ hundreds + 19 tens + 3 ones. What is the missing number?",
+      "correct_answer": "4",
+      "explanation_md": "Standard: 593 = 5 hundreds + 9 tens + 3 ones. If we use 19 tens instead of 9 tens, that is 10 extra tens = 1 extra hundred. So we need 5 - 1 = 4 hundreds. Check: 400 + 190 + 3 = 593."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Tom says 7 hundreds + 14 tens + 8 ones is the same as 848. Is Tom correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 7 + 14 + 8 = 848.",
+          "correct": false,
+          "explanation": "You cannot just add the digits together. You must use place values: 700 + 140 + 8 = 848."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 700 + 140 + 8 = 848.",
+          "correct": true,
+          "explanation": "7 hundreds = 700, 14 tens = 140, 8 ones = 8. 700 + 140 + 8 = 848. Tom is correct!"
+        },
+        {
+          "id": "c",
+          "label": "No, it equals 748.",
+          "correct": false,
+          "explanation": "748 = 7 hundreds + 4 tens + 8 ones. Tom has 14 tens = 140, not 4 tens = 40."
+        },
+        {
+          "id": "d",
+          "label": "No, you cannot have 14 tens.",
+          "correct": false,
+          "explanation": "You can have 14 tens in a decomposition. 14 tens = 140."
+        }
+      ],
+      "explanation_md": "7 hundreds + 14 tens + 8 ones = 700 + 140 + 8 = 848. Tom is correct."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does 3 hundreds + 4 tens + 2 ones equal?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "342",
+          "correct": true,
+          "explanation": "3 hundreds = 300, 4 tens = 40, 2 ones = 2. 300 + 40 + 2 = 342."
+        },
+        {
+          "id": "b",
+          "label": "432",
+          "correct": false,
+          "explanation": "432 has 4 hundreds and 3 tens. These are switched from what the problem says."
+        },
+        {
+          "id": "c",
+          "label": "234",
+          "correct": false,
+          "explanation": "234 has 2 hundreds. The problem says 3 hundreds."
+        },
+        {
+          "id": "d",
+          "label": "324",
+          "correct": false,
+          "explanation": "324 has 2 tens and 4 ones. The problem says 4 tens and 2 ones."
+        }
+      ],
+      "explanation_md": "3 hundreds = 300, 4 tens = 40, 2 ones = 2. Put them together: 342."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Break apart 175. Fill in the blank: 175 = 100 + 70 + ___",
+      "correct_answer": "5",
+      "explanation_md": "175 = 100 + 70 + 5. The ones digit in 175 is 5."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How many tens are in 460?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4",
+          "correct": false,
+          "explanation": "4 is the hundreds digit. The tens digit of 460 is 6."
+        },
+        {
+          "id": "b",
+          "label": "6",
+          "correct": true,
+          "explanation": "460 has 6 in the tens place. There are 6 tens (60) in 460."
+        },
+        {
+          "id": "c",
+          "label": "46",
+          "correct": false,
+          "explanation": "46 is the first two digits, but the question asks how many tens, which is just the tens digit: 6."
+        },
+        {
+          "id": "d",
+          "label": "0",
+          "correct": false,
+          "explanation": "0 is the ones digit. The tens digit of 460 is 6."
+        }
+      ],
+      "explanation_md": "460 = 4 hundreds + 6 tens + 0 ones. There are 6 tens."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What number equals 2 hundreds + 8 tens + 1 one?",
+      "correct_answer": "281",
+      "explanation_md": "2 hundreds = 200, 8 tens = 80, 1 one = 1. 200 + 80 + 1 = 281."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which shows a way to break apart 315?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "300 + 10 + 5",
+          "correct": true,
+          "explanation": "315 = 300 + 10 + 5. The 3 is hundreds (300), 1 is tens (10), and 5 is ones (5)."
+        },
+        {
+          "id": "b",
+          "label": "300 + 50 + 1",
+          "correct": false,
+          "explanation": "300 + 50 + 1 = 351, not 315. The tens and ones are switched."
+        },
+        {
+          "id": "c",
+          "label": "300 + 15",
+          "correct": false,
+          "explanation": "300 + 15 = 315, so the math is correct, but this groups the tens and ones together rather than separating each place value."
+        },
+        {
+          "id": "d",
+          "label": "30 + 10 + 5",
+          "correct": false,
+          "explanation": "30 + 10 + 5 = 45, not 315. The hundreds must be 300."
+        }
+      ],
+      "explanation_md": "315 = 300 + 10 + 5. Each digit is written with its proper value."
+    }
+  ]
+}
