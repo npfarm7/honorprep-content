@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.R.1.5",
+  "benchmark_description": "Identify and explain the use of poetic elements, including rhythm and repetition, in a poem.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Poetry Elements: Rhythm and Repetition",
+    "intro": "Poems are a special kind of writing that uses words like music. Two important tools poets use are rhythm - the musical beat of a poem - and repetition - using the same words or phrases more than once. These tools make poems fun to read aloud and help poets share their feelings and ideas.",
+    "body_md": "## What Is Rhythm?\n\nRhythm is the pattern of beats you hear when you read a poem aloud. Think of it like the beat in music - some syllables are stronger (stressed) and some are softer (unstressed).\n\nExample:\n\n*JACK and JILL went UP the HILL*\n\nIf you clap along, you feel the beat: CLAP-and-CLAP-went-CLAP-the-CLAP.\n\nRhythm makes poems musical and enjoyable to read.\n\n## What Is Repetition?\n\nRepetition is when a poet uses the same word, phrase, or line more than once.\n\nExample:\n\n*Rain, rain, go away,*\n*Come again another day.*\n\n'Rain, rain' - the word 'rain' is repeated. This creates a chant-like rhythm and makes the feeling stronger.\n\nWhy do poets use repetition?\n- To create rhythm\n- To emphasize an important idea\n- To create a mood (feeling)\n- To make the poem memorable\n\n## Stanzas\n\nA **stanza** is a group of lines in a poem - like a paragraph in a story. Poems are often divided into stanzas.\n\n## Rhyme\n\n**Rhyme** is when words at the end of lines sound alike.\n\n*The cat sat on the MAT,*\n*And wore a funny HAT.*\n\nMat and hat rhyme. Note: rhythm and rhyme are different tools! A poem can have rhythm without rhyme.",
+    "worked_example_md": "## Worked Example\n\n**Poem:**\n*Swish! Swish! Swish! goes the broom,*\n*Cleaning up the dusty room.*\n*Swish! Swish! Swish! back and forth,*\n*East and west and south and north.*\n\n**Rhythm:** Read it aloud and clap! 'SWISH SWISH SWISH goes the BROOM' - you can feel the steady beat.\n\n**Repetition:** 'Swish! Swish! Swish!' is used in lines 1 and 3. This repetition mimics the sound of a broom sweeping and creates rhythm.\n\n**Rhyme:** 'broom' and 'room' sound alike. 'Forth' and 'north' sound alike.\n\n**Why does the poet use repetition here?** To make us hear the sweeping motion and feel the rhythm of the work.",
+    "estimated_minutes": 25
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is **rhythm** in a poem?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Words that look the same",
+          "correct": false,
+          "explanation": "Rhythm is about sound, not appearance."
+        },
+        {
+          "id": "B",
+          "label": "A pattern of beats or stressed sounds",
+          "correct": true,
+          "explanation": "Correct! Rhythm is the musical pattern of beats or stressed syllables you hear when you read a poem aloud."
+        },
+        {
+          "id": "C",
+          "label": "The meaning of the poem",
+          "correct": false,
+          "explanation": "The meaning is the message. Rhythm is the musical pattern of sounds."
+        },
+        {
+          "id": "D",
+          "label": "The number of stanzas",
+          "correct": false,
+          "explanation": "Stanzas are sections of a poem. Rhythm is the sound pattern."
+        }
+      ],
+      "explanation_md": "Rhythm is the musical pattern of beats in a poem, like the beat in a song. You can hear it when you read a poem aloud."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is **repetition** in a poem?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "When a poem has no rhymes",
+          "correct": false,
+          "explanation": "Repetition is about words or phrases being repeated, not about rhyme."
+        },
+        {
+          "id": "B",
+          "label": "When words or phrases are used more than once for effect",
+          "correct": true,
+          "explanation": "Correct! Repetition is when a poet repeats a word, phrase, or line to create rhythm or emphasize an idea."
+        },
+        {
+          "id": "C",
+          "label": "When a poem has many stanzas",
+          "correct": false,
+          "explanation": "Stanzas are sections of a poem. Repetition is the repeated use of words or phrases."
+        },
+        {
+          "id": "D",
+          "label": "When two words sound alike at the end",
+          "correct": false,
+          "explanation": "Words that sound alike at the end are rhymes, not repetition."
+        }
+      ],
+      "explanation_md": "Repetition is when a poet uses the same word, phrase, or line more than once. It creates rhythm and emphasizes important ideas."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this poem:\n\n*Drip, drip, drip goes the rain,*\n*Drip, drip, drip on the pane.*\n\nWhat literary device does the poet use?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Only rhyme",
+          "correct": false,
+          "explanation": "The poem does rhyme (rain/pane), but it also uses repetition of 'Drip, drip, drip.'"
+        },
+        {
+          "id": "B",
+          "label": "Repetition and rhyme",
+          "correct": true,
+          "explanation": "Correct! 'Drip, drip, drip' is repetition. 'Rain' and 'pane' are rhyming words."
+        },
+        {
+          "id": "C",
+          "label": "Only repetition",
+          "correct": false,
+          "explanation": "The poem also has rhyme (rain/pane)."
+        },
+        {
+          "id": "D",
+          "label": "Neither repetition nor rhyme",
+          "correct": false,
+          "explanation": "The poem clearly uses both repetition ('Drip, drip, drip') and rhyme ('rain'/'pane')."
+        }
+      ],
+      "explanation_md": "The poem uses BOTH repetition ('Drip, drip, drip' repeated twice) and rhyme ('rain' and 'pane' sound alike at the end)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the poem:\n\n*The wind blows fast,*\n*The wind blows strong,*\n*The wind blows all*\n*The whole day long.*\n\nWhich line is repeated in a pattern?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'The whole day long'",
+          "correct": false,
+          "explanation": "This line appears once at the end. The repeated pattern is in the other lines."
+        },
+        {
+          "id": "B",
+          "label": "'The wind blows'",
+          "correct": true,
+          "explanation": "Correct! 'The wind blows' begins three of the four lines. This repetition creates a drumbeat rhythm."
+        },
+        {
+          "id": "C",
+          "label": "'fast'",
+          "correct": false,
+          "explanation": "'Fast' appears once. The repeated phrase is 'The wind blows.'"
+        },
+        {
+          "id": "D",
+          "label": "Nothing is repeated",
+          "correct": false,
+          "explanation": "'The wind blows' begins three lines - that is clear repetition."
+        }
+      ],
+      "explanation_md": "'The wind blows' starts three of the four lines. This repetition creates a strong, rhythmic beat and emphasizes the power of the wind."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Clapping along while reading a poem helps you hear the...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Rhyme scheme",
+          "correct": false,
+          "explanation": "Clapping tracks beats, not the pattern of rhyming words at the ends of lines."
+        },
+        {
+          "id": "B",
+          "label": "Rhythm",
+          "correct": true,
+          "explanation": "Correct! Clapping along with a poem helps you feel the pattern of beats - the rhythm."
+        },
+        {
+          "id": "C",
+          "label": "Number of stanzas",
+          "correct": false,
+          "explanation": "Clapping does not count stanzas. It tracks the beat pattern."
+        },
+        {
+          "id": "D",
+          "label": "Author's purpose",
+          "correct": false,
+          "explanation": "The author's purpose is why the poem was written. Clapping helps you feel the rhythm."
+        }
+      ],
+      "explanation_md": "Clapping along while reading a poem helps you feel the beat pattern - the rhythm. Try it: clap on each stressed syllable."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this poem:\n\n*Run, run, run little rabbit,*\n*Run, run, run away!*\n*Run, run, run little rabbit,*\n*Play another day!*\n\nWhy does the poet repeat 'Run, run, run'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because the poet ran out of other words to use",
+          "correct": false,
+          "explanation": "Poets choose their words carefully. Repetition is always a deliberate choice."
+        },
+        {
+          "id": "B",
+          "label": "To create rhythm and show urgency - the rabbit needs to hurry!",
+          "correct": true,
+          "explanation": "Correct! Repeating 'Run, run, run' creates a fast, urgent beat that makes you feel the rabbit needs to move quickly."
+        },
+        {
+          "id": "C",
+          "label": "To make the poem longer",
+          "correct": false,
+          "explanation": "Poets repeat words for effect, not just to fill space."
+        },
+        {
+          "id": "D",
+          "label": "Because rabbits always run in threes",
+          "correct": false,
+          "explanation": "This is a literary device. The repetition creates rhythm and a sense of urgency."
+        }
+      ],
+      "explanation_md": "Repetition of 'Run, run, run' creates a fast, insistent beat and conveys urgency - the rabbit must hurry! Repetition is a tool poets use to create rhythm and reinforce meaning."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A **stanza** in a poem is like a __________ in a story.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Word",
+          "correct": false,
+          "explanation": "A stanza is a group of lines, much larger than a single word."
+        },
+        {
+          "id": "B",
+          "label": "Paragraph",
+          "correct": true,
+          "explanation": "Correct! A stanza is a group of lines in a poem, just like a paragraph is a group of sentences in a story."
+        },
+        {
+          "id": "C",
+          "label": "Title",
+          "correct": false,
+          "explanation": "A stanza is a section of the poem's body, not the title."
+        },
+        {
+          "id": "D",
+          "label": "Letter of the alphabet",
+          "correct": false,
+          "explanation": "A stanza is a structural unit of a poem - a group of lines."
+        }
+      ],
+      "explanation_md": "A stanza is a group of lines in a poem. It functions like a paragraph in prose - it groups related ideas together."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two poems:\n\n**Poem A:**\n*The sun is bright,*\n*The sun is warm,*\n*The sun is my friend.*\n\n**Poem B:**\n*The golden sun lights up the sky,*\n*A warm and friendly morning.*\n\nHow are the poems DIFFERENT in their use of repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Poem A has no repetition; Poem B has repetition",
+          "correct": false,
+          "explanation": "Poem A actually uses repetition ('The sun is...'); Poem B does not."
+        },
+        {
+          "id": "B",
+          "label": "Poem A uses repetition ('The sun is...'); Poem B does not",
+          "correct": true,
+          "explanation": "Correct! Poem A repeats 'The sun is' in each line. Poem B does not use repetition."
+        },
+        {
+          "id": "C",
+          "label": "Both poems use the same amount of repetition",
+          "correct": false,
+          "explanation": "Poem A has clear repetition ('The sun is') while Poem B does not repeat any phrase."
+        },
+        {
+          "id": "D",
+          "label": "Neither poem uses repetition",
+          "correct": false,
+          "explanation": "Poem A repeats 'The sun is' three times - that is clear repetition."
+        }
+      ],
+      "explanation_md": "Poem A uses repetition: 'The sun is' begins all three lines. Poem B tells about the sun without repeating any phrase. This comparison shows how repetition changes the sound and feel of a poem."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this poem:\n\n*Splash! Splash! Splash!*\n*Into the pool we go.*\n*Splash! Splash! Splash!*\n*Through the water's flow.*\n\nWhich TWO poetic elements does this poem use?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Repetition only",
+          "correct": false,
+          "explanation": "The poem also rhymes (go/flow) - it uses both repetition and rhyme."
+        },
+        {
+          "id": "B",
+          "label": "Repetition and rhyme",
+          "correct": true,
+          "explanation": "Correct! 'Splash! Splash! Splash!' is repetition, and 'go' and 'flow' are rhyming words."
+        },
+        {
+          "id": "C",
+          "label": "Rhyme only",
+          "correct": false,
+          "explanation": "The poem also uses repetition ('Splash! Splash! Splash!' appears twice)."
+        },
+        {
+          "id": "D",
+          "label": "Neither repetition nor rhyme",
+          "correct": false,
+          "explanation": "The poem clearly uses both repetition ('Splash!') and rhyme ('go'/'flow')."
+        }
+      ],
+      "explanation_md": "'Splash! Splash! Splash!' is repeated twice (repetition). 'Go' and 'flow' sound alike at the end of their lines (rhyme). The poem uses both."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A poet writes a poem about thunder. She wants readers to feel how loud and scary thunder is. Which technique would BEST help her do this?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Using only one short line in the whole poem",
+          "correct": false,
+          "explanation": "One short line would not build the feeling of thunder. Repetition and rhythm can make sound feel overwhelming."
+        },
+        {
+          "id": "B",
+          "label": "Using repetition and strong rhythm to echo the booming sound of thunder",
+          "correct": true,
+          "explanation": "Correct! Repeating a word or phrase and creating a strong, heavy beat can make readers feel the power and repetition of thunder."
+        },
+        {
+          "id": "C",
+          "label": "Writing the poem without any punctuation",
+          "correct": false,
+          "explanation": "While poets sometimes experiment with punctuation, removing it entirely would not specifically make thunder feel louder or scarier."
+        },
+        {
+          "id": "D",
+          "label": "Using only words that begin with the letter T",
+          "correct": false,
+          "explanation": "Starting words with the same letter is alliteration, which can add sound effects, but it alone would not capture the power of thunder as well as repetition and rhythm."
+        }
+      ],
+      "explanation_md": "Repetition (booming the same phrase over and over) and strong, heavy rhythm work together to make readers feel the overwhelming, crashing sound of thunder. Poets choose these tools intentionally to create mood and feeling."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the poem:\n\n*Bump, bump, bump on the log,*\n*Sits a little green frog.*\n*Bump, bump, bump on the log.*\n\nWhat poetic element does 'Bump, bump, bump' represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Rhyme",
+          "correct": false,
+          "explanation": "Rhyme is when words at the end of lines sound alike. 'Bump' repeating is not rhyme."
+        },
+        {
+          "id": "B",
+          "label": "Repetition",
+          "correct": true,
+          "explanation": "Correct! 'Bump, bump, bump' is used twice in the poem. This is repetition - using the same word or phrase more than once."
+        },
+        {
+          "id": "C",
+          "label": "A stanza",
+          "correct": false,
+          "explanation": "A stanza is a group of lines. 'Bump, bump, bump' is a phrase within a line."
+        },
+        {
+          "id": "D",
+          "label": "The poem's title",
+          "correct": false,
+          "explanation": "'Bump, bump, bump' appears inside the poem, not as its title."
+        }
+      ],
+      "explanation_md": "Repetition is when a word or phrase appears more than once in a poem. 'Bump, bump, bump' appears in lines 1 and 3 - that is repetition used to create a bouncing rhythm."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How does rhythm in a poem help the reader?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It tells the reader the poem's main idea",
+          "correct": false,
+          "explanation": "The main idea comes from the poem's words and images, not its rhythm."
+        },
+        {
+          "id": "B",
+          "label": "It creates a musical, flowing quality that makes the poem enjoyable to read aloud",
+          "correct": true,
+          "explanation": "Correct! Rhythm makes poems feel like music - it creates a beat that makes poems more enjoyable and memorable."
+        },
+        {
+          "id": "C",
+          "label": "It tells the reader how many stanzas the poem has",
+          "correct": false,
+          "explanation": "Rhythm is a sound pattern, not a counting tool for stanzas."
+        },
+        {
+          "id": "D",
+          "label": "It means the poem does not have any rhyming words",
+          "correct": false,
+          "explanation": "Poems can have both rhythm and rhyme. They are separate elements."
+        }
+      ],
+      "explanation_md": "Rhythm creates a musical beat in a poem. This makes poems more enjoyable to read aloud and easier to remember, like the beat in a favorite song."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A poem has four lines. Lines 1 and 3 end with 'tree' and 'bee,' and lines 2 and 4 end with 'play' and 'day.' What ALSO contributes to the poem's rhythm?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Only the rhyming words",
+          "correct": false,
+          "explanation": "Rhyme is one element, but the repetition of the sentence structures also contributes to rhythm."
+        },
+        {
+          "id": "B",
+          "label": "The pattern of beats created by stressed syllables in each line",
+          "correct": true,
+          "explanation": "Correct! Rhythm is created by the pattern of stressed and unstressed syllables, not just by rhyme. The beat of the syllables creates rhythm."
+        },
+        {
+          "id": "C",
+          "label": "The title of the poem",
+          "correct": false,
+          "explanation": "The title is separate from the poem's lines and does not create its rhythmic beat."
+        },
+        {
+          "id": "D",
+          "label": "The number of words in the poem",
+          "correct": false,
+          "explanation": "Word count alone does not create rhythm. It is the pattern of stressed beats that creates it."
+        }
+      ],
+      "explanation_md": "Rhythm comes from the pattern of stressed and unstressed syllables in each line - like a musical beat. Rhyme and rhythm are both tools in poetry but they work differently."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a poem?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The dog ran across the yard and jumped over the fence.",
+          "correct": false,
+          "explanation": "This is a sentence. Poems are usually written in short lines and often have rhythm and rhyme."
+        },
+        {
+          "id": "B",
+          "label": "Roses are red, Violets are blue, Sugar is sweet, And so are you.",
+          "correct": true,
+          "explanation": "Correct! This is a poem - it is written in short lines and has rhythm and rhyme."
+        },
+        {
+          "id": "C",
+          "label": "Chapter 3: The Lost Puppy",
+          "correct": false,
+          "explanation": "This looks like a chapter title from a story, not a poem."
+        },
+        {
+          "id": "D",
+          "label": "A list of grocery items",
+          "correct": false,
+          "explanation": "A grocery list is not a poem. Poems have rhythm, sometimes rhyme, and express feelings or images."
+        }
+      ],
+      "explanation_md": "Poems are written in short lines, often have rhythm, and sometimes rhyme. 'Roses are red...' is a classic poem with rhyme and rhythm."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do we call groups of lines in a poem?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Paragraphs",
+          "correct": false,
+          "explanation": "Groups of sentences in stories are paragraphs. In poems, groups of lines are called stanzas."
+        },
+        {
+          "id": "B",
+          "label": "Stanzas",
+          "correct": true,
+          "explanation": "Correct! Groups of lines in a poem are called stanzas. A stanza is like a paragraph in a poem."
+        },
+        {
+          "id": "C",
+          "label": "Chapters",
+          "correct": false,
+          "explanation": "Chapters are large sections of a book. Groups of lines in a poem are stanzas."
+        },
+        {
+          "id": "D",
+          "label": "Sentences",
+          "correct": false,
+          "explanation": "Poems have lines, not always sentences. Groups of lines are called stanzas."
+        }
+      ],
+      "explanation_md": "A stanza is a group of lines in a poem. It works like a paragraph in a story - grouping related lines together."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read these lines:\n\n*Jump! Jump! Jump!*\n*Into the pile of leaves.*\n\nWhat do you notice about 'Jump! Jump! Jump!'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It rhymes with 'leaves'",
+          "correct": false,
+          "explanation": "'Jump' and 'leaves' do not rhyme. The notable feature is that 'Jump' is repeated."
+        },
+        {
+          "id": "B",
+          "label": "It is repeated three times in a row",
+          "correct": true,
+          "explanation": "Correct! 'Jump' is used three times in a row. This is repetition - using the same word more than once for effect."
+        },
+        {
+          "id": "C",
+          "label": "It is the title of the poem",
+          "correct": false,
+          "explanation": "'Jump! Jump! Jump!' appears in the body of the poem, not as a title."
+        },
+        {
+          "id": "D",
+          "label": "It has five syllables",
+          "correct": false,
+          "explanation": "'Jump' has one syllable. Three 'Jumps' have three syllables total. The notable feature is the repetition."
+        }
+      ],
+      "explanation_md": "Repeating 'Jump!' three times in a row is repetition. It creates excitement and a bouncy rhythm - you can almost feel the jumping!"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Clapping along while reading a poem helps you feel the...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Meaning of the poem",
+          "correct": false,
+          "explanation": "Clapping tracks beats, not the meaning."
+        },
+        {
+          "id": "B",
+          "label": "Rhythm",
+          "correct": true,
+          "explanation": "Correct! Clapping on the beats helps you feel the rhythm - the pattern of strong and weak sounds in the poem."
+        },
+        {
+          "id": "C",
+          "label": "Number of words in the poem",
+          "correct": false,
+          "explanation": "Clapping tracks beats, not word count."
+        },
+        {
+          "id": "D",
+          "label": "Rhyming words",
+          "correct": false,
+          "explanation": "Rhyming words are at the ends of lines - listening for end sounds helps with rhyme. Clapping helps with rhythm."
+        }
+      ],
+      "explanation_md": "Clapping along helps you feel the rhythm - the beat pattern in a poem. Try it with any nursery rhyme!"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word BEST describes what rhythm does in a poem?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It makes the poem look pretty on the page",
+          "correct": false,
+          "explanation": "Rhythm is about sound, not how the poem looks."
+        },
+        {
+          "id": "B",
+          "label": "It creates a musical beat you can feel when you read aloud",
+          "correct": true,
+          "explanation": "Correct! Rhythm creates a beat - like music - that you can hear and feel when you read a poem aloud."
+        },
+        {
+          "id": "C",
+          "label": "It gives the poem a sad feeling",
+          "correct": false,
+          "explanation": "Rhythm is not about sad or happy feelings specifically. It is the beat pattern."
+        },
+        {
+          "id": "D",
+          "label": "It makes the poem shorter",
+          "correct": false,
+          "explanation": "Rhythm has nothing to do with the length of a poem. It is the beat pattern."
+        }
+      ],
+      "explanation_md": "Rhythm creates a musical beat in a poem that you can hear and feel when reading aloud. It is like the beat in your favorite song."
+    }
+  ]
+}
