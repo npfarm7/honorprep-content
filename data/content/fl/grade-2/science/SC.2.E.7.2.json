@@ -1,0 +1,613 @@
+{
+  "skill_id": "SC.2.E.7.2",
+  "benchmark_description": "Investigate by observing and measuring, that the Sun's energy directly and indirectly warms the water, land, and air.",
+  "course": "science",
+  "strand": "E",
+  "lesson": {
+    "title": "The Sun Warms Our World",
+    "intro": "Have you ever touched a sidewalk on a hot, sunny day? It is burning hot! The sun is far away in space, but its energy travels all the way to Earth and warms everything it touches. Let's explore how the sun warms water, land, and air!",
+    "body_md": "## The Sun Is Our Energy Source\n\nThe **sun** gives off energy in the form of light and heat. This energy travels through space and reaches Earth. When sunlight hits something, it can:\n- Be absorbed (soaked in) and warm that object\n- Be reflected (bounced back) without warming\n\n## The Sun Warms Land\n\nWhen sunlight hits the ground, rocks, and soil, they absorb the energy and get warm. Dark-colored surfaces absorb MORE heat. Light-colored surfaces reflect MORE heat.\n\n- **Dark asphalt** -- gets very hot in the sun\n- **Light sand** -- stays cooler\n\n## The Sun Warms Water\n\nSunlight also warms oceans, lakes, and puddles. Warm water can evaporate (turn into water vapor in the air). This is part of the **water cycle**.\n\n## Indirect Warming of Air\n\nThe sun does not directly heat air as well as it heats solid surfaces. Instead:\n1. Sun heats the land or water\n2. The warm land or water heats the air above it\n\nThis is called **indirect warming** -- the air gets warm because the ground got warm first.\n\n## Evidence of Solar Warming\n\nYou can observe the sun's warming effect by:\n- Measuring the temperature of dark vs. light surfaces in sunlight\n- Measuring water temperature in sunlight vs. shade\n- Noticing that the air is warmer over a hot parking lot than over a grassy field",
+    "worked_example_md": "## Worked Example\n\n**Investigation:** Does the sun warm dark surfaces more than light surfaces?\n\n**Setup:** Place a black piece of cardboard and a white piece of cardboard side by side in full sunlight. Put a thermometer on each. After 15 minutes, read the temperatures.\n\n**Results:**\n- Black cardboard: 54 degrees C\n- White cardboard: 38 degrees C\n\n**Conclusion:** The black cardboard absorbed more of the sun's energy and got much hotter. The white cardboard reflected more sunlight and stayed cooler.\n\n**Why this matters:** The color of surfaces affects how much of the sun's energy they absorb -- this is why dark roads and rooftops get so hot in Florida summers.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where does the heat that warms Earth come from?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The center of the Earth",
+          "correct": false,
+          "explanation": "Earth's core does produce heat, but the heat that warms the surface and air comes primarily from the sun."
+        },
+        {
+          "id": "b",
+          "label": "The sun",
+          "correct": true,
+          "explanation": "The sun produces light and heat energy that travels to Earth and warms the land, water, and air."
+        },
+        {
+          "id": "c",
+          "label": "The moon",
+          "correct": false,
+          "explanation": "The moon reflects sunlight but does not produce significant heat of its own."
+        },
+        {
+          "id": "d",
+          "label": "Air moving around the planet",
+          "correct": false,
+          "explanation": "Air moves heat from place to place but is not a source of new heat -- the sun is."
+        }
+      ],
+      "explanation_md": "The sun is Earth's primary heat source. Its energy travels across space and warms land, water, and air."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "On a sunny day, a black sidewalk gets much hotter than a white wall nearby. Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The black sidewalk is bigger",
+          "correct": false,
+          "explanation": "Size is not why one surface gets hotter -- color affects heat absorption."
+        },
+        {
+          "id": "b",
+          "label": "Dark colors absorb more of the sun's energy than light colors",
+          "correct": true,
+          "explanation": "Dark surfaces absorb more sunlight and convert it to heat. Light surfaces reflect more and stay cooler."
+        },
+        {
+          "id": "c",
+          "label": "The sidewalk is closer to the sun",
+          "correct": false,
+          "explanation": "A sidewalk and a nearby wall are essentially the same distance from the sun."
+        },
+        {
+          "id": "d",
+          "label": "White walls stay cold no matter what",
+          "correct": false,
+          "explanation": "White surfaces do get warm -- they just absorb less heat than dark surfaces."
+        }
+      ],
+      "explanation_md": "Dark colors absorb more of the sun's energy and get hotter. Light colors reflect more sunlight and stay cooler."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How does the sun warm the air indirectly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun heats the air directly with laser beams",
+          "correct": false,
+          "explanation": "The sun does not use laser beams -- it emits radiant energy (light and heat)."
+        },
+        {
+          "id": "b",
+          "label": "The sun warms land and water first, and then those surfaces warm the air above them",
+          "correct": true,
+          "explanation": "Air is not heated directly as efficiently as solid surfaces. Land and water absorb solar heat first, then warm the air above them."
+        },
+        {
+          "id": "c",
+          "label": "Wind carries hot air from the sun to Earth",
+          "correct": false,
+          "explanation": "Space is a vacuum -- there is no wind carrying heat from the sun."
+        },
+        {
+          "id": "d",
+          "label": "The air warms before the ground does",
+          "correct": false,
+          "explanation": "Actually the ground warms first, and then it heats the air above it."
+        }
+      ],
+      "explanation_md": "The sun heats land and water directly. Those surfaces then heat the air above them indirectly -- which is why air near hot ground is warmer."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student measures water temperature in a sunny spot and a shaded spot. The sunny water is warmer. What does this show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Shade is always cooler because clouds block heat",
+          "correct": false,
+          "explanation": "Shade created by trees or structures, not necessarily clouds, blocks sunlight. The key point is that sunlight warms water."
+        },
+        {
+          "id": "b",
+          "label": "The sun's energy warms water when sunlight reaches it",
+          "correct": true,
+          "explanation": "Sunlight hitting water transfers energy to the water molecules, warming them. Shaded water does not receive this direct energy."
+        },
+        {
+          "id": "c",
+          "label": "Warm water always moves to sunny spots",
+          "correct": false,
+          "explanation": "Water does not choose to move to sunny spots -- sunlight warms the water where it is."
+        },
+        {
+          "id": "d",
+          "label": "Shaded water is colder because of ice nearby",
+          "correct": false,
+          "explanation": "There is no mention of ice -- the difference is due to sunlight reaching one spot and not the other."
+        }
+      ],
+      "explanation_md": "Sunlight hitting water transfers energy to water molecules, warming them. Shaded water does not receive direct solar energy, so it stays cooler."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why does the air above a dark parking lot feel hotter than the air above a nearby grassy field on a sunny day?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Parking lots are closer to the sun than grass is",
+          "correct": false,
+          "explanation": "A parking lot and nearby field are essentially the same distance from the sun."
+        },
+        {
+          "id": "b",
+          "label": "The dark asphalt absorbs more sunlight and heats up more, warming the air above it",
+          "correct": true,
+          "explanation": "Dark asphalt absorbs more solar energy than grass. The hot asphalt then heats the air above it indirectly."
+        },
+        {
+          "id": "c",
+          "label": "Cars in the parking lot generate extra heat",
+          "correct": false,
+          "explanation": "While cars do generate some heat, the main reason is the dark asphalt absorbing far more solar energy than the grass."
+        },
+        {
+          "id": "d",
+          "label": "Grass makes the air cold by breathing",
+          "correct": false,
+          "explanation": "Plants do release water vapor through transpiration, which can have a cooling effect, but grass does not make air cold by breathing."
+        }
+      ],
+      "explanation_md": "Dark asphalt absorbs more solar energy than grass. The hot asphalt indirectly warms the air above it more than the grass does."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student leaves two cups of water outside -- one in full sunlight and one in shade -- for one hour. She predicts the sunny cup will be warmer. Is this a valid prediction based on what she knows about the sun?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No -- temperature of water is random and cannot be predicted",
+          "correct": false,
+          "explanation": "Water temperature is affected by sunlight in a predictable way -- this is a valid prediction."
+        },
+        {
+          "id": "b",
+          "label": "Yes -- the sun's energy warms water when sunlight reaches it, so the sunny cup should be warmer",
+          "correct": true,
+          "explanation": "The student knows sunlight warms water. That knowledge supports a valid prediction that the sunny cup will be warmer."
+        },
+        {
+          "id": "c",
+          "label": "No -- shade always has the same temperature as sun",
+          "correct": false,
+          "explanation": "Shaded and sunny areas have measurably different temperatures."
+        },
+        {
+          "id": "d",
+          "label": "Yes -- but only if the cups are the same color",
+          "correct": false,
+          "explanation": "Cup color matters less than whether they are in sunlight or shade -- shade is the key variable here."
+        }
+      ],
+      "explanation_md": "Knowing that sunlight warms water allows a valid prediction. The sunny cup should be warmer because it receives direct solar energy."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What happens to water in a puddle when sunlight warms it enough?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It turns into ice",
+          "correct": false,
+          "explanation": "Warming water does not turn it into ice -- that requires cooling."
+        },
+        {
+          "id": "b",
+          "label": "It evaporates -- changes from liquid water to water vapor in the air",
+          "correct": true,
+          "explanation": "When water absorbs enough solar energy, the molecules have enough energy to escape as water vapor. This is how puddles disappear."
+        },
+        {
+          "id": "c",
+          "label": "It sinks into the ground immediately",
+          "correct": false,
+          "explanation": "Some water does soak into the ground, but sunlight warms and evaporates the water -- that is why puddles disappear on sunny days."
+        },
+        {
+          "id": "d",
+          "label": "It stays as liquid forever",
+          "correct": false,
+          "explanation": "Water heated by the sun eventually evaporates -- puddles disappear on sunny days because of evaporation."
+        }
+      ],
+      "explanation_md": "Solar energy heats water molecules until they have enough energy to escape as water vapor. This is evaporation -- one step in the water cycle. It is why puddles disappear on sunny days."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist measures air temperature at 1 meter above the ground (near ground level) and at 10 meters above the ground. On a sunny afternoon, which location would likely have warmer air?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "10 meters above the ground, because it is closer to the sun",
+          "correct": false,
+          "explanation": "10 meters above the ground is not meaningfully closer to the sun, which is 150 million km away."
+        },
+        {
+          "id": "b",
+          "label": "1 meter above the ground, because the hot ground heats the air directly above it",
+          "correct": true,
+          "explanation": "The sun heats the ground, and the warm ground heats the air just above it. The higher up you go, the farther from the heat source."
+        },
+        {
+          "id": "c",
+          "label": "Both locations have exactly the same temperature",
+          "correct": false,
+          "explanation": "Air temperature varies with height above the ground, especially near hot surfaces."
+        },
+        {
+          "id": "d",
+          "label": "Neither -- the sun only heats the ground, not the air",
+          "correct": false,
+          "explanation": "The sun heats the ground, which then heats the air -- so both are warmed, but the air nearest the ground is warmest."
+        }
+      ],
+      "explanation_md": "The sun heats the ground, and the hot ground heats the air just above it. Air nearest hot ground is warmest. This is why temperatures are measured at standard heights to get fair comparisons."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two identical pots of water are placed outdoors. Pot A is in full sunlight. Pot B is in the shade of a tree. After 2 hours, Pot A is 28 degrees C and Pot B is 19 degrees C. What caused this difference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The tree made Pot B colder by absorbing its heat",
+          "correct": false,
+          "explanation": "Trees do not absorb heat from pots. The difference is due to Pot A receiving solar energy."
+        },
+        {
+          "id": "b",
+          "label": "Pot A received direct solar energy from the sun, while Pot B did not",
+          "correct": true,
+          "explanation": "Pot A absorbed sunlight directly, gaining energy and warming to 28 degrees C. Pot B in the shade received no direct sunlight, staying at 19 degrees C."
+        },
+        {
+          "id": "c",
+          "label": "The pots were different sizes",
+          "correct": false,
+          "explanation": "The question says the pots are identical -- size is not the cause."
+        },
+        {
+          "id": "d",
+          "label": "Shade is made of cold air that chilled Pot B",
+          "correct": false,
+          "explanation": "Shade is simply the absence of direct sunlight -- it is not made of cold air."
+        }
+      ],
+      "explanation_md": "Pot A received direct solar energy and warmed significantly. Pot B in the shade received no direct sunlight, so it warmed much less. The 9-degree difference is due to solar energy absorption."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "On a clear day, land near the coast warms up faster than the nearby ocean. By afternoon, the land air is much warmer than the ocean air. This difference creates a sea breeze (cool ocean air flows toward the land). What chain of events caused the sea breeze?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The ocean is colder because it is blue; land is warmer because it is brown",
+          "correct": false,
+          "explanation": "Color does play a small role but the main difference is heat capacity -- land heats and cools faster than water."
+        },
+        {
+          "id": "b",
+          "label": "The sun warms the land faster than the water; warm land heats the air above it; cooler, denser ocean air flows in to replace it",
+          "correct": true,
+          "explanation": "Land absorbs solar energy faster than water and cools faster too. Hot land heats air above it, which rises. Cooler, denser ocean air flows in to replace it -- creating a sea breeze."
+        },
+        {
+          "id": "c",
+          "label": "The sea breeze is random and has nothing to do with the sun",
+          "correct": false,
+          "explanation": "Sea breezes are directly caused by differential solar heating of land and water -- they are predictable and repeat daily."
+        },
+        {
+          "id": "d",
+          "label": "Ocean water evaporates and blows toward land",
+          "correct": false,
+          "explanation": "While water does evaporate from the ocean, evaporation is not what causes a sea breeze. The pressure difference from differential heating is the cause."
+        }
+      ],
+      "explanation_md": "The sun heats land faster than water (land has lower heat capacity). Hot land warms the air above it, which rises. Cooler, denser ocean air flows inland to replace it -- this is a sea breeze, directly caused by solar energy."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student places a thermometer on dark soil and another on light-colored sand. Both are in the same sunlight. Which thermometer will likely show a higher temperature after 20 minutes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The one on light sand, because it is brighter",
+          "correct": false,
+          "explanation": "Brightness does not mean it absorbs more heat -- light colors reflect more sunlight."
+        },
+        {
+          "id": "b",
+          "label": "The one on dark soil, because dark colors absorb more solar energy",
+          "correct": true,
+          "explanation": "Dark surfaces absorb more of the sun's energy, resulting in higher temperatures."
+        },
+        {
+          "id": "c",
+          "label": "Both will be exactly the same temperature",
+          "correct": false,
+          "explanation": "Dark and light surfaces heat up at different rates in sunlight."
+        },
+        {
+          "id": "d",
+          "label": "The one on sand, because sand is closer to the sun",
+          "correct": false,
+          "explanation": "A few centimeters of difference is irrelevant -- the sun is 150 million km away."
+        }
+      ],
+      "explanation_md": "Dark surfaces absorb more solar energy and get hotter. Dark soil will have a higher temperature than light-colored sand in the same sunlight."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Earth's surface is mostly covered by oceans. Why does the sun warming the oceans matter for weather on land?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It does not matter -- the ocean is too far from most land",
+          "correct": false,
+          "explanation": "Oceans cover most of Earth and are connected to weather patterns everywhere."
+        },
+        {
+          "id": "b",
+          "label": "Warm ocean water evaporates and adds water vapor to the air, which eventually falls as rain on land",
+          "correct": true,
+          "explanation": "The sun warms ocean water, causing evaporation. Water vapor rises, forms clouds, and falls as precipitation -- bringing water to land."
+        },
+        {
+          "id": "c",
+          "label": "The ocean stays cold even with sunlight, so it does not affect weather",
+          "correct": false,
+          "explanation": "Oceans do warm from sunlight -- ocean temperatures directly drive weather patterns."
+        },
+        {
+          "id": "d",
+          "label": "Ocean warming only affects fish, not weather",
+          "correct": false,
+          "explanation": "Ocean temperatures are one of the main drivers of weather and climate patterns globally."
+        }
+      ],
+      "explanation_md": "The sun warms ocean water, causing evaporation. Water vapor rises, forms clouds, and eventually falls as rain over land -- directly connecting ocean warming to land weather."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST evidence that the sun warms Earth's land?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The ground is warmer after a sunny day than after a cloudy day",
+          "correct": true,
+          "explanation": "Comparing ground temperature after sunny vs. cloudy days directly shows that sunlight warms the land."
+        },
+        {
+          "id": "b",
+          "label": "The sky is blue on sunny days",
+          "correct": false,
+          "explanation": "Sky color relates to how light scatters in the atmosphere, not to ground temperature."
+        },
+        {
+          "id": "c",
+          "label": "Plants grow during the day",
+          "correct": false,
+          "explanation": "Plants grow using sunlight for photosynthesis -- but this is about food production, not about sunlight warming the ground."
+        },
+        {
+          "id": "d",
+          "label": "It is warmer in summer than winter because Earth is closer to the sun",
+          "correct": false,
+          "explanation": "Seasons are actually caused by Earth's tilt, not by changing distance from the sun. Earth is slightly closer to the sun in January (Northern Hemisphere winter)."
+        }
+      ],
+      "explanation_md": "Comparing ground temperature after sunny vs. cloudy days is direct evidence. Sunny days produce warmer ground because sunlight energy is absorbed -- cloudy days block some sunlight so the ground stays cooler."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "On a sunny day, which surface would feel the hottest to touch?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A white tile in the shade",
+          "correct": false,
+          "explanation": "Shade blocks sunlight. A shaded surface does not receive direct solar energy."
+        },
+        {
+          "id": "b",
+          "label": "A black metal bench in the sun",
+          "correct": true,
+          "explanation": "Dark colors absorb more solar energy, and metal conducts heat well. This combination produces the hottest surface."
+        },
+        {
+          "id": "c",
+          "label": "A green leaf in the sun",
+          "correct": false,
+          "explanation": "Green leaves reflect some sunlight and use some for photosynthesis. They do not absorb as much heat as dark metal."
+        },
+        {
+          "id": "d",
+          "label": "A white wall in the sun",
+          "correct": false,
+          "explanation": "White surfaces reflect more sunlight and absorb less heat than dark surfaces."
+        }
+      ],
+      "explanation_md": "Dark-colored metal in the sun absorbs the most solar energy and becomes very hot. Dark color and direct sunlight are both key."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The sun is very far away in space. How does its heat reach Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Heat travels through pipes from the sun to Earth",
+          "correct": false,
+          "explanation": "There are no pipes in space. Heat from the sun travels as radiant energy (light and infrared radiation)."
+        },
+        {
+          "id": "b",
+          "label": "The sun's energy travels as light and radiation through space",
+          "correct": true,
+          "explanation": "The sun's energy travels as electromagnetic radiation (light and infrared) through the vacuum of space and reaches Earth."
+        },
+        {
+          "id": "c",
+          "label": "Hot air from the sun blows to Earth",
+          "correct": false,
+          "explanation": "Space is a vacuum -- there is no air to carry heat."
+        },
+        {
+          "id": "d",
+          "label": "The sun's heat does not actually reach Earth",
+          "correct": false,
+          "explanation": "The sun's energy absolutely reaches Earth -- it is what makes life on Earth possible."
+        }
+      ],
+      "explanation_md": "The sun's energy travels as electromagnetic radiation -- light and infrared -- through the vacuum of space and reaches Earth's surface."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A puddle in the sun disappears by afternoon. What happened to the water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Someone drank it",
+          "correct": false,
+          "explanation": "A puddle disappearing on its own is due to evaporation, not people drinking it."
+        },
+        {
+          "id": "b",
+          "label": "The sun's energy warmed the water until it evaporated into the air",
+          "correct": true,
+          "explanation": "Solar energy heats the water molecules. When they have enough energy, they escape as water vapor -- this is evaporation."
+        },
+        {
+          "id": "c",
+          "label": "The water sank into the road and is now underground",
+          "correct": false,
+          "explanation": "Roads are not porous -- water does not sink into asphalt. Puddles disappear by evaporation."
+        },
+        {
+          "id": "d",
+          "label": "The puddle froze because the sun is cold",
+          "correct": false,
+          "explanation": "The sun provides heat, not cold. Puddles evaporate in sunlight -- they do not freeze."
+        }
+      ],
+      "explanation_md": "The sun's energy warms the puddle water until it evaporates -- changes from liquid to water vapor in the air. That is why puddles disappear on sunny days."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sense can you use to observe that the sun has warmed the sidewalk?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Taste",
+          "correct": false,
+          "explanation": "You should not taste a sidewalk. Touch and sight are the appropriate senses here."
+        },
+        {
+          "id": "b",
+          "label": "Touch -- it feels hot under your feet or hand",
+          "correct": true,
+          "explanation": "You can feel the warmth of a sun-heated sidewalk with your sense of touch."
+        },
+        {
+          "id": "c",
+          "label": "Hearing -- the sidewalk makes a crackling sound",
+          "correct": false,
+          "explanation": "A warm sidewalk does not make crackling sounds."
+        },
+        {
+          "id": "d",
+          "label": "Smell -- warm sidewalks have no odor",
+          "correct": false,
+          "explanation": "Warm pavement can have a slight smell from tar, but touch is the most direct and reliable sense for detecting warmth."
+        }
+      ],
+      "explanation_md": "You can feel the sun-warmed sidewalk with your sense of touch -- it feels hot, showing that the sun's energy has warmed the concrete."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of the sun warming water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A swimming pool gets warmer on a hot, sunny day",
+          "correct": true,
+          "explanation": "The sun's energy heats the water in the pool directly, warming it throughout the day."
+        },
+        {
+          "id": "b",
+          "label": "A pool gets warmer when you turn on the heater",
+          "correct": false,
+          "explanation": "A pool heater uses electricity or gas -- not the sun's energy."
+        },
+        {
+          "id": "c",
+          "label": "Rainwater warms the pool",
+          "correct": false,
+          "explanation": "Rainwater is typically cooler than pool water -- it would cool the pool, not warm it."
+        },
+        {
+          "id": "d",
+          "label": "A pool gets warmer at night",
+          "correct": false,
+          "explanation": "Without sunlight at night, the pool gradually loses heat. Pools are warmer during the day when the sun shines on them."
+        }
+      ],
+      "explanation_md": "A swimming pool warming up on a sunny day is a direct example of the sun's energy heating water."
+    }
+  ]
+}
