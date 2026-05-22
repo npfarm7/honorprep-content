@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.E.1.1",
+  "benchmark_description": "Summarize the sun's role as the major source of energy on Earth and explain how it affects the growth of plants and animals and the production of weather.",
+  "course": "science",
+  "strand": "E",
+  "lesson": {
+    "title": "The Sun: Earth's Energy Source",
+    "intro": "Every time you feel warm on a sunny day, that warmth traveled 93 million miles from the sun! The sun is the most important energy source for all life on Earth, for weather, and for helping plants grow.",
+    "body_md": "## The Sun Is Earth's Main Energy Source\n\nThe **sun** is a huge ball of hot gas. It produces light and heat through nuclear fusion. Most energy that powers life and weather on Earth comes from the sun.\n\nWithout the sun:\n- Plants could not make food\n- Animals could not survive\n- Earth would be frozen and dark\n- There would be no wind or rain\n\n## The Sun and Plants\n\nPlants use sunlight to make their own food \u2014 **photosynthesis**:\n\n1. Plants absorb **sunlight** through leaves\n2. They take in **water** from soil and **carbon dioxide** from air\n3. Using sun energy, they make **sugar** (food) and release **oxygen**\n\nMore sunlight = more food = faster, healthier growth.\n\n## The Sun and Animals\n\nAnimals cannot make food from sunlight. Instead:\n- **Plant-eaters** eat plants that stored sun energy\n- **Meat-eaters** eat animals that ate plants\n\n**All food energy traces back to the sun.** Even a lion's energy came from the sun: sun \u2192 grass \u2192 zebra \u2192 lion.\n\n## The Sun and Weather\n\n### Wind\nThe sun heats different parts of Earth unevenly. Warm air rises; cool air flows in. This movement of air is **wind**.\n\n### Rain\nSun heats water in oceans and lakes \u2192 water **evaporates** \u2192 rises as vapor \u2192 forms **clouds** \u2192 falls as **rain**.\n\n### Seasons\nEarth tilts as it orbits. Tilted toward the sun = summer (more heat). Tilted away = winter (less heat).\n\n## Summary\n\n| Sun's role | What it does |\n|-----------|---------------|\n| Plant growth | Powers photosynthesis |\n| Animal survival | All food traces to sun |\n| Wind | Uneven heating moves air |\n| Rain | Heats water \u2192 evaporation \u2192 clouds |",
+    "worked_example_md": "## Worked Example: Tracing Energy to the Sun\n\nJake eats a peanut butter sandwich.\n\n- Peanut butter comes from peanut plants \u2192 grew using **sun energy**\n- Bread comes from wheat plants \u2192 grew using **sun energy**\n- Jake eats the sandwich \u2192 gets energy \u2192 all traces back to the **sun**\n\nConclusion: Jake's energy for running, thinking, and breathing originally came from the sun through the food chain.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the main source of energy for life on Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The moon",
+          "correct": false,
+          "explanation": "The moon reflects sunlight but produces no energy of its own."
+        },
+        {
+          "id": "b",
+          "label": "The sun",
+          "correct": true,
+          "explanation": "The sun is Earth's main energy source \u2014 it provides light and heat that power plant growth, animal survival, and weather."
+        },
+        {
+          "id": "c",
+          "label": "Wind",
+          "correct": false,
+          "explanation": "Wind is a result of the sun's energy heating air unevenly \u2014 not an original energy source."
+        },
+        {
+          "id": "d",
+          "label": "Rain",
+          "correct": false,
+          "explanation": "Rain is part of the water cycle powered by the sun \u2014 it is a result of the sun's energy, not the source."
+        }
+      ],
+      "explanation_md": "The **sun** is Earth's main energy source, providing light and heat that drive plant growth, animal survival, and all weather."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do plants use sunlight for?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To stay cool",
+          "correct": false,
+          "explanation": "Plants do not use sunlight to stay cool \u2014 they absorb it to make food."
+        },
+        {
+          "id": "b",
+          "label": "To make their own food",
+          "correct": true,
+          "explanation": "Plants use sunlight in photosynthesis to make sugar (food) from water and carbon dioxide."
+        },
+        {
+          "id": "c",
+          "label": "To attract animals",
+          "correct": false,
+          "explanation": "Some plants attract animals through flowers and scent, but sunlight is used for making food, not for attraction."
+        },
+        {
+          "id": "d",
+          "label": "To make water",
+          "correct": false,
+          "explanation": "Plants absorb water from soil \u2014 they do not make water from sunlight."
+        }
+      ],
+      "explanation_md": "Plants use sunlight to **make food** through photosynthesis \u2014 combining sunlight, water, and carbon dioxide to produce sugar."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How does the sun create wind?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun blows air toward Earth from space.",
+          "correct": false,
+          "explanation": "The sun does not blow air \u2014 it radiates heat and light. Wind forms from uneven heating of Earth's air."
+        },
+        {
+          "id": "b",
+          "label": "The sun heats Earth unevenly, causing air to move.",
+          "correct": true,
+          "explanation": "When the sun heats some parts of Earth more than others, warm air rises and cool air rushes in \u2014 creating wind."
+        },
+        {
+          "id": "c",
+          "label": "The sun makes rain, and rain creates wind.",
+          "correct": false,
+          "explanation": "Rain is part of the water cycle. Wind forms from uneven heating of air, not from rain."
+        },
+        {
+          "id": "d",
+          "label": "The sun spins and pushes air around Earth.",
+          "correct": false,
+          "explanation": "The sun's spin does not push Earth's air. Wind forms from temperature differences in the atmosphere."
+        }
+      ],
+      "explanation_md": "The sun heats Earth **unevenly** \u2014 warm air rises and cooler air rushes in to replace it. This movement of air is **wind**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A plant is put in a dark closet for two weeks. What will most likely happen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It will grow faster because it is warm.",
+          "correct": false,
+          "explanation": "Without light, the plant cannot make food. Warmth alone cannot sustain a plant."
+        },
+        {
+          "id": "b",
+          "label": "It will grow larger because it has more space.",
+          "correct": false,
+          "explanation": "Space does not replace sunlight. Without light, the plant cannot perform photosynthesis or grow."
+        },
+        {
+          "id": "c",
+          "label": "It will weaken or die \u2014 it cannot make food without sunlight.",
+          "correct": true,
+          "explanation": "Without sunlight, photosynthesis stops. The plant uses up its stored energy and eventually weakens or dies."
+        },
+        {
+          "id": "d",
+          "label": "It will stay exactly the same.",
+          "correct": false,
+          "explanation": "Plants need sunlight to survive. Without it, they cannot make food and will not stay healthy."
+        }
+      ],
+      "explanation_md": "Without sunlight, **photosynthesis stops**. The plant cannot make food and will use up its stored energy, then weaken and die."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A deer eats grass. Where did the energy in the grass originally come from?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "From the soil",
+          "correct": false,
+          "explanation": "Soil provides minerals and water but not the main food energy. The sun is the original energy source for the grass."
+        },
+        {
+          "id": "b",
+          "label": "From the sun",
+          "correct": true,
+          "explanation": "The grass used the sun's energy to make food through photosynthesis. When the deer eats the grass, it gets that energy \u2014 originally from the sun."
+        },
+        {
+          "id": "c",
+          "label": "From the rain",
+          "correct": false,
+          "explanation": "Rain provides water, but the energy in the grass comes from sunlight through photosynthesis."
+        },
+        {
+          "id": "d",
+          "label": "From the deer itself",
+          "correct": false,
+          "explanation": "The deer gets energy FROM the grass \u2014 the energy flows to the deer, not from it."
+        }
+      ],
+      "explanation_md": "The grass made food from the **sun's energy** through photosynthesis. When the deer eats the grass, it gets that energy \u2014 which originally came from the **sun**."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does the sun cause rain?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun pushes clouds together, forcing rain out.",
+          "correct": false,
+          "explanation": "The sun does not physically push clouds. It heats water, causing evaporation, which leads to cloud formation and rain."
+        },
+        {
+          "id": "b",
+          "label": "The sun heats water \u2192 it evaporates \u2192 forms clouds \u2192 falls as rain.",
+          "correct": true,
+          "explanation": "Solar heat evaporates water, which rises as vapor, cools into clouds, and eventually falls as rain \u2014 the water cycle driven by the sun."
+        },
+        {
+          "id": "c",
+          "label": "The sun creates rain by cooling the ocean.",
+          "correct": false,
+          "explanation": "The sun heats the ocean \u2014 it does not cool it. The heating causes evaporation and eventually rain."
+        },
+        {
+          "id": "d",
+          "label": "The sun has no connection to rain.",
+          "correct": false,
+          "explanation": "The sun drives the entire water cycle. Without the sun's heat, there would be far less evaporation and much less rainfall."
+        }
+      ],
+      "explanation_md": "The sun **heats** water \u2192 water **evaporates** \u2192 vapor rises and cools \u2192 **clouds** form \u2192 water falls as **rain**. The sun drives the entire water cycle."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why would Earth be very cold without the sun?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because the moon would take over and be cold.",
+          "correct": false,
+          "explanation": "The moon produces no heat. Without the sun, the moon would also be dark and cold."
+        },
+        {
+          "id": "b",
+          "label": "Because the sun provides the heat energy that warms Earth.",
+          "correct": true,
+          "explanation": "The sun continuously sends heat energy to Earth. Without it, Earth would lose heat to space and become extremely cold."
+        },
+        {
+          "id": "c",
+          "label": "Because plants would freeze the air.",
+          "correct": false,
+          "explanation": "Plants do not produce cold \u2014 they convert sunlight to chemical energy. They do not regulate global temperature."
+        },
+        {
+          "id": "d",
+          "label": "Because spinning makes things cold.",
+          "correct": false,
+          "explanation": "Earth's spin creates day and night but does not make Earth cold. The sun's heat keeps Earth warm."
+        }
+      ],
+      "explanation_md": "The sun provides **heat energy** that warms Earth's surface and atmosphere. Without it, Earth would radiate its heat into space and become far too cold for life."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement about the sun is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun only affects plants.",
+          "correct": false,
+          "explanation": "The sun affects plants, animals, and weather. All three depend on the sun's energy."
+        },
+        {
+          "id": "b",
+          "label": "The sun affects plant growth, animal survival, and weather.",
+          "correct": true,
+          "explanation": "The sun is the energy source for plant photosynthesis, all food chains, and all weather patterns on Earth."
+        },
+        {
+          "id": "c",
+          "label": "The sun affects weather but not plants or animals.",
+          "correct": false,
+          "explanation": "The sun affects all three. Plants use it for photosynthesis; animals need it through food; weather is driven by solar heat."
+        },
+        {
+          "id": "d",
+          "label": "The sun is not important because we get energy from food.",
+          "correct": false,
+          "explanation": "All food energy originally comes from the sun. Without the sun, there would be no food."
+        }
+      ],
+      "explanation_md": "The sun **affects plant growth** (photosynthesis), **animal survival** (food energy traces to sun), and **weather** (drives wind, rain, seasons). It is Earth's most important energy source."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Plant A gets 8 hours of sunlight per day. Plant B gets 1 hour. After 4 weeks, which is healthier?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Plant B \u2014 less sunlight means less heat, which is better.",
+          "correct": false,
+          "explanation": "Less sunlight means less energy for photosynthesis and less food production \u2014 Plant B will be weaker, not healthier."
+        },
+        {
+          "id": "b",
+          "label": "Plant A \u2014 more sunlight means more photosynthesis and more food.",
+          "correct": true,
+          "explanation": "Plant A gets more sun energy, so it can make more food through photosynthesis. More food = faster, healthier growth."
+        },
+        {
+          "id": "c",
+          "label": "Both will be equally healthy.",
+          "correct": false,
+          "explanation": "Different amounts of sunlight result in different amounts of photosynthesis and food production."
+        },
+        {
+          "id": "d",
+          "label": "Plant B \u2014 less light prevents drying out.",
+          "correct": false,
+          "explanation": "8 hours per day is normal, not excessive. The main factor is photosynthesis, and more sunlight supports better growth."
+        }
+      ],
+      "explanation_md": "Plant A will be healthier because it receives **more sunlight** \u2192 performs more **photosynthesis** \u2192 produces more food \u2192 grows faster and stronger."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A wolf eats a rabbit. The rabbit ate grass. The grass used sunlight to grow. Which best explains the energy chain?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The wolf gets energy from the rabbit, so the sun has no role.",
+          "correct": false,
+          "explanation": "The sun has a crucial role \u2014 it is the original source of all energy in this chain."
+        },
+        {
+          "id": "b",
+          "label": "Energy flows: sun \u2192 grass \u2192 rabbit \u2192 wolf.",
+          "correct": true,
+          "explanation": "The sun's energy is captured by grass (photosynthesis), the rabbit eats the grass, the wolf eats the rabbit. All energy traces back to the sun."
+        },
+        {
+          "id": "c",
+          "label": "The rabbit gets energy from the wolf.",
+          "correct": false,
+          "explanation": "The chain is reversed here. Wolves eat rabbits; rabbits eat grass. Energy flows from plants to plant-eaters to meat-eaters."
+        },
+        {
+          "id": "d",
+          "label": "All animals make energy from sunlight like plants do.",
+          "correct": false,
+          "explanation": "Animals cannot make energy directly from sunlight \u2014 only plants and similar organisms can perform photosynthesis."
+        }
+      ],
+      "explanation_md": "The energy chain: **Sun \u2192 Grass** (photosynthesis) \u2192 **Rabbit** (eats grass) \u2192 **Wolf** (eats rabbit). The sun is the original energy source for the entire chain."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does the sun affect weather?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun has no effect on weather.",
+          "correct": false,
+          "explanation": "The sun is the engine of all weather \u2014 without it, there would be no wind, rain, or seasons."
+        },
+        {
+          "id": "b",
+          "label": "The sun heats air and water, causing wind and driving the water cycle.",
+          "correct": true,
+          "explanation": "Solar heat causes water to evaporate (water cycle) and heats air unevenly (creating wind). Both processes create weather."
+        },
+        {
+          "id": "c",
+          "label": "The sun only creates storms by shining too brightly.",
+          "correct": false,
+          "explanation": "Bright sunlight alone does not create storms. Weather forms through complex heating and air movement."
+        },
+        {
+          "id": "d",
+          "label": "The sun cools Earth, creating weather.",
+          "correct": false,
+          "explanation": "The sun heats Earth \u2014 it does not cool it. That heating drives weather."
+        }
+      ],
+      "explanation_md": "The sun **heats** Earth's air and water. Uneven heating creates **wind**; heated water **evaporates** to drive the water cycle and make rain. Both are weather-producing processes."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student says 'Even lions get their energy from the sun.' Is she correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No \u2014 lions get energy from meat, not the sun.",
+          "correct": false,
+          "explanation": "While lions eat meat, the energy in the meat originally came from the sun through plants and plant-eating animals."
+        },
+        {
+          "id": "b",
+          "label": "Yes \u2014 lions eat animals that eat plants that used the sun's energy.",
+          "correct": true,
+          "explanation": "The energy chain traces to the sun: Sun \u2192 plants \u2192 plant-eaters \u2192 lions. All food energy originally came from the sun."
+        },
+        {
+          "id": "c",
+          "label": "No \u2014 lions make their own energy like plants.",
+          "correct": false,
+          "explanation": "Lions cannot perform photosynthesis. They must eat to get energy."
+        },
+        {
+          "id": "d",
+          "label": "Yes \u2014 because lions lie in the sun to warm themselves.",
+          "correct": false,
+          "explanation": "Lions do warm in the sun, but that is not the reason the student is correct. The food chain connection is the reason."
+        }
+      ],
+      "explanation_md": "The student is **correct**. Energy chain: Sun \u2192 plants \u2192 plant-eaters \u2192 lions. Every link ultimately traces its energy back to the **sun**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why would Earth have much less rain without the sun?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Without the sun, there would be no air for clouds to form in.",
+          "correct": false,
+          "explanation": "Air would still exist without the sun. The problem is that the sun's heat causes evaporation, which is needed for clouds and rain."
+        },
+        {
+          "id": "b",
+          "label": "Without the sun's heat, water would not evaporate, so clouds and rain would not form.",
+          "correct": true,
+          "explanation": "The sun heats water, causing evaporation. Without evaporation, no water vapor rises to form clouds, and there is no rain."
+        },
+        {
+          "id": "c",
+          "label": "Without the sun, plants would make more water to replace the rain.",
+          "correct": false,
+          "explanation": "Plants cannot create water \u2014 they absorb and release it. They cannot replace rainfall."
+        },
+        {
+          "id": "d",
+          "label": "Rain comes from underground, not clouds, so the sun does not matter.",
+          "correct": false,
+          "explanation": "Rain comes from clouds in the atmosphere. Groundwater is underground water that rain replenishes \u2014 not the source of rain."
+        }
+      ],
+      "explanation_md": "Rain depends on **evaporation**: sun heats water \u2192 evaporates \u2192 rises \u2192 cools \u2192 forms clouds \u2192 falls as rain. Without the sun's heat, **evaporation stops** \u2192 no clouds \u2192 no rain."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the sun give Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soil and rocks",
+          "correct": false,
+          "explanation": "Soil and rocks come from Earth's crust, not the sun."
+        },
+        {
+          "id": "b",
+          "label": "Light and heat",
+          "correct": true,
+          "explanation": "The sun gives Earth light and heat energy \u2014 these power plant growth, animal survival, and weather."
+        },
+        {
+          "id": "c",
+          "label": "Water and food",
+          "correct": false,
+          "explanation": "Water comes from Earth. Food is made by plants using sun energy \u2014 but the sun itself is not water or food."
+        },
+        {
+          "id": "d",
+          "label": "Wind and clouds",
+          "correct": false,
+          "explanation": "Wind and clouds are results of the sun's heat \u2014 not what the sun itself gives."
+        }
+      ],
+      "explanation_md": "The sun gives Earth **light and heat** \u2014 the two forms of energy that make life and weather possible."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do plants need from the sun to make food?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Heat to warm roots",
+          "correct": false,
+          "explanation": "Roots absorb water and minerals. Leaves use light \u2014 not root heat \u2014 for photosynthesis."
+        },
+        {
+          "id": "b",
+          "label": "Light for photosynthesis",
+          "correct": true,
+          "explanation": "Plants use sunlight in photosynthesis to make their own food (sugar)."
+        },
+        {
+          "id": "c",
+          "label": "Wind to blow on leaves",
+          "correct": false,
+          "explanation": "Wind can help with pollination, but plants use sunlight \u2014 not wind \u2014 to make food."
+        },
+        {
+          "id": "d",
+          "label": "Shadows to protect them",
+          "correct": false,
+          "explanation": "Shadows block sunlight. Plants need sunlight for photosynthesis, not shadows."
+        }
+      ],
+      "explanation_md": "Plants use **light** from the sun in **photosynthesis** to make food (sugar). Without sunlight, they cannot make food."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why can a rabbit be called a 'sun-powered animal'?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because rabbits lie in the sun all day.",
+          "correct": false,
+          "explanation": "Rabbits get energy by eating plants, not from lying in the sun."
+        },
+        {
+          "id": "b",
+          "label": "Because rabbits eat plants that used sun energy to grow.",
+          "correct": true,
+          "explanation": "Plants use sun energy to make food. When rabbits eat plants, they get that energy \u2014 originally from the sun."
+        },
+        {
+          "id": "c",
+          "label": "Because rabbits have solar panels on their backs.",
+          "correct": false,
+          "explanation": "Rabbits do not have solar panels. They get energy by eating plants."
+        },
+        {
+          "id": "d",
+          "label": "Because the sun makes rabbits run fast.",
+          "correct": false,
+          "explanation": "Rabbits run fast using energy from food \u2014 which traces back to the sun through the food chain."
+        }
+      ],
+      "explanation_md": "Rabbits eat **plants**. Plants used the **sun's energy** to grow. So rabbit energy traces to the sun \u2014 making the rabbit a sun-powered animal."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the sun do to water on Earth's surface?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Freezes it",
+          "correct": false,
+          "explanation": "The sun warms water \u2014 it does not freeze it."
+        },
+        {
+          "id": "b",
+          "label": "Heats and evaporates it",
+          "correct": true,
+          "explanation": "The sun's heat causes water to evaporate \u2014 turning from liquid into water vapor in the air."
+        },
+        {
+          "id": "c",
+          "label": "Makes water sink into the ground",
+          "correct": false,
+          "explanation": "Water sinks into ground due to gravity. The sun evaporates water upward, not downward."
+        },
+        {
+          "id": "d",
+          "label": "Makes water turn into rocks",
+          "correct": false,
+          "explanation": "Water cannot turn into rocks. The sun causes water to evaporate into vapor."
+        }
+      ],
+      "explanation_md": "The sun **heats** water and causes it to **evaporate** \u2014 turning into water vapor that rises and eventually forms clouds and rain."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If the sun stopped shining for a year, what would happen to plants?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Plants would keep growing \u2014 they store extra sunlight.",
+          "correct": false,
+          "explanation": "Plants cannot store enough energy to last a year without sunlight. They would quickly run out."
+        },
+        {
+          "id": "b",
+          "label": "Plants would die \u2014 they cannot make food without sunlight.",
+          "correct": true,
+          "explanation": "Without sunlight, photosynthesis stops. Plants cannot make food and will use up stored energy, then die."
+        },
+        {
+          "id": "c",
+          "label": "Plants would grow faster in the dark.",
+          "correct": false,
+          "explanation": "Darkness stops photosynthesis. Plants cannot grow without light."
+        },
+        {
+          "id": "d",
+          "label": "Plants would get energy from soil instead.",
+          "correct": false,
+          "explanation": "Soil provides water and minerals \u2014 not the light energy needed for photosynthesis."
+        }
+      ],
+      "explanation_md": "Without sunlight, **photosynthesis stops** and plants **die**. This shows how critical the sun is \u2014 all life on Earth depends on it."
+    }
+  ]
+}
