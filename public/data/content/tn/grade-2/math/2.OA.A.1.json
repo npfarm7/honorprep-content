@@ -1,0 +1,413 @@
+{
+  "skill_id": "2.OA.A.1",
+  "benchmark_description": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
+  "course": "math",
+  "strand": "OA",
+  "lesson": {
+    "title": "Solving Word Problems with Addition and Subtraction",
+    "intro": "Word problems tell a math story, and you get to figure out what happens! You can draw pictures, write number sentences, and use a box or question mark to show the part you are solving for.",
+    "body_md": "## What Is a Word Problem?\n\nA word problem gives you information and asks you to find a missing number. You use **addition** or **subtraction** to solve it.\n\n## Addition Word Problems\n\nAddition problems happen when things are being **put together** or **added to**.\n\n**Key words that often mean addition:** in all, altogether, total, how many now, joined\n\n**Example:**\nMaya has 23 stickers. She gets 14 more. How many stickers does she have in all?\n\n- We are putting stickers together, so we **add**.\n- 23 + 14 = 37\n\n## Subtraction Word Problems\n\nSubtraction problems happen when things are being **taken away** or you are **comparing** two amounts.\n\n**Key words that often mean subtraction:** left over, fewer, difference, how many more, took away\n\n**Example:**\nThere are 56 apples. Kids ate 30. How many apples are left?\n\n- Apples were taken away, so we **subtract**.\n- 56 - 30 = 26\n\n## Two-Step Problems\n\nSome problems need **two steps**. Solve the first step, then use that answer in the second step.\n\n**Example:**\nJake had 40 cards. He gave away 15 cards. Then he found 8 more. How many cards does Jake have now?\n\n- Step 1: 40 - 15 = 25\n- Step 2: 25 + 8 = 33\n\n## Using a Symbol for the Unknown\n\nYou can use a box (?) or a letter to show the number you need to find.\n\n| Situation | Equation |\n|---|---|\n| Start unknown | ? + 12 = 20 |\n| Change unknown | 30 + ? = 45 |\n| Result unknown | 18 + 9 = ? |\n\n## Drawing a Picture\n\nDrawing circles or tally marks helps you see the problem clearly. Always reread the problem after you solve it to make sure your answer makes sense.",
+    "worked_example_md": "**Problem:** There are 47 kids on the playground. 19 kids go inside. Then 6 more kids come outside. How many kids are on the playground now?\n\n**Step 1:** Read the problem carefully. Kids are leaving AND more kids are coming.\n\n**Step 2:** First, subtract the kids who went inside.\n47 - 19 = 28\n\n**Step 3:** Then add the kids who came outside.\n28 + 6 = 34\n\n**Answer:** There are **34 kids** on the playground.\n\n**Check:** Does 34 make sense? We started with 47, lost 19, so there should be fewer than 47 but more than 0. Yes, 34 makes sense!",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Sam has 12 toy cars. He gets 5 more for his birthday. How many toy cars does Sam have now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7",
+          "correct": false,
+          "explanation": "You subtracted instead of added. When Sam gets more cars, we add: 12 + 5 = 17."
+        },
+        {
+          "id": "b",
+          "label": "17",
+          "correct": true,
+          "explanation": "Correct! 12 + 5 = 17. Sam got more cars, so we add."
+        },
+        {
+          "id": "c",
+          "label": "15",
+          "correct": false,
+          "explanation": "This is not correct. Adding 12 + 5 gives 17, not 15. Count up 5 from 12: 13, 14, 15, 16, 17."
+        },
+        {
+          "id": "d",
+          "label": "18",
+          "correct": false,
+          "explanation": "This is one too many. 12 + 5 = 17, not 18. Be careful counting on from 12."
+        }
+      ],
+      "explanation_md": "Sam is getting more cars, so we add. 12 + 5 = 17."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "There are 30 grapes in a bowl. Lily eats 11 grapes. How many grapes are left?",
+      "correct_answer": "19",
+      "explanation_md": "Grapes were eaten, so we subtract. 30 - 11 = 19. There are 19 grapes left."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Anna has 24 crayons. She gives 9 crayons to her friend. How many crayons does Anna have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "33",
+          "correct": false,
+          "explanation": "You added instead of subtracted. When Anna gives crayons away, she has fewer, so subtract: 24 - 9 = 15."
+        },
+        {
+          "id": "b",
+          "label": "14",
+          "correct": false,
+          "explanation": "This is one too few. 24 - 9 = 15. Check by counting back 9 from 24."
+        },
+        {
+          "id": "c",
+          "label": "15",
+          "correct": true,
+          "explanation": "Correct! 24 - 9 = 15. Anna gave some crayons away, so we subtract."
+        },
+        {
+          "id": "d",
+          "label": "16",
+          "correct": false,
+          "explanation": "This is one too many. 24 - 9 = 15, not 16. Count back carefully: 24, 23, 22, 21, 20, 19, 18, 17, 16, 15."
+        }
+      ],
+      "explanation_md": "Anna gives crayons away, so we subtract. 24 - 9 = 15."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "There were 45 birds in a tree. Some birds flew away. Now there are 28 birds. How many birds flew away?",
+      "correct_answer": "17",
+      "explanation_md": "We need the change. 45 - ? = 28. So 45 - 28 = 17. Seventeen birds flew away."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The library had 63 books on the shelf. Students checked out 27 books. Then 14 more books were returned. How many books are on the shelf now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "50",
+          "correct": true,
+          "explanation": "Correct! Step 1: 63 - 27 = 36. Step 2: 36 + 14 = 50."
+        },
+        {
+          "id": "b",
+          "label": "22",
+          "correct": false,
+          "explanation": "It looks like you subtracted both numbers. You need to subtract first, then add: 63 - 27 = 36, then 36 + 14 = 50."
+        },
+        {
+          "id": "c",
+          "label": "104",
+          "correct": false,
+          "explanation": "You added all the numbers together. Remember: books were taken out (subtract), then some came back (add). 63 - 27 + 14 = 50."
+        },
+        {
+          "id": "d",
+          "label": "36",
+          "correct": false,
+          "explanation": "You stopped after the first step. After 63 - 27 = 36, you still need to add the 14 returned books: 36 + 14 = 50."
+        }
+      ],
+      "explanation_md": "Two steps: First subtract the checked-out books (63 - 27 = 36), then add the returned books (36 + 14 = 50)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Marco collected 38 shells. His sister collected 25 shells. How many more shells does Marco have than his sister?",
+      "correct_answer": "13",
+      "explanation_md": "We are comparing, so we subtract. 38 - 25 = 13. Marco has 13 more shells than his sister."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "There are some red and blue marbles in a bag. There are 34 red marbles and 29 blue marbles. How many marbles are in the bag in all?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": false,
+          "explanation": "You subtracted instead of added. The problem asks for marbles in all, which means put together. 34 + 29 = 63."
+        },
+        {
+          "id": "b",
+          "label": "53",
+          "correct": false,
+          "explanation": "This is not correct. Be careful adding the tens and ones. 34 + 29: 4 + 9 = 13, write 3, carry 1. 3 + 2 + 1 = 6. So 63."
+        },
+        {
+          "id": "c",
+          "label": "63",
+          "correct": true,
+          "explanation": "Correct! 34 + 29 = 63. We add because we want to find the total."
+        },
+        {
+          "id": "d",
+          "label": "64",
+          "correct": false,
+          "explanation": "This is one too many. 34 + 29 = 63, not 64. Check the ones: 4 + 9 = 13."
+        }
+      ],
+      "explanation_md": "In all means total, so we add. 34 + 29 = 63."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A baker made 75 muffins. She sold some muffins. Now she has 48 muffins. How many muffins did she sell?",
+      "correct_answer": "27",
+      "explanation_md": "We need to find how many were sold. 75 - ? = 48. So 75 - 48 = 27. She sold 27 muffins."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "On Monday, 52 kids rode the bus. On Tuesday, 16 fewer kids rode the bus than on Monday. How many kids rode the bus on Tuesday?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "68",
+          "correct": false,
+          "explanation": "You added instead of subtracted. Fewer means less, so subtract. 52 - 16 = 36."
+        },
+        {
+          "id": "b",
+          "label": "36",
+          "correct": true,
+          "explanation": "Correct! Fewer means less. 52 - 16 = 36 kids rode the bus on Tuesday."
+        },
+        {
+          "id": "c",
+          "label": "38",
+          "correct": false,
+          "explanation": "Close, but not quite right. 52 - 16 = 36. Check: 52 - 10 = 42, then 42 - 6 = 36."
+        },
+        {
+          "id": "d",
+          "label": "26",
+          "correct": false,
+          "explanation": "It looks like you subtracted 26 instead of 16. 52 - 16 = 36."
+        }
+      ],
+      "explanation_md": "Fewer means we subtract. 52 - 16 = 36 kids rode on Tuesday."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "A pet store had some fish. They sold 23 fish in the morning and 18 fish in the afternoon. At the end of the day, 41 fish were left. How many fish did the store have at the start?",
+      "correct_answer": "82",
+      "explanation_md": "We need to work backward. At the end there were 41 fish. They sold 18 in the afternoon, so before afternoon there were 41 + 18 = 59. They sold 23 in the morning, so the store started with 59 + 23 = 82 fish."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "There are 54 students at recess. 17 go inside. Then 9 more students come outside. How many students are at recess now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "28",
+          "correct": false,
+          "explanation": "You subtracted both numbers. First subtract, then add: 54 - 17 = 37, then 37 + 9 = 46."
+        },
+        {
+          "id": "b",
+          "label": "80",
+          "correct": false,
+          "explanation": "You added all numbers. Remember to subtract the ones who went inside first, then add the ones who came out."
+        },
+        {
+          "id": "c",
+          "label": "37",
+          "correct": false,
+          "explanation": "You completed the first step but forgot the second. After 54 - 17 = 37, you still need to add 9 more: 37 + 9 = 46."
+        },
+        {
+          "id": "d",
+          "label": "46",
+          "correct": true,
+          "explanation": "Correct! Step 1: 54 - 17 = 37. Step 2: 37 + 9 = 46."
+        }
+      ],
+      "explanation_md": "Two steps: 54 - 17 = 37, then 37 + 9 = 46."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "Ella read 43 pages on Saturday. She read some pages on Sunday. Altogether she read 78 pages over the weekend. How many pages did Ella read on Sunday?",
+      "correct_answer": "35",
+      "explanation_md": "We need the unknown addend. 43 + ? = 78. So 78 - 43 = 35. Ella read 35 pages on Sunday."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A jar has 60 jellybeans. 24 are red and the rest are blue. How many jellybeans are blue?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "84",
+          "correct": false,
+          "explanation": "You added instead of subtracted. The total is 60. If 24 are red, subtract to find the blue ones: 60 - 24 = 36."
+        },
+        {
+          "id": "b",
+          "label": "26",
+          "correct": false,
+          "explanation": "Close, but not right. 60 - 24 = 36. Check: 60 - 20 = 40, then 40 - 4 = 36."
+        },
+        {
+          "id": "c",
+          "label": "34",
+          "correct": false,
+          "explanation": "Not quite. 60 - 24 = 36. Be careful subtracting the ones: 0 - 4 requires regrouping. Borrow from the tens."
+        },
+        {
+          "id": "d",
+          "label": "36",
+          "correct": true,
+          "explanation": "Correct! 60 - 24 = 36. The rest means we subtract."
+        }
+      ],
+      "explanation_md": "The rest means we subtract. 60 - 24 = 36 blue jellybeans."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Tom has 8 apples. He gets 4 more apples. How many apples does Tom have now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4",
+          "correct": false,
+          "explanation": "You subtracted instead of added. Tom gets more apples, so we add: 8 + 4 = 12."
+        },
+        {
+          "id": "b",
+          "label": "10",
+          "correct": false,
+          "explanation": "Not quite. Count on 4 from 8: 9, 10, 11, 12. The answer is 12."
+        },
+        {
+          "id": "c",
+          "label": "12",
+          "correct": true,
+          "explanation": "Correct! 8 + 4 = 12. Tom gets more apples, so we add."
+        },
+        {
+          "id": "d",
+          "label": "13",
+          "correct": false,
+          "explanation": "One too many. 8 + 4 = 12. Count on from 8: 9, 10, 11, 12. Stop at 4 counts."
+        }
+      ],
+      "explanation_md": "Tom is getting more apples. We add. 8 + 4 = 12."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "There are 15 birds in a tree. 6 birds fly away. How many birds are left?",
+      "correct_answer": "9",
+      "explanation_md": "Birds flew away, so we subtract. 15 - 6 = 9. There are 9 birds left."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Kim has 20 stickers. She gives 8 stickers to her friend. How many stickers does Kim have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "28",
+          "correct": false,
+          "explanation": "You added. Kim is giving stickers away, so she has fewer. Subtract: 20 - 8 = 12."
+        },
+        {
+          "id": "b",
+          "label": "11",
+          "correct": false,
+          "explanation": "Close. 20 - 8 = 12. Count back 8 from 20: 19, 18, 17, 16, 15, 14, 13, 12."
+        },
+        {
+          "id": "c",
+          "label": "12",
+          "correct": true,
+          "explanation": "Correct! 20 - 8 = 12. Kim gives stickers away, so we subtract."
+        },
+        {
+          "id": "d",
+          "label": "10",
+          "correct": false,
+          "explanation": "Not quite. 20 - 8 = 12. Try counting back 8 from 20."
+        }
+      ],
+      "explanation_md": "Kim gives stickers away. We subtract. 20 - 8 = 12."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "There are 14 red balloons and 11 blue balloons at a party. How many balloons are there in all?",
+      "correct_answer": "25",
+      "explanation_md": "We want all the balloons together. We add. 14 + 11 = 25."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A box has 18 crayons. 5 crayons are broken. How many crayons are NOT broken?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "23",
+          "correct": false,
+          "explanation": "You added. The 5 broken ones are part of the 18, so subtract: 18 - 5 = 13."
+        },
+        {
+          "id": "b",
+          "label": "12",
+          "correct": false,
+          "explanation": "Close. 18 - 5 = 13. Count back 5 from 18: 17, 16, 15, 14, 13."
+        },
+        {
+          "id": "c",
+          "label": "13",
+          "correct": true,
+          "explanation": "Correct! 18 - 5 = 13 crayons are not broken."
+        },
+        {
+          "id": "d",
+          "label": "14",
+          "correct": false,
+          "explanation": "One too many. 18 - 5 = 13. Count back carefully."
+        }
+      ],
+      "explanation_md": "We need the ones that are not broken. 18 - 5 = 13."
+    }
+  ]
+}
