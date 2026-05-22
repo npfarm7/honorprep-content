@@ -1,0 +1,272 @@
+{
+  "skill_id": "2.G.A.2",
+  "benchmark_description": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of squares.",
+  "course": "math",
+  "strand": "Geometry",
+  "lesson": {
+    "title": "Partitioning Rectangles into Equal Squares",
+    "objective": "Students will divide rectangles into equal rows and columns of squares and count the total squares.",
+    "vocabulary": [
+      {"term": "partition", "definition": "To divide a shape into equal parts."},
+      {"term": "row", "definition": "Squares going across (left to right) in a rectangle."},
+      {"term": "column", "definition": "Squares going up and down in a rectangle."},
+      {"term": "same-size squares", "definition": "Squares that are all equal — the same height and width."},
+      {"term": "total", "definition": "The whole amount; all parts added together."}
+    ],
+    "introduction": "When you divide a rectangle into rows and columns of same-size squares, you make an array — like a grid. Counting these squares connects geometry to multiplication! A rectangle cut into 3 rows and 4 columns has 3 × 4 = 12 squares.",
+    "concepts": [
+      {
+        "heading": "Rows and Columns",
+        "body": "Rows go across (horizontally). Columns go up and down (vertically). If a rectangle has 2 rows and 5 columns, there are 2 × 5 = 10 squares. You can also count them one by one, but adding or multiplying is faster."
+      },
+      {
+        "heading": "How to Count the Squares",
+        "body": "Method 1: Count each square one by one. Method 2: Count one row, then add that many for each row. Example: 3 rows, 4 in each row → 4 + 4 + 4 = 12 squares. Method 3: rows × columns = total."
+      },
+      {
+        "heading": "Drawing the Partition",
+        "body": "To partition a rectangle into 2 rows and 3 columns: draw 1 line across the middle (makes 2 rows) and 2 lines down (makes 3 columns). Count the squares you made: 6 total."
+      }
+    ],
+    "worked_example": {
+      "problem": "A rectangle is divided into 4 rows and 3 columns of equal squares. How many squares are there in all?",
+      "steps": [
+        "Look at the rows: there are 4 rows.",
+        "Look at the columns: there are 3 columns.",
+        "Add one row at a time: 3 + 3 + 3 + 3 = 12.",
+        "Or multiply: 4 × 3 = 12.",
+        "Answer: 12 squares in all."
+      ],
+      "answer": "12 squares"
+    },
+    "summary": "To find the total squares in a partitioned rectangle, count the rows and columns. Add the number of squares in each row, or use rows × columns."
+  },
+  "practice_questions": [
+    {
+      "id": "2.G.A.2-P1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A rectangle is divided into 2 rows and 2 columns. How many equal squares are there?",
+      "choices": [
+        {"label": "a", "text": "2"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "6"},
+        {"label": "d", "text": "8"}
+      ],
+      "correct_answer": "b",
+      "explanation": "2 rows × 2 columns = 4 squares. Imagine a square divided into 4 smaller equal squares."
+    },
+    {
+      "id": "2.G.A.2-P2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A rectangle is divided into 1 row and 5 columns. How many squares are there?",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "5"},
+        {"label": "d", "text": "6"}
+      ],
+      "correct_answer": "c",
+      "explanation": "1 row with 5 columns = 5 squares. Just one row of 5 side-by-side squares."
+    },
+    {
+      "id": "2.G.A.2-P3",
+      "type": "numeric",
+      "difficulty": 2,
+      "question": "A rectangle is divided into 3 rows and 4 columns of equal squares. How many squares are there in all?",
+      "correct_answer": "12",
+      "explanation": "3 rows × 4 columns = 12 squares. Or: 4 + 4 + 4 = 12."
+    },
+    {
+      "id": "2.G.A.2-P4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle has 2 rows. Each row has 6 squares. How many squares are there in all?",
+      "choices": [
+        {"label": "a", "text": "6"},
+        {"label": "b", "text": "8"},
+        {"label": "c", "text": "10"},
+        {"label": "d", "text": "12"}
+      ],
+      "correct_answer": "d",
+      "explanation": "Each row has 6 squares and there are 2 rows: 6 + 6 = 12 squares in all."
+    },
+    {
+      "id": "2.G.A.2-P5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle is divided into 5 rows and 2 columns. How many squares?",
+      "choices": [
+        {"label": "a", "text": "5"},
+        {"label": "b", "text": "7"},
+        {"label": "c", "text": "10"},
+        {"label": "d", "text": "12"}
+      ],
+      "correct_answer": "c",
+      "explanation": "5 rows × 2 columns = 10 squares. Or: 2 + 2 + 2 + 2 + 2 = 10."
+    },
+    {
+      "id": "2.G.A.2-P6",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A rectangle is partitioned into 4 rows and 5 columns of equal squares. How many squares are there?",
+      "correct_answer": "20",
+      "explanation": "4 rows × 5 columns = 20 squares. Or add: 5 + 5 + 5 + 5 = 20."
+    },
+    {
+      "id": "2.G.A.2-P7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A grid has 24 equal squares in 4 rows. How many columns does it have?",
+      "choices": [
+        {"label": "a", "text": "4"},
+        {"label": "b", "text": "5"},
+        {"label": "c", "text": "6"},
+        {"label": "d", "text": "8"}
+      ],
+      "correct_answer": "c",
+      "explanation": "If there are 24 squares in 4 rows, each row has 24 ÷ 4 = 6 squares. So there are 6 columns."
+    },
+    {
+      "id": "2.G.A.2-P8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Tom drew a rectangle divided into 3 rows and 6 columns. Maria drew one with 6 rows and 3 columns. Who has more squares?",
+      "choices": [
+        {"label": "a", "text": "Tom has more"},
+        {"label": "b", "text": "Maria has more"},
+        {"label": "c", "text": "They have the same number"},
+        {"label": "d", "text": "Not enough information"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Tom: 3 × 6 = 18. Maria: 6 × 3 = 18. Both have 18 squares. The total is the same even when rows and columns are swapped."
+    },
+    {
+      "id": "2.G.A.2-P9",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "A large rectangle is divided into 5 rows and 5 columns of equal squares. How many squares are there?",
+      "correct_answer": "25",
+      "explanation": "5 × 5 = 25 squares. Each row has 5, and there are 5 rows: 5 + 5 + 5 + 5 + 5 = 25."
+    },
+    {
+      "id": "2.G.A.2-P10",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A rectangle is divided into equal squares. It has 3 rows. There are 18 squares in all. How many squares are in each row?",
+      "choices": [
+        {"label": "a", "text": "4"},
+        {"label": "b", "text": "5"},
+        {"label": "c", "text": "6"},
+        {"label": "d", "text": "9"}
+      ],
+      "correct_answer": "c",
+      "explanation": "18 total squares ÷ 3 rows = 6 squares in each row."
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "2.G.A.2-M1",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A rectangle is partitioned into 3 rows and 7 columns of equal squares. How many squares are there in all?",
+      "correct_answer": "21",
+      "explanation": "3 × 7 = 21 squares. Or: 7 + 7 + 7 = 21."
+    },
+    {
+      "id": "2.G.A.2-M2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A rectangle has 30 equal squares arranged in 5 rows. How many columns does it have?",
+      "choices": [
+        {"label": "a", "text": "4"},
+        {"label": "b", "text": "5"},
+        {"label": "c", "text": "6"},
+        {"label": "d", "text": "7"}
+      ],
+      "correct_answer": "c",
+      "explanation": "30 ÷ 5 rows = 6 squares per row = 6 columns."
+    },
+    {
+      "id": "2.G.A.2-M3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Ella divided a rectangle into equal squares with 4 rows. Each row had 8 squares. Ben divided a rectangle into 6 rows with 5 squares each. Who has more squares?",
+      "choices": [
+        {"label": "a", "text": "Ella (4 × 8 = 32)"},
+        {"label": "b", "text": "Ben (6 × 5 = 30)"},
+        {"label": "c", "text": "They have the same"},
+        {"label": "d", "text": "Need more information"}
+      ],
+      "correct_answer": "a",
+      "explanation": "Ella: 4 × 8 = 32. Ben: 6 × 5 = 30. Ella has 2 more squares."
+    }
+  ],
+  "remediation": [
+    {
+      "id": "2.G.A.2-R1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A rectangle is divided into 1 row and 3 columns. How many squares are there?",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "c",
+      "explanation": "One row with 3 squares in it = 3 squares total."
+    },
+    {
+      "id": "2.G.A.2-R2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Squares that go across (left to right) in a rectangle make a ___.",
+      "choices": [
+        {"label": "a", "text": "Column"},
+        {"label": "b", "text": "Row"},
+        {"label": "c", "text": "Side"},
+        {"label": "d", "text": "Angle"}
+      ],
+      "correct_answer": "b",
+      "explanation": "A row goes left to right (across). A column goes up and down."
+    },
+    {
+      "id": "2.G.A.2-R3",
+      "type": "numeric",
+      "difficulty": 1,
+      "question": "A rectangle has 2 rows and 3 columns of equal squares. How many squares are there?",
+      "correct_answer": "6",
+      "explanation": "2 rows with 3 in each: 3 + 3 = 6 squares. Or 2 × 3 = 6."
+    },
+    {
+      "id": "2.G.A.2-R4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle is divided into 3 rows and 3 columns. How many squares?",
+      "choices": [
+        {"label": "a", "text": "3"},
+        {"label": "b", "text": "6"},
+        {"label": "c", "text": "9"},
+        {"label": "d", "text": "12"}
+      ],
+      "correct_answer": "c",
+      "explanation": "3 rows × 3 columns = 9 squares. Like a tic-tac-toe grid — it has 9 boxes."
+    },
+    {
+      "id": "2.G.A.2-R5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle has 4 rows. Each row has 2 squares. How many squares in all?",
+      "choices": [
+        {"label": "a", "text": "4"},
+        {"label": "b", "text": "6"},
+        {"label": "c", "text": "8"},
+        {"label": "d", "text": "10"}
+      ],
+      "correct_answer": "c",
+      "explanation": "4 rows × 2 squares each = 8 squares. Add: 2 + 2 + 2 + 2 = 8."
+    }
+  ]
+}

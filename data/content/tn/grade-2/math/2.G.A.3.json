@@ -1,0 +1,310 @@
+{
+  "skill_id": "2.G.A.3",
+  "benchmark_description": "Partition circles and rectangles into two, three, or four equal shares, describe the shares using the words halves, thirds, fourths, and quarters, and use the phrases half of, third of, fourth of. Describe the whole as two halves, three thirds, four fourths. Recognize that equal shares of identical wholes need not have the same shape.",
+  "course": "math",
+  "strand": "Geometry",
+  "lesson": {
+    "title": "Equal Shares — Halves, Thirds, and Fourths",
+    "objective": "Students will partition shapes into 2, 3, or 4 equal shares and name those shares using fraction vocabulary.",
+    "vocabulary": [
+      {"term": "halves", "definition": "Two equal shares. Each share is called a half. The whole is made of two halves."},
+      {"term": "thirds", "definition": "Three equal shares. Each share is called a third. The whole is made of three thirds."},
+      {"term": "fourths / quarters", "definition": "Four equal shares. Each share is called a fourth or a quarter. The whole is made of four fourths."},
+      {"term": "equal shares", "definition": "Parts that are all the same size — each part is the same amount of the whole."},
+      {"term": "partition", "definition": "To divide a shape into equal parts."}
+    ],
+    "introduction": "Have you ever split a pizza with a friend? If you share equally with 1 friend, each person gets half. With 2 friends (3 people total), each person gets a third. With 3 friends (4 people total), each person gets a fourth — also called a quarter! Fractions describe equal shares.",
+    "concepts": [
+      {
+        "heading": "Halves — 2 Equal Parts",
+        "body": "When you cut a circle or rectangle into 2 equal parts, each part is a half. Say: 'half of the circle' or 'one half.' The whole = two halves. As pieces get smaller, each piece gets bigger… wait — more pieces means smaller pieces. 2 pieces are bigger than 4 pieces!"
+      },
+      {
+        "heading": "Thirds — 3 Equal Parts",
+        "body": "Divide a shape into 3 equal parts — each part is a third. Say: 'third of the rectangle' or 'one third.' The whole = three thirds."
+      },
+      {
+        "heading": "Fourths / Quarters — 4 Equal Parts",
+        "body": "Divide a shape into 4 equal parts — each part is a fourth or a quarter. Say: 'fourth of the circle' or 'one quarter.' The whole = four fourths."
+      },
+      {
+        "heading": "Smaller Pieces When More Parts",
+        "body": "The more equal parts you divide a whole into, the smaller each part becomes. One half is bigger than one fourth because you cut less times. Think about a cookie: cutting it in half gives you a bigger piece than cutting it into 4 pieces."
+      },
+      {
+        "heading": "Equal Shares Can Look Different",
+        "body": "Two halves of a rectangle can look different from each other and still both be half! A rectangle can be cut into two halves by cutting across, or by cutting down the middle. Both ways give equal halves, even though the halves look different."
+      }
+    ],
+    "worked_example": {
+      "problem": "Ana cuts a circular pizza into 4 equal pieces. What is each piece called? What fraction of the pizza is each piece?",
+      "steps": [
+        "Count the pieces: 4 pieces.",
+        "Are they equal? Yes, equal size.",
+        "4 equal shares are called fourths (or quarters).",
+        "Each piece is one fourth of the pizza.",
+        "The whole pizza = four fourths."
+      ],
+      "answer": "Each piece is one fourth (one quarter) of the pizza."
+    },
+    "summary": "Equal shares are named by how many parts the whole is divided into: 2 = halves, 3 = thirds, 4 = fourths or quarters. More parts means smaller pieces. The whole = all the parts put together."
+  },
+  "practice_questions": [
+    {
+      "id": "2.G.A.3-P1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A circle is cut into 2 equal parts. What is each part called?",
+      "choices": [
+        {"label": "a", "text": "A third"},
+        {"label": "b", "text": "A half"},
+        {"label": "c", "text": "A fourth"},
+        {"label": "d", "text": "A whole"}
+      ],
+      "correct_answer": "b",
+      "explanation": "When a shape is divided into 2 equal parts, each part is called a half."
+    },
+    {
+      "id": "2.G.A.3-P2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A rectangle is divided into 4 equal parts. What is another name for each part?",
+      "choices": [
+        {"label": "a", "text": "A half"},
+        {"label": "b", "text": "A third"},
+        {"label": "c", "text": "A quarter"},
+        {"label": "d", "text": "A whole"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Four equal parts are called fourths, and each part is also called a quarter."
+    },
+    {
+      "id": "2.G.A.3-P3",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "The whole circle equals ___ halves.",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "b",
+      "explanation": "The whole is always made of all its equal parts. Two halves make one whole."
+    },
+    {
+      "id": "2.G.A.3-P4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A sandwich is cut into 3 equal pieces. What is each piece called?",
+      "choices": [
+        {"label": "a", "text": "A half"},
+        {"label": "b", "text": "A third"},
+        {"label": "c", "text": "A fourth"},
+        {"label": "d", "text": "A quarter"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Three equal parts are called thirds. Each piece is one third of the sandwich."
+    },
+    {
+      "id": "2.G.A.3-P5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle is divided into 4 equal parts. The whole rectangle equals ___ fourths.",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "d",
+      "explanation": "The whole equals all four parts — four fourths make one whole."
+    },
+    {
+      "id": "2.G.A.3-P6",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Which piece is larger — one half of a pizza or one fourth of the same pizza?",
+      "choices": [
+        {"label": "a", "text": "One half"},
+        {"label": "b", "text": "One fourth"},
+        {"label": "c", "text": "They are the same size"},
+        {"label": "d", "text": "It depends on the pizza"}
+      ],
+      "correct_answer": "a",
+      "explanation": "One half is larger than one fourth. When you divide into fewer pieces, each piece is bigger. Half = 2 pieces; fourth = 4 pieces, so each fourth is smaller."
+    },
+    {
+      "id": "2.G.A.3-P7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Two rectangles are the same size. Rectangle A is cut into 2 equal halves. Rectangle B is cut into 4 equal fourths. Which rectangle has larger pieces?",
+      "choices": [
+        {"label": "a", "text": "Rectangle A (halves are bigger)"},
+        {"label": "b", "text": "Rectangle B (fourths are bigger)"},
+        {"label": "c", "text": "Both rectangles have the same size pieces"},
+        {"label": "d", "text": "It depends on how they are cut"}
+      ],
+      "correct_answer": "a",
+      "explanation": "Rectangle A is cut into 2 pieces (halves) and Rectangle B into 4 pieces (fourths). Since both start the same size but A has fewer cuts, A's pieces are bigger."
+    },
+    {
+      "id": "2.G.A.3-P8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A circle is split into 3 equal parts. Which phrase correctly names one of the parts?",
+      "choices": [
+        {"label": "a", "text": "Half of the circle"},
+        {"label": "b", "text": "Third of the circle"},
+        {"label": "c", "text": "Fourth of the circle"},
+        {"label": "d", "text": "Quarter of the circle"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Three equal parts are thirds. 'One third of the circle' or 'a third of the circle' is the correct phrase."
+    },
+    {
+      "id": "2.G.A.3-P9",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Can two halves of the same rectangle look different from each other?",
+      "choices": [
+        {"label": "a", "text": "No, halves must look identical"},
+        {"label": "b", "text": "Yes, halves can look different but must be the same size"},
+        {"label": "c", "text": "Yes, and they do not need to be the same size"},
+        {"label": "d", "text": "No, you can only cut a rectangle one way to get halves"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Equal shares must be the same size, but they can look different. A rectangle cut down the middle and a rectangle cut across both give two equal halves, even if the halves look different in shape."
+    },
+    {
+      "id": "2.G.A.3-P10",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Maya ate one fourth of a cake. Leo ate one half of the same cake. Who ate more?",
+      "choices": [
+        {"label": "a", "text": "Maya (one fourth is more)"},
+        {"label": "b", "text": "Leo (one half is more)"},
+        {"label": "c", "text": "They ate the same amount"},
+        {"label": "d", "text": "It depends on the size of the cake"}
+      ],
+      "correct_answer": "b",
+      "explanation": "One half is bigger than one fourth. Leo ate more cake. Think of it this way: 1/2 = 2/4, which is double what Maya ate (1/4)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "2.G.A.3-M1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A circle is divided into 3 equal parts. The whole circle equals ___ thirds.",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "c",
+      "explanation": "The whole = all the equal parts. Three thirds make one whole circle."
+    },
+    {
+      "id": "2.G.A.3-M2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Which of these equal shares is the smallest piece?",
+      "choices": [
+        {"label": "a", "text": "One half of a same-size pie"},
+        {"label": "b", "text": "One third of a same-size pie"},
+        {"label": "c", "text": "One fourth of a same-size pie"},
+        {"label": "d", "text": "All are the same size"}
+      ],
+      "correct_answer": "c",
+      "explanation": "More equal parts = smaller pieces. A fourth (4 parts) is smaller than a third (3 parts), which is smaller than a half (2 parts)."
+    },
+    {
+      "id": "2.G.A.3-M3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Two identical squares are each divided into halves. Square A is cut down the middle vertically. Square B is cut across the middle horizontally. Are the halves the same size?",
+      "choices": [
+        {"label": "a", "text": "No, they are different sizes"},
+        {"label": "b", "text": "Yes, they are the same size even though they look different"},
+        {"label": "c", "text": "Yes, and they look exactly the same"},
+        {"label": "d", "text": "It depends on the size of the squares"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Equal shares of identical wholes are always the same size, even if they look different. Both squares are the same, so each half represents the same amount — just cut in different directions."
+    }
+  ],
+  "remediation": [
+    {
+      "id": "2.G.A.3-R1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A cookie is cut into 2 equal pieces. What is each piece called?",
+      "choices": [
+        {"label": "a", "text": "A fourth"},
+        {"label": "b", "text": "A third"},
+        {"label": "c", "text": "A half"},
+        {"label": "d", "text": "A whole"}
+      ],
+      "correct_answer": "c",
+      "explanation": "2 equal pieces are called halves. Each piece is one half."
+    },
+    {
+      "id": "2.G.A.3-R2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Four fourths make ___ whole.",
+      "choices": [
+        {"label": "a", "text": "Zero"},
+        {"label": "b", "text": "Half a"},
+        {"label": "c", "text": "One"},
+        {"label": "d", "text": "Two"}
+      ],
+      "correct_answer": "c",
+      "explanation": "All four fourths together make one whole. Four fourths = one whole."
+    },
+    {
+      "id": "2.G.A.3-R3",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A circle is cut into 4 equal parts. What is each part called?",
+      "choices": [
+        {"label": "a", "text": "A half"},
+        {"label": "b", "text": "A third"},
+        {"label": "c", "text": "A fourth"},
+        {"label": "d", "text": "A fifth"}
+      ],
+      "correct_answer": "c",
+      "explanation": "4 equal parts are called fourths (or quarters). Each part is one fourth."
+    },
+    {
+      "id": "2.G.A.3-R4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Which share is larger — one half or one fourth?",
+      "choices": [
+        {"label": "a", "text": "One half"},
+        {"label": "b", "text": "One fourth"},
+        {"label": "c", "text": "They are the same"},
+        {"label": "d", "text": "One third"}
+      ],
+      "correct_answer": "a",
+      "explanation": "One half is larger. When you cut into only 2 pieces, each piece is bigger than when you cut into 4 pieces."
+    },
+    {
+      "id": "2.G.A.3-R5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle is cut into 3 equal parts. The whole = ___ thirds.",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Three equal parts are thirds. Three thirds together make one whole rectangle."
+    }
+  ]
+}

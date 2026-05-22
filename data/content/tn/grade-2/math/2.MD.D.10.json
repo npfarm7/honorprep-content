@@ -1,0 +1,283 @@
+{
+  "skill_id": "2.MD.D.10",
+  "benchmark_description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems using information presented in a bar graph.",
+  "course": "math",
+  "strand": "Measurement and Data",
+  "lesson": {
+    "title": "Picture Graphs and Bar Graphs",
+    "objective": "Students will draw picture graphs and bar graphs to show data, and use graphs to solve problems.",
+    "vocabulary": [
+      {"term": "picture graph", "definition": "A graph that uses pictures or symbols to represent data."},
+      {"term": "bar graph", "definition": "A graph that uses bars of different lengths to show amounts."},
+      {"term": "scale", "definition": "The numbers along the side of a bar graph that tell what each bar length means."},
+      {"term": "category", "definition": "A group or label for sorting data, like a color or type of animal."},
+      {"term": "key", "definition": "In a picture graph, the key tells you how many each picture represents."}
+    ],
+    "introduction": "Graphs help us see information quickly. A picture graph uses pictures to show data. A bar graph uses bars. Both types help us compare amounts at a glance. Today we will learn to read and draw both kinds of graphs.",
+    "concepts": [
+      {
+        "heading": "Picture Graphs",
+        "body": "In a picture graph, each picture stands for one item (or sometimes more, shown in the key). To read it, count the pictures in each row or column. To draw one, decide what picture to use, draw one picture for each item, and write a key."
+      },
+      {
+        "heading": "Bar Graphs",
+        "body": "A bar graph has a scale (usually on the left side) with numbers, and categories along the bottom. Each bar is drawn up to the number that matches the count. A single-unit scale means each line on the scale equals 1."
+      },
+      {
+        "heading": "Comparing Data",
+        "body": "Once your graph is drawn, you can answer questions: How many more? How many fewer? How many in all? Subtract to compare two bars. Add to find a total."
+      }
+    ],
+    "worked_example": {
+      "problem": "A class voted for their favorite fruit: Apple = 4 votes, Banana = 6 votes, Cherry = 3 votes, Grape = 5 votes. Use the bar graph to answer: How many more students chose Banana than Cherry?",
+      "steps": [
+        "Find the Banana bar: it reaches the number 6.",
+        "Find the Cherry bar: it reaches the number 3.",
+        "Subtract: 6 - 3 = 3.",
+        "Answer: 3 more students chose Banana than Cherry."
+      ],
+      "answer": "3 more students chose Banana than Cherry."
+    },
+    "summary": "Picture graphs use pictures. Bar graphs use bars. Both show data in categories. Use the graph to solve put-together problems (add) and compare problems (subtract)."
+  },
+  "practice_questions": [
+    {
+      "id": "2.MD.D.10-P1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "In a picture graph, each smiley face = 1 vote. There are 5 smiley faces next to 'Dogs.' How many people voted for Dogs?",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "3"},
+        {"label": "c", "text": "5"},
+        {"label": "d", "text": "10"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Each smiley face = 1 vote, and there are 5 smiley faces, so 5 people voted for Dogs."
+    },
+    {
+      "id": "2.MD.D.10-P2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows: Red = 4, Blue = 7, Green = 2. Which color was chosen the most?",
+      "choices": [
+        {"label": "a", "text": "Red"},
+        {"label": "b", "text": "Blue"},
+        {"label": "c", "text": "Green"},
+        {"label": "d", "text": "Yellow"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Blue has the highest bar (7), so Blue was chosen the most."
+    },
+    {
+      "id": "2.MD.D.10-P3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows pets: Cats = 5, Dogs = 8, Fish = 3, Birds = 4. How many pets are there in all?",
+      "choices": [
+        {"label": "a", "text": "16"},
+        {"label": "b", "text": "18"},
+        {"label": "c", "text": "20"},
+        {"label": "d", "text": "22"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Add all categories: 5 + 8 + 3 + 4 = 20 pets in all."
+    },
+    {
+      "id": "2.MD.D.10-P4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Soccer = 9, Basketball = 6, Tennis = 4, Swimming = 7. How many more students like Soccer than Tennis?",
+      "choices": [
+        {"label": "a", "text": "3"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "5"},
+        {"label": "d", "text": "6"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Soccer = 9, Tennis = 4. 9 - 4 = 5 more students like Soccer than Tennis."
+    },
+    {
+      "id": "2.MD.D.10-P5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A picture graph shows books read: Rosa = 6 books, Luis = 4 books, Kim = 8 books. How many more books did Kim read than Luis?",
+      "choices": [
+        {"label": "a", "text": "2"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "6"},
+        {"label": "d", "text": "8"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Kim = 8, Luis = 4. 8 - 4 = 4 more books Kim read than Luis."
+    },
+    {
+      "id": "2.MD.D.10-P6",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A bar graph shows colors of crayons in a box: Red = 7, Blue = 5, Yellow = 3, Purple = 4. How many crayons are red and yellow combined?",
+      "correct_answer": "10",
+      "explanation": "Red (7) + Yellow (3) = 10 crayons combined."
+    },
+    {
+      "id": "2.MD.D.10-P7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows: Apples = 8, Bananas = 5, Oranges = 6, Grapes = 3. How many fewer Grapes are there than Apples?",
+      "choices": [
+        {"label": "a", "text": "3"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "5"},
+        {"label": "d", "text": "6"}
+      ],
+      "correct_answer": "c",
+      "explanation": "Apples = 8, Grapes = 3. 8 - 3 = 5 fewer Grapes than Apples."
+    },
+    {
+      "id": "2.MD.D.10-P8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A picture graph shows students who walked to school: Monday = 4, Tuesday = 7, Wednesday = 3, Thursday = 6. Which two days have the same total as Tuesday alone?",
+      "choices": [
+        {"label": "a", "text": "Monday and Wednesday (4 + 3 = 7)"},
+        {"label": "b", "text": "Monday and Thursday (4 + 6 = 10)"},
+        {"label": "c", "text": "Wednesday and Thursday (3 + 6 = 9)"},
+        {"label": "d", "text": "Tuesday and Wednesday (7 + 3 = 10)"}
+      ],
+      "correct_answer": "a",
+      "explanation": "Monday (4) + Wednesday (3) = 7, which equals Tuesday's total of 7."
+    },
+    {
+      "id": "2.MD.D.10-P9",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "A bar graph shows students' favorite seasons: Spring = 6, Summer = 9, Fall = 4, Winter = 5. How many more students prefer Summer and Spring combined than Fall and Winter combined?",
+      "correct_answer": "6",
+      "explanation": "Summer + Spring = 9 + 6 = 15. Fall + Winter = 4 + 5 = 9. 15 - 9 = 6 more students."
+    },
+    {
+      "id": "2.MD.D.10-P10",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "question": "A bar graph shows sandwiches sold: Monday = 8, Tuesday = 5, Wednesday = 7, Thursday = 6. The goal is to sell 30 sandwiches total. How many must be sold on Friday to meet the goal?",
+      "choices": [
+        {"label": "a", "text": "3"},
+        {"label": "b", "text": "4"},
+        {"label": "c", "text": "5"},
+        {"label": "d", "text": "6"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Total Mon-Thu: 8 + 5 + 7 + 6 = 26. Need 30 - 26 = 4 on Friday."
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "2.MD.D.10-M1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows students' favorite animals: Cats = 6, Dogs = 9, Birds = 4, Fish = 5. How many students were surveyed in all?",
+      "choices": [
+        {"label": "a", "text": "20"},
+        {"label": "b", "text": "22"},
+        {"label": "c", "text": "24"},
+        {"label": "d", "text": "25"}
+      ],
+      "correct_answer": "c",
+      "explanation": "6 + 9 + 4 + 5 = 24 students were surveyed."
+    },
+    {
+      "id": "2.MD.D.10-M2",
+      "type": "numeric",
+      "difficulty": 3,
+      "question": "A picture graph shows books in 4 bins: Mystery = 5, Adventure = 8, Fiction = 3, Science = 6. How many fewer Mystery books are there than Adventure books?",
+      "correct_answer": "3",
+      "explanation": "Adventure (8) - Mystery (5) = 3 fewer Mystery books."
+    },
+    {
+      "id": "2.MD.D.10-M3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A bar graph shows points scored in four games: Game 1 = 7, Game 2 = 5, Game 3 = 8, Game 4 = 4. How many points in all?",
+      "choices": [
+        {"label": "a", "text": "20"},
+        {"label": "b", "text": "22"},
+        {"label": "c", "text": "24"},
+        {"label": "d", "text": "26"}
+      ],
+      "correct_answer": "c",
+      "explanation": "7 + 5 + 8 + 4 = 24 points in all."
+    }
+  ],
+  "remediation": [
+    {
+      "id": "2.MD.D.10-R1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows 3 apples. The bar for 'Apples' goes up to which number?",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "5"}
+      ],
+      "correct_answer": "c",
+      "explanation": "If there are 3 apples, the bar reaches up to the number 3 on the scale."
+    },
+    {
+      "id": "2.MD.D.10-R2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "In a picture graph, each star = 1 student. There are 4 stars in a row. How many students does that row show?",
+      "choices": [
+        {"label": "a", "text": "1"},
+        {"label": "b", "text": "2"},
+        {"label": "c", "text": "3"},
+        {"label": "d", "text": "4"}
+      ],
+      "correct_answer": "d",
+      "explanation": "Each star equals 1 student, and there are 4 stars, so 4 students."
+    },
+    {
+      "id": "2.MD.D.10-R3",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows: Cats = 5, Dogs = 8. Which animal had more votes?",
+      "choices": [
+        {"label": "a", "text": "Cats"},
+        {"label": "b", "text": "Dogs"},
+        {"label": "c", "text": "They are the same"},
+        {"label": "d", "text": "Fish"}
+      ],
+      "correct_answer": "b",
+      "explanation": "Dogs (8) is more than Cats (5), so Dogs had more votes."
+    },
+    {
+      "id": "2.MD.D.10-R4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Red = 3, Blue = 5. How many red and blue crayons are there in all?",
+      "choices": [
+        {"label": "a", "text": "2"},
+        {"label": "b", "text": "5"},
+        {"label": "c", "text": "7"},
+        {"label": "d", "text": "8"}
+      ],
+      "correct_answer": "d",
+      "explanation": "3 + 5 = 8 crayons in all."
+    },
+    {
+      "id": "2.MD.D.10-R5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Soccer = 9, Baseball = 6. How many more students like Soccer?",
+      "choices": [
+        {"label": "a", "text": "2"},
+        {"label": "b", "text": "3"},
+        {"label": "c", "text": "4"},
+        {"label": "d", "text": "6"}
+      ],
+      "correct_answer": "b",
+      "explanation": "9 - 6 = 3 more students like Soccer than Baseball."
+    }
+  ]
+}
