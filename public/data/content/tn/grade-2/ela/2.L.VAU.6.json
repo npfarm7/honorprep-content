@@ -1,0 +1,636 @@
+{
+  "skill_id": "2.L.VAU.6",
+  "benchmark_description": "Use words and phrases acquired through conversations, reading, and being read to, and responding to texts, including using adjectives and adverbs to describe.",
+  "course": "ela",
+  "strand": "L",
+  "lesson": {
+    "title": "Building Vocabulary: Using Adjectives and Adverbs to Describe",
+    "objective": "Students will use newly acquired words and phrases from conversations, reading, and texts -- including adjectives and adverbs -- to describe accurately and precisely.",
+    "overview": "Good writers choose words carefully. Adjectives describe nouns and make writing more specific and vivid. Adverbs describe verbs, adjectives, or other adverbs and tell how, when, where, or to what extent something happens. The more words you know, the better you can describe what you observe and experience.",
+    "key_concepts": [
+      "Adjective: a word that describes a noun (rough, enormous, crimson, ancient, delicate)",
+      "Adverb: a word that describes a verb (swiftly, silently, eagerly), an adjective (extremely tall), or another adverb (very quickly)",
+      "Vocabulary acquisition: learning new words through reading, listening to books read aloud, and conversations",
+      "Precise word choice: choosing the most accurate word instead of a vague word (enormous instead of big, sprinted instead of ran)",
+      "Describing: using adjectives and adverbs to give readers or listeners a clear picture"
+    ],
+    "examples": [
+      {
+        "label": "Weak (no adjectives/adverbs)",
+        "text": "The dog ran to the door."
+      },
+      {
+        "label": "Strong (with adjectives and adverbs)",
+        "text": "The enormous, spotted dog sprinted eagerly to the front door."
+      },
+      {
+        "label": "Adjective use",
+        "text": "The delicate butterfly landed on the rough bark of the ancient oak tree."
+      },
+      {
+        "label": "Adverb use",
+        "text": "She spoke softly but confidently to the whole class."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is an **adjective**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "ran",
+          "correct": false,
+          "explanation": "Ran is a verb -- it describes an action."
+        },
+        {
+          "id": "B",
+          "label": "silently",
+          "correct": false,
+          "explanation": "Silently is an adverb -- it describes how something is done."
+        },
+        {
+          "id": "C",
+          "label": "crimson",
+          "correct": true,
+          "explanation": "Crimson is an adjective -- it describes a noun by naming a shade of red."
+        },
+        {
+          "id": "D",
+          "label": "quickly",
+          "correct": false,
+          "explanation": "Quickly is an adverb -- it describes how an action is performed."
+        }
+      ],
+      "explanation_md": "An **adjective** describes a noun. *Crimson* describes the color of something. Other adjectives: *enormous*, *delicate*, *ancient*, *rough*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is an **adverb**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "gentle",
+          "correct": false,
+          "explanation": "Gentle is an adjective -- it describes a noun."
+        },
+        {
+          "id": "B",
+          "label": "gently",
+          "correct": true,
+          "explanation": "Gently is an adverb -- it describes HOW an action is performed."
+        },
+        {
+          "id": "C",
+          "label": "gentleness",
+          "correct": false,
+          "explanation": "Gentleness is a noun."
+        },
+        {
+          "id": "D",
+          "label": "gentled",
+          "correct": false,
+          "explanation": "Gentled is a past-tense verb form."
+        }
+      ],
+      "explanation_md": "Many adverbs end in **-ly** and describe how an action is done: *gently*, *quickly*, *silently*, *eagerly*, *confidently*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses adjectives to make the description MORE precise?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The cat sat.",
+          "correct": false,
+          "explanation": "No adjectives -- this is a vague, bare sentence."
+        },
+        {
+          "id": "B",
+          "label": "The cat sat on something.",
+          "correct": false,
+          "explanation": "'Something' is vague -- no adjective makes the description precise."
+        },
+        {
+          "id": "C",
+          "label": "The small, orange tabby cat sat on the warm windowsill.",
+          "correct": true,
+          "explanation": "Small, orange, tabby (describing cat) and warm (describing windowsill) are all adjectives that make the description specific."
+        },
+        {
+          "id": "D",
+          "label": "The cat sat and was there.",
+          "correct": false,
+          "explanation": "No adjectives -- still vague with no description."
+        }
+      ],
+      "explanation_md": "**Adjectives** make descriptions more precise and vivid. Instead of 'the cat,' use 'the *small, orange tabby* cat' so the reader can picture exactly what kind of cat."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which adverb BEST fills the blank?\n\n'She ___ raised her hand before answering.'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "purple",
+          "correct": false,
+          "explanation": "Purple is an adjective (color) -- it cannot describe how she raised her hand."
+        },
+        {
+          "id": "B",
+          "label": "politely",
+          "correct": true,
+          "explanation": "Politely is an adverb that describes HOW she raised her hand -- in a respectful, proper way."
+        },
+        {
+          "id": "C",
+          "label": "hand",
+          "correct": false,
+          "explanation": "Hand is a noun -- not an adverb."
+        },
+        {
+          "id": "D",
+          "label": "three",
+          "correct": false,
+          "explanation": "Three is a number -- not an adverb describing how she raised her hand."
+        }
+      ],
+      "explanation_md": "Adverbs describe **how, when, or where** something is done. 'She *politely* raised her hand' -- politely tells HOW she raised it."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence has BOTH an adjective AND an adverb?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Birds fly.",
+          "correct": false,
+          "explanation": "No adjective, no adverb -- bare sentence."
+        },
+        {
+          "id": "B",
+          "label": "The colorful birds sang.",
+          "correct": false,
+          "explanation": "Colorful is an adjective, but there is no adverb."
+        },
+        {
+          "id": "C",
+          "label": "The colorful birds sang joyfully.",
+          "correct": true,
+          "explanation": "Colorful (adjective -- describes birds) and joyfully (adverb -- describes how they sang)."
+        },
+        {
+          "id": "D",
+          "label": "The birds sang joyfully.",
+          "correct": false,
+          "explanation": "Joyfully is an adverb, but there is no adjective describing the birds."
+        }
+      ],
+      "explanation_md": "Strong sentences can use **both** adjectives and adverbs: 'The *colorful* birds sang *joyfully*' -- colorful (adjective) describes the birds, joyfully (adverb) describes how they sang."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'The dog was big.' Which revision uses a MORE precise adjective?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The dog was real big.",
+          "correct": false,
+          "explanation": "Real is an informal adverb here, not a more precise adjective for big."
+        },
+        {
+          "id": "B",
+          "label": "The dog was very big.",
+          "correct": false,
+          "explanation": "'Very big' adds an adverb but the adjective is still vague."
+        },
+        {
+          "id": "C",
+          "label": "The dog was enormous.",
+          "correct": true,
+          "explanation": "Enormous is a precise adjective that communicates large size more vividly than 'big.'"
+        },
+        {
+          "id": "D",
+          "label": "The dog was bigly.",
+          "correct": false,
+          "explanation": "'Bigly' is not a standard English word."
+        }
+      ],
+      "explanation_md": "**Precise adjectives** tell the reader more specifically what something is like. Replace vague words like *big* with *enormous*, *massive*, *towering*, or *colossal*."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence BEST uses an adverb to describe how someone speaks?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She spoke.",
+          "correct": false,
+          "explanation": "No adverb -- gives no information about how she spoke."
+        },
+        {
+          "id": "B",
+          "label": "She spoke words.",
+          "correct": false,
+          "explanation": "Words is a noun -- not an adverb describing how she spoke."
+        },
+        {
+          "id": "C",
+          "label": "She spoke confidently and clearly to the entire audience.",
+          "correct": true,
+          "explanation": "Confidently and clearly are both adverbs describing how she spoke."
+        },
+        {
+          "id": "D",
+          "label": "She was a speaker.",
+          "correct": false,
+          "explanation": "No adverb -- this just identifies what she is, not how she speaks."
+        }
+      ],
+      "explanation_md": "Adverbs describing how someone speaks: *confidently*, *quietly*, *loudly*, *nervously*, *clearly*, *rapidly*. Using these adverbs gives the reader a precise picture."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word comes from reading about oceans and BEST describes how waves move?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "quietly",
+          "correct": false,
+          "explanation": "Waves are not known for being quiet -- they are associated with crashing and surging."
+        },
+        {
+          "id": "B",
+          "label": "powerfully",
+          "correct": true,
+          "explanation": "Powerfully accurately describes how waves move -- with force and energy. This is a precise adverb for ocean waves."
+        },
+        {
+          "id": "C",
+          "label": "gently",
+          "correct": false,
+          "explanation": "While small waves can be gentle, powerful waves are the more notable and descriptive choice."
+        },
+        {
+          "id": "D",
+          "label": "lazily",
+          "correct": false,
+          "explanation": "Lazily suggests slow, effortless movement -- not typical of ocean waves."
+        }
+      ],
+      "explanation_md": "Words learned through **reading** about specific topics (like oceans, animals, or science) help you describe those topics precisely. *Powerfully* is the right adverb for crashing waves."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student hears this sentence in a read-aloud: *'The luminous moon cast a soft glow over the silent valley.'*\n\nWhich word from the sentence could the student USE in their own writing to describe a night sky?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "cast",
+          "correct": false,
+          "explanation": "Cast is a verb meaning to throw or send out light -- a good word, but not an adjective for describing the sky."
+        },
+        {
+          "id": "B",
+          "label": "luminous",
+          "correct": true,
+          "explanation": "Luminous means glowing with light -- a vivid adjective the student could use to describe a bright moon or stars."
+        },
+        {
+          "id": "C",
+          "label": "valley",
+          "correct": false,
+          "explanation": "Valley is a noun naming a geographic feature -- not an adjective for the night sky."
+        },
+        {
+          "id": "D",
+          "label": "the",
+          "correct": false,
+          "explanation": "The is an article -- not a descriptive vocabulary word."
+        }
+      ],
+      "explanation_md": "**Vocabulary from read-alouds and reading** can be borrowed for your own writing. *Luminous* (glowing with light) is a precise adjective perfect for describing a bright moon or stars."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses acquired vocabulary MOST effectively to describe the scene?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The bird was in the tree.",
+          "correct": false,
+          "explanation": "No adjectives or adverbs -- completely bare description."
+        },
+        {
+          "id": "B",
+          "label": "The bird chirped.",
+          "correct": false,
+          "explanation": "No adjectives, no adverbs describing how it chirped."
+        },
+        {
+          "id": "C",
+          "label": "The tiny, scarlet bird perched gracefully on the highest branch of the ancient oak.",
+          "correct": true,
+          "explanation": "Tiny and scarlet (adjectives for bird), gracefully (adverb for perched), and ancient (adjective for oak) -- all vivid, precise vocabulary used together."
+        },
+        {
+          "id": "D",
+          "label": "A nice bird was in the tree nicely.",
+          "correct": false,
+          "explanation": "Nice and nicely are vague, weak word choices -- precise vocabulary would be far more vivid."
+        }
+      ],
+      "explanation_md": "Strong vocabulary use means choosing **precise adjectives** (*tiny, scarlet, ancient*) and **precise adverbs** (*gracefully*) instead of vague words like *nice* or *good*."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses BOTH an adjective and an adverb correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The brave soldier marched steadily.",
+          "correct": true,
+          "explanation": "Brave (adjective -- describes soldier) and steadily (adverb -- describes how he marched). Both used correctly."
+        },
+        {
+          "id": "B",
+          "label": "The soldier marched.",
+          "correct": false,
+          "explanation": "No adjective, no adverb -- bare sentence."
+        },
+        {
+          "id": "C",
+          "label": "The brave soldier.",
+          "correct": false,
+          "explanation": "Fragment with an adjective (brave) but no verb and no adverb."
+        },
+        {
+          "id": "D",
+          "label": "He marched steadily.",
+          "correct": false,
+          "explanation": "Steadily is an adverb, but there is no adjective describing the soldier."
+        }
+      ],
+      "explanation_md": "The BEST sentences combine precise **adjectives** (describe nouns) and **adverbs** (describe how actions happen) for vivid, accurate description."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads about the rainforest and learns the word *lush* (meaning rich with thick, healthy growth). In which sentence does the student use *lush* correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The rainforest was lush.",
+          "correct": true,
+          "explanation": "Lush correctly describes the rainforest's rich, dense vegetation. The student is using a vocabulary word from reading."
+        },
+        {
+          "id": "B",
+          "label": "She laughed lush.",
+          "correct": false,
+          "explanation": "Lush is an adjective, not an adverb -- it cannot describe how someone laughed."
+        },
+        {
+          "id": "C",
+          "label": "The lush ran across the yard.",
+          "correct": false,
+          "explanation": "Lush is an adjective -- it cannot be used as the subject of a sentence."
+        },
+        {
+          "id": "D",
+          "label": "We lushed the plants every day.",
+          "correct": false,
+          "explanation": "Lush is an adjective, not a verb -- it cannot be conjugated."
+        }
+      ],
+      "explanation_md": "Words acquired from **reading** (like *lush*) should be used according to their part of speech. *Lush* is an adjective -- use it to describe a noun."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which revision adds the MOST precise vocabulary to this sentence: 'The boy walked down the road.'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The boy really walked down the road really quickly.",
+          "correct": false,
+          "explanation": "Repeating 'really' is weak vocabulary choice -- find more precise words."
+        },
+        {
+          "id": "B",
+          "label": "The small, determined boy trudged steadily down the dusty, winding road.",
+          "correct": true,
+          "explanation": "Small, determined, dusty, winding (precise adjectives) + trudged (precise verb) + steadily (precise adverb) -- all vivid, specific vocabulary."
+        },
+        {
+          "id": "C",
+          "label": "The boy walked down the road quickly.",
+          "correct": false,
+          "explanation": "Quickly adds one adverb but no adjectives -- only a slight improvement."
+        },
+        {
+          "id": "D",
+          "label": "The boy walked and walked and walked.",
+          "correct": false,
+          "explanation": "Repetition does not add precise vocabulary or description."
+        }
+      ],
+      "explanation_md": "Strong revision replaces **vague words** with **precise vocabulary**: *walked* -> *trudged* (a heavy, tired walk); add adjectives (*dusty, winding*) and adverbs (*steadily*) to paint a complete picture."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is an **adjective** that describes how a cat feels?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "purrs",
+          "correct": false,
+          "explanation": "Purrs is a verb -- it describes an action."
+        },
+        {
+          "id": "B",
+          "label": "fluffy",
+          "correct": true,
+          "explanation": "Fluffy is an adjective -- it describes what the cat's fur is like."
+        },
+        {
+          "id": "C",
+          "label": "quietly",
+          "correct": false,
+          "explanation": "Quietly is an adverb -- it describes how something is done."
+        },
+        {
+          "id": "D",
+          "label": "and",
+          "correct": false,
+          "explanation": "And is a conjunction, not an adjective."
+        }
+      ],
+      "explanation_md": "An **adjective** describes a noun. *Fluffy* describes what the cat's fur feels like -- soft and light."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is an **adverb** that describes how something moves?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "slow",
+          "correct": false,
+          "explanation": "Slow is an adjective describing a noun (a slow turtle). The adverb form is slowly."
+        },
+        {
+          "id": "B",
+          "label": "slowly",
+          "correct": true,
+          "explanation": "Slowly is an adverb -- it describes HOW something moves."
+        },
+        {
+          "id": "C",
+          "label": "turtle",
+          "correct": false,
+          "explanation": "Turtle is a noun, not an adverb."
+        },
+        {
+          "id": "D",
+          "label": "green",
+          "correct": false,
+          "explanation": "Green is an adjective describing color, not an adverb."
+        }
+      ],
+      "explanation_md": "Many **adverbs** end in -ly and describe how actions happen: *slowly*, *quickly*, *softly*, *loudly*, *carefully*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence has an **adjective** that describes the flower?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The flower bloomed.",
+          "correct": false,
+          "explanation": "No adjective -- 'flower' has no description."
+        },
+        {
+          "id": "B",
+          "label": "The bright yellow flower bloomed in the garden.",
+          "correct": true,
+          "explanation": "Bright and yellow are both adjectives that describe the flower."
+        },
+        {
+          "id": "C",
+          "label": "The flower bloomed quickly.",
+          "correct": false,
+          "explanation": "Quickly is an adverb describing how it bloomed -- there is no adjective describing the flower."
+        },
+        {
+          "id": "D",
+          "label": "A flower is a plant.",
+          "correct": false,
+          "explanation": "No adjective describing the flower."
+        }
+      ],
+      "explanation_md": "**Adjectives** come before the noun they describe: 'the *bright yellow* flower.' They tell what kind, what color, what size, or what number."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses an **adverb** to describe how she danced?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She danced on the stage.",
+          "correct": false,
+          "explanation": "On the stage tells where she danced -- not how. There is no adverb of manner."
+        },
+        {
+          "id": "B",
+          "label": "She is a dancer.",
+          "correct": false,
+          "explanation": "No adverb -- this describes what she is, not how she dances."
+        },
+        {
+          "id": "C",
+          "label": "She danced gracefully across the stage.",
+          "correct": true,
+          "explanation": "Gracefully is an adverb that tells HOW she danced -- with grace and elegance."
+        },
+        {
+          "id": "D",
+          "label": "The dancer performed.",
+          "correct": false,
+          "explanation": "No adverb describing how she performed."
+        }
+      ],
+      "explanation_md": "**Adverbs** tell how, when, or where. *Gracefully* tells HOW she danced. Other manner adverbs: *joyfully*, *cautiously*, *briskly*, *quietly*."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word would be the MOST precise adjective to replace 'big' in the sentence 'We saw a big whale'?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "very",
+          "correct": false,
+          "explanation": "Very is an adverb, not an adjective -- and 'very big' is still vague."
+        },
+        {
+          "id": "B",
+          "label": "mammoth",
+          "correct": true,
+          "explanation": "Mammoth is a precise adjective meaning enormous in size -- a vivid word for a large whale."
+        },
+        {
+          "id": "C",
+          "label": "nicely",
+          "correct": false,
+          "explanation": "Nicely is an adverb and would not describe the whale's size."
+        },
+        {
+          "id": "D",
+          "label": "and",
+          "correct": false,
+          "explanation": "And is a conjunction, not an adjective."
+        }
+      ],
+      "explanation_md": "Replace vague adjectives like *big* with **precise adjectives**: *enormous*, *mammoth*, *towering*, *gigantic*. These give the reader a much clearer picture."
+    }
+  ]
+}
