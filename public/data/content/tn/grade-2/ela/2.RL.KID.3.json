@@ -1,0 +1,628 @@
+{
+  "skill_id": "2.RL.KID.3",
+  "benchmark_description": "Describe how characters respond to major events and challenges in a story.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "How Characters Respond to Events and Challenges",
+    "objective": "Students will describe how characters in a story respond to major events and challenges, identifying specific actions, feelings, and words that reveal the character's response.",
+    "overview": "Every story has characters who face events and challenges. How a character responds -- what they do, say, feel, or think -- tells us a great deal about who they are. When we read, we look for clues about how characters react and why.",
+    "key_concepts": [
+      "Character: a person, animal, or being in a story",
+      "Event: something that happens in the story",
+      "Challenge: a difficult problem a character must deal with",
+      "Character response: what a character does, says, thinks, or feels in reaction to an event or challenge",
+      "Character traits: qualities revealed by how a character responds (brave, stubborn, kind, determined)"
+    ],
+    "examples": [
+      {
+        "label": "Sample passage",
+        "text": "When the bridge washed out in the flood, Maya did not panic. Instead, she calmly looked around, spotted a fallen log, and helped her little brother climb across. Her hands shook, but she kept going."
+      },
+      {
+        "label": "Character response analysis",
+        "text": "Challenge: bridge washed out in flood. Response: Maya did not panic; she looked for a solution; she helped her brother; she kept going even though scared. What this tells us: Maya is calm, brave, and determined."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When Leo's ice cream fell off the cone, he started to cry. His mom hugged him and said everything would be okay.'*\n\nHow did Leo respond to the challenge?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He laughed and asked for more ice cream.",
+          "correct": false,
+          "explanation": "The text says Leo cried -- not laughed."
+        },
+        {
+          "id": "B",
+          "label": "He cried.",
+          "correct": true,
+          "explanation": "Leo's response to losing his ice cream was to cry -- a clear emotional response."
+        },
+        {
+          "id": "C",
+          "label": "He ignored what happened.",
+          "correct": false,
+          "explanation": "Leo clearly reacted -- he cried."
+        },
+        {
+          "id": "D",
+          "label": "He went to sleep.",
+          "correct": false,
+          "explanation": "Nothing in the passage suggests Leo went to sleep."
+        }
+      ],
+      "explanation_md": "A character's **response** includes what they do or feel. Leo responded by crying -- an emotional reaction to a small but upsetting challenge."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'The wolf blew with all his might, but the house of bricks did not fall. He huffed and puffed again, but the house stood strong.'*\n\nHow did the wolf respond to the challenge of the brick house?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He gave up right away.",
+          "correct": false,
+          "explanation": "The wolf tried multiple times -- he did not give up immediately."
+        },
+        {
+          "id": "B",
+          "label": "He kept trying by huffing and puffing again.",
+          "correct": true,
+          "explanation": "After his first try failed, the wolf responded by trying again -- he persisted."
+        },
+        {
+          "id": "C",
+          "label": "He knocked on the door politely.",
+          "correct": false,
+          "explanation": "Nothing in the passage says the wolf knocked politely."
+        },
+        {
+          "id": "D",
+          "label": "He praised the house.",
+          "correct": false,
+          "explanation": "The wolf did not praise the house -- he kept trying to blow it down."
+        }
+      ],
+      "explanation_md": "The wolf's response to the brick house challenge was **persistence** -- he tried again when his first attempt failed. This shows a character who does not give up easily."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Sofia had practiced her speech all week, but when she stood in front of the class, her voice shook. She took a deep breath, looked at her notes, and began again. By the end, she was speaking clearly and smiling.'*\n\nHow did Sofia respond to the challenge of being nervous?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She ran out of the room.",
+          "correct": false,
+          "explanation": "Sofia did not run -- she stayed and worked through her nervousness."
+        },
+        {
+          "id": "B",
+          "label": "She took a deep breath and kept going.",
+          "correct": true,
+          "explanation": "Sofia's response was to calm herself (deep breath), use her notes, and continue -- showing determination."
+        },
+        {
+          "id": "C",
+          "label": "She asked the teacher to go first.",
+          "correct": false,
+          "explanation": "Nothing in the text says Sofia asked to go first -- she faced the challenge herself."
+        },
+        {
+          "id": "D",
+          "label": "She cried and sat down.",
+          "correct": false,
+          "explanation": "Sofia did not cry or sit down -- she pushed through her nerves."
+        }
+      ],
+      "explanation_md": "Sofia responded to her nervousness with **determination**: she took a breath, used her notes, and kept going until she was speaking clearly. Her response reveals a courageous character."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'The storm knocked over Grandpa's garden fence. He shook his head sadly, then rolled up his sleeves and began to fix it board by board.'*\n\nWhat does Grandpa's response tell us about him?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He is lazy and avoids problems.",
+          "correct": false,
+          "explanation": "Grandpa rolled up his sleeves and started fixing the fence -- the opposite of lazy."
+        },
+        {
+          "id": "B",
+          "label": "He is hardworking and does not give up.",
+          "correct": true,
+          "explanation": "After a sad moment, Grandpa immediately got to work repairing the fence -- he responds to challenges by taking action."
+        },
+        {
+          "id": "C",
+          "label": "He is afraid of storms.",
+          "correct": false,
+          "explanation": "Nothing in the text suggests Grandpa is afraid of storms."
+        },
+        {
+          "id": "D",
+          "label": "He does not care about his garden.",
+          "correct": false,
+          "explanation": "Grandpa cared enough to repair the fence immediately -- he clearly values his garden."
+        }
+      ],
+      "explanation_md": "A character's response to a challenge reveals their **traits**. Grandpa's action (rolling up his sleeves and fixing the fence) shows he is hardworking and does not give up."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Mia discovered her best friend had lied to her. She felt angry and hurt. She sat alone at lunch and did not speak to her friend for two days. Finally, she wrote a note asking if they could talk.'*\n\nWhich BEST describes how Mia responded to this event?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She immediately forgave her friend.",
+          "correct": false,
+          "explanation": "Mia did not immediately forgive -- she sat alone for two days before reaching out."
+        },
+        {
+          "id": "B",
+          "label": "She felt angry and hurt, pulled away, then eventually reached out.",
+          "correct": true,
+          "explanation": "Mia's response was complex: anger/hurt (emotional), withdrawal (sitting alone), then eventually choosing to communicate (writing a note). This shows her working through a painful event."
+        },
+        {
+          "id": "C",
+          "label": "She told everyone at school what happened.",
+          "correct": false,
+          "explanation": "Nothing in the text says Mia told others -- she sat alone quietly."
+        },
+        {
+          "id": "D",
+          "label": "She felt happy and moved on quickly.",
+          "correct": false,
+          "explanation": "Mia felt angry and hurt -- the opposite of happy -- and took two days to process."
+        }
+      ],
+      "explanation_md": "Characters' responses to major events can be complex: emotional reaction (anger, hurt) + action (withdrawing) + next step (reaching out). Describing ALL parts gives the full picture."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When his little sister fell and scraped her knee, Marcus rushed to her side. He helped her up, cleaned her scrape, and sang her silly song until she stopped crying.'*\n\nWhat does Marcus's response tell us about him?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He was annoyed by his sister's crying.",
+          "correct": false,
+          "explanation": "Marcus rushed to help and sang to comfort her -- he showed care, not annoyance."
+        },
+        {
+          "id": "B",
+          "label": "He is caring and protective of his sister.",
+          "correct": true,
+          "explanation": "Marcus's response (rushing over, cleaning the scrape, singing) shows he is caring, attentive, and protective."
+        },
+        {
+          "id": "C",
+          "label": "He was scared of blood.",
+          "correct": false,
+          "explanation": "Marcus cleaned the scrape -- he was not scared of helping."
+        },
+        {
+          "id": "D",
+          "label": "He wanted to go back to playing.",
+          "correct": false,
+          "explanation": "Marcus stayed with his sister until she stopped crying -- he prioritized her comfort."
+        }
+      ],
+      "explanation_md": "When we look at what a character does in response to an event, we learn about their **character traits**. Marcus's response reveals he is caring and protective."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Lily's science project was the last one to be set up at the fair. She looked at the other colorful displays and felt her heart sink. She thought about leaving, but then she took a deep breath and told herself: My project is about something important. That is enough.'*\n\nWhat challenge did Lily face, and how did she respond?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Challenge: her project was broken; Response: she fixed it.",
+          "correct": false,
+          "explanation": "The text says nothing about the project being broken -- the challenge was self-doubt seeing the other displays."
+        },
+        {
+          "id": "B",
+          "label": "Challenge: self-doubt; Response: she almost left but encouraged herself to stay.",
+          "correct": true,
+          "explanation": "Lily's challenge was feeling her project was not as good. Her response: she almost left (tempted to give up) but then gave herself an encouraging pep talk and stayed."
+        },
+        {
+          "id": "C",
+          "label": "Challenge: forgetting her project; Response: she went home to get it.",
+          "correct": false,
+          "explanation": "Lily did not forget her project -- it was set up last."
+        },
+        {
+          "id": "D",
+          "label": "Challenge: not liking science; Response: she left the fair.",
+          "correct": false,
+          "explanation": "Lily did not leave -- she stayed after encouraging herself."
+        }
+      ],
+      "explanation_md": "Identifying a character's **challenge** and their **response** shows how they handle difficulties. Lily's internal pep talk shows self-determination: she overcame doubt by reminding herself of what mattered."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When the team lost the championship, Jamie threw his helmet down and walked away from his teammates.'*\n\nWhich word BEST describes Jamie's response?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Gracious",
+          "correct": false,
+          "explanation": "Gracious in defeat means accepting loss kindly -- Jamie threw his helmet and walked away, not a gracious response."
+        },
+        {
+          "id": "B",
+          "label": "Angry and withdrawn",
+          "correct": true,
+          "explanation": "Throwing the helmet shows anger; walking away from teammates shows withdrawal. These together describe his response."
+        },
+        {
+          "id": "C",
+          "label": "Excited",
+          "correct": false,
+          "explanation": "His team just lost -- his response is not excitement."
+        },
+        {
+          "id": "D",
+          "label": "Proud",
+          "correct": false,
+          "explanation": "Throwing a helmet and walking away does not show pride in a positive sense."
+        }
+      ],
+      "explanation_md": "Character responses reveal personality. Jamie's response (throwing helmet, walking away) shows **anger and withdrawal** -- not the most mature response to losing, but a real and understandable one."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When the new girl arrived at school, no one sat with her at lunch. Nadia noticed and quietly slid her tray over. She said, 'There is plenty of room here.' The new girl smiled.'*\n\nWhich major event caused Nadia to respond, and what does her response tell us about her?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Event: the tray was full; Response: Nadia moved it over. Nadia is messy.",
+          "correct": false,
+          "explanation": "The event was the new girl sitting alone, not a full tray. Nadia moved her tray to make room, not because it was full."
+        },
+        {
+          "id": "B",
+          "label": "Event: the new girl sat alone; Response: Nadia invited her to sit. Nadia is empathetic and kind.",
+          "correct": true,
+          "explanation": "Nadia noticed the new girl's isolation and acted -- inviting her over. Her response shows empathy and kindness."
+        },
+        {
+          "id": "C",
+          "label": "Event: the new girl smiled; Response: Nadia sat down. Nadia is timid.",
+          "correct": false,
+          "explanation": "Nadia acted before the smile -- the smile was the result of her action."
+        },
+        {
+          "id": "D",
+          "label": "Event: Nadia was alone; Response: she moved her tray. Nadia is lonely.",
+          "correct": false,
+          "explanation": "Nadia was not alone -- she noticed someone else sitting alone and chose to include her."
+        }
+      ],
+      "explanation_md": "Complex response analysis: identify the **event** that triggers the response, describe the **response itself**, and explain what it reveals about the character's **traits** (empathy, kindness)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two characters face the same challenge: their sandcastle is knocked over by a wave.\n\n- **Finn** sits down and gives up.\n- **Priya** says 'Let's build it better this time!' and starts over.\n\nWhat does comparing their responses tell us?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both characters are equally upset by the challenge.",
+          "correct": false,
+          "explanation": "Their responses are very different -- we cannot assume equal emotions. Finn gives up; Priya is energized."
+        },
+        {
+          "id": "B",
+          "label": "Finn is resilient; Priya gives up easily.",
+          "correct": false,
+          "explanation": "This is reversed -- Priya shows resilience; Finn gives up."
+        },
+        {
+          "id": "C",
+          "label": "Priya is resilient and optimistic; Finn becomes discouraged easily.",
+          "correct": true,
+          "explanation": "Comparing responses: Priya rebounds with enthusiasm (resilient, optimistic) while Finn gives up (easily discouraged). Same challenge, opposite responses, opposite character traits."
+        },
+        {
+          "id": "D",
+          "label": "Neither character cares about the sandcastle.",
+          "correct": false,
+          "explanation": "Both characters clearly care -- they reacted differently, not indifferently."
+        }
+      ],
+      "explanation_md": "Comparing **how different characters respond** to the same challenge is a powerful way to understand character traits. Same event, different responses = different personalities."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When her little brother broke her favorite toy, Anika felt tears coming to her eyes. She pressed her lips together and said, 'It was an accident. It's okay.'*\n\nWhat does Anika's response tell us about her?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She did not care about the toy.",
+          "correct": false,
+          "explanation": "Tears coming to her eyes shows she cared deeply about the toy."
+        },
+        {
+          "id": "B",
+          "label": "She is mature and forgiving even when upset.",
+          "correct": true,
+          "explanation": "Anika was upset (tears) but chose to be forgiving and kind ('It was an accident'). This shows emotional maturity."
+        },
+        {
+          "id": "C",
+          "label": "She was angry and yelled at her brother.",
+          "correct": false,
+          "explanation": "Anika did not yell -- she controlled her feelings and chose forgiveness."
+        },
+        {
+          "id": "D",
+          "label": "She was not upset at all.",
+          "correct": false,
+          "explanation": "She had tears coming to her eyes -- she was clearly upset but managed her feelings maturely."
+        }
+      ],
+      "explanation_md": "A character's response to a challenge can reveal emotional maturity. Anika was upset but chose to be **forgiving** -- that reveals a kind and mature character."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Pedro could not solve the math problem no matter how many times he tried. He slammed his pencil down and declared, 'This is impossible!'*\n\nHow did Pedro respond to the challenge?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He asked for help calmly.",
+          "correct": false,
+          "explanation": "Pedro did not ask for help -- he slammed his pencil and declared the problem impossible."
+        },
+        {
+          "id": "B",
+          "label": "He gave up and expressed frustration.",
+          "correct": true,
+          "explanation": "Pedro's response was frustration (slamming pencil) and giving up (declaring it impossible)."
+        },
+        {
+          "id": "C",
+          "label": "He tried a different strategy.",
+          "correct": false,
+          "explanation": "Nothing in the text shows Pedro tried a new strategy -- he gave up."
+        },
+        {
+          "id": "D",
+          "label": "He laughed at the problem.",
+          "correct": false,
+          "explanation": "Pedro was frustrated, not amused."
+        }
+      ],
+      "explanation_md": "Pedro's response (slamming his pencil, declaring it impossible) shows **frustration and giving up**. This is one character response -- other characters might respond differently."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'The hiking trail was much harder than Tom\u00e1s expected. His feet ached, and he wanted to turn back. But he remembered why he had come -- to see the waterfall his grandfather had always described. He took one step, then another.'*\n\nWhat helps Tom\u00e1s respond with determination?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He forgot how tired he was.",
+          "correct": false,
+          "explanation": "Tom\u00e1s did not forget -- his feet ached. He pushed through his pain consciously."
+        },
+        {
+          "id": "B",
+          "label": "Remembering his goal (seeing the waterfall his grandfather loved) motivated him to keep going.",
+          "correct": true,
+          "explanation": "Tom\u00e1s responded to the challenge by drawing on his personal motivation -- his grandfather's stories about the waterfall. This gave him the strength to keep going."
+        },
+        {
+          "id": "C",
+          "label": "Someone else carried him up the trail.",
+          "correct": false,
+          "explanation": "Nothing in the text says anyone helped Tom\u00e1s -- he pushed on alone."
+        },
+        {
+          "id": "D",
+          "label": "The trail became easier.",
+          "correct": false,
+          "explanation": "The text does not say the trail became easier -- Tom\u00e1s pushed on despite the difficulty."
+        }
+      ],
+      "explanation_md": "Characters respond to challenges by drawing on **motivation** -- their goals, values, and memories. Tom\u00e1s's connection to his grandfather motivated him to face the difficult trail."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When the dog ran away, Emma cried for a long time.'*\n\nHow did Emma respond to the event?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "She laughed.",
+          "correct": false,
+          "explanation": "Emma cried -- the text says she cried for a long time."
+        },
+        {
+          "id": "B",
+          "label": "She cried.",
+          "correct": true,
+          "explanation": "Emma cried -- a clear emotional response to the sad event."
+        },
+        {
+          "id": "C",
+          "label": "She got another dog right away.",
+          "correct": false,
+          "explanation": "Nothing in the text says she got another dog."
+        },
+        {
+          "id": "D",
+          "label": "She ignored what happened.",
+          "correct": false,
+          "explanation": "Emma cried -- she did not ignore the event."
+        }
+      ],
+      "explanation_md": "A character's response includes **what they do or feel**. Emma's response was to cry -- an emotional reaction to the dog running away."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which question helps you understand how a character RESPONDS to a challenge?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "What color is the character's hair?",
+          "correct": false,
+          "explanation": "Physical description has nothing to do with how a character responds to a challenge."
+        },
+        {
+          "id": "B",
+          "label": "What does the character do or feel when something hard happens?",
+          "correct": true,
+          "explanation": "This is exactly the right question -- looking at actions and feelings tells you how a character responds."
+        },
+        {
+          "id": "C",
+          "label": "What is the title of the book?",
+          "correct": false,
+          "explanation": "The title does not tell you how a character responds to challenges."
+        },
+        {
+          "id": "D",
+          "label": "How many pages is the story?",
+          "correct": false,
+          "explanation": "Page count has nothing to do with character responses."
+        }
+      ],
+      "explanation_md": "To understand a character's response, ask: **What does the character do, say, think, or feel** when something difficult happens?"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When it started raining during the picnic, Dad smiled and said, 'Let's eat under that big tree!'*\n\nWhat does Dad's response tell us about him?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He is angry about the rain.",
+          "correct": false,
+          "explanation": "Dad smiled and found a solution -- not angry."
+        },
+        {
+          "id": "B",
+          "label": "He is flexible and finds solutions.",
+          "correct": true,
+          "explanation": "Dad's smile and creative solution (eating under the tree) show he handles challenges in a positive, flexible way."
+        },
+        {
+          "id": "C",
+          "label": "He does not like picnics.",
+          "correct": false,
+          "explanation": "His solution keeps the picnic going -- he wants to continue."
+        },
+        {
+          "id": "D",
+          "label": "He is scared of rain.",
+          "correct": false,
+          "explanation": "Dad is calm and problem-solving -- not scared."
+        }
+      ],
+      "explanation_md": "Character responses reveal **traits**. Dad's positive, creative response to rain shows he is flexible and solution-focused."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'When the other kids would not let Jasmine join their game, she walked to the swings and played alone. A tear ran down her cheek.'*\n\nWhat was Jasmine's challenge and how did she respond?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Challenge: She forgot how to play. Response: She cried.",
+          "correct": false,
+          "explanation": "The challenge was being excluded from the game, not forgetting how to play."
+        },
+        {
+          "id": "B",
+          "label": "Challenge: She was excluded from the game. Response: She walked away and cried.",
+          "correct": true,
+          "explanation": "The challenge was exclusion. Jasmine's response was to walk away (action) and cry (emotion)."
+        },
+        {
+          "id": "C",
+          "label": "Challenge: No swings were open. Response: She waited.",
+          "correct": false,
+          "explanation": "The challenge was being excluded from a game, not finding a swing."
+        },
+        {
+          "id": "D",
+          "label": "Challenge: She lost the game. Response: She got upset.",
+          "correct": false,
+          "explanation": "Jasmine was not allowed to play the game -- she was excluded before it started."
+        }
+      ],
+      "explanation_md": "Identify the **challenge** (what went wrong) and the **response** (what the character did and felt). Jasmine's challenge was exclusion; her response was to walk away and feel sad."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A character who faces a hard challenge and does not give up can be described as ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "cowardly",
+          "correct": false,
+          "explanation": "Cowardly means giving up due to fear -- the opposite of not giving up."
+        },
+        {
+          "id": "B",
+          "label": "determined",
+          "correct": true,
+          "explanation": "Determined means you keep trying even when things are hard -- a trait shown by not giving up."
+        },
+        {
+          "id": "C",
+          "label": "careless",
+          "correct": false,
+          "explanation": "Careless means not paying attention -- not the same as facing a challenge bravely."
+        },
+        {
+          "id": "D",
+          "label": "confused",
+          "correct": false,
+          "explanation": "Confusion is about not understanding -- not the same as responding with determination."
+        }
+      ],
+      "explanation_md": "A character who does not give up in the face of challenges is **determined**. Other character traits shown through responses: brave, kind, patient, stubborn, or caring."
+    }
+  ]
+}
