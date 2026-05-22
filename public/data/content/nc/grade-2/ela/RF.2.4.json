@@ -1,0 +1,253 @@
+{
+  "skill_id": "RF.2.4",
+  "benchmark_description": "Read with sufficient accuracy and fluency to support comprehension: read grade-level text with purpose and understanding; read grade-level prose and poetry orally with accuracy, appropriate rate, and expression; use context to confirm or self-correct word recognition and understanding.",
+  "course": "ela",
+  "strand": "RF",
+  "lesson": {
+    "title": "Reading Fluently with Expression and Understanding",
+    "intro": "Fluent readers read smoothly, at a good speed, and with expression — like a storyteller! Fluency is not just about reading fast. It means reading in a way that makes the meaning clear to anyone listening.",
+    "body_md": "## What Is Fluency?\n\n**Fluency** means reading:\n1. **Accurately** — reading the right words\n2. **At an appropriate rate** — not too fast, not too slow\n3. **With expression** — sounding like you are telling a story, not reading a list\n\n## Reading with Purpose\n\nBefore reading, ask yourself:\n- *Why am I reading this?* (To learn something? To enjoy a story?)\n- *What do I already know about this topic?*\n- *What do I expect to find out?*\n\nReading with a purpose helps you pay attention to the most important information.\n\n## Reading with Expression\n\nExpression means your voice shows the meaning and feeling of the text.\n\n| Text clue | How to read it |\n|---|---|\n| ? (question mark) | Raise your voice slightly at the end |\n| ! (exclamation mark) | Read with excitement or emphasis |\n| , (comma) | Pause briefly |\n| — (dash) | Pause, then continue |\n| Quotation marks | Change your voice for the character |\n\n## Self-Correcting While Reading\n\nGood readers fix their mistakes as they go:\n1. If a word does not make sense in the sentence, stop.\n2. Look at the letters again or think about context.\n3. Reread the sentence with the correct word.\n\nExample: If you read 'The dog barked at the car' but wrote 'The dog barked at the can,' the sentence sounds odd. Go back and check the word again.",
+    "worked_example_md": "## Worked Example\n\nRead this sentence aloud:\n\n> *'Watch out!' called Sam, as the ball flew toward the window.*\n\n**Step 1: Look for punctuation clues.**\n- Exclamation mark (!) after 'Watch out' → read loudly and urgently\n- Comma after 'Sam' → brief pause\n\n**Step 2: Think about expression.**\n- Sam is warning someone. His voice should sound urgent and worried.\n- After the exclamation, the narration goes back to a regular voice.\n\n**Step 3: Think about rate.**\n- The action is fast (ball flying toward window). You might read a little faster to match the urgency.\n\n**Step 4: Self-check meaning.**\n- After reading, ask: Does this make sense? Yes — Sam called out a warning because the ball was heading toward the window.\n\n**Reading with expression and checking for meaning are both part of fluency.**",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to read **fluently**?",
+      "choices": [
+        {"id": "a", "label": "Reading as fast as you possibly can", "correct": false, "explanation": "Fluency is not about reading as fast as possible. It means reading accurately, at a good rate, and with expression."},
+        {"id": "b", "label": "Reading accurately, at a good rate, and with expression", "correct": true, "explanation": "Fluency has three parts: accuracy (right words), rate (not too fast or slow), and expression (sounding like a storyteller)."},
+        {"id": "c", "label": "Reading without looking at any pictures", "correct": false, "explanation": "Pictures can help readers understand the text. Fluency is about how you read, not whether you look at pictures."},
+        {"id": "d", "label": "Reading only short words", "correct": false, "explanation": "Fluency applies to all reading, not just short words."}
+      ],
+      "explanation_md": "Fluency means reading accurately, at an appropriate rate, and with expression. All three parts work together."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below. Which punctuation mark tells you to **pause briefly** when reading it aloud?\n\n> *The dog barked, and the cat ran away.*",
+      "choices": [
+        {"id": "a", "label": "The period at the end", "correct": false, "explanation": "A period marks the end of a sentence and signals a full stop, not a brief pause."},
+        {"id": "b", "label": "The comma after 'barked'", "correct": true, "explanation": "A comma signals a brief pause when reading aloud. You pause slightly after 'barked' before continuing."},
+        {"id": "c", "label": "The capital letter at the start", "correct": false, "explanation": "Capital letters mark the beginning of a sentence. They do not signal a pause."},
+        {"id": "d", "label": "The letters in 'barked'", "correct": false, "explanation": "The letters spell the word. Punctuation marks signal how to read."}
+      ],
+      "explanation_md": "A comma tells the reader to pause briefly. When reading 'The dog barked, and the cat ran away,' you pause after 'barked.'"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student is reading aloud and comes to this sentence:\n\n> *'I found it!' she shouted.*\n\nHow should the student **read** this with expression?",
+      "choices": [
+        {"id": "a", "label": "Very softly and slowly", "correct": false, "explanation": "The exclamation mark shows excitement. Reading softly and slowly would not match the meaning."},
+        {"id": "b", "label": "Loudly and with excitement, since the exclamation mark shows strong feeling", "correct": true, "explanation": "The exclamation mark and the word 'shouted' are both clues that this line should be read with loud, excited energy."},
+        {"id": "c", "label": "In the exact same voice as every other sentence", "correct": false, "explanation": "Reading everything in the same flat voice is the opposite of expression. The exclamation mark signals a change in tone."},
+        {"id": "d", "label": "As a question, raising the voice at the end", "correct": false, "explanation": "Raising the voice at the end signals a question. This is an exclamation, not a question."}
+      ],
+      "explanation_md": "The exclamation mark and the word 'shouted' are clues to read loudly and with excitement. That matches the meaning of the sentence."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads this sentence and says **'can'** instead of **'car':**\n\n> *The bird landed on top of the car.*\n\nWhat should the student do to **self-correct**?",
+      "choices": [
+        {"id": "a", "label": "Keep going because 'can' kind of makes sense.", "correct": false, "explanation": "A bird landing on top of a can might make sense, but looking back at the letters helps confirm the right word. Good readers check their reading."},
+        {"id": "b", "label": "Go back to look at the letters again, check that 'car' fits, and reread the sentence.", "correct": true, "explanation": "Self-correcting means noticing something feels wrong, going back to look at the word, and rereading. 'Car' makes more sense in the context of landing on top of something, and the letters c-a-r confirm it."},
+        {"id": "c", "label": "Skip the word and continue reading.", "correct": false, "explanation": "Skipping words leaves gaps in understanding. Good readers stop and self-correct when something does not seem right."},
+        {"id": "d", "label": "Ask someone else to read the whole paragraph.", "correct": false, "explanation": "Self-correcting means the reader tries to fix the error themselves using letters and context."}
+      ],
+      "explanation_md": "Self-correcting means going back, looking at the letters more carefully, checking if the word makes sense in the sentence, and rereading. 'Car' fits the context and the letters c-a-r confirm it."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads this poem:\n\n> *The stars shine bright, the moon glows white,*\n> *All the world is still tonight.*\n\nWhat does **reading with expression** mean for this poem?",
+      "choices": [
+        {"id": "a", "label": "Reading as quickly as possible so the rhymes line up", "correct": false, "explanation": "Speed should match the mood. A calm, peaceful poem should be read slowly and gently, not rushed."},
+        {"id": "b", "label": "Reading in a calm, gentle voice that matches the peaceful, quiet mood of the poem", "correct": true, "explanation": "The poem describes a still, quiet night. Reading with expression means matching that peaceful mood with a calm, gentle voice."},
+        {"id": "c", "label": "Reading in a scary, loud voice", "correct": false, "explanation": "The poem is peaceful, not scary. Expression means matching the mood of the text."},
+        {"id": "d", "label": "Reading without any pauses at the commas", "correct": false, "explanation": "Commas are punctuation signals. Ignoring them breaks the rhythm and expression of the poem."}
+      ],
+      "explanation_md": "Expression means matching your voice to the mood and meaning of the text. This poem is peaceful and quiet, so a calm, gentle voice fits best."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the two reading strategies below, then answer the question.\n\n> **Strategy A:** A student reads every word exactly as written, never pausing for punctuation, at the same speed and tone throughout.\n> **Strategy B:** A student reads each sentence with the right emotion, pauses at commas, raises voice for questions, and rereads when something does not make sense.\n\nWhich strategy shows **better fluency**?",
+      "choices": [
+        {"id": "a", "label": "Strategy A, because reading exactly as written is most accurate.", "correct": false, "explanation": "Strategy A ignores rate, expression, and self-correction. Reading every word is only ONE part of fluency."},
+        {"id": "b", "label": "Strategy B, because it combines accuracy with expression, proper rate, and self-correction.", "correct": true, "explanation": "Strategy B uses all the components of fluency: accuracy (reading words correctly), expression (right emotion), rate (pausing appropriately), and self-correction (rereading when confused)."},
+        {"id": "c", "label": "Both strategies show the same fluency.", "correct": false, "explanation": "Strategy A ignores expression and self-correction. Strategy B is clearly more complete."},
+        {"id": "d", "label": "Neither strategy is fluent because neither mentions reading speed.", "correct": false, "explanation": "Rate (speed) is part of fluency, and Strategy B does address it through pausing at commas and rereading. Strategy B is fluent."}
+      ],
+      "explanation_md": "Fluency = accuracy + rate + expression + self-correction. Strategy B uses all four elements. Strategy A only focuses on saying the right words and ignores everything else."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads this text and stumbles on the word *enormous:*\n\n> *The elephant was enormous — the biggest one we had ever seen.*\n\nWhich strategy helps the student **figure out** what 'enormous' means WITHOUT looking it up?",
+      "choices": [
+        {"id": "a", "label": "Skip the word and read faster.", "correct": false, "explanation": "Skipping leaves the meaning unclear. Using context is a better strategy."},
+        {"id": "b", "label": "Use the rest of the sentence — 'the biggest one we had ever seen' — as a context clue.", "correct": true, "explanation": "The dash connects 'enormous' to 'the biggest one we had ever seen.' That context clue tells you enormous means very big."},
+        {"id": "c", "label": "Replace 'enormous' with 'small' and see if it makes sense.", "correct": false, "explanation": "Context shows enormous means very big. Replacing it with 'small' would create the opposite meaning."},
+        {"id": "d", "label": "Sound out each letter and say it very slowly.", "correct": false, "explanation": "Sounding out helps you pronounce the word, but context clues are what help you understand its meaning."}
+      ],
+      "explanation_md": "The dash in the sentence connects 'enormous' to the explanation 'the biggest one we had ever seen.' This is a context clue. Using context helps you understand what an unknown word means."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads this dialogue aloud:\n\n> *'Are you sure?' asked Mia quietly.*\n> *'Absolutely!' said Diego with a grin.*\n\nHow should the student use **different expression** for each character?",
+      "choices": [
+        {"id": "a", "label": "Read both in the same flat voice since they are both characters.", "correct": false, "explanation": "Reading both the same misses the different emotions and point of view each character has."},
+        {"id": "b", "label": "Read Mia's line quietly and with uncertainty; read Diego's line confidently and with energy.", "correct": true, "explanation": "Mia is described as speaking 'quietly' and her words show doubt ('Are you sure?'). Diego says 'Absolutely!' with a grin, showing confidence and excitement. Different voices match different character feelings."},
+        {"id": "c", "label": "Read Diego's line quietly because he is a smaller character.", "correct": false, "explanation": "Diego says 'Absolutely!' with a grin. That calls for a confident, energetic voice, not a quiet one."},
+        {"id": "d", "label": "Read both lines as fast as possible.", "correct": false, "explanation": "Rate should match meaning. Mia's quiet, uncertain question should not be rushed."}
+      ],
+      "explanation_md": "Mia: quiet, uncertain → soft, hesitant voice. Diego: 'Absolutely!' with a grin → confident, energetic voice. The text gives clues about how each character sounds. Using different voices is an important part of reading dialogue with expression."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads a passage about the water cycle and then is asked: 'What did you read about?' The student says 'I do not know. I just read all the words.'\n\nWhat does this tell you about the student's fluency?",
+      "choices": [
+        {"id": "a", "label": "The student is a perfectly fluent reader.", "correct": false, "explanation": "Fluency includes comprehension. If the student cannot recall what they read, they were not reading with understanding."},
+        {"id": "b", "label": "The student may have read accurately but was not reading with purpose or understanding.", "correct": true, "explanation": "Fluency is not just about saying the words correctly. Reading with purpose means focusing on meaning. The student missed the comprehension part of fluency."},
+        {"id": "c", "label": "The student is a very fast reader.", "correct": false, "explanation": "Speed is one part of rate, but understanding is also required. Speed without comprehension is not true fluency."},
+        {"id": "d", "label": "The student should read fewer words next time.", "correct": false, "explanation": "The problem is not the amount read but the lack of focus on meaning. Reading with purpose and understanding is key."}
+      ],
+      "explanation_md": "Fluency includes accuracy, rate, expression, AND comprehension. Saying all the words but not knowing what you read means you were not reading with purpose or understanding. True fluency connects reading and meaning."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the two passage versions below:\n\n**Version A (student reading aloud — flat and fast):**\n> *theelephantranacrosstheplainandstoppedatthewatering holeitdrankalotofwater*\n\n**Version B (student reading aloud — with fluency):**\n> *The elephant ran across the plain... and stopped at the watering hole. It drank a lot of water.*\n\nWhat is the MOST IMPORTANT difference between how these two students are reading?",
+      "choices": [
+        {"id": "a", "label": "Version B student is reading louder.", "correct": false, "explanation": "The description does not say Volume is the difference. The key difference is in pausing, accuracy, and expression."},
+        {"id": "b", "label": "Version B student uses punctuation as a guide for pausing, which makes the meaning clear to the listener.", "correct": true, "explanation": "Version A runs everything together without pause. Version B uses the period and ellipsis as signals to pause, making the structure and meaning of the sentence clear. Punctuation-guided pacing is a major part of fluency."},
+        {"id": "c", "label": "Version A student is more accurate because they say all the words.", "correct": false, "explanation": "Version A runs words together, making it hard to identify separate words. Accuracy means reading each word correctly, not mashing them together."},
+        {"id": "d", "label": "Version B student skips some words.", "correct": false, "explanation": "Version B reads the same words as Version A but uses punctuation to create meaningful pauses."}
+      ],
+      "explanation_md": "Version A ignores punctuation and runs all words together. Version B uses pauses at punctuation marks to make the sentence structure clear. Pausing at punctuation is a key component of rate and expression in fluency."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads this sentence and pauses at the end as if it is a question:\n\n> *The library closes at 6 o'clock.*\n\nWhat mistake is the student making?",
+      "choices": [
+        {"id": "a", "label": "Reading too slowly", "correct": false, "explanation": "The problem is not speed. The student is misreading the punctuation signal."},
+        {"id": "b", "label": "Not using the period correctly; the sentence is a statement, not a question, and should end with a falling tone.", "correct": true, "explanation": "A period ends a statement. The reader's voice should fall at the end, not rise. Rising at the end signals a question, which is wrong here."},
+        {"id": "c", "label": "Reading the wrong words", "correct": false, "explanation": "The issue is not word accuracy but expression based on punctuation."},
+        {"id": "d", "label": "Using expression that matches the sentence", "correct": false, "explanation": "The student is using the WRONG expression. A statement should have a falling tone at the end, not a rising one."}
+      ],
+      "explanation_md": "A period means a statement. Statements end with a falling (lower) tone. Raising your voice at the end sounds like a question. The student should read this as a flat or slightly falling tone, not a rising one."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to **self-correct** while reading?",
+      "choices": [
+        {"id": "a", "label": "To read a passage twice from beginning to end", "correct": false, "explanation": "Self-correcting happens when you catch an error and fix it in the moment, not just rereading the whole passage."},
+        {"id": "b", "label": "To notice when something does not sound right and go back to fix the word", "correct": true, "explanation": "Self-correction means catching your own mistake while reading and going back to fix it so the meaning is clear."},
+        {"id": "c", "label": "To ask a teacher to read the word for you", "correct": false, "explanation": "Asking for help is fine sometimes, but self-correcting means fixing the error yourself using context and letter clues."},
+        {"id": "d", "label": "To skip difficult words and continue reading", "correct": false, "explanation": "Skipping is not self-correcting. Self-correcting means going back and fixing the error."}
+      ],
+      "explanation_md": "Self-correcting means noticing when something sounds wrong, going back to the word, using letter patterns and context to figure it out, and rereading. Good readers do this automatically."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads a poem about a thunderstorm in a very quiet, slow, sleepy voice. The poem uses lots of exclamation marks and action words like 'crash,' 'boom,' and 'flash.'\n\nWhat is the student doing wrong with **expression**?",
+      "choices": [
+        {"id": "a", "label": "Reading too accurately", "correct": false, "explanation": "There is no such thing as reading 'too accurately.' Accuracy is always good. The problem is with expression."},
+        {"id": "b", "label": "Not matching the voice to the energy and mood of the poem", "correct": true, "explanation": "The poem has crash, boom, flash, and exclamation marks — all signals of loud, fast, energetic action. A quiet, sleepy voice does not match this. Expression means adjusting your voice to match the text's mood."},
+        {"id": "c", "label": "Pausing too often at punctuation marks", "correct": false, "explanation": "Pausing at punctuation is correct behavior. The problem is the overall tone and energy of the voice, not pausing."},
+        {"id": "d", "label": "Reading the poem too many times", "correct": false, "explanation": "Reading practice is good. The issue is that the student's expression does not match the poem's content."}
+      ],
+      "explanation_md": "A thunderstorm poem with 'crash,' 'boom,' 'flash,' and exclamation marks should be read with energy and volume to match. A quiet, sleepy voice does not match the text's mood. Expression means adjusting your voice to reflect what is happening in the text."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a **period** tell you to do when reading aloud?",
+      "choices": [
+        {"id": "a", "label": "Raise your voice as if asking a question", "correct": false, "explanation": "A question mark tells you to raise your voice. A period ends a statement."},
+        {"id": "b", "label": "Stop and take a breath; the sentence is done", "correct": true, "explanation": "A period marks the end of a sentence. When you see one, you stop and take a breath before starting the next sentence."},
+        {"id": "c", "label": "Read faster", "correct": false, "explanation": "A period signals a stop, not faster reading."},
+        {"id": "d", "label": "Skip to the next line", "correct": false, "explanation": "A period means the sentence is done. You stop, not skip."}
+      ],
+      "explanation_md": "A period marks the end of a sentence. When reading aloud, you pause and take a breath at a period before starting the next sentence."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of reading with **expression**?",
+      "choices": [
+        {"id": "a", "label": "Reading every sentence in exactly the same flat voice", "correct": false, "explanation": "Reading everything the same way is the opposite of expression. Expression means changing your voice to match the feeling."},
+        {"id": "b", "label": "Reading an exciting part of a story louder and faster", "correct": true, "explanation": "Matching your voice to the excitement of the text is expression. A louder, faster voice for an exciting part shows you understand the mood."},
+        {"id": "c", "label": "Skipping words you do not know", "correct": false, "explanation": "Skipping words is not expression. Expression is about how your voice sounds, not which words you read."},
+        {"id": "d", "label": "Reading silently", "correct": false, "explanation": "Expression applies to reading aloud. When reading silently, you think about meaning, but expression is about your voice."}
+      ],
+      "explanation_md": "Expression means matching your voice to the feeling and meaning of the text. Reading an exciting part louder and faster is an example of expression."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads: 'The dog chase the cat.' The student notices something sounds wrong. What should the student do?",
+      "choices": [
+        {"id": "a", "label": "Keep reading without stopping.", "correct": false, "explanation": "Good readers notice when something sounds wrong and stop to fix it."},
+        {"id": "b", "label": "Go back, look at the word 'chase,' and reread as 'The dog chased the cat.'", "correct": true, "explanation": "The student noticed the error (chase should be chased). Going back and fixing it is self-correction. 'Chased' makes the sentence grammatically correct."},
+        {"id": "c", "label": "Change the whole sentence to something different.", "correct": false, "explanation": "Self-correction means fixing the specific word that is wrong, not rewriting the sentence."},
+        {"id": "d", "label": "Start reading from the beginning of the passage.", "correct": false, "explanation": "Starting over from the very beginning is not efficient. Go back only to the mistake and fix it."}
+      ],
+      "explanation_md": "The student caught an error ('chase' should be 'chased'). Self-correction means going back to the specific word and rereading the sentence correctly."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the **purpose** of reading a text before, during, or after doing something specific?",
+      "choices": [
+        {"id": "a", "label": "There is no reason to have a purpose. Just read.", "correct": false, "explanation": "Reading with purpose helps you pay attention to the most important information."},
+        {"id": "b", "label": "Having a purpose helps you pay attention to what matters most in the text.", "correct": true, "explanation": "When you know WHY you are reading (to learn, to find information, to enjoy a story), you focus on the right details and understand the text better."},
+        {"id": "c", "label": "Reading with a purpose means reading faster.", "correct": false, "explanation": "Purpose is about WHY you read, not HOW FAST. Reading with purpose can help you slow down for important parts."},
+        {"id": "d", "label": "A purpose means you only read words that start with certain letters.", "correct": false, "explanation": "Purpose has nothing to do with which letters words start with. It is about why you are reading."}
+      ],
+      "explanation_md": "Reading with a purpose means knowing WHY you are reading. This helps you focus on the most important information and understand the text better."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads: 'She was so happy she could not stop laughing.' The student mispronounces 'laughing' as 'la-foo-ing.' How can the student use **context** to check the word?",
+      "choices": [
+        {"id": "a", "label": "Skip the word and say 'something' in its place.", "correct": false, "explanation": "Skipping leaves the meaning unclear. Using context helps you get the real word."},
+        {"id": "b", "label": "Think about what makes sense when you are very happy — the context clue is 'so happy', which suggests 'laughing.'", "correct": true, "explanation": "The sentence says she was 'so happy she could not stop ___.' When you are very happy, you laugh. Context tells you the word should be 'laughing.'"},
+        {"id": "c", "label": "Decide the word does not matter and read the next sentence.", "correct": false, "explanation": "All words contribute to meaning. Using context to figure out the word is better than ignoring it."},
+        {"id": "d", "label": "Change the sentence so the hard word is not needed.", "correct": false, "explanation": "Changing the sentence is not self-correction. Use context clues to figure out the actual word."}
+      ],
+      "explanation_md": "Context clue: 'so happy she could not stop ___.' When you are very happy, you laugh. The context makes 'laughing' the only word that makes sense. Using context helps you self-correct and understand unknown words."
+    }
+  ]
+}
