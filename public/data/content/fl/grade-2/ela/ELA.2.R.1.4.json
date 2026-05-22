@@ -1,0 +1,253 @@
+{
+  "skill_id": "ELA.2.R.1.4",
+  "benchmark_description": "Identify and explain how the author uses figurative language, including similes and simple metaphors, in literary texts.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Similes and Metaphors: Figurative Language",
+    "intro": "Authors do not always mean exactly what they say. Sometimes they use creative comparisons to help you picture something better. That is called figurative language, and it makes reading more fun!",
+    "body_md": "## What Is Figurative Language?\n\n**Figurative language** uses words in imaginative ways — not literally. Two common types are **similes** and **metaphors**.\n\n## Similes\n\nA **simile** compares two things using **like** or **as**.\n\n| Simile | What It Means |\n|---|---|\n| *Her smile is like sunshine.* | Her smile makes you feel warm and happy. |\n| *He ran as fast as lightning.* | He ran extremely fast. |\n| *The snow was as soft as a pillow.* | The snow felt very soft. |\n\n**Tip:** Look for the words **like** or **as** — those are your clues!\n\n## Metaphors\n\nA **metaphor** compares two things by saying one thing IS the other — no *like* or *as*.\n\n| Metaphor | What It Means |\n|---|---|\n| *The classroom was a zoo.* | The classroom was very noisy and chaotic. |\n| *Her voice is music.* | Her voice is very pleasant to hear. |\n| *The boy is a tornado.* | The boy moves fast and creates chaos. |\n\n**Tip:** If it says one thing IS another, and the comparison is not literally true, it is a metaphor!\n\n## Why Authors Use Figurative Language\n\n- To create a picture in your mind\n- To make writing more interesting and fun to read\n- To help you feel emotions\n- To describe something in a fresh, surprising way",
+    "worked_example_md": "**Sentence from a story:** *\"The old house was a ghost, standing alone on the dark hill.\"*\n\n**Step 1:** Is this literally true? Can a house actually be a ghost? No.\n\n**Step 2:** Does it use *like* or *as*? No.\n\n**Step 3:** One thing (house) is being called another thing (ghost) directly — this is a **metaphor**.\n\n**Step 4:** What does it mean? The house looks eerie, empty, and spooky — like a ghost.\n\n**Answer:** This is a metaphor. The author compares the house to a ghost to show it looks spooky and empty.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **simile**?",
+      "choices": [
+        {"id": "a", "label": "The moon is a silver coin.", "correct": false, "explanation": "This is a metaphor — it says the moon IS a coin without using like or as."},
+        {"id": "b", "label": "The moon looked like a silver coin.", "correct": true, "explanation": "Yes! This simile uses the word *like* to compare the moon to a silver coin."},
+        {"id": "c", "label": "The moon rose in the sky.", "correct": false, "explanation": "This is a literal statement — no comparison is being made."},
+        {"id": "d", "label": "The moon is bright.", "correct": false, "explanation": "This is a literal description — not a simile or metaphor."}
+      ],
+      "explanation_md": "A simile uses *like* or *as*. \"The moon looked **like** a silver coin\" is a simile."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **metaphor**?",
+      "choices": [
+        {"id": "a", "label": "The teacher is as wise as an owl.", "correct": false, "explanation": "This uses *as* — that makes it a simile, not a metaphor."},
+        {"id": "b", "label": "My dad is a rock.", "correct": true, "explanation": "Yes! This metaphor says Dad IS a rock — strong and dependable — without using like or as."},
+        {"id": "c", "label": "She sang like a bird.", "correct": false, "explanation": "This uses *like* — that makes it a simile."},
+        {"id": "d", "label": "The rock was heavy.", "correct": false, "explanation": "This is a literal statement — no comparison."}
+      ],
+      "explanation_md": "A metaphor says one thing IS another. \"My dad is a rock\" = metaphor (no *like* or *as*)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the key word(s) that signals a simile?",
+      "choices": [
+        {"id": "a", "label": "is or are", "correct": false, "explanation": "\"Is\" or \"are\" can signal a metaphor, not a simile."},
+        {"id": "b", "label": "like or as", "correct": true, "explanation": "Yes! Similes always use *like* or *as* to make the comparison."},
+        {"id": "c", "label": "the or a", "correct": false, "explanation": "Those are articles — not comparison words."},
+        {"id": "d", "label": "and or but", "correct": false, "explanation": "Those are connecting words — not comparison words for similes."}
+      ],
+      "explanation_md": "Similes use **like** or **as** to compare two things."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *Her laughter was music to my ears.*  \nWhat does this metaphor mean?",
+      "choices": [
+        {"id": "a", "label": "She was playing a musical instrument", "correct": false, "explanation": "The sentence is figurative — she is not literally playing music."},
+        {"id": "b", "label": "Her laughter was pleasant and enjoyable to hear", "correct": true, "explanation": "Yes! Calling laughter \"music\" means it was lovely and pleasant — it made you feel good."},
+        {"id": "c", "label": "She could not stop laughing", "correct": false, "explanation": "Nothing in the sentence suggests she could not stop — just that her laughter sounded pleasant."},
+        {"id": "d", "label": "She was very loud", "correct": false, "explanation": "Music can be soft or loud — the metaphor is about the pleasant quality, not the volume."}
+      ],
+      "explanation_md": "\"Music to my ears\" = it was very pleasant to hear. The metaphor shows her laughter was enjoyable."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence from a story: *The baby slept as quietly as a mouse.*  \nWhat two things are being compared in this simile?",
+      "choices": [
+        {"id": "a", "label": "The baby and a bed", "correct": false, "explanation": "A bed is not mentioned in the simile. The comparison is between the baby and a mouse."},
+        {"id": "b", "label": "The baby and a mouse", "correct": true, "explanation": "Yes! The simile compares how quietly the baby slept to how quietly a mouse moves."},
+        {"id": "c", "label": "A mouse and quietness", "correct": false, "explanation": "Quietness is the quality — the two things being compared are the baby and the mouse."},
+        {"id": "d", "label": "Sleep and a mouse", "correct": false, "explanation": "The baby is being compared to the mouse — sleep is just what the baby is doing."}
+      ],
+      "explanation_md": "The simile compares the baby (how quietly it slept) to a mouse (known for being quiet)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *The playground was a jungle at recess.*  \nThis is a metaphor. Why does the author use it?",
+      "choices": [
+        {"id": "a", "label": "To show there were wild animals on the playground", "correct": false, "explanation": "There are no literal wild animals — the comparison is figurative."},
+        {"id": "b", "label": "To help you picture how wild, loud, and chaotic the playground was", "correct": true, "explanation": "Yes! A jungle is noisy, wild, and full of activity — calling the playground a jungle shows it was the same way."},
+        {"id": "c", "label": "To say the playground needed more trees", "correct": false, "explanation": "The metaphor is about noise and chaos — not about needing trees."},
+        {"id": "d", "label": "To show the playground was empty", "correct": false, "explanation": "A jungle is full and busy — the opposite of empty."}
+      ],
+      "explanation_md": "The playground = a jungle means it was noisy, wild, and full of activity."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads: *The storm was an angry giant stomping across the sky.* The student says this is a simile. Is the student correct?",
+      "choices": [
+        {"id": "a", "label": "Yes — any comparison is a simile", "correct": false, "explanation": "Not every comparison is a simile. Similes use *like* or *as*; metaphors do not."},
+        {"id": "b", "label": "No — this is a metaphor because it says the storm IS a giant, with no like or as", "correct": true, "explanation": "Correct! The storm is being called an angry giant directly — no *like* or *as*. That is a metaphor."},
+        {"id": "c", "label": "Yes — the word angry is the signal word for a simile", "correct": false, "explanation": "*Angry* is an adjective — not a simile signal word."},
+        {"id": "d", "label": "No — this is just a literal sentence about a storm", "correct": false, "explanation": "Storms are not literally giants. This is figurative language — specifically a metaphor."}
+      ],
+      "explanation_md": "No *like* or *as* + one thing called another thing directly = metaphor. The student was incorrect."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which simile BEST describes something very cold?",
+      "choices": [
+        {"id": "a", "label": "as cold as fire", "correct": false, "explanation": "Fire is hot — this simile contradicts itself."},
+        {"id": "b", "label": "as cold as ice", "correct": true, "explanation": "Yes! Ice is freezing, so \"as cold as ice\" is a clear and effective simile for something very cold."},
+        {"id": "c", "label": "as cold as a blanket", "correct": false, "explanation": "Blankets are usually warm — this simile does not work well."},
+        {"id": "d", "label": "as cold as a puppy", "correct": false, "explanation": "Puppies are not known for being cold — this simile does not make the intended comparison."}
+      ],
+      "explanation_md": "\"As cold as ice\" is an effective simile — ice is freezing, and so is the thing being described."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this story sentence: *When Grandma walked in the room, her smile was a warm blanket on a cold day.*\n\nWhat does this metaphor help you understand?",
+      "choices": [
+        {"id": "a", "label": "Grandma was carrying a blanket", "correct": false, "explanation": "The blanket is not literal — it is figurative."},
+        {"id": "b", "label": "Grandma's smile made everyone feel comfortable and warm inside", "correct": true, "explanation": "Yes! A warm blanket on a cold day = comforting and cozy. The metaphor shows her smile made people feel that way."},
+        {"id": "c", "label": "Grandma was cold when she arrived", "correct": false, "explanation": "The metaphor is about the effect of her smile — not about Grandma being cold."},
+        {"id": "d", "label": "Grandma does not smile often", "correct": false, "explanation": "Nothing in the sentence says she smiles rarely — quite the opposite."}
+      ],
+      "explanation_md": "\"A warm blanket on a cold day\" = comforting. Grandma's smile made everyone feel comfortable and warm."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Jake's room was a disaster zone. Clothes piled up like mountains, and his desk was buried under an avalanche of papers.*\n\nHow many examples of figurative language are in this passage?",
+      "choices": [
+        {"id": "a", "label": "1 — only the metaphor about the disaster zone", "correct": false, "explanation": "There is also a simile (*like mountains*) and a metaphor (*avalanche of papers*)."},
+        {"id": "b", "label": "2 — the metaphor and the simile about mountains", "correct": false, "explanation": "There are three examples — you missed the metaphor *avalanche of papers*."},
+        {"id": "c", "label": "3 — a metaphor, a simile, and another metaphor", "correct": true, "explanation": "Yes! 1) *disaster zone* (metaphor), 2) *like mountains* (simile), 3) *avalanche of papers* (metaphor)."},
+        {"id": "d", "label": "0 — the passage is all literal", "correct": false, "explanation": "Jake's room is not literally a disaster zone, clothes are not literally mountains, and there is no actual avalanche — all figurative."}
+      ],
+      "explanation_md": "Three examples: *disaster zone* (metaphor), *like mountains* (simile), *avalanche of papers* (metaphor)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *The new student was a fish out of water on his first day.*  \nIs this a simile or a metaphor? What does it mean?",
+      "choices": [
+        {"id": "a", "label": "Simile — the student felt like he was swimming", "correct": false, "explanation": "There is no *like* or *as* — this is a metaphor. And it is not about swimming."},
+        {"id": "b", "label": "Metaphor — the student felt uncomfortable and out of place", "correct": true, "explanation": "Yes! No *like* or *as* — it is a metaphor. A fish out of water struggles because it is not in its home environment — the student felt the same way."},
+        {"id": "c", "label": "Simile — it uses the word like", "correct": false, "explanation": "The word *like* does not appear in this sentence."},
+        {"id": "d", "label": "Metaphor — the student enjoyed school very much", "correct": false, "explanation": "A fish out of water feels uncomfortable — the student was NOT enjoying himself."}
+      ],
+      "explanation_md": "Metaphor (no *like* or *as*). Meaning: the student felt uncomfortable and out of place."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: *The wind howled like a wolf.* Her teacher says this creates a strong picture. WHY does this simile work well?",
+      "choices": [
+        {"id": "a", "label": "Because wolves and wind are both found outside", "correct": false, "explanation": "Being found outside is too simple a connection — the simile works because of the sound comparison."},
+        {"id": "b", "label": "Because the comparison helps you HEAR how loud and scary the wind sounded", "correct": true, "explanation": "Yes! A howling wolf is loud and eerie — comparing the wind to one helps you feel and hear what the wind was like."},
+        {"id": "c", "label": "Because it uses the word like", "correct": false, "explanation": "Using *like* makes it a simile, but that alone does not explain why it is effective — the meaning does."},
+        {"id": "d", "label": "Because it is the longest sentence in the story", "correct": false, "explanation": "Length does not determine how effective a simile is."}
+      ],
+      "explanation_md": "The simile works because comparing wind to a howling wolf helps you picture and HEAR the scary, loud wind."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *Life is a rollercoaster.*  \nWhich answer best explains what this metaphor means?",
+      "choices": [
+        {"id": "a", "label": "Life is always fun and exciting", "correct": false, "explanation": "A rollercoaster has ups AND downs — not just fun moments."},
+        {"id": "b", "label": "Life has many ups and downs, exciting moments and scary ones", "correct": true, "explanation": "Yes! A rollercoaster goes up and down with thrilling and scary moments — just like life."},
+        {"id": "c", "label": "Life moves in a straight line", "correct": false, "explanation": "A rollercoaster is the opposite of a straight line — it has many twists and turns."},
+        {"id": "d", "label": "Life is too fast to enjoy", "correct": false, "explanation": "Speed is just one part of a rollercoaster — the metaphor is about the ups and downs."}
+      ],
+      "explanation_md": "Life is a rollercoaster = life has exciting highs, scary lows, and many unexpected turns."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **simile**?",
+      "choices": [
+        {"id": "a", "label": "A comparison using like or as", "correct": true, "explanation": "Yes! A simile compares two things using the words like or as."},
+        {"id": "b", "label": "A word that sounds like its meaning", "correct": false, "explanation": "That is onomatopoeia — a different type of language."},
+        {"id": "c", "label": "A comparison that says one thing IS another", "correct": false, "explanation": "That is a metaphor — not a simile."},
+        {"id": "d", "label": "A word that means the same as another word", "correct": false, "explanation": "That is a synonym — a completely different thing."}
+      ],
+      "explanation_md": "Simile = comparison using *like* or *as*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the word **like** to make a comparison?",
+      "choices": [
+        {"id": "a", "label": "I like pizza.", "correct": false, "explanation": "Here *like* means you enjoy something — it is not making a comparison."},
+        {"id": "b", "label": "She runs like the wind.", "correct": true, "explanation": "Yes! This uses *like* to compare how she runs to the speed of wind — a simile!"},
+        {"id": "c", "label": "The car is like.", "correct": false, "explanation": "This sentence is incomplete — it does not finish the comparison."},
+        {"id": "d", "label": "He likes to read.", "correct": false, "explanation": "\"Likes\" here means he enjoys reading — not a comparison."}
+      ],
+      "explanation_md": "\"She runs **like** the wind\" uses *like* to compare her running to wind — a simile."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *The stars were diamonds in the sky.*  \nIs this a simile or a metaphor?",
+      "choices": [
+        {"id": "a", "label": "Simile — it uses the word as", "correct": false, "explanation": "There is no *as* in this sentence."},
+        {"id": "b", "label": "Metaphor — it says the stars ARE diamonds without like or as", "correct": true, "explanation": "Yes! Stars are called diamonds directly — no *like* or *as*. That is a metaphor."},
+        {"id": "c", "label": "Simile — it uses the word like", "correct": false, "explanation": "There is no *like* in this sentence."},
+        {"id": "d", "label": "Literal — stars really are diamonds", "correct": false, "explanation": "Stars are not actually diamonds — this is figurative language."}
+      ],
+      "explanation_md": "No *like* or *as* — stars called diamonds directly = metaphor."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence: *Her hair was as shiny as gold.*  \nWhat does this simile mean?",
+      "choices": [
+        {"id": "a", "label": "Her hair was actually made of gold", "correct": false, "explanation": "This is figurative — her hair is not literally gold."},
+        {"id": "b", "label": "Her hair was very shiny and golden in color", "correct": true, "explanation": "Yes! Comparing her hair to gold shows it was bright, shiny, and golden-colored."},
+        {"id": "c", "label": "She had very short hair", "correct": false, "explanation": "Length is not part of this simile — it is about shininess."},
+        {"id": "d", "label": "She was very rich", "correct": false, "explanation": "The simile is about her hair's appearance — not her wealth."}
+      ],
+      "explanation_md": "\"As shiny as gold\" means her hair was very bright and golden-colored."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do authors use figurative language like similes and metaphors?",
+      "choices": [
+        {"id": "a", "label": "To confuse the reader", "correct": false, "explanation": "Authors use figurative language to help the reader — not to confuse them."},
+        {"id": "b", "label": "To help the reader picture and feel the story more vividly", "correct": true, "explanation": "Yes! Similes and metaphors paint pictures in your mind and help you feel emotions."},
+        {"id": "c", "label": "To make the story longer", "correct": false, "explanation": "Figurative language is used for expression — not to add length."},
+        {"id": "d", "label": "Because they do not know the real words", "correct": false, "explanation": "Authors choose figurative language on purpose because it is more powerful than plain descriptions."}
+      ],
+      "explanation_md": "Figurative language helps readers picture and feel the story more vividly."
+    }
+  ]
+}
