@@ -1,0 +1,628 @@
+{
+  "skill_id": "2.RL.CS.5",
+  "benchmark_description": "Describe the overall structure of a story, including describing how the beginning introduces the story and the ending concludes the action.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Story Structure: Beginning, Middle, and End",
+    "objective": "Students will describe the overall structure of a story, explaining how the beginning introduces the characters, setting, and problem, and how the ending concludes the action.",
+    "overview": "Every story has a structure -- a shape that holds it together. Stories begin with an introduction, build through a middle with events and a problem, and end with a conclusion that wraps things up. Understanding story structure helps readers follow and understand what they read.",
+    "key_concepts": [
+      "Beginning (introduction): introduces the characters, the setting (where and when), and the problem or conflict",
+      "Middle: the events that build toward solving the problem; the plot develops here",
+      "End (conclusion): solves the problem and wraps up the action; gives readers a sense of closure",
+      "Plot: the sequence of events in a story",
+      "Conflict: the main problem a character must solve"
+    ],
+    "examples": [
+      {
+        "label": "Story structure example",
+        "text": "Beginning: Rosa lives in a small village and wants to visit her grandmother, but the bridge over the river is broken. Middle: She tries three different ways to cross: a raft (sinks), a fallen tree (too slippery), and a rope swing (too short). End: The village children work together to repair the bridge and Rosa finally reaches her grandmother's house."
+      },
+      {
+        "label": "How beginning introduces the story",
+        "text": "Who: Rosa. Where: a small village. Problem: the bridge is broken and she can't reach her grandmother."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the **beginning** of a story usually introduce?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The solution to the problem",
+          "correct": false,
+          "explanation": "The solution comes at the end, not the beginning."
+        },
+        {
+          "id": "B",
+          "label": "The characters, setting, and problem",
+          "correct": true,
+          "explanation": "The beginning introduces who the story is about, where and when it takes place, and what problem must be solved."
+        },
+        {
+          "id": "C",
+          "label": "The most exciting event",
+          "correct": false,
+          "explanation": "The most exciting event usually happens in the middle, not the beginning."
+        },
+        {
+          "id": "D",
+          "label": "The title and author",
+          "correct": false,
+          "explanation": "The title and author appear on the cover -- not part of the story's beginning."
+        }
+      ],
+      "explanation_md": "The **beginning** of a story introduces: (1) the main character(s), (2) the setting (where and when), and (3) the problem or conflict that needs to be solved."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the **ending** of a story usually do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Introduces new characters",
+          "correct": false,
+          "explanation": "New characters are usually introduced at the beginning or middle, not the ending."
+        },
+        {
+          "id": "B",
+          "label": "Adds more problems for the character",
+          "correct": false,
+          "explanation": "Adding more problems would not wrap up the story -- the ending resolves problems."
+        },
+        {
+          "id": "C",
+          "label": "Concludes the action and resolves the problem",
+          "correct": true,
+          "explanation": "The ending wraps up the story -- it shows how the problem is solved and gives the reader a sense of closure."
+        },
+        {
+          "id": "D",
+          "label": "Describes the setting in detail",
+          "correct": false,
+          "explanation": "Setting description is most common in the beginning -- the ending wraps up the action."
+        }
+      ],
+      "explanation_md": "The **ending** of a story concludes the action by resolving the main problem and giving the reader a sense of closure -- they know the story is finished."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Once upon a time, a small rabbit named Benny lived in a burrow under a big oak tree. One morning, he woke up to find that his favorite carrot patch had disappeared under a huge pile of snow.'*\n\nWhat does this passage MOST LIKELY represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The middle of a story",
+          "correct": false,
+          "explanation": "This passage introduces characters and a problem -- these are features of the beginning."
+        },
+        {
+          "id": "B",
+          "label": "The ending of a story",
+          "correct": false,
+          "explanation": "Endings resolve problems -- this passage introduces a problem."
+        },
+        {
+          "id": "C",
+          "label": "The beginning of a story",
+          "correct": true,
+          "explanation": "This passage introduces the character (Benny), setting (burrow under oak tree), and problem (carrot patch buried in snow) -- all features of a story beginning."
+        },
+        {
+          "id": "D",
+          "label": "A poem",
+          "correct": false,
+          "explanation": "This is prose narrative -- it has characters, a setting, and a story problem."
+        }
+      ],
+      "explanation_md": "A story **beginning** introduces: character (Benny), setting (burrow under oak tree), and problem (carrot patch buried in snow). All three are present here."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Finally, Pedro found the key behind the old clock on the mantle. He rushed to the locked chest, turned the key, and smiled when it clicked open.'*\n\nThis passage is MOST LIKELY from the ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Beginning -- it introduces the problem",
+          "correct": false,
+          "explanation": "The problem was introduced earlier -- this passage shows a problem being solved."
+        },
+        {
+          "id": "B",
+          "label": "Middle -- it is a major event in the story",
+          "correct": false,
+          "explanation": "While major events happen in the middle, the word 'Finally' and the resolution of the mystery key signal this is the conclusion."
+        },
+        {
+          "id": "C",
+          "label": "End -- it resolves the problem and concludes the action",
+          "correct": true,
+          "explanation": "'Finally' signals the end. Pedro finds the key (solution) and the chest opens -- the problem is resolved."
+        },
+        {
+          "id": "D",
+          "label": "The title page",
+          "correct": false,
+          "explanation": "The title page has the book's title and author -- not story content."
+        }
+      ],
+      "explanation_md": "The word **'Finally'** and the resolution of the key mystery signal this is the **ending** of the story -- the problem is solved and the action concludes."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this story beginning: *'Kai had always dreamed of swimming with the dolphins at Ocean Park. His birthday was tomorrow, and his parents had a surprise for him -- but when the car stopped at the park, all the gates were chained shut.'*\n\nWhat is the main **problem** introduced at the beginning?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Kai does not know how to swim.",
+          "correct": false,
+          "explanation": "Nothing in the passage says Kai cannot swim."
+        },
+        {
+          "id": "B",
+          "label": "The park was closed, so Kai might not get to swim with dolphins on his birthday.",
+          "correct": true,
+          "explanation": "Kai's dream was to swim with dolphins, and his parents planned this for his birthday -- but the park is closed. This is the problem the story must solve."
+        },
+        {
+          "id": "C",
+          "label": "His parents forgot his birthday.",
+          "correct": false,
+          "explanation": "His parents planned a surprise for his birthday -- they did not forget."
+        },
+        {
+          "id": "D",
+          "label": "Kai is afraid of dolphins.",
+          "correct": false,
+          "explanation": "Kai has always dreamed of swimming with dolphins -- he is not afraid."
+        }
+      ],
+      "explanation_md": "The **beginning** introduces the conflict. Here, Kai's dream of swimming with dolphins is threatened because the park is closed on his birthday -- the story will build toward solving this problem."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following would be a STRONG story ending for the problem introduced in Question 5?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Kai went home and watched TV instead.",
+          "correct": false,
+          "explanation": "This is an unsatisfying ending -- it does not resolve Kai's dream of swimming with dolphins."
+        },
+        {
+          "id": "B",
+          "label": "The park manager opened a private pool at the park for Kai's birthday, and he finally swam with the dolphins.",
+          "correct": true,
+          "explanation": "This resolves the problem (closed park) in a satisfying way -- Kai achieves his dream, and the story concludes with closure."
+        },
+        {
+          "id": "C",
+          "label": "A new problem appeared: Kai lost his birthday card.",
+          "correct": false,
+          "explanation": "Adding a new problem without resolution is not a story ending -- it would be a middle event."
+        },
+        {
+          "id": "D",
+          "label": "The beginning of the story was repeated.",
+          "correct": false,
+          "explanation": "Repeating the beginning is not an ending -- endings resolve the conflict introduced at the start."
+        }
+      ],
+      "explanation_md": "A strong **ending** resolves the specific problem introduced at the beginning. For Kai's story, a good ending shows him finally swimming with the dolphins -- his dream fulfilled."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which part of a story is usually the LONGEST and contains most of the events?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The beginning",
+          "correct": false,
+          "explanation": "The beginning introduces characters and the problem but is usually shorter than the middle."
+        },
+        {
+          "id": "B",
+          "label": "The middle",
+          "correct": true,
+          "explanation": "The middle contains the main events, attempts to solve the problem, and the building action -- it is usually the longest part."
+        },
+        {
+          "id": "C",
+          "label": "The ending",
+          "correct": false,
+          "explanation": "The ending resolves the story but is typically shorter than the middle."
+        },
+        {
+          "id": "D",
+          "label": "The title page",
+          "correct": false,
+          "explanation": "The title page is not a story part -- it lists the book's title and author."
+        }
+      ],
+      "explanation_md": "The **middle** is usually the longest section of a story. It contains the events that build tension, show attempts to solve the problem, and lead toward the resolution."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: 'The ending of the story was when they found the treasure map.' Her teacher says the story is not done yet. What is MOST LIKELY true about the scene?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The map scene is actually the beginning.",
+          "correct": false,
+          "explanation": "Finding a treasure map would introduce a new quest -- likely a middle event, not the beginning."
+        },
+        {
+          "id": "B",
+          "label": "The map scene is a middle event that sets up more action to come.",
+          "correct": true,
+          "explanation": "Finding the map is likely a middle event -- it creates more action (the quest for the treasure). The ending would come after they resolve the treasure quest."
+        },
+        {
+          "id": "C",
+          "label": "The teacher is wrong -- the story is over.",
+          "correct": false,
+          "explanation": "If the problem (finding treasure) has not been resolved, the story is not over."
+        },
+        {
+          "id": "D",
+          "label": "The story has no ending.",
+          "correct": false,
+          "explanation": "All stories have endings -- the map scene is just a middle event, not the conclusion."
+        }
+      ],
+      "explanation_md": "The **ending** resolves the main problem. Finding a treasure map opens up new action (middle) -- the ending would come only after the treasure quest is resolved."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this summary: *'A girl discovers her dog is missing. She searches the neighborhood, puts up flyers, and asks neighbors. Finally, a neighbor calls to say the dog was found in their backyard, and the girl is reunited with him.'*\n\nWhat is the structure of this story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Beginning: dog is found. Middle: flyers. End: girl is sad.",
+          "correct": false,
+          "explanation": "This is reversed and incomplete -- the dog being found is the ending, not the beginning."
+        },
+        {
+          "id": "B",
+          "label": "Beginning: dog is missing. Middle: searches and puts up flyers. End: dog is found and reunited.",
+          "correct": true,
+          "explanation": "Beginning (problem: dog missing), Middle (events: searches, flyers, neighbors), End (resolution: dog found, reunited). Correct structure."
+        },
+        {
+          "id": "C",
+          "label": "Beginning: flyers. Middle: dog missing. End: searches.",
+          "correct": false,
+          "explanation": "The order is scrambled -- this does not follow the actual story sequence."
+        },
+        {
+          "id": "D",
+          "label": "The story has no middle.",
+          "correct": false,
+          "explanation": "Searching, posting flyers, and asking neighbors are all middle events that build toward the resolution."
+        }
+      ],
+      "explanation_md": "Story structure: **Beginning** (introduce problem), **Middle** (events that develop the story), **End** (resolution). Identifying all three parts shows full understanding of story structure."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement BEST describes why story structure matters for a reader?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It helps the reader know how many pages to read.",
+          "correct": false,
+          "explanation": "Story structure is about understanding the meaning and sequence of a story -- not counting pages."
+        },
+        {
+          "id": "B",
+          "label": "It helps the reader track the problem, follow the events, and understand how the story is resolved.",
+          "correct": true,
+          "explanation": "Knowing story structure (beginning/middle/end) helps readers understand what they are reading and why events happen in a certain order."
+        },
+        {
+          "id": "C",
+          "label": "It tells the reader what the author looks like.",
+          "correct": false,
+          "explanation": "Story structure is about the text, not the author's appearance."
+        },
+        {
+          "id": "D",
+          "label": "It only matters for very short stories.",
+          "correct": false,
+          "explanation": "Story structure applies to all stories, regardless of length."
+        }
+      ],
+      "explanation_md": "**Story structure** is a reading tool: knowing about beginning, middle, and end helps readers track the problem, follow events, and understand how and why the story resolves."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'At the end, the little mouse crossed the finish line first. Everyone cheered. She had won the race she had trained so hard for all winter.'*\n\nWhat story structure element does this passage represent?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Beginning -- it introduces the character",
+          "correct": false,
+          "explanation": "This passage wraps up the story -- it is not an introduction."
+        },
+        {
+          "id": "B",
+          "label": "Middle -- it is a major event",
+          "correct": false,
+          "explanation": "Winning the race concludes the story's conflict -- it is not a middle event building tension."
+        },
+        {
+          "id": "C",
+          "label": "Ending -- it resolves the conflict and concludes the action",
+          "correct": true,
+          "explanation": "'At the end' signals the conclusion. The mouse wins the race she trained for -- the conflict is resolved and the story wraps up."
+        },
+        {
+          "id": "D",
+          "label": "Title -- it names the story",
+          "correct": false,
+          "explanation": "This is story text, not a title."
+        }
+      ],
+      "explanation_md": "An **ending** resolves the conflict and concludes the action. 'At the end, the little mouse won the race she had trained for' -- conflict resolved, action concluded."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A story beginning MUST include ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The solution to the problem",
+          "correct": false,
+          "explanation": "The solution belongs in the ending, not the beginning."
+        },
+        {
+          "id": "B",
+          "label": "The main characters and the problem or conflict",
+          "correct": true,
+          "explanation": "A strong beginning introduces who the story is about and what problem they face -- so readers understand what to follow."
+        },
+        {
+          "id": "C",
+          "label": "The most exciting moment of the story",
+          "correct": false,
+          "explanation": "The most exciting moment (climax) usually happens in the middle, not the beginning."
+        },
+        {
+          "id": "D",
+          "label": "A list of all the events in the story",
+          "correct": false,
+          "explanation": "A list of all events is a summary -- not a story beginning."
+        }
+      ],
+      "explanation_md": "A **story beginning** introduces the main character(s) and the problem or conflict -- the two essential elements that set the story in motion."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'The first page introduced Sam and his fear of the dark. The next pages showed him trying nightlights, flashlights, and glow stars. On the final page, his dad sat with him every night until Sam was brave enough to sleep alone.'*\n\nWhich part of story structure is MISSING from this description?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The beginning (characters and problem)",
+          "correct": false,
+          "explanation": "The beginning is present: Sam (character) and his fear of the dark (problem)."
+        },
+        {
+          "id": "B",
+          "label": "The middle (events building toward resolution)",
+          "correct": false,
+          "explanation": "The middle is present: Sam tried nightlights, flashlights, and glow stars."
+        },
+        {
+          "id": "C",
+          "label": "Nothing is missing -- all three parts are described.",
+          "correct": true,
+          "explanation": "Beginning (Sam's fear), Middle (trying solutions), End (dad helps until Sam is brave) -- all three parts are described."
+        },
+        {
+          "id": "D",
+          "label": "The ending (resolution)",
+          "correct": false,
+          "explanation": "The ending is present: Sam's dad helped until Sam could sleep alone -- the fear is resolved."
+        }
+      ],
+      "explanation_md": "This summary includes all three story structure parts: **Beginning** (Sam fears the dark), **Middle** (tries nightlights, flashlights, glow stars), **End** (dad helps until Sam is brave)."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are the THREE main parts of a story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Title, author, and illustrator",
+          "correct": false,
+          "explanation": "These are book cover elements, not story structure parts."
+        },
+        {
+          "id": "B",
+          "label": "Beginning, middle, and end",
+          "correct": true,
+          "explanation": "Every story has a beginning (introduces), middle (events), and end (resolution)."
+        },
+        {
+          "id": "C",
+          "label": "Character, setting, and author",
+          "correct": false,
+          "explanation": "Character and setting are story elements, not story structure parts. Author is not a story part."
+        },
+        {
+          "id": "D",
+          "label": "First, second, and third chapter",
+          "correct": false,
+          "explanation": "Not all stories have chapters, and chapters are not the same as beginning/middle/end."
+        }
+      ],
+      "explanation_md": "Every story has three parts: **Beginning** (introduces characters and problem), **Middle** (events that build the story), **End** (resolves the problem)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The BEGINNING of a story introduces the main ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Solution",
+          "correct": false,
+          "explanation": "The solution belongs in the ending, not the beginning."
+        },
+        {
+          "id": "B",
+          "label": "Character and problem",
+          "correct": true,
+          "explanation": "The beginning introduces who the story is about and what problem needs to be solved."
+        },
+        {
+          "id": "C",
+          "label": "Ending",
+          "correct": false,
+          "explanation": "The ending wraps up the story -- it is not introduced at the beginning."
+        },
+        {
+          "id": "D",
+          "label": "Moral of the story",
+          "correct": false,
+          "explanation": "The moral or lesson usually appears at the end, not the beginning."
+        }
+      ],
+      "explanation_md": "The **beginning** introduces: who the story is about (character) and what the problem is (conflict). These two things set the story in motion."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'Once there was a small bear named Cub who lived in a forest. One day, he could not find his way home.'*\n\nWhat is the problem introduced at the beginning of this story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Cub is a bear.",
+          "correct": false,
+          "explanation": "Being a bear is not a problem -- it is who the character is."
+        },
+        {
+          "id": "B",
+          "label": "Cub could not find his way home.",
+          "correct": true,
+          "explanation": "Cub is lost -- this is the main problem introduced at the beginning of the story."
+        },
+        {
+          "id": "C",
+          "label": "Cub lives in a forest.",
+          "correct": false,
+          "explanation": "Living in the forest is the setting -- not the problem."
+        },
+        {
+          "id": "D",
+          "label": "The forest is dark.",
+          "correct": false,
+          "explanation": "The passage does not say the forest is dark -- and the problem is being lost, not the setting."
+        }
+      ],
+      "explanation_md": "The **problem** at the beginning of this story is that Cub cannot find his way home. The rest of the story will show how he tries to solve this problem."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence would make a good ENDING for a story about a bear who is lost in the forest?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Once there was a bear who lived in a big forest.",
+          "correct": false,
+          "explanation": "This sounds like a beginning -- it introduces the character and setting."
+        },
+        {
+          "id": "B",
+          "label": "Cub tried to follow the river.",
+          "correct": false,
+          "explanation": "This sounds like a middle event -- an attempt to solve the problem."
+        },
+        {
+          "id": "C",
+          "label": "Finally, Cub smelled the familiar pine trees near his den and ran home.",
+          "correct": true,
+          "explanation": "Finally signals the ending. Cub finds his way home -- the problem (being lost) is resolved."
+        },
+        {
+          "id": "D",
+          "label": "Then Cub heard a strange sound in the bushes.",
+          "correct": false,
+          "explanation": "A new mystery sounds like a middle event -- not an ending that resolves the problem."
+        }
+      ],
+      "explanation_md": "A **good ending** resolves the problem. For a lost bear, the ending should show him finding his way home -- the problem of being lost is solved."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the MIDDLE of a story, what usually happens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The characters are introduced for the first time.",
+          "correct": false,
+          "explanation": "Characters are introduced in the beginning, not the middle."
+        },
+        {
+          "id": "B",
+          "label": "The problem is solved immediately.",
+          "correct": false,
+          "explanation": "The problem is usually solved at the end, not the middle."
+        },
+        {
+          "id": "C",
+          "label": "The character faces events and tries to solve the problem.",
+          "correct": true,
+          "explanation": "The middle is where most of the action happens -- characters face events, try solutions, and the problem builds toward resolution."
+        },
+        {
+          "id": "D",
+          "label": "The story is completely finished.",
+          "correct": false,
+          "explanation": "The story finishes at the end, not the middle."
+        }
+      ],
+      "explanation_md": "The **middle** of a story is where most events happen. Characters face challenges, try to solve problems, and the action builds toward the ending."
+    }
+  ]
+}
