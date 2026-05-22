@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.E.2.1",
+  "benchmark_description": "Summarize the life cycle of stars: they form from clouds of gas and dust, burn for millions or billions of years, and eventually change in various ways depending on their size.",
+  "course": "science",
+  "strand": "E",
+  "lesson": {
+    "title": "The Life Cycle of Stars",
+    "intro": "Stars are not permanent — every star was born, shines for a very long time, and eventually changes. Our own sun is a middle-aged star! Stars have a life cycle, just like living things do.",
+    "body_md": "## What Is a Star?\n\nA **star** is a huge ball of hot, glowing gas that produces its own light and heat through a process called **nuclear fusion** — tiny particles of hydrogen gas smash together to form helium, releasing enormous energy.\n\nOur sun is the nearest star to Earth.\n\n## Stage 1: Nebula (Birth Cloud)\n\nStars form from **nebulae** — vast clouds of gas (mostly hydrogen) and dust in space.\n\n- **Gravity** pulls the cloud together.\n- As it contracts, it heats up.\n- When the center reaches millions of degrees, **fusion** begins.\n- A new **star** is born!\n\n## Stage 2: Main Sequence (Long Burning Life)\n\nOnce fusion begins, a star enters the **main sequence** — the long, stable period when it burns hydrogen fuel.\n\n- Stars spend **millions to billions of years** in the main sequence.\n- Our sun has burned for **4.6 billion years** and has about 5 billion more to go.\n- The star shines steadily, giving off light and heat.\n\n## Stage 3: End of Life\n\nWhen hydrogen fuel runs out, the star changes — and what happens depends on its **size**.\n\n### Smaller Stars (like our sun)\n1. **Red Giant** — expands and cools, turning reddish and enormous\n2. **Planetary Nebula** — outer layers drift away as a glowing cloud\n3. **White Dwarf** — small, dense, dim core remains, slowly cooling\n\n### Very Massive Stars\n1. **Red Supergiant** — expands enormously\n2. **Supernova** — tremendous explosion, briefly brighter than an entire galaxy\n3. **Neutron Star or Black Hole** — extremely dense collapsed core remains\n\n## Life Cycle Summary\n\n| Stage | What happens |\n|-------|-------------|\n| Nebula | Gas and dust pulled together by gravity |\n| Main sequence | Star burns hydrogen for billions of years |\n| Red giant / supergiant | Star expands as fuel runs low |\n| Final stage | White dwarf (small stars) or black hole (massive stars) |",
+    "worked_example_md": "## Worked Example: Ordering the Life Cycle\n\nA student is given these stages out of order:\n- White dwarf\n- Nebula\n- Red giant\n- Main-sequence star\n\n**Correct order for a sun-like star:**\n\n1. **Nebula** — gas and dust pulled together by gravity\n2. **Main-sequence star** — fusion begins, long stable burning phase\n3. **Red giant** — expands as fuel runs low\n4. **White dwarf** — outer layers released, dim core remains\n\nThis is the path our own sun will follow — though the red giant stage is still about 5 billion years away.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are stars made of?",
+      "choices": [
+        {"id": "a", "label": "Rock and metal", "correct": false, "explanation": "Rocks and metals are found on planets — stars are made of hot gas, mainly hydrogen and helium."},
+        {"id": "b", "label": "Hot glowing gas", "correct": true, "explanation": "Stars are huge balls of hot, glowing gas — mostly hydrogen — that produce energy through nuclear fusion."},
+        {"id": "c", "label": "Water and ice", "correct": false, "explanation": "Water and ice cannot exist inside a star — temperatures reach millions of degrees."},
+        {"id": "d", "label": "Soil and minerals", "correct": false, "explanation": "Soil and minerals are Earth materials. Stars are made of hot gas."}
+      ],
+      "explanation_md": "Stars are enormous balls of **hot, glowing gas** — mostly hydrogen — that produce light and heat through nuclear fusion."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the FIRST stage of a star's life?",
+      "choices": [
+        {"id": "a", "label": "A black hole", "correct": false, "explanation": "Black holes form at the END of massive stars' lives — not the beginning."},
+        {"id": "b", "label": "A nebula — a cloud of gas and dust", "correct": true, "explanation": "Stars form from nebulae — clouds of gas and dust that gravity pulls together until fusion begins."},
+        {"id": "c", "label": "A white dwarf", "correct": false, "explanation": "White dwarfs form at the END of smaller stars' lives — not the beginning."},
+        {"id": "d", "label": "A planet", "correct": false, "explanation": "Planets form from material around a young star — not the same as the star itself."}
+      ],
+      "explanation_md": "Stars begin as **nebulae** — vast clouds of gas and dust in space. Gravity pulls the material together until it is hot enough to start fusion."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How long do most stars burn in the main-sequence phase?",
+      "choices": [
+        {"id": "a", "label": "A few days", "correct": false, "explanation": "Stars burn for enormous amounts of time — millions or billions of years, not days."},
+        {"id": "b", "label": "About 100 years", "correct": false, "explanation": "100 years is a human lifetime. Stars burn for millions or billions of years."},
+        {"id": "c", "label": "Millions or billions of years", "correct": true, "explanation": "Stars spend millions to billions of years in the main-sequence phase burning hydrogen."},
+        {"id": "d", "label": "Exactly 1 million years — same for every star", "correct": false, "explanation": "Different stars burn for different lengths of time. Larger stars burn faster (millions of years); smaller stars burn slower (billions of years)."}
+      ],
+      "explanation_md": "Stars burn for **millions or billions of years** in the main-sequence phase. Our sun has burned for 4.6 billion years with about 5 billion years remaining."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What will a star like our sun eventually become at the end of its life?",
+      "choices": [
+        {"id": "a", "label": "It will explode as a supernova.", "correct": false, "explanation": "Supernovae happen to very massive stars — much larger than our sun. Our sun will not explode this dramatically."},
+        {"id": "b", "label": "It will become a white dwarf after passing through a red giant stage.", "correct": true, "explanation": "When our sun runs out of hydrogen, it will expand into a red giant, shed its outer layers, and its core will become a small, dense white dwarf."},
+        {"id": "c", "label": "It will become a black hole.", "correct": false, "explanation": "Black holes form from the cores of very massive stars — far more massive than our sun."},
+        {"id": "d", "label": "It will burn forever.", "correct": false, "explanation": "Stars have a finite amount of hydrogen fuel. When it runs out, the star must change."}
+      ],
+      "explanation_md": "A sun-like star will expand into a **red giant**, release its outer layers, and leave behind a slowly cooling **white dwarf** — in about 5 billion years."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the correct order of stages for a star like our sun?",
+      "choices": [
+        {"id": "a", "label": "Main sequence → Nebula → Red giant → White dwarf", "correct": false, "explanation": "Nebula comes BEFORE the main sequence — it is the birth cloud. This order is wrong."},
+        {"id": "b", "label": "Nebula → Main sequence → Red giant → White dwarf", "correct": true, "explanation": "Stars form from a nebula, spend billions of years in the main sequence, expand to a red giant, and end as a white dwarf."},
+        {"id": "c", "label": "White dwarf → Red giant → Main sequence → Nebula", "correct": false, "explanation": "This is the life cycle in reverse. Nebula comes first; white dwarf comes last."},
+        {"id": "d", "label": "Nebula → Supernova → Main sequence → White dwarf", "correct": false, "explanation": "Supernovae happen to massive stars AFTER the main sequence — not before. And not all stars go supernova."}
+      ],
+      "explanation_md": "Life cycle of a sun-like star: **Nebula** → **Main sequence** → **Red giant** → **White dwarf**."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does a very massive star's end differ from a smaller star like our sun?",
+      "choices": [
+        {"id": "a", "label": "Massive stars become white dwarfs; smaller stars go supernova.", "correct": false, "explanation": "It is the opposite. Massive stars explode as supernovae. Smaller stars quietly become white dwarfs."},
+        {"id": "b", "label": "Massive stars explode as supernovae and leave a neutron star or black hole.", "correct": true, "explanation": "Very massive stars end in dramatic supernova explosions and leave extremely dense neutron stars or black holes. Smaller stars end as white dwarfs."},
+        {"id": "c", "label": "All stars, regardless of size, become white dwarfs.", "correct": false, "explanation": "Only smaller stars become white dwarfs. Massive stars end in supernovae and leave neutron stars or black holes."},
+        {"id": "d", "label": "Massive stars turn into planets.", "correct": false, "explanation": "Stars do not turn into planets. Stars end as white dwarfs, neutron stars, or black holes depending on their mass."}
+      ],
+      "explanation_md": "**Massive stars** explode as **supernovae** leaving a **neutron star** or **black hole**. **Smaller stars** (like our sun) expand to red giants then shrink to **white dwarfs**. The star's mass determines its fate."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What force pulls a nebula together to form a star?",
+      "choices": [
+        {"id": "a", "label": "Wind", "correct": false, "explanation": "Wind as we know it does not exist in the vacuum of space. Gravity is the force that pulls nebula material together."},
+        {"id": "b", "label": "Gravity", "correct": true, "explanation": "Gravity pulls all matter toward other matter. In a nebula, gravity slowly pulls gas and dust together until fusion begins."},
+        {"id": "c", "label": "Magnetism", "correct": false, "explanation": "While magnetic fields exist in space, gravity is the primary force drawing nebula material together to form stars."},
+        {"id": "d", "label": "Temperature", "correct": false, "explanation": "High temperature is a result of the material being compressed by gravity — not the force that starts the collapse."}
+      ],
+      "explanation_md": "**Gravity** pulls a nebula's gas and dust together. As the cloud collapses, it heats up, and when the core reaches millions of degrees, nuclear fusion begins and a star is born."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Our sun is about 4.6 billion years old. In what stage of its life is it now?",
+      "choices": [
+        {"id": "a", "label": "Nebula — still forming.", "correct": false, "explanation": "The nebula stage is before a star starts fusion. Our sun passed that stage 4.6 billion years ago."},
+        {"id": "b", "label": "Main sequence — the long stable burning phase.", "correct": true, "explanation": "Our sun is currently in the main-sequence phase — stably burning hydrogen. It has about 5 billion more years in this stage."},
+        {"id": "c", "label": "Red giant — starting to expand.", "correct": false, "explanation": "The red giant stage comes when hydrogen fuel runs out — still about 5 billion years away."},
+        {"id": "d", "label": "White dwarf — slowly cooling.", "correct": false, "explanation": "White dwarfs are the final stage. Our sun is in the middle of its life in the main sequence."}
+      ],
+      "explanation_md": "At 4.6 billion years old, our sun is in the **main-sequence** stage — stably burning hydrogen. It is about halfway through its 10-billion-year main-sequence life."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'When a star runs out of fuel, it just goes dark immediately.' Is this correct?",
+      "choices": [
+        {"id": "a", "label": "Yes — stars turn off like a light switch.", "correct": false, "explanation": "Stars do not simply go dark. They go through additional stages lasting millions of years — expanding into giants, then becoming white dwarfs or exploding."},
+        {"id": "b", "label": "No — stars go through additional stages like red giant and white dwarf.", "correct": true, "explanation": "When fuel runs low, stars expand into red giants, then transition through other stages before finally dimming as white dwarfs or exploding as supernovae. These changes take millions of years."},
+        {"id": "c", "label": "Yes — only massive stars go dark; small stars burn forever.", "correct": false, "explanation": "Neither type burns forever. Small stars also run out of fuel and eventually dim as white dwarfs."},
+        {"id": "d", "label": "No — stars refill their fuel from space and never die.", "correct": false, "explanation": "Stars cannot refill their hydrogen fuel from space. When it runs out, the star must change."}
+      ],
+      "explanation_md": "The student is **incorrect**. Stars do not go dark immediately. They go through dramatic stages — expanding into **red giants**, then becoming **white dwarfs** (smaller stars) or exploding as supernovae (massive stars). These processes take millions of years."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Scientists say gold, iron, and other heavy elements on Earth were made inside stars that exploded long ago. Which life cycle stage made this possible?",
+      "choices": [
+        {"id": "a", "label": "The nebula stage, because nebulae contain all elements.", "correct": false, "explanation": "Nebulae are mostly hydrogen and helium — the simplest elements. Heavy elements like gold and iron are created inside stars, not in the starting nebula."},
+        {"id": "b", "label": "The supernova stage, because the explosion scatters newly made heavy elements into space.", "correct": true, "explanation": "Stars make heavy elements through fusion in their cores. When a massive star explodes as a supernova, it scatters those elements into space — where they eventually form new planets like Earth."},
+        {"id": "c", "label": "The white dwarf stage, because white dwarfs are cold and dense.", "correct": false, "explanation": "White dwarfs are the remnants of smaller stars — they do not scatter heavy elements into space on a large scale."},
+        {"id": "d", "label": "The main sequence, because stars give off elements as they shine.", "correct": false, "explanation": "During the main sequence, stars fuse hydrogen to helium — they do not release heavy elements into space at this stage."}
+      ],
+      "explanation_md": "Heavy elements are forged inside massive stars through fusion. When the star explodes as a **supernova**, it scatters those elements into space. Those elements later formed our solar system, Earth, and everything on it — including us."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is a nebula?",
+      "choices": [
+        {"id": "a", "label": "A tiny cold rock floating in space", "correct": false, "explanation": "A nebula is a cloud of gas and dust — not a rock."},
+        {"id": "b", "label": "A cloud of gas and dust where stars form", "correct": true, "explanation": "Nebulae are vast clouds of gas and dust in space. Gravity pulls the material together until fusion begins and a star is born."},
+        {"id": "c", "label": "A dead star that has stopped shining", "correct": false, "explanation": "Dead or dying stars become white dwarfs, neutron stars, or black holes — not nebulae."},
+        {"id": "d", "label": "A type of planet", "correct": false, "explanation": "Nebulae are not planets — they are clouds of gas and dust."}
+      ],
+      "explanation_md": "A **nebula** is a vast cloud of **gas and dust** in space where **stars form** when gravity pulls the material together."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How does a massive star's end differ from our sun's end?",
+      "choices": [
+        {"id": "a", "label": "Massive stars become white dwarfs; our sun will go supernova.", "correct": false, "explanation": "It is reversed. Our sun will become a white dwarf. Massive stars go supernova."},
+        {"id": "b", "label": "Massive stars go supernova and may form black holes; our sun will become a white dwarf.", "correct": true, "explanation": "Massive stars explode as supernovae and leave neutron stars or black holes. Our sun will become a white dwarf after a red giant phase."},
+        {"id": "c", "label": "Both types become black holes.", "correct": false, "explanation": "Only the most massive stars form black holes. Stars like our sun form white dwarfs."},
+        {"id": "d", "label": "All stars end the same way.", "correct": false, "explanation": "Mass determines a star's fate. Smaller and massive stars end very differently."}
+      ],
+      "explanation_md": "**Massive stars** explode as **supernovae** leaving neutron stars or black holes. Stars like our **sun** expand to red giants then shrink to **white dwarfs**. Mass determines the path."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which correctly states the FIRST stage of a star's life cycle?",
+      "choices": [
+        {"id": "a", "label": "The star explodes as a supernova.", "correct": false, "explanation": "A supernova is near the END of a massive star's life — not the beginning."},
+        {"id": "b", "label": "A nebula of gas and dust pulls together due to gravity.", "correct": true, "explanation": "The first stage of a star's life is the nebula — gas and dust that gravity pulls together until fusion begins."},
+        {"id": "c", "label": "The star expands into a red giant.", "correct": false, "explanation": "A red giant stage comes near the END of a star's life — not the beginning."},
+        {"id": "d", "label": "The star becomes a white dwarf.", "correct": false, "explanation": "A white dwarf is the FINAL stage of a smaller star's life."}
+      ],
+      "explanation_md": "The **first stage** is the **nebula** — a cloud of gas and dust that gravity pulls together until nuclear fusion begins and a star is born."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is our sun?",
+      "choices": [
+        {"id": "a", "label": "A planet", "correct": false, "explanation": "Our sun is a star — the closest star to Earth. Planets orbit stars."},
+        {"id": "b", "label": "A star", "correct": true, "explanation": "The sun is a star — a huge ball of hot, glowing gas that produces light and heat."},
+        {"id": "c", "label": "A moon", "correct": false, "explanation": "Moons orbit planets. Our moon orbits Earth. The sun is a star at the center of our solar system."},
+        {"id": "d", "label": "A cloud of dust", "correct": false, "explanation": "Our sun is a fully formed star — not a dust cloud. Clouds of dust and gas are nebulae, where stars are born."}
+      ],
+      "explanation_md": "Our **sun** is a **star** — the closest star to Earth. It is a huge ball of hot gas producing light and heat."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where do stars come from?",
+      "choices": [
+        {"id": "a", "label": "They have always existed and never change.", "correct": false, "explanation": "Stars are not permanent — they form, burn for a long time, and eventually change. Stars have a life cycle."},
+        {"id": "b", "label": "Clouds of gas and dust pulled together by gravity", "correct": true, "explanation": "Stars form from nebulae — clouds of gas and dust that gravity pulls together. As they compress, they heat up until fusion begins."},
+        {"id": "c", "label": "Explosions on Earth shot into space", "correct": false, "explanation": "Stars form in space from gas and dust — not from Earth explosions."},
+        {"id": "d", "label": "Water and rocks in space", "correct": false, "explanation": "Stars form from gas (mainly hydrogen) and dust in space — not from water or rocks."}
+      ],
+      "explanation_md": "Stars form from **clouds of gas and dust** in space called nebulae. **Gravity** pulls the material together until it is hot enough to start fusion."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How long do stars burn?",
+      "choices": [
+        {"id": "a", "label": "A few hundred years", "correct": false, "explanation": "A few hundred years is a tiny fraction of a star's lifetime. Stars burn for millions or billions of years."},
+        {"id": "b", "label": "Millions or billions of years", "correct": true, "explanation": "Stars burn for enormous amounts of time. Our sun has burned for 4.6 billion years with about 5 billion to go."},
+        {"id": "c", "label": "Exactly the same amount of time as Earth", "correct": false, "explanation": "Some stars burned out before Earth formed; others will burn long after Earth is gone. Stars vary widely in how long they burn."},
+        {"id": "d", "label": "Until they run out of water", "correct": false, "explanation": "Stars burn hydrogen through nuclear fusion — not water. When hydrogen runs out, the star changes."}
+      ],
+      "explanation_md": "Stars burn for **millions or billions of years** — far longer than any living thing. Our sun is a middle-sized star that will burn for about 10 billion years total."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a star eventually become at the end of its life?",
+      "choices": [
+        {"id": "a", "label": "A living thing", "correct": false, "explanation": "Stars are made of gas — they do not become living things."},
+        {"id": "b", "label": "Something like a white dwarf or black hole", "correct": true, "explanation": "At the end of its life, a star becomes a white dwarf (smaller stars) or a black hole (very massive stars)."},
+        {"id": "c", "label": "A planet", "correct": false, "explanation": "Stars do not turn into planets. They become white dwarfs, neutron stars, or black holes."},
+        {"id": "d", "label": "The same nebula it formed from", "correct": false, "explanation": "While star material can contribute to new nebulae, the dying star itself does not simply revert to its starting nebula."}
+      ],
+      "explanation_md": "At the end of its life, a star becomes a **white dwarf** (smaller stars like our sun) or a **black hole** (very massive stars after a supernova)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Put these in order, starting with FIRST: Red giant, Nebula, Main sequence, White dwarf.",
+      "choices": [
+        {"id": "a", "label": "Nebula → Main sequence → Red giant → White dwarf", "correct": true, "explanation": "This is the correct order for a sun-like star: nebula (birth) → main sequence (long burning) → red giant (expansion) → white dwarf (final cooling)."},
+        {"id": "b", "label": "White dwarf → Red giant → Main sequence → Nebula", "correct": false, "explanation": "This is the life cycle in reverse. Nebula comes first; white dwarf comes last."},
+        {"id": "c", "label": "Main sequence → Nebula → White dwarf → Red giant", "correct": false, "explanation": "Nebula must come before main sequence. This order is scrambled."},
+        {"id": "d", "label": "Red giant → White dwarf → Main sequence → Nebula", "correct": false, "explanation": "Nebula is the starting stage — it must come first."}
+      ],
+      "explanation_md": "Correct order for a sun-like star: **Nebula** → **Main sequence** → **Red giant** → **White dwarf**."
+    }
+  ]
+}
