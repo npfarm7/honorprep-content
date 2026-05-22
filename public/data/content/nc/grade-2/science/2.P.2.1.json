@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.P.2.1",
+  "benchmark_description": "Give examples of matter that change from a solid to a liquid and from a liquid to a solid when the temperature changes.",
+  "course": "science",
+  "strand": "P",
+  "lesson": {
+    "title": "Solids and Liquids Change with Temperature",
+    "intro": "Have you ever watched an ice cube melt in your drink, or seen chocolate get hard after it cools down? Matter can change from a solid to a liquid and back again when the temperature changes!",
+    "body_md": "## What Are Solids and Liquids?\n\n**Solid** \u2014 matter that keeps its own shape. A rock, an ice cube, and a crayon are all solids.\n\n**Liquid** \u2014 matter that flows and takes the shape of its container. Water in a cup, melted butter, and juice are liquids.\n\n## How Temperature Changes Matter\n\nTemperature is how hot or cold something is. When temperature goes **up** (gets hotter), many solids melt into liquids. When temperature goes **down** (gets colder), many liquids freeze into solids.\n\n## Solid to Liquid: Melting\n\nWhen you **heat** a solid, it can melt and become a liquid. The temperature at which this happens is called the **melting point**.\n\n**Examples of solids melting into liquids:**\n\n| Solid | Liquid it becomes | What causes melting |\n|-------|------------------|--------------------|\n| Ice | Water | Warmth (above 32\u00b0F / 0\u00b0C) |\n| Butter | Melted butter | Heat from a pan |\n| Chocolate | Melted chocolate | Heat |\n| Candle wax | Liquid wax | Heat from the flame |\n| Crayon | Melted crayon | High heat |\n\n## Liquid to Solid: Freezing\n\nWhen you **cool** a liquid, it can freeze and become a solid. The temperature at which this happens is called the **freezing point**.\n\n**Examples of liquids freezing into solids:**\n\n| Liquid | Solid it becomes | What causes freezing |\n|--------|-----------------|---------------------|\n| Water | Ice | Cold (below 32\u00b0F / 0\u00b0C) |\n| Melted butter | Hard butter | Cooling down |\n| Melted chocolate | Hard chocolate | Cooling down |\n| Liquid wax | Hard wax | Cooling down |\n| Melted crayon | Hard crayon | Cooling down |\n\n## Key Idea: Same Material, Different State\n\nWhen ice melts, it is still **water** \u2014 just in a different state. When water freezes, it is still water \u2014 just a solid now. The material itself does not change, only its state changes.\n\nThis change can be **reversed** \u2014 you can melt ice, then refreeze it. That is why it is called a **reversible change**.\n\n## Temperature and Melting/Freezing\n\n- Water freezes at **32\u00b0F (0\u00b0C)**. Below this, liquid water becomes ice.\n- Water melts at the same temperature \u2014 32\u00b0F (0\u00b0C). Above this, ice becomes liquid water.\n- Different materials melt and freeze at different temperatures. Chocolate melts at a lower temperature than iron.",
+    "worked_example_md": "## Worked Example: Ice Pops\n\nMr. Tomas mixes juice and pours it into ice pop molds. He puts the molds in the freezer.\n\n**Before the freezer:** The juice is a **liquid** \u2014 it flows and takes the shape of the mold.\n\n**After a few hours in the freezer:** The cold temperature (below 32\u00b0F) causes the liquid juice to **freeze**. It becomes a solid ice pop.\n\n**Question:** If you leave the ice pop on the counter on a warm day, what will happen?\n\n**Answer:** The warm temperature will cause the solid ice pop to **melt** back into a liquid. The juice will flow again as a liquid. This is a reversible change \u2014 the juice goes solid \u2192 liquid \u2192 solid depending on temperature.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When an ice cube is left on a warm counter, it changes from a \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid to a solid",
+          "correct": false,
+          "explanation": "An ice cube on a warm counter gets warmer and melts \u2014 it goes from solid to liquid, not liquid to solid."
+        },
+        {
+          "id": "b",
+          "label": "Solid to a liquid",
+          "correct": true,
+          "explanation": "Ice is a solid. When it warms up, it melts into liquid water. This is the solid-to-liquid change caused by rising temperature."
+        },
+        {
+          "id": "c",
+          "label": "Gas to a solid",
+          "correct": false,
+          "explanation": "Ice is not a gas \u2014 it is a solid. Gas to solid is a different kind of change not being described here."
+        },
+        {
+          "id": "d",
+          "label": "Liquid to a gas",
+          "correct": false,
+          "explanation": "The ice cube melting produces liquid water, not gas. Liquid to gas (evaporation) would require much higher temperature."
+        }
+      ],
+      "explanation_md": "Ice is a **solid**. When the temperature rises above 32\u00b0F, ice melts and becomes liquid **water**. This is a solid-to-liquid change."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What happens to water when it is placed in a very cold freezer?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It becomes a gas.",
+          "correct": false,
+          "explanation": "Water becomes a gas only when heated to very high temperatures (100\u00b0C / 212\u00b0F). Freezing temperatures turn water into ice, not gas."
+        },
+        {
+          "id": "b",
+          "label": "It becomes a solid (ice).",
+          "correct": true,
+          "explanation": "When water is cooled below 32\u00b0F (0\u00b0C), it freezes and becomes solid ice. This is a liquid-to-solid change."
+        },
+        {
+          "id": "c",
+          "label": "It disappears.",
+          "correct": false,
+          "explanation": "Water does not disappear when frozen \u2014 it changes state and becomes ice. The same amount of matter is still there."
+        },
+        {
+          "id": "d",
+          "label": "It stays a liquid.",
+          "correct": false,
+          "explanation": "In a very cold freezer (below 32\u00b0F), water will freeze. If the temperature is below 0\u00b0C, liquid water cannot stay liquid."
+        }
+      ],
+      "explanation_md": "When water is cooled below 32\u00b0F (0\u00b0C), it **freezes** and becomes solid **ice**. This is a liquid-to-solid change caused by a drop in temperature."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of a solid changing into a liquid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Juice being poured into a glass",
+          "correct": false,
+          "explanation": "Juice poured into a glass is already a liquid moving to a different location \u2014 it is not changing state."
+        },
+        {
+          "id": "b",
+          "label": "Butter melting in a warm pan",
+          "correct": true,
+          "explanation": "Butter is a solid at room temperature. When heated in a pan, it melts into liquid butter \u2014 a solid-to-liquid change."
+        },
+        {
+          "id": "c",
+          "label": "Water being poured into ice cube trays",
+          "correct": false,
+          "explanation": "Pouring water is moving a liquid \u2014 no change of state yet. The water would need to freeze to change state."
+        },
+        {
+          "id": "d",
+          "label": "A rock sitting on the sidewalk",
+          "correct": false,
+          "explanation": "A rock sitting on a sidewalk is not changing state. It stays solid."
+        }
+      ],
+      "explanation_md": "**Butter melting** in a warm pan is a solid-to-liquid change. Butter is solid when cold, but the heat from the pan raises the temperature above butter's melting point, turning it into liquid."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What must happen for a liquid to change into a solid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The temperature must increase.",
+          "correct": false,
+          "explanation": "Increasing temperature causes melting (solid to liquid), not freezing. Freezing requires cooling."
+        },
+        {
+          "id": "b",
+          "label": "The temperature must decrease.",
+          "correct": true,
+          "explanation": "When temperature drops low enough, a liquid loses energy and its particles slow down until they form the rigid structure of a solid."
+        },
+        {
+          "id": "c",
+          "label": "The liquid must be heated.",
+          "correct": false,
+          "explanation": "Heating a liquid makes it stay liquid or turn into a gas \u2014 not a solid. Cooling is needed to turn a liquid into a solid."
+        },
+        {
+          "id": "d",
+          "label": "Nothing \u2014 liquids cannot become solids.",
+          "correct": false,
+          "explanation": "Many liquids can become solids when cooled. Water becomes ice, melted butter hardens, melted chocolate solidifies."
+        }
+      ],
+      "explanation_md": "For a liquid to change into a solid (freeze), the **temperature must decrease** (get colder). When the temperature drops to or below the freezing point, the liquid becomes solid."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A chocolate bar melts in your pocket on a hot day. Later, you put it in the refrigerator and it becomes hard again. This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A change that can only happen once",
+          "correct": false,
+          "explanation": "The chocolate can melt and harden many times \u2014 it is a reversible change, not a one-time event."
+        },
+        {
+          "id": "b",
+          "label": "A reversible change in state",
+          "correct": true,
+          "explanation": "The chocolate melts (solid to liquid) when warm, and hardens (liquid to solid) when cool. This back-and-forth change is reversible."
+        },
+        {
+          "id": "c",
+          "label": "The chocolate becoming a new, different material",
+          "correct": false,
+          "explanation": "The chocolate is still chocolate the whole time \u2014 only its state (solid or liquid) changes, not what it is made of."
+        },
+        {
+          "id": "d",
+          "label": "A change caused only by cooling",
+          "correct": false,
+          "explanation": "The change involves both heating (melting) and cooling (freezing). Both temperature changes are part of this example."
+        }
+      ],
+      "explanation_md": "Chocolate melts when warm (solid to liquid) and hardens when cool (liquid to solid). This is a **reversible change** \u2014 the same material can cycle between states depending on temperature. It is still chocolate either way."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Water freezes at 32\u00b0F. On a winter day, the temperature outside is 20\u00b0F. What will happen to a puddle of water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The puddle will stay liquid because it is outside.",
+          "correct": false,
+          "explanation": "Being outside does not protect water from freezing. If the temperature is below 32\u00b0F, the water will freeze."
+        },
+        {
+          "id": "b",
+          "label": "The puddle will freeze into ice.",
+          "correct": true,
+          "explanation": "20\u00b0F is below the freezing point of water (32\u00b0F). The puddle will lose heat to the cold air and freeze into ice."
+        },
+        {
+          "id": "c",
+          "label": "The puddle will become a gas.",
+          "correct": false,
+          "explanation": "Water becomes a gas at very high temperatures, not at 20\u00b0F. At 20\u00b0F, water freezes into solid ice."
+        },
+        {
+          "id": "d",
+          "label": "The puddle will get warmer.",
+          "correct": false,
+          "explanation": "At 20\u00b0F, the air is colder than the water, so heat moves from the puddle to the cold air \u2014 the puddle gets colder, not warmer."
+        }
+      ],
+      "explanation_md": "The freezing point of water is 32\u00b0F. At 20\u00b0F, the temperature is **below** the freezing point, so the puddle will **freeze** and become solid ice."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When ice melts into water, the water is \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A completely different material from ice",
+          "correct": false,
+          "explanation": "Ice and water are the same material \u2014 H2O (water). When ice melts, only the state changes, not what the material is."
+        },
+        {
+          "id": "b",
+          "label": "The same material (water) in a different state",
+          "correct": true,
+          "explanation": "Ice is solid water. When it melts, it is still water \u2014 just in liquid state. The material stays the same; only the state changes."
+        },
+        {
+          "id": "c",
+          "label": "A gas",
+          "correct": false,
+          "explanation": "Melting ice becomes liquid water, not a gas. Water becomes a gas only at very high temperatures (boiling)."
+        },
+        {
+          "id": "d",
+          "label": "A new type of solid",
+          "correct": false,
+          "explanation": "Melted ice is a liquid, not a solid. Solids keep their own shape; liquids flow."
+        }
+      ],
+      "explanation_md": "Ice is **solid water**. When it melts, it becomes **liquid water** \u2014 the same material in a different state. The change from solid to liquid does not create a new material."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which example shows a liquid changing into a solid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Snow melting on a sunny day",
+          "correct": false,
+          "explanation": "Snow is a solid and melts into liquid water \u2014 that is solid to liquid, not liquid to solid."
+        },
+        {
+          "id": "b",
+          "label": "Water dripping from a faucet",
+          "correct": false,
+          "explanation": "Water dripping is liquid moving \u2014 it is not changing state."
+        },
+        {
+          "id": "c",
+          "label": "Melted candle wax cooling and hardening",
+          "correct": true,
+          "explanation": "Melted wax is a liquid. When the candle cools, the liquid wax becomes solid hard wax \u2014 a liquid-to-solid change."
+        },
+        {
+          "id": "d",
+          "label": "Ice cream being scooped into a cone",
+          "correct": false,
+          "explanation": "Scooping ice cream is moving a solid from one place to another \u2014 no change of state occurs during scooping."
+        }
+      ],
+      "explanation_md": "When melted candle wax **cools**, it hardens into a solid. This is a **liquid-to-solid** change caused by a drop in temperature."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'When butter melts, it becomes a completely new material.' Is the student correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, because melted butter looks different from solid butter.",
+          "correct": false,
+          "explanation": "Looking different does not make something a new material. Butter looks different as a liquid, but it is still butter \u2014 only its state changed."
+        },
+        {
+          "id": "b",
+          "label": "No, because melted butter is still butter \u2014 only its state changed.",
+          "correct": true,
+          "explanation": "When butter melts, it is still the same material (butter). Only the state (solid to liquid) changed. The student is incorrect."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because you cannot turn melted butter back into solid butter.",
+          "correct": false,
+          "explanation": "You can turn melted butter back into solid butter by cooling it. It is a reversible change, which shows it is still the same material."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because butter changes color when it melts.",
+          "correct": false,
+          "explanation": "Butter does not significantly change color when it melts \u2014 and even if it did, a color change alone does not make it a new material."
+        }
+      ],
+      "explanation_md": "The student is **incorrect**. Melting is a change of **state**, not a change of material. Melted butter is still butter \u2014 just in liquid form. You can cool it and get solid butter back. The change is reversible, confirming it is the same material."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Rosa is doing an experiment. She melts ice, then puts the liquid water in the freezer. Then she melts the ice again. She does this three times. Each time, does she have the same material?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No \u2014 after three cycles it becomes a different material.",
+          "correct": false,
+          "explanation": "Melting and freezing do not change what the material is. Water is water through all the cycles."
+        },
+        {
+          "id": "b",
+          "label": "Yes \u2014 it is water (H2O) every time, just in different states.",
+          "correct": true,
+          "explanation": "Whether it is ice or liquid water, it is always water (H2O). Freezing and melting are reversible state changes that do not change the material."
+        },
+        {
+          "id": "c",
+          "label": "Yes \u2014 but the third time it becomes soil.",
+          "correct": false,
+          "explanation": "Water never becomes soil by freezing and melting. No matter how many cycles, it stays water."
+        },
+        {
+          "id": "d",
+          "label": "No \u2014 after being frozen, water cannot become liquid again.",
+          "correct": false,
+          "explanation": "Water can be frozen and melted many times. The change is fully reversible."
+        }
+      ],
+      "explanation_md": "Through all three cycles, Rosa always has **water (H2O)**. Melting (solid to liquid) and freezing (liquid to solid) are **reversible state changes**. The material never changes \u2014 only its state (solid or liquid) changes based on temperature."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these changes happens when temperature INCREASES?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid water freezes into ice.",
+          "correct": false,
+          "explanation": "Freezing happens when temperature decreases, not increases. Increasing temperature causes melting."
+        },
+        {
+          "id": "b",
+          "label": "Ice melts into liquid water.",
+          "correct": true,
+          "explanation": "When temperature increases above 32\u00b0F, ice absorbs heat and melts into liquid water \u2014 a solid-to-liquid change."
+        },
+        {
+          "id": "c",
+          "label": "Melted butter becomes solid.",
+          "correct": false,
+          "explanation": "Butter becomes solid when it cools down (temperature decreases). Increasing temperature melts butter, not hardens it."
+        },
+        {
+          "id": "d",
+          "label": "Water turns into a rock.",
+          "correct": false,
+          "explanation": "Water never turns into rock from temperature changes. Temperature changes cause state changes (solid/liquid/gas), not material changes."
+        }
+      ],
+      "explanation_md": "When temperature **increases**, solids melt into liquids. Ice melting into water is the best example: above 32\u00b0F, the solid ice absorbs heat and becomes liquid water."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Give an example of a liquid changing into a solid because of a temperature change.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A rock rolling down a hill",
+          "correct": false,
+          "explanation": "A rock rolling is a movement, not a state change. Rocks do not change state at normal temperatures."
+        },
+        {
+          "id": "b",
+          "label": "Water becoming ice in the freezer",
+          "correct": true,
+          "explanation": "Water (liquid) placed in a cold freezer loses heat and freezes into ice (solid). This is a liquid-to-solid change caused by a temperature drop."
+        },
+        {
+          "id": "c",
+          "label": "Juice being poured from a bottle",
+          "correct": false,
+          "explanation": "Pouring juice moves a liquid \u2014 no state change occurs. It is still liquid juice."
+        },
+        {
+          "id": "d",
+          "label": "A crayon drawing a line on paper",
+          "correct": false,
+          "explanation": "Drawing with a crayon leaves marks on paper \u2014 no state change occurs during normal drawing."
+        }
+      ],
+      "explanation_md": "Water in the freezer is the classic example. The cold temperature (below 32\u00b0F) causes liquid **water** to **freeze** into solid **ice** \u2014 a liquid-to-solid change."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Tom puts a stick of butter in a warm pan. It melts. Then he puts the pan in the refrigerator and the butter hardens. Tom says the change is reversible. Is he right? Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No \u2014 once butter melts, it cannot become solid again.",
+          "correct": false,
+          "explanation": "Butter can harden again when cooled \u2014 Tom's own experiment shows this. The change IS reversible."
+        },
+        {
+          "id": "b",
+          "label": "Yes \u2014 butter can melt (solid to liquid) and harden (liquid to solid) depending on temperature.",
+          "correct": true,
+          "explanation": "Tom is right. The butter changed state based on temperature \u2014 melting when warm and hardening when cold. This back-and-forth is a reversible change."
+        },
+        {
+          "id": "c",
+          "label": "No \u2014 the butter in the pan became a gas, not a liquid.",
+          "correct": false,
+          "explanation": "Butter at pan temperatures melts into liquid, not gas. It would need very high heat to become a gas."
+        },
+        {
+          "id": "d",
+          "label": "Yes \u2014 but only because butter is a food, not a mineral.",
+          "correct": false,
+          "explanation": "Whether something is a food or mineral is not what makes a change reversible. Reversibility depends on whether the material can cycle between states."
+        }
+      ],
+      "explanation_md": "Tom is **correct**. Melting and freezing are **reversible changes** \u2014 the same material (butter) can cycle between solid and liquid based on temperature. Heating melts it; cooling hardens it. The material stays butter throughout."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a solid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Something that flows and takes the shape of its container",
+          "correct": false,
+          "explanation": "Something that flows and takes the shape of its container is a liquid, not a solid."
+        },
+        {
+          "id": "b",
+          "label": "Something that keeps its own shape",
+          "correct": true,
+          "explanation": "A solid keeps its own shape no matter what container it is in. A rock, ice cube, and wooden block are all solids."
+        },
+        {
+          "id": "c",
+          "label": "Something invisible that floats in the air",
+          "correct": false,
+          "explanation": "Something invisible that floats in the air is a gas, not a solid."
+        },
+        {
+          "id": "d",
+          "label": "Something that is always wet",
+          "correct": false,
+          "explanation": "Solids are not always wet. A rock is a solid and it is dry. Wetness is not what makes something a solid."
+        }
+      ],
+      "explanation_md": "A **solid** keeps its own shape. You can pick it up and it stays the same shape. Examples: rocks, ice cubes, crayons, wood."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Ice cream melts on a hot day. This means heat turned a __ into a __.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid into a solid",
+          "correct": false,
+          "explanation": "Melting goes from solid to liquid, not liquid to solid. Liquid to solid is freezing."
+        },
+        {
+          "id": "b",
+          "label": "Solid into a liquid",
+          "correct": true,
+          "explanation": "Ice cream starts as a solid. Heat melts it into a liquid. Solid to liquid is melting."
+        },
+        {
+          "id": "c",
+          "label": "Gas into a liquid",
+          "correct": false,
+          "explanation": "Ice cream is not a gas \u2014 it is a solid. Melting turns the solid ice cream into liquid."
+        },
+        {
+          "id": "d",
+          "label": "Liquid into a gas",
+          "correct": false,
+          "explanation": "Ice cream melts into a liquid, not a gas. Liquid to gas would be evaporation."
+        }
+      ],
+      "explanation_md": "Melting happens when **heat** turns a **solid into a liquid**. Ice cream is solid when cold; heat turns it into a runny liquid."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means a liquid turning into a solid because of cold temperature?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Melting",
+          "correct": false,
+          "explanation": "Melting is when a solid turns into a liquid because of heat \u2014 the opposite direction."
+        },
+        {
+          "id": "b",
+          "label": "Freezing",
+          "correct": true,
+          "explanation": "Freezing is when cold temperature causes a liquid to become a solid. Water freezes into ice in a cold freezer."
+        },
+        {
+          "id": "c",
+          "label": "Boiling",
+          "correct": false,
+          "explanation": "Boiling is when liquid turns into a gas due to very high heat \u2014 not liquid turning into solid."
+        },
+        {
+          "id": "d",
+          "label": "Growing",
+          "correct": false,
+          "explanation": "Growing is not a word for a state change. It describes living things getting bigger."
+        }
+      ],
+      "explanation_md": "**Freezing** is the change from liquid to solid caused by cold temperature. When water freezes, it becomes ice."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What happens to ice when it gets warm?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It gets bigger and stays solid.",
+          "correct": false,
+          "explanation": "Ice does not stay solid when warm \u2014 it melts into liquid water."
+        },
+        {
+          "id": "b",
+          "label": "It melts into liquid water.",
+          "correct": true,
+          "explanation": "When ice warms up above 32\u00b0F, it melts into liquid water. Heat causes the solid-to-liquid change."
+        },
+        {
+          "id": "c",
+          "label": "It becomes harder.",
+          "correct": false,
+          "explanation": "Ice becomes softer (then liquid) when warmed \u2014 it does not get harder."
+        },
+        {
+          "id": "d",
+          "label": "It becomes a gas immediately.",
+          "correct": false,
+          "explanation": "Ice first melts into liquid water before any gas forms. It does not skip straight to gas under normal warming."
+        }
+      ],
+      "explanation_md": "When ice warms above 32\u00b0F, it **melts** into liquid water. Heat gives the ice enough energy to change from a solid to a liquid."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Chocolate melts when heated. What happens when the melted chocolate cools down?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It stays liquid forever.",
+          "correct": false,
+          "explanation": "Melted chocolate does not stay liquid when it cools \u2014 it hardens into solid chocolate again."
+        },
+        {
+          "id": "b",
+          "label": "It becomes a hard solid again.",
+          "correct": true,
+          "explanation": "When melted chocolate cools down, it loses heat and hardens into solid chocolate \u2014 a liquid-to-solid change."
+        },
+        {
+          "id": "c",
+          "label": "It becomes a gas.",
+          "correct": false,
+          "explanation": "Chocolate cooling down becomes solid, not a gas. Gas forms only at very high temperatures."
+        },
+        {
+          "id": "d",
+          "label": "It becomes a rock.",
+          "correct": false,
+          "explanation": "Chocolate never becomes rock. It becomes solid chocolate \u2014 the same material, just in a different state."
+        }
+      ],
+      "explanation_md": "When melted chocolate **cools**, it **hardens** back into solid chocolate. Cooling causes the liquid-to-solid change \u2014 the chocolate is still chocolate, just solid again."
+    }
+  ]
+}
