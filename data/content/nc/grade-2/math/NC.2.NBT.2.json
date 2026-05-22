@@ -1,0 +1,388 @@
+{
+  "skill_id": "NC.2.NBT.2",
+  "benchmark_description": "Count within 1000; skip-count by 5s, 10s, and 100s.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Skip Counting by 5s, 10s, and 100s",
+    "intro": "Counting by ones is slow. Counting by 5s, 10s, or 100s is much faster! These patterns help you count big numbers quickly. Let's learn the patterns!",
+    "body_md": "## Counting by 5s\n\nWhen you count by 5s, you add 5 each time. Numbers end in 0 or 5.\n\n5, 10, 15, 20, 25, 30, 35, 40, 45, 50...\n\nKeep going: 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105...\n\n**Pattern:** The last digit always alternates 5, 0, 5, 0...\n\n## Counting by 10s\n\nWhen you count by 10s, only the tens digit changes. The ones digit stays the same!\n\n**Starting from 0:**\n10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120...\n\n**Starting from 3:**\n3, 13, 23, 33, 43, 53, 63, 73, 83, 93, 103...\n\n**Notice:** The ones digit stays the same!\n\n## Counting by 100s\n\nWhen you count by 100s, only the hundreds digit changes.\n\n100, 200, 300, 400, 500, 600, 700, 800, 900, 1000\n\n**Starting from 45:**\n45, 145, 245, 345, 445, 545, 645, 745, 845, 945\n\n**Notice:** Only the hundreds digit changes; tens and ones stay the same!\n\n## Counting Backward\n\nYou can skip-count backward too!\n\n**Backward by 10s from 80:**\n80, 70, 60, 50, 40, 30, 20, 10, 0\n\n**Backward by 100s from 500:**\n500, 400, 300, 200, 100, 0",
+    "worked_example_md": "## Worked Example\n\n**Problem:** Fill in the blanks by skip-counting by 10s:\n325, 335, ___, ___, 365\n\n**Step 1:** Figure out the skip amount.\n335 - 325 = 10. We are counting by 10s.\n\n**Step 2:** Add 10 each time.\n- 335 + 10 = **345**\n- 345 + 10 = **355**\n- 355 + 10 = 365 \u2713\n\n**Answer:** 325, 335, **345**, **355**, 365\n\n**Check:** The ones digit stays at 5 each time. \u2713",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 5s. What comes next? 15, 20, 25, ___",
+      "choices": [
+        {
+          "id": "a",
+          "label": "26",
+          "correct": false,
+          "explanation": "26 is counting by ones. We are counting by fives. 25 + 5 = 30."
+        },
+        {
+          "id": "b",
+          "label": "28",
+          "correct": false,
+          "explanation": "28 is not the next number when counting by 5s. 25 + 5 = 30."
+        },
+        {
+          "id": "c",
+          "label": "30",
+          "correct": true,
+          "explanation": "Yes! 25 + 5 = 30. Counting by 5s: 15, 20, 25, 30."
+        },
+        {
+          "id": "d",
+          "label": "35",
+          "correct": false,
+          "explanation": "35 would come after 30. The very next number after 25 is 30."
+        }
+      ],
+      "explanation_md": "25 + 5 = **30**. Counting by 5s: 15, 20, 25, **30**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 10s. What comes next? 40, 50, 60, ___",
+      "correct_answer": "70",
+      "explanation_md": "60 + 10 = **70**. Counting by 10s: 40, 50, 60, 70."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 100s. What comes next? 200, 300, 400, ___",
+      "correct_answer": "500",
+      "explanation_md": "400 + 100 = **500**. Counting by 100s: 200, 300, 400, 500."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Fill in the blank. Count by 10s: 73, 83, 93, ___, 113",
+      "choices": [
+        {
+          "id": "a",
+          "label": "94",
+          "correct": false,
+          "explanation": "94 is counting by ones from 93. We need to add 10: 93 + 10 = 103."
+        },
+        {
+          "id": "b",
+          "label": "100",
+          "correct": false,
+          "explanation": "When counting by 10s from 73, the ones digit stays at 3. The next number is 103."
+        },
+        {
+          "id": "c",
+          "label": "103",
+          "correct": true,
+          "explanation": "Yes! 93 + 10 = 103. The ones digit stays 3."
+        },
+        {
+          "id": "d",
+          "label": "110",
+          "correct": false,
+          "explanation": "110 does not fit. 93 + 10 = 103. The ones digit stays 3 when counting by 10s."
+        }
+      ],
+      "explanation_md": "93 + 10 = **103**. The ones digit stays 3 when counting by 10s."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Fill in the missing number: 550, 600, ___, 700",
+      "correct_answer": "650",
+      "explanation_md": "Counting by 50s: 550, 600, **650**, 700."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Skip-count by 5s to find the missing number: 85, 90, 95, ___, 105",
+      "choices": [
+        {
+          "id": "a",
+          "label": "96",
+          "correct": false,
+          "explanation": "96 is counting by ones. We add 5 each time: 95 + 5 = 100."
+        },
+        {
+          "id": "b",
+          "label": "100",
+          "correct": true,
+          "explanation": "Yes! 95 + 5 = 100. Counting by 5s: 85, 90, 95, 100, 105."
+        },
+        {
+          "id": "c",
+          "label": "98",
+          "correct": false,
+          "explanation": "98 is not a multiple of 5. 95 + 5 = 100."
+        },
+        {
+          "id": "d",
+          "label": "104",
+          "correct": false,
+          "explanation": "104 does not fit. 95 + 5 = 100, then 100 + 5 = 105."
+        }
+      ],
+      "explanation_md": "95 + 5 = **100**. Counting by 5s: 85, 90, 95, **100**, 105."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Count back by 100s. What comes next? 800, 700, 600, ___",
+      "correct_answer": "500",
+      "explanation_md": "600 - 100 = **500**. Counting back by 100s: 800, 700, 600, 500."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list shows counting by 100s starting at 25?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "25, 35, 45, 55",
+          "correct": false,
+          "explanation": "This is counting by 10s, not 100s."
+        },
+        {
+          "id": "b",
+          "label": "25, 125, 225, 325",
+          "correct": true,
+          "explanation": "Yes! 25 + 100 = 125, 125 + 100 = 225, 225 + 100 = 325."
+        },
+        {
+          "id": "c",
+          "label": "25, 50, 75, 100",
+          "correct": false,
+          "explanation": "This is counting by 25s, not 100s."
+        },
+        {
+          "id": "d",
+          "label": "25, 100, 200, 300",
+          "correct": false,
+          "explanation": "The first jump is 75, not 100. Counting by 100s from 25: 25, 125, 225, 325."
+        }
+      ],
+      "explanation_md": "Add 100 each time: 25, **125**, **225**, **325**."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "How many 5s do you count to get from 0 to 50?",
+      "correct_answer": "10",
+      "explanation_md": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50 - that is **10** counts of 5."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Emma starts at 350 and skip-counts by 10s. Will she land exactly on 400?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, because 350 is odd.",
+          "correct": false,
+          "explanation": "350 is even, not odd. And she will land on 400."
+        },
+        {
+          "id": "b",
+          "label": "Yes: 350, 360, 370, 380, 390, 400.",
+          "correct": true,
+          "explanation": "Yes! Counting by 10s from 350: 360, 370, 380, 390, 400. She lands exactly on 400."
+        },
+        {
+          "id": "c",
+          "label": "No, skip-counting by 10s from 350 will skip over 400.",
+          "correct": false,
+          "explanation": "Adding 10 each time: 350, 360, 370, 380, 390, 400. She lands exactly on 400."
+        },
+        {
+          "id": "d",
+          "label": "Yes: 350, 355, 360 ... 400.",
+          "correct": false,
+          "explanation": "That sequence adds 5, not 10. Counting by 10s: 350, 360, 370, 380, 390, 400."
+        }
+      ],
+      "explanation_md": "Counting by 10s from 350: 360, 370, 380, 390, **400**. Yes, she lands on 400."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Fill in the blank by counting by 5s: 460, 465, 470, ___, 480",
+      "choices": [
+        {
+          "id": "a",
+          "label": "471",
+          "correct": false,
+          "explanation": "471 is not a multiple of 5. When counting by 5s, we add 5: 470 + 5 = 475."
+        },
+        {
+          "id": "b",
+          "label": "474",
+          "correct": false,
+          "explanation": "474 is not a multiple of 5. 470 + 5 = 475."
+        },
+        {
+          "id": "c",
+          "label": "475",
+          "correct": true,
+          "explanation": "Yes! 470 + 5 = 475."
+        },
+        {
+          "id": "d",
+          "label": "478",
+          "correct": false,
+          "explanation": "478 does not follow the pattern. 470 + 5 = 475."
+        }
+      ],
+      "explanation_md": "470 + 5 = **475**. Counting by 5s: 460, 465, 470, 475, 480."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Skip-count by 100s: 150, ___, 350, 450",
+      "correct_answer": "250",
+      "explanation_md": "150 + 100 = **250**. Counting by 100s: 150, 250, 350, 450."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Counting by 10s from 245, which number will NOT appear in the list?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "255",
+          "correct": false,
+          "explanation": "245 + 10 = 255. This number WILL appear in the list."
+        },
+        {
+          "id": "b",
+          "label": "280",
+          "correct": false,
+          "explanation": "245, 255, 265, 275, 285 \u2014 wait, 280 does not have a ones digit of 5. So 280 will NOT appear."
+        },
+        {
+          "id": "c",
+          "label": "280",
+          "correct": false,
+          "explanation": "When counting by 10s starting at 245, every number ends in 5: 245, 255, 265, 275, 285. 280 ends in 0 and will not appear."
+        },
+        {
+          "id": "d",
+          "label": "265",
+          "correct": false,
+          "explanation": "245 + 10 + 10 = 265. This WILL appear in the list."
+        }
+      ],
+      "explanation_md": "Counting by 10s from 245: all numbers end in **5** (245, 255, 265...). **280** ends in 0 and will not appear."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 5s. What comes next? 5, 10, 15, ___",
+      "correct_answer": "20",
+      "explanation_md": "15 + 5 = **20**. Counting by 5s: 5, 10, 15, 20."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Count by 10s. What comes next? 10, 20, 30, ___",
+      "correct_answer": "40",
+      "explanation_md": "30 + 10 = **40**. Counting by 10s: 10, 20, 30, 40."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Count by 100s. What comes next? 100, 200, ___",
+      "choices": [
+        {
+          "id": "a",
+          "label": "201",
+          "correct": false,
+          "explanation": "201 is counting by ones. Add 100: 200 + 100 = 300."
+        },
+        {
+          "id": "b",
+          "label": "210",
+          "correct": false,
+          "explanation": "210 is counting by 10. We need to add 100: 200 + 100 = 300."
+        },
+        {
+          "id": "c",
+          "label": "300",
+          "correct": true,
+          "explanation": "Yes! 200 + 100 = 300."
+        },
+        {
+          "id": "d",
+          "label": "400",
+          "correct": false,
+          "explanation": "400 would come after 300. The very next number after 200 is 300."
+        }
+      ],
+      "explanation_md": "200 + 100 = **300**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "Fill in the blank. Count by 5s: 25, 30, ___, 40",
+      "correct_answer": "35",
+      "explanation_md": "30 + 5 = **35**. Counting by 5s: 25, 30, 35, 40."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Fill in the blank. Count by 10s: 110, 120, 130, ___",
+      "choices": [
+        {
+          "id": "a",
+          "label": "131",
+          "correct": false,
+          "explanation": "131 is counting by ones. We add 10: 130 + 10 = 140."
+        },
+        {
+          "id": "b",
+          "label": "140",
+          "correct": true,
+          "explanation": "Yes! 130 + 10 = 140."
+        },
+        {
+          "id": "c",
+          "label": "230",
+          "correct": false,
+          "explanation": "230 is too much. We only add 10 each time: 130 + 10 = 140."
+        },
+        {
+          "id": "d",
+          "label": "139",
+          "correct": false,
+          "explanation": "139 is just one less than 140. We need to add 10 to 130: 130 + 10 = 140."
+        }
+      ],
+      "explanation_md": "130 + 10 = **140**."
+    }
+  ]
+}
