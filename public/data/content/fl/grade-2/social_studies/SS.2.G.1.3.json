@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.G.1.3",
+  "benchmark_description": "Identify ways people have adapted to and changed the physical environment of Florida.",
+  "course": "social_studies",
+  "strand": "G",
+  "lesson": {
+    "title": "How People Adapt to and Change Florida",
+    "intro": "People who live in Florida have learned to work with the land, water, and climate around them. Sometimes people change the environment to meet their needs, and sometimes they adapt -- or change themselves -- to fit in with nature.",
+    "body_md": "## Two Ways People Interact With the Environment\n\n**Adapting** means people change the WAY THEY LIVE to fit the environment.\n\n**Changing (modifying)** means people change the ENVIRONMENT ITSELF to fit their needs.\n\n## How Floridians ADAPT to Their Environment\n\n- Wearing light, cool clothing because Florida is hot and humid\n- Building homes with air conditioning to stay cool in the summer\n- Growing crops that do well in Florida's warm, wet climate (citrus, strawberries, sugar cane)\n- Building homes on stilts in flood-prone areas\n- Scheduling activities around hurricane season (June to November)\n\n## How People CHANGE Florida's Environment\n\n- **Draining wetlands** to build homes, farms, and cities -- much of South Florida's wetlands were drained in the 1900s\n- **Building canals and drainage systems** to control water and prevent flooding in agricultural areas\n- **Clearing forests** to build roads, houses, and farms\n- **Building seawalls and dikes** to protect coastal communities from flooding and storm surge\n- **Developing the Everglades** for farming -- sugar cane farms now sit where wetlands once were\n- **Building roads and bridges** through natural areas, including the Overseas Highway through the Keys\n\n## Why Does It Matter?\n\nChanging the environment can solve problems (more land for farming, fewer floods) but can also cause problems (animals lose their homes, water quality decreases, wetlands shrink). Florida works hard to **protect** and **restore** the Everglades today.",
+    "worked_example_md": "## Worked Example\n\n**Question:** In the 1900s, engineers drained many South Florida wetlands to create farmland. Is this an example of ADAPTING to or CHANGING the environment?\n\n**Step 1:** Adapting = people change how they live.\nChanging = people change the land itself.\n\n**Step 2:** In this case, people used machines to drain water from wetlands and turned that land into farms. They changed the actual land.\n\n**Step 3:** Since people changed the land itself (not just how they lived), this is an example of **changing (modifying) the environment**.\n\n**Answer:** Draining wetlands to make farmland is an example of **changing the environment**.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to ADAPT to the environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To change the land and water around you",
+          "correct": false,
+          "explanation": "Changing the land is called modifying the environment. Adapting means changing how you live to fit the environment."
+        },
+        {
+          "id": "b",
+          "label": "To change the way you live to fit your environment",
+          "correct": true,
+          "explanation": "Adapting means people adjust their lifestyle, clothing, food, or habits to suit the environment they live in."
+        },
+        {
+          "id": "c",
+          "label": "To move away from the environment",
+          "correct": false,
+          "explanation": "Moving away is not adapting. Adapting means staying and adjusting how you live."
+        },
+        {
+          "id": "d",
+          "label": "To ignore the environment completely",
+          "correct": false,
+          "explanation": "Ignoring the environment is the opposite of adapting to it."
+        }
+      ],
+      "explanation_md": "To **adapt** means to change the way you live to fit your environment."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of people ADAPTING to Florida's hot, humid climate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Building a canal to drain a swamp",
+          "correct": false,
+          "explanation": "Building a canal changes the environment. It does not describe people adapting their lifestyle to the heat."
+        },
+        {
+          "id": "b",
+          "label": "Wearing light, cool clothing in the summer",
+          "correct": true,
+          "explanation": "Wearing lighter clothing is a way people adjust their behavior to fit Florida's hot climate. That is adapting."
+        },
+        {
+          "id": "c",
+          "label": "Clearing a forest to build a neighborhood",
+          "correct": false,
+          "explanation": "Clearing a forest changes the environment. It is not an example of adapting."
+        },
+        {
+          "id": "d",
+          "label": "Building a seawall along the coast",
+          "correct": false,
+          "explanation": "Building a seawall modifies the environment. It is not a lifestyle adaptation."
+        }
+      ],
+      "explanation_md": "Wearing **light, cool clothing** in Florida's heat is an example of adapting -- people change what they wear to fit the hot climate."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the 1900s, large sections of South Florida wetlands were drained to make room for farms and cities. This is an example of ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Adapting to the environment",
+          "correct": false,
+          "explanation": "Adapting means people changed how they lived. Draining wetlands changed the land itself."
+        },
+        {
+          "id": "b",
+          "label": "Changing (modifying) the environment",
+          "correct": true,
+          "explanation": "Draining wetlands changed the actual land from wetlands to dry land for farming. That is modifying the environment."
+        },
+        {
+          "id": "c",
+          "label": "Protecting the environment",
+          "correct": false,
+          "explanation": "Draining wetlands harmed the environment rather than protecting it."
+        },
+        {
+          "id": "d",
+          "label": "Studying the environment",
+          "correct": false,
+          "explanation": "Studying the environment means observing it without changing it."
+        }
+      ],
+      "explanation_md": "Draining wetlands changed the actual land, so it is an example of **modifying (changing) the environment**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Florida farmers grow a lot of citrus (oranges, grapefruits). How is this an example of adapting to Florida's environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Farmers built walls to keep citrus trees out of swamps.",
+          "correct": false,
+          "explanation": "Building walls changes the environment. Growing citrus is a lifestyle/economic choice that fits the climate."
+        },
+        {
+          "id": "b",
+          "label": "Farmers chose crops that grow well in Florida's warm, wet climate.",
+          "correct": true,
+          "explanation": "Choosing to grow citrus is adapting because farmers selected crops that suit Florida's natural warm and wet conditions."
+        },
+        {
+          "id": "c",
+          "label": "Farmers drained all the water from orange groves.",
+          "correct": false,
+          "explanation": "Draining water changes the environment. Growing a crop that suits the climate is adaptation."
+        },
+        {
+          "id": "d",
+          "label": "Farmers moved their farms to colder states.",
+          "correct": false,
+          "explanation": "Moving away is not adapting to Florida. Adapting means choosing activities that work within Florida's climate."
+        }
+      ],
+      "explanation_md": "Growing citrus is adapting because farmers **chose crops that naturally grow well** in Florida's warm, wet climate."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community near the coast builds a seawall to protect homes from flooding. Is this adapting to or changing the environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Adapting -- people changed what they wore.",
+          "correct": false,
+          "explanation": "Building a seawall is not about clothing. Also, it changes the physical environment, not just a lifestyle."
+        },
+        {
+          "id": "b",
+          "label": "Changing the environment -- people built a structure that alters the coast.",
+          "correct": true,
+          "explanation": "A seawall is a physical structure built on the coast. Building it changes the environment by adding a human-made barrier."
+        },
+        {
+          "id": "c",
+          "label": "Neither -- seawalls have nothing to do with the environment.",
+          "correct": false,
+          "explanation": "A seawall is built specifically to interact with the coastal environment."
+        },
+        {
+          "id": "d",
+          "label": "Adapting -- people left the land alone.",
+          "correct": false,
+          "explanation": "Leaving the land alone would mean no seawall. Building a seawall actively changes the coast."
+        }
+      ],
+      "explanation_md": "Building a seawall **changes the environment** by adding a human-made structure to the coast."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Overseas Highway connects Miami to Key West through the Florida Keys. Building this highway is an example of ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Adapting to the environment by using natural paths",
+          "correct": false,
+          "explanation": "The Overseas Highway was built by people, not a natural path. Building it changed the environment."
+        },
+        {
+          "id": "b",
+          "label": "Changing the environment by constructing bridges and roads through islands",
+          "correct": true,
+          "explanation": "Building the highway required constructing bridges and roads over water and through natural island areas. That changes the environment."
+        },
+        {
+          "id": "c",
+          "label": "Protecting the natural wildlife of the Keys",
+          "correct": false,
+          "explanation": "Building a highway through the Keys affected wildlife habitat. It was not primarily about protection."
+        },
+        {
+          "id": "d",
+          "label": "Draining the Everglades to build a road",
+          "correct": false,
+          "explanation": "The Overseas Highway runs through the Keys, not through the Everglades."
+        }
+      ],
+      "explanation_md": "Building the Overseas Highway **changed the environment** by constructing bridges and roads through the natural island chain."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Florida builds canals and drainage systems in agricultural areas. What problem does this solve?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It stops hurricanes from forming over Florida.",
+          "correct": false,
+          "explanation": "Canals cannot stop hurricanes. Canals manage water on land."
+        },
+        {
+          "id": "b",
+          "label": "It controls water and prevents flooding in farm areas.",
+          "correct": true,
+          "explanation": "Canals drain excess water from low-lying farmland, preventing floods and making the land easier to farm."
+        },
+        {
+          "id": "c",
+          "label": "It provides cooling air conditioning for farm workers.",
+          "correct": false,
+          "explanation": "Canals are water channels in the ground, not air conditioning systems."
+        },
+        {
+          "id": "d",
+          "label": "It keeps the Everglades from growing larger.",
+          "correct": false,
+          "explanation": "While draining water can affect the Everglades, the primary purpose of farm canals is to control flooding."
+        }
+      ],
+      "explanation_md": "Canals and drainage systems **control water and prevent flooding** in agricultural areas."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is a PROBLEM caused by people changing Florida's environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "More land is available for farming and homes.",
+          "correct": false,
+          "explanation": "More land for farming is a benefit of changing the environment, not a problem."
+        },
+        {
+          "id": "b",
+          "label": "Wild animals lose their natural habitats.",
+          "correct": true,
+          "explanation": "When wetlands are drained and forests are cleared, the animals that lived there lose their homes. This is a negative consequence."
+        },
+        {
+          "id": "c",
+          "label": "People have better air conditioning.",
+          "correct": false,
+          "explanation": "Air conditioning is about adapting to the climate, not a problem caused by environmental change."
+        },
+        {
+          "id": "d",
+          "label": "Crops grow better in a warmer climate.",
+          "correct": false,
+          "explanation": "Growing crops suited to the climate is a benefit of adaptation, not a problem."
+        }
+      ],
+      "explanation_md": "When people drain wetlands and clear forests, **wild animals lose their natural habitats**. This is a serious problem caused by changing the environment."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Florida is working to restore and protect the Everglades. This is an example of ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Changing the environment to build more farms",
+          "correct": false,
+          "explanation": "Restoring the Everglades means bringing it back to a more natural state, not building more farms."
+        },
+        {
+          "id": "b",
+          "label": "Protecting and restoring the environment after past changes",
+          "correct": true,
+          "explanation": "Restoration means trying to repair damage done to the environment. Protecting the Everglades reverses past changes."
+        },
+        {
+          "id": "c",
+          "label": "Adapting to the hot climate by wearing cool clothes",
+          "correct": false,
+          "explanation": "Wearing cool clothes is adaptation. Restoring the Everglades is an environmental protection effort."
+        },
+        {
+          "id": "d",
+          "label": "Building more roads through the Keys",
+          "correct": false,
+          "explanation": "Building roads changes the environment. Restoring the Everglades reverses past environmental changes."
+        }
+      ],
+      "explanation_md": "Restoring the Everglades is an example of **protecting and restoring the environment** after past changes caused damage."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A developer wants to drain a wetland near the coast to build new houses. What are BOTH a benefit AND a problem of doing this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Benefit: more houses; Problem: less space for shopping malls",
+          "correct": false,
+          "explanation": "The problem is not fewer malls. Draining a wetland harms wildlife habitat and removes natural flood protection."
+        },
+        {
+          "id": "b",
+          "label": "Benefit: more houses available; Problem: wildlife loses habitat and the area loses natural flood protection",
+          "correct": true,
+          "explanation": "Building houses provides shelter for people but draining a wetland destroys the habitat of plants and animals and removes a natural buffer against flooding."
+        },
+        {
+          "id": "c",
+          "label": "Benefit: the water becomes cleaner; Problem: the road gets muddy",
+          "correct": false,
+          "explanation": "Draining wetlands can actually make water quality worse, not better. The road issue is not the main concern."
+        },
+        {
+          "id": "d",
+          "label": "Benefit: animals get new homes; Problem: it is expensive",
+          "correct": false,
+          "explanation": "Animals lose their homes when wetlands are drained, not gain new ones."
+        }
+      ],
+      "explanation_md": "Draining a wetland to build houses has a **benefit** (more homes) but also a **problem**: wildlife loses habitat and natural flood protection is removed."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of ADAPTING to Florida's environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Building a canal to drain a swamp",
+          "correct": false,
+          "explanation": "Building a canal modifies the environment. Adapting means changing how people live."
+        },
+        {
+          "id": "b",
+          "label": "Building homes with air conditioning to handle Florida's heat",
+          "correct": true,
+          "explanation": "Installing air conditioning is a way people adjust their homes and lifestyle to cope with Florida's hot climate. That is adapting."
+        },
+        {
+          "id": "c",
+          "label": "Clearing a forest to build a shopping center",
+          "correct": false,
+          "explanation": "Clearing a forest modifies the environment. It is not adapting."
+        },
+        {
+          "id": "d",
+          "label": "Draining wetlands to make farmland",
+          "correct": false,
+          "explanation": "Draining wetlands changes the environment. It is not adapting."
+        }
+      ],
+      "explanation_md": "Building homes with **air conditioning** is adapting -- people adjust their homes to handle Florida's hot climate."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which change to Florida's environment had BOTH positive and negative effects?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wearing light summer clothing",
+          "correct": false,
+          "explanation": "Wearing light clothing is adapting, not changing the environment, and does not have environmental effects."
+        },
+        {
+          "id": "b",
+          "label": "Draining South Florida wetlands to create farmland",
+          "correct": true,
+          "explanation": "Draining wetlands created useful farmland (positive) but destroyed wildlife habitat and affected water quality (negative)."
+        },
+        {
+          "id": "c",
+          "label": "Choosing to grow citrus fruit",
+          "correct": false,
+          "explanation": "Growing citrus is adapting to the climate. It does not change the environment in a damaging way."
+        },
+        {
+          "id": "d",
+          "label": "Scheduling activities around hurricane season",
+          "correct": false,
+          "explanation": "Scheduling around hurricane season is a behavioral adaptation, not a change to the environment."
+        }
+      ],
+      "explanation_md": "Draining South Florida wetlands **created farmland** (positive) but **destroyed wildlife habitat** (negative). Changes to the environment often have both benefits and problems."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to MODIFY the environment?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To study the environment without touching it",
+          "correct": false,
+          "explanation": "Studying the environment is observation. Modifying means physically changing it."
+        },
+        {
+          "id": "b",
+          "label": "To physically change the land, water, or natural features",
+          "correct": true,
+          "explanation": "Modifying the environment means physically changing it -- like draining wetlands, building canals, or clearing forests."
+        },
+        {
+          "id": "c",
+          "label": "To wear clothing suited to the climate",
+          "correct": false,
+          "explanation": "Wearing appropriate clothing is adapting to the environment, not modifying it."
+        },
+        {
+          "id": "d",
+          "label": "To move to a different area",
+          "correct": false,
+          "explanation": "Moving away does not change the environment you left."
+        }
+      ],
+      "explanation_md": "To **modify** the environment means to physically change the land, water, or natural features to meet human needs."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Adapting means people change ___ to fit the environment.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "the land around them",
+          "correct": false,
+          "explanation": "Changing the land is modifying the environment. Adapting means changing how you live."
+        },
+        {
+          "id": "b",
+          "label": "the way they live",
+          "correct": true,
+          "explanation": "Adapting means changing how you live -- like what you wear or what crops you grow -- to fit your environment."
+        },
+        {
+          "id": "c",
+          "label": "nothing at all",
+          "correct": false,
+          "explanation": "Adapting requires some kind of change in behavior or lifestyle."
+        },
+        {
+          "id": "d",
+          "label": "other people's habits",
+          "correct": false,
+          "explanation": "Adapting is about changing your own behavior, not other people's."
+        }
+      ],
+      "explanation_md": "Adapting means people change **the way they live** to fit the environment."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of adapting to Florida's hot climate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Draining a swamp to build a farm",
+          "correct": false,
+          "explanation": "Draining a swamp changes the environment. Adapting means changing how you live."
+        },
+        {
+          "id": "b",
+          "label": "Wearing light, cool summer clothes",
+          "correct": true,
+          "explanation": "Wearing lighter clothes is adapting -- people change what they wear to stay comfortable in the heat."
+        },
+        {
+          "id": "c",
+          "label": "Building a highway through the Keys",
+          "correct": false,
+          "explanation": "Building a highway changes the environment. It is not adapting."
+        },
+        {
+          "id": "d",
+          "label": "Moving all the lakes to another state",
+          "correct": false,
+          "explanation": "Moving lakes is not possible and is not an example of adapting."
+        }
+      ],
+      "explanation_md": "Wearing **light, cool summer clothes** is adapting to Florida's hot climate."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Draining a wetland to make farmland is an example of ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "adapting to the environment",
+          "correct": false,
+          "explanation": "Adapting means changing how you live, not changing the land."
+        },
+        {
+          "id": "b",
+          "label": "changing (modifying) the environment",
+          "correct": true,
+          "explanation": "Draining a wetland physically changes the land. That is modifying the environment."
+        },
+        {
+          "id": "c",
+          "label": "protecting the environment",
+          "correct": false,
+          "explanation": "Draining a wetland harms the environment, not protects it."
+        },
+        {
+          "id": "d",
+          "label": "studying the environment",
+          "correct": false,
+          "explanation": "Draining is an action that changes the land, not studying it."
+        }
+      ],
+      "explanation_md": "Draining a wetland changes the actual land. That is **modifying (changing) the environment**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What problem can happen when people drain wetlands to build farms or houses?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The weather gets colder.",
+          "correct": false,
+          "explanation": "Draining wetlands does not make the weather colder."
+        },
+        {
+          "id": "b",
+          "label": "Wild animals lose their homes.",
+          "correct": true,
+          "explanation": "Wetlands are habitats for many animals. When wetlands are drained, those animals lose their homes."
+        },
+        {
+          "id": "c",
+          "label": "People have to wear heavier clothes.",
+          "correct": false,
+          "explanation": "Clothing choices are not affected by draining wetlands."
+        },
+        {
+          "id": "d",
+          "label": "The sun becomes brighter.",
+          "correct": false,
+          "explanation": "The sun's brightness is not related to draining wetlands."
+        }
+      ],
+      "explanation_md": "When wetlands are drained, **wild animals lose their homes**. This is a problem caused by changing the environment."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Florida workers are trying to restore the Everglades. What does RESTORE mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To drain more water from the Everglades",
+          "correct": false,
+          "explanation": "Draining more water would harm the Everglades, not restore it."
+        },
+        {
+          "id": "b",
+          "label": "To bring the Everglades back to a more natural state",
+          "correct": true,
+          "explanation": "Restoring the Everglades means trying to undo past damage and return it to a healthier, more natural condition."
+        },
+        {
+          "id": "c",
+          "label": "To build more houses in the Everglades",
+          "correct": false,
+          "explanation": "Building houses in the Everglades would further damage it, not restore it."
+        },
+        {
+          "id": "d",
+          "label": "To close the Everglades to all visitors forever",
+          "correct": false,
+          "explanation": "Restoring the Everglades is about improving its health, not closing it permanently."
+        }
+      ],
+      "explanation_md": "**Restoring** the Everglades means bringing it back to a more natural, healthier state after past damage."
+    }
+  ]
+}
