@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.C.3.1",
+  "benchmark_description": "Follow the writing process: prewriting/planning, drafting, revising, editing, and publishing.",
+  "course": "ela",
+  "strand": "C",
+  "lesson": {
+    "title": "The Writing Process: Plan, Draft, Revise, Edit, Publish",
+    "intro": "Good writers do not just sit down and write a perfect piece all at once. They follow a process - a series of steps that helps them write their best. The five steps are: Plan, Draft, Revise, Edit, and Publish.",
+    "body_md": "## The 5 Steps of the Writing Process\n\n### Step 1: Plan (Prewrite)\nBefore you write, brainstorm your ideas and organize them.\n\nPlan by:\n- Making a list of ideas\n- Drawing a story map (beginning, middle, end)\n- Creating a web of details\n- Making an outline\n\n### Step 2: Draft\nWrite your ideas down for the first time. Do not worry about perfection - just get your ideas on paper!\n\nTips:\n- Follow your plan\n- Write as much as you can\n- Skip a line between each line so you have room to make changes later\n- Circle words you are not sure how to spell - fix them in editing\n\n### Step 3: Revise\nRe-read your draft and make it better.\n\nRevise by:\n- Adding missing details\n- Removing ideas that do not belong\n- Changing the order if needed\n- Improving word choice (more vivid, more specific words)\n- Making sure your ideas are clear\n\nAsk yourself: Does my writing make sense? Is it interesting? Do I have enough details?\n\n### Step 4: Edit\nFix errors in mechanics.\n\nEdit by checking CUPS:\n- **C**apitalization - Is the first word of every sentence capitalized? Are proper nouns capitalized?\n- **U**sage - Is my grammar correct?\n- **P**unctuation - Does every sentence have end punctuation? Do I have commas in lists?\n- **S**pelling - Are words spelled correctly?\n\n### Step 5: Publish\nShare your best writing with an audience!\n\nPublish by:\n- Writing or typing a neat final copy\n- Reading aloud to classmates\n- Adding illustrations\n- Including it in a class book",
+    "worked_example_md": "## Worked Example: A student writes about her dog.\n\n**Step 1 - Plan:**\nTopic: My dog Biscuit\nDetails: brown fur, loves to run, funny tricks, makes me laugh\n\n**Step 2 - Draft:**\n*My dog biscut is brown. she can do tricks. i like her.*\n\n**Step 3 - Revise:**\n(Student adds details and improves ideas)\n*My dog Biscuit is a brown Labrador. She can do funny tricks like rolling over and playing dead. She always makes me laugh when she chases her own tail.*\n\n**Step 4 - Edit:**\n(Fix mechanics errors: 'biscut' -> 'Biscuit'; 'she' -> 'She' at sentence start; 'i' -> 'I')\n*My dog Biscuit is a brown Labrador. She can do funny tricks like rolling over and playing dead. She always makes me laugh when she chases her own tail.*\n\n**Step 5 - Publish:**\nThe student writes a neat final copy with an illustration and shares it during author's chair.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the FIRST step in the writing process?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Edit",
+          "correct": false,
+          "explanation": "Editing comes near the end. The first step is to plan."
+        },
+        {
+          "id": "B",
+          "label": "Plan",
+          "correct": true,
+          "explanation": "Correct! Planning (also called prewriting) is the first step. You brainstorm and organize your ideas before writing."
+        },
+        {
+          "id": "C",
+          "label": "Publish",
+          "correct": false,
+          "explanation": "Publishing is the final step, not the first."
+        },
+        {
+          "id": "D",
+          "label": "Revise",
+          "correct": false,
+          "explanation": "Revising comes after you have already written a draft."
+        }
+      ],
+      "explanation_md": "The writing process has steps: Plan - Draft - Revise - Edit - Publish. Planning is always first."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do you do when you **draft**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Fix spelling mistakes",
+          "correct": false,
+          "explanation": "Fixing spelling mistakes is editing. Drafting is writing your ideas for the first time."
+        },
+        {
+          "id": "B",
+          "label": "Write your ideas out for the first time",
+          "correct": true,
+          "explanation": "Correct! A draft is your first try at writing. It does not need to be perfect."
+        },
+        {
+          "id": "C",
+          "label": "Share your writing with an audience",
+          "correct": false,
+          "explanation": "Sharing is publishing. Drafting is writing your ideas for the first time."
+        },
+        {
+          "id": "D",
+          "label": "Draw pictures about your topic",
+          "correct": false,
+          "explanation": "Drawing may be part of planning. Drafting means writing words."
+        }
+      ],
+      "explanation_md": "Drafting means writing your ideas for the first time. Your draft does not have to be perfect - you will revise and edit it later."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the DIFFERENCE between revising and editing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Revising fixes spelling; editing changes ideas",
+          "correct": false,
+          "explanation": "It is the other way around. Revising improves ideas; editing fixes errors."
+        },
+        {
+          "id": "B",
+          "label": "Revising improves ideas and organization; editing fixes grammar and spelling",
+          "correct": true,
+          "explanation": "Correct! Revising = making your ideas better. Editing = fixing errors in spelling, punctuation, and grammar."
+        },
+        {
+          "id": "C",
+          "label": "Revising and editing are the same thing",
+          "correct": false,
+          "explanation": "They are different steps. Revising changes content; editing corrects errors."
+        },
+        {
+          "id": "D",
+          "label": "Editing improves word choice; revising adds punctuation",
+          "correct": false,
+          "explanation": "Adding punctuation is part of editing. Improving word choice is part of revising."
+        }
+      ],
+      "explanation_md": "Revise = make content better (add details, change organization, improve word choice). Edit = fix errors (spelling, punctuation, capitalization, grammar)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Mia finishes her first draft of a story about a lost puppy. She reads it and notices she forgot to include how the puppy was found. This is a good time to...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Publish her story right away",
+          "correct": false,
+          "explanation": "She noticed a missing part - she should fix it before publishing."
+        },
+        {
+          "id": "B",
+          "label": "Revise by adding the missing part about how the puppy was found",
+          "correct": true,
+          "explanation": "Correct! Adding missing information is a revision. Revising means improving the content of your draft."
+        },
+        {
+          "id": "C",
+          "label": "Edit spelling mistakes in her story",
+          "correct": false,
+          "explanation": "Editing fixes errors in mechanics. Mia noticed a content problem - she needs to revise."
+        },
+        {
+          "id": "D",
+          "label": "Start over and write a completely new story",
+          "correct": false,
+          "explanation": "She does not need to start over. Revision fixes and improves what she already has."
+        }
+      ],
+      "explanation_md": "Revising means improving your content. Mia noticed a missing part (how the puppy was found) - she should add it during revision."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In which step of the writing process do you fix mistakes in capitalization, punctuation, and spelling?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Plan",
+          "correct": false,
+          "explanation": "Planning is for brainstorming ideas, not fixing errors."
+        },
+        {
+          "id": "B",
+          "label": "Draft",
+          "correct": false,
+          "explanation": "In drafting you write your ideas down. You fix errors later."
+        },
+        {
+          "id": "C",
+          "label": "Revise",
+          "correct": false,
+          "explanation": "Revising improves ideas and organization. Fixing mechanics errors comes in editing."
+        },
+        {
+          "id": "D",
+          "label": "Edit",
+          "correct": true,
+          "explanation": "Correct! Editing is when you carefully fix errors in spelling, capitalization, punctuation, and grammar."
+        }
+      ],
+      "explanation_md": "Editing = fixing errors in mechanics (CUPS: Capitalization, Usage/grammar, Punctuation, Spelling). This step comes after revising."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Leo wrote a story. His teacher said, 'Your story is interesting, but you need more details in the middle.' What should Leo do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Rewrite the whole story",
+          "correct": false,
+          "explanation": "He does not need to start over. He can revise the middle section by adding details."
+        },
+        {
+          "id": "B",
+          "label": "Revise by adding more details to the middle of his story",
+          "correct": true,
+          "explanation": "Correct! Adding details to improve content is revision. Leo should revise the middle section."
+        },
+        {
+          "id": "C",
+          "label": "Fix the spelling in his story",
+          "correct": false,
+          "explanation": "Fixing spelling is editing. Adding details is revising."
+        },
+        {
+          "id": "D",
+          "label": "Publish the story without any changes",
+          "correct": false,
+          "explanation": "His teacher identified a problem (not enough detail). He should revise before publishing."
+        }
+      ],
+      "explanation_md": "When a reader (or teacher) says your content needs more detail, that is a signal to REVISE. Adding details and improving content are revision tasks."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is a **planning** strategy for writing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Using a checklist to find spelling errors",
+          "correct": false,
+          "explanation": "Checklists for errors are editing tools, not planning strategies."
+        },
+        {
+          "id": "B",
+          "label": "Making a web or list of ideas before writing",
+          "correct": true,
+          "explanation": "Correct! Brainstorming webs, lists, outlines, and story maps are planning strategies used before drafting."
+        },
+        {
+          "id": "C",
+          "label": "Reading your draft aloud to check how it sounds",
+          "correct": false,
+          "explanation": "Reading aloud to check flow is a revising strategy."
+        },
+        {
+          "id": "D",
+          "label": "Sharing your finished writing with classmates",
+          "correct": false,
+          "explanation": "Sharing finished writing is publishing."
+        }
+      ],
+      "explanation_md": "Planning strategies help you organize ideas BEFORE you write: brainstorm lists, webs, outlines, story maps. These tools make drafting easier."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A writer's checklist includes: 'Did I use capital letters correctly? Did I add end punctuation? Did I spell sight words right?' What step of the writing process does this checklist support?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Planning",
+          "correct": false,
+          "explanation": "Planning checklists focus on ideas and organization, not mechanics errors."
+        },
+        {
+          "id": "B",
+          "label": "Drafting",
+          "correct": false,
+          "explanation": "Drafting is about getting ideas on paper. Mechanics checklists are used in editing."
+        },
+        {
+          "id": "C",
+          "label": "Revising",
+          "correct": false,
+          "explanation": "Revising checklists ask about ideas and content: 'Are my details clear? Does my writing make sense?' Mechanics belong to editing."
+        },
+        {
+          "id": "D",
+          "label": "Editing",
+          "correct": true,
+          "explanation": "Correct! Capital letters, punctuation, and spelling are mechanics. Mechanics checklists are editing tools."
+        }
+      ],
+      "explanation_md": "Editing checklists focus on mechanics: capitalization, punctuation, grammar, spelling. This checklist is used during the editing step."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sara is writing an informational paragraph about rain forests. After drafting, she reads it to her partner. Her partner says, 'I liked it! But why are rain forests important?' Sara realizes she forgot to include that. What should she do next?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Edit for spelling errors",
+          "correct": false,
+          "explanation": "Sara has a content problem (missing information). She needs to revise first, then edit."
+        },
+        {
+          "id": "B",
+          "label": "Revise by adding a sentence about why rain forests are important",
+          "correct": true,
+          "explanation": "Correct! Adding missing content is revision. Sara should revise first to add the important information."
+        },
+        {
+          "id": "C",
+          "label": "Publish her paragraph immediately",
+          "correct": false,
+          "explanation": "She has identified a gap in content. She should revise before publishing."
+        },
+        {
+          "id": "D",
+          "label": "Start a new paragraph on a different topic",
+          "correct": false,
+          "explanation": "She can fix her existing paragraph by adding the missing information during revision."
+        }
+      ],
+      "explanation_md": "When you realize content is missing or unclear, you revise. Sara should add information about why rain forests are important before editing or publishing."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Put these writing process steps in the CORRECT ORDER:\n\n1. Edit for grammar and spelling.\n2. Publish and share with an audience.\n3. Draft your first version.\n4. Plan by brainstorming ideas.\n5. Revise to improve content and organization.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1, 2, 3, 4, 5",
+          "correct": false,
+          "explanation": "This order starts with editing, but planning always comes first."
+        },
+        {
+          "id": "B",
+          "label": "4, 3, 5, 1, 2",
+          "correct": true,
+          "explanation": "Correct! Plan (4) then Draft (3) then Revise (5) then Edit (1) then Publish (2) is the correct writing process order."
+        },
+        {
+          "id": "C",
+          "label": "3, 4, 5, 1, 2",
+          "correct": false,
+          "explanation": "Drafting before planning puts you in trouble - you have no organized ideas to write from."
+        },
+        {
+          "id": "D",
+          "label": "4, 3, 1, 5, 2",
+          "correct": false,
+          "explanation": "Editing (fixing errors) should come after revising (improving content), not before it."
+        }
+      ],
+      "explanation_md": "The writing process order is: Plan -> Draft -> Revise -> Edit -> Publish. Plan first so you have organized ideas. Draft to get ideas on paper. Revise to improve content. Edit to fix errors. Publish to share."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "During which step do you improve your ideas, add details, and reorganize?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Plan",
+          "correct": false,
+          "explanation": "Planning is for brainstorming before writing, not improving a draft."
+        },
+        {
+          "id": "B",
+          "label": "Draft",
+          "correct": false,
+          "explanation": "Drafting is when you write your ideas for the first time."
+        },
+        {
+          "id": "C",
+          "label": "Revise",
+          "correct": true,
+          "explanation": "Correct! Revising is when you improve your content, add details, and reorganize."
+        },
+        {
+          "id": "D",
+          "label": "Edit",
+          "correct": false,
+          "explanation": "Editing fixes mechanics errors (spelling, punctuation), not content."
+        }
+      ],
+      "explanation_md": "Revise = improve content, add details, reorganize. This comes after drafting and before editing."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Tom finished his story. He checks: 'Does my story have a beginning, middle, and end? Do I have enough details?' What step is he doing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Planning",
+          "correct": false,
+          "explanation": "Planning happens before writing. Tom already has a finished story."
+        },
+        {
+          "id": "B",
+          "label": "Drafting",
+          "correct": false,
+          "explanation": "Drafting is writing the first version. Tom already finished his story."
+        },
+        {
+          "id": "C",
+          "label": "Revising",
+          "correct": true,
+          "explanation": "Correct! Checking for complete structure and enough details is a revision task - improving content."
+        },
+        {
+          "id": "D",
+          "label": "Editing",
+          "correct": false,
+          "explanation": "Editing checks mechanics (spelling, punctuation). Tom is checking content - that is revising."
+        }
+      ],
+      "explanation_md": "Checking for complete structure and adequate details is revision. Tom is making sure his content is strong before moving to editing."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST description of the publishing step?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Making your first attempt to write ideas on paper",
+          "correct": false,
+          "explanation": "Writing your first attempt is drafting."
+        },
+        {
+          "id": "B",
+          "label": "Sharing your polished, corrected writing with an audience",
+          "correct": true,
+          "explanation": "Correct! Publishing is the final step where you share your best writing with others."
+        },
+        {
+          "id": "C",
+          "label": "Brainstorming ideas before writing",
+          "correct": false,
+          "explanation": "Brainstorming is planning - the first step."
+        },
+        {
+          "id": "D",
+          "label": "Fixing grammar mistakes in your draft",
+          "correct": false,
+          "explanation": "Fixing grammar mistakes is editing."
+        }
+      ],
+      "explanation_md": "Publishing is the final step: you share your completed, polished writing with an audience (classmates, a class book, a bulletin board, etc.)."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the FIRST thing you do when you write?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Fix mistakes",
+          "correct": false,
+          "explanation": "You cannot fix mistakes until you have written something. Planning comes first."
+        },
+        {
+          "id": "B",
+          "label": "Plan your ideas",
+          "correct": true,
+          "explanation": "Correct! Planning (or prewriting) is always the first step. You brainstorm and organize before writing."
+        },
+        {
+          "id": "C",
+          "label": "Publish your writing",
+          "correct": false,
+          "explanation": "Publishing is the final step after all other steps are done."
+        },
+        {
+          "id": "D",
+          "label": "Share with friends",
+          "correct": false,
+          "explanation": "Sharing is publishing. That comes last."
+        }
+      ],
+      "explanation_md": "Always plan first. Brainstorm, make a list, draw a web, or create an outline before you start writing."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **draft**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Your final perfect copy",
+          "correct": false,
+          "explanation": "A draft is your first try - it does not have to be perfect."
+        },
+        {
+          "id": "B",
+          "label": "Your first attempt at writing your ideas",
+          "correct": true,
+          "explanation": "Correct! A draft is your first try. It is okay if it is not perfect - you will improve it later."
+        },
+        {
+          "id": "C",
+          "label": "A list of spelling mistakes",
+          "correct": false,
+          "explanation": "A list of spelling mistakes is used during editing, not drafting."
+        },
+        {
+          "id": "D",
+          "label": "Your planning web",
+          "correct": false,
+          "explanation": "A planning web is made during the planning step. A draft is your actual written text."
+        }
+      ],
+      "explanation_md": "A draft is your first attempt at writing. It does not have to be perfect - you will revise and edit it later to make it better."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What should you fix during **editing**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Add more details to make your story longer",
+          "correct": false,
+          "explanation": "Adding details is revising, not editing."
+        },
+        {
+          "id": "B",
+          "label": "Change the order of your paragraphs",
+          "correct": false,
+          "explanation": "Changing the order is revising, not editing."
+        },
+        {
+          "id": "C",
+          "label": "Fix spelling, capitalization, and punctuation errors",
+          "correct": true,
+          "explanation": "Correct! Editing means correcting mechanics errors: spelling, capital letters, and punctuation."
+        },
+        {
+          "id": "D",
+          "label": "Think of a new topic to write about",
+          "correct": false,
+          "explanation": "Choosing a topic is planning. Editing fixes errors in what you already wrote."
+        }
+      ],
+      "explanation_md": "Editing = fix mechanics errors. Check CUPS: Capitalization, Usage (grammar), Punctuation, Spelling."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "After writing her first draft, Ana reads it and decides to add more details to her ending. This is...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Planning",
+          "correct": false,
+          "explanation": "Planning happens before writing. Ana already has a draft."
+        },
+        {
+          "id": "B",
+          "label": "Revising",
+          "correct": true,
+          "explanation": "Correct! Adding details to improve content is revising."
+        },
+        {
+          "id": "C",
+          "label": "Editing",
+          "correct": false,
+          "explanation": "Editing fixes mechanics errors. Adding content is revising."
+        },
+        {
+          "id": "D",
+          "label": "Publishing",
+          "correct": false,
+          "explanation": "Publishing is sharing final writing. Ana is still improving her draft."
+        }
+      ],
+      "explanation_md": "Revising means improving your content. Adding details to make the ending stronger is a revision task."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does **publishing** mean in the writing process?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Making a list of ideas before writing",
+          "correct": false,
+          "explanation": "Making a list of ideas is planning."
+        },
+        {
+          "id": "B",
+          "label": "Writing your ideas for the first time",
+          "correct": false,
+          "explanation": "Writing for the first time is drafting."
+        },
+        {
+          "id": "C",
+          "label": "Sharing your finished writing with others",
+          "correct": true,
+          "explanation": "Correct! Publishing is when you share your completed, polished writing with an audience."
+        },
+        {
+          "id": "D",
+          "label": "Fixing spelling and punctuation",
+          "correct": false,
+          "explanation": "Fixing spelling and punctuation is editing."
+        }
+      ],
+      "explanation_md": "Publishing is the final step: share your best, finished writing with an audience. This can mean reading aloud, posting on a bulletin board, or making a class book."
+    }
+  ]
+}
