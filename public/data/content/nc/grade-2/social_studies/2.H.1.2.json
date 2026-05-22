@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.H.1.2",
+  "benchmark_description": "Analyze primary and secondary sources to understand the past.",
+  "course": "social_studies",
+  "strand": "H",
+  "lesson": {
+    "title": "Looking at the Past: Primary and Secondary Sources",
+    "intro": "How do we know what life was like 100 years ago? People left behind clues \u2014 old photos, diaries, and newspapers. Let's learn how to use those clues to understand history!",
+    "body_md": "## What Is a Primary Source?\n\nA **primary source** is something made by a person who was THERE. It was created at the time the event happened.\n\n**Examples of primary sources:**\n- Old photographs\n- Diaries or journals\n- Letters written by real people\n- Newspaper articles from long ago\n- Objects people used (tools, clothing, toys)\n- Audio recordings from the time\n\n## What Is a Secondary Source?\n\nA **secondary source** is something made LATER by someone who was not there. The person learned about the event and wrote about it afterward.\n\n**Examples of secondary sources:**\n- Textbooks\n- Encyclopedia articles\n- Books about history\n- Documentaries about past events\n\n## How Are They Different?\n\n| Primary Source | Secondary Source |\n|---|---|\n| Made at the time of the event | Made after the event |\n| Created by someone who was there | Created by someone who was NOT there |\n| Examples: diary, photograph, letter | Examples: textbook, biography, encyclopedia |\n\n## Why Do We Use These Sources?\n\nBoth types of sources help us understand the past.\n\n- A **primary source** lets us hear the words of real people from long ago. It helps us feel what it was like.\n- A **secondary source** puts events in order and explains what happened and why.\n\n## How to Analyze a Source\n\nWhen you look at any source, ask yourself:\n1. **Who made it?**\n2. **When was it made?**\n3. **Why was it made?**\n4. **What does it tell us?**\n\n**Key Words:**\n- **primary source** \u2014 created at the time of the event by someone who was there\n- **secondary source** \u2014 created later by someone who learned about the event\n- **analyze** \u2014 to look at something carefully to understand it",
+    "worked_example_md": "## Worked Example\n\nMrs. Green's class found two sources about an old fire station in their town.\n\n**Source A:** A photograph taken in 1910 showing firefighters standing in front of the old fire station.\n\n**Source B:** A paragraph in their social studies textbook that says, \"In the early 1900s, fire stations used horse-drawn wagons to reach fires.\"\n\n**Question:** Which source is a primary source? Which is a secondary source? How do you know?\n\n**Step 1:** Ask: Was Source A made at the time of the event by someone who was there?\n- Yes! The photograph was taken in 1910. The photographer was at the fire station. **Source A is a primary source.**\n\n**Step 2:** Ask: Was Source B made later by someone who learned about the event?\n- Yes! A textbook is written after the events happened by someone who studied them. **Source B is a secondary source.**\n\n**Step 3:** What does each tell us?\n- Source A shows us what the firefighters and station looked like in 1910.\n- Source B explains how fire stations worked in the early 1900s.\n\n**Answer:** Source A (photograph) = primary source. Source B (textbook paragraph) = secondary source.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A book written about events that happened long ago",
+          "correct": false,
+          "explanation": "A book written about past events is a secondary source \u2014 the author was not there when the events happened."
+        },
+        {
+          "id": "b",
+          "label": "Something created at the time of an event by a person who was there",
+          "correct": true,
+          "explanation": "A primary source is created at the time of an event by someone who was actually there, like a diary or photograph."
+        },
+        {
+          "id": "c",
+          "label": "A story written by a teacher about history",
+          "correct": false,
+          "explanation": "If a teacher writes about history after studying it, that is a secondary source."
+        },
+        {
+          "id": "d",
+          "label": "Any book found in a library",
+          "correct": false,
+          "explanation": "Not all library books are primary sources \u2014 many are secondary sources written after events happened."
+        }
+      ],
+      "explanation_md": "A primary source is something created at the time of an event by a person who was actually there, such as a diary, letter, or photograph."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A textbook chapter about the American Revolution",
+          "correct": false,
+          "explanation": "A textbook is a secondary source \u2014 it was written long after the American Revolution by someone who was not there."
+        },
+        {
+          "id": "b",
+          "label": "A diary written by a soldier during a war",
+          "correct": true,
+          "explanation": "A diary written by a soldier during the war is a primary source \u2014 the soldier was there and wrote about it at the time."
+        },
+        {
+          "id": "c",
+          "label": "A documentary film made last year about an old war",
+          "correct": false,
+          "explanation": "A documentary made last year about an old war is a secondary source \u2014 it was made much later by people who were not there."
+        },
+        {
+          "id": "d",
+          "label": "An encyclopedia article about pioneers",
+          "correct": false,
+          "explanation": "An encyclopedia article is a secondary source written by someone who studied the topic, not someone who lived it."
+        }
+      ],
+      "explanation_md": "A diary written by a soldier during a war is a primary source \u2014 the soldier was present at the events and wrote about them at the time."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a secondary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A letter written by a child in 1850 describing her school",
+          "correct": false,
+          "explanation": "A letter written by a child who was actually in school in 1850 is a primary source \u2014 she was there."
+        },
+        {
+          "id": "b",
+          "label": "A photograph taken at a school in 1920",
+          "correct": false,
+          "explanation": "A photograph taken at the time of the event is a primary source."
+        },
+        {
+          "id": "c",
+          "label": "A book written today about what schools were like in the 1800s",
+          "correct": true,
+          "explanation": "A book written today about schools in the 1800s is a secondary source \u2014 the author was not there but learned about it through research."
+        },
+        {
+          "id": "d",
+          "label": "A ticket stub from an old circus saved in a scrapbook",
+          "correct": false,
+          "explanation": "A ticket stub from an actual event is a primary source \u2014 it is an artifact from the time period."
+        }
+      ],
+      "explanation_md": "A book written today about what schools were like in the 1800s is a secondary source \u2014 the author was not there but researched and wrote about it later."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "When you find an old photograph in your grandmother's attic, what type of source is it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A secondary source because it was found in an attic",
+          "correct": false,
+          "explanation": "Where a source is stored does not change what type of source it is. A photograph taken at the time of an event is a primary source."
+        },
+        {
+          "id": "b",
+          "label": "A primary source because it was taken at the time it shows",
+          "correct": true,
+          "explanation": "An old photograph is a primary source \u2014 it was taken by a real person at the time the photo was taken, showing what things looked like then."
+        },
+        {
+          "id": "c",
+          "label": "A secondary source because someone else took the picture",
+          "correct": false,
+          "explanation": "Even if someone else took the picture, it was taken at the time of the event, making it a primary source."
+        },
+        {
+          "id": "d",
+          "label": "Neither a primary nor a secondary source",
+          "correct": false,
+          "explanation": "A photograph is definitely a source of historical information \u2014 it is a primary source."
+        }
+      ],
+      "explanation_md": "An old photograph is a primary source because it was taken at the time it shows, capturing what things actually looked like then."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Lena is studying how people in her community lived 75 years ago. Which TWO sources would be most helpful?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A newspaper from 75 years ago and a diary written by a neighbor at that time",
+          "correct": true,
+          "explanation": "Both a newspaper from that time and a diary written then are primary sources \u2014 they were created at the time and give direct information about life 75 years ago."
+        },
+        {
+          "id": "b",
+          "label": "A textbook from this year and a storybook about pretend characters",
+          "correct": false,
+          "explanation": "A current textbook is a secondary source and a storybook about pretend characters is fiction \u2014 neither gives direct evidence about real life 75 years ago."
+        },
+        {
+          "id": "c",
+          "label": "A documentary film made this year and a Wikipedia article",
+          "correct": false,
+          "explanation": "Both a recent documentary and a Wikipedia article are secondary sources \u2014 useful for general information, but not direct evidence from 75 years ago."
+        },
+        {
+          "id": "d",
+          "label": "A current weather report and a math workbook",
+          "correct": false,
+          "explanation": "A weather report and a math workbook have no historical information about community life 75 years ago."
+        }
+      ],
+      "explanation_md": "A newspaper from 75 years ago and a diary written at that time are both primary sources \u2014 they were created at the time and give the most direct information about life then."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to understand how her great-grandmother felt about moving to a new city in 1940. Which source would be MOST helpful?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A history book about cities in 1940",
+          "correct": false,
+          "explanation": "A history book about cities is a secondary source \u2014 it would give general facts but not her great-grandmother's personal feelings."
+        },
+        {
+          "id": "b",
+          "label": "Letters her great-grandmother wrote to a friend in 1940",
+          "correct": true,
+          "explanation": "Letters written by her great-grandmother in 1940 are a primary source \u2014 they would show her actual feelings and experiences at that time."
+        },
+        {
+          "id": "c",
+          "label": "A documentary about immigration in the 1940s",
+          "correct": false,
+          "explanation": "A documentary is a secondary source \u2014 it might give general information but not her great-grandmother's personal story."
+        },
+        {
+          "id": "d",
+          "label": "An encyclopedia entry about 1940s America",
+          "correct": false,
+          "explanation": "An encyclopedia entry is a secondary source \u2014 it gives general facts, not personal feelings."
+        }
+      ],
+      "explanation_md": "Letters written by her great-grandmother in 1940 are a primary source \u2014 they capture her actual thoughts and feelings at that time, making them the most personal and direct evidence."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When analyzing a source, which question is MOST important to ask first?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Is the source from a library?",
+          "correct": false,
+          "explanation": "Where a source is located does not determine how useful or reliable it is."
+        },
+        {
+          "id": "b",
+          "label": "Who made it, and when?",
+          "correct": true,
+          "explanation": "Asking who made the source and when it was made helps you decide if it is a primary or secondary source and how reliable it might be."
+        },
+        {
+          "id": "c",
+          "label": "Is the source printed on nice paper?",
+          "correct": false,
+          "explanation": "The appearance of a source does not determine its usefulness or accuracy."
+        },
+        {
+          "id": "d",
+          "label": "Is the source longer than five pages?",
+          "correct": false,
+          "explanation": "Length does not determine the usefulness or type of a source."
+        }
+      ],
+      "explanation_md": "When analyzing any source, you should first ask: Who made it? And when? These two questions help you determine if it is a primary or secondary source and how reliable it might be."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher has two sources about the first day of school in her town long ago. Source 1 is an official school report written by the principal at the time. Source 2 is a chapter in a history book written 50 years later. Which statement is TRUE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Source 1 is more useful because it was written by someone who was there",
+          "correct": true,
+          "explanation": "Source 1 is a primary source \u2014 written by the principal who was present. It gives direct, firsthand information. Source 2 is a secondary source written later by someone who was not there."
+        },
+        {
+          "id": "b",
+          "label": "Source 2 is more useful because it was written more recently",
+          "correct": false,
+          "explanation": "Being more recent does not make a source more useful for understanding the original event. The primary source written at the time is more direct."
+        },
+        {
+          "id": "c",
+          "label": "Both sources are primary sources",
+          "correct": false,
+          "explanation": "Source 2 was written 50 years later by someone who was not there \u2014 it is a secondary source."
+        },
+        {
+          "id": "d",
+          "label": "Neither source is useful for learning about the past",
+          "correct": false,
+          "explanation": "Both sources are useful for learning about the past \u2014 they just offer different kinds of information."
+        }
+      ],
+      "explanation_md": "Source 1, written by the principal who was present, is a primary source and gives direct firsthand information. Source 2, written 50 years later, is a secondary source."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A class finds an old audio recording of a town mayor's speech from 1955. What type of source is this, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Secondary source \u2014 because audio recordings are not real history",
+          "correct": false,
+          "explanation": "Audio recordings can absolutely be real historical evidence. This one is from 1955, so it is a primary source."
+        },
+        {
+          "id": "b",
+          "label": "Primary source \u2014 because it was recorded at the time of the event by someone who was there",
+          "correct": true,
+          "explanation": "An audio recording of a speech made in 1955 is a primary source \u2014 it captures the actual event as it happened and was created at the time."
+        },
+        {
+          "id": "c",
+          "label": "Secondary source \u2014 because the mayor is not alive today",
+          "correct": false,
+          "explanation": "Whether the person is alive today does not determine the source type. The recording was made when the mayor was alive and speaking \u2014 that makes it a primary source."
+        },
+        {
+          "id": "d",
+          "label": "Neither \u2014 because it is not written down",
+          "correct": false,
+          "explanation": "Sources do not have to be written to be primary or secondary. Audio recordings, photographs, and objects are all valid primary sources."
+        }
+      ],
+      "explanation_md": "An audio recording of a speech made in 1955 is a primary source \u2014 it was created at the time of the event and captures what was actually said."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student has these two sources: (1) a newspaper article from 1935 about a school opening; (2) a biography of the school's first principal written in 2010. She notices the 2010 biography includes facts NOT mentioned in the 1935 newspaper. What is the BEST explanation for this difference?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The 1935 newspaper made up facts",
+          "correct": false,
+          "explanation": "There is no evidence the newspaper made up facts \u2014 it simply reported what was known at the time."
+        },
+        {
+          "id": "b",
+          "label": "The author of the 2010 biography found additional sources and records not in the original newspaper",
+          "correct": true,
+          "explanation": "Secondary sources like biographies use many sources \u2014 letters, records, interviews \u2014 that may not have appeared in a single newspaper article. This is why secondary sources can include more details."
+        },
+        {
+          "id": "c",
+          "label": "The 2010 biography is always more accurate than the 1935 newspaper",
+          "correct": false,
+          "explanation": "'More facts' does not always mean 'more accurate.' The newspaper was a firsthand account; the biography is based on research done later."
+        },
+        {
+          "id": "d",
+          "label": "Primary sources are never as useful as secondary sources",
+          "correct": false,
+          "explanation": "Both types of sources have value. Primary sources give direct evidence; secondary sources provide analysis and broader context."
+        }
+      ],
+      "explanation_md": "The author of the 2010 biography researched many sources \u2014 letters, records, interviews \u2014 that gave additional details beyond what a single 1935 newspaper article included. Secondary sources synthesize many sources to give a fuller picture."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds a letter written by her great-great-grandmother in 1905. What type of source is this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Secondary source",
+          "correct": false,
+          "explanation": "A secondary source is created later by someone not at the event. This letter was written by the great-great-grandmother herself in 1905 \u2014 she was there."
+        },
+        {
+          "id": "b",
+          "label": "Primary source",
+          "correct": true,
+          "explanation": "A letter written by someone in 1905 is a primary source \u2014 she created it at the time and was a direct participant in the events she describes."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 only textbooks are sources",
+          "correct": false,
+          "explanation": "Textbooks are just one type of source. Letters, photographs, and diaries are also sources."
+        },
+        {
+          "id": "d",
+          "label": "Both primary and secondary at the same time",
+          "correct": false,
+          "explanation": "A source is either primary or secondary \u2014 not both. This letter is a primary source."
+        }
+      ],
+      "explanation_md": "A letter written by someone in 1905 is a primary source \u2014 it was created at the time by the person who was there."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST example of a secondary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A photograph of a school from 1920",
+          "correct": false,
+          "explanation": "A photograph taken in 1920 is a primary source \u2014 it was captured at the time."
+        },
+        {
+          "id": "b",
+          "label": "A 2nd grader's journal about what she did yesterday",
+          "correct": false,
+          "explanation": "A journal written about events the same day is a primary source \u2014 the writer is the person who experienced it."
+        },
+        {
+          "id": "c",
+          "label": "A book written this year about life during the Civil War",
+          "correct": true,
+          "explanation": "A book written this year about the Civil War is a secondary source \u2014 the author was not alive during the Civil War and learned about it through research."
+        },
+        {
+          "id": "d",
+          "label": "A ticket stub from a baseball game in 1950",
+          "correct": false,
+          "explanation": "A ticket stub from an actual event in 1950 is a primary source \u2014 it is an artifact from that time."
+        }
+      ],
+      "explanation_md": "A book written this year about the Civil War is a secondary source \u2014 the author was not there and learned about those events through research."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it helpful to use BOTH primary and secondary sources when studying history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because secondary sources are always more accurate than primary sources",
+          "correct": false,
+          "explanation": "Secondary sources are not always more accurate \u2014 primary sources give direct firsthand evidence that is very valuable."
+        },
+        {
+          "id": "b",
+          "label": "Because primary sources show direct evidence from the time, while secondary sources explain and provide context",
+          "correct": true,
+          "explanation": "Using both gives you the best understanding: primary sources show what actually happened at the time; secondary sources explain why it happened and how it fits into history."
+        },
+        {
+          "id": "c",
+          "label": "Because you need both to fill out a school assignment",
+          "correct": false,
+          "explanation": "The value of using both goes beyond school assignments \u2014 they each provide different and complementary types of information."
+        },
+        {
+          "id": "d",
+          "label": "Because primary sources are usually shorter and easier to read",
+          "correct": false,
+          "explanation": "Length and reading ease are not the reasons for using both types \u2014 their different perspectives and information are the reasons."
+        }
+      ],
+      "explanation_md": "Primary sources give direct evidence from the time period; secondary sources explain events and provide context. Using both gives the most complete understanding of history."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who creates a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Someone who was at the event when it happened",
+          "correct": true,
+          "explanation": "A primary source is created by someone who was actually at the event \u2014 like a person writing in their diary about something they experienced."
+        },
+        {
+          "id": "b",
+          "label": "Someone who read about the event in a book",
+          "correct": false,
+          "explanation": "Someone who read about an event and then writes about it is creating a secondary source, not a primary source."
+        },
+        {
+          "id": "c",
+          "label": "A teacher who explains history to students",
+          "correct": false,
+          "explanation": "When a teacher explains history, they are usually using secondary sources \u2014 they were not at the historical events."
+        },
+        {
+          "id": "d",
+          "label": "A student who was born after the event",
+          "correct": false,
+          "explanation": "If a student was born after the event, anything they write about it would be a secondary source \u2014 they were not there."
+        }
+      ],
+      "explanation_md": "A primary source is created by someone who was actually at the event when it happened \u2014 like a person writing in their diary."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the best example of a primary source?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An old photograph of your school from 50 years ago",
+          "correct": true,
+          "explanation": "An old photograph taken 50 years ago is a primary source \u2014 it was created at the time and shows what things actually looked like then."
+        },
+        {
+          "id": "b",
+          "label": "Your social studies textbook",
+          "correct": false,
+          "explanation": "A textbook is a secondary source \u2014 it was written by someone who studied history, not someone who lived it."
+        },
+        {
+          "id": "c",
+          "label": "A story about pretend historical characters",
+          "correct": false,
+          "explanation": "A story about pretend characters is fiction \u2014 it is not a historical source at all."
+        },
+        {
+          "id": "d",
+          "label": "A documentary about the American Revolution made last year",
+          "correct": false,
+          "explanation": "A documentary made last year about the American Revolution is a secondary source \u2014 it was made by people who were not there."
+        }
+      ],
+      "explanation_md": "An old photograph taken at the time is a primary source \u2014 it was created when the event happened and shows what things actually looked like."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A textbook about history is \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A primary source",
+          "correct": false,
+          "explanation": "A textbook is not a primary source \u2014 it is written by someone who studied history, not someone who lived through the events."
+        },
+        {
+          "id": "b",
+          "label": "A secondary source",
+          "correct": true,
+          "explanation": "A textbook is a secondary source \u2014 it is written by someone who learned about events through research and then explained them to others."
+        },
+        {
+          "id": "c",
+          "label": "Not a source at all",
+          "correct": false,
+          "explanation": "A textbook is definitely a source \u2014 it is a secondary source that gives information about historical events."
+        },
+        {
+          "id": "d",
+          "label": "A primary source when it is new",
+          "correct": false,
+          "explanation": "The age of a textbook does not make it a primary source. It is a secondary source regardless of when it was published."
+        }
+      ],
+      "explanation_md": "A textbook is a secondary source \u2014 it is written by someone who studied and learned about events and then explained them to others."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Jamie found an old toy from 1930. What type of source is this toy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Primary source \u2014 it is an object from that time period",
+          "correct": true,
+          "explanation": "An object like a toy from 1930 is a primary source \u2014 it is an artifact that was made and used during that time period."
+        },
+        {
+          "id": "b",
+          "label": "Secondary source \u2014 because it is just a toy",
+          "correct": false,
+          "explanation": "Being a toy does not make something a secondary source. Objects from the past are primary sources."
+        },
+        {
+          "id": "c",
+          "label": "Secondary source \u2014 because we learned about it from a book",
+          "correct": false,
+          "explanation": "Even if you learn about the toy from a book, the toy itself is still a primary source \u2014 it was made during that time."
+        },
+        {
+          "id": "d",
+          "label": "Not a source \u2014 only writing can be a source",
+          "correct": false,
+          "explanation": "Objects, photographs, and recordings can all be primary sources \u2014 sources do not have to be written."
+        }
+      ],
+      "explanation_md": "An old toy from 1930 is a primary source \u2014 it is an artifact (a real object) that was made and used during that time period."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Elise reads a book written in 2020 that explains what life was like for kids in the 1800s. This book is \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A primary source because it is about kids",
+          "correct": false,
+          "explanation": "The topic (kids) does not determine the source type. The key is WHEN it was written and WHETHER the author was there."
+        },
+        {
+          "id": "b",
+          "label": "A secondary source because it was written in 2020 by someone who was not there",
+          "correct": true,
+          "explanation": "A book written in 2020 about the 1800s is a secondary source \u2014 the author was not alive in the 1800s and learned about it through research."
+        },
+        {
+          "id": "c",
+          "label": "A primary source because it is in a library",
+          "correct": false,
+          "explanation": "Where a source is stored does not determine its type. Libraries have both primary and secondary sources."
+        },
+        {
+          "id": "d",
+          "label": "Neither \u2014 books are not sources of history",
+          "correct": false,
+          "explanation": "Books are absolutely sources of history \u2014 this one is a secondary source."
+        }
+      ],
+      "explanation_md": "A book written in 2020 about life in the 1800s is a secondary source \u2014 the author was not alive then and learned about that period through research."
+    }
+  ]
+}
