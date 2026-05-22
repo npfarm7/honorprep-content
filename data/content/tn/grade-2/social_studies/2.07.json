@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.07",
+  "benchmark_description": "Explain the concepts of needs and wants and how communities make economic choices.",
+  "course": "social_studies",
+  "strand": "ECO",
+  "lesson": {
+    "title": "Needs, Wants, and Making Choices",
+    "intro": "Have you ever wanted a new toy but your family said there was not enough money? That is because people must make choices about how to spend money. Let's learn the difference between things we need and things we want!",
+    "body_md": "## Needs\n\n**Needs** are things people must have to live and be healthy.\n\nThe four basic needs:\n1. **Food** — to eat and stay healthy\n2. **Shelter** — a home to stay safe and warm\n3. **Clothing** — to cover our bodies and stay comfortable\n4. **Water** — to drink and stay alive\n\nWithout needs, people cannot survive.\n\n## Wants\n\n**Wants** are things people would like to have but do NOT need to survive.\n\nExamples of wants:\n- A new video game\n- A vacation at the beach\n- A second pair of sneakers\n- A toy or a candy bar\n\n## Needs vs. Wants Chart\n\n| Need | Want |\n|---|---|\n| Food to eat | Pizza from a restaurant |\n| A coat in winter | A brand-new designer coat |\n| Water to drink | A flavored sports drink |\n| A basic house | A mansion with a pool |\n\n> **Important idea:** The same item can be a need OR a want depending on the situation. A coat is a need in winter. But an expensive designer coat when you already have one is a want.\n\n## Scarcity\n\n**Scarcity** means there is not enough of something for everyone who wants it. Time, money, and resources are all scarce.\n\nBecause of scarcity, communities must make **choices** about what to buy or make.\n\n## Making Economic Choices\n\nWhen communities choose how to spend money, they think about:\n- **What do we need most?**\n- **How much money do we have?**\n- **What will help the most people?**\n\n**Example:** A city has money to spend. Citizens must choose:\n- Build a new road\n- Build a new playground\n- Hire more firefighters\n\nThe city council talks about which choice helps the most people. Then they vote.\n\n## Opportunity Cost\n\n**Opportunity cost** is what you give up when you make a choice. If a family uses money to go on vacation, they give up other things they could buy with that money.\n\n**Example:** Maya has $5. She can buy a book OR a snack. She chooses the book. The snack she did not get is her **opportunity cost**.",
+    "worked_example_md": "## Worked Example\n\n**Question:** A community has $10,000 to spend. They can fix potholes in the road OR add new swings to the park. Which is more likely a community **need**, and why?\n\n**Step 1 — Think about needs vs. wants:**\n- Roads are used every day by emergency vehicles, school buses, and workers. Dangerous roads can cause accidents. Road safety is a community **need**.\n- New playground swings are fun and healthy, but they are a **want** — the community can survive without new swings.\n\n**Step 2 — Think about scarcity:**\n- The community only has $10,000. They cannot do both. That is scarcity.\n\n**Step 3 — What is the opportunity cost?**\n- If they fix the road, the opportunity cost is the new swings.\n- If they add swings, the opportunity cost is the fixed road.\n\n**Answer:** Fixing potholes is more likely a community need because road safety affects everyone, including emergency vehicles. The new swings are a want. The opportunity cost of fixing roads is the new playground swings.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **need**?",
+      "choices": [
+        {"id": "a", "label": "A video game", "correct": false, "explanation": "A video game is fun, but it is a want. You do not need it to survive."},
+        {"id": "b", "label": "Water to drink", "correct": true, "explanation": "Water is a basic need. People cannot survive without drinking water."},
+        {"id": "c", "label": "A new bicycle", "correct": false, "explanation": "A bicycle is a want. You may already have another way to get around."},
+        {"id": "d", "label": "A vacation trip", "correct": false, "explanation": "A vacation is a want. It is nice to have but not necessary for survival."}
+      ],
+      "explanation_md": "Water is a basic need. People must have food, water, shelter, and clothing to survive."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **want**?",
+      "choices": [
+        {"id": "a", "label": "A place to sleep at night", "correct": false, "explanation": "Shelter, including a place to sleep, is a basic need."},
+        {"id": "b", "label": "Food to eat", "correct": false, "explanation": "Food is a basic need for survival."},
+        {"id": "c", "label": "A new toy", "correct": true, "explanation": "A new toy is a want. It is fun, but you can survive without it."},
+        {"id": "d", "label": "Clothes to wear", "correct": false, "explanation": "Clothing is a basic need to protect the body."}
+      ],
+      "explanation_md": "A new toy is a want. Wants are things we would like to have but do not need to survive."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Jaylen already has a warm winter coat. He wants to buy a fancier, more expensive one. Is the second coat a need or a want?",
+      "choices": [
+        {"id": "a", "label": "Need, because coats are always a need", "correct": false, "explanation": "A coat is a need when you have no coat. When you already have one, a second coat becomes a want."},
+        {"id": "b", "label": "Want, because he already has a coat that keeps him warm", "correct": true, "explanation": "Since Jaylen already has a warm coat, the second fancier one is a want."},
+        {"id": "c", "label": "Need, because expensive things are always needs", "correct": false, "explanation": "Cost does not determine if something is a need or want. Survival does."},
+        {"id": "d", "label": "Neither need nor want", "correct": false, "explanation": "It fits the definition of a want — something he would like but does not need to survive."}
+      ],
+      "explanation_md": "Jaylen already has a warm coat. The second coat is a want because he can survive with what he has."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is **scarcity**?",
+      "choices": [
+        {"id": "a", "label": "Having more than enough of everything", "correct": false, "explanation": "Scarcity is the opposite — it means not having enough."},
+        {"id": "b", "label": "Not having enough of something for everyone who wants it", "correct": true, "explanation": "Scarcity means limited resources — not enough for everyone. It forces people to make choices."},
+        {"id": "c", "label": "Buying lots of things at a store", "correct": false, "explanation": "Buying many things is not the definition of scarcity."},
+        {"id": "d", "label": "A type of community leader", "correct": false, "explanation": "Scarcity is an economics term, not a type of leader."}
+      ],
+      "explanation_md": "Scarcity means there is not enough of something — money, time, or resources — for everyone who wants it."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A family has $50. They can buy groceries (food) OR a board game. They choose groceries. What is the opportunity cost?",
+      "choices": [
+        {"id": "a", "label": "The groceries they bought", "correct": false, "explanation": "What they bought is not the opportunity cost. The opportunity cost is what they gave up."},
+        {"id": "b", "label": "The board game they did not buy", "correct": true, "explanation": "Opportunity cost is what you give up. The family gave up the board game to buy groceries."},
+        {"id": "c", "label": "The $50 they had", "correct": false, "explanation": "The money spent is not the opportunity cost. The thing they did not choose is the opportunity cost."},
+        {"id": "d", "label": "Going to the grocery store", "correct": false, "explanation": "Going to the grocery store is what they did. The opportunity cost is the board game they chose not to get."}
+      ],
+      "explanation_md": "Opportunity cost is what you give up when you make a choice. The family gave up the board game."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A city must choose to spend money on either a new library OR new police cars. How should city leaders decide?",
+      "choices": [
+        {"id": "a", "label": "Flip a coin to decide randomly", "correct": false, "explanation": "Community leaders use careful thinking about needs, not chance, to make economic choices."},
+        {"id": "b", "label": "Think about what the community needs most and how many people will benefit", "correct": true, "explanation": "Good economic decisions consider what the community needs most and what will help the greatest number of people."},
+        {"id": "c", "label": "Always choose the cheapest option", "correct": false, "explanation": "Cost alone is not the best way to decide. The community's needs should guide the decision."},
+        {"id": "d", "label": "Ask only the mayor to decide alone", "correct": false, "explanation": "Community economic choices involve leaders and citizens, not just one person."}
+      ],
+      "explanation_md": "Community leaders think about what is needed most and what will help the most people."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these BEST shows a community making an economic choice because of scarcity?",
+      "choices": [
+        {"id": "a", "label": "A city buys everything on its wish list with no budget limits", "correct": false, "explanation": "If there are no budget limits, scarcity is not a factor. Real communities have limited money."},
+        {"id": "b", "label": "A town votes on whether to build a new park or fix the old swimming pool because they do not have money for both", "correct": true, "explanation": "The town must choose between two options because of limited money. This is a community economic choice because of scarcity."},
+        {"id": "c", "label": "A family goes shopping and buys everything they want", "correct": false, "explanation": "Buying everything without limits does not involve scarcity."},
+        {"id": "d", "label": "A student gets a free cookie at school", "correct": false, "explanation": "Getting something for free does not involve an economic choice or scarcity."}
+      ],
+      "explanation_md": "When a community cannot afford two things and must choose one, they are making an economic choice because of scarcity."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The four basic **needs** are:",
+      "choices": [
+        {"id": "a", "label": "Toys, games, vacations, and movies", "correct": false, "explanation": "These are all wants, not needs."},
+        {"id": "b", "label": "Food, water, shelter, and clothing", "correct": true, "explanation": "These four things are what people must have to survive."},
+        {"id": "c", "label": "Money, cars, phones, and computers", "correct": false, "explanation": "While money is important in our world, these are not the four basic survival needs."},
+        {"id": "d", "label": "Friends, school, TV, and pets", "correct": false, "explanation": "These are valuable but are not the four basic survival needs."}
+      ],
+      "explanation_md": "The four basic needs are food, water, shelter, and clothing."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student has $10. She can buy a book for school (a need) or a stuffed animal (a want). She buys the book. Which statement is TRUE?",
+      "choices": [
+        {"id": "a", "label": "The stuffed animal is now her opportunity cost", "correct": true, "explanation": "She gave up the stuffed animal to buy the book. The stuffed animal is her opportunity cost."},
+        {"id": "b", "label": "The book is her opportunity cost", "correct": false, "explanation": "She bought the book. The opportunity cost is what she gave up — the stuffed animal."},
+        {"id": "c", "label": "She has no opportunity cost because she made a good choice", "correct": false, "explanation": "Every choice has an opportunity cost, even good choices. She gave up the stuffed animal."},
+        {"id": "d", "label": "Wants are always better choices than needs", "correct": false, "explanation": "Needs are more important for survival. Choosing a need (book for school) over a want is often a wise choice."}
+      ],
+      "explanation_md": "The opportunity cost is the stuffed animal she gave up. Every choice has an opportunity cost."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A community faces a budget shortfall. They must choose between keeping the school cafeteria open or keeping the park open. Which should they MOST LIKELY choose, and why?",
+      "choices": [
+        {"id": "a", "label": "Keep the park open because children need to play", "correct": false, "explanation": "Play is important, but a school cafeteria provides food — a basic need — to children who may depend on it for meals."},
+        {"id": "b", "label": "Keep the school cafeteria open because it provides food, a basic need, to children", "correct": true, "explanation": "Food is a basic need. A cafeteria serves meals to children, many of whom depend on school for nutritious food."},
+        {"id": "c", "label": "Close both to save the most money", "correct": false, "explanation": "Closing both would leave children without food and without recreation. A community tries to keep at least the most critical services."},
+        {"id": "d", "label": "Flip a coin because both are equally important", "correct": false, "explanation": "Needs (food) take priority over wants (park) in economic decision-making."}
+      ],
+      "explanation_md": "Food is a basic need. A school cafeteria provides meals to children who may depend on it. Needs take priority over wants."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the difference between a need and a want?",
+      "choices": [
+        {"id": "a", "label": "Needs cost more; wants cost less", "correct": false, "explanation": "Cost does not determine needs vs. wants. Survival does."},
+        {"id": "b", "label": "Needs are things required to survive; wants are things we would like but can live without", "correct": true, "explanation": "Needs are food, water, shelter, and clothing. Wants are everything else we desire."},
+        {"id": "c", "label": "Wants are always better than needs", "correct": false, "explanation": "Needs are more important for survival. Wants are additional desires."},
+        {"id": "d", "label": "Needs and wants are exactly the same thing", "correct": false, "explanation": "Needs and wants are clearly different. Needs are for survival; wants are desires beyond survival."}
+      ],
+      "explanation_md": "Needs are required to survive (food, water, shelter, clothing). Wants are things we desire but can live without."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is opportunity cost?",
+      "choices": [
+        {"id": "a", "label": "The price of a good at a store", "correct": false, "explanation": "Price is what something costs in money. Opportunity cost is what you give up when you choose."},
+        {"id": "b", "label": "What you give up when you make a choice", "correct": true, "explanation": "Opportunity cost is the next-best option you do not choose when making a decision."},
+        {"id": "c", "label": "The cost of running a community", "correct": false, "explanation": "Community budgets are not what opportunity cost means. It is about individual and community choices."},
+        {"id": "d", "label": "A chance to earn more money", "correct": false, "explanation": "Opportunity cost is not about earning money. It is about what you give up when choosing."}
+      ],
+      "explanation_md": "Opportunity cost is what you give up when you make a choice. If you buy ice cream instead of a book, the book is the opportunity cost."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A town has money for one project: a new water treatment plant or a new movie theater. Which is MOST LIKELY a need for the community?",
+      "choices": [
+        {"id": "a", "label": "The movie theater, because entertainment is important", "correct": false, "explanation": "Entertainment is a want. Clean water is a basic need for survival and health."},
+        {"id": "b", "label": "The water treatment plant, because clean water is a basic need for survival", "correct": true, "explanation": "Clean water is a basic survival need. A movie theater is a want. The water plant should take priority."},
+        {"id": "c", "label": "Neither, because the town should save the money", "correct": false, "explanation": "If clean water is needed, the community must invest in it. Waiting is not a good option when a need is involved."},
+        {"id": "d", "label": "The movie theater, because it costs less to run", "correct": false, "explanation": "Cost is not the main factor. Clean water is a survival need."}
+      ],
+      "explanation_md": "Clean water is a basic need. The water treatment plant helps the community survive. The movie theater is a want."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is something people MUST have to survive?",
+      "choices": [
+        {"id": "a", "label": "A video game", "correct": false, "explanation": "A video game is a want. You can survive without it."},
+        {"id": "b", "label": "Food", "correct": true, "explanation": "Food is a basic need. People cannot survive without food."},
+        {"id": "c", "label": "A fancy dinner at a restaurant", "correct": false, "explanation": "A fancy restaurant meal is a want. Basic food is the need."},
+        {"id": "d", "label": "A swimming pool", "correct": false, "explanation": "A swimming pool is a want. It is not needed for survival."}
+      ],
+      "explanation_md": "Food is a basic need. The four basic needs are food, water, clothing, and shelter."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a WANT?",
+      "choices": [
+        {"id": "a", "label": "Water to drink", "correct": false, "explanation": "Water is a basic need for survival."},
+        {"id": "b", "label": "A coat in cold weather", "correct": false, "explanation": "A coat in cold weather protects you. It is a basic need."},
+        {"id": "c", "label": "A new skateboard", "correct": true, "explanation": "A skateboard is a want. It is fun to have, but you can survive without it."},
+        {"id": "d", "label": "A home to live in", "correct": false, "explanation": "A home (shelter) is a basic need."}
+      ],
+      "explanation_md": "A new skateboard is a want. Wants are things we would like but do not need to survive."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "When there is not enough money or resources for everything people want, this is called:",
+      "choices": [
+        {"id": "a", "label": "Voting", "correct": false, "explanation": "Voting is choosing leaders. Limited resources is called scarcity."},
+        {"id": "b", "label": "Scarcity", "correct": true, "explanation": "Scarcity means not having enough resources for everyone who wants them."},
+        {"id": "c", "label": "Culture", "correct": false, "explanation": "Culture is traditions and celebrations. Scarcity is about limited resources."},
+        {"id": "d", "label": "History", "correct": false, "explanation": "History is the story of what happened over time. Scarcity is about limited resources."}
+      ],
+      "explanation_md": "Scarcity means not having enough of something for everyone who wants it."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Pedro has $10. He can buy a book or a toy. He buys the toy. What was he thinking about?",
+      "choices": [
+        {"id": "a", "label": "He had to make a choice because he could not buy both", "correct": true, "explanation": "Pedro had limited money (scarcity) so he had to choose one item. Making a choice with limited resources is an economic decision."},
+        {"id": "b", "label": "He wanted to spend all his money as fast as possible", "correct": false, "explanation": "The question is about making a choice with limited money, not about spending quickly."},
+        {"id": "c", "label": "He did not care about the book at all", "correct": false, "explanation": "The question does not say Pedro did not like books. He just chose the toy with his limited money."},
+        {"id": "d", "label": "He had unlimited money to spend", "correct": false, "explanation": "Pedro only had $10. That is a limited amount of money."}
+      ],
+      "explanation_md": "Pedro had limited money (scarcity) so he had to choose between two items — a book or a toy."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A family uses their extra money for a vacation instead of buying a new TV. The thing they gave up is called the:",
+      "choices": [
+        {"id": "a", "label": "Need", "correct": false, "explanation": "A need is something required to survive. The TV is a want they gave up."},
+        {"id": "b", "label": "Opportunity cost", "correct": true, "explanation": "The TV is the opportunity cost. It is what the family gave up by choosing the vacation instead."},
+        {"id": "c", "label": "Scarcity", "correct": false, "explanation": "Scarcity is having limited resources. The TV they gave up is the opportunity cost."},
+        {"id": "d", "label": "Culture", "correct": false, "explanation": "Culture is about traditions, not the thing you give up when making a choice."}
+      ],
+      "explanation_md": "The TV is the opportunity cost — what the family gave up when they chose the vacation instead."
+    }
+  ]
+}
