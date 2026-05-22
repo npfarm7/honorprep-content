@@ -1,0 +1,243 @@
+{
+  "skill_id": "MA.2.M.1.1",
+  "benchmark_description": "Estimate and measure the length of an object to the nearest inch, foot, yard, centimeter, or meter by selecting and using an appropriate tool.",
+  "course": "math",
+  "strand": "M",
+  "lesson": {
+    "title": "Measuring Length",
+    "intro": "How long is your pencil? How tall are you? We use tools and units to measure the length of things. Let's learn how!",
+    "body_md": "## Measurement Tools\n- **Ruler:** measures shorter things in inches or centimeters\n- **Yardstick:** measures longer things, 1 yard = 36 inches\n- **Meter stick:** measures longer things, 1 meter = 100 centimeters\n- **Measuring tape:** measures very long or curved things\n\n## Customary Units (used in the U.S.)\n| Unit | About how long? |\n|------|-----------------|\n| inch (in) | width of your thumb |\n| foot (ft) | length of a ruler, 12 inches |\n| yard (yd) | height of a doorknob, 3 feet |\n\n## Metric Units\n| Unit | About how long? |\n|------|-----------------|\n| centimeter (cm) | width of your pinky finger |\n| meter (m) | width of a doorway, 100 cm |\n\n## How to Measure\n1. Line up one end of the object with the zero mark on the ruler.\n2. Read the number where the other end of the object reaches.\n3. Include the unit (in, ft, cm, m).\n\n## Choosing the Right Tool and Unit\n- Short objects (pencil, eraser): use a ruler, measure in inches or centimeters\n- Medium objects (bookshelf, desk): use a ruler or yardstick, measure in feet or meters\n- Long objects (room, hallway): use a yardstick or meter stick, measure in yards or meters\n\n## Estimating\nBefore measuring, ESTIMATE (make a smart guess) using what you know:\n- About 1 inch: the width of your thumb\n- About 1 foot: the length of a sheet of paper\n- About 1 meter: the width of a door",
+    "worked_example_md": "**A pencil is measured with a ruler. The pencil lines up at 0 and reaches to 7. The ruler is in inches. How long is the pencil?**\n\nStep 1: The end reaches the 7 mark.\nStep 2: The ruler is in inches.\n**The pencil is 7 inches long.**\n\n**Estimate first:** A pencil is about as long as your hand. Most hands are 6-8 inches. So 7 inches is a good estimate!",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What tool would you use to measure the length of a crayon?",
+      "choices": [
+        {"id": "a", "label": "A ruler", "correct": true, "explanation": "A ruler is the best tool for small objects like a crayon. A ruler measures in inches or centimeters."},
+        {"id": "b", "label": "A yardstick", "correct": false, "explanation": "A yardstick is 3 feet long, too big for a crayon. Use a ruler for small objects."},
+        {"id": "c", "label": "A meter stick", "correct": false, "explanation": "A meter stick is 100 cm long, too big for a crayon. Use a ruler."},
+        {"id": "d", "label": "A scale", "correct": false, "explanation": "A scale measures weight, not length. Use a ruler to measure a crayon."}
+      ],
+      "explanation_md": "A ruler is best for small objects like a crayon. It measures in inches or centimeters."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is 1 inch?",
+      "choices": [
+        {"id": "a", "label": "The width of a door", "correct": false, "explanation": "A door is about 1 meter (or 3 feet) wide. 1 inch is much smaller."},
+        {"id": "b", "label": "The length of a school bus", "correct": false, "explanation": "A school bus is about 40 feet long. 1 inch is much smaller."},
+        {"id": "c", "label": "The width of your thumb", "correct": true, "explanation": "1 inch is about the width of your thumb. It is a small unit."},
+        {"id": "d", "label": "The length of a classroom", "correct": false, "explanation": "A classroom is about 30 feet long. 1 inch is much smaller."}
+      ],
+      "explanation_md": "1 inch is about the width of your thumb. It is a small unit."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "A pencil is placed on a ruler starting at 0. It reaches the 6-inch mark. How long is the pencil in inches?",
+      "correct_answer": "6",
+      "explanation_md": "The pencil reaches the 6-inch mark. The pencil is 6 inches long."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Sofia measures her bedroom door. Which unit would be BEST?",
+      "choices": [
+        {"id": "a", "label": "inches", "correct": false, "explanation": "A door is about 7 feet tall. Measuring in inches would give a very large number (84 inches). Feet is better."},
+        {"id": "b", "label": "centimeters", "correct": false, "explanation": "A door is about 213 centimeters. Measuring in meters would be easier and more practical."},
+        {"id": "c", "label": "feet", "correct": true, "explanation": "A door is about 7 feet tall. Feet is the best customary unit for a door."},
+        {"id": "d", "label": "miles", "correct": false, "explanation": "Miles are for very long distances, not a door. A door is about 7 feet tall."}
+      ],
+      "explanation_md": "A door is about 7 feet tall. Feet is the best unit for measuring a door."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "About how long is a classroom in meters?",
+      "choices": [
+        {"id": "a", "label": "2 meters", "correct": false, "explanation": "2 meters is about the height of a tall person. A classroom is much longer."},
+        {"id": "b", "label": "10 meters", "correct": true, "explanation": "A typical classroom is about 8-12 meters long. 10 meters is a good estimate."},
+        {"id": "c", "label": "100 meters", "correct": false, "explanation": "100 meters is about the length of a football field. A classroom is much shorter."},
+        {"id": "d", "label": "1,000 meters", "correct": false, "explanation": "1,000 meters = 1 kilometer. That is very long, like walking for 10 minutes."}
+      ],
+      "explanation_md": "A classroom is about 8-12 meters long. 10 meters is a good estimate."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake measures a book and gets 28 centimeters. What is the best estimate for the book's length?",
+      "choices": [
+        {"id": "a", "label": "About 3 centimeters", "correct": false, "explanation": "3 centimeters is very short, about the width of two fingers. The book is 28 cm, much longer."},
+        {"id": "b", "label": "About 30 centimeters", "correct": true, "explanation": "28 centimeters is close to 30 centimeters. About 30 cm is a good estimate."},
+        {"id": "c", "label": "About 1 meter", "correct": false, "explanation": "1 meter = 100 cm. 28 cm is much less than 100 cm."},
+        {"id": "d", "label": "About 3 feet", "correct": false, "explanation": "3 feet = 36 inches = about 90 cm. 28 cm is less than 1 foot (about 30 cm)."}
+      ],
+      "explanation_md": "28 centimeters is close to 30 centimeters. The best estimate is about 30 cm."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Maya estimates that her desk is about 2 feet long. She measures and finds it is 24 inches. Is her estimate reasonable?",
+      "choices": [
+        {"id": "a", "label": "Yes, because 2 feet = 24 inches.", "correct": true, "explanation": "2 feet = 24 inches. Maya's estimate of 2 feet is exactly right!"},
+        {"id": "b", "label": "No, because 2 feet is much more than 24 inches.", "correct": false, "explanation": "2 feet = 24 inches. Maya was exactly right."},
+        {"id": "c", "label": "No, because 2 feet is much less than 24 inches.", "correct": false, "explanation": "2 feet = 24 inches. They are the same. Maya's estimate was correct."},
+        {"id": "d", "label": "You cannot compare feet and inches.", "correct": false, "explanation": "You can compare them. 1 foot = 12 inches, so 2 feet = 24 inches."}
+      ],
+      "explanation_md": "2 feet = 24 inches. Maya's estimate of 2 feet is exactly right."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two students measure the same crayon. Ana says it is 8 cm. Ben says it is 9 cm. Who might be wrong, and why?",
+      "choices": [
+        {"id": "a", "label": "Ana is wrong because crayons are always 9 cm.", "correct": false, "explanation": "Crayon lengths vary. The issue is measurement error. Someone may not have lined up the crayon at 0."},
+        {"id": "b", "label": "One of them did not start at 0, or read the ruler wrong.", "correct": true, "explanation": "If measuring the same object, they should get the same answer. One person may not have aligned the crayon at 0, or may have misread the ruler."},
+        {"id": "c", "label": "Both are right because rulers are not exact.", "correct": false, "explanation": "Rulers are exact. The same object should give the same measurement if measured correctly."},
+        {"id": "d", "label": "Neither can be wrong.", "correct": false, "explanation": "A real object has one true length. One of them made a measurement error."}
+      ],
+      "explanation_md": "The same object should give the same measurement. One student likely did not start at 0, or misread the ruler."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "What is the difference in length between an object that is 45 cm and an object that is 28 cm?",
+      "choices": [
+        {"id": "a", "label": "13 cm", "correct": false, "explanation": "45-28=17, not 13."},
+        {"id": "b", "label": "17 cm", "correct": true, "explanation": "45-28=17. The difference in length is 17 cm."},
+        {"id": "c", "label": "23 cm", "correct": false, "explanation": "45-28=17, not 23."},
+        {"id": "d", "label": "73 cm", "correct": false, "explanation": "73 is 45+28. The question asks for the difference, so subtract."}
+      ],
+      "explanation_md": "45-28=17 cm difference."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A piece of ribbon is 3 feet long. A second piece is 18 inches long. Which piece is longer?",
+      "choices": [
+        {"id": "a", "label": "The first piece (3 feet)", "correct": true, "explanation": "3 feet = 36 inches. 36 inches > 18 inches. The first piece is longer."},
+        {"id": "b", "label": "The second piece (18 inches)", "correct": false, "explanation": "3 feet = 36 inches. 36 > 18. The first piece is longer."},
+        {"id": "c", "label": "They are the same length.", "correct": false, "explanation": "3 feet = 36 inches, not 18 inches. The first piece is twice as long."},
+        {"id": "d", "label": "Cannot compare feet and inches.", "correct": false, "explanation": "1 foot = 12 inches, so 3 feet = 36 inches. Compare: 36 > 18."}
+      ],
+      "explanation_md": "3 feet = 36 inches. 36 > 18. The first piece (3 feet) is longer."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool and unit would you use to measure the length of a playground?",
+      "choices": [
+        {"id": "a", "label": "Ruler, inches", "correct": false, "explanation": "A playground is much too long for a ruler (12 inches). Use a meter stick or yardstick and measure in meters or yards."},
+        {"id": "b", "label": "Meter stick, meters", "correct": true, "explanation": "A playground is about 20-50 meters long. A meter stick and meters are the best choice."},
+        {"id": "c", "label": "Ruler, centimeters", "correct": false, "explanation": "A ruler and centimeters are for small objects. A playground needs a meter stick and meters."},
+        {"id": "d", "label": "Measuring tape, miles", "correct": false, "explanation": "Miles are for very long distances. A playground is about 20-50 meters."}
+      ],
+      "explanation_md": "A playground is large. Use a meter stick and measure in meters."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A rope is 2 yards long. How many feet is that?",
+      "choices": [
+        {"id": "a", "label": "2 feet", "correct": false, "explanation": "2 yards is not 2 feet. 1 yard = 3 feet, so 2 yards = 6 feet."},
+        {"id": "b", "label": "4 feet", "correct": false, "explanation": "1 yard = 3 feet. 2 yards = 2 x 3 = 6 feet, not 4."},
+        {"id": "c", "label": "6 feet", "correct": true, "explanation": "1 yard = 3 feet. 2 yards = 2 x 3 = 6 feet."},
+        {"id": "d", "label": "24 feet", "correct": false, "explanation": "1 yard = 3 feet, not 12. 2 yards = 6 feet."}
+      ],
+      "explanation_md": "1 yard = 3 feet. 2 yards = 6 feet."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A pencil measures 15 cm. A marker measures 20 cm. How many centimeters longer is the marker than the pencil?",
+      "correct_answer": "5",
+      "explanation_md": "20-15=5. The marker is 5 centimeters longer than the pencil."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool measures length?",
+      "choices": [
+        {"id": "a", "label": "A scale", "correct": false, "explanation": "A scale measures weight (how heavy), not length."},
+        {"id": "b", "label": "A clock", "correct": false, "explanation": "A clock measures time, not length."},
+        {"id": "c", "label": "A ruler", "correct": true, "explanation": "A ruler measures length. It has inch or centimeter marks."},
+        {"id": "d", "label": "A thermometer", "correct": false, "explanation": "A thermometer measures temperature, not length."}
+      ],
+      "explanation_md": "A ruler measures length. It shows inches or centimeters."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A paperclip is about 1 inch long. How long is a row of 3 paperclips laid end to end?",
+      "choices": [
+        {"id": "a", "label": "1 inch", "correct": false, "explanation": "1 inch is just one paperclip. Three paperclips end to end = 3 inches."},
+        {"id": "b", "label": "3 inches", "correct": true, "explanation": "3 paperclips, each 1 inch: 1+1+1=3 inches."},
+        {"id": "c", "label": "6 inches", "correct": false, "explanation": "6 inches would be 6 paperclips. Three paperclips = 3 inches."},
+        {"id": "d", "label": "1/3 inch", "correct": false, "explanation": "Three paperclips make a longer row, not shorter. 3 x 1 inch = 3 inches."}
+      ],
+      "explanation_md": "3 paperclips, each 1 inch: 1+1+1=3 inches."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A book is placed on a ruler starting at 0. The other end of the book reaches 12. What is the length of the book?",
+      "choices": [
+        {"id": "a", "label": "12 units", "correct": true, "explanation": "The book reaches the 12 mark. The book is 12 units long (could be 12 inches or 12 cm depending on the ruler)."},
+        {"id": "b", "label": "10 units", "correct": false, "explanation": "The book reaches 12, not 10. The length is 12 units."},
+        {"id": "c", "label": "2 units", "correct": false, "explanation": "2 is not the length. The book starts at 0 and ends at 12, so the length is 12 units."},
+        {"id": "d", "label": "24 units", "correct": false, "explanation": "24 units is double the actual length. The book starts at 0 and ends at 12 = 12 units."}
+      ],
+      "explanation_md": "The book reaches the 12 mark on the ruler. The book is 12 units long."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which unit is best for measuring the length of a pencil?",
+      "choices": [
+        {"id": "a", "label": "Meters", "correct": false, "explanation": "Meters are for longer distances like hallways. A pencil is about 19 centimeters."},
+        {"id": "b", "label": "Yards", "correct": false, "explanation": "Yards are for long distances. A pencil is much shorter than a yard."},
+        {"id": "c", "label": "Inches or centimeters", "correct": true, "explanation": "A pencil is about 7 inches or 19 centimeters. Inches and centimeters are the right units."},
+        {"id": "d", "label": "Miles", "correct": false, "explanation": "Miles are for very long distances. A pencil is less than 1 foot!"}
+      ],
+      "explanation_md": "A pencil is about 7 inches or 19 centimeters. Use inches or centimeters."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Estimate: About how tall is a second-grade student?",
+      "choices": [
+        {"id": "a", "label": "About 3 inches", "correct": false, "explanation": "3 inches is tiny, about the length of a crayon. A second-grade student is much taller."},
+        {"id": "b", "label": "About 4 feet", "correct": true, "explanation": "Most second-grade students are about 3.5 to 4.5 feet tall. 4 feet is a good estimate."},
+        {"id": "c", "label": "About 10 feet", "correct": false, "explanation": "10 feet is very tall, like a basketball hoop. Students are about 4 feet tall."},
+        {"id": "d", "label": "About 1 inch", "correct": false, "explanation": "1 inch is the width of a thumb. A student is about 4 feet tall."}
+      ],
+      "explanation_md": "Most second-grade students are about 4 feet (or about 120 centimeters) tall."
+    }
+  ]
+}
