@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.20",
+  "benchmark_description": "Describe how communities change over time and how some things stay the same, including changes in transportation, communication, and technology.",
+  "course": "social_studies",
+  "strand": "HIS",
+  "lesson": {
+    "title": "How Communities Change Over Time",
+    "intro": "Think about your community \u2014 the buildings, roads, stores, and schools. Did they look the same 100 years ago? Communities are always changing! Some things change a lot, while other things stay the same. Historians study how communities change over time.",
+    "body_md": "## Continuity and Change\n\nHistorians use two big ideas when they study the past:\n\n- **Change** \u2014 things that are different from how they were before\n- **Continuity** \u2014 things that stay the same over time\n\nEven when communities change, some things remain constant \u2014 people still need food, shelter, friends, and communities.\n\n## How Transportation Has Changed\n\nTransportation means how people and goods move from place to place.\n\n| Long Ago | Today |\n|---|---|\n| Walking or riding horses | Cars, trucks, and buses |\n| Horse-drawn wagons | Trains and airplanes |\n| Canoes and rowboats | Motorized boats and ships |\n| Dirt roads and trails | Paved highways and interstates |\n\nIn the 1800s, it took weeks to travel across Tennessee by horse and wagon. Today, you can drive across the state in a few hours.\n\n## How Communication Has Changed\n\nCommunication means how people share information and talk to each other.\n\n| Long Ago | Today |\n|---|---|\n| Letters sent by mail (took days or weeks) | Emails (sent in seconds) |\n| Town criers who called out news | Television and radio |\n| Newspapers printed by hand | Online news and social media |\n| Face-to-face talking only | Phone and video calls |\n\n## How Technology Has Changed Daily Life\n\nTechnology is the use of tools and machines to solve problems and make life easier.\n\n- **Farming**: Farmers once did everything by hand or with horse-powered tools. Today, large machines (tractors, combines) do the heavy work.\n- **Homes**: Many homes once had no electricity, running water, or central heating. Today, most homes have all of these.\n- **Schools**: Students once wrote with quill pens on slate boards. Today, students use computers and printed books.\n- **Stores**: People once grew or made most of what they needed. Today, stores carry goods from around the world.\n\n## What Stays the Same (Continuity)\n\nEven with all this change, many things continue:\n- People still live in communities and need neighbors.\n- Families still gather to celebrate holidays.\n- Schools still teach children to read, write, and learn.\n- Community leaders still make rules to keep people safe.\n- People still care for one another in times of need.\n\n## Tennessee Communities Over Time\n\nTennessee communities have changed greatly over the past 200 years. Nashville grew from a frontier town into a large city. Small farming villages became suburbs with shopping centers. The Great Smoky Mountains region changed from isolated mountain communities to a major tourism destination. Yet Tennesseans still share a love of music, land, and community that has continued for generations.",
+    "worked_example_md": "**Question:** A student is comparing life in a Tennessee town in 1850 to life today. What is ONE way life changed and ONE way it stayed the same?\n\n**Think it through:**\n- Change: In 1850, people traveled by horse and wagon. Today, people travel by car or airplane. Travel is much faster now.\n- Continuity: In 1850 and today, children still go to school to learn reading and math. The need for education has stayed the same.\n\n**Answer:** One thing that changed is transportation \u2014 horses and wagons were replaced by cars and planes. One thing that stayed the same is that children still attend school to learn important skills.",
+    "estimated_minutes": 11
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does \"change\" mean when historians study communities?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Things that are different from how they were before",
+          "correct": true,
+          "explanation": "Change refers to things that are different from the past."
+        },
+        {
+          "id": "b",
+          "label": "Things that have stayed exactly the same",
+          "correct": false,
+          "explanation": "That describes continuity, not change."
+        },
+        {
+          "id": "c",
+          "label": "Things that only happened in the future",
+          "correct": false,
+          "explanation": "Change is about differences between the past and the present."
+        },
+        {
+          "id": "d",
+          "label": "Things that cannot be measured",
+          "correct": false,
+          "explanation": "Change can be observed and measured by comparing past and present."
+        }
+      ],
+      "explanation_md": "**Change** refers to things that are **different from how they were before** \u2014 like how transportation went from horses to cars."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How did people travel long distances in Tennessee before cars were invented?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "By airplane",
+          "correct": false,
+          "explanation": "Airplanes were not available before cars."
+        },
+        {
+          "id": "b",
+          "label": "By horse and wagon",
+          "correct": true,
+          "explanation": "People traveled by horse-drawn wagons and on horseback before cars."
+        },
+        {
+          "id": "c",
+          "label": "By school bus",
+          "correct": false,
+          "explanation": "School buses did not exist before cars."
+        },
+        {
+          "id": "d",
+          "label": "By high-speed train",
+          "correct": false,
+          "explanation": "High-speed trains were not available in early Tennessee."
+        }
+      ],
+      "explanation_md": "Before cars, people in Tennessee traveled by **horse and wagon** or horseback. Journeys that take hours today took weeks then."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is an example of how communication has changed over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People still live in neighborhoods.",
+          "correct": false,
+          "explanation": "That is an example of continuity, not change in communication."
+        },
+        {
+          "id": "b",
+          "label": "Letters that took weeks to arrive are now replaced by emails that arrive in seconds.",
+          "correct": true,
+          "explanation": "Email is a modern form of communication that replaced slow mail."
+        },
+        {
+          "id": "c",
+          "label": "Communities still need leaders to make rules.",
+          "correct": false,
+          "explanation": "That is about government, not communication change."
+        },
+        {
+          "id": "d",
+          "label": "Children still go to school.",
+          "correct": false,
+          "explanation": "That is an example of continuity."
+        }
+      ],
+      "explanation_md": "Communication has changed: letters that took **days or weeks** to arrive have been replaced by **emails that arrive in seconds**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does \"continuity\" mean when studying history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Things that are always changing and never the same",
+          "correct": false,
+          "explanation": "That describes change, not continuity."
+        },
+        {
+          "id": "b",
+          "label": "Things that stay the same over time",
+          "correct": true,
+          "explanation": "Continuity describes what remains constant across time."
+        },
+        {
+          "id": "c",
+          "label": "Things that were invented in the past 10 years",
+          "correct": false,
+          "explanation": "Recent inventions are examples of change, not continuity."
+        },
+        {
+          "id": "d",
+          "label": "Things that only happened in ancient civilizations",
+          "correct": false,
+          "explanation": "Continuity is about what continues across all time periods."
+        }
+      ],
+      "explanation_md": "**Continuity** means things that **stay the same over time** \u2014 like how communities have always needed schools and leaders."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the 1800s, Tennessee farmers used horses to plow their fields. Today, farmers use large tractors. What does this change show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Farmers no longer need to grow food.",
+          "correct": false,
+          "explanation": "Farmers still grow food \u2014 technology just changed how they do it."
+        },
+        {
+          "id": "b",
+          "label": "Technology has changed how farming is done.",
+          "correct": true,
+          "explanation": "The shift from horses to tractors shows how technology changes over time."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee is no longer a farming state.",
+          "correct": false,
+          "explanation": "Tennessee still has many farms \u2014 this example is about how farming methods changed."
+        },
+        {
+          "id": "d",
+          "label": "Horses are no longer allowed on farms.",
+          "correct": false,
+          "explanation": "Horses can still be on farms; tractors are just more common for plowing."
+        }
+      ],
+      "explanation_md": "Using tractors instead of horses shows that **technology has changed how farming is done** \u2014 making work faster and more efficient."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is an example of CONTINUITY in a Tennessee community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A dirt road was replaced by a paved highway.",
+          "correct": false,
+          "explanation": "That is an example of change, not continuity."
+        },
+        {
+          "id": "b",
+          "label": "A new shopping mall was built where farmland used to be.",
+          "correct": false,
+          "explanation": "That is an example of change."
+        },
+        {
+          "id": "c",
+          "label": "Families gather for Thanksgiving just as they did 100 years ago.",
+          "correct": true,
+          "explanation": "Families still celebrate Thanksgiving together \u2014 this tradition continues."
+        },
+        {
+          "id": "d",
+          "label": "A town newspaper switched to online publishing.",
+          "correct": false,
+          "explanation": "That is an example of change in communication technology."
+        }
+      ],
+      "explanation_md": "**Continuity** is shown when **families gather for Thanksgiving** just as they did 100 years ago \u2014 some traditions stay the same across generations."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads that Nashville was once a small frontier town and is now a large city. What BEST explains this change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nashville was moved to a different location.",
+          "correct": false,
+          "explanation": "Cities do not move \u2014 Nashville is in the same place."
+        },
+        {
+          "id": "b",
+          "label": "Over many years, more people moved there, businesses grew, and the city expanded.",
+          "correct": true,
+          "explanation": "Communities grow as population increases and development expands."
+        },
+        {
+          "id": "c",
+          "label": "The government decided to make Nashville bigger overnight.",
+          "correct": false,
+          "explanation": "Cities grow gradually over many years, not overnight by decision."
+        },
+        {
+          "id": "d",
+          "label": "Nashville was built by people from a different country.",
+          "correct": false,
+          "explanation": "Nashville's growth was a result of population and economic growth over time."
+        }
+      ],
+      "explanation_md": "Nashville grew from a small town to a large city because **more people moved there, businesses expanded, and the area developed** over many decades."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How has technology changed the way students learn in school?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Students today no longer need teachers.",
+          "correct": false,
+          "explanation": "Technology helps learning but does not replace teachers."
+        },
+        {
+          "id": "b",
+          "label": "Students today use computers and printed books instead of quill pens and slate boards.",
+          "correct": true,
+          "explanation": "Technology transformed classroom tools from quill pens to computers."
+        },
+        {
+          "id": "c",
+          "label": "Students today only learn at home, not in school buildings.",
+          "correct": false,
+          "explanation": "Most students still attend school in buildings, though tools have changed."
+        },
+        {
+          "id": "d",
+          "label": "Students today are taught by robots instead of teachers.",
+          "correct": false,
+          "explanation": "Teachers still lead classrooms \u2014 technology is a tool, not a replacement."
+        }
+      ],
+      "explanation_md": "Technology changed how students learn: they now use **computers and printed books** instead of quill pens and slate boards that were used long ago."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for historians to study BOTH change AND continuity in a community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because only change tells us what happened in the past.",
+          "correct": false,
+          "explanation": "Continuity is also important for understanding the past and present."
+        },
+        {
+          "id": "b",
+          "label": "Because understanding what changed and what stayed the same gives a complete picture of history.",
+          "correct": true,
+          "explanation": "Studying both gives a fuller understanding of how communities evolve."
+        },
+        {
+          "id": "c",
+          "label": "Because continuity is more important than change for historians.",
+          "correct": false,
+          "explanation": "Neither is more important \u2014 both are necessary for a complete view."
+        },
+        {
+          "id": "d",
+          "label": "Because historians only care about the most recent changes.",
+          "correct": false,
+          "explanation": "Historians study all time periods, not just recent events."
+        }
+      ],
+      "explanation_md": "Historians study both change and continuity because **understanding what changed and what stayed the same gives a complete picture** of how communities developed over time."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A community historian says, \"Technology has changed how people live, but the need for community has stayed the same.\" What does this statement mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Technology is more important than people in a community.",
+          "correct": false,
+          "explanation": "The historian is emphasizing the opposite \u2014 people and community remain important."
+        },
+        {
+          "id": "b",
+          "label": "Even as tools and machines improve life, people still depend on each other and need to live together.",
+          "correct": true,
+          "explanation": "This statement shows both change (technology) and continuity (human need for community)."
+        },
+        {
+          "id": "c",
+          "label": "Historians believe communities should stop using new technology.",
+          "correct": false,
+          "explanation": "Historians observe change \u2014 they don't tell people to stop using technology."
+        },
+        {
+          "id": "d",
+          "label": "Community is a new idea that started with modern technology.",
+          "correct": false,
+          "explanation": "Communities have existed throughout all of human history \u2014 long before modern technology."
+        }
+      ],
+      "explanation_md": "The historian means that while **technology has changed** how people live and work, the fundamental human **need for community** \u2014 to live and work together \u2014 has **stayed the same** throughout history."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these shows how a community's communication has CHANGED over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People still need to share information with each other.",
+          "correct": false,
+          "explanation": "That is continuity, not change."
+        },
+        {
+          "id": "b",
+          "label": "News that used to be spread by town criers is now shared on television and the internet.",
+          "correct": true,
+          "explanation": "Town criers to TV and internet shows how communication changed."
+        },
+        {
+          "id": "c",
+          "label": "Communities still need leaders to make decisions.",
+          "correct": false,
+          "explanation": "That is continuity."
+        },
+        {
+          "id": "d",
+          "label": "Families still celebrate holidays together.",
+          "correct": false,
+          "explanation": "That is an example of continuity."
+        }
+      ],
+      "explanation_md": "Communication changed when **town criers were replaced by television, radio, and the internet** for spreading news to the community."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student compares a photo of a Tennessee town from 1900 with a photo from today. She notices paved roads, cars, and large buildings today, but also sees a school in both photos. What does the school represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Change \u2014 the school is newer now.",
+          "correct": false,
+          "explanation": "The presence of a school in both photos shows what continues across time."
+        },
+        {
+          "id": "b",
+          "label": "Continuity \u2014 schools have been part of the community in both time periods.",
+          "correct": true,
+          "explanation": "Schools in both photos show that education has remained a constant part of the community."
+        },
+        {
+          "id": "c",
+          "label": "Change \u2014 schools did not exist in 1900.",
+          "correct": false,
+          "explanation": "Schools existed in 1900 \u2014 the student can see one in the old photo."
+        },
+        {
+          "id": "d",
+          "label": "Continuity \u2014 roads have always been paved.",
+          "correct": false,
+          "explanation": "Paved roads are an example of change, not continuity."
+        }
+      ],
+      "explanation_md": "The school appearing in **both photos** represents **continuity** \u2014 schools have been a constant part of the community across different time periods."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How do changes in transportation affect a community over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Better transportation means people no longer need communities.",
+          "correct": false,
+          "explanation": "Better transportation makes communities better connected, not unnecessary."
+        },
+        {
+          "id": "b",
+          "label": "Better transportation allows goods, people, and ideas to move more quickly, helping communities grow and connect.",
+          "correct": true,
+          "explanation": "Improved transportation expands what communities can do and who they can connect with."
+        },
+        {
+          "id": "c",
+          "label": "Faster transportation makes communities smaller over time.",
+          "correct": false,
+          "explanation": "Better transportation typically helps communities grow by connecting them to more people and places."
+        },
+        {
+          "id": "d",
+          "label": "Transportation changes only affect rural communities.",
+          "correct": false,
+          "explanation": "Transportation changes affect all types of communities \u2014 urban, suburban, and rural."
+        }
+      ],
+      "explanation_md": "Better transportation allows **goods, people, and ideas to move faster**, which helps communities **grow and connect** with other communities over time."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago, people sent news by letter. Today, people send news by \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "horse messenger",
+          "correct": false,
+          "explanation": "Horse messengers are from the past \u2014 they were used before modern communication."
+        },
+        {
+          "id": "b",
+          "label": "email or phone",
+          "correct": true,
+          "explanation": "Today, people send messages instantly by email or phone."
+        },
+        {
+          "id": "c",
+          "label": "town crier",
+          "correct": false,
+          "explanation": "Town criers were used long ago \u2014 not today."
+        },
+        {
+          "id": "d",
+          "label": "smoke signal",
+          "correct": false,
+          "explanation": "Smoke signals were used by some groups long ago \u2014 not today."
+        }
+      ],
+      "explanation_md": "Today, people send messages by **email or phone** \u2014 much faster than letters used long ago."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of how transportation has changed?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People used to ride horses; now they drive cars.",
+          "correct": true,
+          "explanation": "Cars replaced horses as the main way people travel on land."
+        },
+        {
+          "id": "b",
+          "label": "People still need to eat food.",
+          "correct": false,
+          "explanation": "That is an example of continuity, not a change in transportation."
+        },
+        {
+          "id": "c",
+          "label": "Schools are still in communities.",
+          "correct": false,
+          "explanation": "That is continuity, not transportation change."
+        },
+        {
+          "id": "d",
+          "label": "Families still gather for holidays.",
+          "correct": false,
+          "explanation": "That is continuity, not transportation change."
+        }
+      ],
+      "explanation_md": "Transportation has changed: **people used to ride horses; now they drive cars**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these has stayed the SAME in Tennessee communities for many years?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The types of cars people drive",
+          "correct": false,
+          "explanation": "Car models change every year \u2014 this is an example of change."
+        },
+        {
+          "id": "b",
+          "label": "Children going to school to learn",
+          "correct": true,
+          "explanation": "Children have attended school for generations \u2014 this is continuity."
+        },
+        {
+          "id": "c",
+          "label": "The way people communicate",
+          "correct": false,
+          "explanation": "Communication technology has changed greatly over time."
+        },
+        {
+          "id": "d",
+          "label": "The number of roads in each town",
+          "correct": false,
+          "explanation": "Towns have added more roads as they grew \u2014 this is an example of change."
+        }
+      ],
+      "explanation_md": "**Children going to school to learn** has stayed the same for many generations \u2014 it is an example of continuity in communities."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A new highway was built where a dirt road used to be. This is an example of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "continuity",
+          "correct": false,
+          "explanation": "Continuity is when something stays the same \u2014 this is a change."
+        },
+        {
+          "id": "b",
+          "label": "change",
+          "correct": true,
+          "explanation": "The road changed from dirt to paved highway \u2014 that is change."
+        },
+        {
+          "id": "c",
+          "label": "a national holiday",
+          "correct": false,
+          "explanation": "Building a road is not a national holiday."
+        },
+        {
+          "id": "d",
+          "label": "a community rule",
+          "correct": false,
+          "explanation": "Building a road is a change in the community, not a rule."
+        }
+      ],
+      "explanation_md": "Building a highway where a dirt road used to be is an example of **change** \u2014 the road improved over time."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Farmers in Tennessee 200 years ago used horses to plow fields. What is the modern tool that replaced horse-drawn plows?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Bicycle",
+          "correct": false,
+          "explanation": "Bicycles are not farming tools."
+        },
+        {
+          "id": "b",
+          "label": "Tractor",
+          "correct": true,
+          "explanation": "Tractors replaced horses for plowing and other heavy farm work."
+        },
+        {
+          "id": "c",
+          "label": "Telephone",
+          "correct": false,
+          "explanation": "Telephones are communication tools, not farming tools."
+        },
+        {
+          "id": "d",
+          "label": "Computer",
+          "correct": false,
+          "explanation": "Computers help with some farm tasks but did not replace the horse-drawn plow."
+        }
+      ],
+      "explanation_md": "**Tractors** replaced horse-drawn plows on modern farms. This shows how technology changed farming over time."
+    }
+  ]
+}
