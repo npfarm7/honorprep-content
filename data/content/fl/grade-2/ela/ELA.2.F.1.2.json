@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.F.1.2",
+  "benchmark_description": "Know and apply grade-level phonics and word analysis skills: decode regularly spelled two-syllable words with long vowels, common vowel teams, and other vowel patterns.",
+  "course": "ela",
+  "strand": "F",
+  "lesson": {
+    "title": "Decoding Two-Syllable Words",
+    "intro": "Some words have two parts called syllables. When you know how vowels work, you can decode \u2014 or sound out \u2014 even long words. Let's learn how!",
+    "body_md": "## What Is a Syllable?\n\nA **syllable** is a word chunk with one vowel sound. Clap your hands for each syllable in *rabbit*: rab-bit \u2014 **2 claps, 2 syllables!**\n\n## Long Vowel Patterns\n\n| Pattern | Rule | Example |\n|---|---|---|\n| VCe (vowel-consonant-e) | Final e makes vowel long | *cane*, *hope* |\n| Vowel team | Two vowels together = long sound | *rain*, *read*, *boat* |\n| Open syllable | Syllable ends in a vowel | *ba-by*, *mu-sic* |\n\n## Common Vowel Teams\n\n- **ai / ay** \u2192 long /a/ \u2014 *rain*, *play*\n- **ea / ee** \u2192 long /e/ \u2014 *team*, *tree*\n- **oa / ow** \u2192 long /o/ \u2014 *boat*, *snow*\n- **ue / ui** \u2192 long /u/ or /oo/ \u2014 *blue*, *fruit*\n\n## Decoding Strategy: Split Then Read\n\n1. Find the vowels in the word.\n2. Decide where to split the word into syllables.\n3. Read each syllable.\n4. Blend them together.\n\n**Example:** *napkin* \u2192 nap | kin \u2192 /nap/ + /kin/ = *napkin*\n\n**Example with vowel team:** *raindrop* \u2192 rain | drop \u2192 /rain/ + /drop/ = *raindrop*",
+    "worked_example_md": "**Word to decode:** *sunshine*\n\n**Step 1:** Find the vowels. The vowels are **u** and **i** (and silent **e**).\n\n**Step 2:** Split into syllables: **sun** | **shine**\n\n**Step 3:** Read each syllable.\n- *sun* \u2014 short /u/, ends in consonant\n- *shine* \u2014 long /i/, VCe pattern (i + n + silent e)\n\n**Step 4:** Blend: /sun/ + /shine/ = **sunshine**",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a **long /a/** sound spelled with a vowel team?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "pan",
+          "correct": false,
+          "explanation": "*Pan* has a short /a/ sound \u2014 no vowel team."
+        },
+        {
+          "id": "b",
+          "label": "rain",
+          "correct": true,
+          "explanation": "Yes! *Rain* uses the **ai** vowel team to make the long /a/ sound."
+        },
+        {
+          "id": "c",
+          "label": "rag",
+          "correct": false,
+          "explanation": "*Rag* has a short /a/ \u2014 just one vowel with consonants around it."
+        },
+        {
+          "id": "d",
+          "label": "rat",
+          "correct": false,
+          "explanation": "*Rat* has a short /a/ \u2014 no vowel team here."
+        }
+      ],
+      "explanation_md": "The **ai** in *rain* is a vowel team that makes the long /a/ sound."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many syllables does **robot** have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1",
+          "correct": false,
+          "explanation": "*Robot* has two vowel sounds, so it has two syllables."
+        },
+        {
+          "id": "b",
+          "label": "2",
+          "correct": true,
+          "explanation": "Correct! ro-bot = 2 syllables."
+        },
+        {
+          "id": "c",
+          "label": "3",
+          "correct": false,
+          "explanation": "Too many \u2014 clap it out: ro-bot = 2 claps."
+        },
+        {
+          "id": "d",
+          "label": "4",
+          "correct": false,
+          "explanation": "Way too many. Ro-bot has only 2 syllables."
+        }
+      ],
+      "explanation_md": "*Robot* splits into ro | bot \u2014 2 syllables."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In the word **cake**, what makes the vowel **a** say its long sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The letter c at the start",
+          "correct": false,
+          "explanation": "The letter c does not control the vowel sound."
+        },
+        {
+          "id": "b",
+          "label": "The silent e at the end",
+          "correct": true,
+          "explanation": "Yes! The VCe pattern (a + k + silent e) makes the /a/ say its long name."
+        },
+        {
+          "id": "c",
+          "label": "The letter k in the middle",
+          "correct": false,
+          "explanation": "The consonant k does not make the vowel long."
+        },
+        {
+          "id": "d",
+          "label": "Nothing \u2014 a is always long",
+          "correct": false,
+          "explanation": "The vowel /a/ is short in words like *cat* and *fan* \u2014 it needs a pattern to be long."
+        }
+      ],
+      "explanation_md": "VCe pattern: vowel + consonant + silent e makes the vowel long. *Cake* = c + **a** + k + **e** (silent)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is split into syllables **correctly**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "sno-wman",
+          "correct": false,
+          "explanation": "Snowman splits as snow-man, not sno-wman. Keep the vowel team **ow** together."
+        },
+        {
+          "id": "b",
+          "label": "snow-man",
+          "correct": true,
+          "explanation": "Yes! Keep the vowel team *ow* together: snow | man."
+        },
+        {
+          "id": "c",
+          "label": "s-nowman",
+          "correct": false,
+          "explanation": "Never split just one letter off. That is not a real syllable."
+        },
+        {
+          "id": "d",
+          "label": "snowm-an",
+          "correct": false,
+          "explanation": "*Snowm* is not a real syllable. Vowel teams must stay together."
+        }
+      ],
+      "explanation_md": "Vowel teams like **ow** stay together. *Snowman* = snow | man."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Decode the word **rainbow**. What are its two syllables?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "rai-nbow",
+          "correct": false,
+          "explanation": "The **ai** vowel team must stay together. Never split it."
+        },
+        {
+          "id": "b",
+          "label": "rain-bow",
+          "correct": true,
+          "explanation": "Correct! rain | bow \u2014 both syllables have vowel teams (ai and ow)."
+        },
+        {
+          "id": "c",
+          "label": "ra-inbow",
+          "correct": false,
+          "explanation": "Do not split the **ai** vowel team."
+        },
+        {
+          "id": "d",
+          "label": "rainb-ow",
+          "correct": false,
+          "explanation": "*Rainb* is not a real syllable. The ow team must stay in the second syllable."
+        }
+      ],
+      "explanation_md": "*Rainbow* = rain | bow. Both syllables have vowel teams: ai (long /a/) and ow (long /o/)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word uses an **open syllable** to make a long vowel sound? (Hint: an open syllable ends in a vowel.)",
+      "choices": [
+        {
+          "id": "a",
+          "label": "rabbit",
+          "correct": false,
+          "explanation": "*Rabbit* = rab-bit. Both syllables end in consonants \u2014 both are closed syllables."
+        },
+        {
+          "id": "b",
+          "label": "basket",
+          "correct": false,
+          "explanation": "*Basket* = bas-ket. Both syllables end in consonants."
+        },
+        {
+          "id": "c",
+          "label": "baby",
+          "correct": true,
+          "explanation": "Yes! *Baby* = ba-by. The first syllable *ba* ends in the vowel a \u2014 an open syllable with long /a/."
+        },
+        {
+          "id": "d",
+          "label": "mitten",
+          "correct": false,
+          "explanation": "*Mitten* = mit-ten. Both syllables end in consonants \u2014 closed syllables."
+        }
+      ],
+      "explanation_md": "*Baby* = ba | by. The syllable *ba* ends in a vowel \u2014 that is an open syllable, so /a/ is long."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this word: **treetop**. Which vowel team do you see?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "tr",
+          "correct": false,
+          "explanation": "*tr* is a consonant blend, not a vowel team."
+        },
+        {
+          "id": "b",
+          "label": "ee",
+          "correct": true,
+          "explanation": "Yes! The vowel team **ee** in *tree* makes the long /e/ sound."
+        },
+        {
+          "id": "c",
+          "label": "op",
+          "correct": false,
+          "explanation": "*op* has only one vowel followed by a consonant \u2014 not a vowel team."
+        },
+        {
+          "id": "d",
+          "label": "to",
+          "correct": false,
+          "explanation": "*to* is not a vowel team \u2014 it contains a consonant (t) and a vowel (o)."
+        }
+      ],
+      "explanation_md": "In *treetop*, the vowel team **ee** makes the long /e/ sound in the syllable *tree*."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which two-syllable word has a **long /o/** vowel team?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "fossil",
+          "correct": false,
+          "explanation": "*Fossil* has a short /o/ in the first syllable \u2014 no vowel team."
+        },
+        {
+          "id": "b",
+          "label": "lotion",
+          "correct": true,
+          "explanation": "Yes! *Lotion* = lo-tion. The open syllable *lo* gives long /o/, and the pattern continues."
+        },
+        {
+          "id": "c",
+          "label": "robin",
+          "correct": false,
+          "explanation": "*Robin* has a short /o/ \u2014 no vowel team."
+        },
+        {
+          "id": "d",
+          "label": "bottom",
+          "correct": false,
+          "explanation": "*Bottom* has a short /o/ \u2014 no vowel team."
+        }
+      ],
+      "explanation_md": "*Lotion* has a long /o/ in the first open syllable *lo*."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Decode the word **complaint**. How many syllables does it have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2",
+          "correct": true,
+          "explanation": "Yes! com-plaint = 2 syllables. The **ai** vowel team stays together in the second syllable."
+        },
+        {
+          "id": "b",
+          "label": "3",
+          "correct": false,
+          "explanation": "Say it with claps: com-plaint \u2014 only 2 claps."
+        },
+        {
+          "id": "c",
+          "label": "4",
+          "correct": false,
+          "explanation": "Too many. *Complaint* has just 2 syllables."
+        },
+        {
+          "id": "d",
+          "label": "1",
+          "correct": false,
+          "explanation": "Too few. *Complaint* has two vowel sounds \u2014 2 syllables."
+        }
+      ],
+      "explanation_md": "*Complaint* = com | plaint \u2014 2 syllables. The **ai** team is in the second syllable."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads the word **explain** as *ex-plan*. What mistake did the student make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The student skipped the first syllable",
+          "correct": false,
+          "explanation": "The student said *ex* correctly \u2014 the first syllable is fine."
+        },
+        {
+          "id": "b",
+          "label": "The student did not keep the ai vowel team together",
+          "correct": true,
+          "explanation": "The **ai** team in *explain* makes the long /a/ sound. Splitting it gives *plan* instead of *plain*."
+        },
+        {
+          "id": "c",
+          "label": "The student used the wrong consonant blend",
+          "correct": false,
+          "explanation": "*Expl-* is the same blend \u2014 the error is in the vowel, not the consonants."
+        },
+        {
+          "id": "d",
+          "label": "The student read too fast",
+          "correct": false,
+          "explanation": "Speed is not the issue \u2014 the vowel team was split incorrectly."
+        }
+      ],
+      "explanation_md": "*Explain* = ex | plain. The **ai** vowel team must stay together to produce the long /a/. Reading *plan* instead of *plain* means the student missed the vowel team."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word contains a vowel team that makes a long /e/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "tent",
+          "correct": false,
+          "explanation": "*Tent* has a short /e/ \u2014 only one vowel in that syllable."
+        },
+        {
+          "id": "b",
+          "label": "steam",
+          "correct": true,
+          "explanation": "Yes! The **ea** vowel team in *steam* makes the long /e/ sound."
+        },
+        {
+          "id": "c",
+          "label": "bell",
+          "correct": false,
+          "explanation": "*Bell* has a short /e/ and no vowel team."
+        },
+        {
+          "id": "d",
+          "label": "sled",
+          "correct": false,
+          "explanation": "*Sled* has a short /e/ \u2014 only one vowel."
+        }
+      ],
+      "explanation_md": "The **ea** team in *steam* produces the long /e/ sound."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees the word **moonlight**. She splits it: moon | light. Then she reads *moon* (long /oo/) and *light* (long /i/ + silent gh). Is she right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No \u2014 she should split it mo-onlight",
+          "correct": false,
+          "explanation": "Never split the **oo** vowel team. *moon-light* is correct."
+        },
+        {
+          "id": "b",
+          "label": "Yes \u2014 her split and her vowel sounds are both correct",
+          "correct": true,
+          "explanation": "Correct! moon = **oo** vowel team (long /oo/); light = igh pattern (long /i/)."
+        },
+        {
+          "id": "c",
+          "label": "No \u2014 oo makes a short /o/ sound",
+          "correct": false,
+          "explanation": "The **oo** team typically makes the /oo/ sound as in *moon* \u2014 not a short /o/."
+        },
+        {
+          "id": "d",
+          "label": "No \u2014 light has a short /i/ sound",
+          "correct": false,
+          "explanation": "The **igh** pattern makes a long /i/ sound in *light*."
+        }
+      ],
+      "explanation_md": "*Moonlight* = moon | light. **oo** = long /oo/; **igh** = long /i/. Both syllables are read correctly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word follows the VCe pattern (vowel + consonant + silent e)?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "mitt",
+          "correct": false,
+          "explanation": "*Mitt* ends in a double consonant, not silent e. The vowel is short."
+        },
+        {
+          "id": "b",
+          "label": "plane",
+          "correct": true,
+          "explanation": "Yes! *Plane* = p + l + **a** (vowel) + n (consonant) + **e** (silent) \u2192 long /a/."
+        },
+        {
+          "id": "c",
+          "label": "plan",
+          "correct": false,
+          "explanation": "*Plan* ends in a consonant with no silent e, so /a/ is short."
+        },
+        {
+          "id": "d",
+          "label": "plann",
+          "correct": false,
+          "explanation": "*Plann* is not a real word and has no silent e."
+        }
+      ],
+      "explanation_md": "*Plane* = pl + **a** + n + silent **e** \u2014 VCe pattern, long /a/."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a **long /a/** sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cat",
+          "correct": false,
+          "explanation": "*Cat* has a short /a/ sound."
+        },
+        {
+          "id": "b",
+          "label": "cake",
+          "correct": true,
+          "explanation": "Yes! *Cake* has a long /a/ because of the silent e at the end."
+        },
+        {
+          "id": "c",
+          "label": "cap",
+          "correct": false,
+          "explanation": "*Cap* has a short /a/ \u2014 no silent e."
+        },
+        {
+          "id": "d",
+          "label": "can",
+          "correct": false,
+          "explanation": "*Can* has a short /a/ \u2014 no silent e."
+        }
+      ],
+      "explanation_md": "*Cake* uses VCe to make the long /a/ sound."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Clap the syllables in **kitten**. How many syllables does it have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1",
+          "correct": false,
+          "explanation": "Try clapping as you say it: kit-ten."
+        },
+        {
+          "id": "b",
+          "label": "2",
+          "correct": true,
+          "explanation": "Right! kit-ten = 2 claps = 2 syllables."
+        },
+        {
+          "id": "c",
+          "label": "3",
+          "correct": false,
+          "explanation": "Too many. Clap only when you hear a new vowel sound."
+        },
+        {
+          "id": "d",
+          "label": "4",
+          "correct": false,
+          "explanation": "Way too many. *Kitten* has just 2 syllables."
+        }
+      ],
+      "explanation_md": "*Kitten* = kit | ten \u2014 2 syllables."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which two letters are a **vowel team** that makes a long /e/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bl",
+          "correct": false,
+          "explanation": "*bl* is a consonant blend \u2014 no vowels at all."
+        },
+        {
+          "id": "b",
+          "label": "ee",
+          "correct": true,
+          "explanation": "Yes! **ee** is a vowel team that makes the long /e/ sound, like in *tree*."
+        },
+        {
+          "id": "c",
+          "label": "nt",
+          "correct": false,
+          "explanation": "*nt* has no vowels \u2014 it is a consonant cluster."
+        },
+        {
+          "id": "d",
+          "label": "st",
+          "correct": false,
+          "explanation": "*st* is a consonant blend."
+        }
+      ],
+      "explanation_md": "**ee** is a vowel team making the long /e/ sound \u2014 *tree*, *bee*, *see*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does the silent **e** do in the word **hope**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It makes the /h/ sound different",
+          "correct": false,
+          "explanation": "Silent e does not change consonant sounds."
+        },
+        {
+          "id": "b",
+          "label": "It makes the vowel o say its long name",
+          "correct": true,
+          "explanation": "Yes! Silent e at the end of *hope* makes the /o/ long: /h\u014dp/."
+        },
+        {
+          "id": "c",
+          "label": "It adds a new syllable",
+          "correct": false,
+          "explanation": "Silent e does not add a syllable \u2014 it is silent."
+        },
+        {
+          "id": "d",
+          "label": "Nothing \u2014 it is just decoration",
+          "correct": false,
+          "explanation": "Silent e has a job \u2014 it makes the vowel before it long."
+        }
+      ],
+      "explanation_md": "Silent e in *hope* makes the /o/ say its long name: /h\u014dp/."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the word **boat**. Which vowel team is in this word?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bo",
+          "correct": false,
+          "explanation": "*bo* contains a consonant (b) and a vowel (o) \u2014 not a vowel team."
+        },
+        {
+          "id": "b",
+          "label": "at",
+          "correct": false,
+          "explanation": "*at* has one vowel and a consonant \u2014 not a vowel team."
+        },
+        {
+          "id": "c",
+          "label": "oa",
+          "correct": true,
+          "explanation": "Yes! **oa** is the vowel team in *boat*. It makes the long /o/ sound."
+        },
+        {
+          "id": "d",
+          "label": "bt",
+          "correct": false,
+          "explanation": "*bt* is two consonants \u2014 no vowels at all."
+        }
+      ],
+      "explanation_md": "The **oa** vowel team in *boat* makes the long /o/ sound."
+    }
+  ]
+}
