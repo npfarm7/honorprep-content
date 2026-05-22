@@ -1,0 +1,613 @@
+{
+  "skill_id": "L.2.2",
+  "benchmark_description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing, including capitalizing holidays, product names, and geographic names; using commas in greetings and closings; using apostrophes for contractions and possessives; and generalized spelling patterns.",
+  "course": "ela",
+  "strand": "L",
+  "lesson": {
+    "title": "Capitals, Commas, Apostrophes, and Spelling Rules",
+    "intro": "Grammar rules for capitalization and punctuation help readers understand our writing. In second grade, we learn when to capitalize, when to use commas and apostrophes, and key spelling patterns.",
+    "body_md": "## Capitalization Rules\n\nCapitalize:\n- **Holidays:** Thanksgiving, Fourth of July, Christmas\n- **Product names:** Crayola, Nike, Cheerios\n- **Geographic names:** Pacific Ocean, Rocky Mountains, Florida\n\n## Commas\n\n- Letter greeting: *Dear Grandma,*\n- Letter closing: *Your friend,*\n- In a list: *I packed a sandwich, an apple, and water.*\n\n## Apostrophes\n\n**Contractions** \u2014 replace missing letters:\n- do not \u2192 don't\n- it is \u2192 it's\n- we are \u2192 we're\n\n**Possessives** \u2014 show ownership:\n- the dog's bowl (one dog)\n- the students' desks (many students)\n\n## Spelling Patterns\n\n- Silent -e: drop it before -ing (*bake \u2192 baking*)\n- Short vowel + single consonant: double it (*run \u2192 running*)\n- -tion ending: /shun/ sound (*nation, station*)",
+    "worked_example_md": "**Edit:** *dear maya, We went to the rocky mountains last thanksgiving.*\n\n**Corrected:** *Dear Maya,*\n*We went to the Rocky Mountains last Thanksgiving.*\n\nReasoning: 'Dear Maya,' \u2014 greeting needs comma; Rocky Mountains = geographic name; Thanksgiving = holiday.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word should be capitalized?\n*We celebrate thanksgiving with family.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "celebrate",
+          "correct": false,
+          "explanation": "Common verb \u2014 no cap needed."
+        },
+        {
+          "id": "b",
+          "label": "thanksgiving",
+          "correct": true,
+          "explanation": "Thanksgiving is a holiday and must be capitalized."
+        },
+        {
+          "id": "c",
+          "label": "family",
+          "correct": false,
+          "explanation": "Common noun \u2014 no cap needed."
+        },
+        {
+          "id": "d",
+          "label": "with",
+          "correct": false,
+          "explanation": "Preposition \u2014 no cap needed."
+        }
+      ],
+      "explanation_md": "**Thanksgiving** is a holiday and must always be capitalized."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the correct greeting for a letter?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Dear, Grandma",
+          "correct": false,
+          "explanation": "Comma goes after the name, not after 'Dear'."
+        },
+        {
+          "id": "b",
+          "label": "Dear Grandma,",
+          "correct": true,
+          "explanation": "Comma after the name \u2014 correct letter greeting."
+        },
+        {
+          "id": "c",
+          "label": "Dear Grandma.",
+          "correct": false,
+          "explanation": "A period is wrong here \u2014 use a comma."
+        },
+        {
+          "id": "d",
+          "label": "dear Grandma,",
+          "correct": false,
+          "explanation": "'Dear' should be capitalized at the start."
+        }
+      ],
+      "explanation_md": "Letter greetings use a comma after the name: **Dear Grandma,**"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the contraction for *do not*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "dont",
+          "correct": false,
+          "explanation": "Missing apostrophe."
+        },
+        {
+          "id": "b",
+          "label": "don't",
+          "correct": true,
+          "explanation": "Apostrophe replaces the 'o' in not."
+        },
+        {
+          "id": "c",
+          "label": "do'nt",
+          "correct": false,
+          "explanation": "Apostrophe in wrong place."
+        },
+        {
+          "id": "d",
+          "label": "d'ont",
+          "correct": false,
+          "explanation": "Apostrophe in wrong place."
+        }
+      ],
+      "explanation_md": "**Don't** = do not. The apostrophe replaces the missing 'o'."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses a **possessive apostrophe** correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The dogs bone is buried.",
+          "correct": false,
+          "explanation": "Missing apostrophe \u2014 should be dog's."
+        },
+        {
+          "id": "b",
+          "label": "The dog's bone is buried.",
+          "correct": true,
+          "explanation": "Dog's shows the dog owns the bone."
+        },
+        {
+          "id": "c",
+          "label": "The dogs' bones are buried.",
+          "correct": false,
+          "explanation": "Dogs' would mean multiple dogs."
+        },
+        {
+          "id": "d",
+          "label": "The do'gs bone is buried.",
+          "correct": false,
+          "explanation": "Apostrophe in wrong place."
+        }
+      ],
+      "explanation_md": "**Dog's** uses an apostrophe to show the dog owns the bone."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the correct spelling of *bake* + *-ing*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bakeing",
+          "correct": false,
+          "explanation": "Drop the silent -e before adding -ing."
+        },
+        {
+          "id": "b",
+          "label": "baking",
+          "correct": true,
+          "explanation": "Drop the -e: bake \u2192 baking."
+        },
+        {
+          "id": "c",
+          "label": "bakking",
+          "correct": false,
+          "explanation": "No need to double \u2014 bake ends in silent -e, not a short vowel consonant."
+        },
+        {
+          "id": "d",
+          "label": "bak-ing",
+          "correct": false,
+          "explanation": "No hyphen used."
+        }
+      ],
+      "explanation_md": "Drop the silent -e before adding -ing: *bake \u2192 **baking***"
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is a geographic name that needs a capital letter?\n*We visited the grand canyon last summer.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "visited",
+          "correct": false,
+          "explanation": "Common verb."
+        },
+        {
+          "id": "b",
+          "label": "grand canyon",
+          "correct": true,
+          "explanation": "Grand Canyon is a specific geographic place \u2014 both words capitalized."
+        },
+        {
+          "id": "c",
+          "label": "summer",
+          "correct": false,
+          "explanation": "Common noun."
+        },
+        {
+          "id": "d",
+          "label": "last",
+          "correct": false,
+          "explanation": "Common adjective."
+        }
+      ],
+      "explanation_md": "**Grand Canyon** is a specific geographic name \u2014 both words must be capitalized."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which product name is correctly capitalized?\n*I draw with crayola markers.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "draw",
+          "correct": false,
+          "explanation": "Common verb."
+        },
+        {
+          "id": "b",
+          "label": "markers",
+          "correct": false,
+          "explanation": "Common noun."
+        },
+        {
+          "id": "c",
+          "label": "Crayola",
+          "correct": true,
+          "explanation": "Crayola is a brand (product name) \u2014 must be capitalized."
+        },
+        {
+          "id": "d",
+          "label": "with",
+          "correct": false,
+          "explanation": "Common preposition."
+        }
+      ],
+      "explanation_md": "**Crayola** is a brand name (product name) and must be capitalized."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How many errors are in this sentence?\n*its raining so we cant go to lake michigan.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One error",
+          "correct": false,
+          "explanation": "There are multiple errors: its (\u2192 it's), cant (\u2192 can't), lake michigan (\u2192 Lake Michigan), and the sentence needs a capital start."
+        },
+        {
+          "id": "b",
+          "label": "Two errors",
+          "correct": false,
+          "explanation": "There are four errors."
+        },
+        {
+          "id": "c",
+          "label": "Four errors",
+          "correct": true,
+          "explanation": "its \u2192 it's, cant \u2192 can't, lake michigan \u2192 Lake Michigan, i \u2192 I (sentence start)."
+        },
+        {
+          "id": "d",
+          "label": "No errors",
+          "correct": false,
+          "explanation": "Multiple errors exist."
+        }
+      ],
+      "explanation_md": "Four errors: **it's** (contraction), **can't** (contraction), **Lake Michigan** (geographic name), capital **I** at sentence start."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which spelling is correct when adding *-ed* to *plan*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "planed",
+          "correct": false,
+          "explanation": "Plan has a short vowel + single consonant \u2014 double the n."
+        },
+        {
+          "id": "b",
+          "label": "planned",
+          "correct": true,
+          "explanation": "Short vowel (a) + single consonant (n) \u2192 double the n: planned."
+        },
+        {
+          "id": "c",
+          "label": "planeed",
+          "correct": false,
+          "explanation": "Not a word."
+        },
+        {
+          "id": "d",
+          "label": "plan-ed",
+          "correct": false,
+          "explanation": "No hyphen used."
+        }
+      ],
+      "explanation_md": "Short vowel + single consonant \u2192 double the consonant: *plan \u2192 **planned***"
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is FULLY correct?\n\nA) Dear uncle joe, Were going to new york on new year's eve.\nB) Dear Uncle Joe, We're going to New York on New Year's Eve.\nC) Dear Uncle Joe we're going to new york on New Year's Eve.\nD) dear Uncle Joe, We're going to New York on New Year's Eve.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "correct": false,
+          "explanation": "'Uncle Joe' needs capitals; 'Were' needs apostrophe; 'new york' and 'new year's eve' need capitals."
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "correct": true,
+          "explanation": "Dear Uncle Joe, (greeting + comma), We're (contraction), New York (geographic), New Year's Eve (holiday) \u2014 all correct."
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "correct": false,
+          "explanation": "Missing comma after greeting; 'new york' needs capitalization."
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "correct": false,
+          "explanation": "'dear' should be 'Dear' (start of greeting)."
+        }
+      ],
+      "explanation_md": "Choice B: **Dear Uncle Joe,** + **We're** + **New York** + **New Year's Eve** \u2014 all capitalization and punctuation correct."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is written correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "We celebrate independence day in july.",
+          "correct": false,
+          "explanation": "Independence Day and July must be capitalized."
+        },
+        {
+          "id": "b",
+          "label": "We celebrate Independence Day in July.",
+          "correct": true,
+          "explanation": "Holiday (Independence Day) and month (July) are both correctly capitalized."
+        },
+        {
+          "id": "c",
+          "label": "We celebrate Independence day in July.",
+          "correct": false,
+          "explanation": "'Day' is part of the holiday name \u2014 Independence Day, both words cap."
+        },
+        {
+          "id": "d",
+          "label": "we celebrate Independence Day in July.",
+          "correct": false,
+          "explanation": "First word of sentence must be capitalized."
+        }
+      ],
+      "explanation_md": "**Independence Day** (holiday) and **July** (proper month name) must both be capitalized."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the correct spelling of *run* + *-ing*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "runing",
+          "correct": false,
+          "explanation": "Short vowel + single consonant \u2014 double the n."
+        },
+        {
+          "id": "b",
+          "label": "running",
+          "correct": true,
+          "explanation": "Short u + single n \u2192 double the n: running."
+        },
+        {
+          "id": "c",
+          "label": "runeing",
+          "correct": false,
+          "explanation": "No silent -e in 'run'."
+        },
+        {
+          "id": "d",
+          "label": "runs",
+          "correct": false,
+          "explanation": "Runs is third-person singular, not -ing form."
+        }
+      ],
+      "explanation_md": "*Run* \u2192 short vowel + single consonant \u2192 double the n: **running**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Choose the sentence that correctly uses BOTH a possessive apostrophe and a contraction.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The cats bowl isnt clean.",
+          "correct": false,
+          "explanation": "Both apostrophes missing."
+        },
+        {
+          "id": "b",
+          "label": "The cat's bowl isn't clean.",
+          "correct": true,
+          "explanation": "Cat's (possessive) and isn't (contraction) \u2014 both correct."
+        },
+        {
+          "id": "c",
+          "label": "The cats' bowl is'nt clean.",
+          "correct": false,
+          "explanation": "Is'nt has apostrophe in wrong place."
+        },
+        {
+          "id": "d",
+          "label": "The cat's bowl is'nt clean.",
+          "correct": false,
+          "explanation": "Is'nt is wrong \u2014 should be isn't."
+        }
+      ],
+      "explanation_md": "**Cat's** (possessive) + **isn't** (contraction of is not) \u2014 both correct in choice B."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is a **holiday** that needs a capital?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "winter",
+          "correct": false,
+          "explanation": "Winter is a common season \u2014 no cap needed."
+        },
+        {
+          "id": "b",
+          "label": "christmas",
+          "correct": true,
+          "explanation": "Christmas is a holiday \u2014 always capitalized."
+        },
+        {
+          "id": "c",
+          "label": "cold",
+          "correct": false,
+          "explanation": "Common adjective."
+        },
+        {
+          "id": "d",
+          "label": "family",
+          "correct": false,
+          "explanation": "Common noun."
+        }
+      ],
+      "explanation_md": "**Christmas** is a holiday and must be capitalized."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the contraction for *it is*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "its",
+          "correct": false,
+          "explanation": "'Its' (no apostrophe) is a possessive, not the contraction."
+        },
+        {
+          "id": "b",
+          "label": "it's",
+          "correct": true,
+          "explanation": "It's = it is. Apostrophe replaces the 'i' in 'is'."
+        },
+        {
+          "id": "c",
+          "label": "its'",
+          "correct": false,
+          "explanation": "Apostrophe in wrong place."
+        },
+        {
+          "id": "d",
+          "label": "i'ts",
+          "correct": false,
+          "explanation": "Apostrophe in wrong place."
+        }
+      ],
+      "explanation_md": "**It's** = *it is*. The apostrophe replaces the missing letter."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Where does the comma go in a letter greeting?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "After 'Dear': Dear, Grandma",
+          "correct": false,
+          "explanation": "Comma goes after the name."
+        },
+        {
+          "id": "b",
+          "label": "After the name: Dear Grandma,",
+          "correct": true,
+          "explanation": "Comma after the name \u2014 standard letter greeting format."
+        },
+        {
+          "id": "c",
+          "label": "No comma needed",
+          "correct": false,
+          "explanation": "A comma is always needed in a letter greeting."
+        },
+        {
+          "id": "d",
+          "label": "Before 'Dear'",
+          "correct": false,
+          "explanation": "Nothing comes before 'Dear' in a greeting."
+        }
+      ],
+      "explanation_md": "In a letter greeting, put the comma **after the name**: Dear Grandma**,**"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which shows correct **possession**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The cats food is gone.",
+          "correct": false,
+          "explanation": "Missing apostrophe \u2014 should be cat's food."
+        },
+        {
+          "id": "b",
+          "label": "The cat's food is gone.",
+          "correct": true,
+          "explanation": "Cat's shows the cat owns the food."
+        },
+        {
+          "id": "c",
+          "label": "The cats' food's are gone.",
+          "correct": false,
+          "explanation": "Food's is wrong \u2014 foods is a simple plural here."
+        },
+        {
+          "id": "d",
+          "label": "The cat food's are gone.",
+          "correct": false,
+          "explanation": "Apostrophe is on the wrong word."
+        }
+      ],
+      "explanation_md": "**Cat's** \u2014 apostrophe + s after the owner (cat) shows possession."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which geographic name needs capital letters?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "mountain",
+          "correct": false,
+          "explanation": "Common noun."
+        },
+        {
+          "id": "b",
+          "label": "rocky mountains",
+          "correct": true,
+          "explanation": "Rocky Mountains is a specific geographic name \u2014 both words capitalized."
+        },
+        {
+          "id": "c",
+          "label": "river",
+          "correct": false,
+          "explanation": "Common noun."
+        },
+        {
+          "id": "d",
+          "label": "ocean",
+          "correct": false,
+          "explanation": "Common noun."
+        }
+      ],
+      "explanation_md": "**Rocky Mountains** is a specific geographic name \u2014 both words must be capitalized."
+    }
+  ]
+}
