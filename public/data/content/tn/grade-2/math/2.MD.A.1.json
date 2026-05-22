@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.MD.A.1",
+  "benchmark_description": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Measuring Length with Rulers and Other Tools",
+    "intro": "How long is your pencil? How tall is the door? You can find out by measuring! There are different tools for measuring different things \u2014 let's learn which tool to use and how to use it.",
+    "body_md": "## Measurement Tools\n\n| Tool | What it measures | When to use it |\n|---|---|---|\n| **Ruler** | 12 inches (1 foot) or 30 cm | Small objects like pencils, books |\n| **Yardstick** | 3 feet (36 inches) or about 1 meter | Medium objects like desks, doors |\n| **Meter stick** | 100 centimeters (about 3.3 feet) | Medium objects in metric |\n| **Measuring tape** | Long, flexible | Large or curved things like a room or waist |\n\n## How to Use a Ruler\n\n**Step 1:** Line up the **0 mark** (or the end of the ruler) with one end of the object.\n\n**Step 2:** Look at where the other end of the object reaches.\n\n**Step 3:** Read the number \u2014 that is the length!\n\n**Important:** Always start at 0, not at 1!\n\n## Units of Measurement\n\n**Customary units (US):**\n- **Inch (in)** \u2014 small; about the width of your thumb\n- **Foot (ft)** \u2014 medium; 12 inches\n- **Yard (yd)** \u2014 large; 3 feet\n\n**Metric units:**\n- **Centimeter (cm)** \u2014 small; about the width of your pinky fingernail\n- **Meter (m)** \u2014 large; about the height of a doorknob from the floor\n\n## Choosing the Right Tool\n\n- Measuring a crayon? Use a **ruler**.\n- Measuring a hallway? Use a **measuring tape** or **yardstick**.\n- Measuring your height? Use a **ruler** or **measuring tape**.\n- Measuring a swimming pool? Use a **measuring tape**.\n\n## Reading a Ruler\n\nLook at the numbers on the ruler. Each inch has smaller marks between the numbers for halves and quarters. For Grade 2, we read to the nearest inch or centimeter.\n\n**Example:** An eraser reaches to the 3-inch mark \u2192 the eraser is **3 inches** long.",
+    "worked_example_md": "**Problem:** Maria places a pencil next to a ruler. The eraser end lines up with 0. The tip of the pencil lines up with the 7-inch mark. How long is the pencil?\n\n**Step 1:** Check that the pencil starts at 0.\n- Yes, the eraser end is at 0.\n\n**Step 2:** Read the mark where the pencil ends.\n- The tip lines up with 7 inches.\n\n**Answer:** The pencil is **7 inches** long.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool would you use to measure a crayon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Measuring tape",
+          "correct": false,
+          "explanation": "A measuring tape works, but a ruler is the best choice for something as small as a crayon."
+        },
+        {
+          "id": "b",
+          "label": "Ruler",
+          "correct": true,
+          "explanation": "Correct! A ruler is the right tool for measuring small objects like a crayon."
+        },
+        {
+          "id": "c",
+          "label": "Yardstick",
+          "correct": false,
+          "explanation": "A yardstick measures 36 inches. That is much too big for measuring a crayon. Use a ruler."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "A ruler is the right choice for measuring a crayon."
+        }
+      ],
+      "explanation_md": "A ruler is the best tool for measuring small objects like a crayon."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you measure with a ruler, where should one end of the object be placed?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "At the 1-inch mark",
+          "correct": false,
+          "explanation": "Always start at 0, not 1. Starting at 1 would make your measurement 1 inch too long."
+        },
+        {
+          "id": "b",
+          "label": "At the 0 mark",
+          "correct": true,
+          "explanation": "Correct! Always line up one end of the object with the 0 mark on the ruler."
+        },
+        {
+          "id": "c",
+          "label": "In the middle of the ruler",
+          "correct": false,
+          "explanation": "Start at 0, the beginning of the ruler, not the middle."
+        },
+        {
+          "id": "d",
+          "label": "Anywhere \u2014 it does not matter.",
+          "correct": false,
+          "explanation": "It does matter! Always start at 0. Otherwise your measurement will not be accurate."
+        }
+      ],
+      "explanation_md": "Always place one end of the object at the 0 mark on the ruler."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A book is placed next to a ruler. One end is at 0 and the other end reaches the 8-inch mark. How long is the book?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7 inches",
+          "correct": false,
+          "explanation": "The book reaches the 8-inch mark. Read the number directly: 8 inches."
+        },
+        {
+          "id": "b",
+          "label": "8 inches",
+          "correct": true,
+          "explanation": "Correct! The book starts at 0 and ends at the 8-inch mark. The length is 8 inches."
+        },
+        {
+          "id": "c",
+          "label": "9 inches",
+          "correct": false,
+          "explanation": "The other end is at 8, not 9. Read the number where the object ends."
+        },
+        {
+          "id": "d",
+          "label": "0 inches",
+          "correct": false,
+          "explanation": "0 is where the measurement starts, not ends. The book is 8 inches long."
+        }
+      ],
+      "explanation_md": "The book starts at 0 and ends at 8. The length is 8 inches."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool would be best for measuring the length of a classroom?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ruler",
+          "correct": false,
+          "explanation": "A ruler is only 12 inches long. That is way too short for a classroom. A measuring tape is better."
+        },
+        {
+          "id": "b",
+          "label": "Measuring tape",
+          "correct": true,
+          "explanation": "Correct! A measuring tape is long and can measure large spaces like a classroom."
+        },
+        {
+          "id": "c",
+          "label": "Centimeter cubes",
+          "correct": false,
+          "explanation": "Centimeter cubes could work but would take forever for a large space. A measuring tape is best."
+        },
+        {
+          "id": "d",
+          "label": "A piece of string",
+          "correct": false,
+          "explanation": "A plain string has no markings. You need a tool with units, like a measuring tape."
+        }
+      ],
+      "explanation_md": "A measuring tape is best for measuring large spaces like a classroom."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sam measured a marker and said it was 7 centimeters long. But he started measuring from the 1-centimeter mark, not 0. What was the REAL length of the marker?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6 centimeters",
+          "correct": true,
+          "explanation": "Correct! If Sam started at 1 and the marker ended at 7, the actual length is 7 - 1 = 6 centimeters."
+        },
+        {
+          "id": "b",
+          "label": "7 centimeters",
+          "correct": false,
+          "explanation": "Sam made a measurement error. He started at 1 instead of 0. The real length is 7 - 1 = 6 centimeters."
+        },
+        {
+          "id": "c",
+          "label": "8 centimeters",
+          "correct": false,
+          "explanation": "If Sam started at 1 and ended at 7, the real length is 7 - 1 = 6 cm."
+        },
+        {
+          "id": "d",
+          "label": "1 centimeter",
+          "correct": false,
+          "explanation": "The marker reached from 1 to 7, which is 6 centimeters long."
+        }
+      ],
+      "explanation_md": "Sam started at 1 instead of 0. The actual length is 7 - 1 = 6 centimeters."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How long is 1 foot?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches, not 10."
+        },
+        {
+          "id": "b",
+          "label": "12 inches",
+          "correct": true,
+          "explanation": "Correct! 1 foot = 12 inches."
+        },
+        {
+          "id": "c",
+          "label": "3 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches. 3 inches is only a quarter of a foot."
+        },
+        {
+          "id": "d",
+          "label": "100 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches. 100 centimeters = 1 meter, not 100 inches."
+        }
+      ],
+      "explanation_md": "1 foot = 12 inches."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the best tool to measure the length of a piece of paper?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yardstick",
+          "correct": false,
+          "explanation": "A yardstick measures 36 inches. A piece of paper is about 11 inches long. A ruler is the right size."
+        },
+        {
+          "id": "b",
+          "label": "Ruler",
+          "correct": true,
+          "explanation": "Correct! A piece of paper is about 11 inches long, which fits well within a 12-inch ruler."
+        },
+        {
+          "id": "c",
+          "label": "Measuring tape",
+          "correct": false,
+          "explanation": "A measuring tape works, but a ruler is more accurate and easier for a small flat object."
+        },
+        {
+          "id": "d",
+          "label": "Meter stick",
+          "correct": false,
+          "explanation": "A meter stick (about 39 inches) is much longer than needed for a piece of paper."
+        }
+      ],
+      "explanation_md": "A ruler is the best choice for measuring a piece of paper."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A ribbon is 14 inches long. Which tool could you use to measure it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A 12-inch ruler",
+          "correct": false,
+          "explanation": "A 12-inch ruler is too short for a 14-inch ribbon. You would need a yardstick or measuring tape."
+        },
+        {
+          "id": "b",
+          "label": "A yardstick",
+          "correct": true,
+          "explanation": "Correct! A yardstick measures up to 36 inches, which is long enough for a 14-inch ribbon."
+        },
+        {
+          "id": "c",
+          "label": "A centimeter cube",
+          "correct": false,
+          "explanation": "A single cube is only 1 cm. You would need a longer measuring tool."
+        },
+        {
+          "id": "d",
+          "label": "A clock",
+          "correct": false,
+          "explanation": "A clock measures time, not length. Use a yardstick or measuring tape."
+        }
+      ],
+      "explanation_md": "A yardstick (36 inches) can measure a 14-inch ribbon. A 12-inch ruler is too short."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Amy measured her shoe and said it was 8 inches long. Her friend measured the same shoe and said it was 20 centimeters long. Can they both be right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, only one answer can be correct.",
+          "correct": false,
+          "explanation": "Both can be right! 8 inches is approximately 20 centimeters. They used different units but measured the same length."
+        },
+        {
+          "id": "b",
+          "label": "Yes, they used different units to measure the same length.",
+          "correct": true,
+          "explanation": "Correct! Inches and centimeters are different units. 8 inches is about 20 centimeters. Both measurements describe the same length."
+        },
+        {
+          "id": "c",
+          "label": "No, you can only measure in one unit.",
+          "correct": false,
+          "explanation": "You can measure in different units. 8 inches and 20 centimeters can describe the same length."
+        },
+        {
+          "id": "d",
+          "label": "No, 8 does not equal 20.",
+          "correct": false,
+          "explanation": "8 inches does not equal 20 inches. But 8 inches does equal about 20 centimeters. They used different units."
+        }
+      ],
+      "explanation_md": "Both can be right! 8 inches is about 20 centimeters. Different units can describe the same length."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student measures a pencil and gets 12 centimeters. Another student uses inches and gets a number close to 5. Which student likely made an error?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The one who got 12 centimeters",
+          "correct": false,
+          "explanation": "12 centimeters is about 5 inches, so both could be correct. Neither made an obvious error."
+        },
+        {
+          "id": "b",
+          "label": "The one who got 5 inches",
+          "correct": false,
+          "explanation": "5 inches is about 12 centimeters, so both could be correct."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 both could be correct.",
+          "correct": true,
+          "explanation": "Correct! 12 cm is approximately 5 inches. Both students may have measured correctly in different units."
+        },
+        {
+          "id": "d",
+          "label": "Both made errors.",
+          "correct": false,
+          "explanation": "12 cm is about 5 inches. Both measurements could be correct."
+        }
+      ],
+      "explanation_md": "12 cm is approximately 5 inches. Both measurements could be accurate, just in different units."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A pencil is placed on a ruler. One end is at 0 and the other end is between 5 and 6 inches, but closer to 6. What is the best estimate of the pencil's length?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4 inches",
+          "correct": false,
+          "explanation": "The pencil ends between 5 and 6, closer to 6. The best estimate is 6 inches."
+        },
+        {
+          "id": "b",
+          "label": "5 inches",
+          "correct": false,
+          "explanation": "5 inches would be true if the end were closer to 5. It is closer to 6, so 6 inches is a better estimate."
+        },
+        {
+          "id": "c",
+          "label": "6 inches",
+          "correct": true,
+          "explanation": "Correct! The pencil end is between 5 and 6, closer to 6. We round to the nearest inch: 6 inches."
+        },
+        {
+          "id": "d",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "The pencil ends between 5 and 6 inches, not near 10."
+        }
+      ],
+      "explanation_md": "The pencil is between 5 and 6 inches but closer to 6. Best estimate: 6 inches."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool is best for measuring how tall a door is?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ruler",
+          "correct": false,
+          "explanation": "A 12-inch ruler is too short for a door (about 80 inches tall). Use a yardstick or measuring tape."
+        },
+        {
+          "id": "b",
+          "label": "Yardstick",
+          "correct": false,
+          "explanation": "A yardstick works, but you would need to measure multiple lengths. A measuring tape is easier for a tall door."
+        },
+        {
+          "id": "c",
+          "label": "Measuring tape",
+          "correct": true,
+          "explanation": "Correct! A measuring tape is flexible and long enough to measure the full height of a door easily."
+        },
+        {
+          "id": "d",
+          "label": "Centimeter cubes",
+          "correct": false,
+          "explanation": "Cubes could work but would take hundreds of cubes. A measuring tape is the right tool."
+        }
+      ],
+      "explanation_md": "A measuring tape is best for measuring tall objects like a door."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Carlos measured a stick at 9 inches. His teacher measured the same stick and got 7 inches. What most likely happened?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The stick changed size.",
+          "correct": false,
+          "explanation": "Sticks do not change size on their own. Someone made a measurement error."
+        },
+        {
+          "id": "b",
+          "label": "Carlos started measuring from 2 instead of 0.",
+          "correct": true,
+          "explanation": "Correct! If Carlos started at 2 and the stick ended at 9, he measured 9 inches. But the real length is 9 - 2 = 7 inches. He forgot to start at 0."
+        },
+        {
+          "id": "c",
+          "label": "The ruler was broken.",
+          "correct": false,
+          "explanation": "Possibly, but the most likely reason is that Carlos did not start at 0. Starting at 2 would add 2 extra inches to the reading."
+        },
+        {
+          "id": "d",
+          "label": "9 and 7 are the same size.",
+          "correct": false,
+          "explanation": "9 and 7 are different numbers. Carlos likely started at 2 instead of 0."
+        }
+      ],
+      "explanation_md": "Carlos likely started at 2 instead of 0. His reading of 9 minus the 2-inch offset = 7 (the correct length)."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool is used to measure length?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Scale",
+          "correct": false,
+          "explanation": "A scale measures weight, not length. A ruler measures length."
+        },
+        {
+          "id": "b",
+          "label": "Ruler",
+          "correct": true,
+          "explanation": "Correct! A ruler is a tool for measuring length."
+        },
+        {
+          "id": "c",
+          "label": "Thermometer",
+          "correct": false,
+          "explanation": "A thermometer measures temperature. A ruler measures length."
+        },
+        {
+          "id": "d",
+          "label": "Clock",
+          "correct": false,
+          "explanation": "A clock measures time. A ruler measures length."
+        }
+      ],
+      "explanation_md": "A ruler is a tool for measuring length."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A crayon is placed on a ruler starting at 0 and ending at 5 inches. How long is the crayon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "0 inches",
+          "correct": false,
+          "explanation": "0 is where the crayon starts. The length is where it ends: 5 inches."
+        },
+        {
+          "id": "b",
+          "label": "5 inches",
+          "correct": true,
+          "explanation": "Correct! The crayon starts at 0 and ends at 5. The crayon is 5 inches long."
+        },
+        {
+          "id": "c",
+          "label": "6 inches",
+          "correct": false,
+          "explanation": "The crayon ends at 5, not 6. Read the ruler mark where the object ends."
+        },
+        {
+          "id": "d",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "The crayon ends at 5 inches. 10 inches would be much too long."
+        }
+      ],
+      "explanation_md": "The crayon starts at 0 and ends at 5. It is 5 inches long."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool should you use to measure the length of a room?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A 12-inch ruler",
+          "correct": false,
+          "explanation": "A 12-inch ruler is too short for a room. Use a measuring tape."
+        },
+        {
+          "id": "b",
+          "label": "Measuring tape",
+          "correct": true,
+          "explanation": "Correct! A measuring tape is long and can measure large spaces."
+        },
+        {
+          "id": "c",
+          "label": "A pencil",
+          "correct": false,
+          "explanation": "A pencil has no length markings. Use a measuring tape."
+        },
+        {
+          "id": "d",
+          "label": "A thermometer",
+          "correct": false,
+          "explanation": "A thermometer measures temperature, not length."
+        }
+      ],
+      "explanation_md": "A measuring tape is the right tool for measuring a large space like a room."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What unit would you use to measure your pencil in school?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Miles",
+          "correct": false,
+          "explanation": "Miles measure very long distances like road trips. Inches or centimeters measure a pencil."
+        },
+        {
+          "id": "b",
+          "label": "Inches",
+          "correct": true,
+          "explanation": "Correct! Inches (or centimeters) are good for small objects like a pencil."
+        },
+        {
+          "id": "c",
+          "label": "Yards",
+          "correct": false,
+          "explanation": "Yards are for larger things like a football field. Inches work for a pencil."
+        },
+        {
+          "id": "d",
+          "label": "Gallons",
+          "correct": false,
+          "explanation": "Gallons measure liquid volume, not length."
+        }
+      ],
+      "explanation_md": "Inches or centimeters are right for measuring a pencil."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How many inches are in 1 foot?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches, not 10."
+        },
+        {
+          "id": "b",
+          "label": "12 inches",
+          "correct": true,
+          "explanation": "Correct! 1 foot = 12 inches."
+        },
+        {
+          "id": "c",
+          "label": "100 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches. 100 centimeters = 1 meter."
+        },
+        {
+          "id": "d",
+          "label": "3 inches",
+          "correct": false,
+          "explanation": "1 foot = 12 inches. 3 feet = 1 yard."
+        }
+      ],
+      "explanation_md": "1 foot = 12 inches."
+    }
+  ]
+}
