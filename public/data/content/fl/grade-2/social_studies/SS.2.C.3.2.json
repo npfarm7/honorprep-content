@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.C.3.2",
+  "benchmark_description": "Explain the importance of democratic principles such as rule of law and majority rule in the United States.",
+  "course": "social_studies",
+  "strand": "C",
+  "lesson": {
+    "title": "Democratic Principles: Rule of Law and Majority Rule",
+    "intro": "The United States is a democracy. In a democracy, citizens have the power to make decisions about how their community and country are run. Two important ideas that make democracy work are rule of law and majority rule.",
+    "body_md": "## What Is Democracy?\n\nA **democracy** is a system of government where the people have the power. In the United States, citizens vote for leaders who make decisions on their behalf.\n\n## Rule of Law\n\nThe **rule of law** means that everyone must follow the law \u2014 including leaders. No person is above the law.\n\n- Even the president must obey the law.\n- Laws protect everyone's rights.\n- Without the rule of law, powerful people could do whatever they wanted, and that would not be fair.\n\n**Example:** A police officer cannot break traffic laws just because they are a police officer. The rule of law applies to everyone.\n\n## Majority Rule\n\n**Majority rule** means that when people vote, the choice that gets the most votes (more than half) wins.\n\n- If a class of 20 students votes on a field trip and 14 choose the zoo and 6 choose the museum, the zoo wins. That is majority rule.\n- Adults use majority rule to elect leaders and make community decisions.\n\n**Why majority rule?** It is a fair way for groups to make decisions. The choice that most people want wins.\n\n## Protecting Minority Rights\n\nMajority rule has a limit: the majority cannot take away the basic rights of the minority (those who voted differently). For example, even if most people voted to remove a group's freedom of speech, the Constitution would not allow it. Rights are protected for everyone.\n\n## Why These Principles Matter\n\nRule of law and majority rule keep government fair:\n\n- **Rule of law** protects people from unfair leaders.\n- **Majority rule** ensures the most popular choice wins in votes.\n- Together, they help make sure all citizens are treated fairly.",
+    "worked_example_md": "**Think About It:** A city council votes on whether to build a new park.\n\n- 7 council members vote YES.\n- 3 council members vote NO.\n\n**Majority rule:** The YES side wins because 7 is more than half of 10.\n\n**Rule of law:** Once the council decides, they must follow the proper rules (budget laws, building codes) to build the park \u2014 even if some members disagree with how it is done.\n\n*Both principles ensure the decision is made fairly.*",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **democracy**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A government where only the king makes decisions",
+          "correct": false,
+          "explanation": "A king ruling alone is a monarchy, not a democracy."
+        },
+        {
+          "id": "B",
+          "label": "A system where citizens have the power to make decisions about their government",
+          "correct": true,
+          "explanation": "In a democracy, citizens have power \u2014 they vote for leaders and participate in government."
+        },
+        {
+          "id": "C",
+          "label": "A government where no one follows any rules",
+          "correct": false,
+          "explanation": "Democracy still has laws and rules. The rule of law is part of democracy."
+        },
+        {
+          "id": "D",
+          "label": "A system where only judges make all decisions",
+          "correct": false,
+          "explanation": "In a democracy, citizens make decisions through voting, not judges alone."
+        }
+      ],
+      "explanation_md": "A democracy is a system where citizens have power \u2014 they vote for leaders and help make decisions about their government."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does **majority rule** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The richest person decides",
+          "correct": false,
+          "explanation": "Majority rule is about votes, not wealth."
+        },
+        {
+          "id": "B",
+          "label": "The choice with the most votes wins",
+          "correct": true,
+          "explanation": "Majority rule means when a group votes, the option that gets more than half the votes wins."
+        },
+        {
+          "id": "C",
+          "label": "Everyone must agree before a decision is made",
+          "correct": false,
+          "explanation": "If everyone had to agree, nothing would ever get decided. Majority rule means the most votes wins."
+        },
+        {
+          "id": "D",
+          "label": "The youngest person chooses",
+          "correct": false,
+          "explanation": "Majority rule is about votes, not age."
+        }
+      ],
+      "explanation_md": "Majority rule means the choice that gets the most votes wins. It is a fair way for groups to make decisions."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does **rule of law** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The president can make any decision without following rules",
+          "correct": false,
+          "explanation": "The rule of law means even the president must follow the law."
+        },
+        {
+          "id": "B",
+          "label": "Everyone, including leaders, must follow the law",
+          "correct": true,
+          "explanation": "The rule of law means no one is above the law. Leaders must follow the same laws as everyone else."
+        },
+        {
+          "id": "C",
+          "label": "Only judges must follow the law",
+          "correct": false,
+          "explanation": "Everyone must follow the law \u2014 judges, leaders, and ordinary citizens."
+        },
+        {
+          "id": "D",
+          "label": "Laws only apply to children",
+          "correct": false,
+          "explanation": "Laws apply to everyone, including adults and leaders."
+        }
+      ],
+      "explanation_md": "The rule of law means everyone \u2014 including leaders \u2014 must follow the law. No one is above the law."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A class of 24 students votes on a class pet. 15 vote for a fish and 9 vote for a hamster. Which pet wins?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Hamster, because hamsters are cuter",
+          "correct": false,
+          "explanation": "Majority rule is about votes, not which animal is cuter."
+        },
+        {
+          "id": "B",
+          "label": "Fish, because 15 is more than 9",
+          "correct": true,
+          "explanation": "Majority rule means the choice with the most votes wins. 15 > 9, so fish wins."
+        },
+        {
+          "id": "C",
+          "label": "Neither, because they tied",
+          "correct": false,
+          "explanation": "15 and 9 is not a tie. 15 is more than 9, so fish wins."
+        },
+        {
+          "id": "D",
+          "label": "The teacher decides because students are too young to vote",
+          "correct": false,
+          "explanation": "Majority rule applies to the class vote. The fish wins because it got the most votes."
+        }
+      ],
+      "explanation_md": "Majority rule means the choice with the most votes wins. 15 votes for the fish is more than 9 for the hamster, so the fish wins."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is the rule of law important in a democracy?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "So that leaders can ignore rules when they want to",
+          "correct": false,
+          "explanation": "The rule of law means leaders must follow the law \u2014 they cannot ignore it."
+        },
+        {
+          "id": "B",
+          "label": "So that even powerful leaders must follow the law, which protects everyone",
+          "correct": true,
+          "explanation": "Without the rule of law, powerful people could do anything they wanted. The rule of law keeps everyone \u2014 including leaders \u2014 accountable."
+        },
+        {
+          "id": "C",
+          "label": "So that citizens do not need to vote",
+          "correct": false,
+          "explanation": "Rule of law and voting are both part of democracy. One does not replace the other."
+        },
+        {
+          "id": "D",
+          "label": "So that only rich people have rights",
+          "correct": false,
+          "explanation": "The rule of law protects everyone's rights, not just those of wealthy people."
+        }
+      ],
+      "explanation_md": "The rule of law protects everyone by ensuring that even powerful leaders must follow the same laws as ordinary citizens."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Even if most people vote for something, the **minority** (those who voted differently) still has protected rights. What does this show about democracy?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Democracy ignores the rights of those who disagree",
+          "correct": false,
+          "explanation": "Democracy protects the rights of all citizens, including the minority."
+        },
+        {
+          "id": "B",
+          "label": "Democracy uses majority rule for decisions but protects everyone's basic rights",
+          "correct": true,
+          "explanation": "Majority rule decides who wins elections and which laws pass, but the Constitution protects the basic rights of all citizens \u2014 even those in the minority."
+        },
+        {
+          "id": "C",
+          "label": "Majority rule means the minority has no voice",
+          "correct": false,
+          "explanation": "The minority still has rights and can speak up, vote, and participate in democracy."
+        },
+        {
+          "id": "D",
+          "label": "Democracy only works if everyone agrees",
+          "correct": false,
+          "explanation": "Majority rule is used precisely because not everyone agrees. Democracy does not require unanimous agreement."
+        }
+      ],
+      "explanation_md": "Democracy balances majority rule with protection for everyone's basic rights. The majority decides, but cannot take away the minority's fundamental rights."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A city council has 10 members. 6 vote to repair a road. 4 vote against it. What happens?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The road is not repaired because not everyone agreed",
+          "correct": false,
+          "explanation": "Majority rule means the repair goes through because 6 is more than 4."
+        },
+        {
+          "id": "B",
+          "label": "The road is repaired because 6 is the majority",
+          "correct": true,
+          "explanation": "6 out of 10 is a majority. Majority rule means the road is repaired."
+        },
+        {
+          "id": "C",
+          "label": "The president decides instead",
+          "correct": false,
+          "explanation": "Local decisions are made by local councils using majority rule."
+        },
+        {
+          "id": "D",
+          "label": "Another vote is held until everyone agrees",
+          "correct": false,
+          "explanation": "Majority rule does not require everyone to agree. 6 votes is enough to win."
+        }
+      ],
+      "explanation_md": "6 out of 10 is a majority. Majority rule means the road repair is approved."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A police officer breaks a traffic law while off duty. Under **rule of law**, what should happen?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Nothing, because police officers are above the law",
+          "correct": false,
+          "explanation": "The rule of law means no one is above the law, including police officers."
+        },
+        {
+          "id": "B",
+          "label": "The officer should receive the same consequence as any other citizen",
+          "correct": true,
+          "explanation": "Rule of law means everyone must follow the law \u2014 including police officers when they are off duty."
+        },
+        {
+          "id": "C",
+          "label": "The officer gets extra privileges because of their job",
+          "correct": false,
+          "explanation": "Rule of law means no special privileges for leaders or authority figures."
+        },
+        {
+          "id": "D",
+          "label": "The law only applies to children, not adults",
+          "correct": false,
+          "explanation": "Laws apply to everyone."
+        }
+      ],
+      "explanation_md": "The rule of law means everyone must follow the law. A police officer is not above the law."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, 'If 51 people out of 100 vote to take away someone's rights, that should happen because of majority rule.' What is WRONG with this idea?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Majority rule means the 51 always win, even over rights",
+          "correct": false,
+          "explanation": "Majority rule has limits. The Constitution protects basic rights from being removed by a majority vote."
+        },
+        {
+          "id": "B",
+          "label": "The Constitution protects basic rights \u2014 even a majority cannot vote to remove them",
+          "correct": true,
+          "explanation": "Majority rule is used for ordinary decisions, but the Constitution protects everyone's fundamental rights. A majority vote cannot take away those rights."
+        },
+        {
+          "id": "C",
+          "label": "Only 100 people have rights in the U.S.",
+          "correct": false,
+          "explanation": "All U.S. citizens have rights, not just 100 people."
+        },
+        {
+          "id": "D",
+          "label": "The minority always wins in a democracy",
+          "correct": false,
+          "explanation": "The minority does not always win. The majority wins ordinary votes. But the minority's basic rights are still protected."
+        }
+      ],
+      "explanation_md": "Majority rule applies to decisions, but the Constitution protects everyone's fundamental rights. Even a majority cannot vote to remove basic rights."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How do **rule of law** and **majority rule** work TOGETHER to make government fair?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Rule of law means the majority always gets everything it wants without limits",
+          "correct": false,
+          "explanation": "Rule of law actually limits what even the majority can do \u2014 everyone must follow the law."
+        },
+        {
+          "id": "B",
+          "label": "Majority rule decides who wins votes; rule of law ensures everyone follows the laws that result",
+          "correct": true,
+          "explanation": "Majority rule is used to make democratic decisions. Rule of law ensures those decisions \u2014 and everyone's behavior \u2014 follow proper rules and laws."
+        },
+        {
+          "id": "C",
+          "label": "They are opposites and cannot work together",
+          "correct": false,
+          "explanation": "They work together. Majority rule makes decisions; rule of law enforces them fairly."
+        },
+        {
+          "id": "D",
+          "label": "Only rule of law matters in a democracy; majority rule is not important",
+          "correct": false,
+          "explanation": "Both principles are important. Majority rule determines decisions; rule of law ensures fairness in following them."
+        }
+      ],
+      "explanation_md": "Majority rule and rule of law work together. Majority rule makes democratic decisions; rule of law ensures those decisions are followed by everyone, including leaders."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement BEST describes **majority rule**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The president makes all decisions alone",
+          "correct": false,
+          "explanation": "Majority rule means the choice with the most votes wins, not that one person decides."
+        },
+        {
+          "id": "B",
+          "label": "The choice that gets the most votes wins",
+          "correct": true,
+          "explanation": "Majority rule means when a group votes, the option that more than half the voters choose wins."
+        },
+        {
+          "id": "C",
+          "label": "Everyone must agree before anything is decided",
+          "correct": false,
+          "explanation": "Majority rule does not require unanimous agreement."
+        },
+        {
+          "id": "D",
+          "label": "The youngest voters always win",
+          "correct": false,
+          "explanation": "Majority rule is about votes, not age."
+        }
+      ],
+      "explanation_md": "Majority rule means the choice that gets the most votes wins. It is how democratic decisions are made."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why does the rule of law apply to everyone, including leaders?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because leaders do not deserve any rights",
+          "correct": false,
+          "explanation": "Leaders have rights, but they must also follow the law."
+        },
+        {
+          "id": "B",
+          "label": "So that even powerful people cannot act unfairly without consequences",
+          "correct": true,
+          "explanation": "Without rule of law, powerful leaders could do whatever they wanted. Rule of law keeps everyone \u2014 even the powerful \u2014 accountable."
+        },
+        {
+          "id": "C",
+          "label": "Because leaders are less intelligent than ordinary citizens",
+          "correct": false,
+          "explanation": "Rule of law is not about intelligence. It is about fairness and accountability."
+        },
+        {
+          "id": "D",
+          "label": "So that only judges make all decisions",
+          "correct": false,
+          "explanation": "Rule of law means all people follow the law, not that judges control everything."
+        }
+      ],
+      "explanation_md": "Rule of law means even powerful leaders must follow the law. This prevents unfair treatment and keeps everyone accountable."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A class votes on a new classroom rule. 18 students vote yes. 7 vote no. The rule passes. Two students who voted no complain that the rule is unfair. What should a teacher explain about how democracy works?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The 7 students who disagreed should leave the classroom",
+          "correct": false,
+          "explanation": "Democracy does not exclude those who lose a vote."
+        },
+        {
+          "id": "B",
+          "label": "Majority rule means the vote of 18 wins, but the 7 students still have rights and can speak up in future votes",
+          "correct": true,
+          "explanation": "Majority rule means 18 votes wins. But the 7 students still have the right to voice their opinion and participate in future decisions."
+        },
+        {
+          "id": "C",
+          "label": "The 7 students who voted no should be punished",
+          "correct": false,
+          "explanation": "Voting is a right. Students who vote no should not be punished."
+        },
+        {
+          "id": "D",
+          "label": "The vote should be repeated until all 25 agree",
+          "correct": false,
+          "explanation": "Majority rule does not require unanimous agreement."
+        }
+      ],
+      "explanation_md": "Majority rule means 18 votes wins. But in a democracy, even those who lose a vote still have rights and can participate in future decisions."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In a **democracy**, who has the power?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Only the king or queen",
+          "correct": false,
+          "explanation": "A king or queen ruling alone is a monarchy, not a democracy."
+        },
+        {
+          "id": "B",
+          "label": "The citizens",
+          "correct": true,
+          "explanation": "In a democracy, the citizens have power. They vote to choose leaders."
+        },
+        {
+          "id": "C",
+          "label": "Only soldiers",
+          "correct": false,
+          "explanation": "In a democracy, citizens \u2014 not soldiers \u2014 hold the power."
+        },
+        {
+          "id": "D",
+          "label": "No one has any power",
+          "correct": false,
+          "explanation": "In a democracy, citizens have power and use it through voting."
+        }
+      ],
+      "explanation_md": "In a democracy, citizens have the power. They vote to choose their leaders and participate in government."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A class of 10 students votes on a movie. 7 vote for an adventure movie and 3 vote for a comedy. Which movie wins?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Comedy, because comedies are funnier",
+          "correct": false,
+          "explanation": "The vote determines the winner, not which movie is funnier."
+        },
+        {
+          "id": "B",
+          "label": "Adventure, because 7 is more than 3",
+          "correct": true,
+          "explanation": "Majority rule means the choice with the most votes wins. 7 is more than 3, so the adventure movie wins."
+        },
+        {
+          "id": "C",
+          "label": "Neither, because everyone needs to agree",
+          "correct": false,
+          "explanation": "Majority rule does not require everyone to agree. The most votes wins."
+        },
+        {
+          "id": "D",
+          "label": "The teacher decides",
+          "correct": false,
+          "explanation": "The class is voting. Majority rule means the most votes wins."
+        }
+      ],
+      "explanation_md": "Majority rule means the choice with the most votes wins. The adventure movie wins with 7 votes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "**Rule of law** means that",
+      "choices": [
+        {
+          "id": "A",
+          "label": "leaders can ignore laws when they want to",
+          "correct": false,
+          "explanation": "The rule of law means no one \u2014 not even leaders \u2014 can ignore the law."
+        },
+        {
+          "id": "B",
+          "label": "everyone, including leaders, must follow the law",
+          "correct": true,
+          "explanation": "Rule of law means the law applies to everyone equally."
+        },
+        {
+          "id": "C",
+          "label": "only children must follow rules",
+          "correct": false,
+          "explanation": "Laws apply to everyone, including adults and leaders."
+        },
+        {
+          "id": "D",
+          "label": "only judges make laws",
+          "correct": false,
+          "explanation": "Legislatures make laws. Rule of law means everyone must follow them."
+        }
+      ],
+      "explanation_md": "Rule of law means everyone \u2014 including leaders \u2014 must follow the law. No one is above the law."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is majority rule a fair way to make decisions?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because the richest people always win",
+          "correct": false,
+          "explanation": "Majority rule is about votes, not wealth."
+        },
+        {
+          "id": "B",
+          "label": "Because the choice most people want wins",
+          "correct": true,
+          "explanation": "When the majority decides, the most popular choice wins \u2014 giving more people what they want."
+        },
+        {
+          "id": "C",
+          "label": "Because one person makes all the choices",
+          "correct": false,
+          "explanation": "Majority rule means many people vote and the most votes wins."
+        },
+        {
+          "id": "D",
+          "label": "Because everyone gets exactly what they want",
+          "correct": false,
+          "explanation": "Not everyone gets what they want. The majority's choice wins, but not everyone wins every vote."
+        }
+      ],
+      "explanation_md": "Majority rule is fair because the choice most people vote for wins. It represents what the most people want."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Even when a majority wins a vote, minority rights are still protected. This means",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The minority can cancel the vote",
+          "correct": false,
+          "explanation": "The minority cannot cancel a vote they lost."
+        },
+        {
+          "id": "B",
+          "label": "Basic rights belong to all citizens, even those who lost the vote",
+          "correct": true,
+          "explanation": "In a democracy, basic rights like freedom of speech are protected for all citizens, even those in the minority."
+        },
+        {
+          "id": "C",
+          "label": "Only majority voters have rights",
+          "correct": false,
+          "explanation": "All citizens have rights, including those who voted with the minority."
+        },
+        {
+          "id": "D",
+          "label": "The minority must leave the country",
+          "correct": false,
+          "explanation": "Everyone remains part of the democracy, even if they lost a vote."
+        }
+      ],
+      "explanation_md": "Even the minority has protected basic rights in a democracy. Majority rule decides votes, but everyone keeps their fundamental rights."
+    }
+  ]
+}
