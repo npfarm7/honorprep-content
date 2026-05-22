@@ -1,0 +1,513 @@
+{
+  "skill_id": "2.NBT.A.3",
+  "benchmark_description": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Reading, Writing, and Expanding Numbers to 1000",
+    "intro": "Numbers have three different looks: the numerals you write (like 347), the words you say (three hundred forty-seven), and the expanded form that shows what each digit is worth (300 + 40 + 7). Let's practice all three!",
+    "body_md": "## Three Ways to Show a Number\n\nEvery number can be shown three ways:\n\n| Way | Example |\n|---|---|\n| **Standard form** (numerals) | 452 |\n| **Word form** (number name) | four hundred fifty-two |\n| **Expanded form** | 400 + 50 + 2 |\n\n## Standard Form\n\nThis is the normal way we write numbers: **452**\n\n## Word Form\n\nSay or write the number in words.\n\n**Rules:**\n- Hundreds first: four hundred\n- Then tens and ones together: fifty-two\n- Use a hyphen for numbers 21-99 (except tens): thirty-four, fifty-seven\n\n**Examples:**\n\n| Number | Word Form |\n|---|---|\n| 300 | three hundred |\n| 450 | four hundred fifty |\n| 326 | three hundred twenty-six |\n| 807 | eight hundred seven |\n| 710 | seven hundred ten |\n\n**Special cases:**\n- When tens digit is 0: skip the tens word (807 = eight hundred seven, NOT eight hundred zero seven)\n- When ones digit is 0: skip ones (740 = seven hundred forty)\n\n## Expanded Form\n\nExpanded form breaks a number apart to show the value of each digit.\n\n**Examples:**\n\n| Number | Expanded Form |\n|---|---|\n| 253 | 200 + 50 + 3 |\n| 401 | 400 + 0 + 1 or just 400 + 1 |\n| 820 | 800 + 20 |\n| 635 | 600 + 30 + 5 |\n\n## Putting It Together\n\n| Standard | Word Form | Expanded Form |\n|---|---|---|\n| 274 | two hundred seventy-four | 200 + 70 + 4 |\n| 509 | five hundred nine | 500 + 9 |\n| 160 | one hundred sixty | 100 + 60 |",
+    "worked_example_md": "**Problem:** Write 738 in word form and expanded form.\n\n**Standard form:** 738\n\n**Step 1 (Word form):** Look at each place.\n- 7 hundreds: seven hundred\n- 3 tens: thirty\n- 8 ones: eight\n- Together: **seven hundred thirty-eight**\n\n**Step 2 (Expanded form):** Find the value of each digit.\n- 7 in hundreds place = 700\n- 3 in tens place = 30\n- 8 in ones place = 8\n- Expanded: **700 + 30 + 8**",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the word form of 425?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "four hundred twenty five",
+          "correct": false,
+          "explanation": "Close! But twenty-five needs a hyphen: four hundred twenty-five."
+        },
+        {
+          "id": "b",
+          "label": "four hundred twenty-five",
+          "correct": true,
+          "explanation": "Correct! 425 = four hundred twenty-five. Numbers 21-99 use a hyphen."
+        },
+        {
+          "id": "c",
+          "label": "four twenty-five",
+          "correct": false,
+          "explanation": "You left out the word hundred. 4 is in the hundreds place: four hundred twenty-five."
+        },
+        {
+          "id": "d",
+          "label": "forty twenty-five",
+          "correct": false,
+          "explanation": "Forty is 40, not 400. 4 in the hundreds place is four hundred."
+        }
+      ],
+      "explanation_md": "425 in word form is four hundred twenty-five."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the expanded form of 356?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 + 5 + 6",
+          "correct": false,
+          "explanation": "This shows the digits, not their values. Expanded form shows place value: 300 + 50 + 6."
+        },
+        {
+          "id": "b",
+          "label": "300 + 56",
+          "correct": false,
+          "explanation": "You need to separate the tens and ones. 356 = 300 + 50 + 6."
+        },
+        {
+          "id": "c",
+          "label": "300 + 50 + 6",
+          "correct": true,
+          "explanation": "Correct! 3 hundreds = 300, 5 tens = 50, 6 ones = 6. Expanded: 300 + 50 + 6."
+        },
+        {
+          "id": "d",
+          "label": "35 + 6",
+          "correct": false,
+          "explanation": "This separates hundreds with the rest. Expanded form shows each place: 300 + 50 + 6."
+        }
+      ],
+      "explanation_md": "356 in expanded form is 300 + 50 + 6."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What number is the same as 'six hundred forty-two'?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "624",
+          "correct": false,
+          "explanation": "624 would be six hundred twenty-four. Six hundred forty-two has 4 tens and 2 ones: 642."
+        },
+        {
+          "id": "b",
+          "label": "462",
+          "correct": false,
+          "explanation": "462 would be four hundred sixty-two. Six hundred forty-two starts with 6 in the hundreds: 642."
+        },
+        {
+          "id": "c",
+          "label": "642",
+          "correct": true,
+          "explanation": "Correct! Six hundred = 600, forty = 40, two = 2. Together: 642."
+        },
+        {
+          "id": "d",
+          "label": "246",
+          "correct": false,
+          "explanation": "246 is two hundred forty-six. Six hundred forty-two = 642."
+        }
+      ],
+      "explanation_md": "Six hundred forty-two = 600 + 40 + 2 = 642."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the expanded form of 709?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "700 + 90",
+          "correct": false,
+          "explanation": "There are no tens in 709 (the tens digit is 0). The ones digit is 9: 700 + 0 + 9, or just 700 + 9."
+        },
+        {
+          "id": "b",
+          "label": "7 + 0 + 9",
+          "correct": false,
+          "explanation": "This shows the digits, not values. 7 is in the hundreds place = 700; 9 is in the ones place = 9. So 700 + 9."
+        },
+        {
+          "id": "c",
+          "label": "700 + 9",
+          "correct": true,
+          "explanation": "Correct! 709 has 7 hundreds (700), 0 tens (0), and 9 ones (9). Expanded: 700 + 9."
+        },
+        {
+          "id": "d",
+          "label": "70 + 9",
+          "correct": false,
+          "explanation": "70 would mean 7 tens. But 7 is in the hundreds place: 700. So 709 = 700 + 9."
+        }
+      ],
+      "explanation_md": "709 = 700 + 9. The tens digit is 0, so we skip it (or write 700 + 0 + 9)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which number matches 500 + 30 + 8?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "583",
+          "correct": false,
+          "explanation": "583 = 500 + 80 + 3, not 500 + 30 + 8. Match the tens and ones carefully."
+        },
+        {
+          "id": "b",
+          "label": "538",
+          "correct": true,
+          "explanation": "Correct! 500 + 30 + 8 = 538. Five hundred thirty-eight."
+        },
+        {
+          "id": "c",
+          "label": "835",
+          "correct": false,
+          "explanation": "835 = 800 + 30 + 5. We need the number starting with 5 hundreds: 538."
+        },
+        {
+          "id": "d",
+          "label": "358",
+          "correct": false,
+          "explanation": "358 = 300 + 50 + 8. We need 5 in the hundreds place and 3 in the tens: 538."
+        }
+      ],
+      "explanation_md": "500 + 30 + 8 = 538 (five hundred thirty-eight)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the word form of 807?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "eight hundred seventy",
+          "correct": false,
+          "explanation": "870 would be eight hundred seventy. 807 has 0 tens and 7 ones: eight hundred seven."
+        },
+        {
+          "id": "b",
+          "label": "eight hundred zero seven",
+          "correct": false,
+          "explanation": "We do not say zero for the tens when the tens digit is 0. We skip it: eight hundred seven."
+        },
+        {
+          "id": "c",
+          "label": "eight hundred seven",
+          "correct": true,
+          "explanation": "Correct! 807 has 8 hundreds and 7 ones. With 0 tens, we skip the tens word: eight hundred seven."
+        },
+        {
+          "id": "d",
+          "label": "eighty seven",
+          "correct": false,
+          "explanation": "Eighty-seven = 87. 807 is a 3-digit number starting with 8 hundreds: eight hundred seven."
+        }
+      ],
+      "explanation_md": "807 in word form is eight hundred seven (we skip the tens since there are zero tens)."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What number has the expanded form 400 + 60 + 2?",
+      "correct_answer": "462",
+      "explanation_md": "400 + 60 + 2 = 462 (four hundred sixty-two)."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the word form of 930?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "nine hundred thirty",
+          "correct": true,
+          "explanation": "Correct! 930 has 9 hundreds and 3 tens. The ones digit is 0, so we skip it: nine hundred thirty."
+        },
+        {
+          "id": "b",
+          "label": "nine thirty",
+          "correct": false,
+          "explanation": "You need the word hundred. 9 is in the hundreds place: nine hundred thirty."
+        },
+        {
+          "id": "c",
+          "label": "nine hundred thirty zero",
+          "correct": false,
+          "explanation": "We do not say zero for the ones when the ones digit is 0. Just say nine hundred thirty."
+        },
+        {
+          "id": "d",
+          "label": "ninety thirty",
+          "correct": false,
+          "explanation": "Ninety = 90. 9 in the hundreds place = nine hundred. The word form is nine hundred thirty."
+        }
+      ],
+      "explanation_md": "930 in word form is nine hundred thirty. Zero ones means we skip the ones word."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Mike wrote 'two hundred four' as a number. He wrote 240. Is he correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 240 is correct.",
+          "correct": false,
+          "explanation": "240 is two hundred forty. Two hundred four has 2 hundreds and 4 ones, with 0 tens: 204."
+        },
+        {
+          "id": "b",
+          "label": "No, it should be 24.",
+          "correct": false,
+          "explanation": "24 has only 2 digits. Two hundred four has 3 digits: 2 hundreds = 200, 0 tens, 4 ones = 204."
+        },
+        {
+          "id": "c",
+          "label": "No, it should be 204.",
+          "correct": true,
+          "explanation": "Correct! Two hundred four: 2 hundreds, 0 tens, 4 ones = 204. Mike confused tens and ones."
+        },
+        {
+          "id": "d",
+          "label": "No, it should be 2004.",
+          "correct": false,
+          "explanation": "2004 is a 4-digit number. Two hundred four is 3 digits: 204."
+        }
+      ],
+      "explanation_md": "Two hundred four = 204. Mike confused four (ones) with forty (tens). 240 = two hundred forty."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which expanded form matches the number nine hundred fifteen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "900 + 50 + 1",
+          "correct": false,
+          "explanation": "900 + 50 + 1 = 951, which is nine hundred fifty-one. Nine hundred fifteen has 1 ten and 5 ones: 900 + 10 + 5."
+        },
+        {
+          "id": "b",
+          "label": "900 + 1 + 5",
+          "correct": false,
+          "explanation": "The order matters: 900 + 10 + 5 = 915. Writing 900 + 1 + 5 looks like 900 + 6 = 906."
+        },
+        {
+          "id": "c",
+          "label": "900 + 10 + 5",
+          "correct": true,
+          "explanation": "Correct! Nine hundred fifteen = 915. 9 hundreds = 900, 1 ten = 10, 5 ones = 5. Expanded: 900 + 10 + 5."
+        },
+        {
+          "id": "d",
+          "label": "9 + 1 + 5",
+          "correct": false,
+          "explanation": "This shows the digits, not their values. Use place values: 900 + 10 + 5."
+        }
+      ],
+      "explanation_md": "Nine hundred fifteen = 915 = 900 + 10 + 5."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the expanded form of 604?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "60 + 4",
+          "correct": false,
+          "explanation": "60 + 4 = 64. But 604 has 6 in the hundreds place: 600 + 4."
+        },
+        {
+          "id": "b",
+          "label": "600 + 40",
+          "correct": false,
+          "explanation": "600 + 40 = 640. 604 has 4 ones, not 4 tens. The expanded form is 600 + 4."
+        },
+        {
+          "id": "c",
+          "label": "600 + 4",
+          "correct": true,
+          "explanation": "Correct! 604 = 600 + 0 + 4 = 600 + 4. The tens digit is 0."
+        },
+        {
+          "id": "d",
+          "label": "600 + 0 + 40",
+          "correct": false,
+          "explanation": "4 is in the ones place, worth 4, not 40. 604 = 600 + 0 + 4 = 600 + 4."
+        }
+      ],
+      "explanation_md": "604 = 600 + 4. The tens digit is 0, so we skip tens (or write 600 + 0 + 4)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which number name matches 582?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "five hundred twenty-eight",
+          "correct": false,
+          "explanation": "Five hundred twenty-eight = 528. 582 has 8 tens and 2 ones: five hundred eighty-two."
+        },
+        {
+          "id": "b",
+          "label": "five hundred eighty-two",
+          "correct": true,
+          "explanation": "Correct! 582: five hundred (500) + eighty (80) + two (2) = five hundred eighty-two."
+        },
+        {
+          "id": "c",
+          "label": "fifty eighty-two",
+          "correct": false,
+          "explanation": "You need the word hundred. 5 is in the hundreds place: five hundred eighty-two."
+        },
+        {
+          "id": "d",
+          "label": "five hundred eight-two",
+          "correct": false,
+          "explanation": "Eighty is one word. 8 tens = eighty. The word form is five hundred eighty-two."
+        }
+      ],
+      "explanation_md": "582 in word form is five hundred eighty-two."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "What number has the word form 'three hundred sixty'?",
+      "correct_answer": "360",
+      "explanation_md": "Three hundred sixty: 3 hundreds (300) + 6 tens (60) + 0 ones = 360."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the word form of 100?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "one",
+          "correct": false,
+          "explanation": "One = 1. 100 is one hundred \u2014 it has 1 in the hundreds place."
+        },
+        {
+          "id": "b",
+          "label": "ten",
+          "correct": false,
+          "explanation": "Ten = 10. 100 is one hundred."
+        },
+        {
+          "id": "c",
+          "label": "one hundred",
+          "correct": true,
+          "explanation": "Correct! 100 = one hundred."
+        },
+        {
+          "id": "d",
+          "label": "one thousand",
+          "correct": false,
+          "explanation": "One thousand = 1,000. 100 is one hundred."
+        }
+      ],
+      "explanation_md": "100 in word form is one hundred."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the expanded form of 231?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2 + 3 + 1",
+          "correct": false,
+          "explanation": "This shows digits, not values. 2 is in hundreds = 200, 3 in tens = 30, 1 in ones = 1. Expanded: 200 + 30 + 1."
+        },
+        {
+          "id": "b",
+          "label": "200 + 30 + 1",
+          "correct": true,
+          "explanation": "Correct! 2 hundreds = 200, 3 tens = 30, 1 one = 1. Expanded: 200 + 30 + 1."
+        },
+        {
+          "id": "c",
+          "label": "23 + 1",
+          "correct": false,
+          "explanation": "You need to break apart all places. 231 = 200 + 30 + 1."
+        },
+        {
+          "id": "d",
+          "label": "200 + 31",
+          "correct": false,
+          "explanation": "Close, but separate the tens and ones too. 231 = 200 + 30 + 1."
+        }
+      ],
+      "explanation_md": "231 = 200 + 30 + 1."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What number matches the word form 'four hundred twelve'?",
+      "correct_answer": "412",
+      "explanation_md": "Four hundred twelve: 4 hundreds = 400, 1 ten = 10, 2 ones = 2. Number: 412."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the word form of 250?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "two fifty",
+          "correct": false,
+          "explanation": "You need the word hundred. 2 is in the hundreds place: two hundred fifty."
+        },
+        {
+          "id": "b",
+          "label": "two hundred five",
+          "correct": false,
+          "explanation": "Two hundred five = 205. 250 has 5 in the tens place: two hundred fifty."
+        },
+        {
+          "id": "c",
+          "label": "two hundred fifty",
+          "correct": true,
+          "explanation": "Correct! 250 = two hundred fifty. 2 hundreds + 5 tens + 0 ones."
+        },
+        {
+          "id": "d",
+          "label": "twenty-five hundred",
+          "correct": false,
+          "explanation": "Twenty-five hundred = 2,500. 250 is two hundred fifty."
+        }
+      ],
+      "explanation_md": "250 = two hundred fifty."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What number does 300 + 20 + 7 equal?",
+      "correct_answer": "327",
+      "explanation_md": "300 + 20 + 7 = 327."
+    }
+  ]
+}
