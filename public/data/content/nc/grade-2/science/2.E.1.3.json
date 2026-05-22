@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.E.1.3",
+  "benchmark_description": "Compare weather patterns that occur from season to season and explain how the changes affect plants and animals.",
+  "course": "science",
+  "strand": "E",
+  "lesson": {
+    "title": "Seasons and Weather Patterns",
+    "intro": "Have you noticed that summer feels very different from winter? The weather changes throughout the year in a pattern we call seasons. In this lesson we will explore how weather changes with each season and how those changes affect the plants and animals around us.",
+    "body_md": "## What Are Seasons?\n\nEarth has four seasons: **spring, summer, fall (autumn), and winter**. The seasons follow a cycle — they happen in the same order every year. Seasons occur because Earth is tilted as it travels around the Sun. Different parts of Earth receive more or less direct sunlight at different times of year.\n\n## Weather Patterns in Each Season\n\n### Spring\n- **Temperature:** Warming up after the cold of winter\n- **Precipitation:** Often rainy; showers are common\n- **Daylight:** Getting longer each day\n- **Signs:** Flowers bloom, leaves return to trees, birds return from migration, baby animals are born\n\n### Summer\n- **Temperature:** Warmest season; hot days\n- **Precipitation:** Thunderstorms common; humid air\n- **Daylight:** Longest days of the year\n- **Signs:** Trees fully leafy, insects are active, lakes and pools are warm for swimming\n\n### Fall (Autumn)\n- **Temperature:** Cooling down from summer\n- **Precipitation:** Less rain than summer; can be dry\n- **Daylight:** Getting shorter each day\n- **Signs:** Leaves change color and fall from trees, animals gather food, some birds begin migrating south\n\n### Winter\n- **Temperature:** Coldest season; frost and snow in many areas\n- **Precipitation:** Snow or freezing rain in cold climates; rain in mild climates\n- **Daylight:** Shortest days of the year\n- **Signs:** Many trees are bare, some animals hibernate, ice may form on ponds and puddles\n\n## How Seasons Affect Plants\n\n| Season | How Plants Are Affected |\n|--------|------------------------|\n| Spring | Seeds germinate; flowers bloom; leaves grow |\n| Summer | Maximum growth; photosynthesis at its peak |\n| Fall | Leaves change color (chlorophyll breaks down); leaves drop |\n| Winter | Many trees go dormant (rest); evergreens stay green |\n\n**Why do leaves change color and fall?**\nIn fall, days grow shorter and trees get less sunlight. Trees stop making chlorophyll (the green pigment used for photosynthesis). As chlorophyll breaks down, yellow and orange colors that were always there become visible. Eventually the tree drops its leaves to save water and energy during the cold, dark winter.\n\n## How Seasons Affect Animals\n\n| Season | How Animals Are Affected |\n|--------|-------------------------|\n| Spring | Baby animals born; birds return from migration; insects become active |\n| Summer | Animals most active; food is plentiful; insects pollinate flowers |\n| Fall | Animals eat extra food to build fat; some migrate; some begin hibernation |\n| Winter | Some hibernate (bears, groundhogs); some migrate (monarch butterflies, many birds); some stay active (deer, rabbits, cardinals) |\n\n## Comparing Seasons\n\nThe main differences between seasons:\n- **Temperature:** Summer (hottest) → Spring/Fall (mild) → Winter (coldest)\n- **Daylight hours:** Summer (most) → Spring/Fall (equal day and night) → Winter (least)\n- **Precipitation type:** Summer (rain, thunderstorms) ↔ Winter (snow, sleet)\n- **Plant activity:** Summer (maximum growth) ↔ Winter (dormant or bare)",
+    "worked_example_md": "### Worked Example: Matching Season to Evidence\n\n**Question:** A scientist observes the following on a nature walk:\n- The air is cool but not cold\n- Many trees have red, orange, and yellow leaves\n- She sees a squirrel gathering and burying acorns\n- The days seem shorter than they were a few months ago\n\nWhat season is it? How do you know?\n\n**Step 1 – List the clues and match them to seasons:**\n- Cool air (not hot, not freezing) → eliminates summer and deep winter → **fall or spring**\n- Leaves changing red/orange/yellow → this is the fall color change when chlorophyll breaks down → **fall**\n- Squirrel burying acorns → this is food-gathering behavior animals do to prepare for winter → **fall**\n- Days getting shorter → in fall, daylight decreases each day → **fall**\n\n**All clues point to: FALL (Autumn)**\n\n**Why not spring?** In spring, trees are growing NEW leaves (green), not losing old ones. Squirrels in spring are eating stored food, not furiously gathering. Days are getting LONGER in spring, not shorter.\n\n**Conclusion:** The evidence — falling leaves, food-gathering animals, cooling temperatures, and shrinking daylight — all consistently point to fall.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many seasons are there, and what are their names?",
+      "choices": [
+        {"id": "a", "label": "Two seasons: summer and winter", "correct": false, "explanation": "There are four seasons. Summer and winter are just two of them."},
+        {"id": "b", "label": "Four seasons: spring, summer, fall, and winter", "correct": true, "explanation": "Correct! Earth has four seasons — spring, summer, fall (autumn), and winter. They occur in the same order every year."},
+        {"id": "c", "label": "Three seasons: spring, summer, and fall", "correct": false, "explanation": "There are four seasons. Winter is the fourth season that follows fall."},
+        {"id": "d", "label": "Six seasons: one for each month of school", "correct": false, "explanation": "There are four seasons, not six. They are spring, summer, fall, and winter."}
+      ],
+      "explanation_md": "Earth has four seasons: spring, summer, fall, and winter. They repeat in the same order each year because of Earth's tilted orbit around the Sun."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which season is typically the COLDEST?",
+      "choices": [
+        {"id": "a", "label": "Spring", "correct": false, "explanation": "Spring is warmer than winter — temperatures rise as winter ends. Spring is mild, not the coldest season."},
+        {"id": "b", "label": "Summer", "correct": false, "explanation": "Summer is the warmest season, not the coldest."},
+        {"id": "c", "label": "Fall", "correct": false, "explanation": "Fall is cooler than summer but warmer than winter. Winter is the coldest season."},
+        {"id": "d", "label": "Winter", "correct": true, "explanation": "Correct! Winter is the coldest season. Many places experience freezing temperatures, ice, and snow during winter."}
+      ],
+      "explanation_md": "Winter is the coldest season because the part of Earth you live on is tilted away from the Sun, receiving less direct sunlight. This results in colder temperatures, shorter days, and possible snow and ice."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do many trees lose their leaves in the fall?",
+      "choices": [
+        {"id": "a", "label": "The leaves get too heavy and fall off", "correct": false, "explanation": "Leaves don't fall because of weight. They fall because trees actively stop sending nutrients to leaves as winter approaches and days get shorter."},
+        {"id": "b", "label": "To save water and energy during the short, cold winter days when photosynthesis cannot happen efficiently", "correct": true, "explanation": "Correct! As fall brings shorter days and less sunlight, trees stop making chlorophyll. They drop their leaves to conserve water and energy during the winter when photosynthesis would be very inefficient."},
+        {"id": "c", "label": "Because it rains too much in fall and the water washes the leaves off", "correct": false, "explanation": "Rain does not wash leaves off trees. Leaf drop is controlled by the tree in response to shorter days and colder temperatures — it is a survival strategy."},
+        {"id": "d", "label": "Because bugs eat all the leaves in fall", "correct": false, "explanation": "Bugs do eat some leaves, but that is not why deciduous trees drop their leaves in fall. The leaf drop is triggered by shorter days and is a built-in tree response to winter conditions."}
+      ],
+      "explanation_md": "Trees drop their leaves in fall to survive winter. With shorter days, there is not enough sunlight for efficient photosynthesis. By dropping leaves, trees avoid losing water through their leaves during cold months and conserve energy until spring, when longer days and warmer temperatures return."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student notices flowers blooming, baby rabbits in the yard, and rain almost every day. Which season is MOST likely?",
+      "choices": [
+        {"id": "a", "label": "Winter", "correct": false, "explanation": "In winter, plants are dormant and baby animals are rare. Flowers blooming and baby animals point to spring."},
+        {"id": "b", "label": "Spring", "correct": true, "explanation": "Correct! Flowers blooming, baby animals being born, and frequent rain showers are classic signs of spring."},
+        {"id": "c", "label": "Fall", "correct": false, "explanation": "In fall, flowers are dying, leaves change color, and animals are gathering food for winter — not giving birth to babies."},
+        {"id": "d", "label": "Summer", "correct": false, "explanation": "In summer, flowers are already full-grown, baby animals born in spring are older, and rain tends to come as thunderstorms rather than gentle showers."}
+      ],
+      "explanation_md": "Flowers blooming, baby animals being born, and frequent rain are classic spring signs. Spring follows winter as temperatures warm, days lengthen, and plants wake from dormancy."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do many birds fly south in the fall?",
+      "choices": [
+        {"id": "a", "label": "They are following the sun to find longer days", "correct": false, "explanation": "Birds migrate south primarily for food, not just longer days. In southern areas during winter, insects and plants are still available."},
+        {"id": "b", "label": "To find warmer areas with more food, since their summer food source disappears in winter", "correct": true, "explanation": "Correct! Migration is triggered by the shortening of days and decreasing food availability. Birds fly to warmer climates where insects and berries are still available through the winter months."},
+        {"id": "c", "label": "Because they are afraid of snow", "correct": false, "explanation": "Birds do not migrate because of fear. Migration is an instinctive response to decreasing day length and food scarcity — a survival behavior refined over many generations."},
+        {"id": "d", "label": "Because they only live for one season and die in fall", "correct": false, "explanation": "Most migratory birds live several years and migrate back and forth many times. They return north in spring."}
+      ],
+      "explanation_md": "Birds migrate south in fall because their food sources (insects, berries, small animals) become scarce as temperatures drop and days shorten. Southern areas still have plentiful food during winter. This behavioral adaptation allows birds to survive what would otherwise be a food-scarce period."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which season has the LONGEST days (most hours of daylight)?",
+      "choices": [
+        {"id": "a", "label": "Winter", "correct": false, "explanation": "Winter has the shortest days of the year, not the longest. The part of Earth you are on is tilted away from the Sun in winter."},
+        {"id": "b", "label": "Fall", "correct": false, "explanation": "In fall, days are getting shorter. By the end of fall, the days are quite short."},
+        {"id": "c", "label": "Spring", "correct": false, "explanation": "In spring, days are getting longer, but they have not yet reached their maximum length. Summer has the longest days."},
+        {"id": "d", "label": "Summer", "correct": true, "explanation": "Correct! Summer has the longest days — the most hours of daylight. This is because the part of Earth you live on is tilted toward the Sun during summer."}
+      ],
+      "explanation_md": "Summer has the most hours of daylight. Earth's tilt means that during summer, your part of Earth faces more directly toward the Sun, giving you more hours of sunlight each day. The opposite is true in winter."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A bear eats large amounts of food in the fall and then sleeps (hibernates) through much of the winter. How do these behaviors connect to seasonal weather patterns?",
+      "choices": [
+        {"id": "a", "label": "Bears eat more in fall because summer food was tasteless, and they sleep in winter because they are bored", "correct": false, "explanation": "Bear behavior is driven by survival, not taste preference or boredom. Eating more in fall builds fat reserves; sleeping in winter conserves energy when food is unavailable."},
+        {"id": "b", "label": "Bears build fat reserves in fall when food is plentiful, then hibernate in winter when cold temperatures and snow make food scarce", "correct": true, "explanation": "Correct! Fall brings an abundance of berries, nuts, and fish before winter hits. Bears eat heavily to build fat. When winter's cold and snow eliminate food sources, the bear uses stored fat for energy while sleeping through the cold season."},
+        {"id": "c", "label": "Bears hibernate in winter because they love cold temperatures and snow", "correct": false, "explanation": "Bears do not hibernate because they enjoy cold — they hibernate because food disappears in winter. Hibernation is a survival strategy, not a preference."},
+        {"id": "d", "label": "Bears' behavior has nothing to do with seasons — they eat and sleep randomly throughout the year", "correct": false, "explanation": "Bear behavior is tightly linked to seasonal patterns. The cycle of heavy fall feeding and winter hibernation is a well-documented seasonal adaptation."}
+      ],
+      "explanation_md": "Bear hibernation is a direct response to seasonal weather patterns. Fall's plentiful food lets bears build fat reserves. Winter's cold temperatures and snow cover eliminate the bear's food sources. By hibernating, the bear survives on stored fat without needing to eat for months. This is one of the clearest examples of how seasonal weather changes directly affect animal behavior."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In which season do plants grow the MOST?",
+      "choices": [
+        {"id": "a", "label": "Winter", "correct": false, "explanation": "Plants grow very little in winter. Cold temperatures and short days reduce photosynthesis, and many plants go dormant (rest)."},
+        {"id": "b", "label": "Fall", "correct": false, "explanation": "In fall, plants are slowing their growth and preparing for winter by losing their leaves and stopping photosynthesis."},
+        {"id": "c", "label": "Spring", "correct": false, "explanation": "Spring is a time of rapid growth recovery after winter, but summer has longer days and more sunlight, allowing for even more photosynthesis."},
+        {"id": "d", "label": "Summer", "correct": true, "explanation": "Correct! Summer has the most daylight hours and warmest temperatures, allowing plants to photosynthesize at maximum efficiency and grow the most."}
+      ],
+      "explanation_md": "Plants grow most in summer because that is when sunlight is most intense and days are longest. More sunlight means more photosynthesis, which means more energy for growth."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Compare spring and fall. Both have mild temperatures — how are they different?",
+      "choices": [
+        {"id": "a", "label": "Spring and fall are identical in every way — they cannot be told apart", "correct": false, "explanation": "Spring and fall both have mild temperatures, but they have opposite trends and opposite effects on plants and animals."},
+        {"id": "b", "label": "In spring, days are getting longer and plants are waking up; in fall, days are getting shorter and plants are going dormant", "correct": true, "explanation": "Correct! Both seasons have similar temperatures, but spring is moving TOWARD longer days and summer warmth (plants bloom, animals are born), while fall is moving TOWARD shorter days and winter cold (leaves fall, animals prepare for winter)."},
+        {"id": "c", "label": "Spring is warmer than fall; fall is warmer than spring", "correct": false, "explanation": "In a given year, spring and fall have similar average temperatures. The key difference is the direction of change — spring is warming up while fall is cooling down."},
+        {"id": "d", "label": "In spring it rains; in fall it snows", "correct": false, "explanation": "While snow does happen in early fall in some places, both seasons typically have rain. The difference is direction of change (warming vs. cooling) and plant/animal responses."}
+      ],
+      "explanation_md": "Spring and fall feel similar temperature-wise, but they are opposite in trend and effect. Spring is warming up — days are getting longer, plants are growing, and animals are reproducing. Fall is cooling down — days are getting shorter, plants are shutting down, and animals are preparing for winter. This opposing trend is what makes each season unique despite similar temperatures."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A garden does not have electricity, water systems, or heating. A gardener plants tomatoes. In which seasons can the tomatoes grow, and why can they NOT grow all year?",
+      "choices": [
+        {"id": "a", "label": "Tomatoes can grow all year with no problem because plants do not need sunlight", "correct": false, "explanation": "Plants absolutely need sunlight to photosynthesize. Without photosynthesis, they cannot make food and will die."},
+        {"id": "b", "label": "Tomatoes grow in spring and summer (and early fall) but NOT in winter because cold temperatures and limited sunlight prevent growth and would kill the plants", "correct": true, "explanation": "Correct! Tomatoes need warm temperatures and long days of sunlight. Spring and summer provide both. Winter brings freezing temperatures that kill tomato plants, and short days provide insufficient sunlight for growth."},
+        {"id": "c", "label": "Tomatoes only grow in winter because they prefer cold weather and short days", "correct": false, "explanation": "Tomatoes are warm-season plants. Cold temperatures stop their growth and freezing temperatures kill them. They grow best in the warmth and long days of summer."},
+        {"id": "d", "label": "Tomatoes grow only in fall because they need cool temperatures and falling leaves", "correct": false, "explanation": "Tomatoes need warm weather and lots of sunlight to produce fruit. Fall's cooling temperatures and shortening days signal the end of the tomato growing season, not the beginning."}
+      ],
+      "explanation_md": "Tomatoes are warm-season plants that require warmth, long days, and abundant sunlight. Spring through early fall provides these conditions. In winter, freezing temperatures damage or kill tomato plants, and the short days provide insufficient sunlight for photosynthesis. This is a direct example of how seasonal weather patterns control when plants can grow."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Describe the main weather pattern of each season and name one way each season affects plants OR animals.",
+      "choices": [
+        {"id": "a", "label": "Spring: hot and dry (plants die). Summer: cold and snowy (animals hibernate). Fall: very rainy (animals migrate). Winter: warm and sunny (flowers bloom).", "correct": false, "explanation": "This is entirely backwards. Spring is mild and rainy; summer is hot; fall is cooling with shorter days; winter is the coldest season."},
+        {"id": "b", "label": "Spring: warming, rainy (flowers bloom). Summer: hot, long days (maximum plant growth). Fall: cooling, shorter days (leaves change and fall). Winter: coldest, short days (plants dormant, some animals hibernate).", "correct": true, "explanation": "Correct! This accurately describes the weather pattern and one biological effect for each season."},
+        {"id": "c", "label": "All four seasons have identical weather with no differences in temperature or daylight.", "correct": false, "explanation": "Seasons have very different temperature, precipitation, and daylight patterns. That is the whole point of seasons."},
+        {"id": "d", "label": "Spring: cold (animals hibernate). Summer: mild (leaves fall). Fall: hot (insects pollinate). Winter: rainy (plants grow most).", "correct": false, "explanation": "These descriptions are scrambled. Hibernation occurs in winter, leaf fall occurs in autumn, maximum insect activity is in summer, and plants grow most in summer — not winter."}
+      ],
+      "explanation_md": "Each season has a distinct weather pattern: Spring (warming, rainy) → Summer (hot, long days) → Fall (cooling, shorter days) → Winter (coldest, short days). Each pattern triggers specific responses in plants and animals — blooming, maximum growth, leaf drop, and dormancy/hibernation respectively."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student moves from North Carolina (four seasons) to a tropical island that stays warm and sunny all year. How might the plants and animals on the island differ from those in NC?",
+      "choices": [
+        {"id": "a", "label": "The island plants would lose their leaves in fall just like in NC", "correct": false, "explanation": "Leaf drop in NC is triggered by shorter, cooler fall days. On a tropical island with no seasonal change, there is no trigger for mass leaf drop."},
+        {"id": "b", "label": "Island plants would likely stay green all year and animals would not need to migrate or hibernate since food is available year-round", "correct": true, "explanation": "Correct! Without seasonal changes in temperature and daylight, the conditions that trigger leaf drop, hibernation, and migration do not occur. Plants grow year-round and animals can find food in every month."},
+        {"id": "c", "label": "The island would have the same seasonal patterns because all places on Earth have four seasons", "correct": false, "explanation": "Not all places on Earth have distinct four seasons. Tropical regions near the equator receive fairly consistent sunlight and warmth year-round and do not experience the same seasonal changes as North Carolina."},
+        {"id": "d", "label": "Island animals would still hibernate in winter because all animals hibernate", "correct": false, "explanation": "Not all animals hibernate. And on a tropical island with no winter cold or food scarcity, there is no trigger for hibernation. Hibernation is a response to cold and scarce food — both conditions that don't occur on a warm tropical island."}
+      ],
+      "explanation_md": "Tropical islands receive consistent sunlight and warmth year-round. Without the seasonal triggers (shorter days, colder temperatures) that cause leaf drop, migration, and hibernation, the organisms there have no need for those behaviors. Plants can grow and produce food continuously, and animals can find food every month — so the dramatic seasonal behaviors seen in NC simply do not occur."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Explain how the seasons form a cycle and why they always repeat in the same order.",
+      "choices": [
+        {"id": "a", "label": "Seasons repeat in random order — sometimes summer comes before spring", "correct": false, "explanation": "Seasons always follow the same order: spring → summer → fall → winter → spring again. This is because Earth's orbit around the Sun is predictable."},
+        {"id": "b", "label": "Seasons repeat in the same order (spring → summer → fall → winter) because Earth orbits the Sun in a regular path and its tilt stays constant, so each part of Earth receives more and then less direct sunlight in a predictable annual cycle", "correct": true, "explanation": "Correct! Earth takes about 365 days to orbit the Sun. Because Earth's axis is tilted at a constant angle, the amount of direct sunlight any location receives changes in a predictable, repeating pattern — creating the same seasonal cycle every year."},
+        {"id": "c", "label": "Seasons repeat because the Sun moves around Earth in a circle once a year", "correct": false, "explanation": "Earth orbits the Sun, not the other way around. The predictable seasonal cycle results from Earth's orbit combined with its axial tilt."},
+        {"id": "d", "label": "Seasons do not actually repeat — each year has completely different seasons", "correct": false, "explanation": "Seasons reliably repeat in the same order every year. People plant crops, schedule school years, and plan activities around the predictable seasonal cycle."}
+      ],
+      "explanation_md": "Seasons cycle in the same order because Earth orbits the Sun in a regular, elliptical path and its axis is tilted at a constant angle (~23.5 degrees). As Earth moves around the Sun, different parts of the planet receive more or less direct sunlight at predictable times — creating spring, summer, fall, and winter in a cycle that repeats every year. This regularity is what makes seasons predictable and allows plants, animals, and humans to rely on them."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which season comes right AFTER summer?",
+      "choices": [
+        {"id": "a", "label": "Spring", "correct": false, "explanation": "Spring comes before summer, not after. The order is spring → summer → fall → winter."},
+        {"id": "b", "label": "Winter", "correct": false, "explanation": "Winter comes after fall, not directly after summer. The season that follows summer is fall."},
+        {"id": "c", "label": "Fall (autumn)", "correct": true, "explanation": "Correct! The four seasons go in order: spring → summer → fall → winter. Fall comes right after summer."},
+        {"id": "d", "label": "Summer again", "correct": false, "explanation": "Seasons do not repeat back-to-back. After summer comes fall, then winter, then spring, then summer again."}
+      ],
+      "explanation_md": "The seasons cycle in order: spring → summer → fall → winter → spring again. Fall comes directly after summer — temperatures start to cool and days become shorter."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What happens to many trees' leaves in the fall?",
+      "choices": [
+        {"id": "a", "label": "The leaves turn bright green and get bigger", "correct": false, "explanation": "Leaves grow bigger and greener in spring and summer. In fall, leaves change color and fall off."},
+        {"id": "b", "label": "The leaves change color (red, orange, yellow) and fall off", "correct": true, "explanation": "Correct! In fall, trees stop making the green chlorophyll in their leaves. As chlorophyll breaks down, red, orange, and yellow colors appear. Then the leaves fall off."},
+        {"id": "c", "label": "The leaves turn into flowers", "correct": false, "explanation": "Leaves do not turn into flowers. Flowers form from buds in spring. In fall, leaves change color and drop."},
+        {"id": "d", "label": "Nothing — leaves stay the same all year long", "correct": false, "explanation": "For deciduous trees (like oaks, maples), leaves DO change. They turn colors in fall and drop off before winter."}
+      ],
+      "explanation_md": "In fall, deciduous trees (trees that lose their leaves) stop producing chlorophyll (the green pigment). As chlorophyll breaks down, hidden red, orange, and yellow pigments become visible. Eventually the leaves fall off, leaving bare branches for winter."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which season is BEST for swimming outside?",
+      "choices": [
+        {"id": "a", "label": "Winter", "correct": false, "explanation": "Winter is the coldest season with possible ice and snow. It is not suitable for outdoor swimming in most places."},
+        {"id": "b", "label": "Summer", "correct": true, "explanation": "Correct! Summer is the warmest season with the hottest temperatures and longest days. It is the best season for outdoor swimming."},
+        {"id": "c", "label": "Fall", "correct": false, "explanation": "Fall is cooling down from summer. Swimming outdoors in fall becomes uncomfortable as temperatures drop."},
+        {"id": "d", "label": "Early winter", "correct": false, "explanation": "Early winter is cold — outdoor swimming would be very uncomfortable or dangerous."}
+      ],
+      "explanation_md": "Summer is the hottest season with the longest days. This makes it the best time for outdoor activities like swimming. High temperatures heat the air and water, making swimming comfortable."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When do flowers usually start to bloom again after winter?",
+      "choices": [
+        {"id": "a", "label": "In the middle of winter", "correct": false, "explanation": "Flowers do not typically bloom in winter because temperatures are too cold and days are too short."},
+        {"id": "b", "label": "In the fall", "correct": false, "explanation": "In fall, flowers are dying or going dormant as temperatures cool. They do not bloom in fall."},
+        {"id": "c", "label": "In the spring", "correct": true, "explanation": "Correct! Spring's warming temperatures and longer days trigger plants to begin growing and flowering again after winter dormancy."},
+        {"id": "d", "label": "Never — once flowers die they do not come back", "correct": false, "explanation": "Many flowers are perennials — they come back each spring. Even annuals that die in winter leave seeds that sprout in spring."}
+      ],
+      "explanation_md": "Spring's warmer temperatures and longer days signal to plants that it is safe to grow again. Flowers bloom in spring as plants emerge from their winter dormancy and take advantage of the returning warmth and sunlight."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A bird that lives in Canada in the summer is found in Florida in January. Why might this bird have moved?",
+      "choices": [
+        {"id": "a", "label": "The bird got lost and could not find its way home", "correct": false, "explanation": "Migratory birds are excellent navigators — they use the sun, stars, and Earth's magnetic field to find their way. Moving south in winter is intentional, not accidental."},
+        {"id": "b", "label": "The bird migrated south to find food and warmth during Canada's cold winter", "correct": true, "explanation": "Correct! In winter, Canada becomes very cold and food (insects, berries) is scarce. The bird migrated south to Florida where winter is warmer and food is still available."},
+        {"id": "c", "label": "The bird moved because it was too hot in Canada", "correct": false, "explanation": "Canada's winters are very cold, not hot. The bird moved to escape cold and find food — not because Canada was too warm."},
+        {"id": "d", "label": "The bird moved because it was summer in Florida and it prefers summer", "correct": false, "explanation": "When it is winter in Canada, it is also winter in Florida — just milder winter. The bird is not chasing summer; it is escaping extreme cold and food scarcity."}
+      ],
+      "explanation_md": "Migration is a behavioral response to seasonal changes. Canada's winter brings extreme cold and very little food. By flying to Florida's milder climate, the bird can find food (insects, berries) that would be unavailable under snow and ice in Canada. This is seasonal migration — a survival strategy triggered by changing weather patterns."
+    }
+  ]
+}
