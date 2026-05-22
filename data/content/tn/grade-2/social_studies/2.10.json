@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.10",
+  "benchmark_description": "Explain how the environment influences the lives of people in a community, including jobs, food, shelter, and recreation.",
+  "course": "social_studies",
+  "strand": "GEO",
+  "lesson": {
+    "title": "How the Environment Shapes Community Life",
+    "intro": "Where you live makes a big difference in how you live! Mountains, rivers, and climate all shape the jobs people do, the food they eat, and the fun they have. Let's explore how the environment influences community life.",
+    "body_md": "## What Is the Environment?\n\nThe **environment** is everything around us — the land, water, air, plants, animals, and weather. The environment affects:\n\n- **Jobs** people do\n- **Food** people eat\n- **Shelter** people build\n- **Recreation** (fun activities) people enjoy\n\n## Jobs and the Environment\n\nThe land and water around a community often shape what work people do.\n\n| Environment | Common Jobs |\n|---|---|\n| Near the ocean | Fishermen, boat builders, harbor workers |\n| Near forests | Loggers, park rangers, lumber workers |\n| Flat farmland (plains) | Farmers, crop workers |\n| Mountains | Mining, ski resort workers, hikers guides |\n| City (urban) | Office workers, restaurant owners, drivers |\n\n**Tennessee Example:** Many people in East Tennessee work in tourism at the Great Smoky Mountains. Many people near the Mississippi River delta area work in agriculture.\n\n## Food and the Environment\n\nCommunities eat what they can grow, catch, or raise nearby.\n\n- Coastal communities eat lots of **fish and seafood**.\n- Communities in warm climates grow **fruits and vegetables**.\n- Farm communities raise **beef cattle, chickens, and pigs**.\n- Mountain communities might eat **deer, rabbit, berries, and nuts**.\n\nTennessee farms produce beef, corn, soybeans, cotton, and tomatoes.\n\n## Shelter and the Environment\n\nCommunities build homes to match the climate and land.\n\n| Climate/Land | Type of Shelter |\n|---|---|\n| Hot, dry desert | Adobe homes that stay cool |\n| Cold, snowy mountains | Thick-walled, insulated homes |\n| Rainy areas | Homes with steep roofs to shed rain |\n| Flat land | Homes with basements (tornado shelter) |\n| Coastal/flood area | Homes built on stilts above water |\n\n## Recreation and the Environment\n\nThe land and weather around a community also determine fun activities!\n\n- Mountain communities enjoy **hiking, skiing, and rock climbing**.\n- Coastal communities enjoy **swimming, surfing, and fishing**.\n- Forest communities enjoy **camping, hunting, and bird watching**.\n- Flat plains communities enjoy **cycling and soccer on open fields**.\n- River communities enjoy **kayaking, canoeing, and fishing**.\n\nTennessee has the Great Smoky Mountains (hiking), rivers (rafting), and the Tennessee River (fishing and boating).",
+    "worked_example_md": "## Worked Example\n\n**Question:** Read about two communities. Compare how their environments influence their lives.\n\n**Community A:** Seaport Town\n- Located on the coast of the Gulf of Mexico\n- Climate: warm and humid year-round\n- Has beaches, fish, and a large harbor\n\n**Community B:** Mountain Ridge\n- Located in the Appalachian Mountains\n- Climate: cool summers, snowy winters\n- Has forests, streams, and steep rocky land\n\n**Jobs:**\n- Seaport Town: fishing, tourism, working at the harbor\n- Mountain Ridge: logging, ski resort, park rangers\n\n**Food:**\n- Seaport Town: fish, shrimp, tropical fruits\n- Mountain Ridge: deer, berries, corn grown in valleys\n\n**Shelter:**\n- Seaport Town: houses that can handle humidity and storms, sometimes on stilts\n- Mountain Ridge: thick-walled homes with steep roofs to shed snow\n\n**Recreation:**\n- Seaport Town: swimming, surfing, boating\n- Mountain Ridge: hiking, skiing, snowshoeing\n\n**Conclusion:** Each community's environment directly shapes the jobs, food, homes, and activities of the people who live there.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A community lives near the ocean. What job would MOST LIKELY be common there?",
+      "choices": [
+        {"id": "a", "label": "Ski instructor", "correct": false, "explanation": "Ski instructors work in snowy mountain areas, not near the ocean."},
+        {"id": "b", "label": "Commercial fisherman", "correct": true, "explanation": "Communities near the ocean often have many fishermen because the ocean provides fish."},
+        {"id": "c", "label": "Wheat farmer", "correct": false, "explanation": "Wheat farming happens on flat plains, not usually near the ocean."},
+        {"id": "d", "label": "Coal miner", "correct": false, "explanation": "Mining happens near mountains or underground mineral deposits, not typically near the ocean."}
+      ],
+      "explanation_md": "Communities near the ocean often have fishermen because the ocean provides a rich source of fish."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which food would a coastal community MOST LIKELY eat often?",
+      "choices": [
+        {"id": "a", "label": "Corn and wheat", "correct": false, "explanation": "Corn and wheat are grown on flat plains, not usually harvested from the coast."},
+        {"id": "b", "label": "Fish and seafood", "correct": true, "explanation": "Coastal communities are near the ocean and often eat fish and seafood."},
+        {"id": "c", "label": "Berries from mountain forests", "correct": false, "explanation": "Mountain berries come from mountain communities, not coastal ones."},
+        {"id": "d", "label": "Cactus fruits", "correct": false, "explanation": "Cactus fruits are found in desert communities, not on the coast."}
+      ],
+      "explanation_md": "Coastal communities are near water and eat fish and seafood that come from the ocean."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "People in a mountain community enjoy skiing and hiking. How does the environment influence their recreation?",
+      "choices": [
+        {"id": "a", "label": "The mountains have snow and trails, which make skiing and hiking possible", "correct": true, "explanation": "The mountainous terrain with snow and trails makes skiing and hiking natural activities for mountain communities."},
+        {"id": "b", "label": "Mountain people must ski because there are no other activities", "correct": false, "explanation": "Mountain communities have many activities. Skiing and hiking are popular because of the terrain, not because nothing else exists."},
+        {"id": "c", "label": "People in mountains must live on the snow", "correct": false, "explanation": "Mountain communities build warm shelters. They do not have to live outdoors in snow."},
+        {"id": "d", "label": "The mountains have no effect on what people do for fun", "correct": false, "explanation": "The environment greatly influences recreation. Mountains make skiing and hiking natural choices."}
+      ],
+      "explanation_md": "Mountain terrain and snowy winters make skiing and hiking natural recreation choices for mountain communities."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In a hot, dry desert community, people build homes from adobe (mud bricks). Why?",
+      "choices": [
+        {"id": "a", "label": "Because adobe bricks look pretty", "correct": false, "explanation": "The reason for adobe homes is practical — they keep people cool in hot climates."},
+        {"id": "b", "label": "Because adobe keeps homes cool in hot weather", "correct": true, "explanation": "Adobe bricks are thick and hold cool air inside. They are ideal for hot, dry desert climates."},
+        {"id": "c", "label": "Because all communities use adobe bricks", "correct": false, "explanation": "Adobe is used mainly in hot, dry climates. Other climates use different building materials."},
+        {"id": "d", "label": "Because adobe is the only material available everywhere", "correct": false, "explanation": "Many building materials exist. Adobe is chosen because it works well in hot, dry environments."}
+      ],
+      "explanation_md": "Adobe bricks are thick and keep homes cool in hot, dry climates. People adapt their shelter to the environment."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Farmers in a community grow corn, soybeans, and cotton. What does this tell you about their environment?",
+      "choices": [
+        {"id": "a", "label": "They live in a cold, icy climate", "correct": false, "explanation": "Corn, soybeans, and cotton grow in warm climates with good soil, not in cold icy places."},
+        {"id": "b", "label": "They live near flat, fertile land with a warm growing season", "correct": true, "explanation": "Corn, soybeans, and cotton grow well on flat fertile land with warm weather and enough rain."},
+        {"id": "c", "label": "They live by the ocean and fish for food", "correct": false, "explanation": "These crops are grown on land, not harvested from the ocean."},
+        {"id": "d", "label": "They live in the mountains with cold, snowy winters", "correct": false, "explanation": "Cotton and soybeans need warm growing seasons, not cold mountain winters."}
+      ],
+      "explanation_md": "Corn, soybeans, and cotton grow on flat, warm, fertile farmland. The environment must have good soil and a warm growing season."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "People in East Tennessee often work at hotels, restaurants, and tour companies near the Great Smoky Mountains. Why?",
+      "choices": [
+        {"id": "a", "label": "Because the mountains have gold that people dig for", "correct": false, "explanation": "The Smoky Mountains are not known for gold mining. They are a major tourist destination."},
+        {"id": "b", "label": "Because millions of visitors come to see the beautiful mountains, supporting tourism jobs", "correct": true, "explanation": "The Great Smoky Mountains are the most visited national park in the U.S. Tourism supports many jobs."},
+        {"id": "c", "label": "Because those are the only jobs available in Tennessee", "correct": false, "explanation": "Tennessee has many industries. Tourism jobs near the Smoky Mountains exist because of the natural environment there."},
+        {"id": "d", "label": "Because the mountains make farming impossible there", "correct": false, "explanation": "While farming in mountains is harder, the main reason for tourism jobs is the beautiful natural scenery."}
+      ],
+      "explanation_md": "The Great Smoky Mountains attract millions of visitors each year. This creates many tourism-related jobs."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community near a fast-moving river is known for white-water rafting. How does the environment influence this recreation?",
+      "choices": [
+        {"id": "a", "label": "People raft because rivers are blue and look nice", "correct": false, "explanation": "People raft because fast-moving rivers make it possible and exciting. The terrain, not color, influences recreation."},
+        {"id": "b", "label": "The fast-moving river provides the natural setting needed for white-water rafting", "correct": true, "explanation": "White-water rafting requires a fast-moving river. The environment provides this natural condition."},
+        {"id": "c", "label": "People in all communities enjoy white-water rafting equally", "correct": false, "explanation": "White-water rafting is specific to communities near fast-moving rivers."},
+        {"id": "d", "label": "The river has no effect on what people do for fun", "correct": false, "explanation": "The river is precisely why people in this community can enjoy white-water rafting."}
+      ],
+      "explanation_md": "Fast-moving rivers make white-water rafting possible. The environment directly shapes what recreation people enjoy."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which community would MOST LIKELY have homes built on stilts?",
+      "choices": [
+        {"id": "a", "label": "A community in the high mountains far from water", "correct": false, "explanation": "Homes on stilts protect against floods. Mountain communities far from water do not need stilts."},
+        {"id": "b", "label": "A community in a flood-prone coastal or river area", "correct": true, "explanation": "Stilts lift homes above flood water. Coastal and river communities use them to stay safe during floods."},
+        {"id": "c", "label": "A community in a dry desert", "correct": false, "explanation": "Deserts rarely have flooding. Homes there are built differently — often with thick adobe walls to stay cool."},
+        {"id": "d", "label": "A community in the frozen tundra", "correct": false, "explanation": "Some homes in the Arctic are elevated, but stilts in flood-prone coastal/river areas are the most common example in this context."}
+      ],
+      "explanation_md": "Homes built on stilts protect against flooding. Communities near flood-prone coasts or rivers use this design."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A mountain mining community in Tennessee closes because the mine runs out of coal. What might happen next?",
+      "choices": [
+        {"id": "a", "label": "The environment changes so the community can fish instead", "correct": false, "explanation": "Landlocked mountain communities cannot suddenly become fishing communities. The land and environment do not change."},
+        {"id": "b", "label": "The community must find new jobs that match the remaining environment, like tourism or forestry", "correct": true, "explanation": "When a main industry closes, communities adapt by finding other jobs suited to their environment, like tourism in the mountains."},
+        {"id": "c", "label": "All residents must immediately move to the coast", "correct": false, "explanation": "When a local industry closes, communities work to find new economic activities. They do not all automatically move."},
+        {"id": "d", "label": "Nothing changes because jobs do not depend on the environment", "correct": false, "explanation": "The environment greatly shapes what jobs are available in a community."}
+      ],
+      "explanation_md": "When the mine closes, the community looks for other jobs that fit the mountain environment, like tourism or forestry."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Two students argue: Maria says environment completely controls how people live. James says people can always choose how they live no matter the environment. Who is CLOSER to correct?",
+      "choices": [
+        {"id": "a", "label": "Maria is completely right — the environment controls everything", "correct": false, "explanation": "People have some ability to adapt and modify environments. The environment influences but does not completely control every choice."},
+        {"id": "b", "label": "James is completely right — environment has no effect on how people live", "correct": false, "explanation": "Environment greatly influences jobs, food, shelter, and recreation. Saying it has no effect is incorrect."},
+        {"id": "c", "label": "The environment strongly influences community life, but people also adapt and make choices", "correct": true, "explanation": "The environment is a major influence but not the only one. People adapt, modify, and make choices too."},
+        {"id": "d", "label": "Both are completely wrong", "correct": false, "explanation": "Both students have a point. The truth is in the middle — environment influences people AND people adapt."}
+      ],
+      "explanation_md": "The environment strongly influences how people live, but people also adapt and modify their environment. Neither extreme is fully correct."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Name TWO ways the environment influences community life.",
+      "choices": [
+        {"id": "a", "label": "The language people speak and the books they read", "correct": false, "explanation": "Language and books are cultural choices, not direct results of the physical environment."},
+        {"id": "b", "label": "The jobs people do and the food they eat", "correct": true, "explanation": "The environment shapes what jobs are available and what foods can be grown or caught nearby."},
+        {"id": "c", "label": "The number of children in the community and the community's name", "correct": false, "explanation": "These are not direct influences of the physical environment."},
+        {"id": "d", "label": "The holidays celebrated and the type of music played", "correct": false, "explanation": "Holidays and music are cultural influences, not direct physical environment influences."}
+      ],
+      "explanation_md": "The environment influences jobs and food, among other things like shelter and recreation."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community is located on flat, fertile land with warm summers and regular rain. What type of work would you expect to find there?",
+      "choices": [
+        {"id": "a", "label": "Snow removal and ski patrol", "correct": false, "explanation": "Snow removal and ski patrol are for cold, snowy mountain communities, not warm, flat farmland."},
+        {"id": "b", "label": "Fishing and boat-building", "correct": false, "explanation": "Fishing and boat-building are for coastal or riverine communities, not flat inland farmland."},
+        {"id": "c", "label": "Farming and agriculture", "correct": true, "explanation": "Flat, fertile land with good weather is ideal for farming. Agriculture would be the main industry."},
+        {"id": "d", "label": "Skiing and mountain guiding", "correct": false, "explanation": "Skiing and mountain guiding are in mountain communities, not on flat plains."}
+      ],
+      "explanation_md": "Flat, fertile land with warm weather and rain is perfect for farming. Agriculture would be the main industry."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student lives in the mountains and a student lives on the coast. How might their RECREATION be different?",
+      "choices": [
+        {"id": "a", "label": "They would enjoy exactly the same activities since recreation does not depend on the environment", "correct": false, "explanation": "Recreation depends heavily on the environment. Mountains offer different activities than coasts."},
+        {"id": "b", "label": "The mountain student would likely hike and ski; the coastal student would likely swim and fish", "correct": true, "explanation": "Mountains offer hiking and skiing. Coasts offer swimming and fishing. Environment shapes recreation."},
+        {"id": "c", "label": "The coastal student would enjoy skiing; the mountain student would enjoy surfing", "correct": false, "explanation": "Skiing requires mountains and snow. Surfing requires ocean waves. These are reversed."},
+        {"id": "d", "label": "Both students would only play video games indoors", "correct": false, "explanation": "Both mountain and coastal environments offer rich outdoor activities suited to the land and climate."}
+      ],
+      "explanation_md": "Mountains offer skiing and hiking. Coasts offer swimming and fishing. The environment shapes what recreation people enjoy."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where would you MOST LIKELY find a fisherman working?",
+      "choices": [
+        {"id": "a", "label": "In the middle of a desert", "correct": false, "explanation": "Deserts have little water. Fishermen work near oceans, rivers, or lakes."},
+        {"id": "b", "label": "Near a river or ocean", "correct": true, "explanation": "Fishermen need water to fish. They work near oceans, rivers, and lakes."},
+        {"id": "c", "label": "On the top of a snowy mountain", "correct": false, "explanation": "Snowy mountain tops do not have fish. Fishermen work near water."},
+        {"id": "d", "label": "In a big city office building", "correct": false, "explanation": "Fishermen work near water, not in offices."}
+      ],
+      "explanation_md": "Fishermen work near water — oceans, rivers, or lakes. The environment determines where they work."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "People who live near mountains enjoy hiking and skiing. Why?",
+      "choices": [
+        {"id": "a", "label": "Mountains have good pizza restaurants", "correct": false, "explanation": "Restaurants can be anywhere. Mountains offer hiking and skiing because of the terrain."},
+        {"id": "b", "label": "Mountains have trails and snow that make these activities possible", "correct": true, "explanation": "Mountain trails and snowy slopes make hiking and skiing natural activities."},
+        {"id": "c", "label": "People in mountains cannot swim so they hike instead", "correct": false, "explanation": "Mountain communities may have rivers and lakes for swimming. They hike because of the terrain."},
+        {"id": "d", "label": "The environment has nothing to do with it", "correct": false, "explanation": "The mountain environment directly shapes the recreation people enjoy there."}
+      ],
+      "explanation_md": "Mountain terrain and snow make hiking and skiing natural activities for people who live there."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer grows corn on flat land. The environment influences his job because:",
+      "choices": [
+        {"id": "a", "label": "Flat land and good soil make growing corn possible", "correct": true, "explanation": "Flat, fertile land is ideal for growing crops like corn. The environment makes farming possible."},
+        {"id": "b", "label": "All farmers grow corn no matter where they live", "correct": false, "explanation": "Different environments support different crops. Not all farmers grow corn."},
+        {"id": "c", "label": "The environment has nothing to do with farming", "correct": false, "explanation": "The environment is the most important factor in farming — soil, water, and weather all matter."},
+        {"id": "d", "label": "Corn grows best in the ocean", "correct": false, "explanation": "Corn grows on land, not in the ocean."}
+      ],
+      "explanation_md": "Flat, fertile land makes farming possible. The environment directly shapes what crops can grow."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In a hot, rainy climate, homes often have steep roofs. Why?",
+      "choices": [
+        {"id": "a", "label": "Steep roofs look taller and more impressive", "correct": false, "explanation": "Steep roofs are built for a practical reason — to shed rain, not for looks."},
+        {"id": "b", "label": "Steep roofs help rain slide off quickly so the roof does not leak or collapse", "correct": true, "explanation": "Steep roofs move rain off quickly, preventing leaks and damage in rainy climates."},
+        {"id": "c", "label": "All homes everywhere have steep roofs", "correct": false, "explanation": "Different climates call for different roof designs. Flat roofs work in dry areas."},
+        {"id": "d", "label": "Steep roofs keep homes warmer in winter", "correct": false, "explanation": "Steep roofs are primarily for managing rain, not for winter warmth."}
+      ],
+      "explanation_md": "Steep roofs let rain slide off quickly. In rainy climates, this prevents leaks and water damage."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The environment can influence which of these areas of community life?",
+      "choices": [
+        {"id": "a", "label": "Only the jobs people do", "correct": false, "explanation": "The environment influences jobs, food, shelter, AND recreation — not just jobs."},
+        {"id": "b", "label": "Jobs, food, shelter, and recreation", "correct": true, "explanation": "The environment shapes all four: what people do for work, what they eat, how they build homes, and what they do for fun."},
+        {"id": "c", "label": "Only the food people eat", "correct": false, "explanation": "The environment influences much more than just food."},
+        {"id": "d", "label": "Nothing — people choose freely without any environmental influence", "correct": false, "explanation": "The environment is a major influence on community life."}
+      ],
+      "explanation_md": "The environment influences jobs, food, shelter, and recreation in a community."
+    }
+  ]
+}
