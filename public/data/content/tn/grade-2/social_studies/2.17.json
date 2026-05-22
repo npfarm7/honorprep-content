@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.17",
+  "benchmark_description": "Understand how people in communities pass on their cultural heritage through stories, art, music, and celebrations.",
+  "course": "social_studies",
+  "strand": "CUL",
+  "lesson": {
+    "title": "Passing Down Culture Through Stories, Art, Music, and Celebrations",
+    "intro": "How do families and communities remember who they are? They tell stories, make art, play music, and celebrate together! These traditions help pass down culture from grandparents to parents to children. Let's explore how it works!",
+    "body_md": "## What Is Cultural Heritage?\n\n**Cultural heritage** is the traditions, values, stories, and practices passed from one generation to the next. It is the way communities share who they are across time.\n\n**Generation** means all the people born and living at about the same time. Your grandparents are one generation, your parents are another, and you are a third.\n\n## Ways Culture Is Passed Down\n\n### 1. Stories\n\nStories have been shared for thousands of years. Long before there was writing, people told stories to remember their history and teach lessons.\n\n**Examples:**\n- Cherokee elders telling traditional stories to children\n- Grandparents sharing family history\n- Folktales, fables, and legends\n- Stories about how the community was founded\n\n### 2. Art\n\nArt is a powerful way to express and preserve culture. Art tells us what a community values and how it sees the world.\n\n**Examples:**\n- Cherokee basket weaving with traditional patterns\n- Quilts made by families with meaningful designs\n- Murals in communities that tell local history\n- Paintings and sculptures\n\n### 3. Music\n\nMusic carries the feelings and stories of a culture. Different communities have unique musical traditions.\n\n**Examples in Tennessee:**\n- Country music from Nashville\n- Blues from Memphis\n- Gospel music in church communities\n- Cherokee traditional songs\n- Bluegrass music from Appalachian settlers\n\n### 4. Celebrations and Festivals\n\nCelebrations bring communities together and help people remember their heritage.\n\n**Examples in Tennessee:**\n- Cherokee Heritage Festivals\n- Memphis' Beale Street Music Festival\n- Nashville's Grand Ole Opry events\n- Greek Festival in Nashville (Greek American community)\n- Cinco de Mayo celebrations (Latino community)\n\n## Why This Matters\n\nWhen families and communities share stories, art, music, and celebrations:\n- Children learn who they are and where they come from\n- Important traditions are not lost\n- Communities feel connected\n- Different cultures can share with and learn from each other",
+    "worked_example_md": "## Worked Example\n\n**Question:** How does a family use stories and music to pass down their cultural heritage?\n\n**Family example:** The Johnson family has grandparents who grew up in rural West Tennessee in the 1950s. Here is what they do:\n\n**Stories:** Grandma Johnson tells her grandchildren about picking cotton as a girl and about the music she heard in church. These stories are part of their family history.\n\n**Music:** Every Sunday after church, the family sings gospel songs that have been in the family for generations. The grandchildren learn the same songs their grandparents learned.\n\n**Celebrations:** Every Juneteenth, the family holds a reunion to celebrate the end of slavery and honor their ancestors.\n\n**How culture is passed down:**\n- Stories remind children of their family's past.\n- Music connects them to their grandparents' faith and community.\n- Celebrations give the whole family a time to remember and honor their heritage.\n\n**Answer:** The Johnson family passes down cultural heritage through stories (grandma's memories), music (gospel songs), and celebrations (Juneteenth). Each generation learns from the one before it.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of community law",
+          "correct": false,
+          "explanation": "Cultural heritage is traditions and practices, not laws."
+        },
+        {
+          "id": "b",
+          "label": "The traditions, stories, and practices passed from one generation to the next",
+          "correct": true,
+          "explanation": "Cultural heritage is what communities pass down across generations to preserve their identity."
+        },
+        {
+          "id": "c",
+          "label": "A type of map",
+          "correct": false,
+          "explanation": "Cultural heritage is traditions and practices, not maps."
+        },
+        {
+          "id": "d",
+          "label": "A new holiday invented each year",
+          "correct": false,
+          "explanation": "Cultural heritage consists of longstanding traditions passed through generations, not new annual inventions."
+        }
+      ],
+      "explanation_md": "Cultural heritage is the traditions, stories, and practices passed from one generation to the next."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of passing down culture through STORIES?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A grandmother teaching her granddaughter a traditional song",
+          "correct": false,
+          "explanation": "Teaching a song passes down culture through music, not stories."
+        },
+        {
+          "id": "b",
+          "label": "A grandfather telling his grandchildren about life on their family farm long ago",
+          "correct": true,
+          "explanation": "Telling stories about the family's past is passing down cultural heritage through stories."
+        },
+        {
+          "id": "c",
+          "label": "A family cooking a traditional meal together",
+          "correct": false,
+          "explanation": "Cooking a traditional meal passes down culture through food traditions, not stories."
+        },
+        {
+          "id": "d",
+          "label": "A community holding a parade",
+          "correct": false,
+          "explanation": "A parade is a celebration, not a story."
+        }
+      ],
+      "explanation_md": "Telling stories about family history and cultural practices is passing down heritage through stories."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville's country music is an example of passing down culture through:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Laws and rules",
+          "correct": false,
+          "explanation": "Country music is not a law. Music is a cultural tradition."
+        },
+        {
+          "id": "b",
+          "label": "Music",
+          "correct": true,
+          "explanation": "Country music in Nashville is a musical tradition that has been passed down through generations."
+        },
+        {
+          "id": "c",
+          "label": "Maps and geography",
+          "correct": false,
+          "explanation": "Country music is a cultural expression, not a geographic tool."
+        },
+        {
+          "id": "d",
+          "label": "Government policy",
+          "correct": false,
+          "explanation": "Country music is a cultural tradition, not a government policy."
+        }
+      ],
+      "explanation_md": "Country music in Nashville is a musical tradition passed down through generations - it is culture through music."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Cherokee basket weaving with traditional patterns is an example of passing down culture through:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Stories",
+          "correct": false,
+          "explanation": "Basket weaving is an art form, not a story."
+        },
+        {
+          "id": "b",
+          "label": "Art",
+          "correct": true,
+          "explanation": "Cherokee basket weaving with traditional patterns is a form of art that carries cultural meaning and is passed down through generations."
+        },
+        {
+          "id": "c",
+          "label": "Laws",
+          "correct": false,
+          "explanation": "Basket weaving is an art tradition, not a law."
+        },
+        {
+          "id": "d",
+          "label": "Technology",
+          "correct": false,
+          "explanation": "Basket weaving is an art form, not technology."
+        }
+      ],
+      "explanation_md": "Cherokee basket weaving is an art form that carries cultural meaning and is passed down through generations."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community holds a yearly Harvest Festival where people tell old stories, play traditional music, and make crafts. What is the purpose of this festival?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To sell as many crafts as possible for money",
+          "correct": false,
+          "explanation": "While crafts may be sold, the primary purpose is to celebrate and preserve cultural heritage."
+        },
+        {
+          "id": "b",
+          "label": "To preserve and celebrate the community's cultural heritage",
+          "correct": true,
+          "explanation": "Festivals that combine stories, music, and crafts help communities preserve and celebrate their traditions."
+        },
+        {
+          "id": "c",
+          "label": "To teach people how to farm",
+          "correct": false,
+          "explanation": "While harvest-related, the cultural focus is on preserving traditions, not just teaching farming."
+        },
+        {
+          "id": "d",
+          "label": "To compete against other communities",
+          "correct": false,
+          "explanation": "Community festivals celebrate shared heritage, not competitions."
+        }
+      ],
+      "explanation_md": "Community festivals with stories, music, and crafts preserve and celebrate cultural heritage."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to pass down cultural traditions to children?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So children have something to do after school",
+          "correct": false,
+          "explanation": "Passing down traditions is about preserving cultural identity, not just providing activities."
+        },
+        {
+          "id": "b",
+          "label": "So traditions are not lost and children know who they are and where they come from",
+          "correct": true,
+          "explanation": "Passing down traditions preserves culture and helps children understand their identity and history."
+        },
+        {
+          "id": "c",
+          "label": "Because children must do exactly what their parents did",
+          "correct": false,
+          "explanation": "Traditions can evolve while still being honored. The goal is not to force exact repetition but to preserve cultural identity."
+        },
+        {
+          "id": "d",
+          "label": "So every community can be exactly the same",
+          "correct": false,
+          "explanation": "Cultural traditions preserve the unique identity of each community, not make all communities the same."
+        }
+      ],
+      "explanation_md": "Passing down traditions ensures they are not lost and helps children understand their cultural identity."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Memphis is famous for blues music. This music grew out of African American experiences in the South. How does blues music serve as cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It is just entertainment with no cultural meaning",
+          "correct": false,
+          "explanation": "Blues music carries deep cultural meaning connected to African American history and experience."
+        },
+        {
+          "id": "b",
+          "label": "It expresses the experiences, pain, and joy of African American communities and passes that heritage through music",
+          "correct": true,
+          "explanation": "Blues music grew from African American cultural traditions and carries the stories and emotions of those communities across generations."
+        },
+        {
+          "id": "c",
+          "label": "It was created by European settlers and has nothing to do with African American culture",
+          "correct": false,
+          "explanation": "Blues music is rooted in African American culture and experience in the South."
+        },
+        {
+          "id": "d",
+          "label": "Blues music is only for people who live in Memphis",
+          "correct": false,
+          "explanation": "Blues music is enjoyed worldwide, though it originated in Memphis and the Mississippi Delta."
+        }
+      ],
+      "explanation_md": "Blues music expresses African American experiences and passes that cultural heritage through music across generations."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word 'generation' mean in the context of cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of dance from Tennessee",
+          "correct": false,
+          "explanation": "A generation is a group of people, not a dance."
+        },
+        {
+          "id": "b",
+          "label": "All the people born and living at about the same time (grandparents, parents, children)",
+          "correct": true,
+          "explanation": "A generation is a group of people born around the same time. Cultural heritage is passed from one generation to the next."
+        },
+        {
+          "id": "c",
+          "label": "A community law about traditions",
+          "correct": false,
+          "explanation": "Generation is about groups of people in time, not a law."
+        },
+        {
+          "id": "d",
+          "label": "A type of musical instrument",
+          "correct": false,
+          "explanation": "Generation refers to a group of people born around the same time, not an instrument."
+        }
+      ],
+      "explanation_md": "A generation is a group of people born around the same time. Cultural heritage passes from grandparents to parents to children."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A family moves from Mexico to Tennessee. They celebrate Dia de los Muertos each year, make traditional foods, and teach their children Spanish. What are they doing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Breaking community laws",
+          "correct": false,
+          "explanation": "Celebrating cultural traditions is not breaking any laws."
+        },
+        {
+          "id": "b",
+          "label": "Preserving their cultural heritage by passing traditions to their children",
+          "correct": true,
+          "explanation": "The family is keeping their cultural heritage alive by passing language, celebrations, and food traditions to their children."
+        },
+        {
+          "id": "c",
+          "label": "Forgetting where they came from",
+          "correct": false,
+          "explanation": "By celebrating and teaching their traditions, they are actively remembering and honoring where they came from."
+        },
+        {
+          "id": "d",
+          "label": "Creating a brand-new culture with no history",
+          "correct": false,
+          "explanation": "They are preserving an existing rich cultural heritage, not creating something new from scratch."
+        }
+      ],
+      "explanation_md": "By celebrating Dia de los Muertos, making traditional foods, and teaching Spanish, the family is passing down their cultural heritage."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "If a community stopped telling its stories, making its traditional art, playing its music, and celebrating its holidays, what would MOST LIKELY happen to its cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The culture would get stronger on its own",
+          "correct": false,
+          "explanation": "Cultures must be actively preserved and passed on. They do not strengthen on their own without being practiced."
+        },
+        {
+          "id": "b",
+          "label": "The cultural heritage would be lost over time as younger generations do not learn it",
+          "correct": true,
+          "explanation": "Without active practice and teaching, traditions fade and are eventually forgotten by future generations."
+        },
+        {
+          "id": "c",
+          "label": "The culture would be stored safely in a library",
+          "correct": false,
+          "explanation": "While some elements can be recorded in libraries, living cultural heritage requires communities to actively practice and pass it on."
+        },
+        {
+          "id": "d",
+          "label": "Nothing would happen - culture never changes or disappears",
+          "correct": false,
+          "explanation": "Cultures can and do change and even disappear when not actively preserved and passed on."
+        }
+      ],
+      "explanation_md": "Without active telling, making, playing, and celebrating, cultural heritage is lost over time as younger generations do not learn it."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which four ways do communities pass down their cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Laws, taxes, elections, and maps",
+          "correct": false,
+          "explanation": "These are government functions, not ways cultural heritage is passed down."
+        },
+        {
+          "id": "b",
+          "label": "Stories, art, music, and celebrations",
+          "correct": true,
+          "explanation": "Communities pass down cultural heritage through stories, art, music, and celebrations."
+        },
+        {
+          "id": "c",
+          "label": "Roads, bridges, buildings, and parks",
+          "correct": false,
+          "explanation": "These are community structures, not ways cultural heritage is passed down."
+        },
+        {
+          "id": "d",
+          "label": "Weather, geography, animals, and plants",
+          "correct": false,
+          "explanation": "These are environmental features, not ways cultural heritage is passed down."
+        }
+      ],
+      "explanation_md": "Communities pass down cultural heritage through stories, art, music, and celebrations."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A school holds a Native American heritage day with traditional dances, art, and storytelling. Why is this important?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It gives students a day off from regular schoolwork",
+          "correct": false,
+          "explanation": "The purpose is to honor and learn about Native American cultural heritage, not to take a day off."
+        },
+        {
+          "id": "b",
+          "label": "It honors and preserves Native American cultural heritage for future generations to learn about",
+          "correct": true,
+          "explanation": "Cultural events at schools help preserve and share cultural heritage so it is not forgotten."
+        },
+        {
+          "id": "c",
+          "label": "It is required by law for all schools",
+          "correct": false,
+          "explanation": "Schools hold cultural events because they value cultural heritage, not because of a specific law."
+        },
+        {
+          "id": "d",
+          "label": "It replaces the need to study social studies",
+          "correct": false,
+          "explanation": "Cultural events are part of social studies learning, not a replacement for it."
+        }
+      ],
+      "explanation_md": "Cultural heritage events at schools honor and preserve traditions so future generations can learn about them."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How are stories and music SIMILAR as ways of passing down cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both require a stage and a large audience",
+          "correct": false,
+          "explanation": "Stories and music can be shared in any setting - at home, in communities, or on stages."
+        },
+        {
+          "id": "b",
+          "label": "Both carry traditions, emotions, and history that are shared from one generation to the next",
+          "correct": true,
+          "explanation": "Stories and music both carry the feelings, history, and values of a culture and pass them from one generation to the next."
+        },
+        {
+          "id": "c",
+          "label": "Both are only enjoyed by elderly people",
+          "correct": false,
+          "explanation": "Cultural stories and music are enjoyed by people of all ages."
+        },
+        {
+          "id": "d",
+          "label": "They are not similar - stories and music have nothing in common",
+          "correct": false,
+          "explanation": "Stories and music are both powerful ways to preserve and pass down cultural heritage."
+        }
+      ],
+      "explanation_md": "Stories and music both carry traditions and history that are passed from one generation to the next."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is cultural heritage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A kind of transportation",
+          "correct": false,
+          "explanation": "Cultural heritage is traditions passed down through generations, not transportation."
+        },
+        {
+          "id": "b",
+          "label": "Traditions and practices passed from one generation to the next",
+          "correct": true,
+          "explanation": "Cultural heritage is what communities pass down to keep their identity and traditions alive."
+        },
+        {
+          "id": "c",
+          "label": "A law about community rules",
+          "correct": false,
+          "explanation": "Cultural heritage is about traditions and practices, not laws."
+        },
+        {
+          "id": "d",
+          "label": "A type of map",
+          "correct": false,
+          "explanation": "Cultural heritage is traditions and practices, not a map."
+        }
+      ],
+      "explanation_md": "Cultural heritage is the traditions and practices passed from one generation to the next."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of passing down culture through MUSIC?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A grandmother telling a story about her childhood",
+          "correct": false,
+          "explanation": "Telling a story is passing down culture through stories, not music."
+        },
+        {
+          "id": "b",
+          "label": "A family singing a traditional song together",
+          "correct": true,
+          "explanation": "Singing a traditional song together passes down cultural heritage through music."
+        },
+        {
+          "id": "c",
+          "label": "A parade through the community",
+          "correct": false,
+          "explanation": "A parade is a celebration, not specifically music."
+        },
+        {
+          "id": "d",
+          "label": "Making a traditional quilt",
+          "correct": false,
+          "explanation": "Making a quilt is passing down culture through art, not music."
+        }
+      ],
+      "explanation_md": "Singing a traditional song together is passing down cultural heritage through music."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does 'generation' mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of celebration",
+          "correct": false,
+          "explanation": "Generation refers to a group of people born around the same time."
+        },
+        {
+          "id": "b",
+          "label": "All the people born and living at about the same time",
+          "correct": true,
+          "explanation": "A generation is a group of people born around the same time - grandparents, parents, and children are different generations."
+        },
+        {
+          "id": "c",
+          "label": "A community law",
+          "correct": false,
+          "explanation": "Generation refers to a group of people in time, not a law."
+        },
+        {
+          "id": "d",
+          "label": "A type of art",
+          "correct": false,
+          "explanation": "Generation is about groups of people, not a type of art."
+        }
+      ],
+      "explanation_md": "A generation is a group of people born and living at about the same time."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do families tell stories about the past?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To waste time",
+          "correct": false,
+          "explanation": "Families tell stories to preserve cultural heritage and help children understand their history."
+        },
+        {
+          "id": "b",
+          "label": "To help children understand their family's history and culture",
+          "correct": true,
+          "explanation": "Stories pass down cultural heritage and help children know where they come from."
+        },
+        {
+          "id": "c",
+          "label": "Because they have nothing else to do",
+          "correct": false,
+          "explanation": "Storytelling is a meaningful cultural practice for preserving heritage."
+        },
+        {
+          "id": "d",
+          "label": "Because past events do not matter",
+          "correct": false,
+          "explanation": "Past events are very important. Stories help us learn from and honor the past."
+        }
+      ],
+      "explanation_md": "Families tell stories to help children understand their history and cultural heritage."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Community celebrations help people:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Forget their cultural traditions",
+          "correct": false,
+          "explanation": "Celebrations actually HELP people remember and preserve their traditions."
+        },
+        {
+          "id": "b",
+          "label": "Remember and celebrate their cultural heritage together",
+          "correct": true,
+          "explanation": "Community celebrations bring people together to honor and preserve their cultural heritage."
+        },
+        {
+          "id": "c",
+          "label": "Learn only about other cultures",
+          "correct": false,
+          "explanation": "Celebrations often focus on the community's own heritage, though they can also share culture with others."
+        },
+        {
+          "id": "d",
+          "label": "Stop caring about where they came from",
+          "correct": false,
+          "explanation": "Celebrations celebrate where people came from."
+        }
+      ],
+      "explanation_md": "Community celebrations bring people together to remember and celebrate their cultural heritage."
+    }
+  ]
+}
