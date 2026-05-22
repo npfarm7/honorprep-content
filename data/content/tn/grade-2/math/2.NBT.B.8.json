@@ -1,0 +1,388 @@
+{
+  "skill_id": "2.NBT.B.8",
+  "benchmark_description": "Mentally add 10 or 100 to a given number 100-900, and mentally subtract 10 or 100 from a given number 100-900.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Adding and Subtracting 10 and 100 in Your Head",
+    "intro": "Here is a math superpower: you can add or subtract 10 or 100 from any number just by looking at it \u2014 no pencil needed! The secret is in the digits. Let's discover it!",
+    "body_md": "## Adding 10 in Your Head\n\nWhen you add 10 to a number, only the **tens digit changes** \u2014 it goes up by 1!\n\n**Examples:**\n- 234 + 10 = **244** (3 tens becomes 4 tens)\n- 567 + 10 = **577** (6 tens becomes 7 tens)\n- 890 + 10 = **900** (9 tens becomes 10 tens \u2014 so 9 hundreds becomes 9 hundreds + 0 tens = 900)\n\n## Subtracting 10 in Your Head\n\nWhen you subtract 10, only the **tens digit changes** \u2014 it goes down by 1!\n\n**Examples:**\n- 378 - 10 = **368** (7 tens becomes 6 tens)\n- 520 - 10 = **510** (2 tens becomes 1 ten)\n- 405 - 10 = **395** (0 tens cannot go lower \u2014 so borrow 1 hundred: 3 hundreds 10 tens - 1 ten = 3 hundreds 9 tens)\n\n## Adding 100 in Your Head\n\nWhen you add 100, only the **hundreds digit changes** \u2014 it goes up by 1!\n\n**Examples:**\n- 245 + 100 = **345** (2 hundreds becomes 3 hundreds)\n- 618 + 100 = **718** (6 hundreds becomes 7 hundreds)\n- 900 + 100 = **1000** (9 hundreds becomes 10 hundreds)\n\n## Subtracting 100 in Your Head\n\nWhen you subtract 100, only the **hundreds digit changes** \u2014 it goes down by 1!\n\n**Examples:**\n- 456 - 100 = **356** (4 hundreds becomes 3 hundreds)\n- 709 - 100 = **609** (7 hundreds becomes 6 hundreds)\n- 300 - 100 = **200** (3 hundreds becomes 2 hundreds)\n\n## Quick Reference Chart\n\n| Starting number | +10 | -10 | +100 | -100 |\n|---|---|---|---|---|\n| 256 | 266 | 246 | 356 | 156 |\n| 430 | 440 | 420 | 530 | 330 |\n| 789 | 799 | 779 | 889 | 689 |\n\n## The Pattern\n\n- Adding/subtracting 10 \u2192 change the **tens** digit\n- Adding/subtracting 100 \u2192 change the **hundreds** digit\n- All other digits stay the same!",
+    "worked_example_md": "**Problem:** What is 573 + 100? What is 573 - 10?\n\n**573 + 100:**\n- Adding 100 changes only the hundreds digit.\n- 5 hundreds + 1 hundred = 6 hundreds\n- Tens stay 7, ones stay 3\n- Answer: **673**\n\n**573 - 10:**\n- Subtracting 10 changes only the tens digit.\n- 7 tens - 1 ten = 6 tens\n- Hundreds stay 5, ones stay 3\n- Answer: **563**",
+    "estimated_minutes": 7
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 350 + 10?",
+      "correct_answer": "360",
+      "explanation_md": "Adding 10 changes only the tens digit. 5 tens + 1 ten = 6 tens. Answer: 360."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 720 - 100?",
+      "correct_answer": "620",
+      "explanation_md": "Subtracting 100 changes only the hundreds digit. 7 hundreds - 1 hundred = 6 hundreds. Answer: 620."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 486 + 100?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "496",
+          "correct": false,
+          "explanation": "496 = 486 + 10 (you added 10, not 100). Adding 100 changes the hundreds digit: 4 + 1 = 5. Answer: 586."
+        },
+        {
+          "id": "b",
+          "label": "586",
+          "correct": true,
+          "explanation": "Correct! Adding 100 changes the hundreds digit: 4 + 1 = 5. Tens and ones stay the same. Answer: 586."
+        },
+        {
+          "id": "c",
+          "label": "576",
+          "correct": false,
+          "explanation": "Adding 100 changes the hundreds digit, not the tens. 486 + 100 = 586."
+        },
+        {
+          "id": "d",
+          "label": "487",
+          "correct": false,
+          "explanation": "You only added 1. Adding 100 changes the hundreds digit: 486 + 100 = 586."
+        }
+      ],
+      "explanation_md": "486 + 100 = 586. Adding 100 changes only the hundreds digit (4 \u2192 5)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 637 - 10?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "537",
+          "correct": false,
+          "explanation": "537 = 637 - 100. You subtracted 100 instead of 10. Subtracting 10 changes the tens digit: 3 - 1 = 2. Answer: 627."
+        },
+        {
+          "id": "b",
+          "label": "636",
+          "correct": false,
+          "explanation": "You subtracted 1 from the ones. Subtracting 10 changes the tens digit: 3 - 1 = 2. Answer: 627."
+        },
+        {
+          "id": "c",
+          "label": "627",
+          "correct": true,
+          "explanation": "Correct! Subtracting 10 changes the tens digit: 3 - 1 = 2. Answer: 627."
+        },
+        {
+          "id": "d",
+          "label": "647",
+          "correct": false,
+          "explanation": "You added 10 instead of subtracting. 637 - 10 = 627."
+        }
+      ],
+      "explanation_md": "637 - 10 = 627. Subtracting 10 changes only the tens digit (3 \u2192 2)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 815 + 100?",
+      "correct_answer": "915",
+      "explanation_md": "Adding 100 changes only the hundreds digit: 8 + 1 = 9. Answer: 915."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 524 - 100?",
+      "correct_answer": "424",
+      "explanation_md": "Subtracting 100 changes only the hundreds digit: 5 - 1 = 4. Answer: 424."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Maria starts with 342. She adds 100, then subtracts 10. What number does she end with?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "332",
+          "correct": false,
+          "explanation": "342 + 100 = 442. Then 442 - 10 = 432. Not 332."
+        },
+        {
+          "id": "b",
+          "label": "442",
+          "correct": false,
+          "explanation": "442 is after adding 100 (342+100=442). You still need to subtract 10: 442-10=432."
+        },
+        {
+          "id": "c",
+          "label": "432",
+          "correct": true,
+          "explanation": "Correct! 342 + 100 = 442. Then 442 - 10 = 432."
+        },
+        {
+          "id": "d",
+          "label": "352",
+          "correct": false,
+          "explanation": "342 + 100 = 442 (hundreds digit 3\u21924). Then 442 - 10 = 432 (tens digit 4\u21923). Answer: 432."
+        }
+      ],
+      "explanation_md": "342 + 100 = 442. 442 - 10 = 432."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What number is 10 less than 700?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "800",
+          "correct": false,
+          "explanation": "800 is 100 more than 700, not 10 less. 10 less means subtract 10: 700 - 10 = 690."
+        },
+        {
+          "id": "b",
+          "label": "710",
+          "correct": false,
+          "explanation": "710 is 10 more than 700. 10 less means subtract: 700 - 10 = 690."
+        },
+        {
+          "id": "c",
+          "label": "600",
+          "correct": false,
+          "explanation": "600 is 100 less than 700. 10 less: 700 - 10 = 690."
+        },
+        {
+          "id": "d",
+          "label": "690",
+          "correct": true,
+          "explanation": "Correct! 700 - 10 = 690. The tens digit changes from 0 to 9 (borrow from hundreds)."
+        }
+      ],
+      "explanation_md": "700 - 10 = 690. When tens digit is 0, borrow 1 hundred to subtract 10."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Ben has 456 marbles. He gives away 100, then finds 10 more. How many does he have now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "346",
+          "correct": false,
+          "explanation": "456-100=356. Then 356+10=366. Not 346."
+        },
+        {
+          "id": "b",
+          "label": "366",
+          "correct": true,
+          "explanation": "Correct! 456-100=356 (hundreds: 4\u21923). 356+10=366 (tens: 5\u21926)."
+        },
+        {
+          "id": "c",
+          "label": "556",
+          "correct": false,
+          "explanation": "You added 100 instead of subtracting. 456-100=356, then 356+10=366."
+        },
+        {
+          "id": "d",
+          "label": "376",
+          "correct": false,
+          "explanation": "456-100=356, then 356+10=366. Not 376."
+        }
+      ],
+      "explanation_md": "456 - 100 = 356. Then 356 + 10 = 366."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "What number is 100 more than 10 less than 500?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "590",
+          "correct": true,
+          "explanation": "Correct! 10 less than 500 = 490. Then 100 more than 490 = 590."
+        },
+        {
+          "id": "b",
+          "label": "400",
+          "correct": false,
+          "explanation": "Step 1: 500 - 10 = 490. Step 2: 490 + 100 = 590. Not 400."
+        },
+        {
+          "id": "c",
+          "label": "610",
+          "correct": false,
+          "explanation": "Step 1: 500 - 10 = 490. Step 2: 490 + 100 = 590. Not 610."
+        },
+        {
+          "id": "d",
+          "label": "600",
+          "correct": false,
+          "explanation": "Step 1: 500 - 10 = 490. Step 2: 490 + 100 = 590. Not 600 (you forgot to subtract 10 first)."
+        }
+      ],
+      "explanation_md": "10 less than 500 = 490. 100 more than 490 = 590."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 763 - 100?",
+      "correct_answer": "663",
+      "explanation_md": "Subtracting 100 changes only the hundreds digit: 7 - 1 = 6. Answer: 663."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 10 more than 849?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "859",
+          "correct": true,
+          "explanation": "Correct! Adding 10 changes only the tens digit: 4 + 1 = 5. Answer: 859."
+        },
+        {
+          "id": "b",
+          "label": "949",
+          "correct": false,
+          "explanation": "That is 100 more than 849, not 10 more. 10 more changes the tens digit: 849 + 10 = 859."
+        },
+        {
+          "id": "c",
+          "label": "848",
+          "correct": false,
+          "explanation": "You subtracted 1. 10 more than 849 = 849 + 10 = 859."
+        },
+        {
+          "id": "d",
+          "label": "840",
+          "correct": false,
+          "explanation": "You subtracted. 10 MORE means add 10: 849 + 10 = 859."
+        }
+      ],
+      "explanation_md": "10 more than 849 = 849 + 10 = 859."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "Start with 275. Add 100. Then add 10. What is the result?",
+      "correct_answer": "385",
+      "explanation_md": "275 + 100 = 375 (hundreds: 2\u21923). 375 + 10 = 385 (tens: 7\u21928). Answer: 385."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you add 10 to a number, which digit changes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The hundreds digit",
+          "correct": false,
+          "explanation": "Adding 100 changes the hundreds digit. Adding 10 changes the tens digit."
+        },
+        {
+          "id": "b",
+          "label": "The tens digit",
+          "correct": true,
+          "explanation": "Correct! Adding 10 changes only the tens digit. For example, 234 + 10 = 244 (3 tens becomes 4 tens)."
+        },
+        {
+          "id": "c",
+          "label": "The ones digit",
+          "correct": false,
+          "explanation": "Adding 1 changes the ones digit. Adding 10 changes the tens digit."
+        },
+        {
+          "id": "d",
+          "label": "All digits",
+          "correct": false,
+          "explanation": "Only the tens digit changes when you add 10."
+        }
+      ],
+      "explanation_md": "Adding 10 changes only the tens digit."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 140 + 10?",
+      "correct_answer": "150",
+      "explanation_md": "Adding 10 changes the tens digit: 4 tens + 1 ten = 5 tens. Answer: 150."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 320 + 100?",
+      "correct_answer": "420",
+      "explanation_md": "Adding 100 changes the hundreds digit: 3 hundreds + 1 hundred = 4 hundreds. Answer: 420."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 580 - 10?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "480",
+          "correct": false,
+          "explanation": "480 = 580 - 100. Subtracting 10 changes only the tens digit: 8 - 1 = 7. Answer: 570."
+        },
+        {
+          "id": "b",
+          "label": "570",
+          "correct": true,
+          "explanation": "Correct! Subtracting 10 changes the tens digit: 8 - 1 = 7. Answer: 570."
+        },
+        {
+          "id": "c",
+          "label": "590",
+          "correct": false,
+          "explanation": "You added 10. 580 - 10 = 570."
+        },
+        {
+          "id": "d",
+          "label": "579",
+          "correct": false,
+          "explanation": "You subtracted 1 from the ones. Subtracting 10 changes the tens: 580 - 10 = 570."
+        }
+      ],
+      "explanation_md": "580 - 10 = 570. Tens digit changes: 8 \u2192 7."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 670 - 100?",
+      "correct_answer": "570",
+      "explanation_md": "Subtracting 100 changes only the hundreds digit: 6 - 1 = 5. Answer: 570."
+    }
+  ]
+}
