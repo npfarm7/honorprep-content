@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.FL.WC.4",
+  "benchmark_description": "Read grade-appropriate irregularly spelled words (sight words) with automaticity.",
+  "course": "ela",
+  "strand": "FL",
+  "lesson": {
+    "title": "Sight Words: Read Them in a Flash!",
+    "intro": "Some words do not follow the rules you know for sounding out words. We call these sight words because you learn to recognize them by sight \u2014 fast as a flash! The more you practice, the quicker you will read them.",
+    "body_md": "## What Are Sight Words?\n\n**Sight words** are words you see very often when you read. They are tricky because their spelling does not match what you would expect from phonics rules.\n\nFor example:\n- *said* sounds like /sed/, not /sayd/\n- *have* sounds like /hav/, not /hayv/\n- *was* sounds like /wuz/, not /waz/\n\n## Grade 2 Sight Words to Know\n\n### Group 1 \u2014 High-Frequency Favorites\n\n| Word | Tricky Part |\n|------|-------------|\n| *again* | the *ai* says /e/, not /ay/ |\n| *any* | the *a* says /e/ |\n| *been* | sounds like /bin/ |\n| *both* | the *o* says /oh/, but *both* is unusual |\n| *buy* | sounds like /by/ |\n| *does* | sounds like /duz/ |\n| *done* | sounds like /dun/ |\n| *eight* | the *eigh* says /ay/ |\n| *every* | sounds like /EV-ree/ |\n| *find* | regular, but common |\n\n### Group 2 \u2014 More Tricky Words\n\n| Word | Tricky Part |\n|------|-------------|\n| *friend* | sounds like /frend/ |\n| *give* | sounds like /giv/ |\n| *goes* | sounds like /gohz/ |\n| *great* | the *ea* says /ay/, not /ee/ |\n| *kind* | the *i* says /eye/ |\n| *knew* | the *kn* \u2014 k is silent |\n| *know* | the *kn* \u2014 k is silent |\n| *laugh* | sounds like /laf/ |\n| *live* | sounds like /liv/ (to live somewhere) |\n| *love* | sounds like /luv/ |\n\n### Group 3 \u2014 Even More to Know\n\n| Word | Tricky Part |\n|------|-------------|\n| *many* | sounds like /MEN-ee/ |\n| *most* | the *o* says /oh/ |\n| *move* | sounds like /moov/ |\n| *much* | the *u* says /u/ like *mud* |\n| *never* | the *e* says /e/ |\n| *only* | the *o* says /oh/ |\n| *other* | sounds like /UTH-er/ |\n| *own* | sounds like /ohn/ |\n| *people* | sounds like /PEE-pul/ |\n| *pull* | sounds like /pul/ |\n\n## How to Practice Sight Words\n\n1. **Flash cards** \u2014 write the word on one side, a picture or sentence on the other.\n2. **Word wall** \u2014 look at your class word wall every day.\n3. **Find them in books** \u2014 circle sight words when you see them reading.\n4. **Write them 3 times** \u2014 writing helps your memory.\n5. **Read them fast** \u2014 time yourself on a list!",
+    "worked_example_md": "## Worked Example\n\n**Problem:** Read this sentence as fast as you can: *My friend said she would love to come.*\n\n**Step 1 \u2014 Spot the sight words.**\n- *my* \u2014 sight word\n- *friend* \u2014 sight word (sounds like /frend/)\n- *said* \u2014 sight word (sounds like /sed/)\n- *she* \u2014 sight word\n- *would* \u2014 sight word (the *l* is silent: /wud/)\n- *love* \u2014 sight word (sounds like /luv/)\n- *to* \u2014 sight word\n- *come* \u2014 sight word (sounds like /kum/)\n\n**Step 2 \u2014 Practice reading them without stopping.**\nWhen you know the sight words, the sentence reads smoothly: *My friend said she would love to come.*\n\n**Answer:** 8 of the 9 words in this sentence are sight words or near-sight words. Knowing them lets you read the whole sentence fast!",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is spelled correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "frend",
+          "correct": false,
+          "explanation": "*friend* is the correct spelling. The *ie* in *friend* is tricky \u2014 it sounds like /e/."
+        },
+        {
+          "id": "b",
+          "label": "freind",
+          "correct": false,
+          "explanation": "This spells the letters in the wrong order. The correct spelling is *friend*."
+        },
+        {
+          "id": "c",
+          "label": "friend",
+          "correct": true,
+          "explanation": "Right! *friend* is the correct spelling, even though it sounds like /frend/."
+        },
+        {
+          "id": "d",
+          "label": "frind",
+          "correct": false,
+          "explanation": "This is missing the *e*. The correct spelling is *friend*."
+        }
+      ],
+      "explanation_md": "*friend* is the correct spelling. It is a sight word that sounds like /frend/."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How do you say the word *said*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/sed/ \u2014 it rhymes with bed",
+          "correct": true,
+          "explanation": "Right! *Said* is a sight word. Even though it has *ai*, it sounds like /sed/, rhyming with *bed*."
+        },
+        {
+          "id": "b",
+          "label": "/sayd/ \u2014 it rhymes with paid",
+          "correct": false,
+          "explanation": "If it followed regular rules, it would rhyme with *paid*, but *said* is a sight word and sounds like /sed/."
+        },
+        {
+          "id": "c",
+          "label": "/sad/ \u2014 it rhymes with bad",
+          "correct": false,
+          "explanation": "*said* does not rhyme with *bad*. It sounds like /sed/, rhyming with *bed*."
+        },
+        {
+          "id": "d",
+          "label": "/side/ \u2014 it rhymes with hide",
+          "correct": false,
+          "explanation": "*said* does not sound like /side/. It sounds like /sed/."
+        }
+      ],
+      "explanation_md": "*said* is a sight word that sounds like /sed/, rhyming with *bed*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Fill in the blank: *She _____ like to read every day.* Which sight word fits best?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "would",
+          "correct": true,
+          "explanation": "Right! *She would like to read every day* makes sense. *Would* is a common sight word."
+        },
+        {
+          "id": "b",
+          "label": "wuld",
+          "correct": false,
+          "explanation": "*wuld* is not a real word. The correct spelling is *would*."
+        },
+        {
+          "id": "c",
+          "label": "wood",
+          "correct": false,
+          "explanation": "*Wood* is a material, not a helping verb. The sight word needed here is *would*."
+        },
+        {
+          "id": "d",
+          "label": "woud",
+          "correct": false,
+          "explanation": "*woud* is not spelled correctly. The correct sight word is *would*."
+        }
+      ],
+      "explanation_md": "*would* is the sight word that makes sense in the sentence: *She would like to read every day.*"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the sight word *great* correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She did a great job on her test.",
+          "correct": true,
+          "explanation": "Right! *Great* means very good. This sentence uses it correctly."
+        },
+        {
+          "id": "b",
+          "label": "She did a grate job on her test.",
+          "correct": false,
+          "explanation": "*Grate* means to shred (like cheese). The sight word you want is *great*, meaning very good."
+        },
+        {
+          "id": "c",
+          "label": "She did a greet job on her test.",
+          "correct": false,
+          "explanation": "*Greet* means to say hello. The correct sight word here is *great*, meaning very good."
+        },
+        {
+          "id": "d",
+          "label": "She did a grait job on her test.",
+          "correct": false,
+          "explanation": "*grait* is not a real word. The correct sight word is *great*."
+        }
+      ],
+      "explanation_md": "*great* (meaning very good) is the correct sight word: *She did a great job.*"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In the word *know*, which letter is silent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The k is silent",
+          "correct": true,
+          "explanation": "Correct! In *know*, the *k* is silent. It sounds like /noh/, not /knoh/."
+        },
+        {
+          "id": "b",
+          "label": "The w is silent",
+          "correct": false,
+          "explanation": "The *w* is part of how the /oh/ sound is made in *kn-ow*. It is the *k* that is silent."
+        },
+        {
+          "id": "c",
+          "label": "The n is silent",
+          "correct": false,
+          "explanation": "The *n* makes the /n/ sound. It is the *k* that is silent in *know*."
+        },
+        {
+          "id": "d",
+          "label": "No letter is silent",
+          "correct": false,
+          "explanation": "The *k* in *know* is silent. *Know* sounds like /noh/."
+        }
+      ],
+      "explanation_md": "In *know*, the *k* is silent. The word sounds like /noh/."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means 'the number after seven' and is a sight word with tricky spelling?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "eight",
+          "correct": true,
+          "explanation": "Right! *Eight* comes after seven and is a sight word. The *eigh* makes the /ay/ sound."
+        },
+        {
+          "id": "b",
+          "label": "ate",
+          "correct": false,
+          "explanation": "*Ate* sounds like /ayt/ but means to eat. The number word is *eight*."
+        },
+        {
+          "id": "c",
+          "label": "eit",
+          "correct": false,
+          "explanation": "*eit* is not a real word. The number is spelled *eight*."
+        },
+        {
+          "id": "d",
+          "label": "aight",
+          "correct": false,
+          "explanation": "*aight* is not a standard spelling. The number is spelled *eight*."
+        }
+      ],
+      "explanation_md": "*eight* is the number after seven. The *eigh* makes the /ay/ sound: /ayt/."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence. Which underlined word is a sight word? *The many birds flew over the big lake.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "many",
+          "correct": true,
+          "explanation": "Right! *Many* is a sight word. It sounds like /MEN-ee/, which does not match regular phonics rules for the letter a."
+        },
+        {
+          "id": "b",
+          "label": "birds",
+          "correct": false,
+          "explanation": "*birds* follows regular phonics rules for reading. *Many* is the sight word."
+        },
+        {
+          "id": "c",
+          "label": "big",
+          "correct": false,
+          "explanation": "*big* follows regular short vowel rules. *Many* is the sight word."
+        },
+        {
+          "id": "d",
+          "label": "lake",
+          "correct": false,
+          "explanation": "*lake* follows the magic e rule. *Many* is the sight word in this sentence."
+        }
+      ],
+      "explanation_md": "*many* is a sight word. Its vowel *a* sounds like /e/, which is unexpected from phonics rules alone."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does the word *does* sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/duz/ \u2014 it rhymes with fuzz",
+          "correct": true,
+          "explanation": "Correct! *Does* is a sight word that sounds like /duz/, rhyming with *fuzz*."
+        },
+        {
+          "id": "b",
+          "label": "/dohz/ \u2014 it rhymes with toes",
+          "correct": false,
+          "explanation": "If *does* followed regular rules with the *oe* pattern, it might sound like /dohz/, but it is a sight word that sounds like /duz/."
+        },
+        {
+          "id": "c",
+          "label": "/dohs/ \u2014 it rhymes with dose",
+          "correct": false,
+          "explanation": "*Does* does not sound like /dohs/. It is a sight word that sounds like /duz/."
+        },
+        {
+          "id": "d",
+          "label": "/doos/ \u2014 it rhymes with moose",
+          "correct": false,
+          "explanation": "*Does* does not sound like /doos/. It is a sight word that sounds like /duz/."
+        }
+      ],
+      "explanation_md": "*does* is a sight word that sounds like /duz/, rhyming with *fuzz*."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence and count the sight words: *I would love to move again soon.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4 sight words: would, love, to, again",
+          "correct": true,
+          "explanation": "Right! *would*, *love*, *to*, and *again* are all sight words. *I* and *move* and *soon* follow more regular patterns."
+        },
+        {
+          "id": "b",
+          "label": "2 sight words: would, again",
+          "correct": false,
+          "explanation": "*love* (sounds like /luv/) and *to* are also sight words. There are 4 sight words total."
+        },
+        {
+          "id": "c",
+          "label": "6 sight words: I, would, love, to, move, again",
+          "correct": false,
+          "explanation": "*I* is a single letter used as a word, and *move* has a somewhat regular pattern. The clearest sight words are *would*, *love*, *to*, and *again* \u2014 4 words."
+        },
+        {
+          "id": "d",
+          "label": "1 sight word: would",
+          "correct": false,
+          "explanation": "*love*, *to*, and *again* are also sight words with tricky spellings. There are at least 4 sight words."
+        }
+      ],
+      "explanation_md": "The sentence has 4 clear sight words: *would* (/wud/), *love* (/luv/), *to* (/too/), and *again* (/uh-GEN/)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which sight word completes this sentence correctly? *There are _____ children in our class.*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "many",
+          "correct": true,
+          "explanation": "Right! *There are many children in our class* uses *many* correctly as a sight word meaning a large number."
+        },
+        {
+          "id": "b",
+          "label": "meny",
+          "correct": false,
+          "explanation": "*meny* is not the correct spelling. The sight word is *many*."
+        },
+        {
+          "id": "c",
+          "label": "mane",
+          "correct": false,
+          "explanation": "*mane* means the hair of a horse or lion, not a large number. The sight word is *many*."
+        },
+        {
+          "id": "d",
+          "label": "mini",
+          "correct": false,
+          "explanation": "*mini* means small. The sight word that means a large number is *many*."
+        }
+      ],
+      "explanation_md": "*many* is the correct sight word meaning a large number."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these words is NOT spelled correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "peple",
+          "correct": true,
+          "explanation": "Right \u2014 this is spelled incorrectly. The correct sight word is *people*."
+        },
+        {
+          "id": "b",
+          "label": "people",
+          "correct": false,
+          "explanation": "*people* IS spelled correctly. It is a sight word that sounds like /PEE-pul/."
+        },
+        {
+          "id": "c",
+          "label": "again",
+          "correct": false,
+          "explanation": "*again* IS spelled correctly. It is a sight word."
+        },
+        {
+          "id": "d",
+          "label": "every",
+          "correct": false,
+          "explanation": "*every* IS spelled correctly. It is a sight word that sounds like /EV-ree/."
+        }
+      ],
+      "explanation_md": "*peple* is misspelled. The correct sight word is *people*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses sight words correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She knew the answer but did not say anything.",
+          "correct": true,
+          "explanation": "Right! *knew*, *the*, *but*, *did*, *not*, and *say* are all used correctly."
+        },
+        {
+          "id": "b",
+          "label": "She noo the answer but did not say anything.",
+          "correct": false,
+          "explanation": "*noo* is not the correct spelling of *knew*. The sight word is *knew*."
+        },
+        {
+          "id": "c",
+          "label": "She knew the ansur but did not say anything.",
+          "correct": false,
+          "explanation": "*ansur* is not the correct spelling. The correct word is *answer*."
+        },
+        {
+          "id": "d",
+          "label": "She knew the answer butt did not say anything.",
+          "correct": false,
+          "explanation": "*butt* is not the correct word here. The conjunction is *but* (one t)."
+        }
+      ],
+      "explanation_md": "The correct sentence uses *knew* (silent k), which is the past tense of *know*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads: 'I wuz gone for a long time.' Which word is wrong, and what should it be?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "wuz is wrong \u2014 it should be was",
+          "correct": true,
+          "explanation": "Right! *Was* is a sight word. It sounds like /wuz/ but is spelled *was*, not *wuz*."
+        },
+        {
+          "id": "b",
+          "label": "gone is wrong \u2014 it should be gon",
+          "correct": false,
+          "explanation": "*gone* is spelled correctly. The misspelled word is *wuz*, which should be *was*."
+        },
+        {
+          "id": "c",
+          "label": "long is wrong \u2014 it should be lng",
+          "correct": false,
+          "explanation": "*long* is spelled correctly. The misspelled word is *wuz*, which should be *was*."
+        },
+        {
+          "id": "d",
+          "label": "time is wrong \u2014 it should be tyme",
+          "correct": false,
+          "explanation": "*time* is spelled correctly (magic e). The misspelled word is *wuz*, which should be *was*."
+        }
+      ],
+      "explanation_md": "*was* is a sight word. It sounds like /wuz/ but is spelled *was*. Writing *wuz* is a spelling error."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a real sight word you need to know?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "the",
+          "correct": true,
+          "explanation": "Right! *The* is one of the most common sight words in English."
+        },
+        {
+          "id": "b",
+          "label": "zup",
+          "correct": false,
+          "explanation": "*zup* is not a real word. *The* is the sight word."
+        },
+        {
+          "id": "c",
+          "label": "blorf",
+          "correct": false,
+          "explanation": "*blorf* is not a real word. *The* is the sight word."
+        },
+        {
+          "id": "d",
+          "label": "wix",
+          "correct": false,
+          "explanation": "*wix* is not a real word. *The* is the sight word."
+        }
+      ],
+      "explanation_md": "*the* is one of the most common sight words you need to know."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the word: *love*. How does it sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/luv/ \u2014 it rhymes with above",
+          "correct": true,
+          "explanation": "Right! *Love* is a sight word that sounds like /luv/, rhyming with *above*."
+        },
+        {
+          "id": "b",
+          "label": "/lohv/ \u2014 it rhymes with drove",
+          "correct": false,
+          "explanation": "If *love* followed magic e rules, it would sound like /lohv/, but it is a sight word that sounds like /luv/."
+        },
+        {
+          "id": "c",
+          "label": "/lav/ \u2014 it rhymes with have",
+          "correct": false,
+          "explanation": "*love* sounds like /luv/, not /lav/. It rhymes with *above*."
+        },
+        {
+          "id": "d",
+          "label": "/lov/ \u2014 it rhymes with cove",
+          "correct": false,
+          "explanation": "*love* sounds like /luv/, not /lov/. It is a sight word."
+        }
+      ],
+      "explanation_md": "*love* is a sight word that sounds like /luv/, rhyming with *above*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is spelled correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "come",
+          "correct": true,
+          "explanation": "Right! *come* is the correct spelling. It sounds like /kum/."
+        },
+        {
+          "id": "b",
+          "label": "kum",
+          "correct": false,
+          "explanation": "*kum* is how *come* sounds, but the correct spelling is *come*."
+        },
+        {
+          "id": "c",
+          "label": "kom",
+          "correct": false,
+          "explanation": "*kom* is not the correct spelling. The sight word is *come*."
+        },
+        {
+          "id": "d",
+          "label": "coam",
+          "correct": false,
+          "explanation": "*coam* is not a real word. The sight word is *come*."
+        }
+      ],
+      "explanation_md": "*come* is the correct spelling. It sounds like /kum/ \u2014 a tricky sight word!"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the word *knew*, which letter is silent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The k is silent",
+          "correct": true,
+          "explanation": "Right! In *knew*, the *k* is silent. It sounds like /noo/."
+        },
+        {
+          "id": "b",
+          "label": "The e is silent",
+          "correct": false,
+          "explanation": "The *e* is not silent in *knew* \u2014 it is part of the /oo/ sound in *ew*. The *k* is silent."
+        },
+        {
+          "id": "c",
+          "label": "The w is silent",
+          "correct": false,
+          "explanation": "The *w* helps form the /oo/ sound in *ew*. The *k* is the silent letter in *knew*."
+        },
+        {
+          "id": "d",
+          "label": "No letters are silent",
+          "correct": false,
+          "explanation": "The *k* in *knew* is silent. It sounds like /noo/."
+        }
+      ],
+      "explanation_md": "In *knew*, the *k* is silent. The word sounds like /noo/."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Complete the sentence with the correct sight word: *We had _____ fun at the park!*",
+      "choices": [
+        {
+          "id": "a",
+          "label": "great",
+          "correct": true,
+          "explanation": "Right! *We had great fun at the park!* uses *great* (meaning very good or a lot of) correctly."
+        },
+        {
+          "id": "b",
+          "label": "grate",
+          "correct": false,
+          "explanation": "*grate* means to shred food. The sight word meaning very good is *great*."
+        },
+        {
+          "id": "c",
+          "label": "greet",
+          "correct": false,
+          "explanation": "*greet* means to say hello. The sight word meaning very good is *great*."
+        },
+        {
+          "id": "d",
+          "label": "greit",
+          "correct": false,
+          "explanation": "*greit* is not a real word. The correct sight word is *great*."
+        }
+      ],
+      "explanation_md": "*great* is the correct sight word: *We had great fun at the park!*"
+    }
+  ]
+}
