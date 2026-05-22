@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.13",
+  "benchmark_description": "Understand the significance of Tennessee state symbols, including the state flag, state bird, state flower, and state song.",
+  "course": "social_studies",
+  "strand": "TN",
+  "lesson": {
+    "title": "Tennessee State Symbols",
+    "intro": "Every state has special symbols that represent who they are. Tennessee's symbols tell a story about the land, people, and pride of our great state. Let's learn about them!",
+    "body_md": "## What Are State Symbols?\n\n**State symbols** are official items chosen to represent a state. They show what is special about a place and help create a shared identity for all people who live there.\n\n## The Tennessee State Flag\n\n- Colors: Red, white, and blue\n- The flag has a **blue circle** in the middle with **three white stars**\n- The three stars represent the three **Grand Divisions** of Tennessee: East, Middle, and West Tennessee\n- The blue bar on the right edge separates the stars from the rest of the flag\n- Adopted in 1905\n\n## State Bird: Mockingbird\n\n- The **Northern Mockingbird** is the state bird of Tennessee\n- Mockingbirds are known for their ability to imitate (copy) the songs of many other birds\n- They can sing dozens of different songs\n- Found throughout Tennessee\n\n## State Flower: Iris\n\n- The **Iris** is the state flower of Tennessee\n- The iris blooms in many colors, including purple, yellow, and white\n- It was adopted as the state flower in 1933\n- Irises grow in gardens and wild areas across Tennessee\n\n## State Song: 'Tennessee'\n\n- Tennessee has had several official state songs\n- One of the most well-known is \"My Homeland, Tennessee\" (also known as \"Tennessee\" by Vivian Carter Sheley)\n- The songs celebrate Tennessee's beauty, history, and people\n\n## Other Tennessee Symbols\n\n| Symbol | Tennessee Choice | Fun Fact |\n|---|---|---|\n| State tree | Tulip poplar | Beautiful spring bloomer |\n| State animal | Raccoon | Common across Tennessee |\n| State rock | Limestone | Found throughout the state |\n| State gem | Tennessee pearl | From freshwater mussels |\n| State fruit | Tomato | Widely grown in Tennessee |\n\n## Why State Symbols Matter\n\nState symbols create **pride** and **identity**. They connect all Tennesseans \u2014 no matter where in the state they live \u2014 to a shared heritage. When we see the Tennessee flag or hear the state bird, we are reminded of belonging to something bigger than ourselves.",
+    "worked_example_md": "## Worked Example\n\n**Question:** The Tennessee state flag has three stars. What do they represent?\n\n**Step 1:** Recall what we know about the Tennessee flag.\nThe flag is red with a blue circle containing three white stars, plus a blue bar on the right edge.\n\n**Step 2:** What do the three stars mean?\nThe three stars represent the three Grand Divisions of Tennessee:\n- **East Tennessee** (Great Smoky Mountains, Knoxville)\n- **Middle Tennessee** (Nashville, rolling hills)\n- **West Tennessee** (Memphis, Mississippi River delta flatlands)\n\n**Step 3:** Why are there three divisions?\nTennessee was settled in three different geographic regions that each have their own land features, history, and culture. The three stars remind all Tennesseans that they are united as one state.\n\n**Answer:** The three stars on the Tennessee flag represent the three Grand Divisions of Tennessee: East, Middle, and West. They show that Tennessee is one united state made up of three distinct regions.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the state bird of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cardinal",
+          "correct": false,
+          "explanation": "The cardinal is the state bird of some other states. Tennessee's state bird is the mockingbird."
+        },
+        {
+          "id": "b",
+          "label": "Northern Mockingbird",
+          "correct": true,
+          "explanation": "The Northern Mockingbird is the official state bird of Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Bald Eagle",
+          "correct": false,
+          "explanation": "The bald eagle is the national bird of the United States, not Tennessee's state bird."
+        },
+        {
+          "id": "d",
+          "label": "Blue Jay",
+          "correct": false,
+          "explanation": "The blue jay is not Tennessee's state bird. The mockingbird is."
+        }
+      ],
+      "explanation_md": "The Northern Mockingbird is Tennessee's state bird. It is known for imitating many other birds' songs."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the state flower of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rose",
+          "correct": false,
+          "explanation": "The rose is the national flower and the state flower of some other states. Tennessee's state flower is the iris."
+        },
+        {
+          "id": "b",
+          "label": "Sunflower",
+          "correct": false,
+          "explanation": "The sunflower is Kansas's state flower. Tennessee's state flower is the iris."
+        },
+        {
+          "id": "c",
+          "label": "Iris",
+          "correct": true,
+          "explanation": "The iris is the official state flower of Tennessee, adopted in 1933."
+        },
+        {
+          "id": "d",
+          "label": "Magnolia",
+          "correct": false,
+          "explanation": "The magnolia is the state flower of Mississippi and Louisiana. Tennessee's state flower is the iris."
+        }
+      ],
+      "explanation_md": "The iris is the state flower of Tennessee. It blooms in many colors and was adopted as the state flower in 1933."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The three stars on the Tennessee state flag represent:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The three most important presidents from Tennessee",
+          "correct": false,
+          "explanation": "The stars represent geographic divisions of Tennessee, not specific presidents."
+        },
+        {
+          "id": "b",
+          "label": "The three Grand Divisions of Tennessee: East, Middle, and West",
+          "correct": true,
+          "explanation": "Each star stands for one of the three geographic divisions: East, Middle, and West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "The three largest cities in Tennessee",
+          "correct": false,
+          "explanation": "The stars represent the Grand Divisions, not specific cities."
+        },
+        {
+          "id": "d",
+          "label": "The three oldest counties in Tennessee",
+          "correct": false,
+          "explanation": "The stars represent the three Grand Divisions, not specific counties."
+        }
+      ],
+      "explanation_md": "The three stars on the Tennessee flag represent East, Middle, and West Tennessee - the three Grand Divisions."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is the mockingbird a good symbol for Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It only lives in one place in the world",
+          "correct": false,
+          "explanation": "Mockingbirds are found across the eastern and southern United States, including throughout Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "It can imitate many different bird songs and is found throughout Tennessee",
+          "correct": true,
+          "explanation": "The mockingbird's ability to sing many songs and its presence across the state make it a fitting symbol."
+        },
+        {
+          "id": "c",
+          "label": "It is the biggest bird in Tennessee",
+          "correct": false,
+          "explanation": "Mockingbirds are medium-sized birds. They are chosen as a symbol for their singing, not their size."
+        },
+        {
+          "id": "d",
+          "label": "It builds the largest nests in the state",
+          "correct": false,
+          "explanation": "Mockingbirds are chosen as a symbol for their beautiful and varied singing."
+        }
+      ],
+      "explanation_md": "Mockingbirds are found throughout Tennessee and can imitate many other birds' songs, making them a fitting state symbol."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Tennessee state flag was adopted in 1905. What might the colors red, white, and blue represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The three seasons of Tennessee weather",
+          "correct": false,
+          "explanation": "The colors do not represent seasons."
+        },
+        {
+          "id": "b",
+          "label": "The colors of the United States flag, showing Tennessee's connection to the nation",
+          "correct": true,
+          "explanation": "Red, white, and blue are the colors of the American flag. Many state flags use these colors to show pride in being part of the United States."
+        },
+        {
+          "id": "c",
+          "label": "Only the colors of the University of Tennessee",
+          "correct": false,
+          "explanation": "UT's colors are orange and white. The flag's colors connect to the American flag."
+        },
+        {
+          "id": "d",
+          "label": "The three types of soil in Tennessee",
+          "correct": false,
+          "explanation": "The colors represent American patriotism, not soil types."
+        }
+      ],
+      "explanation_md": "Red, white, and blue are the colors of the American flag. Tennessee uses these colors to show pride in being part of the United States."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do states have official symbols like a state bird, flower, and flag?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To confuse visitors who come to the state",
+          "correct": false,
+          "explanation": "State symbols create identity and pride, not confusion."
+        },
+        {
+          "id": "b",
+          "label": "To create a shared identity and pride for all people who live in the state",
+          "correct": true,
+          "explanation": "State symbols help all residents connect to their shared heritage and feel proud of where they live."
+        },
+        {
+          "id": "c",
+          "label": "Because the federal government requires states to have exactly 10 symbols",
+          "correct": false,
+          "explanation": "States choose their own symbols for cultural and historical reasons, not because of a federal requirement."
+        },
+        {
+          "id": "d",
+          "label": "So visitors know which animals and plants are dangerous",
+          "correct": false,
+          "explanation": "State symbols are chosen to represent cultural pride, not to warn about dangers."
+        }
+      ],
+      "explanation_md": "State symbols create a shared identity and pride for all residents of the state."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tree is the state tree of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Oak tree",
+          "correct": false,
+          "explanation": "The oak is not Tennessee's state tree. The tulip poplar is."
+        },
+        {
+          "id": "b",
+          "label": "Tulip poplar",
+          "correct": true,
+          "explanation": "The tulip poplar is the official state tree of Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Pine tree",
+          "correct": false,
+          "explanation": "Pine is the state tree of some other states. Tennessee's state tree is the tulip poplar."
+        },
+        {
+          "id": "d",
+          "label": "Magnolia tree",
+          "correct": false,
+          "explanation": "The magnolia is Mississippi's state tree. Tennessee's state tree is the tulip poplar."
+        }
+      ],
+      "explanation_md": "The tulip poplar is Tennessee's state tree. It produces beautiful flowers in the spring."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What makes the Northern Mockingbird special compared to other birds?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It can fly higher than any other bird",
+          "correct": false,
+          "explanation": "Mockingbirds are not known for altitude. They are known for their singing ability."
+        },
+        {
+          "id": "b",
+          "label": "It can imitate and sing the songs of many other birds",
+          "correct": true,
+          "explanation": "Mockingbirds can mimic dozens of other birds' songs, which is remarkable and makes them unique."
+        },
+        {
+          "id": "c",
+          "label": "It is the largest bird in Tennessee",
+          "correct": false,
+          "explanation": "Mockingbirds are medium-sized. They are special for their singing."
+        },
+        {
+          "id": "d",
+          "label": "It has the brightest feathers of any Tennessee bird",
+          "correct": false,
+          "explanation": "Mockingbirds are actually gray and white. They are special for their singing ability."
+        }
+      ],
+      "explanation_md": "The Northern Mockingbird can imitate and sing the songs of many other birds, which is what makes it special."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Tennessee's state fruit is the tomato. Why might a state choose an agricultural product as a state symbol?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because the government wants everyone to eat more tomatoes",
+          "correct": false,
+          "explanation": "State symbols are chosen for cultural and historical significance, not as dietary advice."
+        },
+        {
+          "id": "b",
+          "label": "Because it represents an important part of the state's farming heritage and economy",
+          "correct": true,
+          "explanation": "Tomatoes are widely grown in Tennessee. Naming them a state symbol recognizes their importance to the state's agricultural history and economy."
+        },
+        {
+          "id": "c",
+          "label": "Because tomatoes grow in every state",
+          "correct": false,
+          "explanation": "Tomatoes grow in many states, but Tennessee chose it because of its particular importance to Tennessee farming."
+        },
+        {
+          "id": "d",
+          "label": "State fruits are always chosen randomly",
+          "correct": false,
+          "explanation": "State symbols are chosen carefully to represent something meaningful about the state."
+        }
+      ],
+      "explanation_md": "The tomato is widely grown in Tennessee. Choosing it as a state symbol recognizes its importance to Tennessee's farming heritage."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "The three stars on the Tennessee flag represent East, Middle, and West Tennessee. What can you infer about why the flag makers chose this design?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They did not know how many parts Tennessee had",
+          "correct": false,
+          "explanation": "The three stars were deliberately chosen to represent the three Grand Divisions."
+        },
+        {
+          "id": "b",
+          "label": "They wanted to show that all three regions of Tennessee are equal and united as one state",
+          "correct": true,
+          "explanation": "By giving each division its own star and placing them together in a circle, the flag shows unity among Tennessee's three distinct regions."
+        },
+        {
+          "id": "c",
+          "label": "Three stars are easier to draw than four",
+          "correct": false,
+          "explanation": "The number of stars was chosen for meaning, not ease of drawing."
+        },
+        {
+          "id": "d",
+          "label": "The stars represent the three presidents from Tennessee",
+          "correct": false,
+          "explanation": "The stars represent the three Grand Divisions, not presidents."
+        }
+      ],
+      "explanation_md": "The three stars united in a circle show that Tennessee's three regions are equal and united as one state."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What are the three Grand Divisions of Tennessee shown by the stars on the state flag?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "North, South, and Central",
+          "correct": false,
+          "explanation": "The divisions are East, Middle, and West - not North, South, and Central."
+        },
+        {
+          "id": "b",
+          "label": "East, Middle, and West Tennessee",
+          "correct": true,
+          "explanation": "The three stars on the Tennessee flag represent East, Middle, and West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Memphis, Nashville, and Knoxville",
+          "correct": false,
+          "explanation": "The stars represent the three divisions of the state, not specific cities."
+        },
+        {
+          "id": "d",
+          "label": "Mountains, valleys, and plains",
+          "correct": false,
+          "explanation": "The stars represent Grand Divisions (geographic regions), not specific landform types."
+        }
+      ],
+      "explanation_md": "The three stars on the Tennessee flag represent East, Middle, and West Tennessee - the three Grand Divisions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which pair of Tennessee state symbols is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "State bird: Eagle. State flower: Magnolia.",
+          "correct": false,
+          "explanation": "Tennessee's state bird is the mockingbird and the state flower is the iris."
+        },
+        {
+          "id": "b",
+          "label": "State bird: Mockingbird. State flower: Iris.",
+          "correct": true,
+          "explanation": "The Northern Mockingbird is the state bird and the iris is the state flower of Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "State bird: Cardinal. State flower: Rose.",
+          "correct": false,
+          "explanation": "The cardinal and rose are symbols of other states. Tennessee has the mockingbird and iris."
+        },
+        {
+          "id": "d",
+          "label": "State bird: Blue Jay. State flower: Sunflower.",
+          "correct": false,
+          "explanation": "The blue jay and sunflower are not Tennessee state symbols."
+        }
+      ],
+      "explanation_md": "Tennessee's state bird is the Northern Mockingbird and the state flower is the iris."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says state symbols are not important. Which argument BEST responds to this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "State symbols are chosen randomly so they do not mean anything",
+          "correct": false,
+          "explanation": "State symbols are chosen carefully to represent something meaningful about the state's history and culture."
+        },
+        {
+          "id": "b",
+          "label": "State symbols create a shared identity, connect people to their heritage, and build pride in the state",
+          "correct": true,
+          "explanation": "State symbols are culturally significant. They give all residents a shared connection to their state's history and natural features."
+        },
+        {
+          "id": "c",
+          "label": "State symbols are only important to politicians",
+          "correct": false,
+          "explanation": "State symbols belong to all residents. They represent everyone who lives in the state."
+        },
+        {
+          "id": "d",
+          "label": "State symbols are not important because you can change them anytime",
+          "correct": false,
+          "explanation": "State symbols are carefully chosen and take significant effort to change. They carry lasting meaning."
+        }
+      ],
+      "explanation_md": "State symbols create shared identity, connect people to their heritage, and build pride in their state."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the state bird of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Eagle",
+          "correct": false,
+          "explanation": "The eagle is the national bird. Tennessee's state bird is the mockingbird."
+        },
+        {
+          "id": "b",
+          "label": "Mockingbird",
+          "correct": true,
+          "explanation": "The Northern Mockingbird is Tennessee's state bird."
+        },
+        {
+          "id": "c",
+          "label": "Robin",
+          "correct": false,
+          "explanation": "The robin is some states' symbol. Tennessee's state bird is the mockingbird."
+        },
+        {
+          "id": "d",
+          "label": "Hawk",
+          "correct": false,
+          "explanation": "Tennessee's state bird is the mockingbird, not a hawk."
+        }
+      ],
+      "explanation_md": "The Northern Mockingbird is the state bird of Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the state flower of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rose",
+          "correct": false,
+          "explanation": "The rose is not Tennessee's state flower. The iris is."
+        },
+        {
+          "id": "b",
+          "label": "Iris",
+          "correct": true,
+          "explanation": "The iris is the official state flower of Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Daisy",
+          "correct": false,
+          "explanation": "The daisy is not Tennessee's state flower. The iris is."
+        },
+        {
+          "id": "d",
+          "label": "Tulip",
+          "correct": false,
+          "explanation": "Tennessee's state flower is the iris. The tulip poplar is the state tree."
+        }
+      ],
+      "explanation_md": "The iris is the state flower of Tennessee."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many stars are on the Tennessee state flag?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One",
+          "correct": false,
+          "explanation": "There are three stars on the Tennessee state flag, not one."
+        },
+        {
+          "id": "b",
+          "label": "Two",
+          "correct": false,
+          "explanation": "There are three stars on the Tennessee state flag, not two."
+        },
+        {
+          "id": "c",
+          "label": "Three",
+          "correct": true,
+          "explanation": "The Tennessee state flag has three stars representing the three Grand Divisions."
+        },
+        {
+          "id": "d",
+          "label": "Fifty",
+          "correct": false,
+          "explanation": "Fifty stars are on the United States flag. The Tennessee flag has three stars."
+        }
+      ],
+      "explanation_md": "The Tennessee state flag has three stars representing the three Grand Divisions of the state."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "State symbols help people feel:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Confused about where they live",
+          "correct": false,
+          "explanation": "State symbols create pride and identity, not confusion."
+        },
+        {
+          "id": "b",
+          "label": "Proud of and connected to their state",
+          "correct": true,
+          "explanation": "State symbols help all residents feel proud of and connected to their state."
+        },
+        {
+          "id": "c",
+          "label": "Sad about their community",
+          "correct": false,
+          "explanation": "State symbols are meant to inspire pride, not sadness."
+        },
+        {
+          "id": "d",
+          "label": "Nothing - symbols have no meaning",
+          "correct": false,
+          "explanation": "State symbols are chosen for their meaning and help create a shared identity."
+        }
+      ],
+      "explanation_md": "State symbols help people feel proud of and connected to their state's heritage."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The three stars on the Tennessee flag represent:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Three presidents",
+          "correct": false,
+          "explanation": "The stars represent geographic divisions of the state, not presidents."
+        },
+        {
+          "id": "b",
+          "label": "East, Middle, and West Tennessee",
+          "correct": true,
+          "explanation": "The three stars on the Tennessee flag stand for the three Grand Divisions: East, Middle, and West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Three big rivers",
+          "correct": false,
+          "explanation": "The stars represent geographic divisions of the state, not rivers."
+        },
+        {
+          "id": "d",
+          "label": "Three important cities",
+          "correct": false,
+          "explanation": "The stars represent the three Grand Divisions of Tennessee, not specific cities."
+        }
+      ],
+      "explanation_md": "The three stars on the Tennessee flag represent East, Middle, and West Tennessee - the three Grand Divisions."
+    }
+  ]
+}
