@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.L.1.2",
+  "benchmark_description": "Compare what different animals need to live and grow (air, water, food, and shelter) and explain how the environment provides for their needs.",
+  "course": "science",
+  "strand": "L",
+  "lesson": {
+    "title": "Animal Needs and Habitats",
+    "intro": "Every animal needs certain things to survive. A habitat is the place where an animal lives and finds everything it needs. In this lesson we will explore what animals need and how different habitats meet those needs.",
+    "body_md": "## What Do Animals Need?\n\nAll animals need **four basic things** to survive:\n\n1. **Air** – Animals breathe air to get oxygen. Fish use gills to take oxygen from water. Birds, dogs, and frogs breathe air with lungs.\n2. **Water** – Every animal needs water to live. Some drink from rivers or puddles. Desert animals like kangaroo rats get water from the seeds they eat.\n3. **Food** – Animals eat to get energy. Some animals eat plants (herbivores). Some eat other animals (carnivores). Some eat both (omnivores).\n4. **Shelter** – Shelter protects animals from weather and predators. Shelter can be a burrow, a nest, a cave, or a shell.\n\n## What Is a Habitat?\n\nA **habitat** is the place where an animal lives. A good habitat has everything the animal needs. Different animals live in different habitats because their bodies are suited to those places.\n\n### Common Habitats\n\n| Habitat | Example Animals | What It Provides |\n|---------|----------------|------------------|\n| Forest | Deer, owls, foxes | Trees for shelter, streams for water, plants and prey for food |\n| Ocean | Fish, dolphins, crabs | Saltwater, food from other sea creatures, coral and rocks for shelter |\n| Desert | Rattlesnakes, roadrunners, scorpions | Food from insects and small animals, burrows for shelter, water from food |\n| Wetland | Frogs, herons, turtles | Shallow water, insects, plants, mud banks for nesting |\n| Arctic | Polar bears, penguins, walruses | Ice and snow for dens, cold ocean water, fish and seals for food |\n\n## How Animals Find What They Need\n\n- **Squirrels** live in forests. They eat acorns and nuts (food), drink from streams (water), breathe forest air, and build nests in trees (shelter).\n- **Clownfish** live in coral reefs. They eat algae and small shrimp, get oxygen from water through gills, and hide inside sea anemones for shelter.\n- **Penguins** live in the Antarctic. They eat fish from icy water, huddle together for warmth, and lay eggs in large groups for protection.\n\n## When Habitats Are Damaged\n\nIf a habitat changes, animals may struggle to survive. If a forest is cut down, owls lose their nesting trees. If a pond dries up, frogs lose their water and food. Protecting habitats keeps animals healthy.",
+    "worked_example_md": "### Worked Example: Matching an Animal to Its Habitat\n\n**Question:** A beaver needs water to swim, trees to build a dam for shelter, and water plants to eat. Which habitat is BEST for a beaver?\n\nA) Desert\nB) Ocean\nC) Forest stream or pond\nD) Arctic tundra\n\n**Step 1 – List the beaver's needs:**\n- Water to swim ✓\n- Trees for dam-building (shelter) ✓\n- Water plants for food ✓\n\n**Step 2 – Check each habitat:**\n- Desert: no water, no trees → Does NOT work.\n- Ocean: saltwater only, few trees → Does NOT work.\n- Forest stream/pond: fresh water ✓, trees nearby ✓, water plants ✓ → Works!\n- Arctic tundra: few trees, very cold → Does NOT work.\n\n**Answer: C) Forest stream or pond.** It provides all four needs — water, trees for shelter, air, and food from water plants.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is NOT one of the four things all animals need to survive?",
+      "choices": [
+        {"id": "a", "label": "Air", "correct": false, "explanation": "Air is one of the four basic needs — animals breathe air to get oxygen."},
+        {"id": "b", "label": "Sunlight", "correct": true, "explanation": "Correct! Sunlight is something PLANTS need to make food, but it is not listed as one of the four basic animal needs (air, water, food, shelter)."},
+        {"id": "c", "label": "Water", "correct": false, "explanation": "Water is one of the four basic needs — all animals need water to stay alive."},
+        {"id": "d", "label": "Food", "correct": false, "explanation": "Food is one of the four basic needs — animals eat to get energy to grow and move."}
+      ],
+      "explanation_md": "Animals need air, water, food, and shelter to survive. Sunlight is essential for plants (photosynthesis), but not listed as a direct basic need for animals."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A bird builds a nest in a tree. The nest is an example of which animal need?",
+      "choices": [
+        {"id": "a", "label": "Food", "correct": false, "explanation": "Food gives animals energy — a nest is not food."},
+        {"id": "b", "label": "Water", "correct": false, "explanation": "Water keeps animals hydrated — a nest does not provide water."},
+        {"id": "c", "label": "Air", "correct": false, "explanation": "Air is what animals breathe — a nest is not related to breathing."},
+        {"id": "d", "label": "Shelter", "correct": true, "explanation": "Correct! A nest is shelter — it protects the bird and its eggs from weather and predators."}
+      ],
+      "explanation_md": "Shelter is a structure that protects animals. A nest in a tree protects a bird from rain, wind, and predators, so it serves as shelter."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a habitat?",
+      "choices": [
+        {"id": "a", "label": "The food an animal eats", "correct": false, "explanation": "Food is one of the things a habitat provides, but food itself is not the definition of a habitat."},
+        {"id": "b", "label": "The place where an animal lives and finds what it needs", "correct": true, "explanation": "Correct! A habitat is the place where an animal lives and where it can find air, water, food, and shelter."},
+        {"id": "c", "label": "The season when animals are most active", "correct": false, "explanation": "Seasons describe times of year — they are not the same as a habitat."},
+        {"id": "d", "label": "The body parts an animal uses to move", "correct": false, "explanation": "Body parts used for movement are adaptations — they are not a habitat."}
+      ],
+      "explanation_md": "A habitat is the natural home of an animal. It is the place where the animal lives and finds everything it needs to survive — air, water, food, and shelter."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A frog lives near a pond. Which TWO needs does the pond BEST provide for the frog?",
+      "choices": [
+        {"id": "a", "label": "Water and food (insects, small fish)", "correct": true, "explanation": "Correct! The pond gives the frog water to live in and a source of food such as insects and small fish."},
+        {"id": "b", "label": "Shelter underground and desert heat", "correct": false, "explanation": "Frogs do not live in deserts. A pond provides water and food, not desert conditions."},
+        {"id": "c", "label": "Saltwater and ocean prey", "correct": false, "explanation": "Ponds are freshwater, not saltwater. Frogs need freshwater habitats."},
+        {"id": "d", "label": "Tree bark and pine cones", "correct": false, "explanation": "Tree bark and pine cones are forest resources — they do not come from a pond."}
+      ],
+      "explanation_md": "A pond provides frogs with fresh water to swim and stay moist, and it offers food like insects, worms, and small fish that live in or near the water."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why might a polar bear NOT survive if it were moved to a tropical rainforest?",
+      "choices": [
+        {"id": "a", "label": "The rainforest has no air", "correct": false, "explanation": "All habitats on Earth have air. Air is not the reason a polar bear would struggle in a rainforest."},
+        {"id": "b", "label": "The rainforest is too hot and lacks the prey polar bears eat", "correct": true, "explanation": "Correct! Polar bears are adapted to cold Arctic temperatures and they hunt seals on sea ice. A hot rainforest has neither the cold climate nor the polar prey they need."},
+        {"id": "c", "label": "Rainforests have too much water", "correct": false, "explanation": "Polar bears need water too. Excess water is not the main problem — the temperature and food source are."},
+        {"id": "d", "label": "The rainforest has no shelter at all", "correct": false, "explanation": "Rainforests have plenty of shelter (trees, roots, caves). The real issue is the polar bear's need for cold temperatures and specific prey."}
+      ],
+      "explanation_md": "Polar bears are adapted to life in the Arctic — thick fur for cold temperatures, and a diet of seals. A tropical rainforest is too hot and lacks the prey they are built to catch, so they would not thrive there."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A squirrel collects acorns and stores them in holes in the ground for winter. Which need is the squirrel meeting by storing food?",
+      "choices": [
+        {"id": "a", "label": "Shelter", "correct": false, "explanation": "Storing food underground is not building a shelter — it is saving food for later."},
+        {"id": "b", "label": "Air", "correct": false, "explanation": "Storing food has nothing to do with breathing air."},
+        {"id": "c", "label": "Food", "correct": true, "explanation": "Correct! By storing acorns, the squirrel is preparing its food supply so it has enough to eat during winter when food is scarce."},
+        {"id": "d", "label": "Water", "correct": false, "explanation": "Acorns are food, not water. The squirrel is meeting its food need, not its water need."}
+      ],
+      "explanation_md": "Squirrels cache (store) food so they have enough to eat when winter makes food hard to find. This behavior helps them meet their need for food year-round."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A wetland is drained and turned into a parking lot. Which statement BEST explains how this affects the animals that lived there?",
+      "choices": [
+        {"id": "a", "label": "The animals will be unaffected because they can easily move to the parking lot", "correct": false, "explanation": "A parking lot provides none of the animals' needs — no water, food, or shelter. Animals cannot survive on concrete."},
+        {"id": "b", "label": "The animals will thrive because they now have more flat space", "correct": false, "explanation": "Flat paved space does not provide water, food, or appropriate shelter. Animals need their specific habitat resources to survive."},
+        {"id": "c", "label": "The animals lose their source of water, food, and shelter and may die or be forced to move", "correct": true, "explanation": "Correct! Draining the wetland destroys the habitat, removing the water, food (insects, fish, plants), and shelter (reeds, mud banks) that wetland animals depended on."},
+        {"id": "d", "label": "Only the fish will be affected; other animals will find what they need on land", "correct": false, "explanation": "Many animals depend on wetlands — frogs, herons, turtles, insects, and more. Destroying the habitat harms all of them, not just fish."}
+      ],
+      "explanation_md": "When a habitat is destroyed, the animals that depended on it lose all their resources at once — water, food, and shelter. They must either move to find a new suitable habitat or they die. Habitat destruction is one of the biggest threats to wildlife."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A camel can go many days without drinking water and stores fat in its hump for energy. Which habitat is the camel BEST suited for?",
+      "choices": [
+        {"id": "a", "label": "Tropical rainforest", "correct": false, "explanation": "Rainforests have abundant water, so the camel's special water-saving ability would not be needed there. Camels are built for dry environments."},
+        {"id": "b", "label": "Ocean coast", "correct": false, "explanation": "Ocean coasts are moist and near saltwater. A camel's adaptations are for surviving without fresh water, not for coastal life."},
+        {"id": "c", "label": "Desert", "correct": true, "explanation": "Correct! Camels are perfectly adapted for desert life — they can survive without water for days and use stored fat for energy when food is scarce."},
+        {"id": "d", "label": "Arctic tundra", "correct": false, "explanation": "The Arctic is cold, not dry and hot. Camels do not have the thick blubber or small ears needed for extreme cold."}
+      ],
+      "explanation_md": "Camels have special adaptations — water storage, fat reserves, wide feet for sand — that make them perfectly suited to desert habitats where water and food are scarce and temperatures are extreme."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How do fish meet their need for air (oxygen) differently from dogs?",
+      "choices": [
+        {"id": "a", "label": "Fish do not need oxygen at all", "correct": false, "explanation": "All animals need oxygen to survive — fish are no exception."},
+        {"id": "b", "label": "Fish use gills to take oxygen from the water; dogs use lungs to breathe air", "correct": true, "explanation": "Correct! Fish extract dissolved oxygen from water using gills, while dogs breathe air into lungs. Both get the oxygen they need, just in different ways."},
+        {"id": "c", "label": "Dogs use gills and fish use lungs", "correct": false, "explanation": "This is backwards — fish have gills and breathe in water; dogs have lungs and breathe air."},
+        {"id": "d", "label": "Fish and dogs both breathe the same way through their skin", "correct": false, "explanation": "Some amphibians can absorb some oxygen through their skin, but fish use gills and dogs use lungs — not skin breathing."}
+      ],
+      "explanation_md": "Air-breathing animals like dogs use lungs to pull oxygen from the air. Fish live underwater and use gills to extract dissolved oxygen from the water. Both methods provide the animal with the oxygen it needs."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two students are comparing habitats. Maria says, 'Every animal can live in any habitat if it is strong enough.' Ben says, 'Each animal is suited to a specific habitat because its body is built for those conditions.' Who is correct, and why?",
+      "choices": [
+        {"id": "a", "label": "Maria, because strong animals can survive anywhere", "correct": false, "explanation": "Strength alone does not help a polar bear survive tropical heat or a fish survive on dry land. Animals need specific conditions their bodies are built for."},
+        {"id": "b", "label": "Ben, because animal bodies are adapted to meet needs in a specific habitat", "correct": true, "explanation": "Correct! Ben is right. Animal bodies are shaped over generations to match their habitat — gills for water, thick fur for cold, camouflage for forests. Moving an animal to a different habitat puts it at a disadvantage."},
+        {"id": "c", "label": "Both are correct because all habitats have the same resources", "correct": false, "explanation": "Habitats are very different — deserts are dry and hot while oceans are wet and cold. They do not offer the same resources."},
+        {"id": "d", "label": "Neither is correct; animals change their body shape instantly to fit any habitat", "correct": false, "explanation": "Animals cannot change their body structure instantly. Adaptations develop over many generations, not in a single lifetime."}
+      ],
+      "explanation_md": "Ben is correct. Each animal's body is adapted to its specific habitat. A fish's gills work in water, not air. A polar bear's fur keeps it warm in the Arctic but would overheat it in a rainforest. These adaptations are the result of many generations of natural selection."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "List the four basic needs of all animals.",
+      "choices": [
+        {"id": "a", "label": "Sunlight, soil, water, and shelter", "correct": false, "explanation": "Sunlight and soil are needs of plants. Animals need air, water, food, and shelter."},
+        {"id": "b", "label": "Air, water, food, and shelter", "correct": true, "explanation": "Correct! All animals need air (oxygen), water, food (energy), and shelter to survive."},
+        {"id": "c", "label": "Food, shelter, sunlight, and soil", "correct": false, "explanation": "Food and shelter are correct, but sunlight and soil are plant needs, not the core animal needs."},
+        {"id": "d", "label": "Water, shelter, seeds, and warmth", "correct": false, "explanation": "Water and shelter are correct, but seeds and warmth are not the standard four basic needs of animals."}
+      ],
+      "explanation_md": "The four basic needs of all animals are air, water, food, and shelter. A habitat is a place that provides all four of these."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A heron (a large bird) lives in a wetland. It eats fish and frogs, wades through shallow water, and nests in tall reeds. If the wetland dried up completely, which of the heron's needs would be MOST immediately threatened?",
+      "choices": [
+        {"id": "a", "label": "Air, because wetlands provide special air", "correct": false, "explanation": "Wetlands do not provide special air — the heron breathes the same air found everywhere. Air is not the threatened need."},
+        {"id": "b", "label": "Water, food, and shelter — all three would be lost", "correct": true, "explanation": "Correct! If the wetland dried up, the heron would lose its water source, its food (fish and frogs need water too), and its nesting site in the reeds."},
+        {"id": "c", "label": "Only shelter, because herons can find food anywhere", "correct": false, "explanation": "Herons specialize in catching fish and frogs — without water, those prey disappear. Food and water would also be lost, not just shelter."},
+        {"id": "d", "label": "None — herons would immediately adapt to the dry land", "correct": false, "explanation": "Animals cannot instantly adapt to completely different conditions. A heron is built for wetlands and would struggle to find food and water if the wetland dried up."}
+      ],
+      "explanation_md": "If a wetland dries up, a heron loses water (the wetland itself), food (fish and frogs disappear without water), and shelter (reeds die without water). All three needs are threatened at once — this shows how dependent an animal is on its specific habitat."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Compare how a desert lizard and an ocean fish each meet the same four needs in very different habitats.",
+      "choices": [
+        {"id": "a", "label": "Both get water by swimming in the ocean and both eat the same food", "correct": false, "explanation": "Desert lizards do not swim in the ocean. They get water from dew and the food they eat, while fish extract oxygen from water through gills."},
+        {"id": "b", "label": "The lizard gets water from food and dew, eats insects, hides in rock crevices, and breathes air; the fish gets oxygen from water with gills, eats smaller fish or plankton, hides in coral, and lives in the ocean", "correct": true, "explanation": "Correct! Both animals meet the same four needs (air/oxygen, water, food, shelter), but they do so in completely different ways suited to their habitats."},
+        {"id": "c", "label": "Lizards do not need water and fish do not need food", "correct": false, "explanation": "All animals need water and food. Lizards get water from prey and morning dew; fish eat other organisms. Neither can skip these needs."},
+        {"id": "d", "label": "Both animals need the same type of shelter — underground burrows", "correct": false, "explanation": "Lizards may use rock crevices or burrows, but fish use coral reefs, sea grass, or rock formations in the ocean. Their shelters are very different."}
+      ],
+      "explanation_md": "Both a desert lizard and an ocean fish have the same four basic needs, but they meet them in completely different ways. The lizard breathes air with lungs, drinks from dew and food moisture, eats insects, and shelters in rock crevices. The fish breathes by extracting oxygen from water with gills, gets water from its ocean environment, eats plankton or smaller fish, and shelters in coral or rocks. Same needs — entirely different solutions."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is something all animals need to stay alive?",
+      "choices": [
+        {"id": "a", "label": "Toys", "correct": false, "explanation": "Toys are not a survival need. Animals need air, water, food, and shelter — not toys."},
+        {"id": "b", "label": "Water", "correct": true, "explanation": "Correct! All animals need water to survive. It is one of the four basic needs."},
+        {"id": "c", "label": "A television", "correct": false, "explanation": "A television is a human invention. Animals survived for millions of years without televisions."},
+        {"id": "d", "label": "A blanket", "correct": false, "explanation": "Some animals grow fur or feathers to stay warm — they do not need human blankets."}
+      ],
+      "explanation_md": "All living animals need water. It is one of the four basic survival needs: air, water, food, and shelter."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where does a bear sleep and stay safe in winter?",
+      "choices": [
+        {"id": "a", "label": "In the ocean", "correct": false, "explanation": "Bears are land animals — they do not live in the ocean."},
+        {"id": "b", "label": "In a cave or den (shelter)", "correct": true, "explanation": "Correct! Bears use caves or dens as shelter during winter. This protects them from cold and predators."},
+        {"id": "c", "label": "In a bird's nest", "correct": false, "explanation": "Bird nests are too small for bears and are built for birds. Bears use caves or dens."},
+        {"id": "d", "label": "Under the sand at the beach", "correct": false, "explanation": "Bears do not burrow under beach sand. They hibernate in caves or dens during winter."}
+      ],
+      "explanation_md": "Bears use caves or dens as shelter in winter. Shelter is one of the four basic needs of all animals — it protects them from weather and danger."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A dog is panting and looking for water on a hot day. Which of its four basic needs is the dog trying to meet?",
+      "choices": [
+        {"id": "a", "label": "Shelter", "correct": false, "explanation": "Shelter is a place to rest or hide. Panting and looking for water is about the need for water, not shelter."},
+        {"id": "b", "label": "Air", "correct": false, "explanation": "Dogs breathe air all the time through their nose. Looking for water is specifically about the water need."},
+        {"id": "c", "label": "Water", "correct": true, "explanation": "Correct! The dog is thirsty and needs water. Water is one of the four basic needs for all animals."},
+        {"id": "d", "label": "Food", "correct": false, "explanation": "The dog is looking for water to drink, not food to eat. These are two separate needs."}
+      ],
+      "explanation_md": "When a dog pants and searches for water, it is meeting its need for water. Water is essential for all animals to stay alive and healthy."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which habitat would be BEST for a duck?",
+      "choices": [
+        {"id": "a", "label": "A dry sandy desert with no water", "correct": false, "explanation": "Ducks need water to swim, find food, and live. A desert has no water, so it cannot support a duck."},
+        {"id": "b", "label": "A pond with water plants and insects nearby", "correct": true, "explanation": "Correct! A pond gives a duck water to swim in, plants and insects to eat, and reeds or banks for shelter. It meets all the duck's needs."},
+        {"id": "c", "label": "The top of a tall snowy mountain with no plants", "correct": false, "explanation": "Without plants and water, a mountain peak cannot meet a duck's food or water needs."},
+        {"id": "d", "label": "A deep underground cave", "correct": false, "explanation": "Ducks need open water and sunlight. A dark underground cave cannot provide food or water for a duck."}
+      ],
+      "explanation_md": "Ducks are well suited to ponds and wetlands. These habitats provide water for swimming, food (insects, plants, small fish), and places to nest and find shelter."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Rabbits eat grass and plants, drink from streams, live in underground burrows, and breathe air. Which of the four needs does a burrow meet?",
+      "choices": [
+        {"id": "a", "label": "Food", "correct": false, "explanation": "A burrow is not food. Rabbits eat grass and plants for food."},
+        {"id": "b", "label": "Water", "correct": false, "explanation": "A burrow is not a source of water. Rabbits drink from streams or dew."},
+        {"id": "c", "label": "Air", "correct": false, "explanation": "Rabbits breathe air above ground. The burrow is not related to meeting their air need."},
+        {"id": "d", "label": "Shelter", "correct": true, "explanation": "Correct! A burrow is underground shelter. It protects rabbits from foxes, owls, weather, and other dangers."}
+      ],
+      "explanation_md": "A burrow is shelter — an underground home that keeps rabbits safe from predators and harsh weather. Shelter is one of the four basic needs all animals must meet to survive."
+    }
+  ]
+}
