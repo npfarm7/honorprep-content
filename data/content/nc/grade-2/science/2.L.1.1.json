@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.L.1.1",
+  "benchmark_description": "Summarize the life cycle of animals: birth, developing into an adult, reproducing, and eventually dying, and compare the life cycles of different animals.",
+  "course": "science",
+  "strand": "L",
+  "lesson": {
+    "title": "Animal Life Cycles",
+    "intro": "Every animal — from a tiny frog to a massive elephant — goes through a pattern called a life cycle. Animals are born, grow into adults, have babies of their own, and eventually die. But different animals have very different looking life cycles!",
+    "body_md": "## What Is a Life Cycle?\n\nA **life cycle** is the series of stages an animal goes through from birth to death. Every animal has these basic stages:\n\n1. **Birth** — the animal begins its life (hatching from an egg OR being born live)\n2. **Growing into an adult** — the animal develops, gets bigger, and changes\n3. **Reproducing** — the adult creates offspring (babies)\n4. **Death** — the animal's life ends; the cycle continues with its offspring\n\n## Life Cycle of a Frog (with dramatic changes)\n\nSome animals go through **metamorphosis** — they change dramatically in shape during their life cycle.\n\n1. **Egg** — laid in water in clusters\n2. **Tadpole** — hatches from egg; has a tail and gills; breathes underwater\n3. **Froglet** — grows legs, begins losing tail\n4. **Adult frog** — has four legs, no tail, breathes air; can live on land and in water\n\n## Life Cycle of a Butterfly (complete metamorphosis)\n\n1. **Egg** — tiny egg on a leaf\n2. **Larva (caterpillar)** — hatches; eats and grows; looks nothing like a butterfly\n3. **Pupa (chrysalis)** — caterpillar wraps itself; body reorganizes\n4. **Adult butterfly** — emerges with wings; can reproduce\n\n## Life Cycle of a Dog (no metamorphosis)\n\nMany animals, including most mammals, look like their parents from birth — they do not go through dramatic shape changes.\n\n1. **Birth** — puppies are born live, eyes closed\n2. **Young (puppy)** — grows rapidly; learns skills\n3. **Adult** — fully grown; can reproduce\n4. **Old age and death** — completes the cycle\n\n## Comparing Life Cycles\n\n| Animal | Type of birth | Does it change shape? | Stages |\n|--------|--------------|----------------------|--------|\n| Frog | Egg | Yes (metamorphosis) | 4 |\n| Butterfly | Egg | Yes (complete metamorphosis) | 4 |\n| Dog | Live birth | No | Birth → puppy → adult |\n| Chicken | Egg | No (looks like a small chicken) | Egg → chick → hen |\n\n## Key Vocabulary\n\n- **Life cycle** — series of stages from birth to death and back to birth in the next generation\n- **Metamorphosis** — dramatic change in body shape during development\n- **Larva** — the worm-like young stage of an insect (like a caterpillar)\n- **Pupa** — the resting stage where a larva changes into an adult (like a chrysalis)\n- **Reproduce** — to create offspring (babies)",
+    "worked_example_md": "## Worked Example: Ordering a Life Cycle\n\nA student is shown pictures of a butterfly's life cycle out of order:\n- Picture A: A caterpillar eating leaves\n- Picture B: A chrysalis hanging from a branch\n- Picture C: A butterfly on a flower\n- Picture D: A tiny egg on a leaf\n\n**Correct order:**\n1. Picture D (egg) — The butterfly starts as a tiny egg\n2. Picture A (caterpillar / larva) — Hatches and eats leaves\n3. Picture B (chrysalis / pupa) — Wraps itself; body reorganizes\n4. Picture C (adult butterfly) — Emerges with wings, can reproduce\n\n**Key observation:** The caterpillar and the butterfly look completely different — this dramatic change is called complete metamorphosis.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a life cycle?",
+      "choices": [
+        {"id": "a", "label": "The distance an animal travels in its life", "correct": false, "explanation": "A life cycle is about stages of life — birth, growth, reproduction, and death — not about distance traveled."},
+        {"id": "b", "label": "The stages of an animal's life from birth to death", "correct": true, "explanation": "A life cycle is the series of stages every animal goes through: being born, growing into an adult, reproducing, and eventually dying."},
+        {"id": "c", "label": "The amount of food an animal eats each day", "correct": false, "explanation": "Daily food consumption is not a life cycle. A life cycle describes the stages of an animal's entire life."},
+        {"id": "d", "label": "How fast an animal grows", "correct": false, "explanation": "Growth rate is just one part of the life cycle. The full life cycle includes all stages from birth to death."}
+      ],
+      "explanation_md": "A **life cycle** is the series of stages an animal goes through: birth, growing into an adult, reproducing, and death."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the correct order for a butterfly's life cycle?",
+      "choices": [
+        {"id": "a", "label": "Caterpillar → Egg → Chrysalis → Butterfly", "correct": false, "explanation": "The egg must come first — it is where the caterpillar hatches from. The cycle begins with the egg."},
+        {"id": "b", "label": "Egg → Caterpillar → Chrysalis → Butterfly", "correct": true, "explanation": "This is the correct order: egg hatches into a caterpillar, which forms a chrysalis, which transforms into a butterfly."},
+        {"id": "c", "label": "Butterfly → Chrysalis → Caterpillar → Egg", "correct": false, "explanation": "This is the life cycle in reverse. The butterfly lays eggs, but the development goes from egg to caterpillar to chrysalis to butterfly."},
+        {"id": "d", "label": "Chrysalis → Egg → Caterpillar → Butterfly", "correct": false, "explanation": "The egg comes first. The chrysalis forms from the caterpillar — not from an egg."}
+      ],
+      "explanation_md": "A butterfly's life cycle: **Egg** → **Caterpillar (larva)** → **Chrysalis (pupa)** → **Adult butterfly**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is metamorphosis?",
+      "choices": [
+        {"id": "a", "label": "When an animal moves to a new location", "correct": false, "explanation": "Moving to a new location is migration. Metamorphosis is about dramatic body changes during development."},
+        {"id": "b", "label": "A dramatic change in body shape during development", "correct": true, "explanation": "Metamorphosis is when an animal changes dramatically in body shape and structure as it develops — like a caterpillar becoming a butterfly or a tadpole becoming a frog."},
+        {"id": "c", "label": "When an animal grows bigger without changing shape", "correct": false, "explanation": "Growing without changing shape is normal growth (like a puppy growing into a dog). Metamorphosis involves dramatic shape changes."},
+        {"id": "d", "label": "The process of an animal eating", "correct": false, "explanation": "Eating is not metamorphosis. Metamorphosis is the change in body shape and form during development."}
+      ],
+      "explanation_md": "**Metamorphosis** is a **dramatic change in body shape** during development. A caterpillar transforming into a butterfly is a classic example."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A tadpole grows legs and loses its tail. This is an example of —",
+      "choices": [
+        {"id": "a", "label": "The animal dying", "correct": false, "explanation": "The tadpole is not dying — it is transforming into an adult frog. This is a normal part of its life cycle."},
+        {"id": "b", "label": "Metamorphosis — a dramatic body change during development", "correct": true, "explanation": "A tadpole transforming into a frog involves dramatic changes (losing a tail, growing legs, developing lungs). This is metamorphosis."},
+        {"id": "c", "label": "Reproduction — the tadpole creating offspring", "correct": false, "explanation": "Reproduction is creating offspring. The tadpole growing legs is development and metamorphosis — not reproduction."},
+        {"id": "d", "label": "The birth stage of the life cycle", "correct": false, "explanation": "The birth stage is the very beginning. A tadpole growing legs is the middle of the life cycle — the larva developing into an adult."}
+      ],
+      "explanation_md": "A tadpole growing legs and losing its tail is **metamorphosis** — the dramatic body transformation as it develops into an adult frog."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How are the life cycles of a frog and a dog DIFFERENT?",
+      "choices": [
+        {"id": "a", "label": "Only frogs reproduce; dogs do not.", "correct": false, "explanation": "Both frogs and dogs reproduce. Reproduction is a stage in every animal's life cycle."},
+        {"id": "b", "label": "Frogs go through metamorphosis (dramatic shape change); dogs do not.", "correct": true, "explanation": "Frogs hatch as tadpoles that look very different from adult frogs — this is metamorphosis. Dogs are born looking like small dogs and grow without dramatic shape changes."},
+        {"id": "c", "label": "Dogs have eggs; frogs are born live.", "correct": false, "explanation": "It is the opposite — frogs lay eggs; dogs are born live (as puppies). The student has these reversed."},
+        {"id": "d", "label": "Both have the same life cycle — there is no difference.", "correct": false, "explanation": "Frog and dog life cycles are quite different in how the young look and whether they go through metamorphosis."}
+      ],
+      "explanation_md": "Frogs undergo **metamorphosis** — they hatch as tadpoles and dramatically change shape to become adult frogs. Dogs are born looking like small dogs and grow larger without dramatic shape changes."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is true about ALL animal life cycles?",
+      "choices": [
+        {"id": "a", "label": "All animals hatch from eggs.", "correct": false, "explanation": "Many animals — like dogs, cats, humans, and whales — are born live, not from eggs. Not all animals hatch from eggs."},
+        {"id": "b", "label": "All animals go through metamorphosis.", "correct": false, "explanation": "Metamorphosis is dramatic shape change during development. Dogs, humans, and many other animals grow without metamorphosis."},
+        {"id": "c", "label": "All animals are born, grow, reproduce, and die.", "correct": true, "explanation": "These four stages — birth, growth, reproduction, and death — are common to all animals' life cycles, even if the details differ."},
+        {"id": "d", "label": "All animals live the same number of years.", "correct": false, "explanation": "Animals have widely different lifespans. A mayfly lives one day; a tortoise can live over 150 years."}
+      ],
+      "explanation_md": "All animals share the same basic stages: **birth, growing into an adult, reproducing, and death**. The details (eggs vs. live birth, metamorphosis vs. not) differ between species."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the stage called when a caterpillar wraps itself in a chrysalis?",
+      "choices": [
+        {"id": "a", "label": "Larva", "correct": false, "explanation": "The caterpillar (larva) stage comes BEFORE the chrysalis. The chrysalis is the next stage."},
+        {"id": "b", "label": "Pupa", "correct": true, "explanation": "The chrysalis is the pupa stage. Inside, the caterpillar's body reorganizes into the butterfly's adult form."},
+        {"id": "c", "label": "Egg", "correct": false, "explanation": "The egg comes before the caterpillar. The chrysalis comes after the caterpillar stage."},
+        {"id": "d", "label": "Adult", "correct": false, "explanation": "The adult butterfly emerges from the chrysalis — the chrysalis itself is not the adult stage."}
+      ],
+      "explanation_md": "The chrysalis is the **pupa** stage. Inside the chrysalis, the caterpillar (larva) reorganizes into an adult butterfly — this is part of complete metamorphosis."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A chicken hatches from an egg and looks like a small chicken — not like a different animal. How is this different from a frog?",
+      "choices": [
+        {"id": "a", "label": "Chickens do not have a life cycle; frogs do.", "correct": false, "explanation": "All animals have a life cycle. Chickens have a life cycle too — they just do not go through metamorphosis."},
+        {"id": "b", "label": "A chick looks like its parents, while a tadpole looks nothing like an adult frog.", "correct": true, "explanation": "Chicks are small versions of chickens from birth. Tadpoles look completely different from adult frogs — they swim in water and have tails. Frogs undergo metamorphosis; chickens do not."},
+        {"id": "c", "label": "Frogs do not hatch from eggs; chickens do.", "correct": false, "explanation": "Frogs DO hatch from eggs — they lay eggs in water. Both frogs and chickens hatch from eggs."},
+        {"id": "d", "label": "There is no difference — both look the same throughout their lives.", "correct": false, "explanation": "There is a clear difference. Frogs go through metamorphosis (tadpole → frog); chickens hatch already looking like small chickens."}
+      ],
+      "explanation_md": "A chick looks like a small chicken from birth — it does not undergo metamorphosis. A frog hatches as a tadpole that looks very different from an adult frog — metamorphosis is required to change from tadpole to frog."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is reproduction an important stage in an animal's life cycle?",
+      "choices": [
+        {"id": "a", "label": "It lets the animal move to a warmer location.", "correct": false, "explanation": "Moving to a warmer location is migration, not reproduction. Reproduction creates offspring — the next generation."},
+        {"id": "b", "label": "It allows the animal's species to continue after the parent dies.", "correct": true, "explanation": "Without reproduction, no new animals of that species would be born. Reproduction ensures the species continues — the cycle keeps going with the next generation."},
+        {"id": "c", "label": "It makes the animal grow bigger.", "correct": false, "explanation": "Growth happens during the development stage, not reproduction. Reproduction is specifically about creating offspring."},
+        {"id": "d", "label": "It allows the parent to live longer.", "correct": false, "explanation": "Reproduction does not extend the parent's life. It creates new individuals to carry on the species."}
+      ],
+      "explanation_md": "**Reproduction** allows the animal's species to **continue** after the parent dies. Without reproduction, a species would have no new individuals and would eventually die out."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student observes: 'This animal starts life in water with gills, grows legs, moves to land, and breathes air as an adult.' Which type of animal is this?",
+      "choices": [
+        {"id": "a", "label": "A butterfly, because it goes through complete metamorphosis", "correct": false, "explanation": "Butterflies go through metamorphosis but they are insects — they start as eggs, not water-dwelling gill-breathers."},
+        {"id": "b", "label": "A frog, because it starts as a tadpole in water and transforms into an air-breathing adult", "correct": true, "explanation": "The description matches the frog life cycle exactly: starts in water with gills (tadpole), grows legs, transitions to land, and breathes air as an adult frog."},
+        {"id": "c", "label": "A dog, because dogs are born near water", "correct": false, "explanation": "Dogs are not born in water with gills. They are born live and breathe air from birth."},
+        {"id": "d", "label": "A chicken, because chicks hatch near ponds", "correct": false, "explanation": "Chicks hatch from eggs on land — not in water with gills. The description does not match a chicken."}
+      ],
+      "explanation_md": "The description — starts in water with gills, grows legs, moves to land, breathes air — exactly matches the **frog's** life cycle: **tadpole** (aquatic, gills) → **froglet** (growing legs) → **adult frog** (land, lungs)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which stage comes AFTER the egg stage in a frog's life cycle?",
+      "choices": [
+        {"id": "a", "label": "Adult frog", "correct": false, "explanation": "The adult frog comes at the end of the life cycle — not immediately after the egg."},
+        {"id": "b", "label": "Tadpole", "correct": true, "explanation": "After the egg hatches, the tadpole emerges — a swimming, gill-breathing young frog."},
+        {"id": "c", "label": "Chrysalis", "correct": false, "explanation": "A chrysalis is part of a butterfly's life cycle, not a frog's. Frogs do not have a chrysalis stage."},
+        {"id": "d", "label": "Death", "correct": false, "explanation": "Death comes at the end of the life cycle, not right after hatching from an egg."}
+      ],
+      "explanation_md": "After a frog's egg hatches, a **tadpole** emerges — a gill-breathing, water-dwelling young frog that will eventually develop into an adult through metamorphosis."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How does a butterfly's life cycle differ from a dog's life cycle?",
+      "choices": [
+        {"id": "a", "label": "Butterflies do not reproduce; dogs do.", "correct": false, "explanation": "Butterflies do reproduce — they lay eggs. Reproduction is a stage in every animal's life cycle."},
+        {"id": "b", "label": "Butterflies go through complete metamorphosis with four distinct stages; dogs grow from puppy to adult without dramatic shape changes.", "correct": true, "explanation": "Butterflies go through egg, larva, pupa, and adult — complete metamorphosis. Dogs are born live and grow from puppy to adult without changing body shape dramatically."},
+        {"id": "c", "label": "Dogs have eggs; butterflies are born live.", "correct": false, "explanation": "This is reversed. Butterflies lay eggs; dogs are born live."},
+        {"id": "d", "label": "There is no difference — all animal life cycles are the same.", "correct": false, "explanation": "Life cycles differ significantly between species — especially in how young animals look and whether they undergo metamorphosis."}
+      ],
+      "explanation_md": "Butterflies undergo **complete metamorphosis** (egg → caterpillar → chrysalis → butterfly). Dogs grow from live-born **puppies** to adults without dramatic shape changes. These are very different life cycles."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a stage in ALL animal life cycles?",
+      "choices": [
+        {"id": "a", "label": "Pupa (chrysalis)", "correct": false, "explanation": "Only insects like butterflies and moths have a pupa stage — not all animals."},
+        {"id": "b", "label": "Metamorphosis", "correct": false, "explanation": "Not all animals undergo metamorphosis — dogs, humans, and birds do not."},
+        {"id": "c", "label": "Reproducing (having offspring)", "correct": true, "explanation": "Reproduction — creating offspring — is a stage in every animal's life cycle. Without it, the species would end."},
+        {"id": "d", "label": "Living in water as a young animal", "correct": false, "explanation": "Many animals — like dogs, eagles, and elephants — never live in water as young animals."}
+      ],
+      "explanation_md": "**Reproducing** (creating offspring) is a stage in **all** animal life cycles. Birth, growth, reproduction, and death are the four stages every animal goes through."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are the four stages of most animal life cycles?",
+      "choices": [
+        {"id": "a", "label": "Eating, sleeping, running, hiding", "correct": false, "explanation": "These are behaviors, not life cycle stages. Life cycle stages are about birth, growth, reproduction, and death."},
+        {"id": "b", "label": "Birth, growing into an adult, reproducing, and death", "correct": true, "explanation": "These four stages appear in every animal's life cycle — even though the details differ between species."},
+        {"id": "c", "label": "Egg, larva, pupa, adult", "correct": false, "explanation": "This is the specific life cycle of insects like butterflies — not the general stages for all animals."},
+        {"id": "d", "label": "Spring, summer, fall, winter", "correct": false, "explanation": "These are seasons — not stages of an animal's life cycle."}
+      ],
+      "explanation_md": "Every animal's life cycle includes **birth, growing into an adult, reproducing, and death** — in that order."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which animal goes through metamorphosis?",
+      "choices": [
+        {"id": "a", "label": "A dog", "correct": false, "explanation": "Dogs are born as puppies and grow into adult dogs — no dramatic shape change. Dogs do not undergo metamorphosis."},
+        {"id": "b", "label": "A butterfly", "correct": true, "explanation": "A butterfly goes through complete metamorphosis: egg → caterpillar → chrysalis → butterfly. Each stage looks completely different."},
+        {"id": "c", "label": "A chicken", "correct": false, "explanation": "Chicks hatch from eggs looking like small chickens. They grow into adult chickens without a dramatic shape change."},
+        {"id": "d", "label": "An elephant", "correct": false, "explanation": "Elephants are born live and grow from calves to adults. No metamorphosis occurs."}
+      ],
+      "explanation_md": "A **butterfly** goes through metamorphosis — egg → caterpillar → chrysalis → butterfly. Each stage looks very different from the others."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does a tadpole become as it goes through its life cycle?",
+      "choices": [
+        {"id": "a", "label": "A butterfly", "correct": false, "explanation": "Tadpoles are young frogs, not young butterflies. A tadpole becomes an adult frog."},
+        {"id": "b", "label": "An adult frog", "correct": true, "explanation": "A tadpole hatches from a frog egg, grows legs, loses its tail, and develops into an adult frog through metamorphosis."},
+        {"id": "c", "label": "A dog", "correct": false, "explanation": "A tadpole is a young frog — it will always become a frog, not a dog."},
+        {"id": "d", "label": "A fish", "correct": false, "explanation": "Tadpoles look like fish (they swim and have tails), but they are frogs at an early stage. They develop into adult frogs, not fish."}
+      ],
+      "explanation_md": "A **tadpole** is a young frog. Through metamorphosis, it grows legs, loses its tail, and becomes an **adult frog**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do animals reproduce?",
+      "choices": [
+        {"id": "a", "label": "To make themselves bigger", "correct": false, "explanation": "Growing bigger is the growth stage. Reproduction is about creating offspring — the next generation."},
+        {"id": "b", "label": "To create offspring so the species continues", "correct": true, "explanation": "Reproduction creates new animals of the same species. Without reproduction, a species would eventually die out."},
+        {"id": "c", "label": "To find food more easily", "correct": false, "explanation": "Finding food is a survival behavior — not the purpose of reproduction. Reproduction creates new animals."},
+        {"id": "d", "label": "To live longer", "correct": false, "explanation": "Reproduction does not make the parent live longer — it creates the next generation to continue the species."}
+      ],
+      "explanation_md": "Animals **reproduce** to create offspring — ensuring the **species continues** after the parent dies."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A caterpillar and a butterfly are —",
+      "choices": [
+        {"id": "a", "label": "Two different species of insect", "correct": false, "explanation": "A caterpillar and a butterfly are the same species at different stages — not two different species."},
+        {"id": "b", "label": "The same animal at different stages of its life cycle", "correct": true, "explanation": "A caterpillar is the larva stage of a butterfly. The caterpillar transforms into a butterfly through metamorphosis — they are the same animal at different life cycle stages."},
+        {"id": "c", "label": "Parent and offspring", "correct": false, "explanation": "A caterpillar is not the parent of a butterfly. They are the same individual at different stages of its own life cycle."},
+        {"id": "d", "label": "Two animals that look alike", "correct": false, "explanation": "A caterpillar and a butterfly actually look very different — that is part of what makes metamorphosis so dramatic."}
+      ],
+      "explanation_md": "A caterpillar and butterfly are the **same animal** at different **life cycle stages**. The caterpillar (larva) transforms into a butterfly (adult) through metamorphosis."
+    }
+  ]
+}
