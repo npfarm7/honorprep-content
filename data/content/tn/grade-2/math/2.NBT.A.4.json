@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.NBT.A.4",
+  "benchmark_description": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Comparing Three-Digit Numbers",
+    "intro": "When you compare numbers, you figure out which one is bigger, smaller, or if they are the same! You use special symbols to show what you find. Let's learn how!",
+    "body_md": "## The Comparison Symbols\n\n| Symbol | Meaning | Memory trick |\n|---|---|---|\n| **>** | greater than | The opening eats the bigger number |\n| **<** | less than | The point is toward the smaller number |\n| **=** | equal to | Both sides are the same |\n\n**Tip:** Think of the symbol as a hungry alligator mouth that always opens toward the bigger number!\n\n## How to Compare Three-Digit Numbers\n\nAlways start at the **hundreds place** and move right if the hundreds are equal.\n\n**Step 1:** Compare the hundreds digits.\n- If one is bigger, that number is greater. Done!\n- If they are equal, go to Step 2.\n\n**Step 2:** Compare the tens digits.\n- If one is bigger, that number is greater. Done!\n- If they are equal, go to Step 3.\n\n**Step 3:** Compare the ones digits.\n- The number with the bigger ones digit is greater.\n- If the ones are also equal, the numbers are equal (=).\n\n## Examples\n\n**Example 1:** 547 vs. 389\n- Hundreds: 5 > 3 (5 is bigger than 3)\n- **547 > 389** (done! No need to check tens or ones)\n\n**Example 2:** 462 vs. 478\n- Hundreds: 4 = 4 (same, go to tens)\n- Tens: 6 vs. 7 \u2014 6 < 7\n- **462 < 478**\n\n**Example 3:** 735 vs. 731\n- Hundreds: 7 = 7 (same)\n- Tens: 3 = 3 (same)\n- Ones: 5 > 1\n- **735 > 731**\n\n**Example 4:** 256 vs. 256\n- Hundreds: 2 = 2, Tens: 5 = 5, Ones: 6 = 6\n- **256 = 256**\n\n## Place Value Chart Trick\n\nLine up numbers in a place value chart to make comparing easier:\n\n| H | T | O |\n|---|---|---|\n| 5 | 4 | 7 |\n| 5 | 3 | 8 |\n\nSame hundreds (5 = 5). Compare tens: 4 > 3. So 547 > 538.",
+    "worked_example_md": "**Problem:** Compare 624 and 641. Use >, <, or =.\n\n**Step 1:** Compare hundreds.\n624: hundreds = 6\n641: hundreds = 6\n6 = 6 (same! Go to tens)\n\n**Step 2:** Compare tens.\n624: tens = 2\n641: tens = 4\n2 < 4 (2 is less than 4!)\n\n**Answer:** 624 **<** 641\n\n**Read it:** Six hundred twenty-four is less than six hundred forty-one.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 300 ___ 500\n\nWhich symbol belongs in the blank?",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "300 is NOT greater than 500. 3 hundreds is less than 5 hundreds. 300 < 500."
+        },
+        {
+          "id": "b",
+          "label": "<",
+          "correct": true,
+          "explanation": "Correct! 300 < 500. 3 hundreds is less than 5 hundreds."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": false,
+          "explanation": "300 does not equal 500. The hundreds digits are different (3 vs. 5). 300 < 500."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "300 < 500 is correct. 3 hundreds is less than 5 hundreds."
+        }
+      ],
+      "explanation_md": "300 < 500. Compare hundreds: 3 < 5."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 748 ___ 748",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "748 is not greater than 748. They are the same number. 748 = 748."
+        },
+        {
+          "id": "b",
+          "label": "<",
+          "correct": false,
+          "explanation": "748 is not less than 748. They are the same number. 748 = 748."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": true,
+          "explanation": "Correct! 748 = 748. The numbers are exactly the same."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "748 = 748 is correct. All digits match."
+        }
+      ],
+      "explanation_md": "748 = 748. The numbers are identical."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 563 ___ 358\n\nWhich symbol belongs in the blank?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "563 is NOT less than 358. Compare hundreds: 5 > 3. So 563 > 358."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "563 does not equal 358. The hundreds digits are different."
+        },
+        {
+          "id": "c",
+          "label": ">",
+          "correct": true,
+          "explanation": "Correct! 563 > 358. Compare hundreds: 5 > 3. Done!"
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "563 > 358 is the correct comparison."
+        }
+      ],
+      "explanation_md": "Compare hundreds: 5 > 3, so 563 > 358."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 471 ___ 479",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "471 is not greater than 479. Hundreds are equal (4=4), tens are equal (7=7), ones: 1 < 9. So 471 < 479."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "471 does not equal 479. The ones digits are different (1 vs. 9)."
+        },
+        {
+          "id": "c",
+          "label": "<",
+          "correct": true,
+          "explanation": "Correct! 471 < 479. Hundreds equal, tens equal, then ones: 1 < 9."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "471 < 479 is correct."
+        }
+      ],
+      "explanation_md": "Compare: hundreds same (4=4), tens same (7=7), ones: 1 < 9. So 471 < 479."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which number makes this true: 584 > ?\n\nChoose the answer that makes the statement correct.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "600",
+          "correct": false,
+          "explanation": "600 > 584 (compare hundreds: 6 > 5). So 584 > 600 is NOT true."
+        },
+        {
+          "id": "b",
+          "label": "590",
+          "correct": false,
+          "explanation": "590 > 584 (hundreds same: 5=5; tens: 9 > 8). So 584 > 590 is NOT true."
+        },
+        {
+          "id": "c",
+          "label": "584",
+          "correct": false,
+          "explanation": "584 = 584, not 584 > 584."
+        },
+        {
+          "id": "d",
+          "label": "579",
+          "correct": true,
+          "explanation": "Correct! 584 > 579. Hundreds equal (5=5), tens: 8 > 7. So 584 is greater."
+        }
+      ],
+      "explanation_md": "584 > 579 because hundreds are equal (5=5) and tens: 8 > 7."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Look at these numbers: 742, 724, 472, 427.\n\nWhich number is the greatest?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "427",
+          "correct": false,
+          "explanation": "427 has 4 hundreds. Both 742 and 724 have 7 hundreds, which is more."
+        },
+        {
+          "id": "b",
+          "label": "472",
+          "correct": false,
+          "explanation": "472 has 4 hundreds. 742 and 724 both have 7 hundreds. 742 has more tens than 724."
+        },
+        {
+          "id": "c",
+          "label": "724",
+          "correct": false,
+          "explanation": "724 has 7 hundreds and 2 tens. 742 has 7 hundreds and 4 tens. 742 > 724."
+        },
+        {
+          "id": "d",
+          "label": "742",
+          "correct": true,
+          "explanation": "Correct! 742 has 7 hundreds (biggest hundreds group) and more tens than 724."
+        }
+      ],
+      "explanation_md": "742 is greatest. Compare hundreds first: 742 and 724 have 7 hundreds (beat 4 hundreds). Then compare tens: 4 > 2, so 742 > 724."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which comparison is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "362 > 423",
+          "correct": false,
+          "explanation": "Hundreds: 3 < 4. So 362 < 423, not greater."
+        },
+        {
+          "id": "b",
+          "label": "855 < 849",
+          "correct": false,
+          "explanation": "Hundreds equal (8=8), tens: 5 > 4. So 855 > 849, not less."
+        },
+        {
+          "id": "c",
+          "label": "531 = 531",
+          "correct": true,
+          "explanation": "Correct! 531 = 531. The numbers are identical."
+        },
+        {
+          "id": "d",
+          "label": "279 > 297",
+          "correct": false,
+          "explanation": "Hundreds equal (2=2), tens: 7 < 9. So 279 < 297, not greater."
+        }
+      ],
+      "explanation_md": "531 = 531 is the only correct comparison."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 680 ___ 608",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "Both numbers have 6 hundreds. Compare tens: 8 > 0. So 680 > 608."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "680 does not equal 608. The tens digits are different (8 vs. 0)."
+        },
+        {
+          "id": "c",
+          "label": ">",
+          "correct": true,
+          "explanation": "Correct! 680 > 608. Hundreds are equal (6=6), then tens: 8 > 0."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "680 > 608 is correct."
+        }
+      ],
+      "explanation_md": "680 > 608. Hundreds equal (6=6), tens: 8 > 0."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "What digit could go in the blank to make this true? 5_3 > 573",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Any digit from 0 to 4",
+          "correct": false,
+          "explanation": "If the tens digit is less than 7, the number is less than 573. We need a tens digit greater than 7."
+        },
+        {
+          "id": "b",
+          "label": "Any digit from 8 to 9",
+          "correct": true,
+          "explanation": "Correct! For 5_3 > 573, we need the tens digit to be greater than 7. So 8 or 9 work: 583 > 573 and 593 > 573."
+        },
+        {
+          "id": "c",
+          "label": "7",
+          "correct": false,
+          "explanation": "If the tens digit is 7, we get 573 = 573, which is equal not greater."
+        },
+        {
+          "id": "d",
+          "label": "Any digit from 0 to 9",
+          "correct": false,
+          "explanation": "Not any digit \u2014 the tens digit must be greater than 7 to make 5_3 > 573."
+        }
+      ],
+      "explanation_md": "For 5_3 > 573: hundreds equal (5=5), so we need the tens digit greater than 7. That means 8 or 9."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Emma says 'any number with a 9 in the hundreds place is greater than any number with a 7 in the hundreds place.' Is Emma correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, it depends on the tens digit.",
+          "correct": false,
+          "explanation": "When the hundreds digit is larger, the number IS always larger, regardless of tens or ones. 9 hundreds always beats 7 hundreds."
+        },
+        {
+          "id": "b",
+          "label": "Yes, Emma is correct.",
+          "correct": true,
+          "explanation": "Correct! 9 hundreds = 900, which is always more than 7 hundreds = 700. The tens and ones cannot make up the difference."
+        },
+        {
+          "id": "c",
+          "label": "No, it depends on the ones digit.",
+          "correct": false,
+          "explanation": "When hundreds are different, the one with more hundreds is always greater. 9xx is always greater than 7xx."
+        },
+        {
+          "id": "d",
+          "label": "No, it depends on both tens and ones.",
+          "correct": false,
+          "explanation": "The hundreds digit is most important. 9 hundreds is always more than 7 hundreds, no matter what."
+        }
+      ],
+      "explanation_md": "Emma is correct. 9 in the hundreds place means at least 900. 7 in the hundreds place means at most 799. 900 > 799 always."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 835 ___ 853",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "Hundreds equal (8=8), tens: 3 < 5. So 835 < 853."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "835 does not equal 853. The tens digits differ (3 vs. 5)."
+        },
+        {
+          "id": "c",
+          "label": "<",
+          "correct": true,
+          "explanation": "Correct! 835 < 853. Hundreds same (8=8), tens: 3 < 5."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "835 < 853 is correct."
+        }
+      ],
+      "explanation_md": "835 < 853. Hundreds equal, tens: 3 < 5."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Order these numbers from least to greatest: 629, 692, 269",
+      "choices": [
+        {
+          "id": "a",
+          "label": "692, 629, 269",
+          "correct": false,
+          "explanation": "This goes from greatest to least. From least to greatest: 269, 629, 692."
+        },
+        {
+          "id": "b",
+          "label": "269, 629, 692",
+          "correct": true,
+          "explanation": "Correct! 269 has 2 hundreds (least), 629 has 6 hundreds with 2 tens, 692 has 6 hundreds with 9 tens (greatest)."
+        },
+        {
+          "id": "c",
+          "label": "269, 692, 629",
+          "correct": false,
+          "explanation": "629 and 692 both have 6 hundreds. Compare tens: 2 < 9, so 629 < 692. Order: 269, 629, 692."
+        },
+        {
+          "id": "d",
+          "label": "629, 269, 692",
+          "correct": false,
+          "explanation": "269 has the fewest hundreds (2 < 6). From least: 269, 629, 692."
+        }
+      ],
+      "explanation_md": "Least to greatest: 269 (2 hundreds), 629 (6 hundreds, 2 tens), 692 (6 hundreds, 9 tens)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is true?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "400 < 399",
+          "correct": false,
+          "explanation": "400 has 4 hundreds; 399 has 3 hundreds. 4 > 3, so 400 > 399."
+        },
+        {
+          "id": "b",
+          "label": "511 > 512",
+          "correct": false,
+          "explanation": "Hundreds equal (5=5), tens equal (1=1), ones: 1 < 2. So 511 < 512."
+        },
+        {
+          "id": "c",
+          "label": "700 > 699",
+          "correct": true,
+          "explanation": "Correct! 700 has 7 hundreds; 699 has 6 hundreds. 7 > 6, so 700 > 699."
+        },
+        {
+          "id": "d",
+          "label": "823 = 832",
+          "correct": false,
+          "explanation": "823 and 832 are different. Tens: 2 vs. 3. 823 < 832."
+        }
+      ],
+      "explanation_md": "700 > 699. 700 has 7 hundreds; 699 has only 6 hundreds."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which number is greater: 200 or 500?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "200",
+          "correct": false,
+          "explanation": "2 hundreds is less than 5 hundreds. 500 is greater."
+        },
+        {
+          "id": "b",
+          "label": "500",
+          "correct": true,
+          "explanation": "Correct! 5 hundreds is more than 2 hundreds. 500 > 200."
+        },
+        {
+          "id": "c",
+          "label": "They are equal.",
+          "correct": false,
+          "explanation": "200 and 500 are different. 500 is greater."
+        },
+        {
+          "id": "d",
+          "label": "Cannot tell.",
+          "correct": false,
+          "explanation": "We can compare: 5 hundreds > 2 hundreds. So 500 > 200."
+        }
+      ],
+      "explanation_md": "500 > 200. 5 hundreds is more than 2 hundreds."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which symbol goes in the blank? 7 ___ 4",
+      "choices": [
+        {
+          "id": "a",
+          "label": "<",
+          "correct": false,
+          "explanation": "7 is not less than 4. 7 is bigger. Use >: 7 > 4."
+        },
+        {
+          "id": "b",
+          "label": "=",
+          "correct": false,
+          "explanation": "7 does not equal 4. 7 is greater: 7 > 4."
+        },
+        {
+          "id": "c",
+          "label": ">",
+          "correct": true,
+          "explanation": "Correct! 7 > 4. Seven is greater than four."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "7 > 4 is correct."
+        }
+      ],
+      "explanation_md": "7 > 4. The alligator mouth opens toward the bigger number."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 456 ___ 654",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "Compare hundreds: 4 < 6. So 456 < 654."
+        },
+        {
+          "id": "b",
+          "label": "<",
+          "correct": true,
+          "explanation": "Correct! 456 < 654. Hundreds: 4 < 6."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": false,
+          "explanation": "456 does not equal 654. The hundreds are different."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "456 < 654 is correct."
+        }
+      ],
+      "explanation_md": "456 < 654. Compare hundreds: 4 < 6."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the smaller number: 378 or 381?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "381",
+          "correct": false,
+          "explanation": "Hundreds equal (3=3), tens: 7 < 8. So 378 < 381. 378 is smaller."
+        },
+        {
+          "id": "b",
+          "label": "378",
+          "correct": true,
+          "explanation": "Correct! Hundreds equal, tens: 7 < 8. So 378 < 381."
+        },
+        {
+          "id": "c",
+          "label": "They are equal.",
+          "correct": false,
+          "explanation": "378 and 381 are different. The tens digits differ (7 vs. 8). 378 is smaller."
+        },
+        {
+          "id": "d",
+          "label": "Cannot tell.",
+          "correct": false,
+          "explanation": "Compare step by step. Hundreds equal (3=3), tens: 7 < 8. 378 is smaller."
+        }
+      ],
+      "explanation_md": "378 < 381. Hundreds equal, tens: 7 < 8."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Compare: 500 ___ 500",
+      "choices": [
+        {
+          "id": "a",
+          "label": ">",
+          "correct": false,
+          "explanation": "500 is not greater than itself. The numbers are the same: 500 = 500."
+        },
+        {
+          "id": "b",
+          "label": "<",
+          "correct": false,
+          "explanation": "500 is not less than itself. The numbers are the same: 500 = 500."
+        },
+        {
+          "id": "c",
+          "label": "=",
+          "correct": true,
+          "explanation": "Correct! 500 = 500. They are the same number."
+        },
+        {
+          "id": "d",
+          "label": "None of these",
+          "correct": false,
+          "explanation": "500 = 500 is the correct comparison."
+        }
+      ],
+      "explanation_md": "500 = 500. The numbers are identical."
+    }
+  ]
+}
