@@ -1,0 +1,515 @@
+{
+  "skill_id": "MA.2.DP.1.2",
+  "benchmark_description": "Interpret data represented with tally marks, tables, pictographs or bar graphs including solving addition and subtraction problems.",
+  "course": "math",
+  "strand": "Data Analysis & Probability",
+  "lesson": {
+    "title": "Reading and Interpreting Data Displays",
+    "objective": "Students will read and interpret data from tally marks, tables, pictographs, and bar graphs, and solve addition and subtraction problems using the data.",
+    "vocabulary": [
+      "interpret",
+      "data",
+      "tally marks",
+      "table",
+      "pictograph",
+      "bar graph",
+      "key",
+      "most",
+      "least",
+      "difference",
+      "total"
+    ],
+    "introduction": "When we look at a graph or table, we are reading, or interpreting, the data. Interpreting data means understanding what the numbers and pictures are telling us. We can answer questions like: Which category has the most? Which has the least? How many more? How many in all? To answer these questions, we read the data carefully and then add or subtract.",
+    "content": [
+      {
+        "section": "Reading Tally Marks",
+        "explanation": "Each tally mark stands for one item. A group of five looks like four straight marks with one diagonal mark crossing them (||||). Count the groups of five, then add the extra marks. To compare categories, count each group's total and decide which is more or less.",
+        "example": "Dogs: |||| ||| = 8\nCats: |||| = 5\nBirds: ||| = 3\n\nQuestion: How many more students have dogs than cats?\nSolution: 8 - 5 = 3 more students have dogs."
+      },
+      {
+        "section": "Reading Tables",
+        "explanation": "In a table, find the row for the category you need. Read across to the number column. To find totals, add the numbers in the table. To compare, subtract smaller from larger.",
+        "example": "Books Read This Week:\n| Student | Books |\n|---------|-------|\n| Maya    | 6     |\n| Leo     | 4     |\n| Zoe     | 8     |\n\nQuestion: How many books did Maya and Leo read together?\nSolution: 6 + 4 = 10 books"
+      },
+      {
+        "section": "Reading Pictographs",
+        "explanation": "Find the KEY first \u2014 it tells you how many real items each picture represents. Multiply the number of pictures by the key value to find the total. Then add or subtract to answer questions.",
+        "example": "Stickers Collected (Key: each star = 5 stickers)\nAna: \u2b50\u2b50\u2b50 = 3 stars \u00d7 5 = 15 stickers\nBen: \u2b50\u2b50 = 2 stars \u00d7 5 = 10 stickers\n\nQuestion: How many more stickers does Ana have than Ben?\nSolution: 15 - 10 = 5 more stickers"
+      },
+      {
+        "section": "Reading Bar Graphs",
+        "explanation": "Look at the top of each bar and read across to the number on the side (vertical axis). That number tells you how many items are in that category. Compare bars by looking at which is tallest (most) or shortest (least). Add bars together to find totals.",
+        "example": "Favorite Season Bar Graph:\nSummer bar reaches 10\nWinter bar reaches 6\nFall bar reaches 8\nSpring bar reaches 4\n\nQuestion: How many students voted for Summer or Fall?\nSolution: 10 + 8 = 18 students"
+      }
+    ],
+    "summary": "Interpreting data means answering questions about what data shows. Read tallies, tables, pictographs, and bar graphs carefully. Remember to check the key in a pictograph. Use addition to find totals and subtraction to find differences."
+  },
+  "practice_questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows students' favorite colors. The Red bar reaches 7 and the Blue bar reaches 4. Which color did MORE students choose?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Blue",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Red",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "They got the same number",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Cannot tell from a bar graph",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A table shows students' favorite fruits. Apple: 5, Banana: 3, Orange: 7. Which fruit is the LEAST popular?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Apple",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Banana",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Orange",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "They are all the same",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A pictograph shows library books checked out. The key says each book picture = 3 books. Monday shows 4 book pictures. How many books were checked out on Monday?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Tally marks show how many apples each student picked. Tim: |||| (5), Sue: ||| (3), Rob: |||| || (7). How many apples did Tim and Sue pick together?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows crayons in each box. Red Box: 12, Blue Box: 8, Green Box: 10, Yellow Box: 5. How many MORE crayons are in the Red Box than in the Yellow Box?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "7",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A pictograph shows points scored in games. Key: each trophy = 4 points. Game 1: 3 trophies, Game 2: 5 trophies. How many total points were scored in both games?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "20",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "28",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A table shows plant heights in cm: Daisy: 15 cm, Tulip: 22 cm, Rose: 18 cm, Lily: 10 cm. How much taller is the Tulip than the Lily?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "8 cm",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "10 cm",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "12 cm",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "14 cm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows votes for class president. Mia: 9 votes, Jake: 6 votes, Sam: 11 votes, Nina: 4 votes. How many students voted in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "26",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "28",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "30",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A pictograph shows seashells collected. Key: each shell = 5 seashells. Kai: 4 shells, Nia: 6 shells, Raj: 2 shells. How many MORE seashells did Nia collect than Raj?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "20",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "30",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "A table shows laps run during PE. Monday: 8 laps, Tuesday: 6 laps, Wednesday: 9 laps, Thursday: 7 laps. How many FEWER laps were run on Tuesday than on Wednesday?",
+      "correct_answer": "3"
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows how many sandwiches a cafeteria sold each day. Monday: 15, Tuesday: 12, Wednesday: 18, Thursday: 9, Friday: 14. On which day were the FEWEST sandwiches sold?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Monday",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Tuesday",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Thursday",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Friday",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A pictograph shows flowers planted. Key: each flower = 4 flowers. Rosa: 5 flowers, Hana: 3 flowers, Lee: 7 flowers. How many flowers did Rosa and Hana plant together?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "24",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "32",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "40",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc3",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "A table shows cookies baked by three friends: Alma baked 14, Bo baked 9, Carl baked 11. How many cookies did they bake altogether?",
+      "correct_answer": "34"
+    }
+  ],
+  "remediation": [
+    {
+      "id": "r1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows 6 students like dogs and 3 students like cats. Which animal do MORE students like?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Cats",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Dogs",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "They are equal",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Cannot tell",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A table shows: Pencils = 8, Crayons = 5, Markers = 3. How many crayons are there?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A pictograph key says: 1 sun = 1 day. There are 4 suns next to Sunny. How many sunny days were there?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Running = 9, Swimming = 6. How many MORE students like Running than Swimming?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A table shows: Apples = 7, Oranges = 4. How many pieces of fruit are there altogether?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "11",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "14",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
