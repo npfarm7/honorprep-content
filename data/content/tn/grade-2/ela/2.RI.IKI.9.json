@@ -1,0 +1,632 @@
+{
+  "skill_id": "2.RI.IKI.9",
+  "benchmark_description": "Compare and contrast the most important points presented by two texts on the same topic.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "Comparing Two Texts on the Same Topic",
+    "objective": "Students will compare and contrast the most important points presented by two informational texts on the same topic, identifying what is the same and what is different.",
+    "overview": "When two texts are about the same topic, they may share some information and disagree on or leave out other information. Comparing means finding what is the same; contrasting means finding what is different. Comparing two texts helps us understand a topic more fully.",
+    "key_concepts": [
+      "Compare: find what is the same between two texts",
+      "Contrast: find what is different between two texts",
+      "Important points: the key facts and ideas each text emphasizes (not every detail -- the most important ones)",
+      "Same topic, different focus: two texts may be about the same subject but focus on different aspects",
+      "Text comparison tool: a Venn diagram or T-chart helps organize what is shared vs. different"
+    ],
+    "examples": [
+      {
+        "label": "Sample pair",
+        "text": "Text A is about how bees make honey. Text B is about how bees build hives. Both texts mention: bees work together as a colony. Only Text A mentions: bees collect nectar from flowers. Only Text B mentions: bees use wax to build cells."
+      },
+      {
+        "label": "Compare statement",
+        "text": "Both texts agree that bees live and work together in a colony."
+      },
+      {
+        "label": "Contrast statement",
+        "text": "Text A focuses on honey-making; Text B focuses on hive construction."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you **compare** two texts, you look for ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "What is different between them",
+          "correct": false,
+          "explanation": "Finding differences is contrasting, not comparing."
+        },
+        {
+          "id": "B",
+          "label": "What is the same between them",
+          "correct": true,
+          "explanation": "Comparing means identifying the similarities -- what both texts say about the same topic."
+        },
+        {
+          "id": "C",
+          "label": "Which text is longer",
+          "correct": false,
+          "explanation": "Length is not what compare/contrast is about -- it is about ideas and information."
+        },
+        {
+          "id": "D",
+          "label": "Which text has more pictures",
+          "correct": false,
+          "explanation": "Pictures are not ideas -- compare/contrast focuses on the important points in each text."
+        }
+      ],
+      "explanation_md": "**Compare** = find similarities. **Contrast** = find differences. Both skills are used when reading two texts on the same topic."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Two books are both about frogs. Text 1 talks about what frogs eat. Text 2 talks about where frogs live.\n\nWhat do both texts have in common?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "They both explain how frogs jump.",
+          "correct": false,
+          "explanation": "Nothing in the description says either text discusses jumping."
+        },
+        {
+          "id": "B",
+          "label": "They are both about frogs.",
+          "correct": true,
+          "explanation": "Both texts share the same topic: frogs. That is what they have in common."
+        },
+        {
+          "id": "C",
+          "label": "They both talk about frog habitats.",
+          "correct": false,
+          "explanation": "Only Text 2 discusses where frogs live -- Text 1 is about what frogs eat."
+        },
+        {
+          "id": "D",
+          "label": "They both explain what frogs eat.",
+          "correct": false,
+          "explanation": "Only Text 1 is about what frogs eat -- Text 2 is about where frogs live."
+        }
+      ],
+      "explanation_md": "When two texts are on the same topic, they **share the topic** -- that is their most basic similarity. Look for shared ideas and facts within the topic for deeper comparisons."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two passages:\n\n**Text A:** 'Penguins cannot fly. They use their flippers to swim through cold ocean water at high speeds.'\n\n**Text B:** 'Unlike most birds, penguins cannot fly. Instead, they are expert swimmers who spend much of their time in the ocean.'\n\nWhat important point do BOTH texts share?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Penguins live in zoos.",
+          "correct": false,
+          "explanation": "Neither text mentions zoos."
+        },
+        {
+          "id": "B",
+          "label": "Penguins cannot fly and are swimmers.",
+          "correct": true,
+          "explanation": "Both texts state that penguins cannot fly, and both indicate that penguins swim. This is the shared important point."
+        },
+        {
+          "id": "C",
+          "label": "Penguins swim at high speeds.",
+          "correct": false,
+          "explanation": "Only Text A mentions high speeds -- Text B says 'expert swimmers' but does not specify speed."
+        },
+        {
+          "id": "D",
+          "label": "Penguins spend much of their time in the ocean.",
+          "correct": false,
+          "explanation": "Only Text B specifically mentions spending much time in the ocean -- not Text A."
+        }
+      ],
+      "explanation_md": "To compare, find what **both** texts say. Both Text A and Text B state that penguins cannot fly and that they swim -- this is the shared important point."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Using the same texts from Question 3, which point appears in **only one** of the texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Penguins cannot fly.",
+          "correct": false,
+          "explanation": "Both texts mention that penguins cannot fly."
+        },
+        {
+          "id": "B",
+          "label": "Penguins are swimmers.",
+          "correct": false,
+          "explanation": "Both texts describe penguins as swimmers."
+        },
+        {
+          "id": "C",
+          "label": "Penguins swim at high speeds.",
+          "correct": true,
+          "explanation": "Only Text A mentions high speeds. Text B says 'expert swimmers' but does not state a speed. This detail appears only in Text A."
+        },
+        {
+          "id": "D",
+          "label": "Penguins live in cold climates.",
+          "correct": false,
+          "explanation": "Text A mentions cold ocean water, and Text B does not mention temperature -- but this is not one of the listed answer choices."
+        }
+      ],
+      "explanation_md": "**Contrasting** means finding what appears in only ONE text. 'High speeds' appears only in Text A -- Text B does not include this specific detail."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "**Text A:** 'Monarch butterflies travel thousands of miles south each winter to warm forests in Mexico. They navigate using the sun and Earth's magnetic field.'\n\n**Text B:** 'Every fall, millions of monarch butterflies make an incredible migration. They fly from Canada and the United States to warmer climates, but scientists are still learning exactly how they find their way.'\n\nWhich statement is TRUE about BOTH texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both texts explain that monarchs use magnetic fields to navigate.",
+          "correct": false,
+          "explanation": "Only Text A mentions magnetic fields. Text B says scientists are still learning how they navigate."
+        },
+        {
+          "id": "B",
+          "label": "Both texts say monarch butterflies migrate to warmer places in fall.",
+          "correct": true,
+          "explanation": "Text A (travel south each winter to warm forests) and Text B (fly to warmer climates every fall) both state that monarchs migrate to warmth -- the shared important point."
+        },
+        {
+          "id": "C",
+          "label": "Both texts say scientists are learning about butterfly migration.",
+          "correct": false,
+          "explanation": "Only Text B mentions what scientists are learning -- Text A does not."
+        },
+        {
+          "id": "D",
+          "label": "Both texts say the butterflies go to Mexico specifically.",
+          "correct": false,
+          "explanation": "Only Text A mentions Mexico. Text B says 'warmer climates' without naming a specific destination."
+        }
+      ],
+      "explanation_md": "The shared important point is that **monarch butterflies migrate to warmer places in the fall**. Both texts say this, even though they use different details about where and how."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Using the same butterfly texts from Question 5, what is one way the texts DIFFER?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Text A says butterflies migrate; Text B says they do not.",
+          "correct": false,
+          "explanation": "Both texts say monarch butterflies migrate -- they agree on this point."
+        },
+        {
+          "id": "B",
+          "label": "Text A explains HOW they navigate (sun, magnetic field); Text B says scientists are still learning how.",
+          "correct": true,
+          "explanation": "Text A gives a specific explanation (sun, magnetic field). Text B acknowledges uncertainty (scientists still learning). These are contrasting approaches to the same question."
+        },
+        {
+          "id": "C",
+          "label": "Text A is about frogs; Text B is about butterflies.",
+          "correct": false,
+          "explanation": "Both texts are about monarch butterflies -- they share the same topic."
+        },
+        {
+          "id": "D",
+          "label": "Text A says it happens in winter; Text B says it never happens.",
+          "correct": false,
+          "explanation": "Text B says 'every fall' -- it does not say migration never happens."
+        }
+      ],
+      "explanation_md": "The key **difference**: Text A provides an explanation of HOW monarchs navigate (sun + magnetic field); Text B says scientists are still studying this. Same question, different levels of certainty."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "**Text A:** 'Rainforests get more than 100 inches of rain per year. This rainfall supports millions of plant and animal species.'\n\n**Text B:** 'Tropical rainforests are home to more than half of the world's plant and animal species. Deforestation threatens this biodiversity.'\n\nWhich point do BOTH texts share?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both texts explain that deforestation is a problem.",
+          "correct": false,
+          "explanation": "Only Text B mentions deforestation -- Text A does not."
+        },
+        {
+          "id": "B",
+          "label": "Both texts note that rainforests receive heavy rainfall.",
+          "correct": false,
+          "explanation": "Only Text A mentions rainfall amounts -- Text B does not discuss rainfall."
+        },
+        {
+          "id": "C",
+          "label": "Both texts state that rainforests support a large variety of plant and animal life.",
+          "correct": true,
+          "explanation": "Text A (millions of species) and Text B (more than half the world's species) both emphasize the diversity of life in rainforests."
+        },
+        {
+          "id": "D",
+          "label": "Both texts say tropical rainforests are being destroyed.",
+          "correct": false,
+          "explanation": "Only Text B mentions destruction (deforestation). Text A does not."
+        }
+      ],
+      "explanation_md": "Both texts emphasize that rainforests support an enormous variety of life. This **shared important point** -- despite using different specific facts -- is the comparison."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool is MOST useful for organizing a comparison of two texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A timeline",
+          "correct": false,
+          "explanation": "A timeline shows events in order -- not the best tool for comparing two texts."
+        },
+        {
+          "id": "B",
+          "label": "A Venn diagram",
+          "correct": true,
+          "explanation": "A Venn diagram uses two overlapping circles -- the left has Text A's unique points, the right has Text B's unique points, and the middle has shared points."
+        },
+        {
+          "id": "C",
+          "label": "A character map",
+          "correct": false,
+          "explanation": "A character map tracks character traits in fiction -- not ideal for comparing two nonfiction texts."
+        },
+        {
+          "id": "D",
+          "label": "A word wall",
+          "correct": false,
+          "explanation": "A word wall lists vocabulary -- not a comparison tool."
+        }
+      ],
+      "explanation_md": "A **Venn diagram** organizes comparison: Left circle = unique to Text A; Right circle = unique to Text B; Overlapping middle = shared by both. Perfect for text comparison."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "**Text A:** 'The bald eagle was nearly extinct in 1963 due to hunting and pesticides. Conservation laws helped the population recover. By 2007, bald eagles were removed from the endangered list.'\n\n**Text B:** 'Bald eagles are a symbol of the United States. Today they can be found across North America, but they once faced serious threats from habitat loss and pollution.'\n\nWhich statement BEST compares the two texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both texts focus only on bald eagle hunting.",
+          "correct": false,
+          "explanation": "Neither text focuses only on hunting. Text A mentions hunting AND pesticides; Text B mentions habitat loss and pollution."
+        },
+        {
+          "id": "B",
+          "label": "Both texts discuss that bald eagles faced threats, but Text A focuses on recovery while Text B focuses on their current status and symbolism.",
+          "correct": true,
+          "explanation": "Shared point: both mention threats to bald eagles. Text A's focus: conservation and recovery. Text B's focus: symbolism and current status. This is a precise compare/contrast."
+        },
+        {
+          "id": "C",
+          "label": "Text A is about bird symbolism; Text B is about conservation.",
+          "correct": false,
+          "explanation": "This is backwards. Text B mentions symbolism; Text A is about conservation and recovery."
+        },
+        {
+          "id": "D",
+          "label": "The two texts have nothing in common.",
+          "correct": false,
+          "explanation": "Both texts discuss bald eagles facing past threats -- that is a clear shared point."
+        }
+      ],
+      "explanation_md": "Strong comparison identifies: (1) what both texts share (eagles faced threats) AND (2) how they differ in **focus** (Text A: recovery; Text B: current status and symbolism)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads two texts about volcanoes. Text A says volcanoes cause destruction. Text B says volcanic soil is very fertile and good for farming.\n\nHow do these texts CONTRAST in their most important points?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both texts agree volcanoes are only dangerous.",
+          "correct": false,
+          "explanation": "Text B presents a positive effect of volcanoes (fertile soil) -- they do not both say volcanoes are only dangerous."
+        },
+        {
+          "id": "B",
+          "label": "Text A focuses on the harmful effects of volcanoes; Text B focuses on a beneficial effect.",
+          "correct": true,
+          "explanation": "Text A = harmful (destruction); Text B = beneficial (fertile soil). Same topic (volcanoes), opposite perspectives on impact. This is a strong contrast."
+        },
+        {
+          "id": "C",
+          "label": "Both texts say volcanic soil is good for farming.",
+          "correct": false,
+          "explanation": "Only Text B mentions fertile soil -- Text A does not."
+        },
+        {
+          "id": "D",
+          "label": "Text A and Text B are about different topics.",
+          "correct": false,
+          "explanation": "Both texts are about volcanoes -- they share the same topic but present contrasting perspectives."
+        }
+      ],
+      "explanation_md": "Two texts on the **same topic** can present contrasting perspectives (harmful vs. beneficial effects). Comparing shows what they agree on; contrasting shows where they differ."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "**Text A:** 'Dogs can be trained to help people with disabilities. They learn commands and perform specific tasks for their owners.'\n\n**Text B:** 'Dogs and humans have lived together for thousands of years. Dogs were first domesticated to help with hunting and protection.'\n\nWhat do BOTH texts share?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Both texts say dogs were first domesticated for hunting.",
+          "correct": false,
+          "explanation": "Only Text B mentions hunting -- Text A does not."
+        },
+        {
+          "id": "B",
+          "label": "Both texts discuss how dogs work alongside or help humans.",
+          "correct": true,
+          "explanation": "Text A: dogs help people with disabilities. Text B: dogs helped humans with hunting and protection. Both texts share the idea that dogs assist/work with humans."
+        },
+        {
+          "id": "C",
+          "label": "Both texts explain how dogs are trained.",
+          "correct": false,
+          "explanation": "Only Text A specifically discusses training -- Text B does not."
+        },
+        {
+          "id": "D",
+          "label": "Both texts say dogs are the best pets.",
+          "correct": false,
+          "explanation": "Neither text makes this claim -- they discuss how dogs help humans."
+        }
+      ],
+      "explanation_md": "The shared important point: **both texts describe how dogs help or work alongside humans**. Text A focuses on disability assistance; Text B focuses on historical roles."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Using the same dog texts, what is one way they DIFFER?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Text A focuses on modern helping roles; Text B focuses on the history of dogs and humans.",
+          "correct": true,
+          "explanation": "Text A discusses current service roles (helping people with disabilities). Text B discusses history (thousands of years ago, hunting, protection). Same topic, different time focus."
+        },
+        {
+          "id": "B",
+          "label": "Text A says dogs are dangerous; Text B says they are safe.",
+          "correct": false,
+          "explanation": "Neither text makes these claims."
+        },
+        {
+          "id": "C",
+          "label": "Text B discusses dog training; Text A discusses dog history.",
+          "correct": false,
+          "explanation": "This is reversed. Text A discusses training; Text B discusses history."
+        },
+        {
+          "id": "D",
+          "label": "The texts have no differences.",
+          "correct": false,
+          "explanation": "The texts have different focuses -- modern roles vs. historical origins."
+        }
+      ],
+      "explanation_md": "The key **contrast**: Text A focuses on how dogs help people today (service animals); Text B focuses on the long history of dogs and humans (thousands of years of partnership)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads two texts about the ocean. Text A focuses on ocean pollution. Text B focuses on ocean animal life.\n\nWhich statement BEST describes how to compare these two texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "They cannot be compared because they are about different things.",
+          "correct": false,
+          "explanation": "Both texts are about the ocean -- they can be compared on their shared topic."
+        },
+        {
+          "id": "B",
+          "label": "Both texts are about the ocean; Text A emphasizes threats to the ocean, while Text B emphasizes the life within it.",
+          "correct": true,
+          "explanation": "Shared topic: the ocean. Text A's focus: pollution (a threat). Text B's focus: animal life. Comparing: same topic; Contrasting: different aspects emphasized."
+        },
+        {
+          "id": "C",
+          "label": "Text A is better than Text B.",
+          "correct": false,
+          "explanation": "Compare/contrast is about ideas and information, not deciding which text is better."
+        },
+        {
+          "id": "D",
+          "label": "Both texts focus on ocean animals.",
+          "correct": false,
+          "explanation": "Only Text B focuses on ocean animals -- Text A focuses on pollution."
+        }
+      ],
+      "explanation_md": "When two texts share a topic but have different focuses, a strong comparison identifies the **shared topic** AND the **different aspects each text emphasizes**."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to **compare** two texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Decide which text you like better",
+          "correct": false,
+          "explanation": "Comparing is not about preference -- it is about finding similarities."
+        },
+        {
+          "id": "B",
+          "label": "Find what the two texts have in common",
+          "correct": true,
+          "explanation": "Comparing means finding similarities -- what both texts say about the topic."
+        },
+        {
+          "id": "C",
+          "label": "Find what is different between the texts",
+          "correct": false,
+          "explanation": "Finding differences is contrasting, not comparing."
+        },
+        {
+          "id": "D",
+          "label": "Count how many pages each text has",
+          "correct": false,
+          "explanation": "Page count is not about ideas -- comparing is about the information in the texts."
+        }
+      ],
+      "explanation_md": "**Comparing** two texts means finding what they have in common -- the same facts, ideas, or points they both make about the topic."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to **contrast** two texts?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Find what the two texts have in common",
+          "correct": false,
+          "explanation": "Finding similarities is comparing. Contrasting is finding differences."
+        },
+        {
+          "id": "B",
+          "label": "Find what is different between the texts",
+          "correct": true,
+          "explanation": "Contrasting means finding differences -- what one text says that the other does not."
+        },
+        {
+          "id": "C",
+          "label": "Decide which author is better",
+          "correct": false,
+          "explanation": "Contrasting is about the ideas in the texts, not judging the authors."
+        },
+        {
+          "id": "D",
+          "label": "Read both texts at the same time",
+          "correct": false,
+          "explanation": "Reading strategy is not what contrast means -- contrast is about finding differences."
+        }
+      ],
+      "explanation_md": "**Contrasting** two texts means finding the differences -- what one text includes that the other does not, or where the texts disagree."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Text A says: 'Bears sleep through the winter.' Text B says: 'Bears enter a deep sleep called hibernation in the winter.'\n\nWhat do BOTH texts agree on?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Bears are dangerous.",
+          "correct": false,
+          "explanation": "Neither text mentions danger -- they both describe bears sleeping in winter."
+        },
+        {
+          "id": "B",
+          "label": "Bears sleep during winter.",
+          "correct": true,
+          "explanation": "Both texts say bears sleep in the winter -- that is the shared point."
+        },
+        {
+          "id": "C",
+          "label": "The sleep is called hibernation.",
+          "correct": false,
+          "explanation": "Only Text B uses the word hibernation -- Text A just says 'sleep.'"
+        },
+        {
+          "id": "D",
+          "label": "Bears never sleep in summer.",
+          "correct": false,
+          "explanation": "Neither text makes a claim about summer sleeping."
+        }
+      ],
+      "explanation_md": "Both texts agree: **bears sleep during winter**. Text B adds the detail that it is called hibernation -- but the shared point is the winter sleep."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Using the same bear texts, what does ONLY Text B include that Text A does not?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Bears sleep in winter.",
+          "correct": false,
+          "explanation": "Both texts mention winter sleep -- it is not unique to Text B."
+        },
+        {
+          "id": "B",
+          "label": "The word 'hibernation' to name the sleep.",
+          "correct": true,
+          "explanation": "Only Text B uses the word hibernation -- Text A just says 'sleep.' The specific term is unique to Text B."
+        },
+        {
+          "id": "C",
+          "label": "Bears are brown.",
+          "correct": false,
+          "explanation": "Neither text mentions bear color."
+        },
+        {
+          "id": "D",
+          "label": "Bears eat before winter.",
+          "correct": false,
+          "explanation": "Neither text mentions eating before winter."
+        }
+      ],
+      "explanation_md": "The **contrast**: Text B names the bear's sleep 'hibernation' -- a specific scientific term. Text A uses general language ('sleep'). This is the difference between the two texts."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "When you compare two texts on the same topic, you should first ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Pick your favorite text",
+          "correct": false,
+          "explanation": "Comparison is not about preference -- it is about finding similarities and differences."
+        },
+        {
+          "id": "B",
+          "label": "Read both texts carefully and find their most important points",
+          "correct": true,
+          "explanation": "You must read both texts carefully and identify what each one says most importantly before you can compare them."
+        },
+        {
+          "id": "C",
+          "label": "Only read the first paragraph of each text",
+          "correct": false,
+          "explanation": "Reading only the first paragraph may miss important points -- read both texts completely."
+        },
+        {
+          "id": "D",
+          "label": "Count the words in each text",
+          "correct": false,
+          "explanation": "Word count is not relevant to comparing ideas."
+        }
+      ],
+      "explanation_md": "Before comparing, **read both texts carefully** and identify the most important points each one makes. Then look for what they share and what they differ on."
+    }
+  ]
+}
