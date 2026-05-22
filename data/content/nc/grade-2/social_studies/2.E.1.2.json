@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.E.1.2",
+  "benchmark_description": "Explain how scarcity requires people to make choices about goods and services.",
+  "course": "social_studies",
+  "strand": "E",
+  "lesson": {
+    "title": "Making Choices When You Cannot Have Everything",
+    "intro": "Have you ever wanted two toys but only had enough money for one? That feeling -- not being able to have everything you want -- is called scarcity. When things are scarce, people have to make choices. Let us learn how!",
+    "body_md": "## What Is Scarcity?\n\n**Scarcity** means there is not enough of something to give everyone all they want.\n\nScarcity happens because:\n- Resources (things used to make goods) are limited\n- People's wants and needs are UNLIMITED\n- There is not always enough time, money, or materials\n\n## Wants vs. Needs\n\n| Need | Want |\n|---|---|\n| Something you MUST have to live (food, shelter, clothing, water) | Something you would LIKE to have but do not need to survive |\n| Example: a warm coat in winter | Example: a video game |\n\n## How Scarcity Leads to Choices\n\nBecause of scarcity, people must choose:\n- **What to buy** -- You have $5. Do you buy a book or a snack?\n- **What to make** -- A factory can make shoes OR boots with its leather. Which one?\n- **What to do** -- You have one hour. Do you do homework or play outside?\n\n## Opportunity Cost\n\nEvery choice has a cost. When you choose one thing, you give up something else.\n\n**Opportunity cost** -- the next best thing you gave up when you made a choice.\n\n**Example:**\nJamie has $8. She can buy a book ($8) OR a paint set ($8). She buys the book.\n- Her choice: the book\n- Her opportunity cost: the paint set (what she gave up)\n\n## Scarcity Affects Communities\n\n- A town may not have enough money to build both a new school AND a new park. They must choose one.\n- A state may not have enough water during a drought -- people must use less.\n- A store may sell out of a popular toy -- customers must find something else.\n\n**Key Words:**\n- **scarcity** -- when there is not enough of something for everyone who wants it\n- **want** -- something desired but not needed to survive\n- **need** -- something required to live (food, water, shelter, clothing)\n- **opportunity cost** -- the next best thing given up when making a choice",
+    "worked_example_md": "## Worked Example\n\n**Rosa has $10 to spend at the school fair.**\n\nShe sees:\n- A stuffed animal for $10\n- A book for $7\n- A set of art supplies for $10\n\nShe can only buy ONE item that costs $10, or the $7 book with $3 left over.\n\n**Rosa decides to buy the stuffed animal.**\n\n**Question 1:** What is Rosa's opportunity cost?\n\n**Step 1:** She chose the stuffed animal ($10).\n**Step 2:** The next best thing she could have chosen was the art supplies ($10).\n**Answer:** Rosa's opportunity cost is the art supplies.\n\n**Question 2:** What is scarcity in this situation?\n\n**Answer:** Rosa's scarcity is her limited money -- she only has $10, so she cannot buy everything she wants. Scarcity forced her to make a choice.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is SCARCITY?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "When there is too much of something",
+          "correct": false,
+          "explanation": "Scarcity is when there is NOT ENOUGH of something -- not too much."
+        },
+        {
+          "id": "b",
+          "label": "When there is not enough of something for everyone who wants it",
+          "correct": true,
+          "explanation": "Scarcity means there is not enough of a resource, good, or service to give everyone all they want. It forces people to make choices."
+        },
+        {
+          "id": "c",
+          "label": "When people do not want something",
+          "correct": false,
+          "explanation": "Scarcity involves something people DO want but cannot have enough of -- not something people do not want."
+        },
+        {
+          "id": "d",
+          "label": "When a store is open",
+          "correct": false,
+          "explanation": "Whether a store is open has nothing to do with scarcity. Scarcity is about limited resources versus unlimited wants."
+        }
+      ],
+      "explanation_md": "Scarcity means there is not enough of something for everyone who wants it. It forces people to make choices because they cannot have everything they want."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a NEED?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A video game",
+          "correct": false,
+          "explanation": "A video game is a want -- you would like to have it, but you do not need it to survive."
+        },
+        {
+          "id": "b",
+          "label": "Clean drinking water",
+          "correct": true,
+          "explanation": "Clean drinking water is a need -- without it, people cannot survive. Needs are things required to live."
+        },
+        {
+          "id": "c",
+          "label": "A new bicycle",
+          "correct": false,
+          "explanation": "A bicycle is a want -- you might like to have one, but you can survive without it."
+        },
+        {
+          "id": "d",
+          "label": "A movie ticket",
+          "correct": false,
+          "explanation": "A movie ticket is a want -- going to the movies is fun, but you do not need it to live."
+        }
+      ],
+      "explanation_md": "Clean drinking water is a need -- without it, people cannot survive. Video games, bicycles, and movie tickets are wants -- things you desire but do not need to live."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Ben has $6 and sees a comic book for $6 and a puzzle for $6. He can only buy one. He chooses the comic book. What is his opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The $6 he spent",
+          "correct": false,
+          "explanation": "The $6 is the price he paid, not the opportunity cost. Opportunity cost is the next best thing he gave up by choosing the comic book."
+        },
+        {
+          "id": "b",
+          "label": "The puzzle",
+          "correct": true,
+          "explanation": "Ben chose the comic book. The next best thing he gave up was the puzzle. That is his opportunity cost."
+        },
+        {
+          "id": "c",
+          "label": "The comic book",
+          "correct": false,
+          "explanation": "The comic book is what Ben CHOSE -- it is not the opportunity cost. The opportunity cost is what he gave up."
+        },
+        {
+          "id": "d",
+          "label": "Nothing -- he did not lose anything",
+          "correct": false,
+          "explanation": "Every choice has an opportunity cost. By choosing the comic book, Ben gave up the chance to get the puzzle -- that is his opportunity cost."
+        }
+      ],
+      "explanation_md": "When Ben chose the comic book, he gave up the puzzle -- the next best thing he could have chosen. That puzzle is his opportunity cost."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A town has enough money to build ONE new thing: a new school OR a new park. The town chooses the school. What is the opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The school",
+          "correct": false,
+          "explanation": "The school is what the town CHOSE. The opportunity cost is what they gave up -- the park."
+        },
+        {
+          "id": "b",
+          "label": "The park",
+          "correct": true,
+          "explanation": "The town chose to build the school, so they gave up building the park. The park is the opportunity cost."
+        },
+        {
+          "id": "c",
+          "label": "The money spent on the school",
+          "correct": false,
+          "explanation": "The money is the price paid, not the opportunity cost. Opportunity cost is the next best alternative given up -- the park."
+        },
+        {
+          "id": "d",
+          "label": "Nothing -- towns always have enough money for everything",
+          "correct": false,
+          "explanation": "Towns do not always have enough money for everything -- this is an example of scarcity. The town had to choose between two good options."
+        }
+      ],
+      "explanation_md": "The town chose the school, so they gave up building the park. The park is the opportunity cost -- the next best thing they gave up when they made their choice."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why does scarcity force people to make choices?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because people do not like having many things",
+          "correct": false,
+          "explanation": "People generally like having many things -- scarcity does not happen because people dislike possessions."
+        },
+        {
+          "id": "b",
+          "label": "Because resources are limited but people have unlimited wants, so there is never enough for everyone to have everything",
+          "correct": true,
+          "explanation": "Resources (money, time, materials) are limited, but people always want more. Since there is not enough to satisfy all wants, people must choose what to get or do with what they have."
+        },
+        {
+          "id": "c",
+          "label": "Because the government requires people to make choices",
+          "correct": false,
+          "explanation": "Scarcity is an economic reality, not a government rule. Limited resources force choices, not government mandates."
+        },
+        {
+          "id": "d",
+          "label": "Because stores run out of everything at the same time",
+          "correct": false,
+          "explanation": "Scarcity does not mean stores always run out of everything at once. It means there is not always enough of any resource for everyone who wants it."
+        }
+      ],
+      "explanation_md": "Resources are limited but people's wants are unlimited. Since there is never enough for everyone to have everything, scarcity forces people to choose what to spend their limited resources on."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "During a drought, the water supply in a town is very low. The town must decide who gets water and how much. This is an example of --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Trade",
+          "correct": false,
+          "explanation": "Trade is exchanging goods or services. The town making decisions about limited water is an example of managing scarcity."
+        },
+        {
+          "id": "b",
+          "label": "Scarcity requiring the community to make choices",
+          "correct": true,
+          "explanation": "Drought causes water scarcity -- there is not enough water for all uses. The town must make choices about how to distribute the limited water supply."
+        },
+        {
+          "id": "c",
+          "label": "Barter",
+          "correct": false,
+          "explanation": "Barter is swapping goods without money. The town managing scarce water is an example of scarcity forcing choices -- not barter."
+        },
+        {
+          "id": "d",
+          "label": "Specialization",
+          "correct": false,
+          "explanation": "Specialization is focusing on one type of work. The water drought is an example of scarcity, not specialization."
+        }
+      ],
+      "explanation_md": "Drought causes water scarcity -- there is not enough water for all uses. The town must make choices about how to use and distribute the limited water supply. This is scarcity in action."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Lily wants a doll, a book, and a jump rope. She only has enough money for one. She buys the book. The doll and the jump rope are her --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Needs",
+          "correct": false,
+          "explanation": "The doll, book, and jump rope are all wants -- Lily does not need them to survive. The ones she gave up are her opportunity cost."
+        },
+        {
+          "id": "b",
+          "label": "Opportunity cost",
+          "correct": true,
+          "explanation": "Lily chose the book, so she gave up the doll and the jump rope. Those two items are her opportunity cost -- the things she gave up by choosing the book."
+        },
+        {
+          "id": "c",
+          "label": "Goods she does not want",
+          "correct": false,
+          "explanation": "Lily does want the doll and jump rope -- she just cannot afford them. They are her opportunity cost."
+        },
+        {
+          "id": "d",
+          "label": "Services",
+          "correct": false,
+          "explanation": "Dolls, books, and jump ropes are goods -- physical objects you can hold. They are not services. The doll and jump rope are Lily's opportunity cost."
+        }
+      ],
+      "explanation_md": "Lily chose the book, so she gave up the doll and the jump rope. Those are her opportunity cost -- the next best things she gave up when she made her choice."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A factory can use its workers to make either 100 pairs of shoes or 50 pairs of boots (boots take more time). The factory chooses shoes. What is the opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The 100 pairs of shoes",
+          "correct": false,
+          "explanation": "The shoes are what the factory CHOSE to make. The opportunity cost is what they gave up -- the boots."
+        },
+        {
+          "id": "b",
+          "label": "The 50 pairs of boots",
+          "correct": true,
+          "explanation": "The factory chose to make shoes, giving up the boots. The 50 pairs of boots are the opportunity cost -- the next best option given up."
+        },
+        {
+          "id": "c",
+          "label": "The workers' wages",
+          "correct": false,
+          "explanation": "The wages are a cost of production, not the opportunity cost. Opportunity cost is the next best alternative given up -- the boots."
+        },
+        {
+          "id": "d",
+          "label": "Nothing -- factories can always make more later",
+          "correct": false,
+          "explanation": "The factory's workers can only be in one place at one time. Using them to make shoes means they cannot make boots at the same time -- there is always an opportunity cost."
+        }
+      ],
+      "explanation_md": "The factory chose to make shoes, giving up the opportunity to make boots. The 50 pairs of boots are the opportunity cost -- the next best option they gave up."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why do both poor families AND wealthy families still face scarcity?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because wealthy families give away all their money",
+          "correct": false,
+          "explanation": "Wealthy families giving away money is not what creates scarcity for them. Scarcity affects everyone because wants always exceed available resources."
+        },
+        {
+          "id": "b",
+          "label": "Because everyone -- no matter how much they have -- has limited time, money, and resources, and unlimited wants",
+          "correct": true,
+          "explanation": "Even the wealthiest person cannot buy every good or do everything they want because time and resources are always limited. Wants always grow beyond what is available."
+        },
+        {
+          "id": "c",
+          "label": "Because scarcity only affects people who are poor",
+          "correct": false,
+          "explanation": "Scarcity affects everyone. Even very wealthy people face scarcity of time and must make choices."
+        },
+        {
+          "id": "d",
+          "label": "Because scarcity is a feeling, not a real problem",
+          "correct": false,
+          "explanation": "Scarcity is a real economic concept. Limited resources versus unlimited wants is a real and universal challenge."
+        }
+      ],
+      "explanation_md": "Everyone faces scarcity because wants always exceed available resources. Even the wealthiest person has limited time and cannot do or have everything. Scarcity is a universal reality."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student thinks: 'My town should spend all its money on a new pool instead of repairing the old school.' A classmate disagrees. Which response BEST uses economic thinking to evaluate this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The student is right because pools are more fun than schools",
+          "correct": false,
+          "explanation": "Fun is not the best economic reason for spending limited community money. Economic thinking requires considering opportunity costs and what the community needs most."
+        },
+        {
+          "id": "b",
+          "label": "The town must consider the opportunity cost -- what will be lost by not repairing the school -- and decide what benefits the most people",
+          "correct": true,
+          "explanation": "Economic thinking requires considering scarcity and opportunity cost. If the town spends all its money on a pool, the opportunity cost is a crumbling school that harms students. The best decision considers what provides the most benefit to the community."
+        },
+        {
+          "id": "c",
+          "label": "The student is wrong because pools are always a waste of money",
+          "correct": false,
+          "explanation": "Pools can be valuable community resources. Economic thinking requires weighing opportunity costs, not declaring one option always wrong."
+        },
+        {
+          "id": "d",
+          "label": "The town should borrow money to build both so there is no opportunity cost",
+          "correct": false,
+          "explanation": "Borrowing money creates future costs -- the opportunity cost does not disappear. The town will still have to make choices about how to repay the debt."
+        }
+      ],
+      "explanation_md": "Economic thinking requires considering scarcity and opportunity cost. The town must think about what the community needs most and what will be lost (opportunity cost) if it chooses one option over another."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of scarcity?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A store that has too many apples and needs to sell them quickly",
+          "correct": false,
+          "explanation": "Having too many apples is a surplus -- the opposite of scarcity. Scarcity is when there is not enough."
+        },
+        {
+          "id": "b",
+          "label": "A classroom with only 10 crayons for 30 students who all want to draw at the same time",
+          "correct": true,
+          "explanation": "Ten crayons for 30 students is scarcity -- there are not enough crayons for everyone who wants one. The students must share or take turns."
+        },
+        {
+          "id": "c",
+          "label": "A library with thousands of books available for anyone to borrow",
+          "correct": false,
+          "explanation": "A library with many available books is not scarcity -- there are enough books for people to use. Scarcity is when there is not enough."
+        },
+        {
+          "id": "d",
+          "label": "A park with room for many families to picnic",
+          "correct": false,
+          "explanation": "A park with room for many families is not scarcity -- there is enough space. Scarcity is when there is not enough of something for everyone who wants it."
+        }
+      ],
+      "explanation_md": "Ten crayons for 30 students is scarcity -- there are not enough crayons for everyone at the same time. The students must make choices about who uses them and when."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Ava has one hour before dinner. She can read a book OR play outside, but not both. She reads. What is her opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Reading the book",
+          "correct": false,
+          "explanation": "Reading the book is what Ava CHOSE -- not the opportunity cost. Opportunity cost is what she gave up."
+        },
+        {
+          "id": "b",
+          "label": "Playing outside",
+          "correct": true,
+          "explanation": "Ava chose to read the book, giving up the chance to play outside. Playing outside is her opportunity cost -- the next best thing she gave up."
+        },
+        {
+          "id": "c",
+          "label": "Dinner",
+          "correct": false,
+          "explanation": "Dinner was not part of Ava's choice between reading and playing outside. Her opportunity cost is the thing she gave up -- playing outside."
+        },
+        {
+          "id": "d",
+          "label": "The book",
+          "correct": false,
+          "explanation": "The book is what Ava chose to do -- not the opportunity cost. Opportunity cost is playing outside, which she gave up."
+        }
+      ],
+      "explanation_md": "Ava chose to read the book, so she gave up playing outside. Playing outside is her opportunity cost -- the next best thing she gave up by reading."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer can use his field to grow corn OR tomatoes -- not both. He grows corn. His neighbor needs tomatoes. What could they do, and how does scarcity relate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The neighbor should plant her own tomatoes -- scarcity has nothing to do with this situation",
+          "correct": false,
+          "explanation": "Scarcity is very relevant here. The farmer could not grow both crops with one field -- that is scarcity of land. Trade is a direct response to scarcity."
+        },
+        {
+          "id": "b",
+          "label": "They could trade -- the farmer sells corn and the neighbor sells tomatoes; scarcity of land made each specialize, and trade fills the gap",
+          "correct": true,
+          "explanation": "The farmer's one field (scarcity of land) forced him to choose corn over tomatoes. If the neighbor grows tomatoes, they can trade. Scarcity leads to specialization, which leads to trade."
+        },
+        {
+          "id": "c",
+          "label": "The farmer should grow both even though the field is too small",
+          "correct": false,
+          "explanation": "If the field is too small for both crops, growing both is not possible. Scarcity of land means the farmer must choose."
+        },
+        {
+          "id": "d",
+          "label": "Scarcity only affects large farms, not small family farms",
+          "correct": false,
+          "explanation": "Scarcity affects farms of all sizes. Any farm with limited land faces scarcity and must make choices about what to grow."
+        }
+      ],
+      "explanation_md": "The farmer's limited land (scarcity) forced him to choose one crop. By trading with the neighbor, both can get what they need. Scarcity leads to specialization, which leads to trade."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A store has 10 cookies left and 30 people want one. This is an example of --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Scarcity -- there are not enough cookies for everyone who wants one",
+          "correct": true,
+          "explanation": "Ten cookies for 30 people is scarcity -- there are not enough cookies for everyone who wants one. People must make choices."
+        },
+        {
+          "id": "b",
+          "label": "Barter -- people trade for cookies",
+          "correct": false,
+          "explanation": "Barter is swapping goods without money. The situation described is about not having enough cookies -- that is scarcity."
+        },
+        {
+          "id": "c",
+          "label": "A need -- everyone needs cookies",
+          "correct": false,
+          "explanation": "Cookies are a want, not a need. And the situation described is scarcity -- not enough for everyone."
+        },
+        {
+          "id": "d",
+          "label": "Specialization -- the baker focuses on cookies",
+          "correct": false,
+          "explanation": "Specialization is focusing on one type of work. The situation described is about not having enough cookies for everyone -- that is scarcity."
+        }
+      ],
+      "explanation_md": "Ten cookies for 30 people is scarcity -- there are not enough cookies for everyone who wants one. Scarcity forces people to make choices."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a WANT, not a need?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Food to eat",
+          "correct": false,
+          "explanation": "Food is a need -- people must have food to survive. It is not a want."
+        },
+        {
+          "id": "b",
+          "label": "Water to drink",
+          "correct": false,
+          "explanation": "Water is a need -- people must have water to survive. It is not a want."
+        },
+        {
+          "id": "c",
+          "label": "A new video game",
+          "correct": true,
+          "explanation": "A video game is a want -- it is something you would like to have but do not need to survive. Wants are things beyond what you need to live."
+        },
+        {
+          "id": "d",
+          "label": "A warm coat in winter",
+          "correct": false,
+          "explanation": "A warm coat in winter is a need -- without appropriate clothing in cold weather, a person could get very sick. It is not a want."
+        }
+      ],
+      "explanation_md": "A new video game is a want -- it is something you would like to have but do not need to survive. Food, water, and warm clothing are needs -- things required to live."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Jake has $5. He can buy a toy car for $5 OR a book for $5, but not both. He buys the toy car. What is the opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The toy car",
+          "correct": false,
+          "explanation": "The toy car is what Jake CHOSE. Opportunity cost is what he gave up -- the book."
+        },
+        {
+          "id": "b",
+          "label": "The book",
+          "correct": true,
+          "explanation": "Jake chose the toy car, so he gave up the book. The book is his opportunity cost -- the next best thing he gave up."
+        },
+        {
+          "id": "c",
+          "label": "The $5",
+          "correct": false,
+          "explanation": "The $5 is the price paid, not the opportunity cost. Opportunity cost is the thing you give up -- the book."
+        },
+        {
+          "id": "d",
+          "label": "Nothing -- Jake got what he wanted",
+          "correct": false,
+          "explanation": "Every choice has an opportunity cost. By buying the toy car, Jake gave up the book -- that is his opportunity cost."
+        }
+      ],
+      "explanation_md": "Jake chose the toy car, so he gave up the book. The book is his opportunity cost -- the next best thing he gave up when he made his choice."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is opportunity cost?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The price you pay for something",
+          "correct": false,
+          "explanation": "The price is what you pay in money. Opportunity cost is the next best thing you give up by making a choice."
+        },
+        {
+          "id": "b",
+          "label": "The next best thing you give up when you make a choice",
+          "correct": true,
+          "explanation": "Opportunity cost is the next best option you give up when you choose something else. Every choice has an opportunity cost."
+        },
+        {
+          "id": "c",
+          "label": "Something you get for free",
+          "correct": false,
+          "explanation": "Opportunity cost is not about getting something free -- it is about what you give up. Every choice involves giving something up."
+        },
+        {
+          "id": "d",
+          "label": "A type of store where people trade",
+          "correct": false,
+          "explanation": "A store is a place of business. Opportunity cost is an economic concept about what you give up when you make a choice."
+        }
+      ],
+      "explanation_md": "Opportunity cost is the next best thing you give up when you make a choice. Every choice involves giving something up -- that is the opportunity cost."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A family can afford to go on a camping trip OR buy new school shoes, but not both. They buy the shoes. Why is this an example of scarcity?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because shoes are more important than camping",
+          "correct": false,
+          "explanation": "The question is about scarcity, not which choice is more important. Scarcity means there is not enough money for both."
+        },
+        {
+          "id": "b",
+          "label": "Because the family does not have enough money to pay for both things they want",
+          "correct": true,
+          "explanation": "The family wants both the trip and the shoes, but they only have enough money for one. This is scarcity of money -- not enough to satisfy all their wants."
+        },
+        {
+          "id": "c",
+          "label": "Because camping trips are too expensive",
+          "correct": false,
+          "explanation": "The cost of camping is not the scarcity -- the scarcity is that the family does not have enough money for both things they want."
+        },
+        {
+          "id": "d",
+          "label": "Because the family does not want to go camping",
+          "correct": false,
+          "explanation": "The family is said to want both the trip and the shoes. The problem is they do not have enough money for both -- that is scarcity."
+        }
+      ],
+      "explanation_md": "The family wants both things but only has enough money for one -- that is scarcity of money. Limited money forces them to choose between two things they want."
+    }
+  ]
+}
