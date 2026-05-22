@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.A.3.3",
+  "benchmark_description": "Identify when Florida was acquired by the United States and when it became a state.",
+  "course": "social_studies",
+  "strand": "A",
+  "lesson": {
+    "title": "Florida Joins the United States",
+    "intro": "Florida has not always been part of the United States. Long ago, other countries controlled Florida. Learning how Florida became a U.S. state helps us understand where we live today.",
+    "body_md": "## Florida Under Spanish Control\n\nFor hundreds of years, Spain controlled Florida. Spanish explorers arrived in the 1500s, and Spain built missions, towns, and forts here.\n\n## The United States Acquires Florida\n\nIn **1821**, the United States acquired, or took ownership of, Florida from Spain. This happened through a peaceful agreement called the **Adams-Onis Treaty** (signed in 1819). Spain gave up Florida, and the U.S. government took control.\n\nAfter 1821, Florida became a **U.S. territory** \u2014 land controlled by the United States but not yet a full state.\n\n## Florida Becomes a State\n\nFlorida was a territory for more than 20 years. Finally, on **March 3, 1845**, Florida was admitted to the United States as the **27th state**. This means Florida officially joined the Union and its citizens became full U.S. citizens with representation in Congress.\n\n## Key Dates to Remember\n\n| Year | Event |\n|------|-------|\n| 1821 | United States acquires Florida from Spain |\n| 1845 | Florida becomes the 27th U.S. state |\n\n## Why Does This Matter?\n\nWhen Florida became a state, Floridians gained the right to elect their own governor and send representatives to Washington, D.C. to help make laws for the whole country. The history of Florida joining the U.S. is an important chapter in our state's story.",
+    "worked_example_md": "**Timeline Practice:** Put these events in order from earliest to latest:\n\n1. Spain controls Florida\n2. United States acquires Florida (1821)\n3. Florida becomes the 27th state (1845)\n\n*Answer: 1 \u2192 2 \u2192 3. Spain controlled Florida first, then the U.S. acquired it in 1821, and finally Florida became a state in 1845.*",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What year did the United States **acquire** (take ownership of) Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1776",
+          "correct": false,
+          "explanation": "1776 is when the United States declared independence, not when it acquired Florida."
+        },
+        {
+          "id": "B",
+          "label": "1821",
+          "correct": true,
+          "explanation": "The United States acquired Florida from Spain in 1821."
+        },
+        {
+          "id": "C",
+          "label": "1845",
+          "correct": false,
+          "explanation": "1845 is when Florida became a state, not when it was acquired."
+        },
+        {
+          "id": "D",
+          "label": "1492",
+          "correct": false,
+          "explanation": "1492 is when Columbus arrived in the Americas, not when the U.S. acquired Florida."
+        }
+      ],
+      "explanation_md": "The United States acquired Florida from Spain in 1821 through the Adams-Onis Treaty."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What year did Florida become a **state**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1776",
+          "correct": false,
+          "explanation": "1776 is when the United States declared independence."
+        },
+        {
+          "id": "B",
+          "label": "1821",
+          "correct": false,
+          "explanation": "1821 is when the U.S. acquired Florida, not when it became a state."
+        },
+        {
+          "id": "C",
+          "label": "1845",
+          "correct": true,
+          "explanation": "Florida became the 27th state on March 3, 1845."
+        },
+        {
+          "id": "D",
+          "label": "1900",
+          "correct": false,
+          "explanation": "Florida became a state in 1845, not 1900."
+        }
+      ],
+      "explanation_md": "Florida became the 27th U.S. state on March 3, 1845."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Before the United States acquired Florida, which country controlled it?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "France",
+          "correct": false,
+          "explanation": "France controlled other parts of North America, but Spain controlled Florida."
+        },
+        {
+          "id": "B",
+          "label": "England",
+          "correct": false,
+          "explanation": "England controlled the original 13 colonies, not Florida at the time of acquisition."
+        },
+        {
+          "id": "C",
+          "label": "Spain",
+          "correct": true,
+          "explanation": "Spain controlled Florida for hundreds of years before the U.S. acquired it in 1821."
+        },
+        {
+          "id": "D",
+          "label": "Mexico",
+          "correct": false,
+          "explanation": "Mexico did not control Florida."
+        }
+      ],
+      "explanation_md": "Spain controlled Florida for hundreds of years. In 1821, Spain gave Florida to the United States."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **territory**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A land that is fully independent with its own president",
+          "correct": false,
+          "explanation": "A territory is controlled by a country but is not yet fully independent."
+        },
+        {
+          "id": "B",
+          "label": "Land controlled by the United States but not yet a full state",
+          "correct": true,
+          "explanation": "Florida was a U.S. territory from 1821 to 1845, controlled by the U.S. but not yet a state."
+        },
+        {
+          "id": "C",
+          "label": "A foreign country",
+          "correct": false,
+          "explanation": "A territory is controlled by a country, not a separate foreign nation."
+        },
+        {
+          "id": "D",
+          "label": "A city inside a state",
+          "correct": false,
+          "explanation": "A city is different from a territory."
+        }
+      ],
+      "explanation_md": "A territory is land that a country controls but that has not yet become a full state. Florida was a U.S. territory for about 24 years."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How many years passed between the U.S. acquiring Florida and Florida becoming a state?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "10 years",
+          "correct": false,
+          "explanation": "1845 - 1821 = 24 years, not 10."
+        },
+        {
+          "id": "B",
+          "label": "24 years",
+          "correct": true,
+          "explanation": "Florida was acquired in 1821 and became a state in 1845. 1845 - 1821 = 24 years."
+        },
+        {
+          "id": "C",
+          "label": "50 years",
+          "correct": false,
+          "explanation": "1845 - 1821 = 24 years, not 50."
+        },
+        {
+          "id": "D",
+          "label": "100 years",
+          "correct": false,
+          "explanation": "1845 - 1821 = 24 years, not 100."
+        }
+      ],
+      "explanation_md": "Florida was acquired in 1821 and became a state in 1845. 1845 minus 1821 equals 24 years."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What was the **27th state** to join the United States?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Georgia",
+          "correct": false,
+          "explanation": "Georgia was one of the original 13 states."
+        },
+        {
+          "id": "B",
+          "label": "Texas",
+          "correct": false,
+          "explanation": "Texas became the 28th state in 1845, right after Florida."
+        },
+        {
+          "id": "C",
+          "label": "Florida",
+          "correct": true,
+          "explanation": "Florida became the 27th U.S. state on March 3, 1845."
+        },
+        {
+          "id": "D",
+          "label": "California",
+          "correct": false,
+          "explanation": "California became a state in 1850, after Florida."
+        }
+      ],
+      "explanation_md": "Florida became the 27th U.S. state on March 3, 1845."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement puts these events in the CORRECT order?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Florida became a state \u2192 U.S. acquired Florida \u2192 Spain controlled Florida",
+          "correct": false,
+          "explanation": "That is backward. Spain controlled Florida first, then the U.S. acquired it, then it became a state."
+        },
+        {
+          "id": "B",
+          "label": "Spain controlled Florida \u2192 U.S. acquired Florida \u2192 Florida became a state",
+          "correct": true,
+          "explanation": "Spain controlled Florida, then the U.S. acquired it in 1821, and Florida became a state in 1845."
+        },
+        {
+          "id": "C",
+          "label": "U.S. acquired Florida \u2192 Spain controlled Florida \u2192 Florida became a state",
+          "correct": false,
+          "explanation": "Spain controlled Florida before the U.S. acquired it."
+        },
+        {
+          "id": "D",
+          "label": "Florida became a state \u2192 Spain controlled Florida \u2192 U.S. acquired Florida",
+          "correct": false,
+          "explanation": "That order is incorrect. Spain came first, then U.S. acquisition, then statehood."
+        }
+      ],
+      "explanation_md": "The correct order: Spain controlled Florida for centuries, the U.S. acquired it in 1821, and Florida became a state in 1845."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What agreement resulted in the United States acquiring Florida?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The Declaration of Independence",
+          "correct": false,
+          "explanation": "The Declaration of Independence was about separating from England, not acquiring Florida."
+        },
+        {
+          "id": "B",
+          "label": "The Adams-Onis Treaty",
+          "correct": true,
+          "explanation": "The Adams-Onis Treaty (1819) was the agreement through which Spain gave Florida to the United States."
+        },
+        {
+          "id": "C",
+          "label": "The Constitution",
+          "correct": false,
+          "explanation": "The Constitution set up the U.S. government; it did not directly deal with acquiring Florida."
+        },
+        {
+          "id": "D",
+          "label": "The Bill of Rights",
+          "correct": false,
+          "explanation": "The Bill of Rights lists citizens' rights; it is not a land agreement."
+        }
+      ],
+      "explanation_md": "The Adams-Onis Treaty (signed 1819, completed 1821) was the agreement between Spain and the United States by which Spain gave up Florida."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "When Florida became a state in 1845, what new powers did Floridians gain?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "They could elect their own governor and send representatives to Congress",
+          "correct": true,
+          "explanation": "As a full state, Florida could elect its own governor and send senators and representatives to Congress in Washington, D.C."
+        },
+        {
+          "id": "B",
+          "label": "They became citizens of Spain",
+          "correct": false,
+          "explanation": "Florida joined the United States, not Spain."
+        },
+        {
+          "id": "C",
+          "label": "They could make laws only for other states",
+          "correct": false,
+          "explanation": "Florida's representatives help make laws for the whole nation, not just other states."
+        },
+        {
+          "id": "D",
+          "label": "They no longer had to follow U.S. laws",
+          "correct": false,
+          "explanation": "As a state, Florida must follow U.S. laws."
+        }
+      ],
+      "explanation_md": "When Florida became a state, Floridians could elect their own governor and send senators and representatives to Congress to help make national laws."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Florida was a territory for about 24 years before becoming a state. What does this tell us about how the United States grew?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "New land was added to the U.S. immediately as full states",
+          "correct": false,
+          "explanation": "New lands usually became territories first, then later applied for statehood."
+        },
+        {
+          "id": "B",
+          "label": "The U.S. first controlled new land as territories, then later admitted them as states",
+          "correct": true,
+          "explanation": "This was the common pattern for U.S. expansion \u2014 acquire land, govern it as a territory, then admit it as a state."
+        },
+        {
+          "id": "C",
+          "label": "All U.S. states were originally English colonies",
+          "correct": false,
+          "explanation": "Many states, including Florida, were not English colonies but were acquired from other countries."
+        },
+        {
+          "id": "D",
+          "label": "Florida was the first state added to the original 13",
+          "correct": false,
+          "explanation": "Florida was the 27th state. Many states joined before Florida."
+        }
+      ],
+      "explanation_md": "The U.S. expanded by acquiring land, governing it as a territory, and then admitting it as a state. Florida followed this same path."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which PAIR of dates is most important in Florida's path to statehood?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1492 and 1776",
+          "correct": false,
+          "explanation": "1492 (Columbus) and 1776 (independence) are important in U.S. history but not specifically Florida's statehood path."
+        },
+        {
+          "id": "B",
+          "label": "1821 and 1845",
+          "correct": true,
+          "explanation": "1821 is when the U.S. acquired Florida; 1845 is when Florida became the 27th state."
+        },
+        {
+          "id": "C",
+          "label": "1800 and 1900",
+          "correct": false,
+          "explanation": "Those are not the key dates for Florida's statehood."
+        },
+        {
+          "id": "D",
+          "label": "1865 and 1920",
+          "correct": false,
+          "explanation": "Those dates are connected to other historical events, not Florida's statehood path."
+        }
+      ],
+      "explanation_md": "1821 \u2014 U.S. acquired Florida from Spain. 1845 \u2014 Florida became the 27th state."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What was Florida BEFORE it became a state in 1845?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A foreign country",
+          "correct": false,
+          "explanation": "After 1821, Florida was controlled by the United States, not a foreign country."
+        },
+        {
+          "id": "B",
+          "label": "A U.S. territory",
+          "correct": true,
+          "explanation": "From 1821 to 1845, Florida was a U.S. territory \u2014 controlled by the U.S. but not yet a full state."
+        },
+        {
+          "id": "C",
+          "label": "A Spanish colony",
+          "correct": false,
+          "explanation": "Spain gave up control of Florida in 1821."
+        },
+        {
+          "id": "D",
+          "label": "An independent nation",
+          "correct": false,
+          "explanation": "Florida was never an independent nation; it went from Spanish control to U.S. territory to U.S. state."
+        }
+      ],
+      "explanation_md": "After the U.S. acquired Florida in 1821, it was a U.S. territory until it became a full state in 1845."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says Florida has 'always been part of the United States.' What fact proves this is WRONG?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Florida became a state in 1845, and Spain controlled it before 1821",
+          "correct": true,
+          "explanation": "Florida was controlled by Spain and was a U.S. territory before becoming a state in 1845, so it has not always been part of the U.S."
+        },
+        {
+          "id": "B",
+          "label": "Florida is very warm and sunny",
+          "correct": false,
+          "explanation": "The weather does not tell us who controlled Florida historically."
+        },
+        {
+          "id": "C",
+          "label": "Florida is a peninsula",
+          "correct": false,
+          "explanation": "Being a peninsula is a geographic fact, not a historical ownership fact."
+        },
+        {
+          "id": "D",
+          "label": "Florida has alligators",
+          "correct": false,
+          "explanation": "Wildlife does not determine historical ownership."
+        }
+      ],
+      "explanation_md": "Spain controlled Florida before 1821, and Florida was a U.S. territory until 1845. It has not always been part of the United States."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The United States **acquired** Florida in 1821. What does **acquired** mean?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "destroyed",
+          "correct": false,
+          "explanation": "Acquired means took ownership of, not destroyed."
+        },
+        {
+          "id": "B",
+          "label": "took ownership of",
+          "correct": true,
+          "explanation": "Acquired means took ownership of. The U.S. took ownership of Florida from Spain in 1821."
+        },
+        {
+          "id": "C",
+          "label": "visited for a vacation",
+          "correct": false,
+          "explanation": "Acquired means took ownership of, not visited."
+        },
+        {
+          "id": "D",
+          "label": "sold",
+          "correct": false,
+          "explanation": "The U.S. acquired (received) Florida \u2014 it did not sell it."
+        }
+      ],
+      "explanation_md": "Acquired means took ownership of. The United States acquired Florida from Spain in 1821."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which country gave Florida to the United States in 1821?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "France",
+          "correct": false,
+          "explanation": "France did not give Florida to the United States. Spain did."
+        },
+        {
+          "id": "B",
+          "label": "Spain",
+          "correct": true,
+          "explanation": "Spain controlled Florida and gave it to the United States in 1821."
+        },
+        {
+          "id": "C",
+          "label": "England",
+          "correct": false,
+          "explanation": "England controlled the original 13 colonies, not Florida at this time."
+        },
+        {
+          "id": "D",
+          "label": "Mexico",
+          "correct": false,
+          "explanation": "Mexico did not control Florida."
+        }
+      ],
+      "explanation_md": "Spain controlled Florida for hundreds of years and gave it to the United States in 1821."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In what year did Florida become a state?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1776",
+          "correct": false,
+          "explanation": "1776 is when the U.S. declared independence, not when Florida became a state."
+        },
+        {
+          "id": "B",
+          "label": "1821",
+          "correct": false,
+          "explanation": "1821 is when the U.S. acquired Florida. Florida became a state in 1845."
+        },
+        {
+          "id": "C",
+          "label": "1845",
+          "correct": true,
+          "explanation": "Florida became the 27th U.S. state on March 3, 1845."
+        },
+        {
+          "id": "D",
+          "label": "1865",
+          "correct": false,
+          "explanation": "1865 is the end of the Civil War, not Florida's statehood year."
+        }
+      ],
+      "explanation_md": "Florida became the 27th U.S. state in 1845."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Florida was the **27th** state. What does this number tell us?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "27 countries helped build Florida",
+          "correct": false,
+          "explanation": "The number 27 tells us Florida was the 27th state to join the U.S., not how many countries helped."
+        },
+        {
+          "id": "B",
+          "label": "Florida was the 27th state to join the United States",
+          "correct": true,
+          "explanation": "The original United States had 13 states. More states joined over time. Florida was the 27th."
+        },
+        {
+          "id": "C",
+          "label": "Florida has 27 cities",
+          "correct": false,
+          "explanation": "Florida has many more than 27 cities."
+        },
+        {
+          "id": "D",
+          "label": "Florida joined 27 years before the U.S. was founded",
+          "correct": false,
+          "explanation": "Florida joined the U.S. in 1845, long after the U.S. was founded in 1776."
+        }
+      ],
+      "explanation_md": "Florida was the 27th state, meaning 26 states had already joined the U.S. before Florida became a state in 1845."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Between 1821 and 1845, Florida was a U.S. **territory**. What happened to Florida in 1845?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It went back to Spain",
+          "correct": false,
+          "explanation": "Florida joined the United States as a state in 1845 \u2014 it did not return to Spain."
+        },
+        {
+          "id": "B",
+          "label": "It became a full U.S. state",
+          "correct": true,
+          "explanation": "In 1845, Florida officially became the 27th state of the United States."
+        },
+        {
+          "id": "C",
+          "label": "It became a foreign country",
+          "correct": false,
+          "explanation": "Florida became part of the United States more completely in 1845, not a foreign country."
+        },
+        {
+          "id": "D",
+          "label": "It was abandoned",
+          "correct": false,
+          "explanation": "Florida was not abandoned. It became a full state in 1845."
+        }
+      ],
+      "explanation_md": "In 1845, Florida went from a U.S. territory to a full U.S. state \u2014 the 27th state."
+    }
+  ]
+}
