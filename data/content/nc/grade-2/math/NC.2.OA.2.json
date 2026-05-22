@@ -1,0 +1,313 @@
+{
+  "skill_id": "NC.2.OA.2",
+  "benchmark_description": "Demonstrate fluency with addition and subtraction, within 20, using mental strategies.",
+  "course": "math",
+  "strand": "OA",
+  "lesson": {
+    "title": "Fast Addition and Subtraction Within 20",
+    "intro": "Can you add 7 + 8 without counting on your fingers? In second grade, we learn fast mental tricks so we can add and subtract numbers up to 20 in our heads. Let's practice!",
+    "body_md": "## What Is Mental Math?\n\n**Mental math** means you solve a problem in your head without paper or counting on your fingers. The goal is to be fast AND correct.\n\n## Strategy 1: Make a Ten\n\nBreak a number apart to make 10 first, then add the rest.\n\n**Example:** 7 + 6\n- Split 6 into 3 + 3\n- 7 + 3 = 10\n- 10 + 3 = **13**\n\n## Strategy 2: Doubles\n\nDoubles are easy to remember!\n\n| Doubles Fact | Answer |\n|---|---|\n| 1 + 1 | 2 |\n| 2 + 2 | 4 |\n| 3 + 3 | 6 |\n| 4 + 4 | 8 |\n| 5 + 5 | 10 |\n| 6 + 6 | 12 |\n| 7 + 7 | 14 |\n| 8 + 8 | 16 |\n| 9 + 9 | 18 |\n| 10 + 10 | 20 |\n\n## Strategy 3: Near Doubles (Doubles Plus 1)\n\nIf the numbers are close together, use a doubles fact.\n\n**Example:** 6 + 7\n- 6 + 6 = 12, then add 1 more\n- 6 + 7 = **13**\n\n## Strategy 4: Think Addition for Subtraction\n\nTo solve 14 - 8, ask: 8 + ? = 14\n- 8 + 6 = 14\n- So 14 - 8 = **6**\n\n## Strategy 5: Count On or Count Back\n\nFor small differences, count on or count back a few steps.\n- 15 - 13: count back 2 from 15 \u2192 **2**\n- 9 + 3: count on 3 from 9 \u2192 10, 11, 12 \u2192 **12**\n\n## Practice Every Day\n\nThe more you practice, the faster you get. Try to recall these facts automatically without stopping to think!",
+    "worked_example_md": "## Worked Example\n\n**Problem:** What is 9 + 7?\n\n**Strategy: Make a Ten**\n\nStep 1: Break 7 into 1 + 6\n- Why? Because 9 + 1 = 10\n\nStep 2: 9 + 1 = 10\n\nStep 3: 10 + 6 = 16\n\n**Answer: 9 + 7 = 16**\n\n**Check using a different way:**\nDoubles near-double: 7 + 7 = 14, then 2 more = 16 \u2713",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 6 + 6?",
+      "correct_answer": "12",
+      "explanation_md": "6 + 6 is a doubles fact: **12**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 10 - 4?",
+      "correct_answer": "6",
+      "explanation_md": "10 - 4 = **6**. Think: 4 + 6 = 10."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is 8 + 8?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "15",
+          "correct": false,
+          "explanation": "15 is one less than correct. 8 + 8 is a doubles fact that equals 16."
+        },
+        {
+          "id": "b",
+          "label": "16",
+          "correct": true,
+          "explanation": "Yes! 8 + 8 = 16. This is a doubles fact."
+        },
+        {
+          "id": "c",
+          "label": "17",
+          "correct": false,
+          "explanation": "17 is one too many. 8 + 8 = 16."
+        },
+        {
+          "id": "d",
+          "label": "18",
+          "correct": false,
+          "explanation": "18 = 9 + 9. For 8 + 8, the answer is 16."
+        }
+      ],
+      "explanation_md": "8 + 8 = **16**. Doubles fact!"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 7 + 8?",
+      "correct_answer": "15",
+      "explanation_md": "Near doubles: 7 + 7 = 14, add 1 more = **15**. Or make a ten: 7 + 3 = 10, 10 + 5 = 15."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 16 - 9?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "6 is one less than correct. Think: 9 + ? = 16. The answer is 7."
+        },
+        {
+          "id": "b",
+          "label": "8",
+          "correct": false,
+          "explanation": "8 is too many. 9 + 7 = 16, so 16 - 9 = 7."
+        },
+        {
+          "id": "c",
+          "label": "7",
+          "correct": true,
+          "explanation": "Yes! 16 - 9 = 7. Check: 9 + 7 = 16 \u2713"
+        },
+        {
+          "id": "d",
+          "label": "9",
+          "correct": false,
+          "explanation": "9 is the number you subtracted, not the answer."
+        }
+      ],
+      "explanation_md": "Think addition: 9 + ? = 16. The answer is **7**. Check: 9 + 7 = 16 \u2713"
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 8 + 5?",
+      "correct_answer": "13",
+      "explanation_md": "Make a ten: 8 + 2 = 10, then 10 + 3 = **13**."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 14 - 6?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is not correct. Think: 6 + ? = 14. Count on from 6: 7, 8, 9, 10, 11, 12, 13, 14 - that's 8 steps."
+        },
+        {
+          "id": "b",
+          "label": "9",
+          "correct": false,
+          "explanation": "9 is one too many. 6 + 8 = 14, so 14 - 6 = 8."
+        },
+        {
+          "id": "c",
+          "label": "8",
+          "correct": true,
+          "explanation": "Yes! 14 - 6 = 8. Check: 6 + 8 = 14 \u2713"
+        },
+        {
+          "id": "d",
+          "label": "6",
+          "correct": false,
+          "explanation": "6 is the number subtracted, not the answer. 14 - 6 = 8."
+        }
+      ],
+      "explanation_md": "Think addition: 6 + ? = 14. The answer is **8**. Check: 6 + 8 = 14 \u2713"
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 9 + 4?",
+      "correct_answer": "13",
+      "explanation_md": "Make a ten: 9 + 1 = 10, then 10 + 3 = **13**."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which two facts belong to the same fact family? (They use the same three numbers.)",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 + 8 = 13 and 13 - 5 = 8",
+          "correct": true,
+          "explanation": "Yes! These belong to the same fact family: 5, 8, and 13. 5 + 8 = 13 and 13 - 5 = 8 use the same three numbers."
+        },
+        {
+          "id": "b",
+          "label": "6 + 7 = 13 and 13 - 5 = 8",
+          "correct": false,
+          "explanation": "These use different sets of three numbers so they do not belong to the same fact family."
+        },
+        {
+          "id": "c",
+          "label": "9 + 4 = 13 and 13 - 5 = 8",
+          "correct": false,
+          "explanation": "Different fact families. 9 + 4 = 13 uses 9, 4, 13; but 13 - 5 = 8 uses 5, 8, 13."
+        },
+        {
+          "id": "d",
+          "label": "7 + 6 = 13 and 13 - 7 = 5",
+          "correct": false,
+          "explanation": "13 - 7 = 6, not 5. These do not form a correct fact family."
+        }
+      ],
+      "explanation_md": "A fact family uses the same three numbers. 5 + 8 = 13 and 13 - 5 = 8 both use **5, 8, and 13**."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "What number makes this true? 6 + ___ = 20 - 7",
+      "correct_answer": "7",
+      "explanation_md": "First solve 20 - 7 = 13. Then find 6 + ? = 13. So ? = 13 - 6 = **7**."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 9 + 6?",
+      "correct_answer": "15",
+      "explanation_md": "Make a ten: 9 + 1 = 10, then 10 + 5 = **15**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 13 - 7?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is one less than correct. Think: 7 + ? = 13. Count up: 8, 9, 10, 11, 12, 13 = 6 steps."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is the number you subtract, not the answer. 13 - 7 = 6."
+        },
+        {
+          "id": "c",
+          "label": "6",
+          "correct": true,
+          "explanation": "Yes! 13 - 7 = 6. Check: 7 + 6 = 13 \u2713"
+        },
+        {
+          "id": "d",
+          "label": "4",
+          "correct": false,
+          "explanation": "4 is too small. 7 + 4 = 11, not 13."
+        }
+      ],
+      "explanation_md": "13 - 7 = **6**. Think: 7 + 6 = 13 \u2713"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "I am thinking of a number. If I add 8 to my number, I get 17. What is my number?",
+      "correct_answer": "9",
+      "explanation_md": "? + 8 = 17. Subtract: 17 - 8 = **9**. Check: 9 + 8 = 17 \u2713"
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 5 + 5?",
+      "correct_answer": "10",
+      "explanation_md": "5 + 5 is a doubles fact: **10**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 10 - 3?",
+      "correct_answer": "7",
+      "explanation_md": "10 - 3 = **7**. Think: 3 + 7 = 10."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is 4 + 4?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "6",
+          "correct": false,
+          "explanation": "6 is not correct. 4 + 4 is a doubles fact that equals 8."
+        },
+        {
+          "id": "b",
+          "label": "8",
+          "correct": true,
+          "explanation": "Yes! 4 + 4 = 8. Doubles fact!"
+        },
+        {
+          "id": "c",
+          "label": "9",
+          "correct": false,
+          "explanation": "9 is one too many. 4 + 4 = 8."
+        },
+        {
+          "id": "d",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is one less than correct. 4 + 4 = 8."
+        }
+      ],
+      "explanation_md": "4 + 4 = **8**. Doubles fact!"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 6 + 7?",
+      "correct_answer": "13",
+      "explanation_md": "Near doubles: 6 + 6 = 12, add 1 more = **13**."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 12 - 5?",
+      "correct_answer": "7",
+      "explanation_md": "Think addition: 5 + ? = 12. Count up from 5 to 12 = 7 steps. So 12 - 5 = **7**."
+    }
+  ]
+}
