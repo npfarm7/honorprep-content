@@ -1,0 +1,438 @@
+{
+  "skill_id": "2.OA.C.4",
+  "benchmark_description": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends.",
+  "course": "math",
+  "strand": "OA",
+  "lesson": {
+    "title": "Rows, Columns, and Arrays",
+    "intro": "Have you ever seen eggs in a carton or chairs in rows at school? Those are arrays! An array is a neat arrangement of objects in rows and columns, and you can use addition to count them all.",
+    "body_md": "## What Is an Array?\n\nAn **array** is a group of objects arranged in equal **rows** and **columns**.\n\n- **Rows** go across (left to right)\n- **Columns** go up and down\n\n```\n* * * *    <-- 1 row of 4\n* * * *    <-- 1 row of 4\n* * * *    <-- 1 row of 4\n```\n\nThis array has **3 rows** and **4 columns**.\n\n## Counting with Addition\n\nYou can add the rows together to find the total!\n\n**3 rows of 4:**\n4 + 4 + 4 = 12\n\nEach row has the same number, so all the addends are **equal**.\n\n## Examples\n\n| Array | Rows | Columns | Equation | Total |\n|---|---|---|---|---|\n| Stars in 2 rows of 3 | 2 | 3 | 3 + 3 = 6 | 6 |\n| Dots in 4 rows of 2 | 4 | 2 | 2 + 2 + 2 + 2 = 8 | 8 |\n| Squares in 3 rows of 5 | 3 | 5 | 5 + 5 + 5 = 15 | 15 |\n| Circles in 5 rows of 4 | 5 | 4 | 4 + 4 + 4 + 4 + 4 = 20 | 20 |\n\n## Two Ways to Write the Equation\n\nYou can add **rows** or **columns** \u2014 both give the same total!\n\n**Array: 3 rows of 4**\n- By rows: 4 + 4 + 4 = 12\n- By columns: 3 + 3 + 3 + 3 = 12\n\nBoth equations give 12. Cool, right?\n\n## Quick Check\n\nTo write the equation for an array:\n1. Count how many rows there are.\n2. Count how many objects are in each row.\n3. Write that many equal addends and add them up!",
+    "worked_example_md": "**Problem:** An array has 4 rows of 3 stars each.\n\n```\n* * *\n* * *\n* * *\n* * *\n```\n\n**Step 1:** Count the rows: 4 rows.\n**Step 2:** Count the stars in each row: 3 stars.\n**Step 3:** Write the equation: 3 + 3 + 3 + 3 = ?\n**Step 4:** Add: 3 + 3 = 6, then 6 + 3 = 9, then 9 + 3 = 12.\n\n**Answer:** 3 + 3 + 3 + 3 = **12** total stars.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "An array has 2 rows with 3 objects in each row.\n\nWhat equation matches this array? Write the total.",
+      "correct_answer": "6",
+      "explanation_md": "2 rows of 3: 3 + 3 = 6. The total is 6."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which equation matches a 3-row, 2-column array?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 + 3 = 6",
+          "correct": false,
+          "explanation": "3 + 3 would work for 2 rows of 3, not 3 rows of 2. For 3 rows of 2, write 2 + 2 + 2 = 6."
+        },
+        {
+          "id": "b",
+          "label": "2 + 2 + 2 = 6",
+          "correct": true,
+          "explanation": "Correct! 3 rows of 2 means three groups of 2: 2 + 2 + 2 = 6."
+        },
+        {
+          "id": "c",
+          "label": "3 + 2 = 5",
+          "correct": false,
+          "explanation": "Adding the rows and columns together is not how to count an array. Write 2 + 2 + 2 = 6 (one addend for each row)."
+        },
+        {
+          "id": "d",
+          "label": "2 + 3 = 5",
+          "correct": false,
+          "explanation": "This adds rows and columns together, which is wrong. Write 2 + 2 + 2 = 6 (three rows, each with 2)."
+        }
+      ],
+      "explanation_md": "3 rows of 2 means three equal addends of 2: 2 + 2 + 2 = 6."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "An array has 4 rows with 4 objects in each row. Write the total number of objects.",
+      "correct_answer": "16",
+      "explanation_md": "4 rows of 4: 4 + 4 + 4 + 4 = 16."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A garden has flowers planted in 5 rows with 3 flowers in each row. Which equation gives the total number of flowers?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 + 3 = 8",
+          "correct": false,
+          "explanation": "Adding rows and flowers together gives the wrong answer. Write one addend for each row: 3 + 3 + 3 + 3 + 3 = 15."
+        },
+        {
+          "id": "b",
+          "label": "3 + 5 = 8",
+          "correct": false,
+          "explanation": "This does not count the flowers correctly. You need five 3s added together: 3 + 3 + 3 + 3 + 3 = 15."
+        },
+        {
+          "id": "c",
+          "label": "3 + 3 + 3 = 9",
+          "correct": false,
+          "explanation": "This only counts 3 rows. There are 5 rows. You need 3 + 3 + 3 + 3 + 3 = 15."
+        },
+        {
+          "id": "d",
+          "label": "3 + 3 + 3 + 3 + 3 = 15",
+          "correct": true,
+          "explanation": "Correct! 5 rows of 3 flowers: 3 + 3 + 3 + 3 + 3 = 15."
+        }
+      ],
+      "explanation_md": "5 rows of 3: 3 + 3 + 3 + 3 + 3 = 15."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An array has an equation: 5 + 5 + 5 + 5 = 20. How many rows and columns does this array have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 rows, 4 columns",
+          "correct": false,
+          "explanation": "Count the addends: there are 4 fives. So there are 4 rows. Each 5 tells you how many columns. So 4 rows, 5 columns."
+        },
+        {
+          "id": "b",
+          "label": "4 rows, 5 columns",
+          "correct": true,
+          "explanation": "Correct! There are 4 addends (so 4 rows), and each addend is 5 (so 5 columns). 4 rows, 5 columns."
+        },
+        {
+          "id": "c",
+          "label": "20 rows, 1 column",
+          "correct": false,
+          "explanation": "20 is the total, not the number of rows. Count the addends: four 5s means 4 rows with 5 in each row."
+        },
+        {
+          "id": "d",
+          "label": "5 rows, 5 columns",
+          "correct": false,
+          "explanation": "Count the addends: 5 + 5 + 5 + 5 has 4 addends, meaning 4 rows. Each row has 5, so 5 columns."
+        }
+      ],
+      "explanation_md": "5 + 5 + 5 + 5 has 4 addends (4 rows), each equal to 5 (5 columns)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "An array has 3 rows and 5 columns. What is the total?",
+      "correct_answer": "15",
+      "explanation_md": "3 rows of 5: 5 + 5 + 5 = 15."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Chairs in an auditorium are set up in 4 rows with 5 chairs in each row. Which shows the total number of chairs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4 + 5 = 9",
+          "correct": false,
+          "explanation": "Adding rows and chairs per row gives the wrong answer. You need 4 groups of 5: 5 + 5 + 5 + 5 = 20."
+        },
+        {
+          "id": "b",
+          "label": "5 + 5 + 5 = 15",
+          "correct": false,
+          "explanation": "This only counts 3 rows. There are 4 rows. The equation should be 5 + 5 + 5 + 5 = 20."
+        },
+        {
+          "id": "c",
+          "label": "5 + 5 + 5 + 5 = 20",
+          "correct": true,
+          "explanation": "Correct! 4 rows with 5 chairs each: 5 + 5 + 5 + 5 = 20."
+        },
+        {
+          "id": "d",
+          "label": "4 + 4 + 4 + 4 + 4 = 20",
+          "correct": false,
+          "explanation": "This would be 5 rows of 4, not 4 rows of 5. Since there are 4 rows of 5, write 5 + 5 + 5 + 5 = 20."
+        }
+      ],
+      "explanation_md": "4 rows of 5 chairs: 5 + 5 + 5 + 5 = 20."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "An array has 5 rows with 2 objects in each row. What is the total number of objects?",
+      "correct_answer": "10",
+      "explanation_md": "5 rows of 2: 2 + 2 + 2 + 2 + 2 = 10."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Lisa arranged 12 stickers in an array. She used equal rows with 4 stickers in each row. How many rows did she make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2 rows",
+          "correct": false,
+          "explanation": "2 rows of 4 = 8, not 12. You need more rows. 4 + 4 + 4 = 12, so 3 rows."
+        },
+        {
+          "id": "b",
+          "label": "3 rows",
+          "correct": true,
+          "explanation": "Correct! 4 + 4 + 4 = 12. Lisa made 3 rows of 4."
+        },
+        {
+          "id": "c",
+          "label": "4 rows",
+          "correct": false,
+          "explanation": "4 rows of 4 = 16, not 12. 4 + 4 + 4 = 12, so 3 rows."
+        },
+        {
+          "id": "d",
+          "label": "5 rows",
+          "correct": false,
+          "explanation": "5 rows of 4 = 20, not 12. 4 + 4 + 4 = 12, so 3 rows."
+        }
+      ],
+      "explanation_md": "4 + 4 + 4 = 12, so Lisa made 3 rows."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "An array has a total of 20 objects. Each row has 5 objects. If you write an addition equation for this array, how many addends does it have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3",
+          "correct": false,
+          "explanation": "3 rows of 5 = 15, not 20. 20 divided into groups of 5: 5 + 5 + 5 + 5 = 20. That is 4 addends."
+        },
+        {
+          "id": "b",
+          "label": "4",
+          "correct": true,
+          "explanation": "Correct! 5 + 5 + 5 + 5 = 20. There are 4 addends, which means 4 rows."
+        },
+        {
+          "id": "c",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 rows of 5 = 25, not 20. You need 4 rows of 5: 5 + 5 + 5 + 5 = 20."
+        },
+        {
+          "id": "d",
+          "label": "20",
+          "correct": false,
+          "explanation": "20 is the total. The number of addends equals the number of rows. 5 + 5 + 5 + 5 = 20, so 4 addends."
+        }
+      ],
+      "explanation_md": "5 + 5 + 5 + 5 = 20. There are 4 addends, one for each row."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A bookshelf has 4 rows of books with 3 books in each row. Which equation gives the total number of books?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "4 + 3 = 7",
+          "correct": false,
+          "explanation": "Adding rows and columns gives the wrong answer. You need four 3s added together: 3 + 3 + 3 + 3 = 12."
+        },
+        {
+          "id": "b",
+          "label": "3 + 3 + 3 = 9",
+          "correct": false,
+          "explanation": "This only accounts for 3 rows. There are 4 rows. Write 3 + 3 + 3 + 3 = 12."
+        },
+        {
+          "id": "c",
+          "label": "3 + 3 + 3 + 3 = 12",
+          "correct": true,
+          "explanation": "Correct! 4 rows of 3 books: 3 + 3 + 3 + 3 = 12."
+        },
+        {
+          "id": "d",
+          "label": "4 + 4 + 4 = 12",
+          "correct": false,
+          "explanation": "This would be 3 rows of 4. But there are 4 rows with 3 each: 3 + 3 + 3 + 3 = 12."
+        }
+      ],
+      "explanation_md": "4 rows of 3 books: 3 + 3 + 3 + 3 = 12."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "An array has 2 rows with 5 objects in each row. What is the total?",
+      "correct_answer": "10",
+      "explanation_md": "2 rows of 5: 5 + 5 = 10."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Carlos arranged 15 tiles in an array with 5 tiles in each row. How many rows did he make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2",
+          "correct": false,
+          "explanation": "2 rows of 5 = 10, not 15. 5 + 5 + 5 = 15, so 3 rows."
+        },
+        {
+          "id": "b",
+          "label": "3",
+          "correct": true,
+          "explanation": "Correct! 5 + 5 + 5 = 15, so Carlos made 3 rows."
+        },
+        {
+          "id": "c",
+          "label": "4",
+          "correct": false,
+          "explanation": "4 rows of 5 = 20, not 15. Carlos made 3 rows: 5 + 5 + 5 = 15."
+        },
+        {
+          "id": "d",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 rows of 5 = 25, not 15. Carlos made 3 rows: 5 + 5 + 5 = 15."
+        }
+      ],
+      "explanation_md": "5 + 5 + 5 = 15. Carlos made 3 rows."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "An array has 2 rows of 2. Which picture matches?\n\nA: oo / oo\nB: oooo\nC: o / o / o / o\nD: ooo / ooo",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A: oo / oo",
+          "correct": true,
+          "explanation": "Correct! 2 rows of 2 looks like two rows, each with 2 objects."
+        },
+        {
+          "id": "b",
+          "label": "B: oooo",
+          "correct": false,
+          "explanation": "This is 1 row of 4, not 2 rows of 2."
+        },
+        {
+          "id": "c",
+          "label": "C: o / o / o / o",
+          "correct": false,
+          "explanation": "This is 4 rows of 1, not 2 rows of 2."
+        },
+        {
+          "id": "d",
+          "label": "D: ooo / ooo",
+          "correct": false,
+          "explanation": "This is 2 rows of 3, not 2 rows of 2."
+        }
+      ],
+      "explanation_md": "2 rows of 2 has 2 rows, each with 2 objects."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "An array has 2 rows with 2 objects in each row. Write the total number of objects.",
+      "correct_answer": "4",
+      "explanation_md": "2 rows of 2: 2 + 2 = 4."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An array has 3 rows of 3. Which equation matches?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3 + 3 = 6",
+          "correct": false,
+          "explanation": "This only adds 2 rows. For 3 rows of 3, you need 3 + 3 + 3 = 9."
+        },
+        {
+          "id": "b",
+          "label": "3 + 3 + 3 = 9",
+          "correct": true,
+          "explanation": "Correct! 3 rows of 3: 3 + 3 + 3 = 9."
+        },
+        {
+          "id": "c",
+          "label": "3 + 3 + 3 + 3 = 12",
+          "correct": false,
+          "explanation": "This has 4 addends, meaning 4 rows. For 3 rows of 3, write 3 + 3 + 3 = 9."
+        },
+        {
+          "id": "d",
+          "label": "9 + 9 + 9 = 27",
+          "correct": false,
+          "explanation": "The addend should be 3 (objects per row), not 9. 3 + 3 + 3 = 9."
+        }
+      ],
+      "explanation_md": "3 rows of 3: 3 + 3 + 3 = 9."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "An array has 2 rows with 4 in each row. Write the total.",
+      "correct_answer": "8",
+      "explanation_md": "2 rows of 4: 4 + 4 = 8."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A box of chocolates has 2 rows with 5 chocolates in each row. How many chocolates are there in all?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "7",
+          "correct": false,
+          "explanation": "You added 2 and 5. Instead, add 5 two times: 5 + 5 = 10."
+        },
+        {
+          "id": "b",
+          "label": "10",
+          "correct": true,
+          "explanation": "Correct! 2 rows of 5: 5 + 5 = 10."
+        },
+        {
+          "id": "c",
+          "label": "12",
+          "correct": false,
+          "explanation": "Not quite. 5 + 5 = 10, not 12."
+        },
+        {
+          "id": "d",
+          "label": "15",
+          "correct": false,
+          "explanation": "That would be 3 rows of 5. There are only 2 rows: 5 + 5 = 10."
+        }
+      ],
+      "explanation_md": "2 rows of 5: 5 + 5 = 10."
+    }
+  ]
+}
