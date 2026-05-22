@@ -1,0 +1,651 @@
+{
+  "skill_id": "NC.2.G.1",
+  "benchmark_description": "Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces. Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.",
+  "course": "math",
+  "strand": "Geometry",
+  "lesson": {
+    "objective": "Students will identify and draw triangles, quadrilaterals, pentagons, hexagons, and cubes by counting sides, angles, and faces.",
+    "vocabulary": [
+      "triangle",
+      "quadrilateral",
+      "pentagon",
+      "hexagon",
+      "cube",
+      "sides",
+      "angles",
+      "faces",
+      "vertices"
+    ],
+    "introduction": "Shapes have special features we can count. Flat (2D) shapes have sides and angles (corners). A triangle has 3 sides and 3 angles. A quadrilateral has 4 sides and 4 angles \u2014 squares and rectangles are quadrilaterals. A pentagon has 5 sides. A hexagon has 6 sides. A cube is a 3D shape with 6 square faces. To identify a shape, count its sides or faces.",
+    "examples": [
+      {
+        "problem": "A shape has 5 sides and 5 corners. What is it?",
+        "solution": "A pentagon. A pentagon always has exactly 5 sides and 5 angles.",
+        "explanation": "Count the sides: 5 sides = pentagon. The number of angles always equals the number of sides in a flat shape."
+      },
+      {
+        "problem": "How many square faces does a cube have?",
+        "solution": "A cube has 6 square faces (top, bottom, front, back, left, right).",
+        "explanation": "A cube is a 3D box shape where all faces are equal squares. Count all the flat surfaces: there are 6."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "id": "NC.2.G.1_pq1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "How many sides does a triangle have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6",
+          "correct": false
+        }
+      ],
+      "explanation": "A triangle has exactly 3 sides. The word 'tri' means three.",
+      "wrong_answer_explanations": {
+        "B": "4 sides makes a quadrilateral, not a triangle. A triangle has 3 sides.",
+        "C": "5 sides makes a pentagon. A triangle has only 3 sides.",
+        "D": "6 sides makes a hexagon. A triangle has only 3 sides."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A square is a type of which shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quadrilateral",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hexagon",
+          "correct": false
+        }
+      ],
+      "explanation": "A square has 4 sides and 4 angles, so it is a quadrilateral. Quadrilateral means '4 sides.'",
+      "wrong_answer_explanations": {
+        "B": "A triangle has only 3 sides. A square has 4 sides, making it a quadrilateral.",
+        "C": "A pentagon has 5 sides. A square has 4 sides, making it a quadrilateral.",
+        "D": "A hexagon has 6 sides. A square has 4 sides, making it a quadrilateral."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq3",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "How many sides does a hexagon have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "A hexagon has exactly 6 sides. The prefix 'hex' means six.",
+      "wrong_answer_explanations": {
+        "B": "5 sides makes a pentagon. A hexagon has 6 sides.",
+        "C": "4 sides makes a quadrilateral. A hexagon has 6 sides.",
+        "D": "8 sides makes an octagon. A hexagon has 6 sides."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A shape has 5 angles. What is the name of this shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hexagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Quadrilateral",
+          "correct": false
+        }
+      ],
+      "explanation": "A shape with 5 angles also has 5 sides. A shape with 5 sides is called a pentagon.",
+      "wrong_answer_explanations": {
+        "B": "A hexagon has 6 angles, not 5. A shape with 5 angles is a pentagon.",
+        "C": "A triangle has only 3 angles. A shape with 5 angles is a pentagon.",
+        "D": "A quadrilateral has 4 angles. A shape with 5 angles is a pentagon."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A cube is a 3D shape. How many faces (flat surfaces) does a cube have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3",
+          "correct": false
+        }
+      ],
+      "explanation": "A cube has 6 square faces: top, bottom, front, back, left side, and right side.",
+      "wrong_answer_explanations": {
+        "B": "4 faces describes a shape with only 4 flat surfaces. A cube has 6 faces.",
+        "C": "8 is the number of corners (vertices) on a cube, not the number of faces. A cube has 6 faces.",
+        "D": "3 faces would be very few for a 3D shape. A cube has 6 equal square faces."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq6",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Which shape has 4 sides but is NOT a square?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rectangle",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hexagon",
+          "correct": false
+        }
+      ],
+      "explanation": "A rectangle has 4 sides and 4 right angles, making it a quadrilateral \u2014 but its sides are not all equal like a square's.",
+      "wrong_answer_explanations": {
+        "B": "A triangle has only 3 sides. The question asks for a shape with 4 sides.",
+        "C": "A pentagon has 5 sides. The question asks for a shape with 4 sides.",
+        "D": "A hexagon has 6 sides. The question asks for a shape with 4 sides."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Layla drew a closed shape with 6 sides and 6 angles. What shape did she draw?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quadrilateral",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Triangle",
+          "correct": false
+        }
+      ],
+      "explanation": "A closed shape with 6 sides and 6 angles is a hexagon.",
+      "wrong_answer_explanations": {
+        "B": "A pentagon has only 5 sides and 5 angles. Layla's shape has 6 of each, so it is a hexagon.",
+        "C": "A quadrilateral has only 4 sides and 4 angles. Layla's shape has 6, so it is a hexagon.",
+        "D": "A triangle has only 3 sides and 3 angles. Layla's shape has 6, so it is a hexagon."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Marcus has a shape with 4 sides of equal length and 4 right angles. What is this shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Square",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hexagon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pentagon",
+          "correct": false
+        }
+      ],
+      "explanation": "A shape with 4 equal sides and 4 right angles is a square. It is also a type of quadrilateral.",
+      "wrong_answer_explanations": {
+        "B": "A triangle has only 3 sides. Marcus's shape has 4 sides.",
+        "C": "A hexagon has 6 sides. Marcus's shape has 4 equal sides.",
+        "D": "A pentagon has 5 sides. Marcus's shape has 4 equal sides with right angles \u2014 a square."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Which of these is TRUE about a cube?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All 6 faces are squares",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It has only 4 faces",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is a flat (2D) shape",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It has 5 sides",
+          "correct": false
+        }
+      ],
+      "explanation": "A cube has 6 faces and every face is a square of equal size. It is a 3D solid, not flat.",
+      "wrong_answer_explanations": {
+        "B": "A cube has 6 faces, not 4. Think of a number cube or a box.",
+        "C": "A cube is a 3D (three-dimensional) solid shape, not a flat 2D shape.",
+        "D": "A cube does not have 'sides' the way a flat shape does. It has 6 square faces."
+      }
+    },
+    {
+      "id": "NC.2.G.1_pq10",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "question": "Zoe drew two shapes. Shape A has 3 sides. Shape B has 2 more sides than Shape A. What is Shape B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Quadrilateral",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hexagon",
+          "correct": false
+        }
+      ],
+      "explanation": "Shape A has 3 sides. Shape B has 3 + 2 = 5 sides. A shape with 5 sides is a pentagon.",
+      "wrong_answer_explanations": {
+        "B": "A quadrilateral has 4 sides. Shape B has 3 + 2 = 5 sides, making it a pentagon.",
+        "C": "A triangle has 3 sides \u2014 the same as Shape A, not 2 more. Shape B has 5 sides.",
+        "D": "A hexagon has 6 sides. Shape B has 3 + 2 = 5 sides, which is a pentagon."
+      }
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "NC.2.G.1_mc1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A shape has 4 sides and 4 angles. What type of shape is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quadrilateral",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hexagon",
+          "correct": false
+        }
+      ],
+      "explanation": "Any shape with 4 sides and 4 angles is a quadrilateral. Squares and rectangles are examples.",
+      "wrong_answer_explanations": {
+        "B": "A pentagon has 5 sides and 5 angles. This shape has 4, making it a quadrilateral.",
+        "C": "A triangle has only 3 sides. This shape has 4 sides \u2014 a quadrilateral.",
+        "D": "A hexagon has 6 sides. This shape has 4 sides \u2014 a quadrilateral."
+      }
+    },
+    {
+      "id": "NC.2.G.1_mc2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Which shape has MORE sides than a pentagon but FEWER sides than a hexagon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "There is no such shape \u2014 pentagon has 5 and hexagon has 6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Square",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Octagon",
+          "correct": false
+        }
+      ],
+      "explanation": "A pentagon has 5 sides and a hexagon has 6 sides. There is no whole-number count between 5 and 6, so no such standard shape exists.",
+      "wrong_answer_explanations": {
+        "B": "A square has 4 sides, which is fewer than a pentagon's 5, not between 5 and 6.",
+        "C": "A triangle has only 3 sides, which is fewer than a pentagon's 5.",
+        "D": "An octagon has 8 sides, which is MORE than a hexagon's 6, not between 5 and 6."
+      }
+    },
+    {
+      "id": "NC.2.G.1_mc3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A stop sign has 8 sides. Is a stop sign a hexagon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because a hexagon has 6 sides and a stop sign has 8",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Yes, because it has more than 5 sides",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Yes, because it is a regular polygon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No, because it is red",
+          "correct": false
+        }
+      ],
+      "explanation": "A hexagon has exactly 6 sides. A stop sign has 8 sides, making it an octagon, not a hexagon.",
+      "wrong_answer_explanations": {
+        "B": "Having more than 5 sides does not make a shape a hexagon. A hexagon has exactly 6 sides.",
+        "C": "Being a regular polygon means all sides are equal, but that does not make it a hexagon. The number of sides must be exactly 6.",
+        "D": "The color of a shape does not determine what type of polygon it is. A hexagon is defined by having 6 sides."
+      }
+    }
+  ],
+  "remediation": [
+    {
+      "id": "NC.2.G.1_rem1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Count the sides: triangle = ? sides.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "correct": false
+        }
+      ],
+      "explanation": "A triangle always has 3 sides. The prefix 'tri' means three.",
+      "wrong_answer_explanations": {
+        "B": "4 sides is a quadrilateral. A triangle has 3 sides.",
+        "C": "6 sides is a hexagon. A triangle has only 3 sides.",
+        "D": "A shape cannot be a triangle with only 2 sides. Triangles have 3 sides."
+      }
+    },
+    {
+      "id": "NC.2.G.1_rem2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Which shape has exactly 6 sides?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Quadrilateral",
+          "correct": false
+        }
+      ],
+      "explanation": "A hexagon has exactly 6 sides. 'Hex' means six.",
+      "wrong_answer_explanations": {
+        "B": "A pentagon has 5 sides, not 6. A hexagon has 6 sides.",
+        "C": "A triangle has only 3 sides. A hexagon has 6 sides.",
+        "D": "A quadrilateral has 4 sides. A hexagon has 6 sides."
+      }
+    },
+    {
+      "id": "NC.2.G.1_rem3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A rectangle has 4 sides and 4 corners. What kind of shape is a rectangle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quadrilateral",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pentagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hexagon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Triangle",
+          "correct": false
+        }
+      ],
+      "explanation": "Any shape with 4 sides is called a quadrilateral. A rectangle has 4 sides, so it is a quadrilateral.",
+      "wrong_answer_explanations": {
+        "B": "A pentagon has 5 sides. A rectangle has 4 sides \u2014 a quadrilateral.",
+        "C": "A hexagon has 6 sides. A rectangle has 4 sides \u2014 a quadrilateral.",
+        "D": "A triangle has 3 sides. A rectangle has 4 sides \u2014 a quadrilateral."
+      }
+    },
+    {
+      "id": "NC.2.G.1_rem4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Which shape has 5 sides?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hexagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quadrilateral",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Triangle",
+          "correct": false
+        }
+      ],
+      "explanation": "A pentagon has exactly 5 sides. The prefix 'penta' means five.",
+      "wrong_answer_explanations": {
+        "B": "A hexagon has 6 sides. The shape with 5 sides is a pentagon.",
+        "C": "A quadrilateral has 4 sides. The shape with 5 sides is a pentagon.",
+        "D": "A triangle has 3 sides. The shape with 5 sides is a pentagon."
+      }
+    },
+    {
+      "id": "NC.2.G.1_rem5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A cube has equal square faces. How many faces does a cube have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "A cube has 6 equal square faces: top, bottom, front, back, left, and right.",
+      "wrong_answer_explanations": {
+        "B": "4 is not the right count for a cube. Think of a dice \u2014 it has 6 faces.",
+        "C": "5 faces would be a different 3D shape. A cube has 6 faces.",
+        "D": "8 is the number of corners (vertices) on a cube, not the number of faces. A cube has 6 faces."
+      }
+    }
+  ]
+}
