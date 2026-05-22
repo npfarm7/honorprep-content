@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.RI.KID.1",
+  "benchmark_description": "Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in an informational text.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "Finding Key Details in Informational Text",
+    "intro": "When you read books about real things -- like animals, science, or history -- you can use question words to find the most important details. These six questions are like a key that unlocks any nonfiction text!",
+    "body_md": "## Informational Text vs. Literary Text\n\n**Informational text** (also called nonfiction) gives you facts about real things. Examples:\n- A book about dolphins\n- An article about the water cycle\n- A chapter about George Washington\n\n**Literary text** tells a fictional story. Informational text tells you facts.\n\n## The Six Key Questions\n\n| Question | What It Finds in Informational Text |\n|----------|-------------------------------------|\n| **Who** | A person, animal, or group being described |\n| **What** | A fact, event, or thing being explained |\n| **Where** | A location -- where something lives or happens |\n| **When** | A time -- when something happened |\n| **Why** | A reason or cause |\n| **How** | A process or method |\n\n## Using Questions with Informational Text\n\nRead this example:\n\n> *Penguins live in Antarctica and other cold places. They cannot fly, but they are excellent swimmers. Penguins use their wings like flippers to push through the water. They eat fish, squid, and krill.*\n\n- **Who/What**: penguins\n- **Where**: Antarctica and other cold places\n- **What do they eat?**: fish, squid, and krill\n- **How** do they swim?: They use their wings like flippers.\n- **Why** can't they fly?: The text does not say -- that would need more research!\n\n## When the Answer Is Not Directly Stated\n\nSometimes you must use what the text says to figure out an answer.\n\n> *The desert gets very little rain. The cactus stores water in its thick stem.*\n\n- **Why** does the cactus store water? The text says the desert gets little rain, so the cactus stores water to survive without regular rain. The reason is implied.\n\n## Tips for Answering Questions About Informational Text\n\n1. Re-read the passage if you are not sure.\n2. Look for the question words in the text (who, when, where).\n3. If the answer is not stated directly, use the facts given to figure it out.",
+    "worked_example_md": "## Worked Example\n\n**Read this informational passage:**\n\n*Monarch butterflies travel thousands of miles every year. In the fall, they fly south from Canada and the United States to warmer forests in Mexico. They travel together in large groups. In the spring, they fly back north. Scientists are not sure exactly how monarchs know which way to go.*\n\n**Question 1:** Where do monarch butterflies go in the fall?\n\nStep 1 -- This is a *where* question.\nStep 2 -- Find the location in the text: 'they fly south...to warmer forests in Mexico.'\n**Answer:** They fly to warmer forests in Mexico.\n\n**Question 2:** How do they travel?\n\nStep 1 -- This is a *how* question.\nStep 2 -- Find the method: 'They travel together in large groups.'\n**Answer:** They travel together in large groups.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Sea turtles lay their eggs on sandy beaches. The mother digs a hole, lays her eggs, and covers them with sand. After about two months, the baby turtles hatch and crawl toward the ocean.*\n\nWhere do sea turtles lay their eggs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "On sandy beaches",
+          "correct": true,
+          "explanation": "Right! The text says sea turtles lay their eggs on sandy beaches."
+        },
+        {
+          "id": "b",
+          "label": "In the ocean",
+          "correct": false,
+          "explanation": "Sea turtles swim in the ocean but lay their eggs on sandy beaches."
+        },
+        {
+          "id": "c",
+          "label": "In trees",
+          "correct": false,
+          "explanation": "Sea turtles lay their eggs in sand on beaches, not in trees."
+        },
+        {
+          "id": "d",
+          "label": "In rivers",
+          "correct": false,
+          "explanation": "Sea turtles lay their eggs on sandy beaches, not in rivers."
+        }
+      ],
+      "explanation_md": "The text says sea turtles lay their eggs on sandy beaches -- that answers the where question."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Sea turtles lay their eggs on sandy beaches. The mother digs a hole, lays her eggs, and covers them with sand. After about two months, the baby turtles hatch and crawl toward the ocean.*\n\nHow long does it take for the eggs to hatch?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "About two months",
+          "correct": true,
+          "explanation": "Right! The text says 'after about two months, the baby turtles hatch.' That answers the how long (how) question."
+        },
+        {
+          "id": "b",
+          "label": "One week",
+          "correct": false,
+          "explanation": "The text says about two months, not one week."
+        },
+        {
+          "id": "c",
+          "label": "One year",
+          "correct": false,
+          "explanation": "The text says about two months, not one year."
+        },
+        {
+          "id": "d",
+          "label": "One day",
+          "correct": false,
+          "explanation": "The text says about two months, not one day."
+        }
+      ],
+      "explanation_md": "The text says after about two months the baby turtles hatch -- that answers the how long question."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*George Washington was the first president of the United States. He served as president from 1789 to 1797. Washington was known for his honesty and leadership.*\n\nWhen did George Washington serve as president?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "From 1789 to 1797",
+          "correct": true,
+          "explanation": "Right! The text says Washington served as president from 1789 to 1797. That answers the when question."
+        },
+        {
+          "id": "b",
+          "label": "From 1776 to 1780",
+          "correct": false,
+          "explanation": "Those are not the dates given. The text says 1789 to 1797."
+        },
+        {
+          "id": "c",
+          "label": "From 1800 to 1808",
+          "correct": false,
+          "explanation": "Those are not the dates given. The text says 1789 to 1797."
+        },
+        {
+          "id": "d",
+          "label": "The text does not say when",
+          "correct": false,
+          "explanation": "The text clearly states Washington served from 1789 to 1797."
+        }
+      ],
+      "explanation_md": "The text says Washington served as president from 1789 to 1797 -- the when answer."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Bats are nocturnal, which means they sleep during the day and are active at night. They use a special skill called echolocation to find food in the dark. Bats send out sounds that bounce off objects and return to the bat's ears, telling the bat where things are.*\n\nHow do bats find food in the dark?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They use echolocation -- sending out sounds that bounce back to their ears",
+          "correct": true,
+          "explanation": "Right! The text explains that bats use echolocation -- they send out sounds that bounce off objects and return to their ears."
+        },
+        {
+          "id": "b",
+          "label": "They use their eyes to see in the dark",
+          "correct": false,
+          "explanation": "The text says bats use echolocation, not their eyes, to find food in the dark."
+        },
+        {
+          "id": "c",
+          "label": "They smell their food from far away",
+          "correct": false,
+          "explanation": "The text describes echolocation (sound-based), not smell, as the method bats use."
+        },
+        {
+          "id": "d",
+          "label": "They follow other bats that already found food",
+          "correct": false,
+          "explanation": "The text says bats use echolocation to find food -- it does not say they follow other bats."
+        }
+      ],
+      "explanation_md": "Bats use echolocation -- sending out sounds that bounce back to their ears -- to find food in the dark."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Bats are nocturnal, which means they sleep during the day and are active at night. They use a special skill called echolocation to find food in the dark. Bats send out sounds that bounce off objects and return to the bat's ears, telling the bat where things are.*\n\nWhy do bats need echolocation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because they are active at night when it is dark and hard to see",
+          "correct": true,
+          "explanation": "Right! Bats are nocturnal (active at night). In the dark, they cannot rely on sight, so echolocation helps them navigate."
+        },
+        {
+          "id": "b",
+          "label": "Because they do not have any ears",
+          "correct": false,
+          "explanation": "Bats do have ears -- echolocation returns to their ears. They need it because of the darkness."
+        },
+        {
+          "id": "c",
+          "label": "Because they are afraid of other bats",
+          "correct": false,
+          "explanation": "The text does not mention fear of other bats. Bats need echolocation to navigate and find food in the dark."
+        },
+        {
+          "id": "d",
+          "label": "Because they live underwater",
+          "correct": false,
+          "explanation": "Bats do not live underwater. They fly at night and use echolocation to navigate in the dark."
+        }
+      ],
+      "explanation_md": "Bats are nocturnal (active at night), so they need echolocation to find food and navigate in the dark."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*The water cycle is the path water takes on Earth. Water evaporates from oceans and lakes, rises into the sky, forms clouds, and then falls back to Earth as rain or snow.*\n\nWhat is the water cycle?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The path water takes on Earth -- evaporating, forming clouds, and falling as rain or snow",
+          "correct": true,
+          "explanation": "Right! The text defines the water cycle as the path water takes, and then describes the steps."
+        },
+        {
+          "id": "b",
+          "label": "A machine that cleans water",
+          "correct": false,
+          "explanation": "The water cycle is a natural process, not a machine. It describes how water moves through nature."
+        },
+        {
+          "id": "c",
+          "label": "A storm that brings floods",
+          "correct": false,
+          "explanation": "The water cycle includes rain but is not the same as a flood. It is the whole path water takes on Earth."
+        },
+        {
+          "id": "d",
+          "label": "The type of water found in oceans only",
+          "correct": false,
+          "explanation": "The water cycle involves oceans AND lakes AND clouds AND rain. It is the full path water takes."
+        }
+      ],
+      "explanation_md": "The text defines the water cycle as the path water takes on Earth -- evaporating, forming clouds, and falling back as rain or snow."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Rosa Parks was an African American woman who helped change history. In 1955, she refused to give up her seat on a bus in Montgomery, Alabama. Her brave action helped start the civil rights movement.*\n\nWhere did Rosa Parks refuse to give up her seat?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "On a bus in Montgomery, Alabama",
+          "correct": true,
+          "explanation": "Right! The text says she refused to give up her seat on a bus in Montgomery, Alabama -- the where answer."
+        },
+        {
+          "id": "b",
+          "label": "In a restaurant",
+          "correct": false,
+          "explanation": "The text says the event happened on a bus, not in a restaurant."
+        },
+        {
+          "id": "c",
+          "label": "At a school in Atlanta",
+          "correct": false,
+          "explanation": "The text says the event happened on a bus in Montgomery, Alabama, not at a school in Atlanta."
+        },
+        {
+          "id": "d",
+          "label": "In Washington, D.C.",
+          "correct": false,
+          "explanation": "The text says the event happened in Montgomery, Alabama, not Washington, D.C."
+        }
+      ],
+      "explanation_md": "The text says Rosa Parks refused to give up her seat on a bus in Montgomery, Alabama."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Rosa Parks was an African American woman who helped change history. In 1955, she refused to give up her seat on a bus in Montgomery, Alabama. Her brave action helped start the civil rights movement.*\n\nWhy is Rosa Parks important?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Her brave action helped start the civil rights movement",
+          "correct": true,
+          "explanation": "Right! The text says her brave action helped start the civil rights movement -- that is why she is important."
+        },
+        {
+          "id": "b",
+          "label": "She was the first woman to drive a bus",
+          "correct": false,
+          "explanation": "The text does not say she drove a bus. She was a passenger who refused to give up her seat."
+        },
+        {
+          "id": "c",
+          "label": "She invented a new law about buses",
+          "correct": false,
+          "explanation": "The text does not say she invented a law. Her action helped start a movement for civil rights."
+        },
+        {
+          "id": "d",
+          "label": "She was a famous singer",
+          "correct": false,
+          "explanation": "The text does not say anything about singing. Rosa Parks was important for her brave stand on a bus."
+        }
+      ],
+      "explanation_md": "The text says her brave action helped start the civil rights movement -- that is her historical importance."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Rainforests get more than 80 inches of rain each year. They are home to more than half of all the plant and animal species on Earth. Rainforests also help clean the air by absorbing carbon dioxide.*\n\nWhy are rainforests important? Use details from the text.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They are home to half of Earth's species AND they clean the air",
+          "correct": true,
+          "explanation": "Right! The text gives two reasons: rainforests house half of Earth's species and they clean the air by absorbing carbon dioxide."
+        },
+        {
+          "id": "b",
+          "label": "They are important only because they get a lot of rain",
+          "correct": false,
+          "explanation": "The text mentions a lot of rain, but the importance of rainforests comes from the species they house and the air-cleaning role."
+        },
+        {
+          "id": "c",
+          "label": "They are important because they are hot",
+          "correct": false,
+          "explanation": "The text does not mention temperature. The importance is about species diversity and air quality."
+        },
+        {
+          "id": "d",
+          "label": "The text does not say why rainforests are important",
+          "correct": false,
+          "explanation": "The text gives two clear reasons: home to half of Earth's species, and they clean the air by absorbing carbon dioxide."
+        }
+      ],
+      "explanation_md": "The text gives two reasons rainforests are important: they house half of Earth's species and they clean the air by absorbing carbon dioxide."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*The sun is a star at the center of our solar system. It is so large that about one million Earths could fit inside it. The sun provides the light and heat that make life on Earth possible.*\n\nWhy is the sun important for Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It provides the light and heat that make life on Earth possible",
+          "correct": true,
+          "explanation": "Right! The text says the sun provides light and heat that make life on Earth possible -- that is the why answer."
+        },
+        {
+          "id": "b",
+          "label": "It is important only because it is very large",
+          "correct": false,
+          "explanation": "The text mentions its size but says it is important for providing light and heat that make life possible."
+        },
+        {
+          "id": "c",
+          "label": "It is at the center of Earth",
+          "correct": false,
+          "explanation": "The text says the sun is at the center of our solar system, not at the center of Earth."
+        },
+        {
+          "id": "d",
+          "label": "The text does not explain why the sun is important",
+          "correct": false,
+          "explanation": "The text clearly states the sun provides light and heat that make life on Earth possible."
+        }
+      ],
+      "explanation_md": "The text says the sun provides light and heat that make life on Earth possible -- that is why it is important."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Honeybees live in large groups called colonies. A colony can have up to 60,000 bees. The queen bee lays all the eggs. Worker bees collect nectar from flowers and bring it back to the hive to make honey.*\n\nWhat is a colony?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A large group of bees",
+          "correct": true,
+          "explanation": "Right! The text says bees live in large groups called colonies -- that defines colony."
+        },
+        {
+          "id": "b",
+          "label": "A type of flower",
+          "correct": false,
+          "explanation": "A colony is a large group of bees. Flowers are where bees get nectar."
+        },
+        {
+          "id": "c",
+          "label": "The queen bee's name",
+          "correct": false,
+          "explanation": "A colony is a large group of bees, not a name. The queen bee is just called 'queen bee.'"
+        },
+        {
+          "id": "d",
+          "label": "A type of honey",
+          "correct": false,
+          "explanation": "A colony is a large group of bees. Honey is made by worker bees from nectar."
+        }
+      ],
+      "explanation_md": "The text says bees live in large groups called colonies -- that is what colony means."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Honeybees live in large groups called colonies. A colony can have up to 60,000 bees. The queen bee lays all the eggs. Worker bees collect nectar from flowers and bring it back to the hive to make honey.*\n\nHow do worker bees make honey?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They collect nectar from flowers and bring it back to the hive",
+          "correct": true,
+          "explanation": "Right! The text says worker bees collect nectar from flowers and bring it back to the hive to make honey."
+        },
+        {
+          "id": "b",
+          "label": "They lay eggs and then make honey",
+          "correct": false,
+          "explanation": "The queen bee lays all the eggs. Worker bees collect nectar to make honey."
+        },
+        {
+          "id": "c",
+          "label": "They buy honey from stores",
+          "correct": false,
+          "explanation": "Bees make honey from flower nectar -- they do not buy it."
+        },
+        {
+          "id": "d",
+          "label": "They find honey inside rocks",
+          "correct": false,
+          "explanation": "Worker bees make honey by collecting nectar from flowers and bringing it to the hive."
+        }
+      ],
+      "explanation_md": "Worker bees collect nectar from flowers and bring it back to the hive to make honey."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage:\n\n*Bamboo is one of the fastest-growing plants on Earth. Some kinds of bamboo can grow 35 inches in just one day. Giant pandas depend on bamboo -- they eat it for almost every meal. Without bamboo forests, giant pandas could not survive.*\n\nWhy would giant pandas be in danger if bamboo forests disappeared?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because bamboo is almost all they eat, and without it they could not survive",
+          "correct": true,
+          "explanation": "Right! The text says pandas depend on bamboo for almost every meal and could not survive without bamboo forests."
+        },
+        {
+          "id": "b",
+          "label": "Because bamboo is a comfortable place for pandas to sleep",
+          "correct": false,
+          "explanation": "The text does not say pandas sleep in bamboo. The issue is food -- bamboo is their main food source."
+        },
+        {
+          "id": "c",
+          "label": "Because bamboo protects pandas from rain",
+          "correct": false,
+          "explanation": "The text does not mention rain protection. The dependency is about food -- bamboo is pandas' main food."
+        },
+        {
+          "id": "d",
+          "label": "The text does not say why pandas need bamboo",
+          "correct": false,
+          "explanation": "The text clearly says pandas eat bamboo for almost every meal and could not survive without bamboo forests."
+        }
+      ],
+      "explanation_md": "The text says pandas eat bamboo for almost every meal and could not survive without bamboo forests -- bamboo is their essential food."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this: *Elephants are the largest land animals on Earth. They live in Africa and Asia.*\n\nWhere do elephants live?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In Africa and Asia",
+          "correct": true,
+          "explanation": "Right! The text says elephants live in Africa and Asia -- the where answer."
+        },
+        {
+          "id": "b",
+          "label": "Only in Africa",
+          "correct": false,
+          "explanation": "The text says elephants live in BOTH Africa AND Asia."
+        },
+        {
+          "id": "c",
+          "label": "In the ocean",
+          "correct": false,
+          "explanation": "Elephants are land animals. They live in Africa and Asia, not the ocean."
+        },
+        {
+          "id": "d",
+          "label": "Only in zoos",
+          "correct": false,
+          "explanation": "The text says elephants live in Africa and Asia -- in the wild. Some also live in zoos, but that is not what the text says."
+        }
+      ],
+      "explanation_md": "The text says elephants live in Africa and Asia -- that is the where answer."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this: *Elephants are the largest land animals on Earth. They live in Africa and Asia.*\n\nWhat does this passage tell you about elephants?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They are the largest land animals and they live in Africa and Asia",
+          "correct": true,
+          "explanation": "Right! The passage gives two facts: elephants are the largest land animals, and they live in Africa and Asia."
+        },
+        {
+          "id": "b",
+          "label": "They are the fastest land animals",
+          "correct": false,
+          "explanation": "The text says elephants are the LARGEST, not the fastest. Those are very different facts."
+        },
+        {
+          "id": "c",
+          "label": "They live only in Africa",
+          "correct": false,
+          "explanation": "The text says elephants live in BOTH Africa AND Asia."
+        },
+        {
+          "id": "d",
+          "label": "They eat only plants that grow in the ocean",
+          "correct": false,
+          "explanation": "The text does not say anything about what elephants eat. It only tells us their size and location."
+        }
+      ],
+      "explanation_md": "The text tells us two facts: elephants are the largest land animals, and they live in Africa and Asia."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which question word would you use to find OUT WHERE something happened?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Where",
+          "correct": true,
+          "explanation": "Right! Where asks about the place or location."
+        },
+        {
+          "id": "b",
+          "label": "Why",
+          "correct": false,
+          "explanation": "Why asks for a reason. Where asks about the place."
+        },
+        {
+          "id": "c",
+          "label": "Who",
+          "correct": false,
+          "explanation": "Who asks about a person or animal. Where asks about the place."
+        },
+        {
+          "id": "d",
+          "label": "When",
+          "correct": false,
+          "explanation": "When asks about the time. Where asks about the place."
+        }
+      ],
+      "explanation_md": "Where asks about the place or location -- it finds where something is or happened."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this: *Plants need sunlight, water, and soil to grow.*\n\nWhy do plants need sunlight?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The text does not give a reason, but sunlight is listed as something they need",
+          "correct": true,
+          "explanation": "Right! The text tells us plants need sunlight but does not explain WHY. We know it is a need, not the reason."
+        },
+        {
+          "id": "b",
+          "label": "To stay cool in the shade",
+          "correct": false,
+          "explanation": "This is not in the text. The text says plants NEED sunlight -- staying cool in shade is the opposite."
+        },
+        {
+          "id": "c",
+          "label": "To scare away bugs",
+          "correct": false,
+          "explanation": "The text does not say anything about bugs. Sunlight is listed as something plants need to grow."
+        },
+        {
+          "id": "d",
+          "label": "The text says plants do not need sunlight",
+          "correct": false,
+          "explanation": "The text clearly says plants NEED sunlight to grow."
+        }
+      ],
+      "explanation_md": "The text lists sunlight as something plants need to grow but does not explain why. Always use what the text actually says."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this: *In 1969, astronaut Neil Armstrong walked on the moon for the first time. He said it was 'one small step for man, one giant leap for mankind.'*\n\nWhen did Neil Armstrong walk on the moon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In 1969",
+          "correct": true,
+          "explanation": "Right! The text says 'in 1969' -- that answers the when question."
+        },
+        {
+          "id": "b",
+          "label": "In 1945",
+          "correct": false,
+          "explanation": "The text says 1969, not 1945."
+        },
+        {
+          "id": "c",
+          "label": "In 2000",
+          "correct": false,
+          "explanation": "The text says 1969, not 2000."
+        },
+        {
+          "id": "d",
+          "label": "The text does not say when",
+          "correct": false,
+          "explanation": "The text clearly says 'In 1969' -- that is the when answer."
+        }
+      ],
+      "explanation_md": "The text says 'in 1969' -- that answers the when question."
+    }
+  ]
+}
