@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.H.1.3",
+  "benchmark_description": "Explain how technology has changed community life over time.",
+  "course": "social_studies",
+  "strand": "H",
+  "lesson": {
+    "title": "How Technology Changed Our Community",
+    "intro": "Can you imagine life without phones, cars, or refrigerators? Long ago, communities had none of these things. Technology \u2014 tools and inventions \u2014 has changed the way people live, work, and get around!",
+    "body_md": "## What Is Technology?\n\n**Technology** is any tool or invention that people use to solve a problem or make life easier.\n\n## Technology Changes Transportation\n\nHow people travel is called **transportation**.\n\n| Long Ago | Today |\n|---|---|\n| People walked or rode horses | People drive cars, ride buses, and take trains |\n| Horse-drawn wagons delivered goods | Trucks and planes deliver packages |\n| Trips took days or weeks | Trips take hours or minutes |\n\n## Technology Changes Communication\n\n**Communication** is how people share information.\n\n| Long Ago | Today |\n|---|---|\n| Letters took weeks to arrive | Email arrives in seconds |\n| News spread by word of mouth | News is on TV and the internet instantly |\n| People used candles to read at night | Electric lights let people read anytime |\n\n## Technology Changes Work and Home Life\n\n- **Washing machines** replaced washing clothes by hand in rivers.\n- **Refrigerators** replaced iceboxes \u2014 people no longer needed ice deliveries.\n- **Tractors** replaced horses on farms, so fewer people could grow more food.\n- **Factories with machines** replaced workers making goods by hand.\n\n## How Technology Affects Communities\n\n- More people can live in one place because technology helps provide food, water, and services.\n- Jobs changed \u2014 some old jobs disappeared, new ones appeared.\n- Communities became connected \u2014 people in different towns and countries can now communicate quickly.\n\n**Key Words:**\n- **technology** \u2014 tools and inventions that solve problems or make life easier\n- **transportation** \u2014 ways people and goods travel from place to place\n- **communication** \u2014 ways people share information with each other",
+    "worked_example_md": "## Worked Example\n\n**Think about delivering mail in the 1800s vs. today.**\n\n**Long ago (1800s):**\n- A letter was written by hand with a quill pen.\n- A rider on horseback carried the mail.\n- A letter from North Carolina to New York could take 2 weeks to arrive.\n- People who lived far away rarely communicated.\n\n**Today:**\n- You type an email on a computer or phone.\n- The email is sent over the internet.\n- The email arrives in SECONDS \u2014 anywhere in the world.\n\n**Question:** How did technology change how people communicate?\n\n**Answer:** Technology changed communication by making it much faster. Long ago, messages took weeks by horseback. Today, emails arrive in seconds over the internet. This helps people in communities stay connected even when they are far apart.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is technology?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only computers and phones",
+          "correct": false,
+          "explanation": "Technology includes much more than computers and phones \u2014 any tool or invention that helps people solve problems is technology."
+        },
+        {
+          "id": "b",
+          "label": "Tools and inventions that make life easier or solve problems",
+          "correct": true,
+          "explanation": "Technology is any tool or invention used to solve problems or make life easier \u2014 from simple wheels to complex computers."
+        },
+        {
+          "id": "c",
+          "label": "Things that only children use",
+          "correct": false,
+          "explanation": "Technology is used by people of all ages and in all parts of life."
+        },
+        {
+          "id": "d",
+          "label": "Things that are always electronic",
+          "correct": false,
+          "explanation": "Technology does not have to be electronic \u2014 a wheel, a plow, and a printing press are all technologies."
+        }
+      ],
+      "explanation_md": "Technology is any tool or invention that helps people solve problems or make life easier. It includes simple tools and complex inventions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Before cars were invented, how did most people travel from town to town?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "By airplane",
+          "correct": false,
+          "explanation": "Airplanes were not invented before cars. People traveled by horse, wagon, or on foot."
+        },
+        {
+          "id": "b",
+          "label": "By horse or horse-drawn wagon",
+          "correct": true,
+          "explanation": "Before cars were invented, people traveled by horse or horse-drawn wagon. Trips that took days by horse now take hours by car."
+        },
+        {
+          "id": "c",
+          "label": "By subway train",
+          "correct": false,
+          "explanation": "Subway trains were not widely available before cars were invented."
+        },
+        {
+          "id": "d",
+          "label": "By electric scooter",
+          "correct": false,
+          "explanation": "Electric scooters are a modern technology \u2014 they did not exist before cars."
+        }
+      ],
+      "explanation_md": "Before cars were invented, most people traveled by horse or horse-drawn wagon. Cars replaced horses as a faster and more reliable form of transportation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which invention changed how families kept food cold at home?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The telephone",
+          "correct": false,
+          "explanation": "The telephone changed communication \u2014 it did not change how food was kept cold."
+        },
+        {
+          "id": "b",
+          "label": "The refrigerator",
+          "correct": true,
+          "explanation": "The refrigerator replaced the old icebox. Before refrigerators, families needed ice deliveries to keep food cold. Refrigerators made keeping food cold much easier."
+        },
+        {
+          "id": "c",
+          "label": "The car",
+          "correct": false,
+          "explanation": "The car changed transportation \u2014 not how food was kept cold at home."
+        },
+        {
+          "id": "d",
+          "label": "The printing press",
+          "correct": false,
+          "explanation": "The printing press changed how books and newspapers were made \u2014 not how food was stored."
+        }
+      ],
+      "explanation_md": "The refrigerator changed how families kept food cold. Before refrigerators, people used iceboxes that needed regular ice deliveries. The refrigerator made cold food storage simple and automatic."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago, when someone wanted to send a message to a friend far away, what did they do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sent a text message",
+          "correct": false,
+          "explanation": "Text messages use modern phone technology \u2014 they did not exist long ago."
+        },
+        {
+          "id": "b",
+          "label": "Wrote a letter that was delivered by riders on horseback",
+          "correct": true,
+          "explanation": "Before phones and internet, people wrote letters by hand and riders on horseback delivered them. This could take weeks."
+        },
+        {
+          "id": "c",
+          "label": "Used the internet to send an email",
+          "correct": false,
+          "explanation": "The internet is a modern invention \u2014 it did not exist long ago."
+        },
+        {
+          "id": "d",
+          "label": "Called on a video chat app",
+          "correct": false,
+          "explanation": "Video chat apps are very modern inventions \u2014 they did not exist long ago."
+        }
+      ],
+      "explanation_md": "Long ago, people sent messages by writing letters delivered by riders on horseback. This could take days or weeks. Today, technology like email delivers messages in seconds."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer long ago needed many helpers to plant and harvest crops. Today one farmer with a tractor can do the same work. What does this show about technology?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Technology made farming more dangerous",
+          "correct": false,
+          "explanation": "While farm safety is important, the main change shown here is efficiency \u2014 fewer workers can grow more food."
+        },
+        {
+          "id": "b",
+          "label": "Technology can let fewer people do the same work more quickly",
+          "correct": true,
+          "explanation": "A tractor lets one farmer do the work that many people once did by hand. This shows how technology makes work more efficient."
+        },
+        {
+          "id": "c",
+          "label": "Technology made crops less healthy",
+          "correct": false,
+          "explanation": "The question is about how many workers are needed, not about crop health."
+        },
+        {
+          "id": "d",
+          "label": "Technology is only useful in cities",
+          "correct": false,
+          "explanation": "Tractors and other farm technology show that technology is very useful in rural areas, not just cities."
+        }
+      ],
+      "explanation_md": "A tractor lets one farmer do the work that many people once did by hand. This shows that technology can make fewer workers more productive, changing how communities work."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement best describes how technology changed communication in communities?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Technology made communication slower and harder",
+          "correct": false,
+          "explanation": "Technology made communication faster and easier \u2014 not slower or harder."
+        },
+        {
+          "id": "b",
+          "label": "Technology allowed people to share information faster and across longer distances",
+          "correct": true,
+          "explanation": "Technology like the telephone, radio, and internet allowed people to communicate instantly across great distances, connecting communities that were once far apart."
+        },
+        {
+          "id": "c",
+          "label": "Technology replaced all human communication",
+          "correct": false,
+          "explanation": "Technology improved how people communicate \u2014 it did not replace human communication."
+        },
+        {
+          "id": "d",
+          "label": "Only people in cities could use communication technology",
+          "correct": false,
+          "explanation": "Communication technology spread to many parts of the country \u2014 not just cities."
+        }
+      ],
+      "explanation_md": "Technology allowed people to share information faster and across longer distances. From the telegraph to the internet, each new invention connected communities in faster and better ways."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Electric lights changed community life by \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Making streets and homes safer and more useful at night",
+          "correct": true,
+          "explanation": "Electric lights replaced candles and gas lamps, making homes and streets safer and brighter at night. People could read, work, and travel after dark more safely."
+        },
+        {
+          "id": "b",
+          "label": "Making the daytime darker",
+          "correct": false,
+          "explanation": "Electric lights do not affect daytime \u2014 they improved conditions at night."
+        },
+        {
+          "id": "c",
+          "label": "Replacing the sun as the main source of light",
+          "correct": false,
+          "explanation": "Electric lights are used at night or indoors \u2014 they did not replace the sun."
+        },
+        {
+          "id": "d",
+          "label": "Making people stay awake all night",
+          "correct": false,
+          "explanation": "Electric lights gave people the option to use light at night \u2014 they did not force people to stay awake."
+        }
+      ],
+      "explanation_md": "Electric lights replaced candles and gas lamps, making homes and streets safer and brighter at night. People could read, work, and move around after dark more safely."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "When factories began using machines to make goods, what happened to many workers who made goods by hand?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They all became factory managers",
+          "correct": false,
+          "explanation": "Not all hand workers became factory managers \u2014 many needed to find different kinds of work."
+        },
+        {
+          "id": "b",
+          "label": "Their jobs changed or disappeared as machines could do the work faster and cheaper",
+          "correct": true,
+          "explanation": "When machines could do hand-crafted work faster and cheaper, many artisans and craftspeople had to find new kinds of work. This is a common effect of new technology."
+        },
+        {
+          "id": "c",
+          "label": "They moved to farms",
+          "correct": false,
+          "explanation": "While some did, the broader pattern was that technology changed or eliminated certain jobs \u2014 not that everyone moved to farms."
+        },
+        {
+          "id": "d",
+          "label": "Nothing changed for them",
+          "correct": false,
+          "explanation": "The introduction of factory machines significantly changed work for many craftspeople and artisans."
+        }
+      ],
+      "explanation_md": "When machines could produce goods faster and cheaper, many people who made goods by hand had to find new kinds of work. Technology often changes or eliminates certain jobs while creating new ones."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How did better transportation technology help communities grow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It kept people in small, separate communities without connections",
+          "correct": false,
+          "explanation": "Better transportation did the opposite \u2014 it connected communities and allowed goods and people to move more easily."
+        },
+        {
+          "id": "b",
+          "label": "It allowed people and goods to travel farther and faster, connecting communities and helping them grow",
+          "correct": true,
+          "explanation": "Trains, cars, and highways allowed goods to move from farms to cities quickly, and people to travel farther for work. This connected communities and helped them grow."
+        },
+        {
+          "id": "c",
+          "label": "It made cities too crowded to live in",
+          "correct": false,
+          "explanation": "Better transportation actually helped manage city growth by allowing people to live farther from work and travel in."
+        },
+        {
+          "id": "d",
+          "label": "It reduced the need for roads",
+          "correct": false,
+          "explanation": "Better transportation technology actually increased the need for roads, bridges, and other infrastructure."
+        }
+      ],
+      "explanation_md": "Better transportation technology allowed people and goods to travel farther and faster, connecting communities and allowing them to grow by trading with each other."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student argues that technology always makes community life better. Which example BEST shows that technology can also cause problems for some community members?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cars made it easier to travel, and more people could visit family",
+          "correct": false,
+          "explanation": "This is an example of technology making life better \u2014 not causing problems."
+        },
+        {
+          "id": "b",
+          "label": "When tractors replaced farmworkers, many families who worked as farm laborers lost their jobs and income",
+          "correct": true,
+          "explanation": "Tractors made farming more efficient, but many farm laborers lost their jobs and income as a result. This shows that technology can bring challenges for some community members even as it helps others."
+        },
+        {
+          "id": "c",
+          "label": "Electric lights made it safer to walk at night",
+          "correct": false,
+          "explanation": "This is a benefit of technology \u2014 not an example of technology causing problems."
+        },
+        {
+          "id": "d",
+          "label": "Refrigerators kept food fresher longer",
+          "correct": false,
+          "explanation": "This is a benefit of technology \u2014 it helped families keep food from spoiling."
+        }
+      ],
+      "explanation_md": "When tractors replaced farmworkers, many families who depended on farm labor lost their jobs and income. Technology often brings new advantages but can also create challenges for some community members."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which invention changed transportation in communities by allowing people to travel faster without horses?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The refrigerator",
+          "correct": false,
+          "explanation": "The refrigerator changed how food was stored at home \u2014 not transportation."
+        },
+        {
+          "id": "b",
+          "label": "The washing machine",
+          "correct": false,
+          "explanation": "The washing machine changed how clothes were cleaned \u2014 not transportation."
+        },
+        {
+          "id": "c",
+          "label": "The automobile (car)",
+          "correct": true,
+          "explanation": "The automobile replaced horse-drawn transportation, allowing people to travel faster and farther without needing horses."
+        },
+        {
+          "id": "d",
+          "label": "The printing press",
+          "correct": false,
+          "explanation": "The printing press changed how books and newspapers were made \u2014 not transportation."
+        }
+      ],
+      "explanation_md": "The automobile (car) replaced horse-drawn transportation, allowing people to travel faster and farther. It was one of the most important technology changes in community life."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Long ago, people washed clothes by hand in rivers. Today, washing machines do this work. How did this change community life?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People stopped wearing clean clothes",
+          "correct": false,
+          "explanation": "People still wear clean clothes \u2014 the washing machine just made cleaning them much easier."
+        },
+        {
+          "id": "b",
+          "label": "Washing clothes became easier and faster, giving families more time for other activities",
+          "correct": true,
+          "explanation": "The washing machine took a long, difficult task and made it simple. This gave families more time to spend on other activities."
+        },
+        {
+          "id": "c",
+          "label": "Families needed to move to cities to use washing machines",
+          "correct": false,
+          "explanation": "Washing machines were used in many different places \u2014 not just cities."
+        },
+        {
+          "id": "d",
+          "label": "Rivers became less important to communities",
+          "correct": false,
+          "explanation": "Rivers remain important for many reasons \u2014 the washing machine only changed one use of rivers."
+        }
+      ],
+      "explanation_md": "Washing machines made cleaning clothes much easier and faster than washing by hand in rivers. This gave families more time for other activities."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "The internet allows people in different countries to share information instantly. How is this DIFFERENT from how communities shared information 200 years ago?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "200 years ago, information could also be shared instantly around the world",
+          "correct": false,
+          "explanation": "200 years ago, there was no technology for instant global communication \u2014 messages took weeks or months to travel between countries."
+        },
+        {
+          "id": "b",
+          "label": "200 years ago, information traveled by mail, messenger, or word of mouth and could take weeks or months to reach distant places",
+          "correct": true,
+          "explanation": "Before the internet and telegraph, messages between distant places traveled by mail carried by horse or ship. This could take weeks or months \u2014 a huge contrast to the internet's instant communication."
+        },
+        {
+          "id": "c",
+          "label": "200 years ago, communities did not need to share information",
+          "correct": false,
+          "explanation": "Communities have always needed to share information \u2014 they just did so much more slowly without modern technology."
+        },
+        {
+          "id": "d",
+          "label": "200 years ago, communities had telephones but not computers",
+          "correct": false,
+          "explanation": "Telephones were not invented until the late 1800s. 200 years ago, communication relied on written letters and messengers."
+        }
+      ],
+      "explanation_md": "200 years ago, information traveled by mail, messenger, or word of mouth and could take weeks or months to reach distant places. The internet changed this to instant global communication."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A washing machine is a type of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Technology \u2014 it is a tool that makes washing clothes easier",
+          "correct": true,
+          "explanation": "A washing machine is technology \u2014 it is an invention that makes the task of washing clothes much easier than doing it by hand."
+        },
+        {
+          "id": "b",
+          "label": "Transportation \u2014 it moves people from place to place",
+          "correct": false,
+          "explanation": "A washing machine does not move people \u2014 it washes clothes. Transportation moves people and goods."
+        },
+        {
+          "id": "c",
+          "label": "Communication \u2014 it sends messages to people",
+          "correct": false,
+          "explanation": "A washing machine does not send messages \u2014 it washes clothes. Communication technology sends information."
+        },
+        {
+          "id": "d",
+          "label": "Something that makes life harder",
+          "correct": false,
+          "explanation": "A washing machine makes life easier by doing a hard task \u2014 washing clothes \u2014 automatically."
+        }
+      ],
+      "explanation_md": "A washing machine is technology \u2014 it is an invention that makes the hard task of washing clothes much easier."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Cars and trains are examples of \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Communication technology",
+          "correct": false,
+          "explanation": "Communication technology sends messages or information. Cars and trains move people and goods from place to place."
+        },
+        {
+          "id": "b",
+          "label": "Transportation technology",
+          "correct": true,
+          "explanation": "Cars and trains are transportation technology \u2014 they are inventions that move people and goods from one place to another."
+        },
+        {
+          "id": "c",
+          "label": "Food technology",
+          "correct": false,
+          "explanation": "Food technology relates to growing, storing, or preparing food. Cars and trains move people, not food specifically."
+        },
+        {
+          "id": "d",
+          "label": "Communication technology and transportation technology",
+          "correct": false,
+          "explanation": "Cars and trains move people and goods \u2014 they are transportation technology. They do not communicate information."
+        }
+      ],
+      "explanation_md": "Cars and trains are transportation technology \u2014 they are inventions that move people and goods from one place to another."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of how technology changed communication?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People went from writing letters delivered by horse to sending emails instantly",
+          "correct": true,
+          "explanation": "Going from letters on horseback (taking weeks) to emails (taking seconds) is a clear example of how communication technology changed. Messages travel much faster today."
+        },
+        {
+          "id": "b",
+          "label": "People went from eating with forks to eating with spoons",
+          "correct": false,
+          "explanation": "Changing what utensil you eat with is not a change in communication or technology."
+        },
+        {
+          "id": "c",
+          "label": "People went from living in cities to living on farms",
+          "correct": false,
+          "explanation": "Where people live is not a change in communication technology."
+        },
+        {
+          "id": "d",
+          "label": "People went from wearing boots to wearing sneakers",
+          "correct": false,
+          "explanation": "Changing the type of shoes people wear is not a change in communication technology."
+        }
+      ],
+      "explanation_md": "Going from letters delivered by horse (taking weeks) to emails (taking seconds) is the best example of how technology changed communication in communities."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word 'transportation' mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How people share information with each other",
+          "correct": false,
+          "explanation": "Sharing information is called 'communication' \u2014 not transportation."
+        },
+        {
+          "id": "b",
+          "label": "Ways people and goods travel from place to place",
+          "correct": true,
+          "explanation": "Transportation means ways of moving people and goods from one place to another \u2014 like cars, trains, boats, and airplanes."
+        },
+        {
+          "id": "c",
+          "label": "Things people use to grow food",
+          "correct": false,
+          "explanation": "Growing food uses farming tools and technology \u2014 not transportation."
+        },
+        {
+          "id": "d",
+          "label": "Rules that everyone in a community must follow",
+          "correct": false,
+          "explanation": "Rules are laws or guidelines \u2014 not transportation."
+        }
+      ],
+      "explanation_md": "Transportation means ways of moving people and goods from one place to another, like cars, trains, boats, and airplanes."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Before refrigerators were invented, what did families use to keep food cold?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An icebox \u2014 a box filled with large blocks of ice",
+          "correct": true,
+          "explanation": "Before refrigerators, families used iceboxes \u2014 wooden boxes with ice inside to keep food cold. Ice was delivered to homes regularly."
+        },
+        {
+          "id": "b",
+          "label": "A microwave oven",
+          "correct": false,
+          "explanation": "A microwave oven heats food \u2014 it does not keep food cold. Microwaves are also a modern invention."
+        },
+        {
+          "id": "c",
+          "label": "A dishwasher",
+          "correct": false,
+          "explanation": "A dishwasher cleans dishes \u2014 it does not keep food cold."
+        },
+        {
+          "id": "d",
+          "label": "A television set",
+          "correct": false,
+          "explanation": "A television shows programs \u2014 it has nothing to do with keeping food cold."
+        }
+      ],
+      "explanation_md": "Before refrigerators, families used iceboxes \u2014 wooden boxes with large blocks of ice to keep food cold. Ice was delivered to homes regularly. Refrigerators replaced iceboxes."
+    }
+  ]
+}
