@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.14",
+  "benchmark_description": "Explain the significance of Tennessee's three Grand Divisions and describe the geographic and cultural differences between them.",
+  "course": "social_studies",
+  "strand": "TN",
+  "lesson": {
+    "title": "Tennessee's Three Grand Divisions",
+    "intro": "Tennessee is divided into three large sections called Grand Divisions. Each one has its own land, history, and character.",
+    "body_md": "## The Three Grand Divisions\n\n1. **East Tennessee** - mountains\n2. **Middle Tennessee** - rolling hills\n3. **West Tennessee** - flat plains\n\n## East Tennessee\n**Land:** The Great Smoky Mountains and Appalachian ranges.\n**Major city:** Knoxville\n**Known for:** Smoky Mountains tourism, Cherokee heritage\n\n## Middle Tennessee\n**Land:** Rolling hills, the fertile Nashville Basin.\n**Major city:** Nashville (state capital)\n**Known for:** Country music, state government\n\n## West Tennessee\n**Land:** Flat plains near the Mississippi River.\n**Major city:** Memphis\n**Known for:** Cotton farming, blues music\n\n## Comparison\n| | East TN | Middle TN | West TN |\n|---|---|---|---|\n| Land | Mountains | Rolling hills | Flat plains |\n| City | Knoxville | Nashville | Memphis |",
+    "worked_example_md": "## Worked Example\n**Q:** How is East Tennessee different from West Tennessee?\n\nEast TN has the Appalachian Mountains. West TN is flat with the Mississippi River.\n\n**Answer:** East Tennessee is mountainous. West Tennessee is flat plains near the Mississippi River.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many Grand Divisions does Tennessee have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Two",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions."
+        },
+        {
+          "id": "b",
+          "label": "Three",
+          "correct": true,
+          "explanation": "Tennessee has three Grand Divisions: East, Middle, and West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Four",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions."
+        },
+        {
+          "id": "d",
+          "label": "Five",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions."
+        }
+      ],
+      "explanation_md": "Tennessee has three Grand Divisions: East, Middle, and West Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The Great Smoky Mountains are in which Grand Division?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "West Tennessee",
+          "correct": false,
+          "explanation": "West Tennessee is flat. The mountains are in East Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "East Tennessee",
+          "correct": true,
+          "explanation": "The Great Smoky Mountains are in East Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. The mountains are in East Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "North Tennessee",
+          "correct": false,
+          "explanation": "North Tennessee is not a Grand Division. The mountains are in East Tennessee."
+        }
+      ],
+      "explanation_md": "The Great Smoky Mountains are in East Tennessee, the most mountainous division."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville is the capital of Tennessee. In which Grand Division is Nashville?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "East Tennessee includes Knoxville. Nashville is in Middle Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": true,
+          "explanation": "Nashville, the state capital, is in Middle Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": false,
+          "explanation": "Memphis is in West Tennessee. Nashville is in Middle Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "Southern Tennessee",
+          "correct": false,
+          "explanation": "Southern Tennessee is not a Grand Division. Nashville is in Middle Tennessee."
+        }
+      ],
+      "explanation_md": "Nashville, the state capital, is located in Middle Tennessee."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which Grand Division is known for cotton farming and the Mississippi River?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "East Tennessee is mountainous. Cotton and the Mississippi River are in West Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. West Tennessee has the cotton and Mississippi River."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": true,
+          "explanation": "West Tennessee is flat with fertile land and the Mississippi River on its western border."
+        },
+        {
+          "id": "d",
+          "label": "North Tennessee",
+          "correct": false,
+          "explanation": "North Tennessee is not a Grand Division. West Tennessee has the cotton and Mississippi River."
+        }
+      ],
+      "explanation_md": "West Tennessee has flat land, cotton farming, and the Mississippi River along its western border."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does East Tennessee's land differ from West Tennessee's?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee is flat; West Tennessee is mountainous",
+          "correct": false,
+          "explanation": "This is backwards. East Tennessee is mountainous; West Tennessee is flat."
+        },
+        {
+          "id": "b",
+          "label": "East Tennessee is mountainous; West Tennessee is flat plains",
+          "correct": true,
+          "explanation": "East Tennessee has the Appalachian Mountains. West Tennessee has flat plains near the Mississippi River."
+        },
+        {
+          "id": "c",
+          "label": "Both are mountainous",
+          "correct": false,
+          "explanation": "West Tennessee is flat. Only East Tennessee is mountainous."
+        },
+        {
+          "id": "d",
+          "label": "Both are flat",
+          "correct": false,
+          "explanation": "East Tennessee is mountainous. Only West Tennessee is flat."
+        }
+      ],
+      "explanation_md": "East Tennessee is mountainous. West Tennessee is flat plains near the Mississippi River."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Memphis is a major city in which Grand Division?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "Knoxville is in East Tennessee. Memphis is in West Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Nashville is in Middle Tennessee. Memphis is in West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": true,
+          "explanation": "Memphis is the largest city in West Tennessee, near the Mississippi River."
+        },
+        {
+          "id": "d",
+          "label": "Central Tennessee",
+          "correct": false,
+          "explanation": "Memphis is in West Tennessee."
+        }
+      ],
+      "explanation_md": "Memphis is in West Tennessee, near the Mississippi River."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville is called Music City. Which music is it MOST associated with?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Blues music",
+          "correct": false,
+          "explanation": "Blues music is associated with Memphis in West Tennessee. Nashville is known for country music."
+        },
+        {
+          "id": "b",
+          "label": "Country music",
+          "correct": true,
+          "explanation": "Nashville is called Music City USA because of its country music industry."
+        },
+        {
+          "id": "c",
+          "label": "Classical opera",
+          "correct": false,
+          "explanation": "Nashville is known for country music."
+        },
+        {
+          "id": "d",
+          "label": "Jazz",
+          "correct": false,
+          "explanation": "Nashville is most famous for country music."
+        }
+      ],
+      "explanation_md": "Nashville is called Music City USA because of its famous country music industry."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The three stars on the Tennessee flag each represent one Grand Division. What does this tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee is three separate countries",
+          "correct": false,
+          "explanation": "Tennessee is one state. The stars represent three regions within one state."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee's three regions are equal and united as one state",
+          "correct": true,
+          "explanation": "Three equal stars together show all three regions are valued and united as one state."
+        },
+        {
+          "id": "c",
+          "label": "East Tennessee is more important than the others",
+          "correct": false,
+          "explanation": "All three stars are equal in size."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee will split into three states",
+          "correct": false,
+          "explanation": "The flag celebrates Tennessee's unity."
+        }
+      ],
+      "explanation_md": "Three equal stars show that Tennessee's three regions are equal and united as one state."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer wants to grow cotton. Which Grand Division is best?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee, because mountains have the best soil",
+          "correct": false,
+          "explanation": "Mountain terrain is not ideal for cotton farming."
+        },
+        {
+          "id": "b",
+          "label": "West Tennessee, because flat land near the Mississippi River is ideal for cotton",
+          "correct": true,
+          "explanation": "Cotton grows best on flat, fertile land. West Tennessee's plains are historically great for cotton."
+        },
+        {
+          "id": "c",
+          "label": "Middle Tennessee, because Nashville is nearby",
+          "correct": false,
+          "explanation": "Being near Nashville is not a reason for cotton farming."
+        },
+        {
+          "id": "d",
+          "label": "Any division would be equally good",
+          "correct": false,
+          "explanation": "Flat land in West Tennessee is best for cotton."
+        }
+      ],
+      "explanation_md": "West Tennessee has flat, fertile land near the Mississippi River, ideal for cotton farming."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Why did Tennessee recognize three Grand Divisions instead of treating the state the same throughout?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They wanted to divide Tennessee into three countries",
+          "correct": false,
+          "explanation": "The Grand Divisions are regions within one state."
+        },
+        {
+          "id": "b",
+          "label": "The three regions have such different geography, economy, and culture that each deserved recognition",
+          "correct": true,
+          "explanation": "Mountains, rolling hills, and flat plains make each region distinct."
+        },
+        {
+          "id": "c",
+          "label": "The U.S. Constitution required it",
+          "correct": false,
+          "explanation": "The U.S. Constitution does not require Grand Divisions."
+        },
+        {
+          "id": "d",
+          "label": "The three divisions were once three different states",
+          "correct": false,
+          "explanation": "Tennessee was always one state."
+        }
+      ],
+      "explanation_md": "The three Grand Divisions reflect very different geography, economy, and culture of East, Middle, and West Tennessee."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which Grand Division has the Great Smoky Mountains?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": true,
+          "explanation": "The Great Smoky Mountains are in East Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. The mountains are in East Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": false,
+          "explanation": "West Tennessee is flat. The mountains are in East Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "All three have equal mountains",
+          "correct": false,
+          "explanation": "Only East Tennessee has significant mountains."
+        }
+      ],
+      "explanation_md": "The Great Smoky Mountains are in East Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which Grand Division is the FLATTEST?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "East Tennessee is the most mountainous."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. West Tennessee is flatter."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": true,
+          "explanation": "West Tennessee has the flattest terrain, with plains near the Mississippi River."
+        },
+        {
+          "id": "d",
+          "label": "All three are equally flat",
+          "correct": false,
+          "explanation": "The three divisions have very different terrain."
+        }
+      ],
+      "explanation_md": "West Tennessee has the flattest terrain, with plains near the Mississippi River."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student says all three Grand Divisions are the same. What evidence proves this is WRONG?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "All three have the same land and cities",
+          "correct": false,
+          "explanation": "This would support the wrong claim."
+        },
+        {
+          "id": "b",
+          "label": "East TN has mountains, Middle TN has rolling hills and Nashville, West TN has flat plains and the Mississippi River",
+          "correct": true,
+          "explanation": "The very different geography proves the divisions are not the same."
+        },
+        {
+          "id": "c",
+          "label": "All three speak different languages",
+          "correct": false,
+          "explanation": "Differences are geographic and cultural, not linguistic."
+        },
+        {
+          "id": "d",
+          "label": "There is no evidence - the student is right",
+          "correct": false,
+          "explanation": "Mountains, rolling hills, and flat plains show very different geographies."
+        }
+      ],
+      "explanation_md": "Mountain terrain (East), rolling hills (Middle), and flat plains (West) prove the three divisions are different."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many Grand Divisions does Tennessee have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions."
+        },
+        {
+          "id": "b",
+          "label": "Three",
+          "correct": true,
+          "explanation": "Tennessee has three Grand Divisions: East, Middle, and West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Ten",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions."
+        },
+        {
+          "id": "d",
+          "label": "Fifty",
+          "correct": false,
+          "explanation": "Tennessee has three Grand Divisions. Fifty is the number of U.S. states."
+        }
+      ],
+      "explanation_md": "Tennessee has three Grand Divisions: East, Middle, and West Tennessee."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The Great Smoky Mountains are in which part of Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "West Tennessee",
+          "correct": false,
+          "explanation": "West Tennessee is flat. The mountains are in East Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "East Tennessee",
+          "correct": true,
+          "explanation": "The Great Smoky Mountains are in East Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. The mountains are in East Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "Under the Mississippi River",
+          "correct": false,
+          "explanation": "The Smoky Mountains are on land in East Tennessee."
+        }
+      ],
+      "explanation_md": "The Great Smoky Mountains are in East Tennessee."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville, the capital of Tennessee, is in:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "East Tennessee has Knoxville. Nashville is in Middle Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": true,
+          "explanation": "Nashville is the capital city, located in Middle Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": false,
+          "explanation": "Memphis is in West Tennessee. Nashville is in Middle Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "North Tennessee",
+          "correct": false,
+          "explanation": "North Tennessee is not a Grand Division. Nashville is in Middle Tennessee."
+        }
+      ],
+      "explanation_md": "Nashville, the state capital, is in Middle Tennessee."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which Grand Division has flat land and the Mississippi River?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "East Tennessee",
+          "correct": false,
+          "explanation": "East Tennessee is mountainous. The Mississippi River is in West Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Middle Tennessee",
+          "correct": false,
+          "explanation": "Middle Tennessee has rolling hills. The Mississippi River is in West Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "West Tennessee",
+          "correct": true,
+          "explanation": "West Tennessee is flat and has the Mississippi River along its western border."
+        },
+        {
+          "id": "d",
+          "label": "All three share the Mississippi River",
+          "correct": false,
+          "explanation": "Only West Tennessee borders the Mississippi River."
+        }
+      ],
+      "explanation_md": "West Tennessee is flat and bordered by the Mississippi River on the west."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The three stars on the Tennessee flag stand for the three Grand Divisions. Tennessee is:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Three separate states",
+          "correct": false,
+          "explanation": "Tennessee is one state with three recognized regions."
+        },
+        {
+          "id": "b",
+          "label": "One united state with three recognized regions",
+          "correct": true,
+          "explanation": "The three stars together show Tennessee's three divisions are united as one state."
+        },
+        {
+          "id": "c",
+          "label": "Only two Grand Divisions",
+          "correct": false,
+          "explanation": "There are three stars for three Grand Divisions."
+        },
+        {
+          "id": "d",
+          "label": "A very old state with old buildings",
+          "correct": false,
+          "explanation": "The stars represent geographic divisions."
+        }
+      ],
+      "explanation_md": "The three stars show Tennessee's three Grand Divisions are united as one state."
+    }
+  ]
+}
