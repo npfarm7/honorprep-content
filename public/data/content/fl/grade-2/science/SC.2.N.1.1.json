@@ -1,0 +1,613 @@
+{
+  "skill_id": "SC.2.N.1.1",
+  "benchmark_description": "Raise questions about the natural world, investigate them in teams through free exploration and systematic observations, and generate appropriate explanations based on those explorations.",
+  "course": "science",
+  "strand": "N",
+  "lesson": {
+    "title": "Asking Questions Like a Scientist",
+    "intro": "Have you ever wondered why puddles disappear after the sun comes out? Scientists ask questions like that every day! When we ask questions about the world around us and then look for answers, we are doing science.",
+    "body_md": "## What Is a Scientific Question?\n\nA **scientific question** is a question you can answer by watching, testing, or exploring. Good scientific questions start with words like *why*, *what*, *how*, or *does*.\n\n**Examples of scientific questions:**\n- Does a plant grow taller with more water?\n- What happens to ice when it gets warm?\n- Why do some rocks feel rougher than others?\n\n## How Scientists Find Answers\n\nScientists find answers by **investigating** \u2014 which means looking closely and trying things out. Here are the steps:\n\n| Step | What You Do |\n|------|-------------|\n| 1. Ask a question | Think of something you wonder about |\n| 2. Make a plan | Decide how to find out |\n| 3. Explore | Watch, test, or try things |\n| 4. Record | Write or draw what you notice |\n| 5. Explain | Tell what you found out |\n\n## Exploring Together\n\nScientists often work in **teams**. Teams are great because everyone can watch different things and share ideas. When you explore with a partner, you can both notice more!\n\n## What Counts as Evidence?\n\n**Evidence** is what you see, hear, feel, smell, or measure during your investigation. You use evidence to explain your answer. If you said \"the plant with more water grew taller\" and you measured both plants, your measurements are your evidence.\n\n**Remember:** A good explanation matches the evidence you collected.",
+    "worked_example_md": "## Worked Example\n\n**Question:** Does a seed need soil to sprout?\n\n**Plan:** Put one seed in a cup of soil and one seed in a cup of paper towels kept wet. Water both the same amount. Watch them for one week.\n\n**Explore:** Every day, look at both cups. Draw what you see.\n\n**Record:**\n- Day 3: The seed in paper towels has a tiny sprout.\n- Day 5: Both seeds have sprouted.\n- Day 7: Both sprouts look about the same size.\n\n**Explain:** Both seeds sprouted, even the one without soil. The evidence shows a seed can start growing without soil as long as it has water. (Soil helps later, but is not needed to sprout.)\n\n**Why this works:** The explanation matches what was actually observed \u2014 we did not just guess.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which question is a **scientific question** you could investigate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Is red the prettiest color?",
+          "correct": false,
+          "explanation": "Prettiest is an opinion and cannot be tested with evidence."
+        },
+        {
+          "id": "b",
+          "label": "Does a plant grow taller with sunlight?",
+          "correct": true,
+          "explanation": "This question can be tested by growing plants with different amounts of sunlight and measuring them."
+        },
+        {
+          "id": "c",
+          "label": "Which movie is the most fun to watch?",
+          "correct": false,
+          "explanation": "Fun is an opinion and cannot be measured by an investigation."
+        },
+        {
+          "id": "d",
+          "label": "What is the best food to eat?",
+          "correct": false,
+          "explanation": "Best is an opinion and cannot be answered with scientific evidence."
+        }
+      ],
+      "explanation_md": "A scientific question is one that can be answered through observation or testing. 'Does a plant grow taller with sunlight?' can be tested by growing plants and measuring their height."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is **evidence** in a science investigation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A guess you make before you start",
+          "correct": false,
+          "explanation": "A guess before you start is called a prediction, not evidence."
+        },
+        {
+          "id": "b",
+          "label": "What you see, measure, or find out during your investigation",
+          "correct": true,
+          "explanation": "Evidence is the information you gather by watching, testing, and measuring."
+        },
+        {
+          "id": "c",
+          "label": "What your friend thinks will happen",
+          "correct": false,
+          "explanation": "What a friend thinks is an opinion, not evidence from the investigation."
+        },
+        {
+          "id": "d",
+          "label": "The question you started with",
+          "correct": false,
+          "explanation": "The question is what you want to find out, not the evidence you collect."
+        }
+      ],
+      "explanation_md": "Evidence is the information \u2014 measurements, observations, data \u2014 that you gather during an investigation. It is used to support your explanation."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Maria wants to find out if **more sunlight** makes flowers bloom faster. What should she do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ask her teacher what she thinks will happen",
+          "correct": false,
+          "explanation": "Asking for a guess does not give evidence from an actual test."
+        },
+        {
+          "id": "b",
+          "label": "Draw a picture of a sunny garden",
+          "correct": false,
+          "explanation": "Drawing a picture does not test what actually happens to flowers."
+        },
+        {
+          "id": "c",
+          "label": "Grow some flowers in sunlight and some in shade and watch which blooms first",
+          "correct": true,
+          "explanation": "By comparing plants in different light conditions, Maria gathers real evidence to answer her question."
+        },
+        {
+          "id": "d",
+          "label": "Read a story about flowers in a book",
+          "correct": false,
+          "explanation": "Reading a story does not produce evidence from her own investigation."
+        }
+      ],
+      "explanation_md": "To investigate whether more sunlight helps flowers bloom faster, Maria needs to actually test it \u2014 grow some in sunlight and some without, then observe and compare."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A team of students is investigating which surface a ball rolls farthest on. What is the BEST first step?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Roll the ball and immediately tell everyone the answer",
+          "correct": false,
+          "explanation": "You need to actually test first \u2014 you cannot explain without evidence."
+        },
+        {
+          "id": "b",
+          "label": "Ask a question about what they want to find out",
+          "correct": true,
+          "explanation": "The first step of any investigation is to clearly state the question you are trying to answer."
+        },
+        {
+          "id": "c",
+          "label": "Write their explanation before they start",
+          "correct": false,
+          "explanation": "You write your explanation after you collect evidence, not before."
+        },
+        {
+          "id": "d",
+          "label": "Choose which answer they like best",
+          "correct": false,
+          "explanation": "Scientists let evidence guide their answer, not personal preference."
+        }
+      ],
+      "explanation_md": "The first step in any scientific investigation is asking a clear question. Everything else \u2014 planning, exploring, recording, and explaining \u2014 follows from that question."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two students investigate the same question but get **different results**. What should they do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pick the result they like and ignore the other one",
+          "correct": false,
+          "explanation": "Ignoring evidence is not scientific \u2014 all results matter."
+        },
+        {
+          "id": "b",
+          "label": "Repeat the investigation to check their results",
+          "correct": true,
+          "explanation": "Repeating helps find out which result is more reliable and if there was an error."
+        },
+        {
+          "id": "c",
+          "label": "Stop investigating because science is too hard",
+          "correct": false,
+          "explanation": "Different results are common \u2014 they show that more investigation is needed, not that science should stop."
+        },
+        {
+          "id": "d",
+          "label": "Ask a grown-up which answer is right without testing again",
+          "correct": false,
+          "explanation": "Scientists rely on evidence from investigation, not just someone's opinion."
+        }
+      ],
+      "explanation_md": "When results differ, scientists repeat the investigation. This helps check for mistakes and decide which result is supported by more evidence."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "After doing an investigation, Lena writes: 'The warm water made the sugar dissolve faster. I saw it disappear in 10 seconds.' What part of Lena's writing is **evidence**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The warm water made the sugar dissolve faster",
+          "correct": false,
+          "explanation": "This is her explanation (conclusion), not the evidence itself."
+        },
+        {
+          "id": "b",
+          "label": "I saw it disappear in 10 seconds",
+          "correct": true,
+          "explanation": "This is what she actually observed \u2014 a specific measurement from her investigation. That is evidence."
+        },
+        {
+          "id": "c",
+          "label": "Lena's name",
+          "correct": false,
+          "explanation": "A name is not evidence from the investigation."
+        },
+        {
+          "id": "d",
+          "label": "The question she asked",
+          "correct": false,
+          "explanation": "The question is the starting point, not evidence gathered during exploration."
+        }
+      ],
+      "explanation_md": "Evidence is specific information from the investigation \u2014 what was seen, measured, or recorded. 'It disappeared in 10 seconds' is an observation Lena made during her test."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is working in a **team** helpful during a science investigation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So only one person has to do all the work",
+          "correct": false,
+          "explanation": "In a team, everyone participates \u2014 it is not about one person doing less."
+        },
+        {
+          "id": "b",
+          "label": "Because teams can observe more things and share ideas",
+          "correct": true,
+          "explanation": "Different team members can watch different parts of an experiment and combine what they noticed."
+        },
+        {
+          "id": "c",
+          "label": "So the team can just agree on an answer without testing",
+          "correct": false,
+          "explanation": "Teams still need to investigate \u2014 agreeing without testing is not science."
+        },
+        {
+          "id": "d",
+          "label": "Because one person is always right",
+          "correct": false,
+          "explanation": "Science is not about one person being right \u2014 it is about evidence from the whole group."
+        }
+      ],
+      "explanation_md": "Teams allow multiple observers to notice different details, check each other's work, and combine ideas \u2014 this leads to more complete and accurate results."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is the best **explanation** after an investigation where a heavy rock and a light feather were both dropped?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The feather fell faster because it is lighter",
+          "correct": false,
+          "explanation": "The feather actually falls slower due to air resistance \u2014 this explanation contradicts the observation."
+        },
+        {
+          "id": "b",
+          "label": "Both objects fell, but the rock reached the ground first because the feather floated on air",
+          "correct": true,
+          "explanation": "This matches the actual observation and gives a reason based on evidence."
+        },
+        {
+          "id": "c",
+          "label": "I think the rock is prettier so it fell faster",
+          "correct": false,
+          "explanation": "A scientific explanation is based on evidence, not opinion or appearance."
+        },
+        {
+          "id": "d",
+          "label": "Nothing happened when they were dropped",
+          "correct": false,
+          "explanation": "Both objects did fall \u2014 an explanation must match what actually happened."
+        }
+      ],
+      "explanation_md": "A good explanation matches the evidence. The rock reaches the ground first because air slows the feather \u2014 this explanation is based on what was observed."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Jared investigates how much water three different plants need each week. He gives Plant A 1 cup, Plant B 2 cups, and Plant C 3 cups. After 4 weeks he measures their heights. What should he keep the **same** for all three plants to make his test fair?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The amount of water each plant gets",
+          "correct": false,
+          "explanation": "The water amount is what he is purposely changing \u2014 that is the variable being tested."
+        },
+        {
+          "id": "b",
+          "label": "The type of plant, the amount of sunlight, and the size of pot",
+          "correct": true,
+          "explanation": "Everything except the water amount should stay the same so that only the water can cause any differences."
+        },
+        {
+          "id": "c",
+          "label": "The height of the plants each week",
+          "correct": false,
+          "explanation": "Height is what he is measuring \u2014 it is the result, not something he controls."
+        },
+        {
+          "id": "d",
+          "label": "The color of the pots",
+          "correct": false,
+          "explanation": "Pot color is not relevant to a fair test about water and growth."
+        }
+      ],
+      "explanation_md": "A fair test changes only ONE thing (the variable being tested) and keeps everything else the same. Here, only the water amount changes; the plant type, pot size, and sunlight must all stay the same."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A class investigates whether **color of paper** affects how quickly it absorbs water. They dip red, blue, and white paper strips into water for 5 seconds and measure how far up the water traveled. Their results: red = 2 cm, blue = 2 cm, white = 2 cm. What should they conclude?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color does affect how much water is absorbed because they got different numbers",
+          "correct": false,
+          "explanation": "All three measurements were the same (2 cm each) \u2014 that shows no difference."
+        },
+        {
+          "id": "b",
+          "label": "Color does not affect water absorption because all three results were the same",
+          "correct": true,
+          "explanation": "Equal results across all colors mean color did not make a difference \u2014 the evidence supports this conclusion."
+        },
+        {
+          "id": "c",
+          "label": "White paper absorbs more water because it looks cleaner",
+          "correct": false,
+          "explanation": "Appearance is not evidence, and the data showed equal absorption."
+        },
+        {
+          "id": "d",
+          "label": "They should not draw any conclusion because the test was too short",
+          "correct": false,
+          "explanation": "The data collected is valid evidence \u2014 equal results across all colors support a conclusion."
+        }
+      ],
+      "explanation_md": "When all measured results are equal, the evidence shows the variable being tested (paper color) did not cause a difference. The conclusion must match the data."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **scientific question** that can be investigated?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Which season is the most beautiful?",
+          "correct": false,
+          "explanation": "Beauty is an opinion \u2014 you cannot test it with evidence."
+        },
+        {
+          "id": "b",
+          "label": "Does temperature affect how fast ice melts?",
+          "correct": true,
+          "explanation": "You can test this by melting ice at different temperatures and measuring how long it takes."
+        },
+        {
+          "id": "c",
+          "label": "What is the best color for a bedroom?",
+          "correct": false,
+          "explanation": "Best color is a matter of opinion and cannot be determined by a scientific investigation."
+        },
+        {
+          "id": "d",
+          "label": "Which cartoon character is funniest?",
+          "correct": false,
+          "explanation": "Funniness is an opinion, not something that can be measured with evidence."
+        }
+      ],
+      "explanation_md": "Scientific questions can be answered through testing and observing. 'Does temperature affect how fast ice melts?' can be tested by measuring melt time at different temperatures."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Students grow bean plants in sand, clay, and regular soil to see which grows best. After 3 weeks, the plants in regular soil are tallest. Which is the BEST explanation based on evidence?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Regular soil is brown, so plants like it more",
+          "correct": false,
+          "explanation": "Color is not evidence of why the plant grew better."
+        },
+        {
+          "id": "b",
+          "label": "The plants in regular soil grew tallest, which suggests regular soil supports plant growth better than sand or clay",
+          "correct": true,
+          "explanation": "This explanation directly uses the measured result (tallest plants) as evidence."
+        },
+        {
+          "id": "c",
+          "label": "All soils are the same so it does not matter",
+          "correct": false,
+          "explanation": "The data showed different heights \u2014 this explanation ignores the evidence."
+        },
+        {
+          "id": "d",
+          "label": "Sand is worse because it comes from the beach",
+          "correct": false,
+          "explanation": "Where sand comes from is not evidence of how well plants grow in it."
+        }
+      ],
+      "explanation_md": "A strong explanation uses specific evidence from the investigation. The plants in regular soil grew tallest \u2014 that measurement supports the conclusion."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the purpose of **recording observations** during an investigation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To make the investigation look longer",
+          "correct": false,
+          "explanation": "Recording is not about making work look bigger \u2014 it has a scientific purpose."
+        },
+        {
+          "id": "b",
+          "label": "To remember what happened so you can use it as evidence for your explanation",
+          "correct": true,
+          "explanation": "Written or drawn records give you accurate evidence to look back on when writing your explanation."
+        },
+        {
+          "id": "c",
+          "label": "So the teacher knows you were busy",
+          "correct": false,
+          "explanation": "Recording is a scientific tool, not just a way to show effort."
+        },
+        {
+          "id": "d",
+          "label": "Because scientists always have to draw pictures",
+          "correct": false,
+          "explanation": "Scientists record in many ways \u2014 notes, numbers, charts \u2014 whatever captures the evidence accurately."
+        }
+      ],
+      "explanation_md": "Recording keeps an accurate account of what happened so you have reliable evidence when you write your explanation."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word does a **scientific question** often start with?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because",
+          "correct": false,
+          "explanation": "'Because' is used in explanations, not in questions."
+        },
+        {
+          "id": "b",
+          "label": "How",
+          "correct": true,
+          "explanation": "'How' is a great word to start a question you can investigate, like 'How does sunlight affect plants?'"
+        },
+        {
+          "id": "c",
+          "label": "Always",
+          "correct": false,
+          "explanation": "'Always' is not a question word."
+        },
+        {
+          "id": "d",
+          "label": "Never",
+          "correct": false,
+          "explanation": "'Never' is not a question word."
+        }
+      ],
+      "explanation_md": "Scientific questions often start with words like how, why, what, or does \u2014 words that open up an investigation."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to know if rocks float or sink. What should she do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Close her eyes and guess",
+          "correct": false,
+          "explanation": "Guessing without testing is not a scientific investigation."
+        },
+        {
+          "id": "b",
+          "label": "Put a rock in water and watch what happens",
+          "correct": true,
+          "explanation": "Putting the rock in water and observing gives real evidence to answer the question."
+        },
+        {
+          "id": "c",
+          "label": "Ask her dog",
+          "correct": false,
+          "explanation": "A dog cannot give scientific evidence about rocks and water."
+        },
+        {
+          "id": "d",
+          "label": "Color a picture of a rock",
+          "correct": false,
+          "explanation": "Drawing a rock does not test whether it floats or sinks."
+        }
+      ],
+      "explanation_md": "To find out if a rock floats or sinks, you put it in water and watch \u2014 that observation is your evidence."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do scientists do with their results after an investigation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Throw them away",
+          "correct": false,
+          "explanation": "Results are valuable \u2014 they are the evidence scientists use."
+        },
+        {
+          "id": "b",
+          "label": "Use them to write an explanation",
+          "correct": true,
+          "explanation": "Results are the evidence that helps you explain what you found out."
+        },
+        {
+          "id": "c",
+          "label": "Keep them secret so no one else knows",
+          "correct": false,
+          "explanation": "Scientists share their results so others can learn and check the work."
+        },
+        {
+          "id": "d",
+          "label": "Change them if they do not like them",
+          "correct": false,
+          "explanation": "Changing results is dishonest \u2014 scientists report what they actually found."
+        }
+      ],
+      "explanation_md": "Results are evidence. Scientists use their results to write or tell their explanation of what happened."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Tom and Sara investigate the same question and get the same result. What does this tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They cheated by copying each other",
+          "correct": false,
+          "explanation": "Getting the same result independently is a good sign \u2014 it means the result is reliable."
+        },
+        {
+          "id": "b",
+          "label": "The result is more likely to be correct because two investigations agreed",
+          "correct": true,
+          "explanation": "When independent investigations get the same result, it gives more confidence that the result is correct."
+        },
+        {
+          "id": "c",
+          "label": "One of them was wrong",
+          "correct": false,
+          "explanation": "Two matching results actually strengthen confidence in both."
+        },
+        {
+          "id": "d",
+          "label": "They should start over because something must be wrong",
+          "correct": false,
+          "explanation": "Matching results are a good thing \u2014 they do not need to start over."
+        }
+      ],
+      "explanation_md": "When two separate investigations get the same result, it supports the conclusion. Matching results increase confidence in the answer."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST thing to do when you are exploring a new material you have never seen before?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Touch it, look at it, and write down what you notice",
+          "correct": true,
+          "explanation": "Using your senses and recording observations is how scientists explore new materials."
+        },
+        {
+          "id": "b",
+          "label": "Throw it away because you do not know what it is",
+          "correct": false,
+          "explanation": "An unknown material is a great opportunity to investigate \u2014 not something to throw away."
+        },
+        {
+          "id": "c",
+          "label": "Make up a story about it without looking at it",
+          "correct": false,
+          "explanation": "Making up a story is not scientific \u2014 you need to actually observe."
+        },
+        {
+          "id": "d",
+          "label": "Decide what it is before you look at it",
+          "correct": false,
+          "explanation": "Deciding before observing is a bias \u2014 scientists observe first, then explain."
+        }
+      ],
+      "explanation_md": "When exploring something new, scientists use their senses to observe and then record what they notice. That careful observation is the foundation of science."
+    }
+  ]
+}
