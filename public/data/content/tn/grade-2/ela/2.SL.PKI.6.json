@@ -1,0 +1,641 @@
+{
+  "skill_id": "2.SL.PKI.6",
+  "benchmark_description": "Produce complete sentences when appropriate to task and situation in order to provide requested detail or clarification.",
+  "course": "ela",
+  "strand": "SL",
+  "lesson": {
+    "title": "Speaking in Complete Sentences",
+    "objective": "Students will produce complete sentences when speaking, providing specific detail and clarification as appropriate to the task and situation.",
+    "overview": "When we speak in class -- answering a question, sharing an idea, or explaining something -- we should use complete sentences. A complete sentence has a subject (who or what) and a verb (what they do or are) and expresses a full thought. Complete sentences help listeners understand us clearly.",
+    "key_concepts": [
+      "Complete sentence: a sentence with a subject, a verb, and a full thought",
+      "Fragment: an incomplete sentence missing a subject, verb, or full thought",
+      "Detail: specific information that answers what, who, where, when, why, or how",
+      "Clarification: making something clearer by adding more information or explaining again",
+      "Appropriate: matching your speaking style to the task (e.g., discussion answer, presentation, conversation)"
+    ],
+    "examples": [
+      {
+        "label": "Fragment (incomplete)",
+        "text": "Because the rain."
+      },
+      {
+        "label": "Complete sentence",
+        "text": "We stayed inside because the rain made the field too muddy to play on."
+      },
+      {
+        "label": "Weak answer (fragment)",
+        "text": "Teacher: 'Why did the character run away?' Student: 'Scared.'"
+      },
+      {
+        "label": "Strong answer (complete sentence with detail)",
+        "text": "Teacher: 'Why did the character run away?' Student: 'The character ran away because she was scared of the loud noise in the barn.'"
+      }
+    ],
+    "common_errors": [
+      "Answering in single words instead of complete sentences",
+      "Starting a sentence but not finishing the thought",
+      "Leaving out the subject (who or what) or the verb (action)"
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **complete sentence**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The cat.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no verb and no complete thought."
+        },
+        {
+          "id": "B",
+          "label": "Running fast.",
+          "correct": false,
+          "explanation": "This is a fragment. It has no subject -- who is running?"
+        },
+        {
+          "id": "C",
+          "label": "The cat ran across the yard.",
+          "correct": true,
+          "explanation": "This is a complete sentence: subject (The cat), verb (ran), and a complete thought."
+        },
+        {
+          "id": "D",
+          "label": "Fast across.",
+          "correct": false,
+          "explanation": "This is a fragment -- no subject, no complete thought."
+        }
+      ],
+      "explanation_md": "A **complete sentence** has a subject (who/what), a verb (action/state), and expresses a full thought. 'The cat ran across the yard' has all three."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher asks: 'What is your favorite book?' Which answer is a **complete sentence**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Charlotte's Web.",
+          "correct": false,
+          "explanation": "This is just the title -- a fragment, not a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "My favorite book is Charlotte's Web because the spider helps her friend.",
+          "correct": true,
+          "explanation": "This is a complete sentence: subject (My favorite book), verb (is), and a full thought with detail."
+        },
+        {
+          "id": "C",
+          "label": "The one with the spider.",
+          "correct": false,
+          "explanation": "This is a fragment -- incomplete without a subject performing an action."
+        },
+        {
+          "id": "D",
+          "label": "Books.",
+          "correct": false,
+          "explanation": "A single noun is a fragment, not a complete sentence."
+        }
+      ],
+      "explanation_md": "When answering a question in class, respond with a **complete sentence** that restates the question and adds your answer and detail."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which answer provides the MOST detail and clarification?\n\nTeacher: 'What did you do this weekend?'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Stuff.",
+          "correct": false,
+          "explanation": "Single word fragment -- gives no detail at all."
+        },
+        {
+          "id": "B",
+          "label": "I went somewhere.",
+          "correct": false,
+          "explanation": "Complete sentence but extremely vague -- 'somewhere' gives no detail."
+        },
+        {
+          "id": "C",
+          "label": "I went to my grandma's house, and we baked oatmeal cookies from her special recipe.",
+          "correct": true,
+          "explanation": "Complete sentence with specific, relevant details (grandma's house, baked cookies, special recipe)."
+        },
+        {
+          "id": "D",
+          "label": "Good.",
+          "correct": false,
+          "explanation": "A one-word fragment that answers the question incorrectly and gives no detail."
+        }
+      ],
+      "explanation_md": "When asked a question, provide a **complete sentence with specific details** -- who, what, where, and how -- so the listener fully understands your answer."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: 'Because she was hungry.' Is this a complete sentence? Why or why not?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Yes, because it has the word 'because.'",
+          "correct": false,
+          "explanation": "'Because' starts a dependent clause -- it cannot stand alone as a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "No, because it is missing a subject and main action.",
+          "correct": true,
+          "explanation": "'Because she was hungry' is a fragment. It depends on a main clause to be complete (e.g., 'She ate an apple because she was hungry.')."
+        },
+        {
+          "id": "C",
+          "label": "Yes, because it explains a reason.",
+          "correct": false,
+          "explanation": "Explaining a reason does not automatically make a sentence complete -- it still needs a subject and main verb."
+        },
+        {
+          "id": "D",
+          "label": "No, because it has too many words.",
+          "correct": false,
+          "explanation": "Length does not determine completeness. The problem is that 'because she was hungry' is a dependent clause, not an independent sentence."
+        }
+      ],
+      "explanation_md": "A sentence beginning with **because** by itself is a fragment. It needs to be attached to a main clause: 'She ate lunch **because she was hungry**.'"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A classmate says: 'Went to the store.' How could you make this a complete sentence?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Store went.",
+          "correct": false,
+          "explanation": "This rearranges the fragment but is still incomplete and does not make sense."
+        },
+        {
+          "id": "B",
+          "label": "My mom went to the store to buy milk and bread.",
+          "correct": true,
+          "explanation": "Adding 'My mom' (subject) and 'to buy milk and bread' (detail) makes this a complete sentence with a clear meaning."
+        },
+        {
+          "id": "C",
+          "label": "To the store.",
+          "correct": false,
+          "explanation": "This is still a fragment -- it has no subject or verb."
+        },
+        {
+          "id": "D",
+          "label": "The store.",
+          "correct": false,
+          "explanation": "This is also a fragment."
+        }
+      ],
+      "explanation_md": "To fix a fragment, add a **subject** (who/what) and any missing information to complete the thought."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher asks: 'Can you clarify what you mean by the story was confusing?'\n\nWhich response gives the BEST clarification?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Just confusing.",
+          "correct": false,
+          "explanation": "This is a fragment and gives no clarification."
+        },
+        {
+          "id": "B",
+          "label": "I mean that the story had too many characters with similar names, so I lost track of who was speaking.",
+          "correct": true,
+          "explanation": "This is a complete sentence that specifically clarifies WHAT was confusing (too many characters with similar names) and WHY (lost track of who was speaking)."
+        },
+        {
+          "id": "C",
+          "label": "Yes, it was.",
+          "correct": false,
+          "explanation": "This confirms the statement but gives no clarification about what made it confusing."
+        },
+        {
+          "id": "D",
+          "label": "The whole book.",
+          "correct": false,
+          "explanation": "This is a fragment and still does not clarify what specifically was confusing."
+        }
+      ],
+      "explanation_md": "When asked to **clarify**, give a complete sentence that explains the specific reason -- what and why -- so the listener truly understands."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a complete sentence that gives detail?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "In the morning.",
+          "correct": false,
+          "explanation": "Fragment -- no subject or verb."
+        },
+        {
+          "id": "B",
+          "label": "Birds.",
+          "correct": false,
+          "explanation": "Single noun fragment -- no verb or complete thought."
+        },
+        {
+          "id": "C",
+          "label": "Because loud.",
+          "correct": false,
+          "explanation": "Fragment -- incomplete clause with no subject."
+        },
+        {
+          "id": "D",
+          "label": "In the morning, I heard birds singing loudly outside my window.",
+          "correct": true,
+          "explanation": "Complete sentence: subject (I), verb (heard), and specific details (birds, singing loudly, outside my window, in the morning)."
+        }
+      ],
+      "explanation_md": "A complete sentence with detail includes a **subject**, a **verb**, and **specific information** (when, where, what, how) that gives the listener a clear picture."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Your teacher asks you to add more detail to your answer: 'I liked the book.' What should you say?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I liked it a lot.",
+          "correct": false,
+          "explanation": "'A lot' adds emphasis but no specific detail about what made the book likable."
+        },
+        {
+          "id": "B",
+          "label": "I liked the book because the main character learned to be brave even when she was afraid.",
+          "correct": true,
+          "explanation": "This adds specific detail (the main character, learned to be brave, when afraid) that clarifies why the book was liked."
+        },
+        {
+          "id": "C",
+          "label": "Just because.",
+          "correct": false,
+          "explanation": "A fragment that gives no detail or explanation."
+        },
+        {
+          "id": "D",
+          "label": "It was good and stuff.",
+          "correct": false,
+          "explanation": "Vague language ('good and stuff') does not add real detail or clarification."
+        }
+      ],
+      "explanation_md": "When asked to **add detail**, include a 'because' clause with a specific reason: 'I liked the book **because** [specific reason].'"
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two answers to the question 'Why did the farmer in the story plant corn?'\n\n**Answer 1:** 'Corn.'\n**Answer 2:** 'The farmer planted corn because corn grew well in the dry soil of his land and he needed food for his family during winter.'\n\nWhat makes Answer 2 STRONGER?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Answer 2 is longer.",
+          "correct": false,
+          "explanation": "Length alone does not make an answer stronger -- it is the detail and completeness that matter."
+        },
+        {
+          "id": "B",
+          "label": "Answer 2 is a complete sentence with specific reasons (soil type, need for food, winter).",
+          "correct": true,
+          "explanation": "Answer 2 is a complete sentence and provides two specific reasons (dry soil, food for winter), directly answering why."
+        },
+        {
+          "id": "C",
+          "label": "Answer 1 is a complete sentence.",
+          "correct": false,
+          "explanation": "Answer 1 ('Corn.') is a one-word fragment, not a complete sentence."
+        },
+        {
+          "id": "D",
+          "label": "Answer 2 uses easier words.",
+          "correct": false,
+          "explanation": "The strength of Answer 2 is its completeness and specific detail, not simpler vocabulary."
+        }
+      ],
+      "explanation_md": "Complete sentences with **specific reasons and details** directly address the question and give listeners the full context they need to understand."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student answers the discussion question 'What was the problem in the story?' with: 'The girl, who was named Lily, in the story that we read about the rabbit...'\n\nWhat is the main problem with this answer?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It mentions the girl's name.",
+          "correct": false,
+          "explanation": "Mentioning the character's name is fine."
+        },
+        {
+          "id": "B",
+          "label": "It starts a sentence but never finishes the complete thought about the actual problem.",
+          "correct": true,
+          "explanation": "The student starts with a long subject phrase but never states what the problem actually was. The sentence is incomplete -- it needs a verb and the answer about the problem."
+        },
+        {
+          "id": "C",
+          "label": "It is too short.",
+          "correct": false,
+          "explanation": "The answer is not short -- the problem is that it is an unfinished thought, not that it lacks words."
+        },
+        {
+          "id": "D",
+          "label": "It repeats 'story' too many times.",
+          "correct": false,
+          "explanation": "Repetition is minor. The main issue is the incomplete sentence that never states the problem."
+        }
+      ],
+      "explanation_md": "When speaking, complete the **full thought**: state the subject AND the action or information. 'The girl named Lily...' needs to be followed by what the problem was."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is the BEST complete-sentence answer to: 'What did you learn from the story?'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "About kindness.",
+          "correct": false,
+          "explanation": "Fragment -- no subject or verb. Does not form a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "The story.",
+          "correct": false,
+          "explanation": "Fragment -- gives no information about what was learned."
+        },
+        {
+          "id": "C",
+          "label": "I learned that being kind to others, even when it is hard, can change someone's whole day.",
+          "correct": true,
+          "explanation": "Complete sentence with a subject (I), verb (learned), and specific detail about the lesson."
+        },
+        {
+          "id": "D",
+          "label": "Kindness. Important.",
+          "correct": false,
+          "explanation": "Two disconnected fragments -- not complete sentences."
+        }
+      ],
+      "explanation_md": "A complete answer includes a **subject** (I), a **verb** (learned), and **specific detail** about what the lesson was."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is missing from this answer?\n\n'Running to the finish line because wanted to win.'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A period",
+          "correct": false,
+          "explanation": "Adding a period alone will not fix the fragment -- it is missing a subject."
+        },
+        {
+          "id": "B",
+          "label": "A subject -- who is running and wanting to win",
+          "correct": true,
+          "explanation": "The sentence has no subject. Adding 'She was' or 'He ran' would make it complete."
+        },
+        {
+          "id": "C",
+          "label": "A longer story about the race",
+          "correct": false,
+          "explanation": "More story is not what is needed -- the problem is a missing subject."
+        },
+        {
+          "id": "D",
+          "label": "The word 'very'",
+          "correct": false,
+          "explanation": "Adding 'very' does not fix the missing subject."
+        }
+      ],
+      "explanation_md": "Every complete sentence needs a **subject** -- the person or thing performing the action. Without 'she,' 'he,' or a name, the sentence is a fragment."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher asks: 'Can you say more about why you think the ending was surprising?'\n\nWhich response gives the best clarification in a complete sentence?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Very surprising!",
+          "correct": false,
+          "explanation": "Fragment that adds emphasis but no clarification about what made it surprising."
+        },
+        {
+          "id": "B",
+          "label": "The ending surprised me because I thought the dog had run away forever, but he came back on the last page.",
+          "correct": true,
+          "explanation": "Complete sentence with specific clarification: explains the expectation (thought the dog had run away) and the surprise (came back on last page)."
+        },
+        {
+          "id": "C",
+          "label": "I already said it was surprising.",
+          "correct": false,
+          "explanation": "This does not add any new information or clarification."
+        },
+        {
+          "id": "D",
+          "label": "You know, the end part.",
+          "correct": false,
+          "explanation": "Vague and incomplete -- gives no clarification about what was surprising."
+        }
+      ],
+      "explanation_md": "**Clarification** means explaining your idea more specifically. Use a complete sentence that states your expectation AND what actually happened."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a complete sentence need?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A subject and a verb",
+          "correct": true,
+          "explanation": "Every complete sentence needs a subject (who/what) and a verb (action/state) plus a complete thought."
+        },
+        {
+          "id": "B",
+          "label": "At least ten words",
+          "correct": false,
+          "explanation": "Sentences can be short and complete. 'She ran.' has only two words and is complete."
+        },
+        {
+          "id": "C",
+          "label": "An exclamation mark",
+          "correct": false,
+          "explanation": "Punctuation type does not determine if a sentence is complete."
+        },
+        {
+          "id": "D",
+          "label": "A question word",
+          "correct": false,
+          "explanation": "Question words are for questions. A statement just needs a subject and verb."
+        }
+      ],
+      "explanation_md": "A **complete sentence** always has a **subject** (who/what) and a **verb** (action/state) and expresses a full thought."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a fragment (incomplete sentence)?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The bird sang.",
+          "correct": false,
+          "explanation": "This is complete: subject (The bird), verb (sang)."
+        },
+        {
+          "id": "B",
+          "label": "Running through the park.",
+          "correct": true,
+          "explanation": "Fragment -- no subject. Who is running?"
+        },
+        {
+          "id": "C",
+          "label": "She read the book.",
+          "correct": false,
+          "explanation": "This is complete: subject (She), verb (read)."
+        },
+        {
+          "id": "D",
+          "label": "We played soccer.",
+          "correct": false,
+          "explanation": "This is complete: subject (We), verb (played)."
+        }
+      ],
+      "explanation_md": "A **fragment** is missing the subject, verb, or a full thought. 'Running through the park' has no subject -- who is running?"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher asks: 'What is your favorite animal?' Which answer is a complete sentence?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Dogs.",
+          "correct": false,
+          "explanation": "One word -- a fragment, not a complete sentence."
+        },
+        {
+          "id": "B",
+          "label": "The big fluffy ones.",
+          "correct": false,
+          "explanation": "Fragment -- no verb and no complete thought."
+        },
+        {
+          "id": "C",
+          "label": "My favorite animal is a dog because dogs are loyal and playful.",
+          "correct": true,
+          "explanation": "Complete sentence with subject (My favorite animal), verb (is), and detail (loyal and playful)."
+        },
+        {
+          "id": "D",
+          "label": "Because I like them.",
+          "correct": false,
+          "explanation": "Dependent clause -- cannot stand alone as a complete sentence."
+        }
+      ],
+      "explanation_md": "Answer questions with a **complete sentence** that includes your answer and a reason or detail."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How can you fix this fragment? 'The tall tree.'",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Add a verb: 'The tall tree swayed in the strong wind.'",
+          "correct": true,
+          "explanation": "Adding a verb (swayed) and a complete thought makes this a full sentence."
+        },
+        {
+          "id": "B",
+          "label": "Add another noun: 'The tall tree and the bush.'",
+          "correct": false,
+          "explanation": "Adding another noun does not add a verb or complete thought -- still a fragment."
+        },
+        {
+          "id": "C",
+          "label": "Add an adjective: 'The tall, green tree.'",
+          "correct": false,
+          "explanation": "Adding a description does not fix the missing verb and complete thought."
+        },
+        {
+          "id": "D",
+          "label": "Add a period: 'The tall tree.'",
+          "correct": false,
+          "explanation": "A period alone does not fix a fragment -- the sentence still needs a verb and complete thought."
+        }
+      ],
+      "explanation_md": "To fix a fragment, add a **verb** and any other words needed to express a complete thought."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher says 'Can you say more about that?' This means you should ___.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Say the same thing again, louder",
+          "correct": false,
+          "explanation": "Repeating louder does not add detail -- it just repeats."
+        },
+        {
+          "id": "B",
+          "label": "Add more specific details to your answer",
+          "correct": true,
+          "explanation": "When a teacher asks you to say more, they want specific details -- explain why, how, or what."
+        },
+        {
+          "id": "C",
+          "label": "Ask a different question",
+          "correct": false,
+          "explanation": "Asking a different question does not clarify your original answer."
+        },
+        {
+          "id": "D",
+          "label": "Say nothing and wait",
+          "correct": false,
+          "explanation": "Staying silent does not give the teacher the clarification they asked for."
+        }
+      ],
+      "explanation_md": "When a teacher asks you to 'say more,' add **specific details** in a complete sentence -- explain what, why, or how."
+    }
+  ]
+}
