@@ -1,0 +1,253 @@
+{
+  "skill_id": "RI.2.6",
+  "benchmark_description": "Identify the main purpose of a text, including what the author wants to answer, explain, or describe.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "What Is the Author Trying to Do?",
+    "intro": "Every informational text is written for a reason. When you figure out WHY the author wrote the text, you understand the whole piece better. Ask yourself: Is the author trying to explain, describe, or answer a question?",
+    "body_md": "## Author's Purpose in Informational Text\n\nWhen a nonfiction author writes, they usually have one main purpose. The three most common purposes are:\n\n| Purpose | What the author does | Clue words |\n|---|---|---|\n| **Explain** | Tells how or why something works | because, so, this causes, steps |\n| **Describe** | Paints a picture of a person, place, thing, or event | looks like, has, is known for, can be found |\n| **Answer a question** | Responds to a question readers might have | Many texts begin with a question like 'Have you ever wondered why...?' |\n\n## How to Find the Main Purpose\n\n1. Read the title. Does it start with a question? Does it say 'How to' or 'The Story of'?\n2. Read the first paragraph. What is the author setting up to tell you?\n3. Think about the whole text. Was most of it explaining? Describing? Answering?\n4. Ask: 'What does the author MOST want me to know or understand?'\n\n## Why It Matters\n\nKnowing the author's purpose helps you:\n- Know what information to pay close attention to\n- Understand why the author chose specific details\n- Think critically about whether the text did its job",
+    "worked_example_md": "## Worked Example\n\nRead this text:\n\n> **Why Do Leaves Change Color?**\n> Have you ever wondered why leaves turn red, orange, and yellow in fall? The answer is hidden inside the leaf! Leaves contain chlorophyll, which makes them green. In summer, chlorophyll is very active. As days get shorter in fall, trees stop making chlorophyll. When the green fades away, other colors that were always in the leaf become visible.\n\n**Question:** What is the author's main purpose?\n\n**Step 1:** Look at the title. 'Why Do Leaves Change Color?' — it is a question! The text is going to answer it.\n\n**Step 2:** Look at the first sentence. 'Have you ever wondered why...' — this is an invitation to the reader, suggesting the text will answer a question.\n\n**Step 3:** Read through the text. It explains the science of why leaves change color.\n\n**Answer:** The author's main purpose is to **explain** (or answer) why leaves change color in fall. The author does this by describing what chlorophyll does and what happens when trees stop making it.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The blue whale is the largest animal on Earth. It can grow up to 100 feet long and weigh as much as 200 tons. Blue whales eat tiny shrimp-like creatures called krill. A single blue whale can eat up to 8,000 pounds of krill in one day.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To explain how blue whales hunt krill", "correct": false, "explanation": "The passage mentions what blue whales eat but does not explain how they hunt. It mostly describes the whale's size and eating habits."},
+        {"id": "b", "label": "To describe facts about the blue whale", "correct": true, "explanation": "The passage gives facts about the blue whale's size and diet. The purpose is to describe what blue whales are like."},
+        {"id": "c", "label": "To answer the question 'Why are whales endangered?'", "correct": false, "explanation": "Endangered status is not mentioned in the passage. The text describes blue whales, not their conservation status."},
+        {"id": "d", "label": "To convince readers to protect blue whales", "correct": false, "explanation": "The passage does not ask the reader to do anything or take a position. It simply describes facts."}
+      ],
+      "explanation_md": "The passage gives facts about the blue whale's size and what it eats. The author's main purpose is to describe facts about the blue whale."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Have you ever wondered how a volcano erupts? Deep inside the Earth, there is very hot melted rock called magma. When pressure builds up underground, the magma is forced up through cracks in Earth's crust. When it reaches the surface, it is called lava. The lava pours out of the volcano along with ash and gases.\n\nWhat **question** does the author most want to answer?",
+      "choices": [
+        {"id": "a", "label": "Where are the most dangerous volcanoes?", "correct": false, "explanation": "The passage does not talk about which volcanoes are most dangerous. It focuses on how eruptions happen."},
+        {"id": "b", "label": "How does a volcano erupt?", "correct": true, "explanation": "The very first sentence says 'Have you ever wondered how a volcano erupts?' The whole passage then explains the process. That is the question the author is answering."},
+        {"id": "c", "label": "What should you do if a volcano erupts near you?", "correct": false, "explanation": "The passage explains the science of eruptions but does not give safety instructions."},
+        {"id": "d", "label": "How many volcanoes are there in the world?", "correct": false, "explanation": "The passage does not mention how many volcanoes exist. It focuses on how eruptions happen."}
+      ],
+      "explanation_md": "The passage opens with 'Have you ever wondered how a volcano erupts?' and then explains the process step by step. The author's purpose is to answer the question of how volcanoes erupt."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The Sahara Desert is one of the most extreme places on Earth. During the day, temperatures can reach 136 degrees Fahrenheit. At night, they can drop below freezing. The Sahara stretches across northern Africa and covers about 3.6 million square miles. Surprisingly, only about 25% of the Sahara is covered with sand. The rest is covered with gravel, rock, and even mountains.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To explain why the Sahara is so hot", "correct": false, "explanation": "The passage mentions the heat but does not explain the cause of it. The purpose is to describe facts about the Sahara."},
+        {"id": "b", "label": "To answer the question 'How do animals survive in the Sahara?'", "correct": false, "explanation": "The passage does not discuss animals. It describes the desert itself."},
+        {"id": "c", "label": "To describe facts about the Sahara Desert", "correct": true, "explanation": "The passage gives facts about the Sahara's temperature range, location, size, and composition. The purpose is to describe this place."},
+        {"id": "d", "label": "To persuade readers to visit the Sahara", "correct": false, "explanation": "The passage does not encourage anyone to visit. It simply shares facts."}
+      ],
+      "explanation_md": "The passage describes the Sahara's extreme temperatures, location, size, and what it is made of. The author's main purpose is to describe facts about the Sahara Desert."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Many students wonder why it is important to get enough sleep. When you sleep, your brain organizes the things you learned during the day. Sleep also helps your body grow and fight germs. Children who do not get enough sleep often have trouble paying attention in school. Most second graders need about 9 to 11 hours of sleep each night.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To describe what the brain looks like", "correct": false, "explanation": "The passage mentions the brain's work during sleep but does not describe what the brain looks like."},
+        {"id": "b", "label": "To explain why sleep is important for children", "correct": true, "explanation": "The passage explains several reasons why sleep matters: brain organizes learning, body grows, fights germs, and helps attention. The purpose is to explain WHY sleep is important."},
+        {"id": "c", "label": "To describe different sleep disorders", "correct": false, "explanation": "The passage does not discuss sleep disorders. It explains the benefits of getting enough sleep."},
+        {"id": "d", "label": "To tell a story about a student who did not sleep enough", "correct": false, "explanation": "The passage presents facts, not a personal story."}
+      ],
+      "explanation_md": "The passage explains why sleep is important for children by giving several reasons. The author's main purpose is to explain why children need enough sleep."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Frederick Douglass was born into slavery in 1818. He taught himself to read, which was against the law for enslaved people at the time. He eventually escaped to the North and became a powerful speaker and writer who fought against slavery. His autobiography, first published in 1845, described the harsh reality of slavery and helped change minds about this cruel system.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To describe the life and contributions of Frederick Douglass", "correct": true, "explanation": "The passage gives key facts about Douglass's life: birth year, learning to read, escaping slavery, becoming a speaker and writer, and his autobiography. The purpose is to describe who he was and what he did."},
+        {"id": "b", "label": "To explain how people escape from slavery", "correct": false, "explanation": "The passage mentions that Douglass escaped but does not explain the process. The focus is on his whole life and legacy."},
+        {"id": "c", "label": "To answer the question 'Is slavery still legal in the United States?'", "correct": false, "explanation": "The passage describes Douglass's life and work against slavery but does not address current laws."},
+        {"id": "d", "label": "To convince readers to read Douglass's autobiography", "correct": false, "explanation": "The passage mentions the autobiography as a fact about Douglass, not to promote it. The purpose is to describe Douglass's life."}
+      ],
+      "explanation_md": "The passage covers Douglass's life from birth, to learning to read, to escaping, to becoming a powerful voice against slavery. The author's main purpose is to describe the life and contributions of Frederick Douglass."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Have you ever looked at clouds and wondered what they are made of? Clouds are made of millions of tiny water droplets or ice crystals floating in the air. Water from oceans and lakes evaporates, rises into the sky, and cools down. As it cools, it becomes droplets, which group together to form clouds. Different types of clouds form at different heights in the sky.\n\nHow does knowing the author's purpose help you read this passage?",
+      "choices": [
+        {"id": "a", "label": "It helps you skip parts that do not seem interesting.", "correct": false, "explanation": "Knowing the author's purpose helps you understand and appreciate the whole text, not skip parts of it."},
+        {"id": "b", "label": "It helps you focus on the explanation of how clouds form, since that is the author's main goal.", "correct": true, "explanation": "The author's purpose is to explain what clouds are made of and how they form. Knowing this helps you pay close attention to the steps in cloud formation, which is the core of what the author wants you to learn."},
+        {"id": "c", "label": "It tells you that this passage is a made-up story.", "correct": false, "explanation": "This is an informational text, not fiction. Knowing the author's purpose confirms it is meant to explain a real scientific process."},
+        {"id": "d", "label": "It helps you find the most exciting part of the text.", "correct": false, "explanation": "Author's purpose is not about finding excitement. It helps you understand what the author most wants you to learn."}
+      ],
+      "explanation_md": "The author's purpose is to explain what clouds are made of and how they form. Knowing this helps you focus on the explanation of the process, which is the heart of the text."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the two passage titles below, then answer the question.\n\n> **Title A:** 'How Honeybees Make Honey'\n> **Title B:** 'The Honeybee: Nature's Busy Worker'\n\nBased on the titles alone, what is most likely the **purpose** of each passage?",
+      "choices": [
+        {"id": "a", "label": "Title A describes facts; Title B explains a process.", "correct": false, "explanation": "It is actually the other way around. Title A says 'How ... Make,' which signals a process explanation. Title B describes the bee with a label like 'busy worker.'"},
+        {"id": "b", "label": "Title A explains a process; Title B describes something.", "correct": true, "explanation": "Title A starts with 'How,' suggesting an explanation of a process (how honey is made). Title B sounds like a descriptive profile of the honeybee."},
+        {"id": "c", "label": "Both titles suggest the passage will try to persuade the reader.", "correct": false, "explanation": "Neither title suggests persuasion. They suggest explanation and description."},
+        {"id": "d", "label": "Both titles suggest the passages will tell a story about bees.", "correct": false, "explanation": "These are informational text titles, not story titles. The 'How' and descriptive phrase signal nonfiction purposes."}
+      ],
+      "explanation_md": "'How Honeybees Make Honey' uses 'How,' which signals an explanation of a process. 'The Honeybee: Nature's Busy Worker' sounds like a description of what honeybees are and do. Titles are a great clue to an author's purpose."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Ruby Bridges was six years old when she became the first Black child to attend a formerly all-white elementary school in New Orleans, Louisiana, in 1960. She had to be escorted by federal marshals because protesters stood outside every day. Despite the fear and anger around her, Ruby went to school every day and sat alone in her classroom because her teacher was the only one who would teach her. Her courage helped change American schools forever.\n\nWhat does the author most want the reader to **understand** from this text?",
+      "choices": [
+        {"id": "a", "label": "How segregated schools worked", "correct": false, "explanation": "The passage does not explain how segregation worked in detail. It focuses on one person's story."},
+        {"id": "b", "label": "The remarkable courage of Ruby Bridges and the impact she had on American history", "correct": true, "explanation": "The passage describes what Ruby faced (marshals, protesters, sitting alone) and how her courage 'helped change American schools forever.' The author wants readers to understand how brave Ruby was and why that mattered."},
+        {"id": "c", "label": "Why federal marshals escort children to school", "correct": false, "explanation": "Federal marshals are mentioned as a detail about what Ruby faced, not as the main topic."},
+        {"id": "d", "label": "What life was like for all children in Louisiana in 1960", "correct": false, "explanation": "The passage focuses specifically on Ruby Bridges, not on all children in Louisiana."}
+      ],
+      "explanation_md": "The passage shows what Ruby went through (protesters, sitting alone, need for federal marshals) and ends by saying she 'helped change American schools forever.' The author wants readers to understand Ruby's remarkable courage and lasting impact."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A second grader reads a nonfiction book called 'Your Amazing Heart.' The book describes what the heart looks like, how it pumps blood, and how many times it beats each minute.\n\nWhat are **two** purposes this book likely has?",
+      "choices": [
+        {"id": "a", "label": "To tell a story about a heart and to scare the reader", "correct": false, "explanation": "This is nonfiction, not a story. Scaring the reader is not a typical nonfiction purpose."},
+        {"id": "b", "label": "To describe the heart and to explain how it works", "correct": true, "explanation": "The book describes what the heart looks like (description) and explains how it pumps blood and beats (explanation). Both purposes are present."},
+        {"id": "c", "label": "To convince readers to exercise more and to describe athletes", "correct": false, "explanation": "The book focuses on how the heart works, not on athletes or exercise promotion."},
+        {"id": "d", "label": "To answer a question and to entertain with jokes", "correct": false, "explanation": "While nonfiction can be entertaining, 'jokes' is not a typical purpose, and the specific purposes here are description and explanation."}
+      ],
+      "explanation_md": "The book describes what the heart looks like (description) and explains how it pumps blood (explanation). These are two of the most common purposes for informational text."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Every year, millions of plastic bottles end up in the ocean. Ocean currents carry this plastic into large, swirling patches far from shore. Marine animals sometimes mistake plastic for food. Scientists have found plastic in the stomachs of sea turtles, seabirds, and whales. This plastic makes animals sick and can kill them.\n\nA student says: 'This text is just describing facts about plastic in the ocean.' Another student says: 'The author is also trying to make readers understand the serious harm plastic causes.'\n\nWhich student is **more correct**, and why?",
+      "choices": [
+        {"id": "a", "label": "The first student, because the author never tells the reader what to do.", "correct": false, "explanation": "Author's purpose is not only about giving instructions. An author can make readers understand a serious problem without telling them what to do."},
+        {"id": "b", "label": "The second student, because the facts chosen (animals eating plastic, animals dying) all point to a specific purpose: showing the harm plastic causes.", "correct": true, "explanation": "The author did not just randomly describe facts. Every fact chosen (plastic in oceans, animals eating it, animals dying) builds a picture of harm. The author selected these facts to help readers understand how serious the problem is."},
+        {"id": "c", "label": "Both students are completely wrong.", "correct": false, "explanation": "Both students have a point. The text does describe facts. But the second student goes further and notices that the facts are chosen to show the harmful effects of plastic."},
+        {"id": "d", "label": "Neither student is correct because the text is fiction.", "correct": false, "explanation": "This is clearly an informational text about a real environmental issue. It is not fiction."}
+      ],
+      "explanation_md": "The second student is more complete. While the text does describe facts, every fact chosen points to plastic's harmful effects on ocean animals. An author's choice of facts reveals their purpose. Here, the purpose is to help readers understand the serious harm plastic causes to marine life."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The Giant Panda is one of the world's most recognized animals. Its black-and-white fur and round body make it look like a stuffed bear. Giant Pandas live only in the mountain forests of central China. They spend most of their day eating bamboo — sometimes up to 40 pounds of it in one day!\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To explain why giant pandas are endangered", "correct": false, "explanation": "The passage does not discuss why pandas are endangered. It describes the panda itself."},
+        {"id": "b", "label": "To describe the giant panda's appearance, habitat, and eating habits", "correct": true, "explanation": "The passage describes what pandas look like (black-and-white, round), where they live (China), and what they eat (bamboo). The purpose is to describe facts about the giant panda."},
+        {"id": "c", "label": "To compare giant pandas to stuffed bears", "correct": false, "explanation": "The comparison to a stuffed bear is a description technique, not the main purpose. The whole text is about describing pandas."},
+        {"id": "d", "label": "To explain how bamboo grows in China", "correct": false, "explanation": "Bamboo is mentioned as the panda's food, but the passage is about pandas, not about bamboo."}
+      ],
+      "explanation_md": "The passage describes the panda's look (black-and-white, round body), where it lives (mountain forests of China), and what it eats (bamboo). The main purpose is to describe the giant panda."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Have you ever wondered why the sky is blue? Sunlight looks white, but it is actually made up of all the colors of the rainbow. When sunlight enters Earth's atmosphere, it bumps into tiny particles. Blue light scatters more easily than other colors, so it spreads out across the sky. That is why the sky appears blue to our eyes.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To describe all the colors in a rainbow", "correct": false, "explanation": "The rainbow is mentioned briefly to explain sunlight. The text is about why the sky is blue."},
+        {"id": "b", "label": "To explain why the sky appears blue", "correct": true, "explanation": "The text opens with 'Have you ever wondered why the sky is blue?' and then explains the science behind it. The purpose is to answer and explain that question."},
+        {"id": "c", "label": "To describe different types of weather", "correct": false, "explanation": "The passage does not discuss weather types. It explains the color of the sky."},
+        {"id": "d", "label": "To persuade readers to study science", "correct": false, "explanation": "The passage explains a science fact. It does not encourage the reader to study science."}
+      ],
+      "explanation_md": "The passage opens with a question ('Have you ever wondered why the sky is blue?') and then explains the science. The main purpose is to explain why the sky appears blue."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads these two texts:\n\n**Text 1:** 'The rainforest is home to more than half of all the world's plant and animal species. It has tall trees that block the sunlight, creating a cool, dark floor. Colorful birds, insects, and reptiles fill every level.'\n\n**Text 2:** 'The rainforest is in danger. Every minute, forests the size of a football field are destroyed. Scientists warn that if this continues, thousands of species will go extinct.'\n\nHow is the **author's purpose** in Text 1 DIFFERENT from the purpose in Text 2?",
+      "choices": [
+        {"id": "a", "label": "Text 1 explains how rainforests grow; Text 2 describes what they look like.", "correct": false, "explanation": "Text 1 is the one that describes. Text 2 is the one that is making an argument or warning."},
+        {"id": "b", "label": "Text 1 describes the rainforest; Text 2 explains a problem and implies the reader should be concerned.", "correct": true, "explanation": "Text 1 gives facts about what the rainforest is like (description). Text 2 presents a crisis (deforestation) and uses words like 'in danger' and 'scientists warn' to make readers feel urgency. The purpose goes beyond description."},
+        {"id": "c", "label": "Both texts have the same purpose: to describe the rainforest.", "correct": false, "explanation": "Text 2 goes beyond describing by presenting a problem and a warning. The purposes are different."},
+        {"id": "d", "label": "Text 1 is fiction and Text 2 is nonfiction.", "correct": false, "explanation": "Both texts are nonfiction. They have different purposes, not different text types."}
+      ],
+      "explanation_md": "Text 1 describes the rainforest's plants, animals, and features. Text 2 presents a problem (deforestation) and implies the reader should be worried. Text 1's purpose is description; Text 2's purpose is to alert readers to a serious issue."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A book is called *'How Spiders Spin Their Webs.'* What is the most likely **purpose** of this book?",
+      "choices": [
+        {"id": "a", "label": "To tell a made-up story about a spider", "correct": false, "explanation": "The title says 'How Spiders Spin,' which suggests a nonfiction explanation, not a made-up story."},
+        {"id": "b", "label": "To explain how spiders make their webs", "correct": true, "explanation": "The title starts with 'How,' which is a signal that the book will explain a process."},
+        {"id": "c", "label": "To scare readers about spiders", "correct": false, "explanation": "The title is about how webs are made, not about scaring readers."},
+        {"id": "d", "label": "To list all the types of spiders in the world", "correct": false, "explanation": "The title is about how webs are spun, not about listing all spider types."}
+      ],
+      "explanation_md": "The title starts with 'How,' which is a clue that the book will explain a process. The purpose is to explain how spiders spin their webs."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are the three most common purposes for writing an informational text?",
+      "choices": [
+        {"id": "a", "label": "To excite, to bore, and to confuse", "correct": false, "explanation": "Authors do not aim to bore or confuse readers. The three main purposes for informational text are to explain, describe, or answer a question."},
+        {"id": "b", "label": "To explain, to describe, and to answer a question", "correct": true, "explanation": "Informational texts are written to explain how or why something happens, to describe a person, place, or thing, or to answer a question readers might have."},
+        {"id": "c", "label": "To make up characters, to tell jokes, and to rhyme", "correct": false, "explanation": "These are more related to fiction or poetry. Informational text has different purposes."},
+        {"id": "d", "label": "To sell products, to give recipes, and to write songs", "correct": false, "explanation": "These are specific types of writing, not the general purposes of informational text."}
+      ],
+      "explanation_md": "The three main purposes of informational text are to explain, to describe, and to answer a question."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The cheetah is the fastest land animal on Earth. It can reach speeds of up to 70 miles per hour. Cheetahs use their speed to chase down prey such as gazelles. They have a unique spotted coat that helps them blend into grassy areas.\n\nWhat is the **main purpose** of this text?",
+      "choices": [
+        {"id": "a", "label": "To explain why cheetahs are faster than other animals", "correct": false, "explanation": "The passage states that cheetahs are fast and uses their speed but does not explain scientifically WHY they are faster than other animals."},
+        {"id": "b", "label": "To describe facts about cheetahs", "correct": true, "explanation": "The passage tells us about the cheetah's speed, how it hunts, and its spotted coat. The purpose is to describe facts about cheetahs."},
+        {"id": "c", "label": "To tell a story about a cheetah chasing a gazelle", "correct": false, "explanation": "The passage is informational, not a story. It gives facts rather than telling a narrative."},
+        {"id": "d", "label": "To convince readers that cheetahs are better than lions", "correct": false, "explanation": "The passage does not compare cheetahs to lions or try to convince readers of anything."}
+      ],
+      "explanation_md": "The passage gives facts about how fast cheetahs are, how they hunt, and what they look like. The author's main purpose is to describe facts about cheetahs."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which title BEST suggests an **explanation** purpose?",
+      "choices": [
+        {"id": "a", "label": "The Mountain Lion: A Beautiful Big Cat", "correct": false, "explanation": "This title sounds like a description of the mountain lion. A description title often includes the subject followed by what it is."},
+        {"id": "b", "label": "How Rainbows Form", "correct": true, "explanation": "The word 'How' at the start signals that this text will explain a process — how rainbows form."},
+        {"id": "c", "label": "Amazing Animals of Africa", "correct": false, "explanation": "This title sounds like it will describe African animals, not explain a process."},
+        {"id": "d", "label": "Our Solar System", "correct": false, "explanation": "This title suggests a description of the solar system, not an explanation of how something works."}
+      ],
+      "explanation_md": "Titles starting with 'How' or 'Why' signal an explanation purpose. 'How Rainbows Form' is clearly going to explain the process."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Have you ever wondered why we have seasons? Earth moves around the sun, but it is tilted. When the northern part of Earth tilts toward the sun, we get summer. When it tilts away, we get winter.\n\nWhat question is the author **answering**?",
+      "choices": [
+        {"id": "a", "label": "What does summer feel like?", "correct": false, "explanation": "The passage explains why seasons happen, not what summer feels like."},
+        {"id": "b", "label": "Why do we have seasons?", "correct": true, "explanation": "The first sentence asks 'Have you ever wondered why we have seasons?' The whole passage then answers that question."},
+        {"id": "c", "label": "How far is Earth from the sun?", "correct": false, "explanation": "The passage does not discuss Earth's distance from the sun."},
+        {"id": "d", "label": "What is the hottest planet?", "correct": false, "explanation": "The passage is about Earth and its seasons, not about the hottest planet."}
+      ],
+      "explanation_md": "The passage opens with 'Have you ever wondered why we have seasons?' and then answers it. The author's purpose is to answer that question."
+    }
+  ]
+}
