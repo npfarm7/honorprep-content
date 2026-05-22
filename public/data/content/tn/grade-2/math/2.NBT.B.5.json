@@ -1,0 +1,363 @@
+{
+  "skill_id": "2.NBT.B.5",
+  "benchmark_description": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Adding and Subtracting Within 100",
+    "intro": "Once you understand place value, adding and subtracting two-digit numbers is like solving a fun puzzle \u2014 you break numbers apart by tens and ones, then put them back together. Let's see how!",
+    "body_md": "## Strategy 1: Break Apart by Place Value\n\nSplit each number into tens and ones, add the tens, add the ones, then combine.\n\n**Example: 43 + 35**\n- Tens: 40 + 30 = 70\n- Ones: 3 + 5 = 8\n- Total: 70 + 8 = **78**\n\n## Strategy 2: Adding On (Counting Up)\n\nStart with the bigger number and add on the smaller one.\n\n**Example: 56 + 27**\n- Start at 56.\n- Add 20 (the tens of 27): 56 + 20 = 76\n- Add 7 (the ones of 27): 76 + 7 = **83**\n\n## Strategy 3: Regrouping (When Ones Add Up to 10 or More)\n\nWhen the ones digits add to 10 or more, regroup 10 ones into 1 ten.\n\n**Example: 47 + 36**\n- Ones: 7 + 6 = 13. Write 3, carry 1 ten.\n- Tens: 4 + 3 + 1 (carried) = 8\n- Total: **83**\n\n## Strategy 4: Subtracting by Place Value\n\nSubtract the tens, then subtract the ones.\n\n**Example: 78 - 43**\n- Tens: 70 - 40 = 30\n- Ones: 8 - 3 = 5\n- Total: 30 + 5 = **35**\n\n## Strategy 5: Counting Back\n\nStart at the bigger number and count back.\n\n**Example: 65 - 28**\n- Start at 65.\n- Subtract 20: 65 - 20 = 45\n- Subtract 8: 45 - 8 = **37**\n\n## Strategy 6: Regrouping in Subtraction\n\nWhen you cannot subtract the ones, borrow 1 ten from the tens.\n\n**Example: 52 - 27**\n- Ones: 2 - 7 \u2014 can't do it! Borrow 1 ten from 5 tens.\n- Now: 12 - 7 = 5 ones; 4 tens - 2 tens = 2 tens\n- Total: **25**\n\n## Check with the Inverse\n\nYou can always check subtraction with addition:\n52 - 27 = 25 \u2192 Check: 25 + 27 = 52? Yes!",
+    "worked_example_md": "**Problem:** 63 - 38 = ?\n\n**Method: Subtract by breaking apart**\n- Start at 63.\n- Subtract 30 (the tens of 38): 63 - 30 = 33\n- Subtract 8 (the ones of 38): 33 - 8 = 25\n\n**Method: Regrouping (column subtraction)**\n```\n  5 13\n  6  3\n- 3  8\n-----\n  2  5\n```\nBorrow 1 ten from the 6: 6 becomes 5 tens, and 3 becomes 13 ones.\n13 - 8 = 5, then 5 - 3 = 2.\n\n**Answer: 63 - 38 = 25**\n\n**Check:** 25 + 38 = 63? 25 + 38 = 63. Yes!",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 34 + 25?",
+      "correct_answer": "59",
+      "explanation_md": "Tens: 30 + 20 = 50. Ones: 4 + 5 = 9. Total: 50 + 9 = 59."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 78 - 35?",
+      "correct_answer": "43",
+      "explanation_md": "Tens: 70 - 30 = 40. Ones: 8 - 5 = 3. Total: 40 + 3 = 43."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 47 + 36?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "73",
+          "correct": false,
+          "explanation": "47 + 36: ones 7 + 6 = 13, write 3 carry 1. Tens: 4 + 3 + 1 = 8. Answer is 83."
+        },
+        {
+          "id": "b",
+          "label": "83",
+          "correct": true,
+          "explanation": "Correct! 47 + 36 = 83. Ones: 7 + 6 = 13 (write 3, carry 1). Tens: 4 + 3 + 1 = 8."
+        },
+        {
+          "id": "c",
+          "label": "84",
+          "correct": false,
+          "explanation": "Not quite. 47 + 36: ones 7 + 6 = 13, write 3 carry 1. Tens: 4 + 3 + 1 = 8. Answer is 83."
+        },
+        {
+          "id": "d",
+          "label": "71",
+          "correct": false,
+          "explanation": "You forgot the ones. 47 + 36: ones 7 + 6 = 13, write 3 carry 1. Tens: 4 + 3 + 1 = 8. Answer is 83."
+        }
+      ],
+      "explanation_md": "47 + 36 = 83. Ones: 7 + 6 = 13 (write 3, carry 1 ten). Tens: 4 + 3 + 1 = 8."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 61 - 29?",
+      "correct_answer": "32",
+      "explanation_md": "Subtract: 61 - 29. Subtract tens: 61 - 20 = 41. Subtract ones: 41 - 9 = 32. Or with regrouping: borrow 1 ten from 6 tens. 11 - 9 = 2, then 5 - 2 = 3. Answer: 32."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "James had 84 baseball cards. He gave 47 to his friend. How many cards does James have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "37",
+          "correct": true,
+          "explanation": "Correct! 84 - 47 = 37. Borrow: 14 - 7 = 7, then 7 - 4 = 3. Answer: 37."
+        },
+        {
+          "id": "b",
+          "label": "43",
+          "correct": false,
+          "explanation": "Check again. 84 - 47: borrow 1 ten from the 8. 14 - 7 = 7 ones. 7 tens - 4 tens = 3 tens. Answer: 37."
+        },
+        {
+          "id": "c",
+          "label": "47",
+          "correct": false,
+          "explanation": "That is the number given away. 84 - 47 = 37."
+        },
+        {
+          "id": "d",
+          "label": "31",
+          "correct": false,
+          "explanation": "Not quite. 84 - 47: borrow and regroup. 14 - 7 = 7. 7 - 4 = 3. Answer: 37."
+        }
+      ],
+      "explanation_md": "84 - 47 = 37. Borrow 1 ten: 14 - 7 = 7 ones, 7 tens - 4 tens = 3 tens. Total: 37."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 56 + 38?",
+      "correct_answer": "94",
+      "explanation_md": "56 + 38: Ones: 6 + 8 = 14, write 4 carry 1. Tens: 5 + 3 + 1 = 9. Answer: 94."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which addition problem has the same answer as 75 - 38?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "38 + 37 = 75",
+          "correct": false,
+          "explanation": "38 + 37 = 75 is the check equation, but we need an equation equal to just 75 - 38 = 37. We need an addition problem that equals 37."
+        },
+        {
+          "id": "b",
+          "label": "37 + 0 = 37",
+          "correct": true,
+          "explanation": "Correct! 75 - 38 = 37. So any equation that equals 37, like 37 + 0, has the same answer."
+        },
+        {
+          "id": "c",
+          "label": "38 + 75 = 113",
+          "correct": false,
+          "explanation": "113 does not equal 37. 75 - 38 = 37."
+        },
+        {
+          "id": "d",
+          "label": "40 + 38 = 78",
+          "correct": false,
+          "explanation": "78 does not equal 37. 75 - 38 = 37."
+        }
+      ],
+      "explanation_md": "75 - 38 = 37. Any addition problem that equals 37 has the same answer."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 93 - 55?",
+      "correct_answer": "38",
+      "explanation_md": "93 - 55: Subtract tens: 93 - 50 = 43. Subtract ones: 43 - 5 = 38. Answer: 38."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Maria solved 27 + 46 and got 63. Is she correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 63 is correct.",
+          "correct": false,
+          "explanation": "27 + 46: Ones: 7 + 6 = 13, write 3 carry 1. Tens: 2 + 4 + 1 = 7. Answer is 73, not 63."
+        },
+        {
+          "id": "b",
+          "label": "No, the answer is 73.",
+          "correct": true,
+          "explanation": "Correct! 27 + 46 = 73. Ones: 7 + 6 = 13 (write 3, carry 1). Tens: 2 + 4 + 1 = 7. Maria forgot to carry the 1."
+        },
+        {
+          "id": "c",
+          "label": "No, the answer is 83.",
+          "correct": false,
+          "explanation": "27 + 46: Ones: 7 + 6 = 13, write 3 carry 1. Tens: 2 + 4 + 1 = 7. The answer is 73."
+        },
+        {
+          "id": "d",
+          "label": "No, the answer is 64.",
+          "correct": false,
+          "explanation": "27 + 46 = 73. Ones: 7 + 6 = 13 (carry 1). Tens: 2 + 4 + 1 = 7. Answer: 73."
+        }
+      ],
+      "explanation_md": "27 + 46 = 73. Maria forgot to carry the 1 ten when the ones added to 13."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Ben needs 100 points to win a game. He already has 67 points. He scores some more points and now has 95 points. How many points does he still need to win?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5",
+          "correct": true,
+          "explanation": "Correct! He needs 100 points total. He has 95. 100 - 95 = 5 more points needed."
+        },
+        {
+          "id": "b",
+          "label": "28",
+          "correct": false,
+          "explanation": "28 is how many points he scored (95 - 67 = 28). But the question asks how many he still needs: 100 - 95 = 5."
+        },
+        {
+          "id": "c",
+          "label": "33",
+          "correct": false,
+          "explanation": "33 is how many he needed before scoring (100 - 67 = 33). Now he has 95, so 100 - 95 = 5 more."
+        },
+        {
+          "id": "d",
+          "label": "3",
+          "correct": false,
+          "explanation": "He has 95 and needs 100. 100 - 95 = 5, not 3."
+        }
+      ],
+      "explanation_md": "He has 95 points and needs 100. 100 - 95 = 5 more points needed."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "What is 64 + 27?",
+      "correct_answer": "91",
+      "explanation_md": "64 + 27: Ones: 4 + 7 = 11, write 1 carry 1. Tens: 6 + 2 + 1 = 9. Answer: 91."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is 82 - 39?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "43",
+          "correct": true,
+          "explanation": "Correct! 82 - 39 = 43. Borrow: 12 - 9 = 3 ones, 7 tens - 3 tens = 4 tens. Answer: 43."
+        },
+        {
+          "id": "b",
+          "label": "53",
+          "correct": false,
+          "explanation": "82 - 39: borrow 1 ten. 12 - 9 = 3 ones. 7 - 3 = 4 tens. Answer is 43, not 53."
+        },
+        {
+          "id": "c",
+          "label": "47",
+          "correct": false,
+          "explanation": "82 - 39: Borrow: 12 - 9 = 3. 7 - 3 = 4. Answer is 43."
+        },
+        {
+          "id": "d",
+          "label": "33",
+          "correct": false,
+          "explanation": "82 - 39: Borrow: 12 - 9 = 3. 7 - 3 = 4. Answer is 43, not 33."
+        }
+      ],
+      "explanation_md": "82 - 39 = 43. Borrow 1 ten: 12 - 9 = 3 ones, 7 - 3 = 4 tens."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "A farmer had 75 eggs. He sold 48. Then his hens laid 27 more. How many eggs does the farmer have now?",
+      "correct_answer": "54",
+      "explanation_md": "Step 1: 75 - 48 = 27 eggs after selling. Step 2: 27 + 27 = 54 eggs after the hens laid more."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 23 + 14?",
+      "correct_answer": "37",
+      "explanation_md": "Tens: 20 + 10 = 30. Ones: 3 + 4 = 7. Total: 30 + 7 = 37."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "What is 56 - 23?",
+      "correct_answer": "33",
+      "explanation_md": "Tens: 50 - 20 = 30. Ones: 6 - 3 = 3. Total: 30 + 3 = 33."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 45 + 30?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "48",
+          "correct": false,
+          "explanation": "You added 30 to the ones. 30 is 3 tens. Add the tens: 40 + 30 = 70, keep the 5 ones. Answer: 75."
+        },
+        {
+          "id": "b",
+          "label": "75",
+          "correct": true,
+          "explanation": "Correct! 45 + 30: Add the tens (4 + 3 = 7 tens), keep the ones (5). Answer: 75."
+        },
+        {
+          "id": "c",
+          "label": "85",
+          "correct": false,
+          "explanation": "45 + 30: tens 4 + 3 = 7, ones 5 + 0 = 5. Answer: 75, not 85."
+        },
+        {
+          "id": "d",
+          "label": "70",
+          "correct": false,
+          "explanation": "You dropped the ones. 45 + 30 = 75. Keep the 5 ones."
+        }
+      ],
+      "explanation_md": "45 + 30 = 75. Add tens (40 + 30 = 70), keep ones (5). Total: 75."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "What is 68 - 40?",
+      "correct_answer": "28",
+      "explanation_md": "68 - 40: Subtract 4 tens from 6 tens: 6 - 4 = 2 tens. Keep the 8 ones. Answer: 28."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 36 + 25?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "51",
+          "correct": false,
+          "explanation": "Tens: 30 + 20 = 50. Ones: 6 + 5 = 11 (write 1, carry 1). Total: 50 + 11 = 61."
+        },
+        {
+          "id": "b",
+          "label": "61",
+          "correct": true,
+          "explanation": "Correct! 36 + 25 = 61. Ones: 6 + 5 = 11 (write 1, carry 1). Tens: 3 + 2 + 1 = 6."
+        },
+        {
+          "id": "c",
+          "label": "59",
+          "correct": false,
+          "explanation": "36 + 25: Ones 6 + 5 = 11. Write 1, carry 1. Tens: 3 + 2 + 1 = 6. Answer: 61."
+        },
+        {
+          "id": "d",
+          "label": "55",
+          "correct": false,
+          "explanation": "36 + 25: Ones 6 + 5 = 11. The carried ten is important! Answer: 61."
+        }
+      ],
+      "explanation_md": "36 + 25 = 61. Ones: 6 + 5 = 11 (write 1, carry 1 ten). Tens: 3 + 2 + 1 = 6."
+    }
+  ]
+}
