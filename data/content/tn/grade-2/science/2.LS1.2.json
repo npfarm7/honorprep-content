@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.LS1.2",
+  "benchmark_description": "Develop a model that mimics the function of an animal in dispersing seeds or pollinating plants.",
+  "course": "science",
+  "strand": "LS",
+  "lesson": {
+    "title": "Animals Help Plants: Seeds and Pollen",
+    "intro": "Did you know that animals help plants make new plants? Bees carry pollen from flower to flower, and squirrels bury seeds that grow into new trees. Animals are plant helpers!",
+    "body_md": "## Two Big Ways Animals Help Plants\n\n### 1. Pollination\n\n**Pollination** happens when pollen moves from one flower to another. This helps the plant make seeds.\n\n- **Bees** land on flowers to drink nectar. As they do, pollen sticks to their fuzzy bodies. When they fly to the next flower, pollen rubs off and pollinates it.\n- **Butterflies** and **hummingbirds** also carry pollen when they visit flowers.\n\n### 2. Seed Dispersal\n\n**Seed dispersal** means moving seeds away from the parent plant. This gives seeds a better chance to grow where there is space, sunlight, and water.\n\n- **Squirrels** bury acorns (seeds) for winter food. Some are forgotten and grow into new oak trees.\n- **Birds** eat berries, fly far away, and drop seeds in their droppings.\n- **Bears and deer** walk through bushes and seeds with hooks or burrs stick to their fur. The seeds fall off in a new place.\n\n## Making a Model\n\nA **model** is something that shows how a real thing works without being the actual thing.\n\n**Example model of pollination:** Stick cotton balls to your fingers (to mimic fuzzy bee legs). Press your fingers into yellow powder (pollen). Press them into another flower shape. The powder on the cotton ball moves to the new flower \u2014 just like a bee pollinates!\n\n**Example model of seed dispersal:** Tape hook-and-loop (Velcro) pieces to a ball to mimic animal fur. Press the ball against cards with seed pictures on them. Move the ball to another location. The seed pictures stick and travel with the ball, just like seeds sticking to fur.",
+    "worked_example_md": "## Worked Example: Bee Pollination Model\n\n**Question:** A student wants to make a model that shows how bees pollinate flowers. What could she use?\n\n**Model design:**\n- Use a yellow craft pompom (to be the bee)\n- Sprinkle yellow cornmeal or powder (to be pollen) on a paper flower\n- Press the pompom on Flower 1 \u2014 yellow powder sticks to it\n- Move the pompom to Flower 2 and press gently \u2014 some yellow powder rubs off\n\n**What the model shows:** The pompom picks up pollen from one flower and leaves pollen on a second flower, just like a bee does when it flies from flower to flower collecting nectar.\n\n**What the model does NOT show:** The bee is actually flying, drinking nectar, and has six legs. The model only mimics the pollen-transfer function.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A bee lands on a flower to drink nectar. While it is there, pollen sticks to its body. Then the bee flies to another flower. What happens to the pollen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The pollen falls off the bee and into the soil",
+          "correct": false,
+          "explanation": "Pollen does not fall to the soil this way. It transfers to the next flower when the bee lands."
+        },
+        {
+          "id": "b",
+          "label": "The pollen rubs off onto the next flower, helping pollinate it",
+          "correct": true,
+          "explanation": "When the bee lands on the next flower, pollen on its body rubs onto that flower. This is pollination."
+        },
+        {
+          "id": "c",
+          "label": "The pollen stays on the bee forever",
+          "correct": false,
+          "explanation": "Pollen rubs off onto the next flower the bee visits. That is the point of pollination."
+        },
+        {
+          "id": "d",
+          "label": "The pollen turns into nectar",
+          "correct": false,
+          "explanation": "Pollen and nectar are different things. Pollen does not turn into nectar."
+        }
+      ],
+      "explanation_md": "When a bee carries pollen from one flower to another, pollen rubs off onto the second flower. This pollination helps the plant make seeds."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A squirrel buries an acorn in the ground and then forgets where it buried it. What might happen to that acorn?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The acorn will never grow because it is too deep",
+          "correct": false,
+          "explanation": "Acorns buried at the right depth can actually germinate (sprout) and grow into oak trees."
+        },
+        {
+          "id": "b",
+          "label": "The acorn could grow into a new oak tree",
+          "correct": true,
+          "explanation": "When a squirrel forgets a buried acorn, the acorn can sprout and grow into a new oak tree. The squirrel accidentally dispersed (spread) the seed."
+        },
+        {
+          "id": "c",
+          "label": "The acorn will turn into a different type of nut",
+          "correct": false,
+          "explanation": "An acorn grows into an oak tree, not a different type of nut."
+        },
+        {
+          "id": "d",
+          "label": "The acorn will just rot and nothing will happen",
+          "correct": false,
+          "explanation": "Some forgotten acorns do rot, but many sprout and grow into new trees. Squirrels are important seed dispersers."
+        }
+      ],
+      "explanation_md": "A forgotten buried acorn can sprout and grow into a new oak tree. Squirrels accidentally help disperse seeds this way."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student makes a model of seed dispersal using a sock and cards with seed pictures. She walks through a pile of cards and the cards stick to the sock. What does the sock represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A flower",
+          "correct": false,
+          "explanation": "The sock is mimicking something furry that seeds stick to \u2014 an animal, not a flower."
+        },
+        {
+          "id": "b",
+          "label": "An animal's fur",
+          "correct": true,
+          "explanation": "The fuzzy sock represents an animal's fur. Seeds with hooks or burrs stick to animal fur and are carried to new places, just like the cards stick to the sock."
+        },
+        {
+          "id": "c",
+          "label": "A bee's wings",
+          "correct": false,
+          "explanation": "Wings are not fuzzy and do not carry seeds by sticking. The sock represents animal fur."
+        },
+        {
+          "id": "d",
+          "label": "The soil",
+          "correct": false,
+          "explanation": "Soil is where seeds land, not what carries them. The sock represents animal fur."
+        }
+      ],
+      "explanation_md": "The fuzzy sock represents animal fur. Seeds with hooks or burrs stick to animal fur and get carried to new locations, just like the picture cards stuck to the sock."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it helpful for seeds to be moved away from the parent plant?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So the new plant can use the parent plant's roots",
+          "correct": false,
+          "explanation": "A new plant cannot use another plant's roots. It grows its own."
+        },
+        {
+          "id": "b",
+          "label": "So the new plant has more space, sunlight, and water to grow",
+          "correct": true,
+          "explanation": "If seeds fall right under the parent plant, they compete for the same space, sunlight, and water. Moving seeds to new locations gives each plant a better chance to grow."
+        },
+        {
+          "id": "c",
+          "label": "So the seeds can turn into animals",
+          "correct": false,
+          "explanation": "Seeds grow into plants, not animals."
+        },
+        {
+          "id": "d",
+          "label": "So the seeds can move back to the same spot later",
+          "correct": false,
+          "explanation": "Seeds are dispersed to NEW locations so they have space to grow, not to return to the same spot."
+        }
+      ],
+      "explanation_md": "Moving seeds away from the parent plant gives new plants more space, sunlight, and water to grow without competing with the parent."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A bird eats a berry. The berry has seeds inside. The bird flies 2 miles away and drops the seeds in its droppings. What did the bird do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pollinated the berry plant",
+          "correct": false,
+          "explanation": "Pollination involves pollen moving between flowers. The bird eating and spreading seeds is seed dispersal, not pollination."
+        },
+        {
+          "id": "b",
+          "label": "Dispersed the seeds of the berry plant to a new location",
+          "correct": true,
+          "explanation": "The bird ate the berry, flew far away, and dropped the seeds. This is seed dispersal \u2014 moving seeds to a new location."
+        },
+        {
+          "id": "c",
+          "label": "Watered the berry plant",
+          "correct": false,
+          "explanation": "The bird did not water the plant. It spread the seeds to a new location."
+        },
+        {
+          "id": "d",
+          "label": "Nothing useful \u2014 eating berries does not help plants",
+          "correct": false,
+          "explanation": "Eating berries and depositing seeds in a new place is very helpful for plants. It spreads their seeds far from the parent plant."
+        }
+      ],
+      "explanation_md": "The bird ate the berry and dropped the seeds far away in its droppings. This is seed dispersal \u2014 the bird moved seeds to a new location where they can grow."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student designs a model using a small sticky ball that picks up paper 'seeds' when rolled across a surface. She rolls the ball across 'seeds' in one area, then moves the ball to another area where it drops them. What function does this model show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pollination by bees",
+          "correct": false,
+          "explanation": "Pollination involves pollen and flowers, not seeds sticking to fur. This model shows seed dispersal."
+        },
+        {
+          "id": "b",
+          "label": "Seed dispersal by animals with sticky or hooked seeds",
+          "correct": true,
+          "explanation": "The sticky ball mimics an animal's fur (or skin). Seeds with hooks or burrs stick to fur and travel with the animal. This model demonstrates seed dispersal."
+        },
+        {
+          "id": "c",
+          "label": "How seeds are made inside flowers",
+          "correct": false,
+          "explanation": "Seeds are made through pollination, not by sticking to animals. This model shows seed dispersal."
+        },
+        {
+          "id": "d",
+          "label": "How plants grow toward sunlight",
+          "correct": false,
+          "explanation": "Growing toward sunlight is a different plant behavior. This model shows seed dispersal."
+        }
+      ],
+      "explanation_md": "The sticky ball mimics animal fur. Seeds with hooks or burrs stick to animal fur and travel to a new location, just as the paper seeds traveled with the sticky ball. This models seed dispersal."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the purpose of a model in science?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To be exactly the same as the real thing",
+          "correct": false,
+          "explanation": "A model is a simplified version that shows how something works. It is not exactly the same as the real thing."
+        },
+        {
+          "id": "b",
+          "label": "To mimic or represent how something real works so we can learn from it",
+          "correct": true,
+          "explanation": "Models represent real things or processes. They help us understand how something works without needing the actual thing."
+        },
+        {
+          "id": "c",
+          "label": "To trick people into thinking something is real when it is not",
+          "correct": false,
+          "explanation": "Models are used for learning, not to deceive. They show how real processes work."
+        },
+        {
+          "id": "d",
+          "label": "To be prettier than the real thing",
+          "correct": false,
+          "explanation": "Models are designed for learning, not for beauty."
+        }
+      ],
+      "explanation_md": "A model represents how a real thing or process works. It helps scientists and students understand and communicate ideas without needing the actual organism or event."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which animal is MOST LIKELY to help with pollination?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A fish",
+          "correct": false,
+          "explanation": "Fish live in water and do not visit flowers. They do not transfer pollen."
+        },
+        {
+          "id": "b",
+          "label": "A bee",
+          "correct": true,
+          "explanation": "Bees visit flowers to collect nectar and pollen. Pollen sticks to their fuzzy bodies and is transferred to other flowers, pollinating them."
+        },
+        {
+          "id": "c",
+          "label": "A snake",
+          "correct": false,
+          "explanation": "Snakes do not typically visit flowers. They are not pollinators."
+        },
+        {
+          "id": "d",
+          "label": "A crab",
+          "correct": false,
+          "explanation": "Crabs live near water and do not visit flowers. They do not pollinate plants."
+        }
+      ],
+      "explanation_md": "Bees are one of the most important pollinators. They visit flowers for nectar and pollen sticks to their fuzzy bodies, transferring from flower to flower."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student models bee pollination using a cotton ball dipped in yellow powder. She touches the ball to 'Flower 1' and some yellow powder sticks. Then she touches it to 'Flower 2' and yellow powder rubs off. What is one thing this model does well, and one thing it does NOT show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Does well: shows pollen transfer. Does not show: the bee flying or drinking nectar",
+          "correct": true,
+          "explanation": "The model does show pollen transferring from one flower to another (what the cotton ball picks up and deposits). It does not show the bee's behavior \u2014 flying, drinking nectar, or having six legs."
+        },
+        {
+          "id": "b",
+          "label": "Does well: shows the bee singing. Does not show: pollen movement",
+          "correct": false,
+          "explanation": "Bees do not sing, and the model does show pollen movement (the yellow powder). This answer is wrong on both parts."
+        },
+        {
+          "id": "c",
+          "label": "Does well: shows the bee making honey. Does not show: flowers",
+          "correct": false,
+          "explanation": "The model does not show honey-making. The model does include flowers (flower shapes)."
+        },
+        {
+          "id": "d",
+          "label": "Does well: shows the bee resting. Does not show: pollen",
+          "correct": false,
+          "explanation": "The model shows pollen transfer, not rest. This answer is incorrect."
+        }
+      ],
+      "explanation_md": "The model does well at showing pollen transfer (yellow powder moving from one flower shape to another). It does not show the bee flying, drinking nectar, or its actual insect body \u2014 only the pollen-transfer function."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student argues that bees help plants survive. A classmate says bees only help themselves by getting food. Who is closer to the truth, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The classmate \u2014 bees only help themselves",
+          "correct": false,
+          "explanation": "While bees do benefit by getting food, they also benefit plants by transferring pollen. Both organisms benefit from this relationship."
+        },
+        {
+          "id": "b",
+          "label": "The student \u2014 bees help plants by pollinating them, even if bees also benefit",
+          "correct": true,
+          "explanation": "Both are partly right. Bees get food (nectar and pollen) AND plants get pollinated (which allows them to make seeds and reproduce). This is a mutualistic relationship \u2014 both benefit."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 bees and plants have nothing to do with each other",
+          "correct": false,
+          "explanation": "Bees and flowers have a close relationship. Bees get food from flowers and plants get pollinated by bees."
+        },
+        {
+          "id": "d",
+          "label": "The student \u2014 bees only help plants and get no benefit for themselves",
+          "correct": false,
+          "explanation": "Bees do benefit from flowers by getting nectar (food) and pollen. It is a two-way relationship."
+        }
+      ],
+      "explanation_md": "Both the student and classmate have part of the truth. Bees get food (nectar and pollen) from flowers, AND plants get pollinated by bees. Both organisms benefit from this relationship."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student makes a model of how birds spread berry seeds. She uses a small toy bird, pretend berries (with paper seeds inside), and a large mat. She makes the bird 'eat' the berries in one area and drop the seeds on a different part of the mat. What does this model demonstrate?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pollination by birds",
+          "correct": false,
+          "explanation": "Pollination involves moving pollen between flowers. This model shows a bird eating berries and dropping seeds \u2014 that is seed dispersal."
+        },
+        {
+          "id": "b",
+          "label": "Seed dispersal \u2014 how birds carry and drop seeds in new locations",
+          "correct": true,
+          "explanation": "The model shows the bird eating berries and depositing seeds in a new location, which mimics how birds disperse seeds in real life."
+        },
+        {
+          "id": "c",
+          "label": "How birds make their nests",
+          "correct": false,
+          "explanation": "Nest-making is not what this model shows. The model shows seed dispersal."
+        },
+        {
+          "id": "d",
+          "label": "How berries get water",
+          "correct": false,
+          "explanation": "The model shows seeds being moved to a new location, not how berries receive water."
+        }
+      ],
+      "explanation_md": "The model demonstrates seed dispersal \u2014 how birds eat berries and drop seeds in new locations, allowing plants to spread and grow in new places."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two students compare pollination and seed dispersal. Student A says: 'Both pollination and seed dispersal involve animals helping plants.' Student B says: 'Pollination and seed dispersal are the same thing.' Who is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Student A is correct \u2014 both involve animals helping plants, but they are different processes",
+          "correct": true,
+          "explanation": "Student A is right. Both involve animals helping plants, but pollination (moving pollen between flowers) and seed dispersal (moving seeds to new places) are different processes with different animal behaviors."
+        },
+        {
+          "id": "b",
+          "label": "Student B is correct \u2014 pollination and seed dispersal are the same thing",
+          "correct": false,
+          "explanation": "Pollination and seed dispersal are different processes. Pollination moves pollen to help plants make seeds. Seed dispersal moves seeds to new locations to grow."
+        },
+        {
+          "id": "c",
+          "label": "Neither student is correct",
+          "correct": false,
+          "explanation": "Student A is correct. Both processes do involve animals helping plants, and they are different processes."
+        },
+        {
+          "id": "d",
+          "label": "Both students are completely correct",
+          "correct": false,
+          "explanation": "Student B is incorrect. Pollination and seed dispersal are not the same thing."
+        }
+      ],
+      "explanation_md": "Student A is correct. Both pollination (moving pollen between flowers) and seed dispersal (moving seeds to new places) involve animals helping plants, but they are different processes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do scientists and students build models of pollination and seed dispersal?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because real bees and animals are too expensive to observe",
+          "correct": false,
+          "explanation": "While cost can be a factor, the main reason is to understand the function clearly and safely, not just to avoid cost."
+        },
+        {
+          "id": "b",
+          "label": "To understand and demonstrate how the function works without needing to observe the actual animals",
+          "correct": true,
+          "explanation": "Models help students understand how pollination and seed dispersal work by showing the key function in a simplified, observable way."
+        },
+        {
+          "id": "c",
+          "label": "Because bees and birds cannot be observed in nature",
+          "correct": false,
+          "explanation": "Bees and birds can be observed in nature. Models are used to help understand and demonstrate the function clearly."
+        },
+        {
+          "id": "d",
+          "label": "To replace plants with models in real ecosystems",
+          "correct": false,
+          "explanation": "Models are for learning, not for replacing real organisms in ecosystems."
+        }
+      ],
+      "explanation_md": "Models help students understand and demonstrate how processes like pollination and seed dispersal work in a simplified, observable way."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a bee carry from flower to flower?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pollen",
+          "correct": true,
+          "explanation": "Pollen sticks to a bee's fuzzy body and is carried to the next flower. This is pollination."
+        },
+        {
+          "id": "b",
+          "label": "Water",
+          "correct": false,
+          "explanation": "Bees carry nectar (not water) back to the hive, but they transfer pollen between flowers."
+        },
+        {
+          "id": "c",
+          "label": "Seeds",
+          "correct": false,
+          "explanation": "Bees carry pollen, not seeds. Seeds are spread by different animals and methods."
+        },
+        {
+          "id": "d",
+          "label": "Soil",
+          "correct": false,
+          "explanation": "Bees carry pollen on their bodies, not soil."
+        }
+      ],
+      "explanation_md": "Bees carry pollen from flower to flower. Pollen sticks to their fuzzy bodies and rubs off on the next flower they visit, helping pollinate it."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A squirrel buries an acorn and forgets it. What might grow?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A new oak tree",
+          "correct": true,
+          "explanation": "An acorn is an oak tree seed. If a squirrel forgets a buried acorn, it can sprout and grow into a new oak tree."
+        },
+        {
+          "id": "b",
+          "label": "A squirrel",
+          "correct": false,
+          "explanation": "Squirrels are animals. They are born from other squirrels, not from buried acorns."
+        },
+        {
+          "id": "c",
+          "label": "A new squirrel nest",
+          "correct": false,
+          "explanation": "Nests are built by squirrels. An acorn can grow into an oak tree, not a nest."
+        },
+        {
+          "id": "d",
+          "label": "Nothing \u2014 buried seeds never grow",
+          "correct": false,
+          "explanation": "Many buried seeds do grow. That is why squirrels are important seed dispersers."
+        }
+      ],
+      "explanation_md": "An acorn is a seed. A forgotten buried acorn can sprout and grow into a new oak tree."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does 'seed dispersal' mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Seeds making pollen",
+          "correct": false,
+          "explanation": "Pollen is made in flowers, not seeds. Seed dispersal is about moving seeds."
+        },
+        {
+          "id": "b",
+          "label": "Moving seeds to a new location away from the parent plant",
+          "correct": true,
+          "explanation": "Seed dispersal means seeds are moved away from the parent plant to a new place where they have room to grow."
+        },
+        {
+          "id": "c",
+          "label": "Seeds turning into flowers immediately",
+          "correct": false,
+          "explanation": "Seeds need to germinate (sprout) before becoming plants. Seed dispersal is about where seeds go, not how fast they grow."
+        },
+        {
+          "id": "d",
+          "label": "Animals eating all the seeds so they cannot grow",
+          "correct": false,
+          "explanation": "Animals that eat fruit often drop seeds that can grow. Seed dispersal helps plants, it does not prevent growth."
+        }
+      ],
+      "explanation_md": "Seed dispersal means moving seeds away from the parent plant to a new location. This gives seeds space, sunlight, and water to grow without competing with the parent plant."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which animal BEST helps with seed dispersal by eating fruit and leaving seeds in new places?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A bird",
+          "correct": true,
+          "explanation": "Birds eat berries and fly far away. The seeds pass through and land in a new place when the bird drops them."
+        },
+        {
+          "id": "b",
+          "label": "A rock",
+          "correct": false,
+          "explanation": "Rocks are not animals. They do not eat fruit or disperse seeds."
+        },
+        {
+          "id": "c",
+          "label": "A cloud",
+          "correct": false,
+          "explanation": "Clouds are not animals. Some seeds are moved by wind, but clouds do not eat fruit."
+        },
+        {
+          "id": "d",
+          "label": "A fish",
+          "correct": false,
+          "explanation": "Fish live in water and do not eat fruit growing on land. They do not disperse fruit seeds."
+        }
+      ],
+      "explanation_md": "Birds eat berries and fly to new locations. The seeds pass through and land in a new place, dispersing them away from the parent plant."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student presses a fuzzy sock on a pile of paper 'seeds' with small hooks. Some seeds stick to the sock. She walks to a new spot and the seeds fall off. What does this model show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How bees pollinate flowers",
+          "correct": false,
+          "explanation": "Pollination involves pollen and flowers. This model shows seeds sticking to fur and being carried to a new spot \u2014 seed dispersal."
+        },
+        {
+          "id": "b",
+          "label": "How seeds with hooks stick to animal fur and get carried to a new place",
+          "correct": true,
+          "explanation": "The fuzzy sock represents animal fur. Seeds with hooks or burrs stick to fur and travel with the animal to a new location. The model demonstrates seed dispersal."
+        },
+        {
+          "id": "c",
+          "label": "How plants grow in the dark",
+          "correct": false,
+          "explanation": "This model shows seeds being moved to a new location. It does not show plant growth in darkness."
+        },
+        {
+          "id": "d",
+          "label": "How water moves through plants",
+          "correct": false,
+          "explanation": "This model shows seed dispersal by animals, not water movement in plants."
+        }
+      ],
+      "explanation_md": "The fuzzy sock represents animal fur. Seeds with hooks or burrs stick to fur and travel with the animal to a new location. This models how animals disperse seeds."
+    }
+  ]
+}
