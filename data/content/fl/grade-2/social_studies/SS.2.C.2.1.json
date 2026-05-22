@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.C.2.1",
+  "benchmark_description": "Define and apply the concepts of citizenship, civic participation, and voting as a civic responsibility.",
+  "course": "social_studies",
+  "strand": "C",
+  "lesson": {
+    "title": "Being a Citizen and Participating",
+    "intro": "Being a citizen means more than just living in a place. Good citizens participate in their community. They vote, volunteer, follow rules, and speak up for what is right. Let's learn what civic participation means!",
+    "body_md": "## What Is a Citizen?\n\nA **citizen** is a member of a community, city, state, or country who has rights and responsibilities.\n\nIn the United States, citizens have:\n- **Rights** -- freedoms guaranteed by law (speech, religion, fair trial)\n- **Responsibilities** -- duties to the community (following laws, paying taxes, jury duty)\n\n## What Is Civic Participation?\n\n**Civic participation** means taking part in activities that help your community. Anyone can participate -- even kids!\n\nExamples of civic participation:\n- **Voting** in elections\n- Attending community meetings\n- Volunteering (picking up litter, helping at food banks)\n- Writing letters to leaders\n- Following laws\n- Paying taxes\n- Serving on juries\n\n## Voting: A Key Civic Responsibility\n\n**Voting** is one of the most important ways citizens participate in a democracy. When citizens vote:\n- They choose their leaders.\n- They decide on important community questions.\n- Their voice is heard in government.\n\n### Who Can Vote in the U.S.?\n- Must be a U.S. citizen\n- Must be at least 18 years old\n- Must be registered to vote\n\n## Why Voting Matters\n\nIn a **democracy**, the power comes from the people. Voting is how citizens share that power. If people do not vote, leaders are chosen by fewer voices -- and some people's needs may be ignored.",
+    "worked_example_md": "## Worked Example\n\n**Question:** Your town wants to build a new playground. Citizens vote YES or NO. Why is voting the best way to decide this?\n\n**Step 1:** What is voting?\nVoting lets every citizen's voice be counted equally.\n\n**Step 2:** Why is it fair?\nOne person, one vote -- no one's opinion counts more than anyone else's.\n\n**Step 3:** What happens?\nIf most citizens vote YES, the playground is built. If most vote NO, it is not.\n\n**Answer:** Voting is the fairest way to decide because **everyone's voice counts equally**. This is how a democracy works.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a CITIZEN?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Someone who only lives in a country but has no responsibilities",
+          "correct": false,
+          "explanation": "Citizens have both rights AND responsibilities. Just living somewhere is not enough to be called a good citizen."
+        },
+        {
+          "id": "b",
+          "label": "A member of a community who has both rights and responsibilities",
+          "correct": true,
+          "explanation": "A citizen is a member of a community or country who has legal rights and civic responsibilities."
+        },
+        {
+          "id": "c",
+          "label": "Only the President and other leaders",
+          "correct": false,
+          "explanation": "All people who are members of a country are citizens, not just leaders."
+        },
+        {
+          "id": "d",
+          "label": "Someone who was born in the same city their whole life",
+          "correct": false,
+          "explanation": "Citizenship is a legal status, not just about where you were born or lived."
+        }
+      ],
+      "explanation_md": "A **citizen** is a member of a community or country who has both rights and responsibilities."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does CIVIC PARTICIPATION mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Watching TV about the government",
+          "correct": false,
+          "explanation": "Watching TV is not civic participation. Participation means taking active part in community activities."
+        },
+        {
+          "id": "b",
+          "label": "Taking part in activities that help your community or government",
+          "correct": true,
+          "explanation": "Civic participation means actively doing things that benefit your community, like voting, volunteering, or attending meetings."
+        },
+        {
+          "id": "c",
+          "label": "Playing sports with friends",
+          "correct": false,
+          "explanation": "Playing sports is a personal activity, not civic participation (unless it is for a community benefit)."
+        },
+        {
+          "id": "d",
+          "label": "Going on vacation",
+          "correct": false,
+          "explanation": "Vacations are personal activities, not civic participation."
+        }
+      ],
+      "explanation_md": "**Civic participation** means taking active part in activities that help your community or government."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is VOTING important in a democracy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it is the law that everyone must vote.",
+          "correct": false,
+          "explanation": "In the U.S., voting is a right but not legally required for individuals."
+        },
+        {
+          "id": "b",
+          "label": "Because it allows citizens to choose their leaders and have a voice in government.",
+          "correct": true,
+          "explanation": "Voting is how citizens exercise their power in a democracy. It ensures leaders are chosen by the people."
+        },
+        {
+          "id": "c",
+          "label": "Because it decides what food is served at school.",
+          "correct": false,
+          "explanation": "School lunch menus are not decided by citizen votes in elections."
+        },
+        {
+          "id": "d",
+          "label": "Because it stops people from working.",
+          "correct": false,
+          "explanation": "Voting does not stop people from working. It is typically done at specific voting locations or by mail."
+        }
+      ],
+      "explanation_md": "**Voting** is important because it lets citizens choose their leaders and have a voice in government."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How old must a U.S. citizen be to vote in elections?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "16 years old",
+          "correct": false,
+          "explanation": "The voting age in the U.S. is 18, not 16."
+        },
+        {
+          "id": "b",
+          "label": "18 years old",
+          "correct": true,
+          "explanation": "In the United States, citizens must be at least 18 years old to vote in elections."
+        },
+        {
+          "id": "c",
+          "label": "21 years old",
+          "correct": false,
+          "explanation": "The voting age was lowered to 18 in 1971. It is not 21."
+        },
+        {
+          "id": "d",
+          "label": "Any age",
+          "correct": false,
+          "explanation": "There is an age requirement of 18 to vote in U.S. elections."
+        }
+      ],
+      "explanation_md": "U.S. citizens must be at least **18 years old** to vote in elections."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student cleans up litter in her neighborhood park on Saturday. This is an example of ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Breaking a law",
+          "correct": false,
+          "explanation": "Cleaning up litter is a positive, legal activity -- not law-breaking."
+        },
+        {
+          "id": "b",
+          "label": "Civic participation",
+          "correct": true,
+          "explanation": "Cleaning up the park is an example of civic participation -- taking action to help the community."
+        },
+        {
+          "id": "c",
+          "label": "Earning a paycheck",
+          "correct": false,
+          "explanation": "The student is volunteering, not working for money."
+        },
+        {
+          "id": "d",
+          "label": "Running for office",
+          "correct": false,
+          "explanation": "Running for office means campaigning to be elected. Picking up litter is volunteering."
+        }
+      ],
+      "explanation_md": "Cleaning up the park is **civic participation** -- an act that helps and improves the community."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In a democracy, where does power come FROM?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only from the President.",
+          "correct": false,
+          "explanation": "In a democracy, power comes from ALL citizens, not just the President."
+        },
+        {
+          "id": "b",
+          "label": "From the citizens through voting and participation.",
+          "correct": true,
+          "explanation": "A democracy is a system where the government's power comes from the will of the people."
+        },
+        {
+          "id": "c",
+          "label": "From whoever has the most money.",
+          "correct": false,
+          "explanation": "Democracy means power comes from citizens equally, not just from the wealthy."
+        },
+        {
+          "id": "d",
+          "label": "From other countries.",
+          "correct": false,
+          "explanation": "In a democracy, power comes from within -- from its own citizens."
+        }
+      ],
+      "explanation_md": "In a **democracy**, power comes from the **citizens** through voting and civic participation."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is a RESPONSIBILITY of U.S. citizens?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Going on vacation every year",
+          "correct": false,
+          "explanation": "Vacations are personal choices, not civic responsibilities."
+        },
+        {
+          "id": "b",
+          "label": "Following the laws of the community",
+          "correct": true,
+          "explanation": "Following laws is a civic responsibility. Citizens are expected to obey the laws that protect everyone."
+        },
+        {
+          "id": "c",
+          "label": "Winning every election",
+          "correct": false,
+          "explanation": "Not everyone can win an election. Citizens have the responsibility to vote, not to win."
+        },
+        {
+          "id": "d",
+          "label": "Making more money than your neighbors",
+          "correct": false,
+          "explanation": "Earning money is a personal goal. It is not a civic responsibility."
+        }
+      ],
+      "explanation_md": "**Following laws** is a civic responsibility. Citizens are expected to obey the rules that protect everyone in the community."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community is deciding whether to build a new road. Most citizens vote YES. What should happen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Build the road, because the majority voted YES.",
+          "correct": true,
+          "explanation": "In a democracy, majority vote decides most issues. Since most voted YES, the road should be built."
+        },
+        {
+          "id": "b",
+          "label": "Not build the road, because the minority said NO.",
+          "correct": false,
+          "explanation": "In a democracy, majority vote wins. The minority's preference does not override the majority."
+        },
+        {
+          "id": "c",
+          "label": "Ask the President to decide instead of the voters.",
+          "correct": false,
+          "explanation": "Local decisions are made by local citizens, not by the President."
+        },
+        {
+          "id": "d",
+          "label": "Flip a coin to decide.",
+          "correct": false,
+          "explanation": "Flipping a coin ignores citizens' votes. Democracy means counting everyone's votes."
+        }
+      ],
+      "explanation_md": "In a democracy, the **majority vote** decides. Since most voted YES, the road should be built."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for citizens to PARTICIPATE even if they cannot vote yet?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because children can vote in local elections.",
+          "correct": false,
+          "explanation": "Children under 18 cannot vote in U.S. elections."
+        },
+        {
+          "id": "b",
+          "label": "Because civic participation includes many things beyond voting -- like volunteering and following laws.",
+          "correct": true,
+          "explanation": "Even before they can vote, young people can participate by volunteering, following rules, attending meetings, and learning about government."
+        },
+        {
+          "id": "c",
+          "label": "Because participation is not important for young people.",
+          "correct": false,
+          "explanation": "Developing civic habits early builds responsible future citizens."
+        },
+        {
+          "id": "d",
+          "label": "Because the government requires all children to participate.",
+          "correct": false,
+          "explanation": "The government does not require children to participate, but participation is valuable."
+        }
+      ],
+      "explanation_md": "Civic participation includes **volunteering, following rules, and learning** -- all things young people can do before they can vote."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "What would happen if NO citizens voted in an election?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The election would still work because computers would choose the winner.",
+          "correct": false,
+          "explanation": "Elections require human voters. Without votes, there is no democratic outcome."
+        },
+        {
+          "id": "b",
+          "label": "Leaders would not be chosen democratically, and citizens would lose their voice in government.",
+          "correct": true,
+          "explanation": "Without votes, elections cannot function. Non-participation means some people's voices dominate and others are silent."
+        },
+        {
+          "id": "c",
+          "label": "Voting machines would count random numbers.",
+          "correct": false,
+          "explanation": "Voting machines count actual votes. Without votes cast, there is no valid count."
+        },
+        {
+          "id": "d",
+          "label": "The President would appoint all new leaders.",
+          "correct": false,
+          "explanation": "In a democracy, leaders are elected, not appointed by the President when no one votes."
+        }
+      ],
+      "explanation_md": "If no one voted, **leaders would not be chosen democratically** and citizens would lose their voice in government."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is VOTING?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A way to earn money",
+          "correct": false,
+          "explanation": "Voting is not paid work. It is a civic right and responsibility."
+        },
+        {
+          "id": "b",
+          "label": "A way for citizens to choose their leaders and make community decisions",
+          "correct": true,
+          "explanation": "Voting lets citizens elect leaders and decide important questions democratically."
+        },
+        {
+          "id": "c",
+          "label": "A game played on Election Day",
+          "correct": false,
+          "explanation": "Voting is a serious civic act, not a game."
+        },
+        {
+          "id": "d",
+          "label": "Something only the President does",
+          "correct": false,
+          "explanation": "All eligible citizens vote. The President participates in elections too, but voting is for all citizens."
+        }
+      ],
+      "explanation_md": "**Voting** lets citizens choose their leaders and have a voice in community decisions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student helps her family register to vote for the first time. How is this civic participation?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It is not civic participation because the student cannot vote yet.",
+          "correct": false,
+          "explanation": "Helping someone else register to vote is still a civic act, even if the student is too young to vote."
+        },
+        {
+          "id": "b",
+          "label": "It helps increase voter participation, which strengthens democracy.",
+          "correct": true,
+          "explanation": "Helping others register and vote increases civic participation, which makes democracy stronger."
+        },
+        {
+          "id": "c",
+          "label": "It is only civic participation if she gets paid for helping.",
+          "correct": false,
+          "explanation": "Civic participation is typically voluntary. Getting paid does not define it."
+        },
+        {
+          "id": "d",
+          "label": "Only adults can participate in civic activities.",
+          "correct": false,
+          "explanation": "Children and young people can participate civically in many ways, including encouraging family members to vote."
+        }
+      ],
+      "explanation_md": "Helping someone register to vote **strengthens democracy** by increasing participation -- that is civic action."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is ONE right and ONE responsibility of citizens in the U.S.?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Right: to vote at age 16; Responsibility: to win every election",
+          "correct": false,
+          "explanation": "The voting age is 18. Winning is not a responsibility."
+        },
+        {
+          "id": "b",
+          "label": "Right: freedom of speech; Responsibility: following the law",
+          "correct": true,
+          "explanation": "Freedom of speech is a guaranteed right. Following laws is a civic responsibility."
+        },
+        {
+          "id": "c",
+          "label": "Right: to pay taxes; Responsibility: to speak freely",
+          "correct": false,
+          "explanation": "Paying taxes is a responsibility, and speaking freely is a right. These are reversed."
+        },
+        {
+          "id": "d",
+          "label": "Right: to ignore laws; Responsibility: to vote",
+          "correct": false,
+          "explanation": "You cannot ignore laws. Rights include speech and religion; responsibilities include following laws and voting."
+        }
+      ],
+      "explanation_md": "**Freedom of speech** is a right; **following the law** is a responsibility of U.S. citizens."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Citizens have RIGHTS and ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "only rights, no responsibilities",
+          "correct": false,
+          "explanation": "Citizens have both rights and responsibilities."
+        },
+        {
+          "id": "b",
+          "label": "responsibilities",
+          "correct": true,
+          "explanation": "Citizens have rights (freedoms) AND responsibilities (duties to the community)."
+        },
+        {
+          "id": "c",
+          "label": "only responsibilities, no rights",
+          "correct": false,
+          "explanation": "Citizens have both rights and responsibilities."
+        },
+        {
+          "id": "d",
+          "label": "neither rights nor responsibilities",
+          "correct": false,
+          "explanation": "Citizens have both rights and responsibilities."
+        }
+      ],
+      "explanation_md": "Citizens have **rights** (freedoms) and **responsibilities** (duties to the community)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Voting is a way for citizens to ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "earn money",
+          "correct": false,
+          "explanation": "Voting is not paid. It is a civic right."
+        },
+        {
+          "id": "b",
+          "label": "choose their leaders",
+          "correct": true,
+          "explanation": "By voting, citizens choose who will represent them and lead their community."
+        },
+        {
+          "id": "c",
+          "label": "avoid paying taxes",
+          "correct": false,
+          "explanation": "Voting and taxes are separate civic duties."
+        },
+        {
+          "id": "d",
+          "label": "skip following laws",
+          "correct": false,
+          "explanation": "Voting does not exempt anyone from following laws."
+        }
+      ],
+      "explanation_md": "Voting is a way for citizens to **choose their leaders** in a democracy."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "To vote in U.S. elections, you must be a citizen AND be at least ___ years old.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "10",
+          "correct": false,
+          "explanation": "The voting age in the U.S. is 18, not 10."
+        },
+        {
+          "id": "b",
+          "label": "18",
+          "correct": true,
+          "explanation": "U.S. citizens must be at least 18 years old to vote."
+        },
+        {
+          "id": "c",
+          "label": "25",
+          "correct": false,
+          "explanation": "The voting age is 18, not 25."
+        },
+        {
+          "id": "d",
+          "label": "65",
+          "correct": false,
+          "explanation": "65 is the traditional retirement age, not the voting age."
+        }
+      ],
+      "explanation_md": "To vote in U.S. elections, you must be a citizen and at least **18** years old."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of CIVIC PARTICIPATION?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Watching a movie",
+          "correct": false,
+          "explanation": "Watching a movie is a personal activity, not civic participation."
+        },
+        {
+          "id": "b",
+          "label": "Volunteering at a food bank",
+          "correct": true,
+          "explanation": "Volunteering at a food bank helps the community. That is civic participation."
+        },
+        {
+          "id": "c",
+          "label": "Playing a video game",
+          "correct": false,
+          "explanation": "Playing games is personal enjoyment, not civic participation."
+        },
+        {
+          "id": "d",
+          "label": "Going to sleep",
+          "correct": false,
+          "explanation": "Sleeping is a personal activity, not civic participation."
+        }
+      ],
+      "explanation_md": "**Volunteering at a food bank** is civic participation -- it helps the community."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In a democracy, power comes from ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "one powerful leader",
+          "correct": false,
+          "explanation": "In a democracy, power comes from all citizens, not just one leader."
+        },
+        {
+          "id": "b",
+          "label": "the citizens",
+          "correct": true,
+          "explanation": "A democracy gets its power from the people. Citizens vote and participate to guide the government."
+        },
+        {
+          "id": "c",
+          "label": "other countries",
+          "correct": false,
+          "explanation": "In a democracy, power comes from within the country's own citizens."
+        },
+        {
+          "id": "d",
+          "label": "the weather",
+          "correct": false,
+          "explanation": "Weather does not determine government power."
+        }
+      ],
+      "explanation_md": "In a **democracy**, power comes from the **citizens** through voting and participation."
+    }
+  ]
+}
