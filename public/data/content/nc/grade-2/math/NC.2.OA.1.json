@@ -1,0 +1,363 @@
+{
+  "skill_id": "NC.2.OA.1",
+  "benchmark_description": "Represent and solve addition and subtraction word problems, within 100, with unknowns in all positions.",
+  "course": "math",
+  "strand": "OA",
+  "lesson": {
+    "title": "Solving Word Problems with Addition and Subtraction",
+    "intro": "Word problems tell a math story. You can add or subtract to find the missing part of the story. Let's learn how to read the clues and solve the problem!",
+    "body_md": "## What Is a Word Problem?\n\nA **word problem** uses words and numbers to describe a real-life situation. Your job is to figure out what is missing and use math to find the answer.\n\n## Key Words That Help You\n\n| Key Words | What They Mean |\n|-----------|----------------|\n| in all, total, altogether | Add |\n| how many more, left, difference | Subtract |\n| how many did she start with? | Find the unknown beginning |\n| how many did he give away? | Find the unknown change |\n\n## Three Positions for the Unknown\n\nThe unknown (the number you do not know) can be in three places:\n\n**1. Unknown Result**\nYou know the start and the change. You find the answer.\n- *8 birds were in a tree. 5 more birds landed. How many birds are there now?*\n- 8 + 5 = ?\n\n**2. Unknown Change**\nYou know the start and the end. You find what happened in the middle.\n- *There were 12 apples. Sara ate some. Now there are 7. How many did Sara eat?*\n- 12 - ? = 7\n\n**3. Unknown Start**\nYou know the change and the end. You find where things began.\n- *Some kids were on the bus. 6 more got on. Now there are 15. How many were on the bus to start?*\n- ? + 6 = 15\n\n## How to Solve Any Word Problem\n\n**Step 1:** Read the problem carefully.\n**Step 2:** Find what you know and what you need to find.\n**Step 3:** Decide: will you add or subtract?\n**Step 4:** Write a number sentence.\n**Step 5:** Solve and check your answer.\n\n## Numbers Up to 100\n\nIn second grade, our problems use numbers up to 100. A number line or a hundreds chart can help you count on or count back.\n\n```\n0  10  20  30  40  50  60  70  80  90  100\n|---|---|---|---|---|---|---|---|---|---|---|\n```",
+    "worked_example_md": "## Worked Example\n\n**Problem:** There were 34 stickers in a box. Maria put in some more stickers. Now there are 57 stickers. How many stickers did Maria put in?\n\n**Step 1 - What do I know?**\n- Start: 34 stickers\n- End: 57 stickers\n- Change: unknown (this is what we find)\n\n**Step 2 - Write a number sentence:**\n34 + ? = 57\n\n**Step 3 - Solve:**\nThink: What do I add to 34 to get 57?\n34 + 20 = 54 ... need 3 more ... 54 + 3 = 57\nSo ? = 23\n\n**Step 4 - Check:**\n34 + 23 = 57 \u2713\n\n**Answer:** Maria put in **23 stickers**.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "There are 6 dogs at the park. 3 more dogs run in. How many dogs are at the park now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3",
+          "correct": false,
+          "explanation": "3 is the difference, not the total. You need to add 6 + 3."
+        },
+        {
+          "id": "b",
+          "label": "8",
+          "correct": false,
+          "explanation": "8 is close but not correct. Count again: 6 + 3 = 9."
+        },
+        {
+          "id": "c",
+          "label": "9",
+          "correct": true,
+          "explanation": "Yes! 6 + 3 = 9 dogs at the park."
+        },
+        {
+          "id": "d",
+          "label": "10",
+          "correct": false,
+          "explanation": "10 is one too many. 6 + 3 = 9, not 10."
+        }
+      ],
+      "explanation_md": "Add the dogs already there and the new dogs: 6 + 3 = **9**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Tanya had 15 crayons. She gave 7 to her friend. How many crayons does Tanya have left?",
+      "correct_answer": "8",
+      "explanation_md": "Subtract the crayons she gave away: 15 - 7 = **8** crayons left."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Leo had some marbles. He found 14 more. Now he has 30 marbles. How many marbles did Leo start with?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "44",
+          "correct": false,
+          "explanation": "44 comes from adding 30 + 14. But you need to subtract to find the start."
+        },
+        {
+          "id": "b",
+          "label": "16",
+          "correct": true,
+          "explanation": "Yes! 30 - 14 = 16. Leo started with 16 marbles."
+        },
+        {
+          "id": "c",
+          "label": "14",
+          "correct": false,
+          "explanation": "14 is the number he found, not the starting number."
+        },
+        {
+          "id": "d",
+          "label": "20",
+          "correct": false,
+          "explanation": "20 is not correct. 16 + 14 = 30, so the start is 16."
+        }
+      ],
+      "explanation_md": "The unknown is the start. Use ? + 14 = 30. Subtract: 30 - 14 = **16**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "There were 48 people on a train. Some people got off at the first stop. Now there are 29 people. How many people got off?",
+      "correct_answer": "19",
+      "explanation_md": "48 - ? = 29. Subtract: 48 - 29 = **19** people got off the train."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A store had 63 oranges in the morning. They sold some oranges during the day. At the end of the day, 27 oranges were left. How many oranges did the store sell?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "90",
+          "correct": false,
+          "explanation": "90 comes from adding 63 + 27. You need to subtract to find what was sold."
+        },
+        {
+          "id": "b",
+          "label": "46",
+          "correct": false,
+          "explanation": "Not quite. Try 63 - 27 again carefully."
+        },
+        {
+          "id": "c",
+          "label": "36",
+          "correct": true,
+          "explanation": "Yes! 63 - 27 = 36 oranges were sold."
+        },
+        {
+          "id": "d",
+          "label": "34",
+          "correct": false,
+          "explanation": "Close, but 63 - 27 = 36, not 34."
+        }
+      ],
+      "explanation_md": "63 - 27 = **36** oranges were sold. Check: 27 + 36 = 63 \u2713"
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Some children were playing in the gym. 25 more children joined them. Now there are 72 children in the gym. How many children were in the gym at the start?",
+      "correct_answer": "47",
+      "explanation_md": "? + 25 = 72. Subtract: 72 - 25 = **47** children were in the gym to start."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The library had 85 books on the shelf. Students checked out some books. Then 12 books were returned. Now there are 54 books. How many books did students check out?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "43",
+          "correct": true,
+          "explanation": "Correct! 85 - 43 + 12 = 54. Or: first 85 + 12 = 97 returned means 97 - 54 = 43 checked out. The answer is 43."
+        },
+        {
+          "id": "b",
+          "label": "31",
+          "correct": false,
+          "explanation": "This does not account for the returned books correctly."
+        },
+        {
+          "id": "c",
+          "label": "55",
+          "correct": false,
+          "explanation": "55 is too many. Work through the steps: start 85, add 12 returned, subtract the 54 left."
+        },
+        {
+          "id": "d",
+          "label": "41",
+          "correct": false,
+          "explanation": "Close, but check the math again: 85 + 12 = 97; 97 - 54 = 43."
+        }
+      ],
+      "explanation_md": "Start: 85 books. Add 12 returned: 85 + 12 = 97 total. Final: 54. So checked out: 97 - 54 = **43** books."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "Mia collected 41 rocks on Saturday and some rocks on Sunday. She collected 78 rocks in all. How many rocks did she collect on Sunday?",
+      "correct_answer": "37",
+      "explanation_md": "41 + ? = 78. Subtract: 78 - 41 = **37** rocks collected on Sunday."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A class planted 100 seeds. Some seeds grew into plants. 38 seeds did not grow. How many seeds grew into plants?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "138",
+          "correct": false,
+          "explanation": "138 comes from adding 100 + 38. You need to subtract."
+        },
+        {
+          "id": "b",
+          "label": "52",
+          "correct": false,
+          "explanation": "Close, but 100 - 38 = 62, not 52."
+        },
+        {
+          "id": "c",
+          "label": "72",
+          "correct": false,
+          "explanation": "72 is not correct. 100 - 38 = 62."
+        },
+        {
+          "id": "d",
+          "label": "62",
+          "correct": true,
+          "explanation": "Yes! 100 - 38 = 62 seeds grew into plants."
+        }
+      ],
+      "explanation_md": "100 - 38 = **62** seeds grew into plants. Check: 62 + 38 = 100 \u2713"
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "Anna had some stickers. She gave 17 to her sister and bought 30 more. Now she has 65 stickers. How many stickers did Anna start with?",
+      "correct_answer": "52",
+      "explanation_md": "Work backwards: She ended with 65. Before buying 30, she had 65 - 30 = 35. Before giving 17 away, she had 35 + 17 = **52** stickers to start."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A baker made 56 muffins. He sold some. Now 29 muffins are left. How many muffins did the baker sell?",
+      "correct_answer": "27",
+      "explanation_md": "56 - ? = 29. Subtract: 56 - 29 = **27** muffins were sold. Check: 29 + 27 = 56 \u2713"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "There were some fish in a tank. 18 more fish were added. Now there are 45 fish. How many fish were in the tank to start?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "63",
+          "correct": false,
+          "explanation": "63 = 45 + 18. That adds instead of subtracts. Find the start by subtracting."
+        },
+        {
+          "id": "b",
+          "label": "27",
+          "correct": true,
+          "explanation": "Yes! 45 - 18 = 27. There were 27 fish to start."
+        },
+        {
+          "id": "c",
+          "label": "37",
+          "correct": false,
+          "explanation": "37 is not correct. 45 - 18 = 27, not 37."
+        },
+        {
+          "id": "d",
+          "label": "18",
+          "correct": false,
+          "explanation": "18 is the number added, not the starting number."
+        }
+      ],
+      "explanation_md": "? + 18 = 45. Subtract: 45 - 18 = **27** fish to start."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "The school collected 82 cans of food. They gave 35 cans to one shelter and some cans to another shelter. They have 19 cans left. How many cans did they give to the second shelter?",
+      "correct_answer": "28",
+      "explanation_md": "Start: 82. After first shelter: 82 - 35 = 47. Cans left: 19. Given to second shelter: 47 - 19 = **28** cans."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "There are 4 cats and 3 dogs. How many animals are there in all?",
+      "correct_answer": "7",
+      "explanation_md": "Add the cats and dogs together: 4 + 3 = **7** animals."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Kim had 10 grapes. She ate 4. How many grapes does Kim have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "14",
+          "correct": false,
+          "explanation": "14 comes from adding 10 + 4. You need to subtract because she ate some."
+        },
+        {
+          "id": "b",
+          "label": "5",
+          "correct": false,
+          "explanation": "5 is one less than the answer. 10 - 4 = 6."
+        },
+        {
+          "id": "c",
+          "label": "6",
+          "correct": true,
+          "explanation": "Yes! 10 - 4 = 6 grapes left."
+        },
+        {
+          "id": "d",
+          "label": "4",
+          "correct": false,
+          "explanation": "4 is the number she ate, not the number left."
+        }
+      ],
+      "explanation_md": "10 - 4 = **6** grapes left."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Jake scored 8 points in a game. Ben scored 5 points. How many points did they score in all?",
+      "correct_answer": "13",
+      "explanation_md": "Add both scores: 8 + 5 = **13** points."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "There were 20 birds on a wire. 9 flew away. How many birds are still on the wire?",
+      "correct_answer": "11",
+      "explanation_md": "Subtract the birds that flew away: 20 - 9 = **11** birds still on the wire."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A bowl had 16 apples. Mom added some more. Now there are 25 apples. How many apples did Mom add?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "41",
+          "correct": false,
+          "explanation": "41 = 16 + 25. Do not add the two numbers together. Subtract to find what was added."
+        },
+        {
+          "id": "b",
+          "label": "9",
+          "correct": true,
+          "explanation": "Yes! 25 - 16 = 9 apples were added."
+        },
+        {
+          "id": "c",
+          "label": "11",
+          "correct": false,
+          "explanation": "11 is not correct. 25 - 16 = 9, not 11."
+        },
+        {
+          "id": "d",
+          "label": "6",
+          "correct": false,
+          "explanation": "6 is too small. 16 + 6 = 22, not 25."
+        }
+      ],
+      "explanation_md": "16 + ? = 25. Subtract: 25 - 16 = **9** apples were added."
+    }
+  ]
+}
