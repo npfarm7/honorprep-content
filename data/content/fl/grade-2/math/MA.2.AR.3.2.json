@@ -1,0 +1,223 @@
+{
+  "skill_id": "MA.2.AR.3.2",
+  "benchmark_description": "Use repeated addition to find the total number of objects in a collection of equal groups. Represent the total number of objects using rectangular arrays and equations.",
+  "course": "math",
+  "strand": "AR",
+  "lesson": {
+    "title": "Equal Groups and Arrays",
+    "intro": "When items are arranged in equal rows and columns, you can use repeated addition to count them quickly. This is the beginning of multiplication!",
+    "body_md": "## Equal Groups\nWhen every group has the same number, you have equal groups.\n- 3 baskets with 4 apples each = 3 equal groups of 4\n- Repeated addition: 4 + 4 + 4 = 12 apples in all\n\n## Rectangular Arrays\nAn array arranges objects in rows and columns.\n- **Rows** go across (left to right)\n- **Columns** go up and down\n\n**Example:** A 2-by-5 array has 2 rows and 5 columns:\n```\n* * * * *\n* * * * *\n```\nRow 1: 5 objects. Row 2: 5 objects.\nRepeated addition: 5 + 5 = 10\n\n## Writing Equations for Arrays\n- 3 rows of 6: 6 + 6 + 6 = 18\n- 4 rows of 3: 3 + 3 + 3 + 3 = 12\n- 2 rows of 7: 7 + 7 = 14\n\n## Two Ways to Read an Array\nA 3-by-4 array can be read two ways:\n- 3 rows of 4: 4 + 4 + 4 = 12\n- 4 columns of 3: 3 + 3 + 3 + 3 = 12\n\nBoth give the same total!",
+    "worked_example_md": "**There are 4 rows of egg cartons. Each row has 6 eggs. Write a repeated addition equation and find the total.**\n\nStep 1: Identify the equal groups.\n4 rows, each with 6 eggs.\n\nStep 2: Write the repeated addition.\n6 + 6 + 6 + 6 = ?\n\nStep 3: Add.\n6 + 6 = 12. 12 + 6 = 18. 18 + 6 = **24**.\n\n**Total: 24 eggs.**\n\nArray check: 4 rows of 6\n```\n* * * * * *\n* * * * * *\n* * * * * *\n* * * * * *\n```\nCount: 4 x 6 = 24.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "There are 3 rows of stars with 4 stars in each row. Write the repeated addition and find the total.\n3 + 3 + 3 + 3 = ___ OR 4 + 4 + 4 = ___\nWrite the total:",
+      "correct_answer": "12",
+      "explanation_md": "3 rows of 4: 4+4+4=12. Or 4 columns of 3: 3+3+3+3=12. Total = 12."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which repeated addition matches 2 rows of 5 stars?",
+      "choices": [
+        {"id": "a", "label": "5 + 5 + 5", "correct": false, "explanation": "5+5+5 = 3 rows of 5. We need 2 rows of 5: 5+5."},
+        {"id": "b", "label": "5 + 5", "correct": true, "explanation": "2 rows of 5 means add 5 twice: 5+5=10."},
+        {"id": "c", "label": "2 + 2 + 2 + 2 + 2", "correct": false, "explanation": "2+2+2+2+2 = 5 rows of 2 (different arrangement). 2 rows of 5 = 5+5."},
+        {"id": "d", "label": "2 + 5", "correct": false, "explanation": "2+5=7, not 10. For 2 rows of 5, add 5 two times: 5+5=10."}
+      ],
+      "explanation_md": "2 rows of 5: add 5 twice. 5+5=10."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "Look at this array:\n* * *\n* * *\n* * *\n* * *\nHow many stars in all? (Use repeated addition.)",
+      "correct_answer": "12",
+      "explanation_md": "4 rows of 3: 3+3+3+3=12. Total: 12 stars."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A tray has 5 rows with 6 cups in each row. Which equation shows the total?",
+      "choices": [
+        {"id": "a", "label": "5 + 6 = 11", "correct": false, "explanation": "5+6=11 just adds the row count and column count. Repeated addition: 6+6+6+6+6=30."},
+        {"id": "b", "label": "6 + 6 + 6 + 6 + 6 = 30", "correct": true, "explanation": "5 rows of 6: add 6 five times. 6+6+6+6+6=30 cups."},
+        {"id": "c", "label": "5 + 5 + 5 + 5 + 5 + 5 = 30", "correct": false, "explanation": "This is 6 rows of 5 = 30, which equals 5 rows of 6, but the equation for 5 rows of 6 is 6+6+6+6+6."},
+        {"id": "d", "label": "6 + 5 = 11", "correct": false, "explanation": "This just adds and gives 11. Repeated addition for 5 rows of 6 is: 6+6+6+6+6=30."}
+      ],
+      "explanation_md": "5 rows of 6: 6+6+6+6+6=30 cups."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the total number of tiles in a 3-row by 7-column array?",
+      "choices": [
+        {"id": "a", "label": "10", "correct": false, "explanation": "10 is 3+7. Use repeated addition: 7+7+7=21."},
+        {"id": "b", "label": "21", "correct": true, "explanation": "3 rows of 7: 7+7+7=21."},
+        {"id": "c", "label": "18", "correct": false, "explanation": "18 is 3 rows of 6. Each row has 7 tiles: 7+7+7=21."},
+        {"id": "d", "label": "28", "correct": false, "explanation": "28 is 4 rows of 7. This array has only 3 rows: 7+7+7=21."}
+      ],
+      "explanation_md": "3 rows of 7: 7+7+7=21."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Kim draws an array with 4 rows and 8 columns. Leo draws an array with 8 rows and 4 columns. Who has more objects?",
+      "choices": [
+        {"id": "a", "label": "Kim has more.", "correct": false, "explanation": "Kim: 4 rows of 8 = 8+8+8+8 = 32. Leo: 8 rows of 4 = 4+4+4+4+4+4+4+4 = 32. Both have 32!"},
+        {"id": "b", "label": "Leo has more.", "correct": false, "explanation": "Leo: 8 rows of 4 = 32. Kim: 4 rows of 8 = 32. They have the same total."},
+        {"id": "c", "label": "They have the same number.", "correct": true, "explanation": "Kim: 4x8=32. Leo: 8x4=32. Different arrangements, same total."},
+        {"id": "d", "label": "Cannot tell without counting.", "correct": false, "explanation": "Kim: 8+8+8+8=32. Leo: 4+4+4+4+4+4+4+4=32. Both equal 32."}
+      ],
+      "explanation_md": "Kim: 4 rows of 8 = 32. Leo: 8 rows of 4 = 32. Same total!"
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A classroom has 6 rows of desks. Each row has 5 desks. Write a repeated addition equation and find the total. Answer: 5 + 5 + 5 + 5 + 5 + 5 = ___",
+      "correct_answer": "30",
+      "explanation_md": "6 rows of 5: 5+5+5+5+5+5=30. The classroom has 30 desks."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which array would show 3 + 3 + 3 + 3 + 3?",
+      "choices": [
+        {"id": "a", "label": "3 rows with 5 in each row", "correct": false, "explanation": "3 rows of 5 would be 5+5+5, not 3+3+3+3+3."},
+        {"id": "b", "label": "5 rows with 3 in each row", "correct": true, "explanation": "3+3+3+3+3 means adding 3 five times. That is 5 rows with 3 in each row."},
+        {"id": "c", "label": "3 rows with 3 in each row", "correct": false, "explanation": "3 rows of 3 would be 3+3+3 (only 3 threes). We need 5 threes."},
+        {"id": "d", "label": "5 rows with 5 in each row", "correct": false, "explanation": "5 rows of 5 would be 5+5+5+5+5=25. We need 5 rows of 3."}
+      ],
+      "explanation_md": "3+3+3+3+3 = adding 3 five times = 5 rows with 3 objects each."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Ava sets up chairs for a show. She makes 8 rows with 9 chairs each. How many chairs in all?",
+      "choices": [
+        {"id": "a", "label": "17", "correct": false, "explanation": "17 is 8+9. Repeated addition: 9+9+9+9+9+9+9+9=72."},
+        {"id": "b", "label": "72", "correct": true, "explanation": "8 rows of 9: 9+9+9+9+9+9+9+9=72."},
+        {"id": "c", "label": "63", "correct": false, "explanation": "63 is 7 rows of 9. Ava has 8 rows: 9+9+9+9+9+9+9+9=72."},
+        {"id": "d", "label": "81", "correct": false, "explanation": "81 is 9 rows of 9. Ava has 8 rows: 9+9+9+9+9+9+9+9=72."}
+      ],
+      "explanation_md": "8 rows of 9: 9+9+9+9+9+9+9+9=72 chairs."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer plants tomatoes in an array. There are 7 rows and 9 plants in each row. She picks all the plants in 2 complete rows. How many plants are still in the ground?",
+      "choices": [
+        {"id": "a", "label": "45", "correct": false, "explanation": "Step 1: 7 rows x 9 = 63 total. Step 2: 2 rows x 9 = 18 picked. Step 3: 63-18=45. Wait, 45 IS correct!"},
+        {"id": "b", "label": "45", "correct": true, "explanation": "Total: 7x9=9+9+9+9+9+9+9=63. Picked: 2x9=18. Remaining: 63-18=45."},
+        {"id": "c", "label": "54", "correct": false, "explanation": "63-9=54 (only 1 row picked). 2 rows x 9 = 18 picked. 63-18=45."},
+        {"id": "d", "label": "63", "correct": false, "explanation": "63 is the total before picking. After picking 2 rows of 9: 63-18=45 remain."}
+      ],
+      "explanation_md": "Total: 7 rows x 9 = 63. Picked: 2 rows x 9 = 18. Remaining: 63-18=45."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Write the repeated addition for a 4-row by 6-column array. What is the total?",
+      "choices": [
+        {"id": "a", "label": "4+4+4+4+4+4=24", "correct": false, "explanation": "4+4+4+4+4+4 = 6 groups of 4. The equation for 4 rows of 6 is 6+6+6+6=24."},
+        {"id": "b", "label": "6+6+6+6=24", "correct": true, "explanation": "4 rows of 6: add 6 four times. 6+6+6+6=24."},
+        {"id": "c", "label": "4+6=10", "correct": false, "explanation": "4+6 just adds rows and columns. Use repeated addition: 6+6+6+6=24."},
+        {"id": "d", "label": "6+4=10", "correct": false, "explanation": "Adding rows + columns gives 10, not the total. Use repeated addition: 6+6+6+6=24."}
+      ],
+      "explanation_md": "4 rows of 6: 6+6+6+6=24. Total: 24."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "numeric",
+      "prompt_md": "A box of crayons has 3 rows with 8 crayons in each row. How many crayons are in the box?",
+      "correct_answer": "24",
+      "explanation_md": "3 rows of 8: 8+8+8=24 crayons."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which repeated addition equals the total in a 5-row by 4-column array?",
+      "choices": [
+        {"id": "a", "label": "5+5+5+5=20", "correct": false, "explanation": "5+5+5+5 = 4 groups of 5. For 5 rows of 4: 4+4+4+4+4=20. Same total, but using the correct row count."},
+        {"id": "b", "label": "4+4+4+4+4=20", "correct": true, "explanation": "5 rows of 4: add 4 five times. 4+4+4+4+4=20."},
+        {"id": "c", "label": "5+4=9", "correct": false, "explanation": "9 is not the total. Use repeated addition: 4+4+4+4+4=20."},
+        {"id": "d", "label": "4+5=9", "correct": false, "explanation": "9 is not the total. Use repeated addition: 4+4+4+4+4=20."}
+      ],
+      "explanation_md": "5 rows of 4: 4+4+4+4+4=20."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "There are 2 rows with 5 buttons each. 5 + 5 = ___",
+      "correct_answer": "10",
+      "explanation_md": "2 rows of 5: 5+5=10. There are 10 buttons in all."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which shows 3 equal groups of 4?",
+      "choices": [
+        {"id": "a", "label": "4 + 3 = 7", "correct": false, "explanation": "4+3=7, not 3 groups of 4. Three groups of 4 means: 4+4+4=12."},
+        {"id": "b", "label": "4 + 4 + 4 = 12", "correct": true, "explanation": "4+4+4=12. Three groups of 4, added together."},
+        {"id": "c", "label": "3 + 3 + 3 + 3 = 12", "correct": false, "explanation": "3+3+3+3 = 4 groups of 3. We need 3 groups of 4: 4+4+4=12."},
+        {"id": "d", "label": "3 + 4 = 7", "correct": false, "explanation": "3+4=7, not equal groups. Three groups of 4: 4+4+4=12."}
+      ],
+      "explanation_md": "3 groups of 4: 4+4+4=12."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An array has 3 rows and 4 columns. How many objects are in the array?",
+      "choices": [
+        {"id": "a", "label": "7", "correct": false, "explanation": "7 is 3+4. Use repeated addition: 4+4+4=12."},
+        {"id": "b", "label": "12", "correct": true, "explanation": "3 rows of 4: 4+4+4=12."},
+        {"id": "c", "label": "16", "correct": false, "explanation": "16 is 4 rows of 4. This array has 3 rows: 4+4+4=12."},
+        {"id": "d", "label": "9", "correct": false, "explanation": "9 is 3 rows of 3. Each row has 4 columns: 4+4+4=12."}
+      ],
+      "explanation_md": "3 rows of 4: 4+4+4=12."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "2 + 2 + 2 + 2 + 2 = ___ (five groups of 2)",
+      "correct_answer": "10",
+      "explanation_md": "2+2+2+2+2=10. Five groups of 2 equals 10."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A plate has 3 cookies in each row. There are 4 rows. Which equation finds the total?",
+      "choices": [
+        {"id": "a", "label": "3 + 4 = 7", "correct": false, "explanation": "3+4=7, just adding the row and column counts. Use repeated addition: 3+3+3+3=12."},
+        {"id": "b", "label": "3 + 3 + 3 + 3 = 12", "correct": true, "explanation": "4 rows of 3: add 3 four times. 3+3+3+3=12 cookies."},
+        {"id": "c", "label": "4 + 4 + 4 = 12", "correct": false, "explanation": "4+4+4 = 3 groups of 4 = 12. But the question says 4 rows of 3, so 3+3+3+3 is the correct representation."},
+        {"id": "d", "label": "3 x 4 = 12", "correct": false, "explanation": "3x4=12 uses multiplication. The question asks for repeated addition: 3+3+3+3=12."}
+      ],
+      "explanation_md": "4 rows of 3: 3+3+3+3=12 cookies."
+    }
+  ]
+}
