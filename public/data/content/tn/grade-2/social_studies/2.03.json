@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.03",
+  "benchmark_description": "Identify and explain the roles and responsibilities of citizens in a community, including voting, obeying laws, and helping neighbors.",
+  "course": "social_studies",
+  "strand": "GOV",
+  "lesson": {
+    "title": "Being a Good Citizen",
+    "intro": "A citizen is a member of a community. Good citizens help make their community a better place! Let's find out what citizens do and why it matters.",
+    "body_md": "## What Is a Citizen?\n\nA **citizen** is a person who belongs to a community, state, or country. In the United States, citizens have both **rights** and **responsibilities**.\n\n- A **right** is something you are allowed to do or have.\n- A **responsibility** is something you should do.\n\n## Responsibilities of Citizens\n\nGood citizens have three main responsibilities:\n\n### 1. Follow Laws\n\n**Laws** are rules that everyone in a community must follow. Laws keep people safe and treat everyone fairly.\n\nExamples of community laws:\n- Stop at red lights\n- Do not litter\n- Do not steal\n- Keep your dog on a leash in parks\n\n### 2. Vote\n\n**Voting** is how citizens choose their leaders and make community decisions. When citizens vote, they have a say in how their community is run.\n\n- Adults 18 and older can vote in elections\n- Citizens vote to choose leaders like the mayor or governor\n- Voting is a very important responsibility\n\n### 3. Help Neighbors and the Community\n\nGood citizens care for others and their community.\n\nWays to help:\n- Pick up trash (clean your neighborhood)\n- Help a neighbor carry groceries\n- Volunteer at a food bank\n- Be kind and respectful to everyone\n- Participate in community events\n\n## Citizen Roles at School (You Are Already a Citizen!)\n\nYou practice citizenship at school too!\n\n| Responsibility | At School Example | Community Example |\n|---|---|---|\n| Follow rules/laws | Follow classroom rules | Obey traffic laws |\n| Be responsible | Turn in homework | Pay taxes |\n| Help others | Help a classmate | Volunteer at a shelter |\n| Take part | Join class discussion | Vote in elections |\n\n## Why Citizenship Matters\n\nWhen everyone does their part, the community becomes a better place to live. Communities work best when citizens cooperate and help each other.",
+    "worked_example_md": "## Worked Example\n\n**Question:** Read each action. Is this a good example of citizenship? Explain which responsibility it shows.\n\n**Action 1:** Maya sees trash on the sidewalk. She picks it up and puts it in the bin.\n\n**Action 2:** On Election Day, Mr. Cole walks to the polling place and casts his vote.\n\n**Action 3:** Ben runs through a red light because he is in a hurry.\n\n**Step 1 \u2014 Look at each action:**\n- Maya picked up trash = helping the community. **Good citizenship.**\n- Mr. Cole voted = participating in elections. **Good citizenship.**\n- Ben ran a red light = broke the law. **NOT good citizenship.**\n\n**Step 2 \u2014 Name the responsibility:**\n- Maya shows **helping neighbors/community**.\n- Mr. Cole shows **voting**.\n- Ben did NOT show **obeying laws**.\n\n**Answer:** Maya and Mr. Cole are good citizens. Maya helped the community. Mr. Cole voted. Ben was not a good citizen because he broke a traffic law.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A citizen is someone who:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only lives in a big city",
+          "correct": false,
+          "explanation": "Citizens can live in any type of community, not just big cities."
+        },
+        {
+          "id": "b",
+          "label": "Belongs to a community, state, or country",
+          "correct": true,
+          "explanation": "A citizen is a member of a community, state, or country."
+        },
+        {
+          "id": "c",
+          "label": "Is only an adult",
+          "correct": false,
+          "explanation": "Children can be citizens too. You are a citizen of your community!"
+        },
+        {
+          "id": "d",
+          "label": "Does not have to follow any rules",
+          "correct": false,
+          "explanation": "Following rules and laws is one of the main responsibilities of a citizen."
+        }
+      ],
+      "explanation_md": "A citizen is a person who belongs to a community, state, or country."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of obeying a community law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Dropping trash on the sidewalk",
+          "correct": false,
+          "explanation": "Dropping trash is littering, which breaks a community law."
+        },
+        {
+          "id": "b",
+          "label": "Stopping at a red traffic light",
+          "correct": true,
+          "explanation": "Stopping at a red light follows traffic laws that keep everyone safe."
+        },
+        {
+          "id": "c",
+          "label": "Taking something without paying for it",
+          "correct": false,
+          "explanation": "Taking something without paying is stealing, which is against the law."
+        },
+        {
+          "id": "d",
+          "label": "Running through someone's yard without asking",
+          "correct": false,
+          "explanation": "This shows disrespect for others' property and may break rules."
+        }
+      ],
+      "explanation_md": "Stopping at a red light follows traffic laws. Laws keep people safe and treat everyone fairly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does voting allow citizens to do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Choose their community leaders and make decisions",
+          "correct": true,
+          "explanation": "Voting lets citizens have a say in who leads their community and country."
+        },
+        {
+          "id": "b",
+          "label": "Break laws without getting in trouble",
+          "correct": false,
+          "explanation": "Voting has nothing to do with breaking laws."
+        },
+        {
+          "id": "c",
+          "label": "Take things from stores for free",
+          "correct": false,
+          "explanation": "Voting is about choosing leaders and making decisions, not about taking things."
+        },
+        {
+          "id": "d",
+          "label": "Move to any community they want for free",
+          "correct": false,
+          "explanation": "Voting is about choosing leaders and making community decisions."
+        }
+      ],
+      "explanation_md": "Voting lets citizens choose their leaders and have a say in community decisions."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which action shows a citizen helping the community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Leaving trash on the playground",
+          "correct": false,
+          "explanation": "Leaving trash makes the community less clean. It does not help the community."
+        },
+        {
+          "id": "b",
+          "label": "Staying home and ignoring neighbors",
+          "correct": false,
+          "explanation": "Good citizens connect with and help their neighbors."
+        },
+        {
+          "id": "c",
+          "label": "Volunteering at a food bank",
+          "correct": true,
+          "explanation": "Volunteering at a food bank helps people who need food. It is a great way to help the community."
+        },
+        {
+          "id": "d",
+          "label": "Being mean to classmates",
+          "correct": false,
+          "explanation": "Being mean is not helping the community. Good citizens are kind and respectful."
+        }
+      ],
+      "explanation_md": "Volunteering at a food bank helps people in need. Helping others is an important citizenship responsibility."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which pair shows BOTH a right and a responsibility of citizens?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Right: Go to school. Responsibility: Pay for school.",
+          "correct": false,
+          "explanation": "Students do not pay for public school. This is not the best example of a right-responsibility pair."
+        },
+        {
+          "id": "b",
+          "label": "Right: Freedom of speech. Responsibility: Obeying laws.",
+          "correct": true,
+          "explanation": "Freedom of speech is a right. Obeying laws is a responsibility. This pair correctly names one of each."
+        },
+        {
+          "id": "c",
+          "label": "Right: Littering. Responsibility: Voting.",
+          "correct": false,
+          "explanation": "Littering is not a right. It is against the law."
+        },
+        {
+          "id": "d",
+          "label": "Right: Breaking rules. Responsibility: Playing at the park.",
+          "correct": false,
+          "explanation": "Breaking rules is not a right. Playing at the park is fun but not a responsibility."
+        }
+      ],
+      "explanation_md": "Freedom of speech is a right that citizens have. Obeying laws is a responsibility citizens must meet."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why are laws important in a community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Laws make sure only adults can go to the park",
+          "correct": false,
+          "explanation": "Laws are not made to keep children out of parks."
+        },
+        {
+          "id": "b",
+          "label": "Laws keep people safe and help treat everyone fairly",
+          "correct": true,
+          "explanation": "Laws protect community members and make sure everyone is treated fairly."
+        },
+        {
+          "id": "c",
+          "label": "Laws allow anyone to take what they want",
+          "correct": false,
+          "explanation": "Laws actually prevent people from taking things without permission."
+        },
+        {
+          "id": "d",
+          "label": "Laws are only for grown-ups to follow",
+          "correct": false,
+          "explanation": "All community members, including children, are expected to follow laws."
+        }
+      ],
+      "explanation_md": "Laws keep people safe and make sure everyone in the community is treated fairly."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Destiny picks up litter in her park every Saturday. This is an example of:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Voting",
+          "correct": false,
+          "explanation": "Voting is choosing community leaders, not cleaning the park."
+        },
+        {
+          "id": "b",
+          "label": "Helping the community",
+          "correct": true,
+          "explanation": "Cleaning up litter helps keep the community clean for everyone."
+        },
+        {
+          "id": "c",
+          "label": "Breaking a law",
+          "correct": false,
+          "explanation": "Picking up litter follows community rules; it does not break them."
+        },
+        {
+          "id": "d",
+          "label": "Making community laws",
+          "correct": false,
+          "explanation": "Destiny is not making laws. She is caring for her community."
+        }
+      ],
+      "explanation_md": "Picking up litter is a way of helping the community. It keeps parks clean for everyone."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "At school, which action is the BEST example of citizenship?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Talking during a fire drill instead of walking quietly",
+          "correct": false,
+          "explanation": "Talking during a fire drill breaks school safety rules."
+        },
+        {
+          "id": "b",
+          "label": "Leaving a mess in the cafeteria",
+          "correct": false,
+          "explanation": "Leaving a mess is not helpful to others."
+        },
+        {
+          "id": "c",
+          "label": "Helping a classmate who is struggling with reading",
+          "correct": true,
+          "explanation": "Helping a classmate is like helping a neighbor. It is a great example of citizenship in school."
+        },
+        {
+          "id": "d",
+          "label": "Keeping all crayons for yourself instead of sharing",
+          "correct": false,
+          "explanation": "Good citizens share and care for others."
+        }
+      ],
+      "explanation_md": "Helping a classmate is practicing the citizenship responsibility of helping others."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "In a town meeting, citizens can share ideas about a new park. How does this connect to citizenship?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It is only for adults who own a house",
+          "correct": false,
+          "explanation": "Town meetings welcome all community members, not just homeowners."
+        },
+        {
+          "id": "b",
+          "label": "It gives citizens a voice in their community decisions",
+          "correct": true,
+          "explanation": "Town meetings let citizens take part in decisions, which is a key citizenship responsibility."
+        },
+        {
+          "id": "c",
+          "label": "Citizens must obey whatever is decided without a voice",
+          "correct": false,
+          "explanation": "Town meetings exist specifically so citizens can share ideas and have a say."
+        },
+        {
+          "id": "d",
+          "label": "Helping at town meetings is the same as breaking laws",
+          "correct": false,
+          "explanation": "Participating in town meetings is a positive citizenship action, not breaking a law."
+        }
+      ],
+      "explanation_md": "Town meetings let citizens voice opinions and participate in community decisions."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement BEST explains why voting is an important citizenship responsibility?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Voting lets citizens win prizes from the government",
+          "correct": false,
+          "explanation": "Voting is not about winning prizes. It is about choosing leaders."
+        },
+        {
+          "id": "b",
+          "label": "Voting gives citizens the power to choose who leads and makes decisions for their community",
+          "correct": true,
+          "explanation": "Through voting, citizens directly shape who governs them and what decisions are made for the community."
+        },
+        {
+          "id": "c",
+          "label": "Voting means the government will always do exactly what one person wants",
+          "correct": false,
+          "explanation": "Voting reflects what most citizens want, not just one person."
+        },
+        {
+          "id": "d",
+          "label": "Only voting for the winning side counts as good citizenship",
+          "correct": false,
+          "explanation": "Participating in voting is good citizenship regardless of the outcome."
+        }
+      ],
+      "explanation_md": "Voting is important because it gives citizens the power to choose their leaders and influence community decisions."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What are THREE main responsibilities of a good citizen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Follow laws, vote, and help the community",
+          "correct": true,
+          "explanation": "These are the three key responsibilities of a good citizen."
+        },
+        {
+          "id": "b",
+          "label": "Follow laws, play sports, and eat healthy",
+          "correct": false,
+          "explanation": "Playing sports and eating healthy are good habits but are not civic responsibilities."
+        },
+        {
+          "id": "c",
+          "label": "Vote, travel, and watch TV",
+          "correct": false,
+          "explanation": "Traveling and watching TV are not citizenship responsibilities."
+        },
+        {
+          "id": "d",
+          "label": "Help the community, sleep early, and go to school",
+          "correct": false,
+          "explanation": "Going to school is important, but the three civic responsibilities are following laws, voting, and helping the community."
+        }
+      ],
+      "explanation_md": "The three main citizen responsibilities are following laws, voting, and helping the community."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Leon sees a neighbor who dropped her groceries. He stops and helps her pick them up. Which responsibility does Leon show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Voting",
+          "correct": false,
+          "explanation": "Voting is choosing leaders. Leon is helping his neighbor."
+        },
+        {
+          "id": "b",
+          "label": "Following laws",
+          "correct": false,
+          "explanation": "Following laws means obeying community rules. Helping a neighbor is a different responsibility."
+        },
+        {
+          "id": "c",
+          "label": "Helping neighbors and the community",
+          "correct": true,
+          "explanation": "Leon helped his neighbor. Helping others is a key citizenship responsibility."
+        },
+        {
+          "id": "d",
+          "label": "Making laws",
+          "correct": false,
+          "explanation": "Making laws is the job of elected leaders, not helping a neighbor pick up groceries."
+        }
+      ],
+      "explanation_md": "Helping a neighbor pick up groceries is an example of the citizenship responsibility of helping others."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for everyone in a community to follow laws, even when no one is watching?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because the police will always catch people who break laws",
+          "correct": false,
+          "explanation": "Citizenship means doing what is right because it is right, not only because of punishment."
+        },
+        {
+          "id": "b",
+          "label": "Because following laws keeps everyone safe and shows respect for others even when no one is looking",
+          "correct": true,
+          "explanation": "True citizenship means being responsible at all times because it protects others and builds trust in the community."
+        },
+        {
+          "id": "c",
+          "label": "Because only adults need to worry about laws",
+          "correct": false,
+          "explanation": "All community members, including children, are part of the community and its rules."
+        },
+        {
+          "id": "d",
+          "label": "Because laws are only suggestions that people can choose to ignore",
+          "correct": false,
+          "explanation": "Laws are rules that all community members are expected to follow."
+        }
+      ],
+      "explanation_md": "Good citizens follow laws all the time because it keeps everyone safe and shows respect for the community."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A game that people play",
+          "correct": false,
+          "explanation": "A law is a rule, not a game."
+        },
+        {
+          "id": "b",
+          "label": "A rule that everyone in a community must follow",
+          "correct": true,
+          "explanation": "Laws are rules made to keep people safe and treat everyone fairly."
+        },
+        {
+          "id": "c",
+          "label": "A story from long ago",
+          "correct": false,
+          "explanation": "A story is not a law. Laws are rules."
+        },
+        {
+          "id": "d",
+          "label": "A type of food in a community",
+          "correct": false,
+          "explanation": "Food is part of culture, not a law."
+        }
+      ],
+      "explanation_md": "A law is a rule that everyone in a community must follow to stay safe and be treated fairly."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a way citizens can help their community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Throw trash on the ground",
+          "correct": false,
+          "explanation": "Throwing trash makes the community messy. That does not help."
+        },
+        {
+          "id": "b",
+          "label": "Pick up trash and keep the park clean",
+          "correct": true,
+          "explanation": "Keeping parks clean is a great way to help the community."
+        },
+        {
+          "id": "c",
+          "label": "Be mean to neighbors",
+          "correct": false,
+          "explanation": "Good citizens are kind, not mean."
+        },
+        {
+          "id": "d",
+          "label": "Ignore problems in the community",
+          "correct": false,
+          "explanation": "Good citizens notice problems and try to help fix them."
+        }
+      ],
+      "explanation_md": "Picking up trash and keeping parks clean are ways citizens help their community."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Voting helps citizens:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Win a lot of money",
+          "correct": false,
+          "explanation": "Voting is not about winning money."
+        },
+        {
+          "id": "b",
+          "label": "Choose their leaders",
+          "correct": true,
+          "explanation": "When citizens vote, they choose who will lead their community or country."
+        },
+        {
+          "id": "c",
+          "label": "Break laws without trouble",
+          "correct": false,
+          "explanation": "Voting has nothing to do with breaking laws."
+        },
+        {
+          "id": "d",
+          "label": "Move to another country",
+          "correct": false,
+          "explanation": "Voting is about choosing leaders, not about moving."
+        }
+      ],
+      "explanation_md": "Voting lets citizens choose their leaders and help make decisions for their community."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these children is being a good citizen at school?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tom pushes in line at lunch",
+          "correct": false,
+          "explanation": "Pushing in line is not respectful or fair to others."
+        },
+        {
+          "id": "b",
+          "label": "Sara helps a friend who fell on the playground",
+          "correct": true,
+          "explanation": "Helping someone who fell is being kind and a good citizen."
+        },
+        {
+          "id": "c",
+          "label": "Jake takes another child's pencil without asking",
+          "correct": false,
+          "explanation": "Taking things without asking is like stealing and is not good citizenship."
+        },
+        {
+          "id": "d",
+          "label": "Maria talks during the teacher's instructions",
+          "correct": false,
+          "explanation": "Talking when the teacher is speaking breaks classroom rules."
+        }
+      ],
+      "explanation_md": "Helping a friend who fell is an act of kindness. Good citizens help each other."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If everyone in a community works together to follow rules and help each other, the community will be:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Dangerous and messy",
+          "correct": false,
+          "explanation": "When citizens follow rules and help each other, the community is safer and cleaner."
+        },
+        {
+          "id": "b",
+          "label": "A better place to live for everyone",
+          "correct": true,
+          "explanation": "Good citizenship makes communities safer, cleaner, and happier for all."
+        },
+        {
+          "id": "c",
+          "label": "Exactly the same as before",
+          "correct": false,
+          "explanation": "Communities improve when citizens cooperate and help each other."
+        },
+        {
+          "id": "d",
+          "label": "Smaller with fewer people",
+          "correct": false,
+          "explanation": "Good citizenship does not make a community smaller."
+        }
+      ],
+      "explanation_md": "When citizens follow rules and help each other, the community becomes a better place for everyone."
+    }
+  ]
+}
