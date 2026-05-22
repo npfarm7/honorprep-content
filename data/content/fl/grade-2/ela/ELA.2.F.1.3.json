@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.F.1.3",
+  "benchmark_description": "Know and apply grade-level phonics and word analysis skills: decode words with common prefixes and suffixes, including inflectional endings.",
+  "course": "ela",
+  "strand": "F",
+  "lesson": {
+    "title": "Prefixes, Suffixes, and Word Endings",
+    "intro": "Did you know you can build big words from smaller pieces? A prefix goes at the front of a word, and a suffix goes at the end. When you know these pieces, you can read and understand lots of new words!",
+    "body_md": "## Word Parts\n\n| Part | Where? | Job | Example |\n|---|---|---|---|\n| **Root word** | In the middle | The main meaning | *play* |\n| **Prefix** | Beginning | Changes meaning | *re-* + *play* = *replay* |\n| **Suffix** | End | Changes meaning or grammar | *play* + *-er* = *player* |\n\n## Common Prefixes\n\n| Prefix | Meaning | Example |\n|---|---|---|\n| **un-** | not | *unhappy* (not happy) |\n| **re-** | again | *reread* (read again) |\n| **pre-** | before | *preview* (view before) |\n| **dis-** | not / opposite | *disagree* (not agree) |\n\n## Common Suffixes\n\n| Suffix | Meaning | Example |\n|---|---|---|\n| **-er** | one who does / more | *teacher*, *faster* |\n| **-est** | most | *fastest* |\n| **-ful** | full of | *hopeful* |\n| **-less** | without | *hopeless* |\n| **-ly** | in a way | *slowly* |\n\n## Inflectional Endings\n\nInflectional endings show **number, tense, or comparison** without changing the word's basic meaning:\n- **-s / -es** \u2192 plural: *dog* \u2192 *dogs*, *box* \u2192 *boxes*\n- **-ed** \u2192 past tense: *jump* \u2192 *jumped*\n- **-ing** \u2192 happening now: *run* \u2192 *running*\n- **-er / -est** \u2192 comparing: *fast* \u2192 *faster* \u2192 *fastest*\n\n## Spelling Tips\n\n- Drop the silent e before -ing or -ed: *hope* \u2192 *hoping*\n- Double the final consonant for short-vowel words: *hop* \u2192 *hopping*\n- Change y to i before -ed or -es: *cry* \u2192 *cried*, *fly* \u2192 *flies*",
+    "worked_example_md": "**Word to analyze:** *unhelpful*\n\n**Step 1:** Look for a prefix. *un-* = not\n\n**Step 2:** Look for a suffix. *-ful* = full of\n\n**Step 3:** Find the root. *help*\n\n**Step 4:** Put it together: *un* + *help* + *ful* = not full of help = **not helpful**\n\n**So:** *unhelpful* means not helpful.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the prefix **un-** mean in the word *unkind*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "very",
+          "correct": false,
+          "explanation": "Un- does not mean very. *Unkind* does not mean very kind."
+        },
+        {
+          "id": "b",
+          "label": "not",
+          "correct": true,
+          "explanation": "Yes! *Unkind* = not kind. Un- always means not or the opposite."
+        },
+        {
+          "id": "c",
+          "label": "again",
+          "correct": false,
+          "explanation": "*Again* is the meaning of re-, not un-."
+        },
+        {
+          "id": "d",
+          "label": "before",
+          "correct": false,
+          "explanation": "*Before* is the meaning of pre-, not un-."
+        }
+      ],
+      "explanation_md": "**un-** = not. *Unkind* = not kind."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means **full of joy**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "joyless",
+          "correct": false,
+          "explanation": "*Joyless* means without joy (-less = without)."
+        },
+        {
+          "id": "b",
+          "label": "joyful",
+          "correct": true,
+          "explanation": "Yes! *Joyful* = full of joy. The suffix -ful means full of."
+        },
+        {
+          "id": "c",
+          "label": "rejoy",
+          "correct": false,
+          "explanation": "*Rejoy* is not a real word."
+        },
+        {
+          "id": "d",
+          "label": "unjoy",
+          "correct": false,
+          "explanation": "*Unjoy* is not a standard English word."
+        }
+      ],
+      "explanation_md": "**-ful** means full of. *Joyful* = full of joy."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the root word in **replaying**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "re",
+          "correct": false,
+          "explanation": "*Re-* is the prefix \u2014 not the root word."
+        },
+        {
+          "id": "b",
+          "label": "playing",
+          "correct": false,
+          "explanation": "*Playing* still has the suffix -ing attached."
+        },
+        {
+          "id": "c",
+          "label": "play",
+          "correct": true,
+          "explanation": "Yes! Strip re- (prefix) and -ing (suffix) and you get the root: *play*."
+        },
+        {
+          "id": "d",
+          "label": "replay",
+          "correct": false,
+          "explanation": "*Replay* still has the prefix re- attached \u2014 keep stripping!"
+        }
+      ],
+      "explanation_md": "*Replaying* = re- + **play** + -ing. The root is *play*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Add the suffix **-ed** to the word *jump*. How do you spell the new word?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "jumpd",
+          "correct": false,
+          "explanation": "You need the full -ed ending: j-u-m-p-e-d."
+        },
+        {
+          "id": "b",
+          "label": "jumpped",
+          "correct": false,
+          "explanation": "Do not double the p \u2014 *jump* ends in two consonants (mp), so no doubling needed."
+        },
+        {
+          "id": "c",
+          "label": "jumped",
+          "correct": true,
+          "explanation": "Correct! *Jump* + -ed = *jumped*. No spelling change needed."
+        },
+        {
+          "id": "d",
+          "label": "jumpping",
+          "correct": false,
+          "explanation": "You added -ing instead of -ed, and doubled the p incorrectly."
+        }
+      ],
+      "explanation_md": "*Jump* ends in two consonants, so no doubling. *Jump* + *-ed* = *jumped*."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is the correct spelling of *hop* + **-ing**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "hopeing",
+          "correct": false,
+          "explanation": "*Hope* + -ing drops the e, but *hop* + -ing doubles the consonant instead."
+        },
+        {
+          "id": "b",
+          "label": "hoping",
+          "correct": false,
+          "explanation": "*Hoping* is *hope* + -ing (drop the e). *Hop* is different \u2014 it has a short vowel."
+        },
+        {
+          "id": "c",
+          "label": "hopping",
+          "correct": true,
+          "explanation": "Yes! *Hop* has a short vowel + single consonant at the end. Double the p before -ing: *hopping*."
+        },
+        {
+          "id": "d",
+          "label": "hops",
+          "correct": false,
+          "explanation": "*Hops* uses -s, not -ing."
+        }
+      ],
+      "explanation_md": "*Hop* has a short vowel + single final consonant \u2192 double the p before -ing \u2192 *hopping*."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does **disagree** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "agree again",
+          "correct": false,
+          "explanation": "*Again* is the meaning of re-, not dis-."
+        },
+        {
+          "id": "b",
+          "label": "not agree",
+          "correct": true,
+          "explanation": "Yes! *Dis-* means not or the opposite. *Disagree* = not agree."
+        },
+        {
+          "id": "c",
+          "label": "agree before",
+          "correct": false,
+          "explanation": "*Before* is the meaning of pre-, not dis-."
+        },
+        {
+          "id": "d",
+          "label": "very much agree",
+          "correct": false,
+          "explanation": "*Dis-* flips the meaning \u2014 it does not strengthen it."
+        }
+      ],
+      "explanation_md": "**dis-** = not / opposite. *Disagree* = not agree."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Change *cry* to mean **cried** (past tense). How is it spelled?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cryed",
+          "correct": false,
+          "explanation": "When a word ends in consonant + y, change the y to i before adding -ed."
+        },
+        {
+          "id": "b",
+          "label": "cried",
+          "correct": true,
+          "explanation": "Correct! *Cry* ends in consonant + y \u2192 change y to i \u2192 *cried*."
+        },
+        {
+          "id": "c",
+          "label": "crys",
+          "correct": false,
+          "explanation": "That adds -s, not -ed, and does not follow the y-to-i rule."
+        },
+        {
+          "id": "d",
+          "label": "creing",
+          "correct": false,
+          "explanation": "That is not a real word. For past tense, use -ed."
+        }
+      ],
+      "explanation_md": "Consonant + y rule: change y \u2192 i before -ed. *Cry* \u2192 *cried*."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means **doing something in a slow way**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "slowful",
+          "correct": false,
+          "explanation": "*Slowful* is not a real word. The suffix -ful means full of, not in a way."
+        },
+        {
+          "id": "b",
+          "label": "slower",
+          "correct": false,
+          "explanation": "*Slower* compares two things. It does not mean doing something in a slow way."
+        },
+        {
+          "id": "c",
+          "label": "slowly",
+          "correct": true,
+          "explanation": "Yes! -ly means in a way. *Slowly* = in a slow way."
+        },
+        {
+          "id": "d",
+          "label": "slowless",
+          "correct": false,
+          "explanation": "*Slowless* is not a real word."
+        }
+      ],
+      "explanation_md": "**-ly** means in a way. *Slowly* = in a slow way."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads the word **preview**. She knows *pre-* means before. What does *preview* most likely mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "to view again",
+          "correct": false,
+          "explanation": "Viewing again would use re- (review). Pre- means before, not again."
+        },
+        {
+          "id": "b",
+          "label": "to view before",
+          "correct": true,
+          "explanation": "Correct! *Pre-* = before. *Preview* = view before (like watching a movie clip before the real movie)."
+        },
+        {
+          "id": "c",
+          "label": "to view without",
+          "correct": false,
+          "explanation": "Without would use -less. Pre- means before."
+        },
+        {
+          "id": "d",
+          "label": "to view with happiness",
+          "correct": false,
+          "explanation": "That meaning is not carried by any part of the word *preview*."
+        }
+      ],
+      "explanation_md": "**pre-** = before. *Preview* = to view before (an early look at something)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Look at this sentence: *The runner ran the fastest race.*  \nWhich TWO words in the sentence have suffixes that show comparison or role?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "runner and fastest",
+          "correct": true,
+          "explanation": "*Runner* = run + -er (one who runs). *Fastest* = fast + -est (the most fast). Both have comparison/role suffixes."
+        },
+        {
+          "id": "b",
+          "label": "ran and race",
+          "correct": false,
+          "explanation": "*Ran* is an irregular past tense verb \u2014 no suffix. *Race* has no suffix."
+        },
+        {
+          "id": "c",
+          "label": "the and fastest",
+          "correct": false,
+          "explanation": "*The* is just an article \u2014 no suffix. *Fastest* is correct, but *the* is not."
+        },
+        {
+          "id": "d",
+          "label": "runner and ran",
+          "correct": false,
+          "explanation": "*Runner* is correct. *Ran* is an irregular form \u2014 it has no -ed or -er suffix."
+        }
+      ],
+      "explanation_md": "*Runner* (run + -er = one who runs) and *fastest* (fast + -est = most fast) both carry suffixes."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word **rewrite** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "to write before",
+          "correct": false,
+          "explanation": "Writing before would use pre-. Re- means again."
+        },
+        {
+          "id": "b",
+          "label": "to write again",
+          "correct": true,
+          "explanation": "Yes! Re- = again. *Rewrite* = write again."
+        },
+        {
+          "id": "c",
+          "label": "to write without errors",
+          "correct": false,
+          "explanation": "Re- does not mean without errors \u2014 it just means again."
+        },
+        {
+          "id": "d",
+          "label": "not to write",
+          "correct": false,
+          "explanation": "Not would be un-. Un-write is not a common word anyway."
+        }
+      ],
+      "explanation_md": "**re-** = again. *Rewrite* = write again."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Add **-ing** to *bake*. Which spelling is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bakeing",
+          "correct": false,
+          "explanation": "Drop the silent e before adding -ing. *Bak-e* \u2192 drop e \u2192 *bak* + *ing* = *baking*."
+        },
+        {
+          "id": "b",
+          "label": "bakking",
+          "correct": false,
+          "explanation": "Do not double the k \u2014 *bake* ends in a vowel-consonant-e pattern. Drop the e, do not double."
+        },
+        {
+          "id": "c",
+          "label": "baking",
+          "correct": true,
+          "explanation": "Correct! Drop the silent e from *bake* \u2192 *bak* + *ing* = *baking*."
+        },
+        {
+          "id": "d",
+          "label": "bakes",
+          "correct": false,
+          "explanation": "That adds -s, not -ing."
+        }
+      ],
+      "explanation_md": "*Bake* ends in silent e \u2192 drop the e before -ing \u2192 *baking*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means **without care**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "careful",
+          "correct": false,
+          "explanation": "*Careful* = full of care. The suffix -ful adds the meaning full of."
+        },
+        {
+          "id": "b",
+          "label": "carely",
+          "correct": false,
+          "explanation": "*Carely* is not a real word."
+        },
+        {
+          "id": "c",
+          "label": "careless",
+          "correct": true,
+          "explanation": "Yes! *Careless* = care + -less = without care."
+        },
+        {
+          "id": "d",
+          "label": "uncaring",
+          "correct": false,
+          "explanation": "*Uncaring* uses un- (not) + care + -ing \u2014 it does not use the suffix -less."
+        }
+      ],
+      "explanation_md": "**-less** = without. *Careless* = without care."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a **prefix** (a word part added to the beginning)?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "happy",
+          "correct": false,
+          "explanation": "*Happy* has no prefix \u2014 it is just the root word."
+        },
+        {
+          "id": "b",
+          "label": "unhappy",
+          "correct": true,
+          "explanation": "Yes! *Un-* is a prefix added to the beginning of *happy*."
+        },
+        {
+          "id": "c",
+          "label": "happily",
+          "correct": false,
+          "explanation": "*Happily* has a suffix (-ily) at the end, not a prefix at the beginning."
+        },
+        {
+          "id": "d",
+          "label": "happiness",
+          "correct": false,
+          "explanation": "*Happiness* has the suffix -ness at the end, not a prefix."
+        }
+      ],
+      "explanation_md": "A prefix is added to the BEGINNING of a word. *Un-* + *happy* = *unhappy*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word has a **suffix** (a word part added to the end)?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "run",
+          "correct": false,
+          "explanation": "*Run* is just the root word \u2014 no suffix."
+        },
+        {
+          "id": "b",
+          "label": "rerun",
+          "correct": false,
+          "explanation": "*Rerun* has a prefix (re-) at the start, not a suffix at the end."
+        },
+        {
+          "id": "c",
+          "label": "runner",
+          "correct": true,
+          "explanation": "Yes! *Runner* = run + -er. The suffix -er is added to the end."
+        },
+        {
+          "id": "d",
+          "label": "ran",
+          "correct": false,
+          "explanation": "*Ran* is an irregular past tense \u2014 the word changes shape, no suffix added."
+        }
+      ],
+      "explanation_md": "A suffix is added to the END. *Run* + *-er* = *runner* (one who runs)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Add **-s** to *box* to make it mean more than one box. How do you spell it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "boxs",
+          "correct": false,
+          "explanation": "When a word ends in x, add -es, not just -s."
+        },
+        {
+          "id": "b",
+          "label": "boxies",
+          "correct": false,
+          "explanation": "That is too many letters. The rule for words ending in x is just -es."
+        },
+        {
+          "id": "c",
+          "label": "boxes",
+          "correct": true,
+          "explanation": "Yes! *Box* ends in x \u2192 add -es \u2192 *boxes*."
+        },
+        {
+          "id": "d",
+          "label": "boxen",
+          "correct": false,
+          "explanation": "*Boxen* is not English. Add -es to words ending in x."
+        }
+      ],
+      "explanation_md": "Words ending in x, s, sh, ch \u2192 add -es. *Box* \u2192 *boxes*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the root word in **hopeless**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "hopeless",
+          "correct": false,
+          "explanation": "The whole word is not the root \u2014 strip the suffix first."
+        },
+        {
+          "id": "b",
+          "label": "less",
+          "correct": false,
+          "explanation": "*Less* is the suffix, not the root."
+        },
+        {
+          "id": "c",
+          "label": "hope",
+          "correct": true,
+          "explanation": "Yes! Remove the suffix -less and you get the root word: *hope*."
+        },
+        {
+          "id": "d",
+          "label": "hop",
+          "correct": false,
+          "explanation": "*Hop* is a different word. The root here is *hope* (with an e)."
+        }
+      ],
+      "explanation_md": "*Hopeless* = **hope** + -less. Root = *hope*."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the **-ed** ending correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She walk to school.",
+          "correct": false,
+          "explanation": "This sentence is in the past but *walk* has no -ed ending."
+        },
+        {
+          "id": "b",
+          "label": "She walked to school.",
+          "correct": true,
+          "explanation": "Yes! *Walked* = walk + -ed, showing past tense."
+        },
+        {
+          "id": "c",
+          "label": "She walking to school.",
+          "correct": false,
+          "explanation": "*Walking* uses -ing, not -ed \u2014 it does not show completed past action by itself."
+        },
+        {
+          "id": "d",
+          "label": "She walks to school.",
+          "correct": false,
+          "explanation": "*Walks* uses -s for present tense, not past tense."
+        }
+      ],
+      "explanation_md": "**-ed** shows past tense. *Walked* = walk + -ed."
+    }
+  ]
+}
