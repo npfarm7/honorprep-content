@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.L.1.3",
+  "benchmark_description": "Explain how plants and animals depend on each other and on their environment to survive.",
+  "course": "science",
+  "strand": "L",
+  "lesson": {
+    "title": "How Plants and Animals Depend on Each Other",
+    "intro": "Nothing lives alone! Every plant and animal depends on other living things and on its environment to survive. In this lesson we will explore how plants and animals help each other and why healthy environments matter for all living things.",
+    "body_md": "## Plants and Animals Need Each Other\n\nPlants and animals are connected in many important ways.\n\n### Animals Need Plants\n- **Food** – Herbivores (plant-eaters) like rabbits, deer, and caterpillars eat plants directly. Even carnivores (meat-eaters) depend on plants indirectly because the animals they eat survived by eating plants.\n- **Oxygen** – Plants release oxygen during photosynthesis. Animals (including humans) breathe this oxygen to survive.\n- **Shelter** – Trees and shrubs provide homes for birds, squirrels, insects, and many other animals.\n- **Shade and water** – Plants reduce heat and help keep soil moist.\n\n### Plants Need Animals\n- **Pollination** – Bees, butterflies, hummingbirds, and bats carry pollen from flower to flower. Without pollinators, most flowering plants cannot make seeds.\n- **Seed dispersal** – Animals spread seeds by carrying fruit away, passing seeds through their digestive systems, or accidentally dropping seeds stuck to their fur.\n- **Decomposition** – When animals die, their remains break down and add nutrients to the soil that plants need to grow.\n- **Carbon dioxide** – Animals breathe out carbon dioxide, which plants use during photosynthesis to make food.\n\n## The Food Chain\n\nA **food chain** shows who eats whom in an environment. Energy moves through a food chain from plants to animals.\n\n**Example: A Forest Food Chain**\n\nSunlight → Oak tree (produces acorns) → Squirrel (eats acorns) → Red fox (eats squirrel)\n\n- **Producers** – Plants that make their own food using sunlight (photosynthesis). All food chains start with a producer.\n- **Consumers** – Animals that eat plants or other animals. There are different levels:\n  - **Primary consumers** – eat plants (squirrels eat acorns; rabbits eat grass)\n  - **Secondary consumers** – eat primary consumers (foxes eat squirrels)\n  - **Top consumers / predators** – eat other animals and have few or no predators (eagles, wolves, sharks)\n\n## Decomposers: Nature's Recyclers\n\n**Decomposers** (like worms, fungi, and bacteria) break down dead plants and animals. They return nutrients to the soil, which plants then absorb through their roots. This completes the cycle.\n\n## How Environments Support All Living Things\n\nAn environment must supply:\n- **Sunlight** for producers to make food\n- **Water** for all living things\n- **Soil and nutrients** for plants to grow\n- **Air** (oxygen for animals, carbon dioxide for plants)\n- **Space** for organisms to live, grow, and reproduce\n\n## What Happens When One Piece Is Removed?\n\nIf bees disappear, plants cannot be pollinated → fewer seeds are made → fewer plants grow → less food for herbivores → less food for carnivores. A change to any part of an environment can affect the entire community of living things.",
+    "worked_example_md": "### Worked Example: Tracing a Food Chain\n\n**Question:** A pond has algae, small fish, and herons (large wading birds). Draw a food chain and identify producers and consumers.\n\n**Step 1 – Find the producer:**\n- Algae is a plant-like organism that uses sunlight to make food through photosynthesis → **Producer**\n\n**Step 2 – Find who eats the producer:**\n- Small fish eat algae → **Primary Consumer**\n\n**Step 3 – Find who eats the primary consumer:**\n- Herons eat small fish → **Secondary Consumer / Top Consumer**\n\n**Food chain:**\nSunlight → Algae (Producer) → Small Fish (Primary Consumer) → Heron (Secondary Consumer)\n\n**Step 4 – Check the dependencies:**\n- If algae is removed (pollution, no sunlight), fish lose their food supply → fish population drops → herons lose their food supply.\n- If herons are removed, fish population grows too large → fish eat all the algae → algae disappears → fish eventually starve too.\n\n**Lesson:** Every link in the food chain matters. Remove one and the others are affected.",
+    "estimated_minutes": 35
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a food chain?",
+      "choices": [
+        {"id": "a", "label": "A list of all the foods you eat for lunch", "correct": false, "explanation": "A food chain is not a lunch list. It is a scientific diagram showing how energy passes from one living thing to another in nature."},
+        {"id": "b", "label": "A diagram showing who eats whom in an environment, starting with a plant (producer)", "correct": true, "explanation": "Correct! A food chain shows the path of energy through an environment — starting with a producer (plant) and moving through consumers (animals that eat plants or other animals)."},
+        {"id": "c", "label": "A chain used to tie animals to a fence", "correct": false, "explanation": "In science, a food chain is not a physical chain. It is a way of showing feeding relationships between living things."},
+        {"id": "d", "label": "A list of all plants in an ecosystem", "correct": false, "explanation": "A list of plants alone is not a food chain. A food chain includes plants AND the animals that eat them, showing the flow of energy."}
+      ],
+      "explanation_md": "A food chain is a diagram showing how energy flows through an ecosystem — starting with a plant (producer) and passing through animals (consumers) as each one eats the next."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In a food chain, what is a PRODUCER?",
+      "choices": [
+        {"id": "a", "label": "An animal that eats other animals", "correct": false, "explanation": "An animal that eats other animals is a secondary consumer (or predator). Producers are plants that make their own food."},
+        {"id": "b", "label": "A plant that makes its own food using sunlight", "correct": true, "explanation": "Correct! Producers are organisms (usually plants) that make their own food through photosynthesis using sunlight, water, and air. All food chains start with a producer."},
+        {"id": "c", "label": "An animal that eats only plants", "correct": false, "explanation": "An animal that eats only plants is a primary consumer (herbivore). The producer is the plant itself — it makes food from sunlight."},
+        {"id": "d", "label": "A decomposer that breaks down dead organisms", "correct": false, "explanation": "Decomposers (worms, fungi) are a separate category. Producers are plants that make food from sunlight through photosynthesis."}
+      ],
+      "explanation_md": "A producer is a plant (or plant-like organism) that creates its own food through photosynthesis. Producers form the base of every food chain because all other organisms depend on the energy stored in plants."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How do bees help flowers?",
+      "choices": [
+        {"id": "a", "label": "Bees eat flower seeds so the plant can grow faster", "correct": false, "explanation": "Bees primarily collect nectar and pollen — they do not eat seeds. Their main benefit to flowers is carrying pollen between flowers (pollination)."},
+        {"id": "b", "label": "Bees carry pollen from flower to flower, helping plants make seeds (pollination)", "correct": true, "explanation": "Correct! When bees visit flowers for nectar, pollen sticks to their bodies. They carry this pollen to the next flower, allowing the plant to produce seeds. This is pollination."},
+        {"id": "c", "label": "Bees water the flowers by collecting water in their wings", "correct": false, "explanation": "Bees do not carry water to flowers in their wings. They carry pollen, which enables pollination."},
+        {"id": "d", "label": "Bees protect flowers from the rain by building hives nearby", "correct": false, "explanation": "Beehives provide no rain protection to nearby flowers. Bees benefit flowers through pollination, not shelter."}
+      ],
+      "explanation_md": "Bees are pollinators. As they visit flowers to collect nectar, pollen sticks to their fuzzy bodies. When they fly to the next flower, some pollen rubs off — fertilizing the flower so it can produce seeds. Without bees and other pollinators, most flowering plants could not reproduce."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Here is a food chain: Grass → Rabbit → Fox. What is the rabbit's role in this food chain?",
+      "choices": [
+        {"id": "a", "label": "Producer — it makes food using sunlight", "correct": false, "explanation": "Grass is the producer. The rabbit is an animal that eats the grass — it is a consumer."},
+        {"id": "b", "label": "Primary consumer — it eats the producer (grass)", "correct": true, "explanation": "Correct! The rabbit eats grass, which is the producer. An animal that eats plants directly is a primary consumer."},
+        {"id": "c", "label": "Decomposer — it breaks down dead organisms", "correct": false, "explanation": "Decomposers are organisms like worms and fungi that break down dead matter. The rabbit is an animal that eats plants — a primary consumer."},
+        {"id": "d", "label": "Secondary consumer — it eats other animals", "correct": false, "explanation": "A secondary consumer eats primary consumers (animals). The rabbit eats grass (a plant), making it a primary consumer, not a secondary consumer."}
+      ],
+      "explanation_md": "In the food chain Grass → Rabbit → Fox, the rabbit is a primary consumer. It eats the grass (producer) and is eaten by the fox (secondary consumer). Energy flows from the grass to the rabbit to the fox."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What do decomposers do, and why are they important to plants?",
+      "choices": [
+        {"id": "a", "label": "Decomposers eat live plants and destroy them", "correct": false, "explanation": "Decomposers break down DEAD organisms, not live ones. They recycle nutrients from dead matter back into the soil."},
+        {"id": "b", "label": "Decomposers break down dead plants and animals, returning nutrients to the soil that living plants need to grow", "correct": true, "explanation": "Correct! Decomposers like worms, fungi, and bacteria break down dead material. The nutrients released go into the soil, where plant roots absorb them. This nutrient recycling is essential for plant growth."},
+        {"id": "c", "label": "Decomposers make oxygen for plants to use", "correct": false, "explanation": "Plants make oxygen through photosynthesis — they produce it, they do not need it the same way animals do. Decomposers return nutrients to soil, not oxygen."},
+        {"id": "d", "label": "Decomposers have no effect on plants — they only affect animals", "correct": false, "explanation": "Decomposers are critical to plants. By breaking down dead material, they release nutrients (like nitrogen) into the soil that plants need to grow healthy leaves and stems."}
+      ],
+      "explanation_md": "Decomposers (worms, fungi, bacteria) break down dead plants and animals into simpler chemicals. These chemicals become part of the soil as nutrients. Plant roots absorb these nutrients to grow strong and healthy. Without decomposers, dead material would pile up and nutrients would be locked away — plants would not get the nourishment they need."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How do animals help plants spread their seeds to new places?",
+      "choices": [
+        {"id": "a", "label": "Animals blow seeds with their breath as they walk past plants", "correct": false, "explanation": "Animals do not intentionally blow seeds. They spread seeds by eating fruit and depositing seeds in droppings elsewhere, or by carrying seeds stuck to their fur."},
+        {"id": "b", "label": "Animals eat fruits, travel to new areas, and deposit seeds in their droppings — or seeds stick to their fur and fall off in new places", "correct": true, "explanation": "Correct! Seed dispersal by animals happens in two main ways: seeds pass through the digestive system and are deposited with droppings in new locations, or burr-type seeds stick to fur and are carried to new areas."},
+        {"id": "c", "label": "Animals carry seeds in special pouches on their backs", "correct": false, "explanation": "Animals do not have seed pouches. Seeds travel via digestive systems (swallowed with fruit) or by sticking to fur. Some birds carry seeds in their beaks."},
+        {"id": "d", "label": "Animals plant seeds deliberately in neat rows for next year's food supply", "correct": false, "explanation": "Animals do not intentionally plant seeds in rows. Seed dispersal by animals is accidental — seeds travel when fruit is eaten or when seeds cling to fur."}
+      ],
+      "explanation_md": "Animals help plants disperse seeds in two main ways: (1) Eating fruit — seeds pass through the animal's digestive system unharmed and are deposited in droppings far from the parent plant. (2) Carrying seeds stuck to fur — burr-covered seeds cling to passing animals and are deposited when they fall off or are groomed away."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "If all the bees in a forest disappeared, what would most likely happen to the plants and then to the animals?",
+      "choices": [
+        {"id": "a", "label": "Plants would grow better without bees competing for their nectar", "correct": false, "explanation": "Plants do not compete with bees. Without bees, most flowering plants cannot be pollinated and cannot produce seeds — resulting in fewer plants over time."},
+        {"id": "b", "label": "Without pollination, flowering plants would produce fewer seeds → fewer new plants would grow → herbivores would have less food → carnivores would have less prey", "correct": true, "explanation": "Correct! Bees pollinate most flowering plants. Without pollination, those plants cannot reproduce, so the plant population shrinks. Fewer plants means less food for plant-eaters, which then means less prey for predators. The entire food chain is affected."},
+        {"id": "c", "label": "Only the bees would be affected — plants and animals would be fine", "correct": false, "explanation": "Most flowering plants depend on bees for pollination. If bees disappear, plant reproduction declines, which cascades through the entire food chain."},
+        {"id": "d", "label": "All animals would immediately move to a new forest", "correct": false, "explanation": "Animals do not collectively migrate in response to a single species disappearing. The effects would be gradual — first plant reproduction would slow, then food sources would shrink, and eventually animals would be affected."}
+      ],
+      "explanation_md": "This is a cascade effect. Bees pollinate the majority of flowering plants. Without pollination, plants cannot produce seeds and new plants cannot grow. As the plant population shrinks, herbivores (primary consumers) lose their food supply. With fewer herbivores, carnivores (secondary consumers) lose their prey. The removal of one species — the bee — can trigger declines throughout the entire food chain."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Plants take in carbon dioxide and release oxygen. Animals breathe in oxygen and breathe out carbon dioxide. How does this show that plants and animals need each other?",
+      "choices": [
+        {"id": "a", "label": "It does not show any connection — plants and animals use completely different gases", "correct": false, "explanation": "This is exactly backwards. Plants and animals use each other's 'waste' gases — this IS a direct connection showing mutual dependence."},
+        {"id": "b", "label": "Plants use the carbon dioxide animals breathe out, and animals breathe the oxygen plants release — they recycle each other's gases", "correct": true, "explanation": "Correct! Animals produce carbon dioxide as a waste product of breathing. Plants use that carbon dioxide in photosynthesis. Plants then release oxygen as a byproduct of photosynthesis — which animals breathe. This is a perfect example of mutual dependence."},
+        {"id": "c", "label": "Animals produce oxygen and plants produce carbon dioxide — the opposite of what the question says", "correct": false, "explanation": "This is backwards. Animals breathe IN oxygen and breathe OUT carbon dioxide. Plants take IN carbon dioxide and release oxygen. The question has it right."},
+        {"id": "d", "label": "Only animals benefit from this relationship — plants do not need animals at all", "correct": false, "explanation": "Plants benefit from the carbon dioxide animals exhale — it is one of the three ingredients needed for photosynthesis. Both organisms benefit from the gas exchange."}
+      ],
+      "explanation_md": "Plants and animals participate in a gas exchange cycle: animals breathe out carbon dioxide → plants use CO2 in photosynthesis → plants release oxygen → animals breathe that oxygen. Each organism uses what the other produces as waste. This is one of the clearest examples of mutual dependence between plants and animals."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "An oak tree provides acorns for squirrels to eat, and the squirrels sometimes bury acorns and forget them — and those acorns grow into new oak trees. Describe the relationship between the oak tree and the squirrel.",
+      "choices": [
+        {"id": "a", "label": "Only the squirrel benefits — the oak tree gets nothing from the squirrel", "correct": false, "explanation": "The oak tree benefits from squirrel forgetfulness! When squirrels bury and forget acorns, those acorns germinate and grow into new oak trees — that is seed dispersal that benefits the oak."},
+        {"id": "b", "label": "Both benefit: the squirrel gets food (acorns) and the oak tree gets its seeds spread to new areas", "correct": true, "explanation": "Correct! The squirrel eats acorns (food benefit) and the oak tree gets seed dispersal when squirrels forget buried acorns (reproduction benefit). Both organisms gain from the relationship."},
+        {"id": "c", "label": "Only the oak tree benefits — the squirrel loses all the acorns it buries", "correct": false, "explanation": "Squirrels remember where MOST of their acorns are buried and retrieve them for food. They forget some, which benefits the oak. The squirrel still gains food from the relationship."},
+        {"id": "d", "label": "Neither benefits — acorns are harmful to squirrels and squirrels harm oak trees", "correct": false, "explanation": "Acorns are a nutritious food for squirrels. And when squirrels spread acorns, they help oak trees reproduce. Both organisms benefit."}
+      ],
+      "explanation_md": "This is a mutually beneficial relationship. The squirrel gets food (acorns contain fat and carbohydrates for energy). The oak gets seed dispersal — when squirrels forget buried acorns, those acorns germinate and grow into new oak trees in new locations. This is a classic example of how plants and animals depend on and benefit from each other."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer uses pesticides to kill all the insects in her field. She notices that within two years, her fruit trees stop producing as much fruit. What is the most likely explanation?",
+      "choices": [
+        {"id": "a", "label": "The pesticides gave the fruit trees a disease that reduced their fruit production", "correct": false, "explanation": "While some pesticides can affect plants, the most likely explanation is ecological — the loss of pollinator insects means the flowers are not pollinated and cannot produce fruit."},
+        {"id": "b", "label": "Without insect pollinators (like bees), the fruit tree flowers are not pollinated and cannot develop into fruit", "correct": true, "explanation": "Correct! Fruit trees need pollinators to carry pollen between flowers. Without insects like bees, the flowers are not pollinated and cannot become fruit. Fewer insects = fewer pollinators = less fruit."},
+        {"id": "c", "label": "The insects were eating the roots of the fruit trees, so killing them helped the trees grow", "correct": false, "explanation": "Some insects do damage roots, but the more important relationship here is pollination. Fruit trees need insects to pollinate their flowers — without them, fruit production drops dramatically."},
+        {"id": "d", "label": "Fruit trees do not need insects at all — the decline in fruit must have a different cause", "correct": false, "explanation": "Most fruit trees (apple, cherry, peach, etc.) require pollination by insects to produce fruit. The loss of insects is the most direct explanation for reduced fruit production."}
+      ],
+      "explanation_md": "This scenario illustrates the critical role of pollinators. Fruit trees flower in spring, and insects (especially bees) carry pollen between flowers during pollination. Pollinated flowers develop into fruit. When pesticides eliminate the insects, there are no pollinators left. Without pollination, flowers cannot develop into fruit — so fruit production drops significantly. This is a real-world example of how animals and plants depend on each other."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the food chain: Sunflower → Caterpillar → Robin (bird) → Hawk, identify the producer and all consumers.",
+      "choices": [
+        {"id": "a", "label": "Producer: Hawk. Consumers: Sunflower, Caterpillar, Robin.", "correct": false, "explanation": "The hawk is a top consumer — it eats other animals. The sunflower is the producer because it makes its own food through photosynthesis."},
+        {"id": "b", "label": "Producer: Sunflower. Primary consumer: Caterpillar. Secondary consumer: Robin. Top consumer: Hawk.", "correct": true, "explanation": "Correct! The sunflower produces food via photosynthesis. The caterpillar eats the sunflower (primary consumer). The robin eats the caterpillar (secondary consumer). The hawk eats the robin (top consumer/predator)."},
+        {"id": "c", "label": "Producer: Caterpillar. Consumers: Sunflower, Robin, Hawk.", "correct": false, "explanation": "Caterpillars eat plants — they are consumers, not producers. The sunflower makes its own food from sunlight and is the producer."},
+        {"id": "d", "label": "All four are consumers — there is no producer in this food chain.", "correct": false, "explanation": "Every food chain must have a producer (a plant). The sunflower is the producer — it uses photosynthesis to make food from sunlight."}
+      ],
+      "explanation_md": "In every food chain, a producer (plant) uses photosynthesis to create food. Animals that eat the producer are primary consumers. Animals that eat primary consumers are secondary consumers. Animals at the top that are rarely eaten are top consumers. Energy flows: Sunflower (producer) → Caterpillar (1st consumer) → Robin (2nd consumer) → Hawk (top consumer)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student says plants only need the sun and soil to survive — they do not need animals at all. Is this correct? Explain.",
+      "choices": [
+        {"id": "a", "label": "Correct — plants only need sunlight, water, and soil; animals are irrelevant to plant survival", "correct": false, "explanation": "Many plants would struggle without animals. Pollinators are essential for flowering plants to produce seeds. Seed dispersers help plants colonize new areas. Decomposers (often including tiny animals) recycle nutrients that plants need."},
+        {"id": "b", "label": "Partially correct for individual plant survival, but for reproduction and long-term survival of plant species, many plants depend on animals for pollination, seed dispersal, and nutrient cycling", "correct": true, "explanation": "Correct! A single plant can grow without animals if it has sunlight, water, CO2, and nutrients. But for most flowering plants to reproduce, they need animal pollinators. Without animals, soil nutrients would cycle more slowly, and seeds would not travel far. Plants and animals are deeply interdependent."},
+        {"id": "c", "label": "Completely incorrect — plants literally cannot grow a single centimeter without animals present", "correct": false, "explanation": "Plants can grow without animals in controlled settings (like a lab or greenhouse). The interdependence becomes critical mainly for reproduction (pollination) and long-term soil health (decomposition)."},
+        {"id": "d", "label": "Animals actually harm plants — removing all animals would help plants grow better", "correct": false, "explanation": "Animals provide critical services to plants: pollination (reproduction), seed dispersal (colonization), and decomposition (nutrient cycling). Many animals also eat plant pests, protecting plants. Removing all animals would harm most plant populations over time."}
+      ],
+      "explanation_md": "While plants CAN survive short-term with just sunlight, water, soil nutrients, and CO2, they depend on animals in crucial ways for long-term survival and reproduction. Pollinators (bees, butterflies) allow most flowering plants to reproduce. Seed dispersers (birds, mammals) help plants spread to new locations. Decomposers return nutrients to soil. These animal roles are so important that removing them would eventually cause most plant species to decline."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Explain how removing ONE species from a food chain can affect the ENTIRE chain, using the example: Grass → Deer → Wolf.",
+      "choices": [
+        {"id": "a", "label": "Removing one species has no effect on the others because each organism is independent", "correct": false, "explanation": "Organisms in a food chain are directly connected through feeding relationships. Removing one always affects the others."},
+        {"id": "b", "label": "If wolves are removed, deer overpopulate → deer eat too much grass → grass is depleted → deer eventually starve too. If deer are removed, wolves starve AND grass overruns the environment. Every species affects the others.", "correct": true, "explanation": "Correct! This is the cascade effect. Each removal triggers a chain reaction. Wolves control deer numbers; deer control grass. Remove any one link and the whole system becomes unbalanced."},
+        {"id": "c", "label": "Only the species directly connected to the removed one is affected — the third species remains unchanged", "correct": false, "explanation": "Indirect effects ripple through food chains. If wolves (which eat deer) are removed, deer overpopulate. Deer eat more grass. Grass is reduced. The effect passes from wolves all the way to grass — two links away."},
+        {"id": "d", "label": "The food chain automatically creates a new replacement species to fill the gap", "correct": false, "explanation": "Food chains do not automatically generate new species. When a species is removed, the system becomes unbalanced. Recovery, if it happens, is a slow process that may take years or decades."}
+      ],
+      "explanation_md": "Food chains demonstrate ecological interdependence. In Grass → Deer → Wolf: If wolves are removed, deer have no predator → deer overpopulate → deer eat far more grass → grass is overgrazed and disappears → deer starve without food → deer population crashes. If deer are removed, wolves have no prey → wolves starve → wolf population collapses. AND with no deer eating it, grass overgrows and crowds out other plants. Every species depends on the others above and below it in the chain. This cascade effect is why ecologists are concerned when any species goes extinct."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do animals need plants?",
+      "choices": [
+        {"id": "a", "label": "Animals only need plants to look at — they are decorations", "correct": false, "explanation": "Plants provide food, oxygen, and shelter to animals — not just visual pleasure."},
+        {"id": "b", "label": "Plants give animals food to eat, oxygen to breathe, and shelter to live in", "correct": true, "explanation": "Correct! Plants are essential to animals: they provide food for herbivores and indirectly for carnivores, they produce the oxygen animals breathe, and they provide shelter."},
+        {"id": "c", "label": "Animals do not need plants — they can survive on rocks and sand", "correct": false, "explanation": "Animals need food, water, and oxygen — all of which plants help provide. No animal can survive on rocks and sand alone."},
+        {"id": "d", "label": "Plants keep animals warm by releasing heat", "correct": false, "explanation": "Plants do not generate significant heat for animals. Animals keep warm through their own body heat, fur, or by finding shelter."}
+      ],
+      "explanation_md": "Animals depend on plants for three critical needs: food (plants are eaten by herbivores and support all food chains), oxygen (released by plants during photosynthesis), and shelter (trees and shrubs provide homes for many animals)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A caterpillar eats leaves. A bird eats the caterpillar. What is the correct food chain?",
+      "choices": [
+        {"id": "a", "label": "Bird → Caterpillar → Leaf", "correct": false, "explanation": "Food chains show energy flowing from producer to consumer. Energy goes from leaves (producer) to caterpillar (eats leaves) to bird (eats caterpillar) — not the other direction."},
+        {"id": "b", "label": "Leaf → Caterpillar → Bird", "correct": true, "explanation": "Correct! The arrow in a food chain points in the direction energy flows. Leaves (producer) → Caterpillar (eats leaves) → Bird (eats caterpillar)."},
+        {"id": "c", "label": "Caterpillar → Bird → Leaf", "correct": false, "explanation": "This order does not match the eating relationships described. The caterpillar eats the leaf, and the bird eats the caterpillar — so the chain goes Leaf → Caterpillar → Bird."},
+        {"id": "d", "label": "Bird → Leaf → Caterpillar", "correct": false, "explanation": "Birds do not eat leaves in this chain. The order must reflect who eats whom: Leaf → Caterpillar → Bird."}
+      ],
+      "explanation_md": "A food chain follows the direction of energy flow. Leaves are eaten by the caterpillar, then the caterpillar is eaten by the bird. The chain is: Leaf (producer) → Caterpillar (primary consumer) → Bird (secondary consumer)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the role of a bee in helping flowers?",
+      "choices": [
+        {"id": "a", "label": "Bees eat flowers so that only the strongest ones survive", "correct": false, "explanation": "Bees collect nectar and pollen — they do not 'thin out' flowers. Their primary role is as pollinators."},
+        {"id": "b", "label": "Bees carry pollen from one flower to another, which helps the plant make seeds", "correct": true, "explanation": "Correct! As bees collect nectar, pollen clings to their bodies. When they move to the next flower, pollen is transferred — this is pollination, which allows the plant to produce seeds."},
+        {"id": "c", "label": "Bees pour water on flowers to keep them from drying out", "correct": false, "explanation": "Bees do not water flowers. Plants absorb water through their roots. Bees help flowers through pollination."},
+        {"id": "d", "label": "Bees chase away birds so that birds do not eat the flowers", "correct": false, "explanation": "Bees do not guard flowers from birds. They visit flowers to collect nectar for food and accidentally pollinate the flowers in the process."}
+      ],
+      "explanation_md": "Bees are pollinators. When a bee visits a flower for nectar, pollen sticks to its body. The bee carries that pollen to the next flower. This transfer of pollen allows the plant to reproduce by making seeds — a process called pollination."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which living things are PRODUCERS?",
+      "choices": [
+        {"id": "a", "label": "Lions and tigers", "correct": false, "explanation": "Lions and tigers are predators — they eat other animals. They are consumers, not producers."},
+        {"id": "b", "label": "Plants, because they make their own food using sunlight", "correct": true, "explanation": "Correct! Plants are producers because they make their own food through photosynthesis — using sunlight, water, and carbon dioxide. No other food energy can exist in an ecosystem without producers."},
+        {"id": "c", "label": "Worms and mushrooms", "correct": false, "explanation": "Worms and mushrooms are decomposers — they break down dead matter. They are not producers."},
+        {"id": "d", "label": "Humans", "correct": false, "explanation": "Humans are consumers — we eat plants and animals. We cannot make our own food from sunlight the way plants can."}
+      ],
+      "explanation_md": "Producers are plants and plant-like organisms that make their own food through photosynthesis. They use sunlight, water, and carbon dioxide to produce sugars (food). All food chains start with a producer because they are the original source of energy in an ecosystem."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Worms in the soil eat dead leaves and animal remains. How do worms help plants grow?",
+      "choices": [
+        {"id": "a", "label": "Worms eat the roots of plants and help them grow faster", "correct": false, "explanation": "Worms do not eat living plant roots. They eat dead organic matter. This decomposition releases nutrients that plant roots absorb."},
+        {"id": "b", "label": "Worms break down dead material into nutrients that plant roots absorb from the soil", "correct": true, "explanation": "Correct! Worms are decomposers. They break down dead leaves and animal matter, releasing nutrients (like nitrogen) into the soil. Plant roots absorb these nutrients, which help them grow healthy leaves, stems, and flowers."},
+        {"id": "c", "label": "Worms carry water from rivers to plant roots underground", "correct": false, "explanation": "Worms do not carry water to plants. They improve soil structure and break down dead material into nutrients, but they do not transport water."},
+        {"id": "d", "label": "Worms have no effect on plants — only sunlight helps plants grow", "correct": false, "explanation": "Sunlight is important, but plants also need nutrients from the soil. Worms play a vital role in releasing those nutrients by decomposing dead material."}
+      ],
+      "explanation_md": "Worms are decomposers. They eat dead leaves and organic material, breaking them down into simpler nutrients that enter the soil. Plant roots absorb these nutrients — especially nitrogen — to build strong stems, leaves, and roots. Without decomposers like worms, dead material would pile up and soil nutrients would be depleted, making it harder for plants to grow."
+    }
+  ]
+}
