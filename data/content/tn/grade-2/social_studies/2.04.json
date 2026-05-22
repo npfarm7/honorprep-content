@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.04",
+  "benchmark_description": "Identify community leaders and explain how they help communities, including the mayor, city council, and other local officials.",
+  "course": "social_studies",
+  "strand": "GOV",
+  "lesson": {
+    "title": "Community Leaders",
+    "intro": "Every community needs leaders to help it run smoothly. These leaders make rules, solve problems, and keep people safe. Let's meet some important community leaders!",
+    "body_md": "## Why Communities Need Leaders\n\nLeaders help communities by:\n- Making important decisions\n- Creating laws and rules\n- Solving problems\n- Making sure people are safe\n- Helping the community grow and improve\n\n## The Mayor\n\nThe **mayor** is the leader of a city or town. The mayor is like the boss of the city government.\n\n**What a mayor does:**\n- Leads the city government\n- Helps decide how the city spends its money\n- Works on making the city a better place\n- Speaks for the community at important events\n- Signs new laws for the city\n\n**Tennessee example:** The mayor of Nashville is the leader of Davidson County and the city of Nashville.\n\n## City Council\n\nThe **city council** is a group of people elected by citizens to help make decisions for the city.\n\n**What the city council does:**\n- Makes local laws (called ordinances)\n- Decides how to spend city money (the budget)\n- Works on problems like roads, parks, and safety\n- Listens to what citizens want and need\n\nCity council members represent different neighborhoods in the city.\n\n## Other Local Leaders\n\n| Leader | Job |\n|---|---|\n| **Sheriff** | Leads the county's law enforcement (police) |\n| **Fire Chief** | Leads firefighters who keep the community safe |\n| **School Superintendent** | Leads the public school system |\n| **County Executive / Judge** | Leads county government |\n| **Police Chief** | Leads city police department |\n\n## How Leaders Are Chosen\n\nMost community leaders are **elected** \u2014 citizens vote for them. Some leaders are **appointed** \u2014 the mayor or another official chooses them.\n\n## How Citizens Can Connect With Leaders\n\n- Attend city council meetings\n- Write letters to the mayor\n- Vote in local elections\n- Call the city hall with questions or concerns",
+    "worked_example_md": "## Worked Example\n\n**Question:** The city wants to build a new playground. Who are the leaders involved, and what do they do?\n\n**Step 1 \u2014 Who decides to spend city money on the playground?**\nThe **city council** votes on how to spend city money. They would approve the budget for a new playground.\n\n**Step 2 \u2014 Who leads the city?**\nThe **mayor** leads the city and helps decide what projects are important. The mayor might suggest building the playground.\n\n**Step 3 \u2014 Who makes sure the community is safe while it is being built?**\nThe **police chief** or **fire chief** helps make sure safety rules are followed during construction.\n\n**Answer:** The mayor and city council work together to approve the playground. The city council votes on the budget. The mayor leads the project. Other leaders help keep everything safe.\n\n**Key idea:** Community leaders work together to help the community.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who is the main leader of a city or town?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The fire chief",
+          "correct": false,
+          "explanation": "The fire chief leads firefighters but is not the main leader of the whole city."
+        },
+        {
+          "id": "b",
+          "label": "The mayor",
+          "correct": true,
+          "explanation": "The mayor is the main leader of a city or town and leads the city government."
+        },
+        {
+          "id": "c",
+          "label": "The school principal",
+          "correct": false,
+          "explanation": "The school principal leads a school, not the whole city."
+        },
+        {
+          "id": "d",
+          "label": "The mail carrier",
+          "correct": false,
+          "explanation": "Mail carriers deliver mail but are not city leaders."
+        }
+      ],
+      "explanation_md": "The mayor is the main leader of a city or town."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the city council?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A group of firefighters",
+          "correct": false,
+          "explanation": "Firefighters are led by the fire chief, not the city council."
+        },
+        {
+          "id": "b",
+          "label": "A group of elected people who help make decisions for the city",
+          "correct": true,
+          "explanation": "The city council is an elected group that makes laws and decisions for the city."
+        },
+        {
+          "id": "c",
+          "label": "A group of teachers who run the schools",
+          "correct": false,
+          "explanation": "Schools are run by school officials, not the city council."
+        },
+        {
+          "id": "d",
+          "label": "A team of police officers",
+          "correct": false,
+          "explanation": "Police officers are led by the police chief, not the city council."
+        }
+      ],
+      "explanation_md": "The city council is a group of elected people who help make laws and decisions for the city."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which leader is in charge of the fire department?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The mayor",
+          "correct": false,
+          "explanation": "The mayor leads the whole city, not just the fire department."
+        },
+        {
+          "id": "b",
+          "label": "The school superintendent",
+          "correct": false,
+          "explanation": "The school superintendent leads the school system, not firefighters."
+        },
+        {
+          "id": "c",
+          "label": "The fire chief",
+          "correct": true,
+          "explanation": "The fire chief leads the firefighters who protect the community."
+        },
+        {
+          "id": "d",
+          "label": "The city council",
+          "correct": false,
+          "explanation": "The city council makes laws and manages budgets, but does not lead the fire department directly."
+        }
+      ],
+      "explanation_md": "The fire chief leads the fire department and the firefighters who keep the community safe."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How are most community leaders chosen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They are born into the position",
+          "correct": false,
+          "explanation": "Community leaders in the United States are not born into office like kings or queens."
+        },
+        {
+          "id": "b",
+          "label": "They win a competition",
+          "correct": false,
+          "explanation": "Leaders are chosen by elections or appointments, not competitions."
+        },
+        {
+          "id": "c",
+          "label": "Citizens vote for them in elections",
+          "correct": true,
+          "explanation": "Most community leaders are elected by citizens who vote for them."
+        },
+        {
+          "id": "d",
+          "label": "The principal picks them",
+          "correct": false,
+          "explanation": "A school principal does not pick city leaders."
+        }
+      ],
+      "explanation_md": "Most community leaders are elected. Citizens vote to choose who they want to lead them."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The city council wants to fix a broken road in the neighborhood. What should they do first?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wait for the road to get worse before acting",
+          "correct": false,
+          "explanation": "Good leaders solve problems quickly to keep the community safe."
+        },
+        {
+          "id": "b",
+          "label": "Vote on using city money to pay for the road repairs",
+          "correct": true,
+          "explanation": "The city council decides how city money is spent. Approving budget for repairs is their job."
+        },
+        {
+          "id": "c",
+          "label": "Ask citizens to fix the road themselves for free",
+          "correct": false,
+          "explanation": "The city council is responsible for public roads, not individual citizens."
+        },
+        {
+          "id": "d",
+          "label": "Ask the fire chief to fix the road",
+          "correct": false,
+          "explanation": "The fire chief handles fire safety, not road repairs."
+        }
+      ],
+      "explanation_md": "The city council decides how city money is spent. They vote on using the budget for road repairs."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A citizen has a complaint about a noisy neighbor. Which leader should the citizen contact FIRST?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The school superintendent",
+          "correct": false,
+          "explanation": "The school superintendent deals with school issues, not neighborhood noise."
+        },
+        {
+          "id": "b",
+          "label": "The local police (police chief or sheriff's department)",
+          "correct": true,
+          "explanation": "Noise complaints are handled by police, who enforce community rules."
+        },
+        {
+          "id": "c",
+          "label": "The fire chief",
+          "correct": false,
+          "explanation": "The fire chief handles fire emergencies, not neighbor noise complaints."
+        },
+        {
+          "id": "d",
+          "label": "The President of the United States",
+          "correct": false,
+          "explanation": "A neighborhood noise complaint is a local issue, not a federal matter for the President."
+        }
+      ],
+      "explanation_md": "Noise complaints are a local law enforcement issue. The police department handles community rules like noise."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is one way the mayor helps the community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Teaching children how to read",
+          "correct": false,
+          "explanation": "Teaching reading is the job of teachers and the school system."
+        },
+        {
+          "id": "b",
+          "label": "Signing new laws and helping decide how the city spends its money",
+          "correct": true,
+          "explanation": "The mayor leads city government and plays a key role in new laws and the city budget."
+        },
+        {
+          "id": "c",
+          "label": "Delivering packages to houses",
+          "correct": false,
+          "explanation": "Delivering packages is the job of mail carriers, not the mayor."
+        },
+        {
+          "id": "d",
+          "label": "Fixing all potholes in the street personally",
+          "correct": false,
+          "explanation": "The mayor leads government workers who manage road repairs, but does not fix roads personally."
+        }
+      ],
+      "explanation_md": "The mayor leads city government, helps create laws, and decides how the city's money is spent."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do communities need more than one leader?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because one leader is not smart enough to lead alone",
+          "correct": false,
+          "explanation": "Communities have multiple leaders because there are many different areas to manage, not because leaders are not smart."
+        },
+        {
+          "id": "b",
+          "label": "Because communities have many different needs and responsibilities that require different experts",
+          "correct": true,
+          "explanation": "Different leaders handle different parts of the community \u2014 safety, schools, laws, and budgets all need expert leaders."
+        },
+        {
+          "id": "c",
+          "label": "Because it is fun to have many leaders",
+          "correct": false,
+          "explanation": "Communities have multiple leaders for practical reasons, not just for fun."
+        },
+        {
+          "id": "d",
+          "label": "So that leaders can take more vacations",
+          "correct": false,
+          "explanation": "Having multiple leaders helps the community get more things done, not to allow vacations."
+        }
+      ],
+      "explanation_md": "Communities have different needs like safety, schools, and laws. Different leaders handle each area."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "The school superintendent wants to open a new school. Who else would need to be involved in this decision?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only the students who will attend the new school",
+          "correct": false,
+          "explanation": "Students do not make budget decisions. Leaders and elected officials do."
+        },
+        {
+          "id": "b",
+          "label": "The city council, since they control the budget for city services",
+          "correct": true,
+          "explanation": "Opening a new school costs money. The city council must approve the budget. Multiple leaders work together on big decisions."
+        },
+        {
+          "id": "c",
+          "label": "The fire chief alone",
+          "correct": false,
+          "explanation": "The fire chief handles safety, not school funding decisions."
+        },
+        {
+          "id": "d",
+          "label": "No one else \u2014 the superintendent can decide alone",
+          "correct": false,
+          "explanation": "Big community decisions involve multiple leaders. The superintendent would need budget approval from the city council."
+        }
+      ],
+      "explanation_md": "Opening a school costs money. The city council must approve the budget. Community leaders work together on big decisions."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Citizens in a city are unhappy about a new law the city council passed. What is the BEST way citizens can respond?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Break the law because they disagree with it",
+          "correct": false,
+          "explanation": "Breaking a law is not the right response. Good citizens work to change laws through proper means."
+        },
+        {
+          "id": "b",
+          "label": "Speak at city council meetings, write letters, and vote for different council members in the next election",
+          "correct": true,
+          "explanation": "Good citizens use lawful ways to change things they disagree with: speaking up, writing letters, and voting."
+        },
+        {
+          "id": "c",
+          "label": "Move to another city immediately",
+          "correct": false,
+          "explanation": "While people can move, the best civic response is to work within the system to make changes."
+        },
+        {
+          "id": "d",
+          "label": "Ignore the law and pretend it does not exist",
+          "correct": false,
+          "explanation": "Ignoring a law is not how good citizens handle disagreement."
+        }
+      ],
+      "explanation_md": "Good citizens use lawful means to change laws they disagree with: attending meetings, writing letters, and voting."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Match the leader with the job:\n\n- Mayor\n- City Council\n- Fire Chief\n\nWhich one **makes local laws and decides how to spend city money**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Mayor",
+          "correct": false,
+          "explanation": "The mayor leads the city, but the city council specifically votes on local laws and the budget."
+        },
+        {
+          "id": "b",
+          "label": "City Council",
+          "correct": true,
+          "explanation": "The city council makes local laws (ordinances) and decides how to spend city money."
+        },
+        {
+          "id": "c",
+          "label": "Fire Chief",
+          "correct": false,
+          "explanation": "The fire chief leads firefighters. The fire chief does not make laws or manage the city budget."
+        },
+        {
+          "id": "d",
+          "label": "All three together do this equally",
+          "correct": false,
+          "explanation": "Making local laws and the budget is mainly the city council's job."
+        }
+      ],
+      "explanation_md": "The city council makes local laws and decides how the city spends its money."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the mayor do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Teaches at the local school",
+          "correct": false,
+          "explanation": "Teaching is the role of teachers. The mayor leads the city government."
+        },
+        {
+          "id": "b",
+          "label": "Leads the city government and helps make decisions for the whole city",
+          "correct": true,
+          "explanation": "The mayor is the top leader of the city and is responsible for overall city government."
+        },
+        {
+          "id": "c",
+          "label": "Only picks up trash",
+          "correct": false,
+          "explanation": "Trash collection is handled by city workers. The mayor leads the whole city government."
+        },
+        {
+          "id": "d",
+          "label": "Leads the fire department",
+          "correct": false,
+          "explanation": "The fire chief leads the fire department, not the mayor."
+        }
+      ],
+      "explanation_md": "The mayor leads the city government and makes important decisions for the whole city."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How do citizens help choose community leaders?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Citizens have no say in who becomes a leader",
+          "correct": false,
+          "explanation": "Citizens vote in elections to choose most of their community leaders."
+        },
+        {
+          "id": "b",
+          "label": "Citizens vote in elections to select leaders like the mayor and city council",
+          "correct": true,
+          "explanation": "Voting is how citizens choose their leaders in a democratic community."
+        },
+        {
+          "id": "c",
+          "label": "Citizens pay leaders directly from their own money",
+          "correct": false,
+          "explanation": "Community leaders are paid through tax money, not direct payments by individual citizens."
+        },
+        {
+          "id": "d",
+          "label": "The President of the United States picks all local leaders",
+          "correct": false,
+          "explanation": "Local leaders are chosen by local citizens through elections, not by the President."
+        }
+      ],
+      "explanation_md": "Citizens vote in local elections to choose leaders like the mayor and city council members."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The leader of a city or town is called the:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Teacher",
+          "correct": false,
+          "explanation": "Teachers lead classrooms, not cities."
+        },
+        {
+          "id": "b",
+          "label": "Mayor",
+          "correct": true,
+          "explanation": "The mayor is the leader of a city or town."
+        },
+        {
+          "id": "c",
+          "label": "Firefighter",
+          "correct": false,
+          "explanation": "Firefighters keep communities safe from fires, but they are not the city's top leader."
+        },
+        {
+          "id": "d",
+          "label": "Mail carrier",
+          "correct": false,
+          "explanation": "Mail carriers deliver mail, not lead cities."
+        }
+      ],
+      "explanation_md": "The mayor is the leader of a city or town."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which leader keeps the community safe from fires?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The mayor",
+          "correct": false,
+          "explanation": "The mayor leads the whole city, not just fire safety."
+        },
+        {
+          "id": "b",
+          "label": "The fire chief",
+          "correct": true,
+          "explanation": "The fire chief leads the firefighters who keep the community safe from fires."
+        },
+        {
+          "id": "c",
+          "label": "The school superintendent",
+          "correct": false,
+          "explanation": "The school superintendent runs the school system, not fire safety."
+        },
+        {
+          "id": "d",
+          "label": "The city council",
+          "correct": false,
+          "explanation": "The city council makes laws and budgets. They do not lead the fire department."
+        }
+      ],
+      "explanation_md": "The fire chief leads the firefighters and keeps the community safe from fires."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The city council helps the community by:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cooking meals for schools",
+          "correct": false,
+          "explanation": "Cooking meals is done by cafeteria workers. The city council makes laws and manages budgets."
+        },
+        {
+          "id": "b",
+          "label": "Making local laws and deciding how to use city money",
+          "correct": true,
+          "explanation": "The city council makes laws and decides how city money is spent on services."
+        },
+        {
+          "id": "c",
+          "label": "Driving buses for students",
+          "correct": false,
+          "explanation": "Bus drivers transport students. The city council makes laws and budgets."
+        },
+        {
+          "id": "d",
+          "label": "Checking out library books",
+          "correct": false,
+          "explanation": "Librarians help with books. The city council makes laws and decisions for the city."
+        }
+      ],
+      "explanation_md": "The city council makes local laws and decides how city money is spent."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Most community leaders in the United States are chosen by:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Their parents choosing them",
+          "correct": false,
+          "explanation": "Community leadership is not passed down through families like royalty."
+        },
+        {
+          "id": "b",
+          "label": "Citizens voting in elections",
+          "correct": true,
+          "explanation": "Citizens vote to choose their leaders. This is called an election."
+        },
+        {
+          "id": "c",
+          "label": "Rolling a dice to decide",
+          "correct": false,
+          "explanation": "Leaders are chosen through voting, not chance."
+        },
+        {
+          "id": "d",
+          "label": "The richest person in town",
+          "correct": false,
+          "explanation": "Money does not automatically make someone a leader. Citizens vote to choose leaders."
+        }
+      ],
+      "explanation_md": "Most community leaders are chosen by citizens voting in elections."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "How can a student be a leader in their community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "By making laws for the city",
+          "correct": false,
+          "explanation": "Students do not make city laws. That is for elected officials."
+        },
+        {
+          "id": "b",
+          "label": "By helping at school and being kind to others",
+          "correct": true,
+          "explanation": "Students can show leadership by helping others and being kind \u2014 just like community leaders do."
+        },
+        {
+          "id": "c",
+          "label": "By being the mayor of the city",
+          "correct": false,
+          "explanation": "Students are too young to be mayor, but they can still show leadership in smaller ways."
+        },
+        {
+          "id": "d",
+          "label": "By collecting taxes",
+          "correct": false,
+          "explanation": "Collecting taxes is a government job. Students can lead by helping others and being kind."
+        }
+      ],
+      "explanation_md": "Students can show leadership by helping others and being kind at school, just like community leaders help their communities."
+    }
+  ]
+}
