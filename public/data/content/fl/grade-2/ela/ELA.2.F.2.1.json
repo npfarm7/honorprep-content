@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.F.2.1",
+  "benchmark_description": "Read grade-level text orally with accuracy, appropriate rate, and expression. Apply phrasing and prosody to support comprehension.",
+  "course": "ela",
+  "strand": "F",
+  "lesson": {
+    "title": "Reading Fluency: Accuracy, Rate, and Expression",
+    "intro": "Fluency means reading smoothly, accurately, and with expression - like you are speaking naturally. Fluent readers are easier to understand when reading aloud, and they also understand what they read better themselves.",
+    "body_md": "## The Three Parts of Fluency\n\n### 1. Accuracy\nReading the words correctly.\n\n- Tip: Use phonics patterns and context clues to decode unfamiliar words.\n- Check yourself: Re-read the sentence if it does not sound right.\n\n### 2. Rate\nReading at an appropriate speed - not too fast, not too slow.\n\n- Too fast: Listeners cannot follow; you may skip words or miss meaning.\n- Too slow: Choppy, word-by-word reading breaks up meaning.\n- Just right: Your pace sounds like natural, comfortable talking.\n\nFor grade 2, a typical fluency rate is around 90 to 100 words per minute (WPM).\n\n### 3. Expression (Prosody)\nUsing your voice to match the meaning of the text.\n\nProsody includes:\n- **Volume**: speak louder for exciting parts, softer for quiet moments\n- **Pitch**: raise your voice for questions, lower for statements\n- **Pace changes**: slow down for suspense, speed up for action\n- **Phrasing**: pause at punctuation to group words into meaning units\n- **Emphasis**: stress important words\n\n## Punctuation and Phrasing\n\n| Punctuation | What to do |\n|---|---|\n| Period (.) | Full stop - lower voice, pause |\n| Question mark (?) | Raise voice at the end |\n| Exclamation mark (!) | Show energy and feeling |\n| Comma (,) | Brief pause |\n| Quotation marks (' ') | Use a character voice |\n\n## Ways to Build Fluency\n\n1. **Re-read familiar books** - practice smooth reading without stopping to decode\n2. **Echo reading** - listen to a fluent reader, then repeat with same expression\n3. **Partner reading** - take turns reading aloud and giving feedback\n4. **Reader's theater** - read scripts with expression, like actors",
+    "worked_example_md": "## Worked Example: Read with expression\n\nPassage: *'Help!' cried Mia. 'The puppy ran away!'*\n\nPoor fluency: *'Help. Cried. Mia. The. Puppy. Ran. Away.'* (flat, word-by-word)\n\nGood fluency: *'HELP!' cried Mia. (with panic) 'The puppy RAN away!' (faster, urgent)*\n\nWhat changed:\n- Voice showed panic and urgency\n- 'Help!' was read loudly with feeling\n- 'ran' was emphasized\n- Natural phrasing (not word-by-word)\n- Pauses at punctuation marks\n\nPractice: Read the passage three times. Each time, try to sound more natural and expressive.",
+    "estimated_minutes": 25
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to read with **fluency**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Reading one word at a time, very slowly",
+          "correct": false,
+          "explanation": "Slow, choppy reading is not fluent. Fluency means reading smoothly at a good pace."
+        },
+        {
+          "id": "B",
+          "label": "Reading smoothly, accurately, and with expression",
+          "correct": true,
+          "explanation": "Correct! Fluency means reading accurately, at a good pace, and with expression - like natural speech."
+        },
+        {
+          "id": "C",
+          "label": "Spelling every word aloud before reading it",
+          "correct": false,
+          "explanation": "Spelling words aloud is not reading fluently. Fluency is reading text smoothly."
+        },
+        {
+          "id": "D",
+          "label": "Only reading words you already know",
+          "correct": false,
+          "explanation": "Fluency involves being able to read both known and unfamiliar words smoothly."
+        }
+      ],
+      "explanation_md": "Reading fluency has three parts: accuracy (reading words correctly), rate (reading at a good speed), and expression/prosody (reading with appropriate feeling and phrasing)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you read aloud with **expression**, you...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Read every word in the same flat voice",
+          "correct": false,
+          "explanation": "Reading in a flat voice with no expression is monotone. Expression means your voice changes to match the text."
+        },
+        {
+          "id": "B",
+          "label": "Change your voice to match the feeling of the text",
+          "correct": true,
+          "explanation": "Correct! Expression means your voice rises and falls, speeds up or slows down, to match what you are reading."
+        },
+        {
+          "id": "C",
+          "label": "Read as fast as you can",
+          "correct": false,
+          "explanation": "Reading as fast as possible may hurt accuracy. Expression is about the feeling in your voice, not speed."
+        },
+        {
+          "id": "D",
+          "label": "Whisper every word",
+          "correct": false,
+          "explanation": "Whispering is not expression. Expression means using your voice to show the meaning of the text."
+        }
+      ],
+      "explanation_md": "Expression (prosody) means using your voice to show feelings, emphasis, and phrasing. Your voice should match the mood of the text."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to **pause** when you see a comma or period while reading aloud?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To make reading slower and harder",
+          "correct": false,
+          "explanation": "Pausing at punctuation is not meant to slow you down - it helps listeners understand the text."
+        },
+        {
+          "id": "B",
+          "label": "Because your teacher requires it",
+          "correct": false,
+          "explanation": "The real reason is meaning. Pausing at punctuation helps listeners understand sentences and ideas."
+        },
+        {
+          "id": "C",
+          "label": "To help listeners understand where sentences and ideas end",
+          "correct": true,
+          "explanation": "Correct! Pausing at punctuation marks (commas, periods) groups words into phrases and sentences, making the text easier for listeners to understand."
+        },
+        {
+          "id": "D",
+          "label": "Only to take a breath",
+          "correct": false,
+          "explanation": "While you may breathe at punctuation, the main purpose is meaning - showing listeners where phrases and sentences end."
+        }
+      ],
+      "explanation_md": "Pausing at punctuation groups words into meaningful phrases and sentences. This helps listeners follow along and understand the text."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read this sentence two ways:\n\nWay 1: *'Don't...go...in...there.'* (one word at a time)\nWay 2: *'Don't go in there!'* (with urgency and expression)\n\nWhich way shows better fluency?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Way 1 - it is more careful and precise",
+          "correct": false,
+          "explanation": "Way 1 is choppy and does not reflect the meaning. Fluent reading is smooth, not word-by-word."
+        },
+        {
+          "id": "B",
+          "label": "Way 2 - it is smooth, accurate, and has expression matching the meaning",
+          "correct": true,
+          "explanation": "Correct! Way 2 is fluent: the words flow naturally and the expression (urgency) matches what the sentence means."
+        },
+        {
+          "id": "C",
+          "label": "Both ways are equally fluent",
+          "correct": false,
+          "explanation": "Way 1 is disfluent (choppy). Way 2 demonstrates true fluency."
+        },
+        {
+          "id": "D",
+          "label": "Neither way is fluent",
+          "correct": false,
+          "explanation": "Way 2 is fluent - smooth, accurate, and expressive."
+        }
+      ],
+      "explanation_md": "Fluent reading sounds like natural speech - smooth, accurate, and expressive. Way 2 captures the urgency of the warning, matching the text's meaning."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A second-grade reader is working on reading fluency. Which habit would MOST help her read more fluently?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Sounding out every single letter in every word before reading",
+          "correct": false,
+          "explanation": "Sounding out every letter makes reading choppy, not fluent. Sight words and chunking help fluency."
+        },
+        {
+          "id": "B",
+          "label": "Re-reading familiar books to build speed and expression",
+          "correct": true,
+          "explanation": "Correct! Re-reading familiar texts is one of the best strategies for building fluency. It lets you focus on phrasing and expression instead of decoding."
+        },
+        {
+          "id": "C",
+          "label": "Skipping all words she does not know",
+          "correct": false,
+          "explanation": "Skipping words reduces accuracy, which is part of fluency."
+        },
+        {
+          "id": "D",
+          "label": "Reading in her head instead of aloud",
+          "correct": false,
+          "explanation": "Silent reading has its place, but reading aloud and practicing expression builds oral reading fluency."
+        }
+      ],
+      "explanation_md": "Re-reading familiar texts builds fluency. When you already know the words, you can focus on reading smoothly and with expression."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is read with the BEST expression?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "'The dog barked.' (said in a flat, quiet voice with no feeling)",
+          "correct": false,
+          "explanation": "A flat voice does not match the sentence's energy. A barking dog suggests some energy in the voice."
+        },
+        {
+          "id": "B",
+          "label": "'THE DOG BARKED!' (shouted loudly for every sentence)",
+          "correct": false,
+          "explanation": "Not every sentence needs to be shouted. Expression means matching your voice to the meaning - not always loud."
+        },
+        {
+          "id": "C",
+          "label": "'The dog BARKED!' (with emphasis on 'barked,' moderate volume, excited tone)",
+          "correct": true,
+          "explanation": "Correct! Emphasizing 'barked' and using an excited tone matches the action in the sentence."
+        },
+        {
+          "id": "D",
+          "label": "'The... dog... barked.' (one word at a time slowly)",
+          "correct": false,
+          "explanation": "Slow, choppy reading is disfluent. Expression means smooth and natural, not word-by-word."
+        }
+      ],
+      "explanation_md": "Good expression means matching your voice to the text's meaning. Emphasizing 'barked' with an excited tone is the most natural and expressive reading of this sentence."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sam is reading and comes to a word he does not know. He stops and stares at it for 30 seconds. How does this affect his fluency?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "It helps his fluency by giving him time to think",
+          "correct": false,
+          "explanation": "Long pauses on unknown words break the flow and interrupt comprehension - this hurts fluency."
+        },
+        {
+          "id": "B",
+          "label": "It hurts his fluency because long pauses break the flow and lose the meaning",
+          "correct": true,
+          "explanation": "Correct! Fluent readers use strategies (context clues, phonics, skipping and coming back) to keep reading. Long stops hurt fluency."
+        },
+        {
+          "id": "C",
+          "label": "It has no effect on fluency",
+          "correct": false,
+          "explanation": "Long pauses on unknown words break the reading flow - they definitely affect fluency."
+        },
+        {
+          "id": "D",
+          "label": "It helps comprehension",
+          "correct": false,
+          "explanation": "Staring at a word for 30 seconds usually hurts comprehension because you lose the context of the sentence."
+        }
+      ],
+      "explanation_md": "Fluent readers use strategies when they hit unknown words: try phonics, use context clues, or skip and come back. Long stops break the flow and lose meaning."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher listens to a student read. The student reads all the words correctly but reads everything in the same flat tone with no pauses at punctuation. Which part of fluency is the student missing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Accuracy",
+          "correct": false,
+          "explanation": "The student is reading all words correctly - accuracy is fine."
+        },
+        {
+          "id": "B",
+          "label": "Rate",
+          "correct": false,
+          "explanation": "No information about speed is given. The issue is expression and phrasing."
+        },
+        {
+          "id": "C",
+          "label": "Expression and prosody",
+          "correct": true,
+          "explanation": "Correct! The student reads accurately but without expression or proper pausing. Prosody (expression, phrasing, intonation) is the missing element."
+        },
+        {
+          "id": "D",
+          "label": "Word recognition",
+          "correct": false,
+          "explanation": "The student recognizes all words (accuracy is fine). The gap is in expression."
+        }
+      ],
+      "explanation_md": "Fluency = accuracy + rate + prosody (expression). This student has accuracy but lacks prosody: no expression, flat tone, no pauses at punctuation. Prosody is the missing element."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why might a reader slow down when reading an exciting or scary part of a story?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To show they cannot read the words",
+          "correct": false,
+          "explanation": "Slowing down for effect shows reading skill, not difficulty. It is an expressive choice."
+        },
+        {
+          "id": "B",
+          "label": "To build suspense and match the mood of the text",
+          "correct": true,
+          "explanation": "Correct! Good readers adjust their pace to match the story's mood. Slowing down builds tension and suspense at exciting or scary moments."
+        },
+        {
+          "id": "C",
+          "label": "Because they are confused about the plot",
+          "correct": false,
+          "explanation": "Slowing for effect is intentional. It shows the reader understands the mood and is using expression."
+        },
+        {
+          "id": "D",
+          "label": "Because punctuation requires them to stop",
+          "correct": false,
+          "explanation": "While punctuation creates some pauses, slowing for mood is an expressive choice, not just following punctuation."
+        }
+      ],
+      "explanation_md": "Skilled readers vary their pace to match the text's mood. Slowing down at exciting or scary moments builds suspense - this is part of expressive reading (prosody)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads 90 words per minute with 95% accuracy and uses good expression. Another student reads 130 words per minute with 80% accuracy but no expression. Which student is the more FLUENT reader?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "The second student - faster is always better",
+          "correct": false,
+          "explanation": "Reading speed alone does not equal fluency. Accuracy and expression are equally important parts."
+        },
+        {
+          "id": "B",
+          "label": "The first student - fluency requires accuracy and expression, not just speed",
+          "correct": true,
+          "explanation": "Correct! The first student has better overall fluency: good accuracy (95%), reasonable rate (90 WPM for grade 2), and expression. The second has speed but poor accuracy and no expression."
+        },
+        {
+          "id": "C",
+          "label": "Both students are equally fluent",
+          "correct": false,
+          "explanation": "Fluency requires all three elements: accuracy, rate, AND expression. The first student has a better balance."
+        },
+        {
+          "id": "D",
+          "label": "Neither student is fluent",
+          "correct": false,
+          "explanation": "The first student is meeting fluency benchmarks for second grade with good accuracy and expression."
+        }
+      ],
+      "explanation_md": "Fluency is not just speed. It requires accuracy, appropriate rate, AND expression. A reader with 95% accuracy and expression is more fluent than one who reads fast but makes many errors and has no expression."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What are the three parts of reading fluency?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Volume, speed, and color",
+          "correct": false,
+          "explanation": "Color is not part of fluency. The three parts are accuracy, rate, and expression."
+        },
+        {
+          "id": "B",
+          "label": "Accuracy, rate, and expression/prosody",
+          "correct": true,
+          "explanation": "Correct! Fluency = accuracy (reading words correctly) + rate (good pace) + expression/prosody (appropriate voice and phrasing)."
+        },
+        {
+          "id": "C",
+          "label": "Spelling, writing, and reading",
+          "correct": false,
+          "explanation": "Spelling and writing are separate skills. Fluency's three parts are accuracy, rate, and expression."
+        },
+        {
+          "id": "D",
+          "label": "Letters, words, and sentences",
+          "correct": false,
+          "explanation": "These are structural units of text. Fluency's three parts are accuracy, rate, and expression."
+        }
+      ],
+      "explanation_md": "The three parts of reading fluency are: (1) accuracy - reading words correctly, (2) rate - reading at an appropriate pace, (3) expression/prosody - using voice to match meaning."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads slowly but reads every word correctly and uses great expression. What should the student work on?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Accuracy - she makes too many errors",
+          "correct": false,
+          "explanation": "She reads every word correctly - accuracy is already strong."
+        },
+        {
+          "id": "B",
+          "label": "Rate - reading at a faster, more natural pace",
+          "correct": true,
+          "explanation": "Correct! She has accuracy and expression but reads slowly. Working on rate (reading speed) will improve her overall fluency."
+        },
+        {
+          "id": "C",
+          "label": "Expression - she reads in a flat voice",
+          "correct": false,
+          "explanation": "She already uses great expression."
+        },
+        {
+          "id": "D",
+          "label": "Nothing - she is already fully fluent",
+          "correct": false,
+          "explanation": "Fluency requires accuracy, rate, AND expression. Her rate needs work."
+        }
+      ],
+      "explanation_md": "She has strong accuracy and expression but reads slowly. Working on reading rate (pace) is her next step for full fluency."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is re-reading a familiar text a good way to build fluency?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because it is boring and boring practice is always best",
+          "correct": false,
+          "explanation": "Re-reading builds fluency because it lets you focus on smoothness and expression, not decoding."
+        },
+        {
+          "id": "B",
+          "label": "Because you already know the words, so you can focus on reading smoothly and expressively",
+          "correct": true,
+          "explanation": "Correct! When you know the words, you can practice prosody and rate instead of spending energy on decoding."
+        },
+        {
+          "id": "C",
+          "label": "Because you learn new words every time you re-read the same book",
+          "correct": false,
+          "explanation": "While you may notice new things, the fluency benefit is that familiar text frees cognitive resources for expression."
+        },
+        {
+          "id": "D",
+          "label": "Because it counts as reading two books",
+          "correct": false,
+          "explanation": "Re-reading counts as reading practice, not as two separate books."
+        }
+      ],
+      "explanation_md": "Re-reading familiar text builds fluency because you are not focused on decoding unknown words - you can put your attention on smooth phrasing, rate, and expression."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which describes a **fluent** reader?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Reads one word at a time very slowly",
+          "correct": false,
+          "explanation": "Slow, choppy word-by-word reading is not fluent."
+        },
+        {
+          "id": "B",
+          "label": "Reads smoothly with expression",
+          "correct": true,
+          "explanation": "Correct! Fluent readers read smoothly, accurately, and with expression."
+        },
+        {
+          "id": "C",
+          "label": "Skips words they do not know",
+          "correct": false,
+          "explanation": "Fluent readers try to read all words correctly - accuracy is part of fluency."
+        },
+        {
+          "id": "D",
+          "label": "Reads only very short books",
+          "correct": false,
+          "explanation": "Fluency is about HOW you read, not the length of the book."
+        }
+      ],
+      "explanation_md": "Fluent readers read smoothly, accurately, and with expression - like they are talking naturally."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should your voice do when you see an **exclamation mark**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Get very quiet",
+          "correct": false,
+          "explanation": "An exclamation mark signals excitement or strong feeling - your voice should show energy, not get quiet."
+        },
+        {
+          "id": "B",
+          "label": "Show excitement or strong feeling",
+          "correct": true,
+          "explanation": "Correct! An exclamation mark shows strong feeling. Your voice should reflect that excitement or urgency."
+        },
+        {
+          "id": "C",
+          "label": "Stop completely",
+          "correct": false,
+          "explanation": "You stop briefly after an exclamation mark, but then continue. The key change is your voice shows feeling."
+        },
+        {
+          "id": "D",
+          "label": "Read the sentence backward",
+          "correct": false,
+          "explanation": "You always read left to right. Your voice should show energy for exclamation marks."
+        }
+      ],
+      "explanation_md": "Exclamation marks signal strong feeling. When reading aloud, show that energy in your voice - read with excitement, urgency, or surprise."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do we read with **expression**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "To make reading harder",
+          "correct": false,
+          "explanation": "Expression makes reading more engaging, not harder."
+        },
+        {
+          "id": "B",
+          "label": "To help listeners understand the meaning and feeling of the text",
+          "correct": true,
+          "explanation": "Correct! Expression helps listeners understand what the text means and how it feels - whether it is exciting, sad, funny, etc."
+        },
+        {
+          "id": "C",
+          "label": "To show off to other students",
+          "correct": false,
+          "explanation": "Expression is a reading skill for communication, not showing off."
+        },
+        {
+          "id": "D",
+          "label": "Because the teacher will grade you on it",
+          "correct": false,
+          "explanation": "The real reason is that expression helps convey meaning and makes reading more enjoyable."
+        }
+      ],
+      "explanation_md": "Expression (prosody) helps listeners understand the meaning and feeling of the text. Without expression, even a funny or exciting text can sound boring."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A reader pauses at a comma. Why?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because she forgot the next word",
+          "correct": false,
+          "explanation": "Pausing at punctuation is intentional. It groups words into meaningful phrases."
+        },
+        {
+          "id": "B",
+          "label": "To help listeners hear where one phrase ends and another begins",
+          "correct": true,
+          "explanation": "Correct! Pausing at commas groups words into phrases, helping listeners follow the text."
+        },
+        {
+          "id": "C",
+          "label": "Because commas are very scary",
+          "correct": false,
+          "explanation": "Commas signal a pause in the text to help with meaning - they are not scary!"
+        },
+        {
+          "id": "D",
+          "label": "To make the reading last longer",
+          "correct": false,
+          "explanation": "Pausing at punctuation is about meaning, not timing."
+        }
+      ],
+      "explanation_md": "Pausing at punctuation (commas, periods) groups words into meaningful phrases. This helps listeners follow the text and understand where ideas begin and end."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which reader is practicing fluency?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Nia, who writes spelling words 10 times each",
+          "correct": false,
+          "explanation": "Practicing spelling is not oral reading fluency. Fluency is about reading text smoothly."
+        },
+        {
+          "id": "B",
+          "label": "Leo, who reads his favorite book aloud three times, trying to sound more natural each time",
+          "correct": true,
+          "explanation": "Correct! Re-reading a book multiple times to improve smoothness and expression is direct fluency practice."
+        },
+        {
+          "id": "C",
+          "label": "Sam, who copies sentences from the board",
+          "correct": false,
+          "explanation": "Copying sentences is handwriting practice, not fluency."
+        },
+        {
+          "id": "D",
+          "label": "Maya, who draws pictures of the story",
+          "correct": false,
+          "explanation": "Drawing story pictures is a comprehension activity, not fluency practice."
+        }
+      ],
+      "explanation_md": "Reading aloud and re-reading to improve smoothness and expression is fluency practice. Leo is directly building fluency by reading his familiar book with the goal of sounding more natural."
+    }
+  ]
+}
