@@ -1,0 +1,363 @@
+{
+  "skill_id": "MA.2.NSO.2.2",
+  "benchmark_description": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and the relationship between addition and subtraction.",
+  "course": "math",
+  "strand": "NSO",
+  "lesson": {
+    "title": "Adding and Subtracting Within 100",
+    "intro": "You already know how to add small numbers. Now let's use that knowledge to add and subtract bigger numbers up to 100!",
+    "body_md": "## Strategy 1: Break Apart by Place Value\nSeparate tens and ones, then add or subtract each part.\n\n**Example: 47 + 35**\n- 47 = 40 + 7\n- 35 = 30 + 5\n- Add tens: 40 + 30 = 70\n- Add ones: 7 + 5 = 12\n- Combine: 70 + 12 = **82**\n\n## Strategy 2: Make a Ten (Jump Strategy)\nAdd up to the nearest ten, then add the rest.\n\n**Example: 58 + 27**\n- 58 + 2 = 60 (made a ten)\n- 27 - 2 = 25 (used 2 from 27)\n- 60 + 25 = **85**\n\n## Strategy 3: Compensation\nRound to an easy number, then adjust.\n\n**Example: 49 + 36**\n- Think: 50 + 36 = 86\n- But we added 1 too many: 86 - 1 = **85**\n\n## Strategy 4: Subtract by Place Value\n**Example: 83 - 47**\n- 83 - 40 = 43 (subtract tens)\n- 43 - 7 = 36 (subtract ones)\n- Answer: **36**\n\n## Regrouping (Borrowing)\nWhen ones are not enough to subtract, regroup a ten.\n\n**Example: 52 - 28**\n- Can we take 8 from 2? No! Regroup.\n- Borrow 1 ten from 5 tens: now 4 tens and 12 ones\n- 12 - 8 = 4 ones\n- 4 - 2 = 2 tens\n- Answer: **24**",
+    "worked_example_md": "**Solve 64 + 28 using place value.**\n\nStep 1: Break apart both numbers.\n- 64 = 60 + 4\n- 28 = 20 + 8\n\nStep 2: Add the tens.\n- 60 + 20 = 80\n\nStep 3: Add the ones.\n- 4 + 8 = 12\n\nStep 4: Combine.\n- 80 + 12 = **92**\n\nCheck: 64 + 28 = 92. Count on from 64: 64 + 20 = 84, 84 + 8 = 92. Yes!",
+    "estimated_minutes": 12
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "30 + 50 = ___",
+      "correct_answer": "80",
+      "explanation_md": "30 + 50 = 80. Just add the tens: 3 tens + 5 tens = 8 tens = 80."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "75 - 30 = ___",
+      "correct_answer": "45",
+      "explanation_md": "75 - 30 = 45. Subtract the tens: 7 tens - 3 tens = 4 tens. Keep the 5 ones. Answer: 45."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is 43 + 25?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "58",
+          "correct": false,
+          "explanation": "58 is too small. 43 + 25: add tens 40+20=60, add ones 3+5=8, total 68."
+        },
+        {
+          "id": "b",
+          "label": "68",
+          "correct": true,
+          "explanation": "43 + 25: add tens 40 + 20 = 60, add ones 3 + 5 = 8, combine 60 + 8 = 68."
+        },
+        {
+          "id": "c",
+          "label": "78",
+          "correct": false,
+          "explanation": "78 is too big. 43 + 25: add tens 40 + 20 = 60, add ones 3 + 5 = 8, total 68."
+        },
+        {
+          "id": "d",
+          "label": "77",
+          "correct": false,
+          "explanation": "77 is not correct. 3 + 5 = 8 ones, not 7."
+        }
+      ],
+      "explanation_md": "43 + 25: tens 40 + 20 = 60, ones 3 + 5 = 8, total 68."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "56 + 37 = ___",
+      "correct_answer": "93",
+      "explanation_md": "56 + 37: tens 50 + 30 = 80, ones 6 + 7 = 13, combine 80 + 13 = 93."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 71 - 45?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "34",
+          "correct": false,
+          "explanation": "34 is not correct. Regroup: 71 - 45. 11 - 5 = 6, 6 - 4 = 2. Wait, let's redo: 70 - 45 = 25, plus 1 = 26."
+        },
+        {
+          "id": "b",
+          "label": "26",
+          "correct": true,
+          "explanation": "71 - 45 = 26. Regroup: 71 has 7 tens 1 one. Borrow to get 6 tens 11 ones. 11-5=6, 6-4=2. Answer: 26."
+        },
+        {
+          "id": "c",
+          "label": "36",
+          "correct": false,
+          "explanation": "36 is off by 10. 71 - 45: regroup 71 to 6 tens 11 ones. 11-5=6, 6-4=2. Answer is 26."
+        },
+        {
+          "id": "d",
+          "label": "16",
+          "correct": false,
+          "explanation": "16 is too small. 71 - 45 = 26. Check: 26 + 45 = 71."
+        }
+      ],
+      "explanation_md": "71 - 45: Regroup 71 as 6 tens 11 ones. 11 - 5 = 6 ones, 6 - 4 = 2 tens. Answer: 26."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "48 + 35 = ___",
+      "correct_answer": "83",
+      "explanation_md": "48 + 35: tens 40 + 30 = 70, ones 8 + 5 = 13, combine 70 + 13 = 83."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sam says 62 - 38 = 24. Is Sam correct? How can you check?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, and you check by doing 38 + 24 = 62.",
+          "correct": true,
+          "explanation": "38 + 24 = 62. Yes, 62 - 38 = 24 is correct. Addition checks subtraction."
+        },
+        {
+          "id": "b",
+          "label": "No, 62 - 38 = 34.",
+          "correct": false,
+          "explanation": "62 - 38 = 24, not 34. Regroup 62 as 5 tens 12 ones. 12-8=4, 5-3=2. Answer 24."
+        },
+        {
+          "id": "c",
+          "label": "Yes, and you check by doing 62 + 38.",
+          "correct": false,
+          "explanation": "62 + 38 does not help check the answer. To check 62 - 38 = 24, add 38 + 24 and see if you get 62."
+        },
+        {
+          "id": "d",
+          "label": "No, 62 - 38 = 26.",
+          "correct": false,
+          "explanation": "62 - 38 = 24, not 26. Check: 38 + 24 = 62."
+        }
+      ],
+      "explanation_md": "62 - 38 = 24. Check by adding: 38 + 24 = 62. Sam is correct."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "85 - 57 = ___",
+      "correct_answer": "28",
+      "explanation_md": "85 - 57: Regroup 85 as 7 tens 15 ones. 15 - 7 = 8 ones, 7 - 5 = 2 tens. Answer: 28. Check: 28 + 57 = 85."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which problem has the SAME answer as 36 + 47?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "40 + 43",
+          "correct": true,
+          "explanation": "36 + 47 = 83. 40 + 43 = 83. Same answer! (This is the compensation strategy: add 4 to 36, take 4 from 47.)"
+        },
+        {
+          "id": "b",
+          "label": "40 + 47",
+          "correct": false,
+          "explanation": "40 + 47 = 87, not 83. You added 4 to 36 but did not take 4 from 47."
+        },
+        {
+          "id": "c",
+          "label": "36 + 50",
+          "correct": false,
+          "explanation": "36 + 50 = 86, not 83."
+        },
+        {
+          "id": "d",
+          "label": "30 + 47",
+          "correct": false,
+          "explanation": "30 + 47 = 77, not 83."
+        }
+      ],
+      "explanation_md": "36 + 47 = 83. 40 + 43 = 83. Same answer. This is compensation: +4 to 36, -4 from 47."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Zara has 93 stickers. She gives away 46. Then she gets 28 more. How many stickers does she have now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "75",
+          "correct": true,
+          "explanation": "93 - 46 = 47. Then 47 + 28 = 75. Zara has 75 stickers."
+        },
+        {
+          "id": "b",
+          "label": "79",
+          "correct": false,
+          "explanation": "93 - 46 = 47, then 47 + 28 = 75, not 79."
+        },
+        {
+          "id": "c",
+          "label": "67",
+          "correct": false,
+          "explanation": "93 - 46 = 47, not 67. Then 47 + 28 = 75."
+        },
+        {
+          "id": "d",
+          "label": "167",
+          "correct": false,
+          "explanation": "167 is too large. We start with 93, which is less than 167."
+        }
+      ],
+      "explanation_md": "Step 1: 93 - 46 = 47. Step 2: 47 + 28 = 75. Zara has 75 stickers."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "67 + 24 = ___",
+      "correct_answer": "91",
+      "explanation_md": "67 + 24: tens 60 + 20 = 80, ones 7 + 4 = 11, combine 80 + 11 = 91."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "There are 52 birds on a wire. 29 fly away. How many are left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "33",
+          "correct": false,
+          "explanation": "52 - 29 = 23. Regroup 52 as 4 tens 12 ones. 12-9=3, 4-2=2. Answer 23."
+        },
+        {
+          "id": "b",
+          "label": "23",
+          "correct": true,
+          "explanation": "52 - 29 = 23. Regroup 52 as 4 tens 12 ones. 12-9=3, 4-2=2. Answer 23."
+        },
+        {
+          "id": "c",
+          "label": "27",
+          "correct": false,
+          "explanation": "52 - 29 = 23. Regroup: 12 - 9 = 3 ones, 4 - 2 = 2 tens. Answer 23."
+        },
+        {
+          "id": "d",
+          "label": "81",
+          "correct": false,
+          "explanation": "81 is 52 + 29. The birds flew AWAY, so we subtract."
+        }
+      ],
+      "explanation_md": "52 - 29 = 23. Regroup 52 as 4 tens 12 ones. 12-9=3 ones, 4-2=2 tens. Answer: 23."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "74 - 38 = ___",
+      "correct_answer": "36",
+      "explanation_md": "74 - 38: Regroup 74 as 6 tens 14 ones. 14-8=6 ones, 6-3=3 tens. Answer: 36. Check: 36+38=74."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "20 + 40 = ___",
+      "correct_answer": "60",
+      "explanation_md": "20 + 40 = 60. Add the tens: 2 tens + 4 tens = 6 tens = 60."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "50 - 20 = ___",
+      "correct_answer": "30",
+      "explanation_md": "50 - 20 = 30. Subtract the tens: 5 tens - 2 tens = 3 tens = 30."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is 32 + 15?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "37",
+          "correct": false,
+          "explanation": "37 is too small. Tens: 30+10=40. Ones: 2+5=7. Total: 47."
+        },
+        {
+          "id": "b",
+          "label": "47",
+          "correct": true,
+          "explanation": "32+15: tens 30+10=40, ones 2+5=7, total 47."
+        },
+        {
+          "id": "c",
+          "label": "57",
+          "correct": false,
+          "explanation": "57 is too big. Tens: 30+10=40, not 50."
+        },
+        {
+          "id": "d",
+          "label": "27",
+          "correct": false,
+          "explanation": "27 is too small. We are adding, not subtracting."
+        }
+      ],
+      "explanation_md": "32 + 15: add tens (30+10=40), add ones (2+5=7), combine 40+7=47."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "65 - 30 = ___",
+      "correct_answer": "35",
+      "explanation_md": "65 - 30 = 35. Subtract only the tens: 6 tens - 3 tens = 3 tens. Keep the 5 ones. Answer: 35."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Lin has 45 apples. She gets 27 more. How many does she have now?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "62",
+          "correct": false,
+          "explanation": "62 is off. Tens: 40+20=60. Ones: 5+7=12. Total: 60+12=72."
+        },
+        {
+          "id": "b",
+          "label": "72",
+          "correct": true,
+          "explanation": "45+27: tens 40+20=60, ones 5+7=12, combine 60+12=72."
+        },
+        {
+          "id": "c",
+          "label": "18",
+          "correct": false,
+          "explanation": "18 is 45 - 27. We need to add because she got MORE apples."
+        },
+        {
+          "id": "d",
+          "label": "82",
+          "correct": false,
+          "explanation": "82 is too big. Tens: 40+20=60, not 80."
+        }
+      ],
+      "explanation_md": "45 + 27: tens 40+20=60, ones 5+7=12, total 60+12=72. Lin has 72 apples."
+    }
+  ]
+}
