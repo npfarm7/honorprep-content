@@ -1,0 +1,253 @@
+{
+  "skill_id": "RI.2.8",
+  "benchmark_description": "Describe how reasons support specific points the author makes in a text.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "How Authors Support Their Points",
+    "intro": "When authors write informational texts, they do not just say things — they back them up with reasons and evidence! Learning to spot these reasons helps you decide if the author's points make sense.",
+    "body_md": "## What Is an Author's Point?\n\nAn **author's point** (also called a **claim**) is the main idea or argument the author wants you to believe.\n\nExample of a point:\n> *Getting enough sleep is important for your health.*\n\n## What Are Reasons?\n\n**Reasons** are the facts, examples, or explanations the author gives to support their point. They answer the question: 'Why should I believe this?'\n\nExample of reasons that support the point above:\n> - Your brain organizes what you learned while you sleep.\n> - Your body grows and heals during sleep.\n> - People who sleep enough feel more alert and focused.\n\nEach reason gives you evidence that supports the point.\n\n## Signal Words for Reasons\n\nAuthors use signal words to introduce their reasons:\n\n| Signal Word | Meaning |\n|---|---|\n| **because** | The reason follows |\n| **for example** | An example to support the point |\n| **first, second, third** | A list of separate reasons |\n| **in addition** | Another reason to add |\n| **this shows that** | Links evidence to the point |\n\n## How to Evaluate Reasons\n\nAsk yourself:\n- Is the reason a fact that can be checked?\n- Does this reason actually connect to the point?\n- Does the reason make the point stronger or weaker?",
+    "worked_example_md": "## Worked Example\n\nRead this passage:\n\n> **Libraries are important to communities.** First, libraries give everyone free access to books, even people who cannot afford to buy them. Second, libraries offer free internet access, which helps people look for jobs and learn new skills. Third, libraries host programs for children and adults, building a sense of community.\n\n**Question:** How do the three reasons support the author's main point?\n\n**Step 1:** Identify the main point.\n'Libraries are important to communities.'\n\n**Step 2:** List the reasons.\n1. Free access to books for people who cannot afford them\n2. Free internet for job searching and learning\n3. Programs that build community\n\n**Step 3:** Describe how each reason supports the point.\n- Reason 1 supports 'important' because it shows libraries help people who need books but cannot buy them.\n- Reason 2 supports 'important' because it shows libraries help people with practical needs like finding jobs.\n- Reason 3 supports 'communities' because it shows how libraries bring people together.\n\n**Answer:** Each reason gives a specific example of how libraries help the community, which makes the author's point about their importance stronger.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Dogs make great pets.** First, they are loyal and love spending time with people. Second, they can be trained to do many helpful tasks.\n\nWhich statement is the **author's main point**?",
+      "choices": [
+        {"id": "a", "label": "Dogs are loyal.", "correct": false, "explanation": "Dogs being loyal is one of the reasons, not the main point. The main point is stated first."},
+        {"id": "b", "label": "Dogs make great pets.", "correct": true, "explanation": "The very first sentence states the author's main point: 'Dogs make great pets.' The sentences that follow give reasons to support this."},
+        {"id": "c", "label": "Dogs can be trained.", "correct": false, "explanation": "Being trainable is a reason supporting the main point, not the point itself."},
+        {"id": "d", "label": "All animals make great pets.", "correct": false, "explanation": "The passage is specifically about dogs. The author does not say all animals are great pets."}
+      ],
+      "explanation_md": "The first sentence states the main point: 'Dogs make great pets.' The sentences that follow give reasons why this is true."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Dogs make great pets.** First, they are loyal and love spending time with people. Second, they can be trained to do many helpful tasks.\n\nHow does the **first reason** (dogs are loyal and love spending time with people) **support** the point that dogs make great pets?",
+      "choices": [
+        {"id": "a", "label": "It tells you what dogs eat.", "correct": false, "explanation": "The reason is about loyalty and companionship, not food."},
+        {"id": "b", "label": "It shows that dogs make good companions, which is something people want in a pet.", "correct": true, "explanation": "Loyalty and love of human company are qualities that make a pet enjoyable to have. This reason supports the idea that dogs make great pets because it shows they are good companions."},
+        {"id": "c", "label": "It proves dogs are smarter than cats.", "correct": false, "explanation": "The passage does not compare dogs to cats. The reason is about dogs' loyalty."},
+        {"id": "d", "label": "It changes the author's main point.", "correct": false, "explanation": "The reason supports the main point; it does not change it."}
+      ],
+      "explanation_md": "Loyalty and love of human company are reasons why dogs make great pets. This reason shows dogs are enjoyable companions, which supports the main point."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Children should eat breakfast every day.** Studies show that children who eat breakfast are better able to concentrate in school. In addition, breakfast gives your body energy after a long night without food. For example, children who skip breakfast often feel tired and have trouble thinking clearly by mid-morning.\n\nWhich reason BEST supports the point about concentration?",
+      "choices": [
+        {"id": "a", "label": "Breakfast gives your body energy after a long night without food.", "correct": false, "explanation": "This reason supports the idea of needing energy, not specifically concentration in school."},
+        {"id": "b", "label": "Studies show that children who eat breakfast are better able to concentrate in school.", "correct": true, "explanation": "This is the reason given directly about concentration. It uses studies as evidence, which makes it strong support for the specific point about focusing in school."},
+        {"id": "c", "label": "Children who skip breakfast feel tired by mid-morning.", "correct": false, "explanation": "This is an example that relates to the effects of skipping breakfast, but the specific reason about concentration is stated directly in the first supporting sentence."},
+        {"id": "d", "label": "Eating breakfast is good for everyone, not just children.", "correct": false, "explanation": "This statement is not in the passage."}
+      ],
+      "explanation_md": "The reason 'Studies show that children who eat breakfast are better able to concentrate' directly supports the specific point about concentration. Studies are a strong type of evidence."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Recycling helps protect the environment.** When we recycle paper, fewer trees need to be cut down. When we recycle plastic, less plastic ends up in our oceans and landfills. Recycling also saves energy because making products from recycled materials uses less power than making them from scratch.\n\nHow many **reasons** does the author give to support the point that recycling helps the environment?",
+      "choices": [
+        {"id": "a", "label": "One", "correct": false, "explanation": "The author gives three reasons: fewer trees cut, less plastic waste, and saved energy."},
+        {"id": "b", "label": "Two", "correct": false, "explanation": "The author gives three reasons, not two. Count: trees, plastic in oceans/landfills, energy savings."},
+        {"id": "c", "label": "Three", "correct": true, "explanation": "The three reasons are: 1) fewer trees cut down when paper is recycled, 2) less plastic in oceans and landfills, 3) recycling saves energy."},
+        {"id": "d", "label": "Four", "correct": false, "explanation": "There are three reasons in the passage, not four."}
+      ],
+      "explanation_md": "The author gives three reasons: (1) fewer trees cut when paper is recycled, (2) less plastic in oceans and landfills, (3) recycling saves energy. Count the reasons by looking for each new supporting idea."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Walking is one of the best exercises you can do.** It does not require any special equipment. People of all ages can do it. Studies have found that regular walking can lower the risk of heart disease, improve mood, and help people sleep better.\n\nWhich reason is the STRONGEST support for the point that walking is great exercise?",
+      "choices": [
+        {"id": "a", "label": "Walking does not require special equipment.", "correct": false, "explanation": "This reason is about convenience (it's easy to do), not about the health benefits that make it 'one of the best' exercises."},
+        {"id": "b", "label": "People of all ages can do it.", "correct": false, "explanation": "Being accessible to all ages is about who can do it, not about why it is a great exercise for health."},
+        {"id": "c", "label": "Studies show walking can lower heart disease risk, improve mood, and improve sleep.", "correct": true, "explanation": "This reason is the strongest because it uses studies as evidence and lists specific health benefits. These benefits directly show why walking is one of the best exercises for your health."},
+        {"id": "d", "label": "Walking is something most people do every day.", "correct": false, "explanation": "This statement is not in the passage, and even if it were, it would not be a strong reason for why walking is great exercise."}
+      ],
+      "explanation_md": "The reason that studies show walking lowers heart disease risk, improves mood, and helps sleep is the strongest because it provides specific, measurable health benefits that directly support the claim that walking is one of the best exercises."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Everyone should learn basic first aid.** First, knowing first aid means you can help someone who is hurt while waiting for professional help. Second, first aid skills could save a life in an emergency. Third, learning first aid helps people stay calm under pressure.\n\nImagine the author added this new reason: **'First aid classes are usually only two hours long.'** How well does this reason **support** the author's main point?",
+      "choices": [
+        {"id": "a", "label": "It is a strong reason because it shows first aid is easy to learn.", "correct": false, "explanation": "While short classes might make first aid accessible, the main point is about WHY everyone should learn it (to help others, save lives, stay calm). The class length is more about convenience than why it matters."},
+        {"id": "b", "label": "It is a weak reason because it is about the length of a class, not about why first aid is important to know.", "correct": true, "explanation": "The main point is about why everyone should know first aid. Class length is about convenience, not about the value of first aid. A good reason would explain how knowing first aid helps people."},
+        {"id": "c", "label": "It is a perfect reason that fits exactly with the other three.", "correct": false, "explanation": "The other three reasons all explain the VALUE of first aid. Class length is about convenience, not value. It does not fit as well as the others."},
+        {"id": "d", "label": "It completely changes the author's main point.", "correct": false, "explanation": "The reason does not change the point. It just does not support it as well as the other reasons."}
+      ],
+      "explanation_md": "A class being short is about convenience, not about why knowing first aid is important. The author's point is about the value of first aid. A strong reason would explain how first aid knowledge helps people, not how long it takes to learn."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Recess is important for students.** Physical activity during recess helps children stay healthy. Taking a break from classwork helps students focus better when they return to the classroom. Children also practice social skills during recess by playing with their peers.\n\nIf a student were arguing AGAINST this text's point, which of these would be the BEST counter-argument?",
+      "choices": [
+        {"id": "a", "label": "'Recess is fun.' This is a reason it should stay.", "correct": false, "explanation": "This actually SUPPORTS recess, not argues against it."},
+        {"id": "b", "label": "'Some research shows that children who spend more time in class learn more.' This goes against the author's point.", "correct": true, "explanation": "If research showed more class time = more learning, that would push back against the reason that breaks from class help students focus. It is a counter-argument to the author's claim."},
+        {"id": "c", "label": "'Running is good for you.' This adds to the author's point.", "correct": false, "explanation": "This supports the physical activity reason. It does not argue against the author."},
+        {"id": "d", "label": "'Not all children like playing outside.' This is totally unrelated.", "correct": false, "explanation": "While this could be a weak counter-argument, it is less effective than research about class time because it does not address the health or focus benefits the author claims."}
+      ],
+      "explanation_md": "A counter-argument needs to address the author's reasons. Research showing more class time helps learning pushes back against the idea that breaks improve focus. That is the strongest counter to the author's specific point."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **The school cafeteria should offer more fruits and vegetables.** Research shows that children who eat more fruits and vegetables perform better in school. In addition, healthy eating habits formed in childhood last into adulthood. Finally, many children do not have access to fruits and vegetables at home, so school is their best chance to get these nutrients.\n\nThe third reason is: 'Many children do not have access to fruits and vegetables at home.' How does this reason **add something different** from the first two reasons?",
+      "choices": [
+        {"id": "a", "label": "It repeats the same idea as the first reason about school performance.", "correct": false, "explanation": "The first reason is about academic performance. The third reason is about access and equity. They are different ideas."},
+        {"id": "b", "label": "It adds a social justice angle: school is needed because not all children have equal access to healthy food at home.", "correct": true, "explanation": "The first two reasons are about health and performance. The third reason shifts to fairness: some children need school to provide what they cannot get at home. This adds a new dimension to the argument."},
+        {"id": "c", "label": "It weakens the author's point because it is about home life, not school.", "correct": false, "explanation": "The reason actually strengthens the point about why the SCHOOL cafeteria specifically should offer fruits and vegetables — because home may not provide them."},
+        {"id": "d", "label": "It does not support the main point at all.", "correct": false, "explanation": "The third reason directly supports offering fruits and vegetables at school. If kids cannot get them at home, school is vital."}
+      ],
+      "explanation_md": "The first two reasons focus on academic and long-term health benefits. The third reason adds a fairness dimension: for some children, school is the only place they can access healthy food. This makes the argument for school cafeterias stronger by appealing to a different value (equity)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Students should read for at least 20 minutes every day.** Reading daily increases vocabulary because readers encounter new words in context. It also improves comprehension skills that help in every subject, not just language arts. Furthermore, children who read regularly for fun tend to be better writers.\n\nA student claims: 'The second reason is the strongest because it shows reading helps in ALL subjects, not just one.'\n\nIs the student's evaluation **correct**?",
+      "choices": [
+        {"id": "a", "label": "No, because the second reason is about vocabulary, which only helps in language arts.", "correct": false, "explanation": "The student is talking about the SECOND reason (comprehension helps in every subject), not the first (vocabulary). The student's claim about the second reason is accurate."},
+        {"id": "b", "label": "Yes, because a reason that helps in ALL subjects is broader and more powerful than one that only helps in one area.", "correct": true, "explanation": "The student is correct. A reason that shows reading helps in every subject is broader and supports the idea that daily reading is valuable for the whole school day, making it a strong reason."},
+        {"id": "c", "label": "No, because the student is wrong that the second reason is about comprehension.", "correct": false, "explanation": "The second reason in the passage IS about comprehension skills that help in every subject. The student correctly identified this."},
+        {"id": "d", "label": "Yes, but only because the student happens to like reading.", "correct": false, "explanation": "Evaluating reasons is based on logic and evidence, not personal preference. The student's evaluation is correct because of the broader scope of the second reason, not because of personal feelings."}
+      ],
+      "explanation_md": "The student correctly identifies that the second reason (comprehension helps in EVERY subject) is broad and powerful. A reason that applies to math, science, social studies, and more is a stronger support for reading every day than a reason limited to one subject."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Cities should plant more trees on their streets.** Trees provide shade that cools sidewalks and buildings, reducing the need for air conditioning. In addition, trees clean the air by absorbing pollutants. Studies also show that neighborhoods with more trees have lower rates of stress and crime. Finally, trees increase property values and help cities look more attractive.\n\nA city council member says: 'The strongest reason in this passage is the one about crime rates, because it addresses public safety.'\n\nAnother person says: 'The strongest reason is the one about air quality, because everyone needs clean air to be healthy.'\n\nWhich person makes a **better argument** about which reason is strongest, and why?",
+      "choices": [
+        {"id": "a", "label": "The city council member is more correct because safety always matters more than health.", "correct": false, "explanation": "This answer assumes safety always outranks health. Both are critical values, and the strength of an argument depends on the evidence, not on a fixed ranking of values."},
+        {"id": "b", "label": "Both people have reasonable cases; the 'strongest reason' depends on what the audience values most.", "correct": true, "explanation": "The council member values safety (crime rates) and the other person values health (air quality). Both are valid priorities, and different audiences might find different reasons more compelling. There is no single objectively strongest reason — it depends on what matters most to the listener."},
+        {"id": "c", "label": "Neither person is correct because the economic reason (property values) is always strongest.", "correct": false, "explanation": "Economic arguments can be strong, but the question is about which person makes a better argument. Both the safety and health arguments are well-supported in the text."},
+        {"id": "d", "label": "The second person is always right because health affects everyone.", "correct": false, "explanation": "While air quality affects everyone, the word 'always' makes this too absolute. Safety also affects everyone. The strength of a reason often depends on the audience."}
+      ],
+      "explanation_md": "Both people identify real, valid reasons. A safety argument (crime rates) and a health argument (air quality) are both powerful, but different audiences will find different reasons more compelling. The strength of a reason often depends on what the audience cares about most. Evaluating reasons requires thinking about context and audience."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Students should be allowed to choose their own books for independent reading.** When students choose their own books, they are more motivated to read. Reading books they enjoy helps them practice more, which builds stronger reading skills. Children who read books they find interesting also develop a love of reading that lasts a lifetime.\n\nHow do ALL THREE reasons work together to support the author's main point?",
+      "choices": [
+        {"id": "a", "label": "Each reason gives a different example of a student choosing a book.", "correct": false, "explanation": "The reasons do not give examples of students choosing books. They each provide a different benefit of letting students choose."},
+        {"id": "b", "label": "Each reason gives a different benefit (motivation, skill building, love of reading) that together make a strong case for student book choice.", "correct": true, "explanation": "Reason 1 = motivation, Reason 2 = skill improvement, Reason 3 = lifelong love of reading. Together, they cover short-term, medium-term, and long-term benefits, building a comprehensive case."},
+        {"id": "c", "label": "The three reasons repeat the same idea in different words.", "correct": false, "explanation": "Each reason adds something new. They are not repetitions of the same idea."},
+        {"id": "d", "label": "The reasons weaken each other because they cover too many different ideas.", "correct": false, "explanation": "Covering multiple benefits strengthens the argument. More valid reasons = stronger support."}
+      ],
+      "explanation_md": "The three reasons cover motivation (short-term), skill-building (medium-term), and love of reading (long-term). Together they make a comprehensive case for why students should choose their own books. Each reason adds a new dimension of support."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Students should be allowed to choose their own books for independent reading.** When students choose their own books, they are more motivated to read. Reading books they enjoy helps them practice more, which builds stronger reading skills. Children who read books they find interesting also develop a love of reading that lasts a lifetime.\n\nWhich of the following is NOT a reason given in the passage to support the author's point?",
+      "choices": [
+        {"id": "a", "label": "Student choice leads to more motivation to read.", "correct": false, "explanation": "This is one of the reasons given in the passage."},
+        {"id": "b", "label": "Reading enjoyable books builds stronger reading skills.", "correct": false, "explanation": "This is one of the reasons given in the passage."},
+        {"id": "c", "label": "Students who choose books get better grades in math.", "correct": true, "explanation": "The passage does not mention math grades. This is not one of the reasons given."},
+        {"id": "d", "label": "Choosing interesting books develops a lifelong love of reading.", "correct": false, "explanation": "This is one of the reasons given in the passage."}
+      ],
+      "explanation_md": "The passage gives three reasons: motivation, skill building, and love of reading. It does not mention math grades. That is not a reason given in the passage."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Schools should teach students how to grow food.** First, gardening teaches patience, responsibility, and science all at once. Second, students who grow their own vegetables are more likely to eat them. Third, school gardens can provide fresh produce for school cafeterias.\n\nA student adds this reason: **'Flowers are pretty and make people happy.'** Is this a good reason to support the author's point about teaching students to grow food?",
+      "choices": [
+        {"id": "a", "label": "Yes, because flowers make people happy, which is good for schools.", "correct": false, "explanation": "While happiness is good, the author's point is about teaching students to grow FOOD, not flowers. A reason about flowers does not connect to the main point about food growing education."},
+        {"id": "b", "label": "No, because the author's point is about growing food for educational and nutritional reasons, and flowers are not relevant to that point.", "correct": true, "explanation": "The author's three existing reasons all connect to education (science, responsibility), health (eating vegetables), or food supply (cafeteria produce). Flowers being pretty does not support any of these purposes."},
+        {"id": "c", "label": "Yes, because schools could sell flowers to raise money.", "correct": false, "explanation": "This idea is not in the passage, and selling flowers is not about teaching students to grow food."},
+        {"id": "d", "label": "Yes, because flowers and food both grow in gardens.", "correct": false, "explanation": "Both grow in gardens, but that is not enough. A reason must connect to the specific point the author is making, which is about the value of teaching food growing."}
+      ],
+      "explanation_md": "The author's point is about teaching students to grow food for educational and nutritional reasons. Flowers being pretty does not connect to learning food science, responsibility, or healthy eating. A good reason must specifically support the author's main point."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentences below, then answer the question.\n\n> **Point:** Cats make good pets.\n> **Reason:** Cats are clean animals that groom themselves.\n\nDoes the reason **support** the point?",
+      "choices": [
+        {"id": "a", "label": "No, because cats are not always clean.", "correct": false, "explanation": "The reason does support the point. Being clean is a quality that makes cats easier to care for as pets."},
+        {"id": "b", "label": "Yes, because being clean is a quality that makes an animal a good pet.", "correct": true, "explanation": "A clean animal is easier to live with. This reason directly supports why cats would make good pets."},
+        {"id": "c", "label": "No, because the reason is about grooming, not about being a pet.", "correct": false, "explanation": "Grooming means self-cleaning. Being self-cleaning is directly related to being a low-maintenance, good pet."},
+        {"id": "d", "label": "It is impossible to tell.", "correct": false, "explanation": "We can clearly tell. A clean, self-grooming animal is easier to care for, which supports the idea that cats make good pets."}
+      ],
+      "explanation_md": "Cats grooming themselves means they stay clean without a lot of help from owners. Being clean is a quality that makes them good pets. The reason supports the point."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the point and reason below, then answer the question.\n\n> **Point:** Drinking water is good for you.\n> **Reason:** Water helps your body stay hydrated and work properly.\n\nWhat does the reason do?",
+      "choices": [
+        {"id": "a", "label": "It changes the point.", "correct": false, "explanation": "The reason does not change the point. It supports the point about drinking water being good."},
+        {"id": "b", "label": "It explains why the point is true.", "correct": true, "explanation": "The reason explains WHY drinking water is good for you. It tells us water keeps the body hydrated and working properly."},
+        {"id": "c", "label": "It gives a different opinion from the point.", "correct": false, "explanation": "The reason agrees with and supports the point, not gives a different opinion."},
+        {"id": "d", "label": "It is a fact that has nothing to do with the point.", "correct": false, "explanation": "The reason is directly connected to the point. It explains why water is good for you."}
+      ],
+      "explanation_md": "The reason explains why the point is true. Water keeps the body hydrated and working properly, which supports the point that drinking water is good for you."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Everyone should wear a bike helmet.** Helmets protect your head in a fall. Studies show helmets reduce the risk of head injury by 70%.\n\nWhich reason is STRONGER, and why?",
+      "choices": [
+        {"id": "a", "label": "Both reasons are equally strong.", "correct": false, "explanation": "A specific statistic (70% reduction) is generally stronger than a general statement. They are not equally strong."},
+        {"id": "b", "label": "Studies show helmets reduce head injury risk by 70% — because a specific number from studies is stronger evidence.", "correct": true, "explanation": "Saying helmets 'protect your head' is true but general. Saying studies show a 70% reduction gives a specific, measurable fact. Specific evidence from studies is usually stronger support."},
+        {"id": "c", "label": "Helmets protect your head in a fall — because it is simpler to understand.", "correct": false, "explanation": "Being easy to understand does not make a reason stronger. The 70% statistic from studies is more powerful evidence."},
+        {"id": "d", "label": "Neither reason supports the point.", "correct": false, "explanation": "Both reasons do support the point. One is just stronger than the other."}
+      ],
+      "explanation_md": "A specific number from studies (70% reduction in risk) is stronger evidence than a general statement. When an author uses research with numbers, it gives more concrete support for the point."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to support the point: **'Playing outside is good for children.'**\n\nWhich reason best supports this point?",
+      "choices": [
+        {"id": "a", "label": "Playing outside can be muddy sometimes.", "correct": false, "explanation": "Getting muddy does not support why playing outside is good. It is a neutral or negative observation."},
+        {"id": "b", "label": "Physical activity outside builds strong muscles and improves health.", "correct": true, "explanation": "This reason directly explains one of the benefits of playing outside (health and strength), which supports the point."},
+        {"id": "c", "label": "Indoor toys are expensive.", "correct": false, "explanation": "The cost of indoor toys is not a reason why playing outside is good. It does not directly support the point."},
+        {"id": "d", "label": "The weather is sometimes rainy.", "correct": false, "explanation": "Rainy weather is not a reason why playing outside is good. This does not support the point."}
+      ],
+      "explanation_md": "Physical activity building muscles and improving health is a direct reason why playing outside is good for children. It explains one of the benefits and supports the point."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> **Students learn better with pictures and diagrams.** When information is shown visually, students can see how ideas connect. For example, a diagram of the water cycle makes the steps much easier to understand than just reading words.\n\nWhat does the **example** of the water cycle diagram do for the author's point?",
+      "choices": [
+        {"id": "a", "label": "It replaces the main point with a new idea.", "correct": false, "explanation": "The water cycle example supports the main point. It does not replace it."},
+        {"id": "b", "label": "It shows how a specific visual (a diagram) helps students understand better, making the point more concrete.", "correct": true, "explanation": "The water cycle diagram is a real example of how visuals help students understand. It makes the general point specific and believable."},
+        {"id": "c", "label": "It tells the reader that the water cycle is the most important topic.", "correct": false, "explanation": "The water cycle is just an example. The author is not saying it is the most important topic."},
+        {"id": "d", "label": "It has nothing to do with the point about learning with pictures.", "correct": false, "explanation": "A diagram of the water cycle is exactly the type of picture the author is talking about. It directly supports the point."}
+      ],
+      "explanation_md": "The water cycle diagram is an example that shows how a visual aid helps students understand steps that would be hard to follow in words alone. It makes the author's general point more specific and convincing."
+    }
+  ]
+}
