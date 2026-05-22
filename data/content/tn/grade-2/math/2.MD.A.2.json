@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.MD.A.2",
+  "benchmark_description": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "Measuring with Different Units",
+    "intro": "If you measure the same object with two different tools, do you get the same number? No! The number changes depending on the size of the unit. Let's explore why!",
+    "body_md": "## The Big Idea\n\nWhen you measure the same object with different sized units, you get different numbers. But the object did not change size — only the unit changed!\n\n## Example: Measuring with Paper Clips vs. Cubes\n\nImagine a pencil is 10 centimeter cubes long. The same pencil is also 5 paper clips long (because each paper clip is about 2 cubes long).\n\n- Smaller units → **more** of them fit → bigger number\n- Larger units → **fewer** fit → smaller number\n\n## Inches vs. Centimeters\n\n1 inch = about 2.5 centimeters. So a centimeter is a **smaller** unit than an inch.\n\n**A book that is 8 inches long:**\n- Measured in inches: **8**\n- Measured in centimeters: about **20**\n\nThe centimeter measurement is bigger because centimeters are smaller!\n\n## Another Example\n\nA marker is measured two ways:\n- Using **inches**: 6 inches long\n- Using **centimeters**: about 15 centimeters long\n\nWhy is the centimeter number bigger?\nBecause a centimeter is smaller than an inch, you need **more** of them to cover the same length.\n\n## Key Pattern\n\n| Smaller units | MORE units fit | BIGGER number |\n|---|---|---|\n| Larger units | FEWER units fit | SMALLER number |\n\n## Real-Life Practice\n\n**Practice measuring the same object two ways:**\n1. Measure your hand span with centimeter cubes: maybe 15 cubes.\n2. Measure your hand span with inches: maybe 6 inches.\n3. Which gives a bigger number? The centimeters! Why? Because centimeters are smaller.",
+    "worked_example_md": "**Problem:** A stick is 4 inches long. Jake also measured it and said it is 10 centimeters long. Who measured more accurately?\n\n**Think:** Is this possible? 4 inches = about 10 centimeters. Yes!\n\n**Explanation:**\n- A centimeter is smaller than an inch.\n- So more centimeters fit in the same space: 10 centimeters in 4 inches.\n- Both measurements describe the same length in different units.\n\n**Key takeaway:** The stick is the same length no matter what unit you use. Smaller units give a bigger number.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "You measure a book with inches and get 10 inches. You measure the same book with centimeters. Will the centimeter number be bigger or smaller than 10?",
+      "choices": [
+        {"id": "a", "label": "Smaller, because centimeters are smaller.", "correct": false, "explanation": "Centimeters are smaller units, so MORE of them fit. The centimeter number will be BIGGER than 10."},
+        {"id": "b", "label": "Bigger, because centimeters are smaller units so more fit.", "correct": true, "explanation": "Correct! Centimeters are smaller than inches, so you need more of them to cover the same length. The number is bigger."},
+        {"id": "c", "label": "The same number.", "correct": false, "explanation": "Different units give different numbers. Centimeters are smaller, so you need more: the number will be bigger than 10."},
+        {"id": "d", "label": "There is no way to know.", "correct": false, "explanation": "We know centimeters are smaller than inches. Smaller units give a bigger number."}
+      ],
+      "explanation_md": "Centimeters are smaller than inches, so more fit. The centimeter number will be bigger."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A table is measured with a ruler and found to be 3 feet long. If you measure the same table with inches, what will you find?",
+      "choices": [
+        {"id": "a", "label": "The table will be fewer than 3 inches.", "correct": false, "explanation": "Inches are smaller than feet, so more inches fit. 3 feet = 36 inches."},
+        {"id": "b", "label": "The table will be exactly 3 inches.", "correct": false, "explanation": "Inches are different from feet. 1 foot = 12 inches. 3 feet = 36 inches."},
+        {"id": "c", "label": "The table will be more than 3 inches.", "correct": true, "explanation": "Correct! Inches are smaller than feet, so more inches fit. 3 feet = 36 inches."},
+        {"id": "d", "label": "You cannot measure the same object two ways.", "correct": false, "explanation": "You can measure the same object with different units. Smaller units give a bigger number: 3 feet = 36 inches."}
+      ],
+      "explanation_md": "Inches are smaller than feet, so more fit: 3 feet = 36 inches. The number gets bigger."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Emma measured her book with large paper clips and got 6 paper clips. Sam measured the same book with small paper clips and got 9 small paper clips. Which paper clip is bigger: Emma's or Sam's?",
+      "choices": [
+        {"id": "a", "label": "Sam's, because he got more.", "correct": false, "explanation": "More units means the units are SMALLER, not bigger. Sam used smaller paper clips (9 fit), so Sam's are smaller."},
+        {"id": "b", "label": "Emma's, because she got fewer.", "correct": true, "explanation": "Correct! Emma got fewer paper clips (6). Fewer of a unit means each unit is larger. Emma's paper clips are bigger."},
+        {"id": "c", "label": "They are the same size.", "correct": false, "explanation": "If they were the same size, the count would be the same. Emma got 6 and Sam got 9, so the paper clips are different sizes."},
+        {"id": "d", "label": "There is not enough information.", "correct": false, "explanation": "Emma got 6 (fewer) and Sam got 9 (more). Fewer means the unit is bigger. Emma's paper clips are larger."}
+      ],
+      "explanation_md": "Emma got 6 (fewer units), which means her units are larger. Sam got 9 (more units), which means his units are smaller."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A ribbon is 20 centimeters long. About how many inches long is it?",
+      "choices": [
+        {"id": "a", "label": "2 inches", "correct": false, "explanation": "2 inches is only about 5 centimeters. 20 centimeters is about 8 inches."},
+        {"id": "b", "label": "8 inches", "correct": true, "explanation": "Correct! About 8 inches. 1 inch is about 2.5 centimeters, so 20 ÷ 2.5 ≈ 8 inches."},
+        {"id": "c", "label": "20 inches", "correct": false, "explanation": "20 inches would be about 50 centimeters. 20 centimeters is about 8 inches."},
+        {"id": "d", "label": "50 inches", "correct": false, "explanation": "50 inches would be more than 4 feet. 20 centimeters is about 8 inches."}
+      ],
+      "explanation_md": "20 centimeters is about 8 inches. Centimeters are smaller, so fewer inches are needed."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A pencil is 7 inches long. Maya measures the same pencil with centimeter cubes. She says the pencil is about 18 centimeter cubes long. Does this make sense?",
+      "choices": [
+        {"id": "a", "label": "No, it should be fewer than 7 centimeter cubes.", "correct": false, "explanation": "Centimeters are smaller than inches, so MORE centimeters fit. 18 is bigger than 7, which makes sense."},
+        {"id": "b", "label": "Yes, because centimeters are smaller than inches.", "correct": true, "explanation": "Correct! 1 inch is about 2.5 cm. So 7 inches is about 7 × 2.5 = 17.5 cm, which is close to 18. Maya's answer makes sense."},
+        {"id": "c", "label": "No, they should give the same number.", "correct": false, "explanation": "Different units give different numbers. Smaller units (cm) give a bigger number."},
+        {"id": "d", "label": "No, 18 is too big.", "correct": false, "explanation": "18 cm for a 7-inch pencil makes sense. 1 inch is about 2.5 cm, so 7 × 2.5 ≈ 18 cm."}
+      ],
+      "explanation_md": "Yes, this makes sense. 1 inch is about 2.5 cm. 7 inches × 2.5 = 17.5, close to 18 cm."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is true when you measure the same object with two different units?",
+      "choices": [
+        {"id": "a", "label": "The larger the unit, the bigger the number.", "correct": false, "explanation": "It is the opposite. Larger units give a SMALLER number. Smaller units give a bigger number."},
+        {"id": "b", "label": "The smaller the unit, the bigger the number.", "correct": true, "explanation": "Correct! Smaller units fit more often, so the count is higher. Larger units fit fewer times."},
+        {"id": "c", "label": "The unit does not affect the number.", "correct": false, "explanation": "The unit definitely affects the number. A 12-inch ruler is also 30.5 centimeters. The number changes with the unit."},
+        {"id": "d", "label": "Both measurements will always be the same number.", "correct": false, "explanation": "Measurements in different units are almost never the same number. 1 foot = 12 inches — those are very different numbers."}
+      ],
+      "explanation_md": "The smaller the unit, the more fit, so the bigger the number. The larger the unit, the fewer fit, so the smaller the number."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A lizard is 8 inches long. If you measure with centimeters, the number will be?",
+      "choices": [
+        {"id": "a", "label": "Less than 8", "correct": false, "explanation": "Centimeters are smaller than inches. More centimeters fit, giving a bigger number than 8."},
+        {"id": "b", "label": "Exactly 8", "correct": false, "explanation": "Different units give different numbers. Centimeters are smaller, so the number will be more than 8."},
+        {"id": "c", "label": "Greater than 8", "correct": true, "explanation": "Correct! Centimeters are smaller than inches. More fit in 8 inches, giving a number greater than 8."},
+        {"id": "d", "label": "There is not enough information.", "correct": false, "explanation": "Centimeters are smaller than inches, so the centimeter count will always be greater than the inch count for the same object."}
+      ],
+      "explanation_md": "Centimeters are smaller than inches. More fit, so the centimeter number will be greater than 8."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Tom used small tiles to measure a table and got 30 tiles. His sister used large tiles and got 10 tiles. What does this tell us?",
+      "choices": [
+        {"id": "a", "label": "Tom measured more accurately.", "correct": false, "explanation": "Both measured the same table. The difference is the tile size. Smaller tiles give a bigger number."},
+        {"id": "b", "label": "Tom's tiles are smaller and more of them fit.", "correct": true, "explanation": "Correct! Tom got 30 tiles (more). More smaller tiles fit in the same space. His tiles are smaller than his sister's."},
+        {"id": "c", "label": "The table changed size.", "correct": false, "explanation": "The table stayed the same size. The difference is the tile size: smaller tiles give a bigger number."},
+        {"id": "d", "label": "Tom made a mistake.", "correct": false, "explanation": "Tom used smaller tiles, so more fit. 30 small tiles and 10 large tiles can both correctly measure the same table."}
+      ],
+      "explanation_md": "Tom used smaller tiles (got 30). His sister used larger tiles (got 10). Same table, different-sized units."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A book is 24 centimeters long. Anna says it is also about 9 inches long. Tim says it should be more than 24 inches. Who is correct?",
+      "choices": [
+        {"id": "a", "label": "Anna is correct.", "correct": true, "explanation": "Correct! 24 cm ÷ 2.5 cm/inch ≈ 9.6 inches, so about 9 inches. Inches are bigger, so the number is smaller."},
+        {"id": "b", "label": "Tim is correct.", "correct": false, "explanation": "Inches are larger than centimeters. You need FEWER inches to cover the same length. 24 cm is about 9 inches, not more than 24."},
+        {"id": "c", "label": "Both are correct.", "correct": false, "explanation": "Tim is wrong. 24 cm is about 9 inches, not more than 24. Anna is correct."},
+        {"id": "d", "label": "Neither is correct.", "correct": false, "explanation": "Anna is correct. 24 cm is about 9 to 10 inches. Tim confused the direction (larger units give smaller numbers)."}
+      ],
+      "explanation_md": "Anna is correct. 24 cm is about 9 to 10 inches. Inches are larger, so fewer fit."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Sarah measured her desk and got 60 centimeters. Jake measured the same desk and got 2 feet. Can both measurements be correct?",
+      "choices": [
+        {"id": "a", "label": "No, 60 and 2 are very different numbers.", "correct": false, "explanation": "Different units give different numbers. 2 feet = 24 inches ≈ 61 centimeters. Both measurements describe the same length!"},
+        {"id": "b", "label": "Yes, because 2 feet is approximately 60 centimeters.", "correct": true, "explanation": "Correct! 1 foot = 30.5 cm. 2 feet ≈ 61 cm. Close to 60 cm. Both are measuring the same desk in different units."},
+        {"id": "c", "label": "No, you can only measure in one unit.", "correct": false, "explanation": "You can measure in different units. 2 feet is close to 60 cm. Both measure the same desk."},
+        {"id": "d", "label": "No, 60 centimeters is larger than 2 feet.", "correct": false, "explanation": "60 cm is about 2 feet. They measure the same length, just in different units."}
+      ],
+      "explanation_md": "Both can be correct. 2 feet ≈ 61 cm. Different units, same length."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A stick is measured with inch tiles and with centimeter tiles. Which measurement gives a bigger number?",
+      "choices": [
+        {"id": "a", "label": "Inch tiles give a bigger number.", "correct": false, "explanation": "Inch tiles are larger, so fewer fit. Centimeter tiles are smaller, so more fit — giving a bigger number."},
+        {"id": "b", "label": "Centimeter tiles give a bigger number.", "correct": true, "explanation": "Correct! Centimeters are smaller than inches. More centimeter tiles fit along the stick, giving a bigger number."},
+        {"id": "c", "label": "Both give the same number.", "correct": false, "explanation": "Different size units give different numbers. Smaller units (centimeters) give a bigger number."},
+        {"id": "d", "label": "It depends on the stick.", "correct": false, "explanation": "No matter the stick, centimeter tiles are always smaller than inch tiles, so centimeters always give a bigger number."}
+      ],
+      "explanation_md": "Centimeter tiles are smaller. More fit, so the centimeter count is bigger."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why do you get a bigger number when you measure with smaller units?",
+      "choices": [
+        {"id": "a", "label": "Because small numbers are less important.", "correct": false, "explanation": "This has nothing to do with importance. Smaller units give bigger numbers because more of them fit along the length."},
+        {"id": "b", "label": "Because smaller units fit more times along the length.", "correct": true, "explanation": "Correct! Smaller units take up less space, so more of them fit. More units = bigger number."},
+        {"id": "c", "label": "Because the object gets longer.", "correct": false, "explanation": "The object does not change size. Smaller units just fit more times."},
+        {"id": "d", "label": "It does not matter.", "correct": false, "explanation": "It matters a lot! Smaller units give bigger numbers because more fit along the same length."}
+      ],
+      "explanation_md": "Smaller units fit more times along the same length, giving a bigger number."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A rope is 5 yards long. If you measure it in feet, what number would you get?",
+      "choices": [
+        {"id": "a", "label": "Less than 5 feet", "correct": false, "explanation": "Feet are smaller than yards. More feet fit. 1 yard = 3 feet, so 5 yards = 15 feet."},
+        {"id": "b", "label": "5 feet", "correct": false, "explanation": "That would only be true if feet and yards were the same size. 1 yard = 3 feet. 5 yards = 15 feet."},
+        {"id": "c", "label": "15 feet", "correct": true, "explanation": "Correct! 1 yard = 3 feet. 5 yards = 5 × 3 = 15 feet."},
+        {"id": "d", "label": "50 feet", "correct": false, "explanation": "1 yard = 3 feet, not 10. 5 yards = 15 feet."}
+      ],
+      "explanation_md": "1 yard = 3 feet. 5 yards = 15 feet. Feet are smaller, so the number is bigger."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is longer: 1 inch or 1 centimeter?",
+      "choices": [
+        {"id": "a", "label": "1 centimeter", "correct": false, "explanation": "1 centimeter is shorter than 1 inch. About 2.5 centimeters fit in 1 inch."},
+        {"id": "b", "label": "1 inch", "correct": true, "explanation": "Correct! 1 inch is longer than 1 centimeter. About 2.5 centimeters fit in 1 inch."},
+        {"id": "c", "label": "They are the same.", "correct": false, "explanation": "1 inch is bigger. About 2.5 centimeters fit in 1 inch."},
+        {"id": "d", "label": "Cannot tell.", "correct": false, "explanation": "1 inch is longer. 1 inch ≈ 2.5 centimeters."}
+      ],
+      "explanation_md": "1 inch is longer than 1 centimeter. About 2.5 centimeters fit in 1 inch."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "If you use smaller units to measure, will the count be bigger or smaller?",
+      "choices": [
+        {"id": "a", "label": "Smaller", "correct": false, "explanation": "Smaller units fit more times, so the count is bigger."},
+        {"id": "b", "label": "Bigger", "correct": true, "explanation": "Correct! Smaller units fit more times, so you count more of them."},
+        {"id": "c", "label": "The same", "correct": false, "explanation": "Different sized units give different counts. Smaller units give a bigger count."},
+        {"id": "d", "label": "Cannot tell", "correct": false, "explanation": "Smaller units always give a bigger count because more fit along the same length."}
+      ],
+      "explanation_md": "Smaller units fit more times, so the count is bigger."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A book is 6 large paper clips long OR 12 small paper clips long. Which paper clip is bigger?",
+      "choices": [
+        {"id": "a", "label": "The small paper clip (you got 12).", "correct": false, "explanation": "Getting 12 means those paper clips are SMALLER — more of them fit. Fewer (6) means each one is bigger."},
+        {"id": "b", "label": "The large paper clip (you got 6).", "correct": true, "explanation": "Correct! Getting only 6 means each paper clip is larger. Fewer large clips fit than small ones."},
+        {"id": "c", "label": "They are the same size.", "correct": false, "explanation": "They are different sizes. 6 large clips = 12 small clips means the large ones are twice as big."},
+        {"id": "d", "label": "Cannot tell.", "correct": false, "explanation": "Fewer clips means each is bigger. 6 large clips = 12 small clips. The large clip is bigger."}
+      ],
+      "explanation_md": "6 large clips = 12 small clips. The large clips are bigger because fewer of them fit."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A table is 2 yards long. How many feet long is it? (1 yard = 3 feet)",
+      "choices": [
+        {"id": "a", "label": "2 feet", "correct": false, "explanation": "2 yards = 2 × 3 feet = 6 feet. Feet are smaller, so the number is bigger."},
+        {"id": "b", "label": "5 feet", "correct": false, "explanation": "2 × 3 = 6. The table is 6 feet long."},
+        {"id": "c", "label": "6 feet", "correct": true, "explanation": "Correct! 2 yards × 3 feet/yard = 6 feet."},
+        {"id": "d", "label": "10 feet", "correct": false, "explanation": "2 yards = 6 feet. 1 yard = 3 feet, not 5 feet."}
+      ],
+      "explanation_md": "1 yard = 3 feet. 2 yards = 6 feet."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "If you measure a pencil in centimeters you get 15. If you measure it in inches you get about 6. Which unit is smaller?",
+      "choices": [
+        {"id": "a", "label": "Inches", "correct": false, "explanation": "Inches give a smaller count (6), which means each inch is LARGER. Centimeters (15) are smaller."},
+        {"id": "b", "label": "Centimeters", "correct": true, "explanation": "Correct! You needed 15 centimeters but only 6 inches for the same pencil. More centimeters fit, so each centimeter is smaller."},
+        {"id": "c", "label": "They are the same size.", "correct": false, "explanation": "They are different sizes. 15 centimeters = 6 inches. Centimeters are smaller."},
+        {"id": "d", "label": "Cannot tell.", "correct": false, "explanation": "More centimeters fit than inches, so centimeters are smaller."}
+      ],
+      "explanation_md": "15 centimeters = 6 inches for the same pencil. Centimeters are smaller."
+    }
+  ]
+}
