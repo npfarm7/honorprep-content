@@ -1,0 +1,253 @@
+{
+  "skill_id": "RI.2.3",
+  "benchmark_description": "Describe the connection between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text.",
+  "course": "ela",
+  "strand": "RI",
+  "lesson": {
+    "title": "Connecting Events, Ideas, and Steps",
+    "intro": "In nonfiction, things are often connected. One event leads to another, one idea builds on the next, or steps must happen in order. Finding these connections helps you really understand what you are reading!",
+    "body_md": "## Three Types of Connections\n\nInformational texts often show three types of connections:\n\n### 1. Historical Events\nOne event causes or leads to another.\n\nExample:\n> *Heavy rains came. → Rivers flooded. → People had to leave their homes.*\n\n### 2. Scientific Ideas\nOne idea explains or connects to another idea.\n\nExample:\n> *Plants need sunlight. → Sunlight helps plants make food. → Plants grow bigger.*\n\n### 3. Steps in a Procedure\nSteps must be done in the correct order.\n\nExample:\n> *Step 1: Mix flour and water. → Step 2: Add eggs. → Step 3: Bake at 350 degrees.*\n\n## Signal Words for Connections\n\nLook for these words that signal a connection:\n\n| Signal Word | Meaning |\n|---|---|\n| first, then, next, finally | Order of events or steps |\n| because, so, as a result | Cause and effect |\n| after, before, when | Time connection |\n| therefore, this caused | One thing leads to another |\n\n## Making a Chain\n\nA helpful way to show connections is to draw an arrow chain:\n\nEvent 1 → Event 2 → Event 3\n\nEach arrow means 'led to' or 'caused.'",
+    "worked_example_md": "## Worked Example\n\nRead this science passage:\n\n> Water on Earth moves in a cycle. The sun heats water in oceans and lakes. The warm water turns into water vapor and rises into the air. High in the sky, the vapor cools and forms clouds. When clouds hold too much water, it falls back to Earth as rain or snow. The rain and snow fill up rivers and oceans again, and the cycle starts over.\n\n**Question:** Describe the connection between the sun heating water and rain falling from clouds.\n\n**Step 1:** Start at the first event. The sun heats water.\n\n**Step 2:** Follow the chain:\n- Sun heats water → water becomes vapor and rises\n- Vapor cools in the sky → forms clouds\n- Clouds fill with water → rain falls\n\n**Step 3:** Describe the connection in your own words.\nThe sun heating water is the very first step that starts the whole cycle. Without the sun's heat, water would not become vapor, clouds would not form, and rain would not fall.\n\n**Answer:** Everything in the cycle is connected. The sun's heat starts the process, and each step leads to the next until rain fills the oceans again and the cycle restarts.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> First, a caterpillar hatches from an egg. Next, the caterpillar eats leaves and grows bigger. Then it forms a chrysalis. Finally, a butterfly comes out of the chrysalis.\n\nWhat happens **right after** the caterpillar forms a chrysalis?",
+      "choices": [
+        {"id": "a", "label": "The caterpillar hatches from an egg.", "correct": false, "explanation": "Hatching from an egg is the first step, which happens before the chrysalis."},
+        {"id": "b", "label": "The caterpillar eats leaves.", "correct": false, "explanation": "Eating leaves is the second step, before the chrysalis forms."},
+        {"id": "c", "label": "A butterfly comes out.", "correct": true, "explanation": "The passage says 'Then it forms a chrysalis. Finally, a butterfly comes out.' The butterfly comes out right after the chrysalis stage."},
+        {"id": "d", "label": "The caterpillar grows bigger.", "correct": false, "explanation": "Growing bigger happens before the chrysalis. After the chrysalis, a butterfly comes out."}
+      ],
+      "explanation_md": "The steps in order are: egg → caterpillar eats and grows → chrysalis → butterfly. After the chrysalis, a butterfly comes out."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> To make lemonade, first squeeze lemons to get the juice. Then mix the juice with water. After that, add sugar and stir until it dissolves. Finally, add ice and serve.\n\nWhat should you do **before** adding sugar?",
+      "choices": [
+        {"id": "a", "label": "Add ice", "correct": false, "explanation": "Ice is added at the final step, after the sugar."},
+        {"id": "b", "label": "Mix the juice with water", "correct": true, "explanation": "The steps say: squeeze lemons, mix juice with water, THEN add sugar. So mixing juice with water comes before adding sugar."},
+        {"id": "c", "label": "Serve the lemonade", "correct": false, "explanation": "Serving happens at the very end, after all other steps."},
+        {"id": "d", "label": "Stir until it dissolves", "correct": false, "explanation": "Stirring happens after adding sugar, not before."}
+      ],
+      "explanation_md": "The step before adding sugar is mixing the juice with water. The order is: squeeze → mix juice and water → add sugar → stir → add ice → serve."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Long ago, people had to carry water from rivers and wells by hand. This was slow and hard. Then people built aqueducts, which were channels that carried water from rivers to towns. Because of aqueducts, people could grow more food and build larger cities.\n\nHow did aqueducts **connect to** the growth of larger cities?",
+      "choices": [
+        {"id": "a", "label": "Aqueducts made rivers dry up, so people moved to cities.", "correct": false, "explanation": "Aqueducts carried water to towns, they did not dry up rivers."},
+        {"id": "b", "label": "Aqueducts brought water to towns, which allowed people to grow more food and build larger cities.", "correct": true, "explanation": "The passage says 'Because of aqueducts, people could grow more food and build larger cities.' The aqueducts caused this growth by solving the water problem."},
+        {"id": "c", "label": "Aqueducts replaced the need for rivers.", "correct": false, "explanation": "Aqueducts carried water FROM rivers. They did not replace rivers."},
+        {"id": "d", "label": "Aqueducts had nothing to do with city growth.", "correct": false, "explanation": "The passage directly says 'Because of aqueducts, people could... build larger cities.' Aqueducts are directly connected to city growth."}
+      ],
+      "explanation_md": "The passage says 'Because of aqueducts, people could grow more food and build larger cities.' Aqueducts were the cause; city growth was the effect. The word 'because' shows the connection."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When a volcano erupts, hot melted rock called lava flows out. As the lava cools, it hardens into rock. Over many thousands of years, layer after layer of hardened lava builds up. This is how some islands, like Hawaii, were formed.\n\nHow does each step in this passage **connect** to form an island?",
+      "choices": [
+        {"id": "a", "label": "Islands form because volcanoes erupt once, and the island appears.", "correct": false, "explanation": "The passage says it takes 'many thousands of years' and layer after layer of lava. One eruption does not make an island."},
+        {"id": "b", "label": "Each volcanic eruption adds lava, the lava hardens into rock, and repeated layers over time build up to form an island.", "correct": true, "explanation": "The passage describes a chain: eruption → lava flows → lava cools and hardens → layers build up → island forms. Each step leads to the next."},
+        {"id": "c", "label": "The lava hardening is not connected to island formation.", "correct": false, "explanation": "Hardened lava is exactly how islands form. The passage directly connects these steps."},
+        {"id": "d", "label": "Islands form because ocean water evaporates and reveals land.", "correct": false, "explanation": "The passage describes a volcanic process, not evaporation of ocean water."}
+      ],
+      "explanation_md": "The chain is: volcano erupts → lava flows → lava cools and hardens → layers build up over thousands of years → island forms. Each step connects to and causes the next."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> In the early 1800s, most goods were moved slowly by horse and wagon. Then railroads were built across the country. Because trains were faster and could carry more, goods became cheaper to move. As a result, businesses grew, towns appeared along rail lines, and more people moved west.\n\nWhich of these correctly shows the **connection** between the building of railroads and the growth of towns?",
+      "choices": [
+        {"id": "a", "label": "Railroads were built because towns already existed.", "correct": false, "explanation": "The passage says towns appeared AFTER railroads were built along rail lines, not that railroads were built because towns existed."},
+        {"id": "b", "label": "Railroads made it cheaper to move goods, which helped businesses grow, which led to towns forming along rail lines.", "correct": true, "explanation": "The passage describes this chain: railroads built → goods cheaper to move → businesses grew → towns appeared along rail lines. Each step is connected to the next."},
+        {"id": "c", "label": "Towns were built first, and then people built railroads to connect them.", "correct": false, "explanation": "The passage says towns appeared along rail lines after the railroads were built, not before."},
+        {"id": "d", "label": "Railroads caused wagons to disappear, which led to fewer businesses.", "correct": false, "explanation": "The passage says businesses grew after railroads came, not that they disappeared."}
+      ],
+      "explanation_md": "The chain is: railroads built → cheaper to move goods → businesses grew → towns appeared along rail lines. Each event in the passage is connected to and causes the next."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Seeds need three things to sprout: warmth, water, and darkness. First, the seed absorbs water through its coat. Then, the warmth causes the seed to swell and split open. Next, a tiny root pushes down into the soil. Finally, a sprout pushes up toward light.\n\nIf a seed gets **water but no warmth**, which step would NOT happen?",
+      "choices": [
+        {"id": "a", "label": "The seed absorbing water", "correct": false, "explanation": "The seed can absorb water even without warmth. The passage says seeds absorb water through their coat as the first step."},
+        {"id": "b", "label": "The seed swelling and splitting open", "correct": true, "explanation": "The passage says 'warmth causes the seed to swell and split open.' Without warmth, this step would not happen, and the steps that follow would not happen either."},
+        {"id": "c", "label": "The seed being placed in the soil", "correct": false, "explanation": "The passage does not list being placed in soil as a step that requires warmth. That is a setup step."},
+        {"id": "d", "label": "The sprout pushing up toward light", "correct": false, "explanation": "This choice is not the FIRST step that would fail. The seed needs to swell and split open BEFORE a sprout can push up. Without warmth, swelling would not happen first."}
+      ],
+      "explanation_md": "Warmth causes the seed to swell and split open. Without warmth, that step would not happen, and therefore the root and sprout steps could not follow. The chain breaks at the swelling-and-splitting step."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Before the printing press was invented, books had to be written by hand. Because this took so long, very few books existed and most people never learned to read. Then, in 1440, Johannes Gutenberg invented the printing press. Books could now be made quickly and cheaply. As a result, more people learned to read.\n\nHow did the printing press **connect** the idea of 'fewer books' to 'more people learning to read'?",
+      "choices": [
+        {"id": "a", "label": "The printing press had nothing to do with people learning to read.", "correct": false, "explanation": "The passage directly says that after the printing press, 'more people learned to read.' The connection is clear."},
+        {"id": "b", "label": "The printing press made books faster and cheaper to produce, so more books existed, so more people could learn to read.", "correct": true, "explanation": "The passage describes the chain: handwritten books = slow and rare → printing press invented → books made quickly and cheaply → more people learned to read. The printing press is the turning point that connects both ideas."},
+        {"id": "c", "label": "Fewer books caused the printing press to be invented so that fewer people would read.", "correct": false, "explanation": "The printing press was invented to make more books available. The result was MORE people reading, not fewer."},
+        {"id": "d", "label": "The printing press made people want to read less.", "correct": false, "explanation": "The opposite happened. More books were available, so more people learned to read."}
+      ],
+      "explanation_md": "Chain: Before printing press → few books → few readers. After printing press → books cheap and fast → more readers. The printing press is the event that reversed the connection from few books/few readers to many books/many readers."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> When it gets too hot, animals that live in deserts have adapted in several ways. First, many desert animals are nocturnal, so they hunt and move at night when temperatures drop. Second, some animals burrow underground during the day where it is cooler. Third, many desert animals have developed the ability to store water in their bodies for long periods.\n\nHow do the three adaptations described in the passage all **connect** to the same main idea?",
+      "choices": [
+        {"id": "a", "label": "All three adaptations help desert animals find food.", "correct": false, "explanation": "Finding food is one reason some animals are nocturnal, but the other adaptations are about surviving heat and water shortage, not just food."},
+        {"id": "b", "label": "All three adaptations are responses to the challenge of extreme heat and water scarcity in deserts.", "correct": true, "explanation": "Being nocturnal avoids daytime heat. Burrowing underground escapes the heat. Storing water deals with scarce water. All three connect back to the challenge of surviving a hot, dry environment."},
+        {"id": "c", "label": "All three adaptations are about underground behavior.", "correct": false, "explanation": "Only one adaptation (burrowing) involves going underground. The other two are about activity timing and water storage."},
+        {"id": "d", "label": "All three adaptations help animals find shade.", "correct": false, "explanation": "Finding shade is not the stated purpose of any of the three adaptations in the passage."}
+      ],
+      "explanation_md": "All three adaptations (being nocturnal, burrowing, storing water) are connected by the same main challenge: surviving extreme heat and scarce water. Each adaptation is a different way animals deal with the same problem."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> The story of the American Civil War has several connected causes. Southern states had an economy that depended on enslaved people for farm labor. When Abraham Lincoln was elected president in 1860, Southern leaders feared he would end slavery. As a result, several Southern states left the United States and formed a new government. This led to the Civil War beginning in 1861.\n\nWhich chain correctly shows the **connections** described in this passage?",
+      "choices": [
+        {"id": "a", "label": "Civil War → Lincoln elected → Southern economy → slavery", "correct": false, "explanation": "This order is backwards. The passage shows the causes leading UP to the Civil War, not starting from it."},
+        {"id": "b", "label": "Southern economy depended on slavery → Lincoln elected, feared end of slavery → Southern states left → Civil War began", "correct": true, "explanation": "This matches the cause-and-effect chain in the passage exactly. Each event is connected to and leads to the next."},
+        {"id": "c", "label": "Lincoln elected → Southern economy improved → states stayed → no war", "correct": false, "explanation": "The passage says Southern states FEARED Lincoln and LEFT the United States. Their economy did not improve."},
+        {"id": "d", "label": "Civil War ended slavery → Lincoln was elected → Southern states rejoined", "correct": false, "explanation": "This is not in the passage. The passage describes events before the war, not after."}
+      ],
+      "explanation_md": "The passage shows this chain: Southern economy depended on slavery → Lincoln elected (Southern states feared he'd end slavery) → Southern states left the US → Civil War began. Each event connects to and causes the next."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Scientists discovered that the number of bees is decreasing around the world. Since bees pollinate plants, fewer bees mean fewer fruits and vegetables. Since many animals eat fruits and vegetables, their food supply could shrink too. If those animals decline, the predators that eat them could also be affected.\n\nWhat does this passage show about how **connections in science** can have effects far beyond the original problem?",
+      "choices": [
+        {"id": "a", "label": "The passage shows that bee problems only affect bees.", "correct": false, "explanation": "The passage traces the ripple effects of fewer bees through plants, plant-eating animals, and then predators. The effects go far beyond just bees."},
+        {"id": "b", "label": "The passage shows that one change in nature (fewer bees) can trigger a chain of effects through an entire ecosystem.", "correct": true, "explanation": "Fewer bees → fewer fruits/vegetables → less food for plant-eating animals → less food for predators. The passage shows that scientific connections mean a single change can spread through many levels of the ecosystem."},
+        {"id": "c", "label": "The passage shows that animals can survive without bees.", "correct": false, "explanation": "The passage shows the opposite. The loss of bees could threaten the food supply for many animals."},
+        {"id": "d", "label": "The passage shows that predators are not affected by bee populations.", "correct": false, "explanation": "The passage explicitly says predators could be affected if the animals they eat decline due to fewer bees."}
+      ],
+      "explanation_md": "The passage traces a chain: fewer bees → fewer plants pollinated → less food for plant-eating animals → less food for predators. This shows how one change (fewer bees) connects to effects at every level of the ecosystem."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> To plant a seed in a pot, follow these steps. First, fill the pot with soil. Next, poke a small hole in the soil with your finger. Then, place the seed in the hole and cover it with soil. After that, water the soil gently. Finally, put the pot in a sunny spot.\n\nWhat would happen if you **skipped the step** of poking a hole in the soil?",
+      "choices": [
+        {"id": "a", "label": "Nothing, you could still follow all the other steps the same way.", "correct": false, "explanation": "If you skip the hole, you have no place to put the seed. The steps that follow (placing the seed, covering it) depend on the hole being there."},
+        {"id": "b", "label": "You would have no place to put the seed, making the next steps impossible as described.", "correct": true, "explanation": "The hole is needed to place the seed. Skipping this step breaks the connection to the next step. You could not follow the procedure as described without the hole."},
+        {"id": "c", "label": "The seed would grow faster without a hole.", "correct": false, "explanation": "The passage does not suggest skipping the hole is better. The procedure is designed as a connected set of steps."},
+        {"id": "d", "label": "You would need to add more water to make up for it.", "correct": false, "explanation": "More water does not replace the purpose of the hole. The hole creates a place to put the seed."}
+      ],
+      "explanation_md": "The hole is needed so the seed has a place to go. Steps in a procedure are connected: skipping one step can break the connection to the steps that follow."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> In 1903, Orville and Wilbur Wright flew the first successful airplane. Because airplanes could carry people faster and farther than any other vehicle, airlines and airports were built around the world. As a result, people could travel from one country to another in hours instead of weeks.\n\nHow does the Wright brothers' flight **connect** to people traveling from country to country?",
+      "choices": [
+        {"id": "a", "label": "It does not connect. People traveled by ship after the Wright brothers' flight.", "correct": false, "explanation": "The passage directly connects the Wright brothers' flight to the growth of airlines and faster international travel."},
+        {"id": "b", "label": "The flight proved flight was possible, which led to airlines being built, which allowed international travel in hours.", "correct": true, "explanation": "The chain: first flight (1903) → airplanes proven possible → airlines and airports built → international travel in hours. Each event connects to the next."},
+        {"id": "c", "label": "The Wright brothers' flight had no effect until many years later.", "correct": false, "explanation": "The passage directly links the flight to the development of airlines. The connection is clear in the passage."},
+        {"id": "d", "label": "The Wright brothers built all the world's airports.", "correct": false, "explanation": "The passage says airlines and airports were built as a result of airplane travel becoming possible, not that the Wright brothers personally built all airports."}
+      ],
+      "explanation_md": "First flight → airplanes proven possible → airlines and airports built → international travel in hours. The Wright brothers' flight is the first link in a chain that connected to modern international travel."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Forests help control the water cycle in their region. Tree roots absorb rainwater and hold it in the soil. If forests are cut down, the roots are gone, so rainwater runs off the land quickly without being absorbed. This can cause floods after heavy rain and dry spells during dry weather.\n\nExplain the **connection** between cutting down forests and both floods and dry spells.",
+      "choices": [
+        {"id": "a", "label": "Cutting trees causes more rain to fall, leading to floods and dryness.", "correct": false, "explanation": "The passage does not say cutting trees causes more rain. The problem is what happens TO the rain without tree roots to absorb it."},
+        {"id": "b", "label": "Without tree roots, rain cannot be absorbed and stored, so it either floods when it rains or dries up when it does not.", "correct": true, "explanation": "Tree roots absorb and hold water. Without roots, rain runs off fast (causing floods when it rains) and no water is stored for dry periods (causing dry spells). Both problems connect back to the loss of roots."},
+        {"id": "c", "label": "Floods are caused by trees, so cutting them prevents floods.", "correct": false, "explanation": "The passage says the opposite. Cutting trees causes floods because without roots to hold water, it all runs off at once."},
+        {"id": "d", "label": "Flooding and dry spells are not connected to forests at all.", "correct": false, "explanation": "The passage directly connects forests to the water cycle, and the loss of forests to both flooding and dry conditions."}
+      ],
+      "explanation_md": "Trees with roots absorb and hold water. Without roots: heavy rain → all runoff at once → floods. During dry weather: no stored water → dry spells. Both problems connect back to the missing tree roots that can no longer regulate water."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the steps below, then answer the question.\n\n> **Step 1:** Put bread in the toaster.\n> **Step 2:** Push down the lever.\n> **Step 3:** Wait for the toast to pop up.\n> **Step 4:** Spread butter on the toast.\n\nWhat happens in **Step 3**?",
+      "choices": [
+        {"id": "a", "label": "You spread butter.", "correct": false, "explanation": "Spreading butter is Step 4, not Step 3."},
+        {"id": "b", "label": "You wait for the toast to pop up.", "correct": true, "explanation": "Step 3 says 'Wait for the toast to pop up.'"},
+        {"id": "c", "label": "You put bread in the toaster.", "correct": false, "explanation": "Putting bread in the toaster is Step 1."},
+        {"id": "d", "label": "You push down the lever.", "correct": false, "explanation": "Pushing down the lever is Step 2."}
+      ],
+      "explanation_md": "Step 3 says 'Wait for the toast to pop up.' Reading steps in order helps you follow the procedure correctly."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence below, then answer the question.\n\n> It rained heavily, **so** the river flooded.\n\nWhat caused the river to flood?",
+      "choices": [
+        {"id": "a", "label": "A broken dam", "correct": false, "explanation": "The sentence does not mention a dam. It says heavy rain caused the flood."},
+        {"id": "b", "label": "Heavy rain", "correct": true, "explanation": "The sentence says it rained heavily and 'so' the river flooded. The word 'so' shows the rain caused the flood."},
+        {"id": "c", "label": "Too many boats on the river", "correct": false, "explanation": "The sentence mentions rain, not boats."},
+        {"id": "d", "label": "Wind", "correct": false, "explanation": "The sentence mentions rain, not wind."}
+      ],
+      "explanation_md": "The word 'so' shows cause and effect. Heavy rain → river flooded."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> First, the sun heats ocean water. Then the water evaporates and rises into the air. Next, the water vapor cools and forms clouds.\n\nWhich event happens **first**?",
+      "choices": [
+        {"id": "a", "label": "Clouds form.", "correct": false, "explanation": "Clouds forming is the third step, not the first."},
+        {"id": "b", "label": "Water vapor rises into the air.", "correct": false, "explanation": "Water vapor rising is the second step."},
+        {"id": "c", "label": "The sun heats ocean water.", "correct": true, "explanation": "The passage says 'First, the sun heats ocean water.' That is the first event."},
+        {"id": "d", "label": "Rain falls.", "correct": false, "explanation": "Rain is not mentioned in this passage. The passage ends at cloud formation."}
+      ],
+      "explanation_md": "The word 'First' in the passage tells you that the sun heating ocean water is the first event."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence shows a **cause and effect** connection?",
+      "choices": [
+        {"id": "a", "label": "The sky is blue and grass is green.", "correct": false, "explanation": "This lists two facts but one does not cause the other. There is no cause and effect here."},
+        {"id": "b", "label": "The dog was hungry, so it barked at its bowl.", "correct": true, "explanation": "The dog was hungry (cause) so it barked (effect). The word 'so' shows the connection."},
+        {"id": "c", "label": "Apples are red and oranges are orange.", "correct": false, "explanation": "These are two separate facts. One does not cause the other."},
+        {"id": "d", "label": "Monday comes after Sunday.", "correct": false, "explanation": "This is a sequence statement but not a cause-and-effect connection."}
+      ],
+      "explanation_md": "The dog was hungry (cause) so it barked at its bowl (effect). The word 'so' is a signal word that shows cause and effect."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Before electricity, people used candles for light. After electricity was invented, people could have bright lights in their homes at night. Because of this, factories could run longer hours, and workers could work after dark.\n\nWhat did electricity allow that candles could NOT?",
+      "choices": [
+        {"id": "a", "label": "Candles and electricity did the same things.", "correct": false, "explanation": "The passage shows that electricity enabled factories to run longer hours and work after dark, which candles did not make possible."},
+        {"id": "b", "label": "Bright lights at night that allowed factories to run longer and workers to work after dark", "correct": true, "explanation": "The passage says that because of electricity, people had bright lights, factories could run longer hours, and workers could work after dark. Candles did not enable this."},
+        {"id": "c", "label": "Only keeping homes warm", "correct": false, "explanation": "The passage is about light, not warmth."},
+        {"id": "d", "label": "Growing crops faster", "correct": false, "explanation": "The passage does not mention farming. The topic is light and working hours."}
+      ],
+      "explanation_md": "The passage says electricity gave people bright lights, so factories could run longer and workers could work after dark. Candles could not enable this level of productivity."
+    }
+  ]
+}
