@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.RL.CS.6",
+  "benchmark_description": "Acknowledge differences in the points of view of characters, including by speaking in a different voice for each character when reading dialogue aloud.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Who Is Talking? Understanding Character Points of View",
+    "intro": "When you read a story, different characters often think and feel different things. Noticing each character's point of view helps you understand the story better. And when you read dialogue, using different voices for different characters makes the story come alive!",
+    "body_md": "## What Is Point of View?\n\nA character's **point of view** is how they see and feel about what is happening in the story.\n\nTwo characters in the same situation can have very different points of view:\n\n| Character | What Happens | Their Point of View |\n|-----------|-------------|--------------------|\n| The wolf | Hears the pigs won't let him in | Hungry and frustrated |\n| The three pigs | The wolf is outside | Scared and determined to stay safe |\n\n## How Characters Show Their Point of View\n\nYou can figure out a character's point of view by looking at:\n\n1. **What the character SAYS** -- look at the dialogue (words in quotation marks)\n2. **What the character DOES** -- their actions reveal their feelings\n3. **What the character THINKS** -- sometimes the narrator tells us\n\n**Example:**\n\n> Lily ran ahead on the trail. 'Come on! This is so exciting!' she called.\n> Marco walked slowly. 'I am not sure about this,' he said quietly.\n\n- Lily's point of view: excited and eager\n- Marco's point of view: nervous and unsure\n\nSame trail. Two different points of view!\n\n## Reading Dialogue Out Loud\n\nWhen you read a story aloud, give each character a different voice. This shows you understand that they are different people with different feelings.\n\n**Tips for character voices:**\n\n| Character | Voice Idea |\n|-----------|------------|\n| An excited child | High, fast, cheerful |\n| A sleepy old man | Slow, low, sleepy |\n| A sneaky villain | Quiet, slippery, careful |\n| A scared animal | Shaky, quiet, hesitant |\n| A brave hero | Confident, strong, clear |\n\n**How to find dialogue:**\nDialogue is inside quotation marks: \" \"\n*Example: \"Let's go!\" said Sam.*\n\n## Why Points of View Differ\n\nCharacters have different points of view because:\n- They want different things (goals)\n- They have had different experiences\n- They are in different situations\n- They have different personalities",
+    "worked_example_md": "## Worked Example\n\n**Read this scene:**\n\n> The little bird sat in her nest. Along came a cat.\n> 'Come down and play with me,' said the cat sweetly.\n> 'No, thank you,' chirped the bird. 'I am perfectly fine up here.'\n\n**Question 1:** What is the cat's point of view?\n\nThe cat says 'come down' sweetly -- it seems friendly, but the cat probably wants to catch the bird. The cat's point of view: the bird should come down (self-interest).\n\n**Question 2:** What is the bird's point of view?\n\nThe bird says 'no, thank you' and calls herself 'perfectly fine up here.' The bird's point of view: staying in the nest is safe. She is not interested in coming down.\n\n**How to read it aloud:**\n- Cat: Use a soft, sneaky, overly sweet voice.\n- Bird: Use a small, polite, firm voice.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a character's POINT OF VIEW?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How the character sees and feels about what is happening",
+          "correct": true,
+          "explanation": "Right! A character's point of view is their perspective -- how they experience and feel about the events."
+        },
+        {
+          "id": "b",
+          "label": "The place where the story happens",
+          "correct": false,
+          "explanation": "That is the setting. A character's point of view is their perspective and feelings about events."
+        },
+        {
+          "id": "c",
+          "label": "The author's opinion about the story",
+          "correct": false,
+          "explanation": "The author's opinion is different from a character's point of view. A character's POV is how that specific character sees things."
+        },
+        {
+          "id": "d",
+          "label": "The title of the book",
+          "correct": false,
+          "explanation": "The title is the name of the book. A character's point of view is how they think and feel about events."
+        }
+      ],
+      "explanation_md": "A character's point of view is how they see and feel about what is happening in the story."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read this dialogue:\n\n> 'I love rainy days!' said Maya.\n> 'I hate getting wet,' grumbled Sam.\n\nHow are Maya and Sam's points of view DIFFERENT?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Maya likes rainy days; Sam does not like them",
+          "correct": true,
+          "explanation": "Right! Maya says she loves rainy days. Sam grumbles about getting wet. They have opposite points of view."
+        },
+        {
+          "id": "b",
+          "label": "Both characters love rainy days",
+          "correct": false,
+          "explanation": "Only Maya loves rainy days. Sam grumbles, showing he dislikes getting wet."
+        },
+        {
+          "id": "c",
+          "label": "Both characters hate rainy days",
+          "correct": false,
+          "explanation": "Maya loves rainy days. Sam dislikes getting wet. Their points of view are different."
+        },
+        {
+          "id": "d",
+          "label": "Neither character has an opinion about rain",
+          "correct": false,
+          "explanation": "Both characters clearly express opinions. Maya loves rain; Sam dislikes getting wet."
+        }
+      ],
+      "explanation_md": "Maya loves rainy days; Sam dislikes getting wet. Same weather, two very different points of view."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where is DIALOGUE found in a story?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Inside quotation marks \" \"",
+          "correct": true,
+          "explanation": "Right! Dialogue is the words characters say, and it is always inside quotation marks."
+        },
+        {
+          "id": "b",
+          "label": "In the title of the book",
+          "correct": false,
+          "explanation": "The title is the name of the story, not dialogue. Dialogue is inside quotation marks."
+        },
+        {
+          "id": "c",
+          "label": "In the list of characters at the back of the book",
+          "correct": false,
+          "explanation": "Character lists are reference material. Dialogue is inside quotation marks in the story itself."
+        },
+        {
+          "id": "d",
+          "label": "Only in the first paragraph",
+          "correct": false,
+          "explanation": "Dialogue can appear anywhere in a story. It is always inside quotation marks."
+        }
+      ],
+      "explanation_md": "Dialogue is the words characters say, and it always appears inside quotation marks."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n> 'This haunted house looks amazing!' said Rosa, running toward the door.\n> 'I am not going in there,' said Ben, stepping back.\n\nWhat is Ben's point of view?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He is scared and does not want to go in",
+          "correct": true,
+          "explanation": "Right! Ben says 'I am not going in there' and steps back -- both his words and actions show he is scared or at least unwilling."
+        },
+        {
+          "id": "b",
+          "label": "He is excited and wants to explore",
+          "correct": false,
+          "explanation": "Rosa is excited. Ben steps back and refuses to go in -- he is not excited."
+        },
+        {
+          "id": "c",
+          "label": "He is confused about where the door is",
+          "correct": false,
+          "explanation": "Ben is not confused about the door -- he deliberately steps BACK from it. He does not want to go in."
+        },
+        {
+          "id": "d",
+          "label": "He agrees with Rosa that the house is amazing",
+          "correct": false,
+          "explanation": "Ben's actions and words are opposite to Rosa's excitement. He does not want to go in."
+        }
+      ],
+      "explanation_md": "Ben says 'I am not going in there' and steps back -- both show he is scared or unwilling. His POV contrasts with Rosa's excitement."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n> 'This haunted house looks amazing!' said Rosa, running toward the door.\n> 'I am not going in there,' said Ben, stepping back.\n\nIf you were reading this aloud, how should Rosa's voice sound DIFFERENT from Ben's voice?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rosa: high and excited; Ben: low and hesitant",
+          "correct": true,
+          "explanation": "Right! Rosa is excited and rushing in, so her voice should sound high and energetic. Ben is reluctant, so his voice should sound lower and hesitant."
+        },
+        {
+          "id": "b",
+          "label": "Both Rosa and Ben should use the same calm voice",
+          "correct": false,
+          "explanation": "Using the same voice for both characters does not show their different points of view. Each character needs a distinct voice."
+        },
+        {
+          "id": "c",
+          "label": "Rosa: low and scared; Ben: high and excited",
+          "correct": false,
+          "explanation": "This is backward. Rosa is excited (higher voice) and Ben is reluctant (lower, hesitant voice)."
+        },
+        {
+          "id": "d",
+          "label": "Neither character should show any feeling in their voice",
+          "correct": false,
+          "explanation": "Characters' voices should match their feelings. Rosa is excited; Ben is reluctant -- show that in their voices."
+        }
+      ],
+      "explanation_md": "Rosa is excited (use a high, energetic voice); Ben is reluctant (use a low, hesitant voice). Different voices show different points of view."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n> The class got a new hamster. 'Can I hold it first?' asked Lily eagerly.\n> 'Hamsters are okay, I guess,' said Jamal, looking at his book.\n\nHow are Lily and Jamal's points of view different?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Lily is very excited about the hamster; Jamal is not very interested",
+          "correct": true,
+          "explanation": "Right! Lily eagerly wants to hold the hamster. Jamal gives a lukewarm response and keeps reading -- he is not very interested."
+        },
+        {
+          "id": "b",
+          "label": "Both Lily and Jamal are excited about the hamster",
+          "correct": false,
+          "explanation": "Only Lily is excited. Jamal's response ('I guess') and his action (looking at his book) show he is not interested."
+        },
+        {
+          "id": "c",
+          "label": "Both Lily and Jamal are afraid of the hamster",
+          "correct": false,
+          "explanation": "Lily is not afraid -- she wants to hold it. Jamal seems indifferent, not afraid."
+        },
+        {
+          "id": "d",
+          "label": "Jamal is more excited than Lily",
+          "correct": false,
+          "explanation": "Lily is the one who eagerly asks to hold the hamster first. Jamal gives a lukewarm response."
+        }
+      ],
+      "explanation_md": "Lily is eager and excited; Jamal is indifferent. Same hamster, different points of view."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What should you do when reading dialogue aloud to show different characters?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Use a different voice for each character based on their feelings",
+          "correct": true,
+          "explanation": "Right! Using a different voice for each character shows that you understand their different points of view and personalities."
+        },
+        {
+          "id": "b",
+          "label": "Read all dialogue in the exact same flat voice",
+          "correct": false,
+          "explanation": "Reading all characters with the same voice hides the differences in their points of view. Each character needs their own voice."
+        },
+        {
+          "id": "c",
+          "label": "Skip all the quotation marks and only read the narration",
+          "correct": false,
+          "explanation": "Skipping dialogue would leave out what the characters say, which is key to understanding their points of view."
+        },
+        {
+          "id": "d",
+          "label": "Read all the character voices as fast as possible",
+          "correct": false,
+          "explanation": "Speed is not the goal. The goal is to use voices that match each character's feelings and point of view."
+        }
+      ],
+      "explanation_md": "Using a different voice for each character shows you understand their different feelings and points of view."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n> The rabbit said, 'I won the race! I am the fastest!'\n> The turtle said quietly, 'Well done, rabbit. I tried my best.'\n\nWhich best describes how the two characters feel differently?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The rabbit is boastful and proud; the turtle is humble and calm",
+          "correct": true,
+          "explanation": "Right! The rabbit brags about winning. The turtle congratulates the rabbit and accepts the outcome calmly -- very different feelings."
+        },
+        {
+          "id": "b",
+          "label": "Both characters are happy about the race result",
+          "correct": false,
+          "explanation": "The rabbit is proud, but the turtle's quiet 'I tried my best' shows a more humble, accepting feeling, not the same happiness."
+        },
+        {
+          "id": "c",
+          "label": "The rabbit is sad; the turtle is angry",
+          "correct": false,
+          "explanation": "The rabbit is proud, not sad. The turtle is calm and humble, not angry."
+        },
+        {
+          "id": "d",
+          "label": "Both characters are afraid",
+          "correct": false,
+          "explanation": "Neither character shows fear. The rabbit is proud; the turtle is calm."
+        }
+      ],
+      "explanation_md": "The rabbit is boastful and proud; the turtle is humble and calm. Same race, opposite points of view."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n> 'The forest is dangerous,' warned Grandma. 'Stay on the path.'\n> 'But the flowers off the path look so beautiful,' thought Little Red Riding Hood.\n\nWhy do Grandma and Little Red Riding Hood have different points of view about the forest?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Grandma knows about dangers in the forest; Little Red Riding Hood only sees the beauty",
+          "correct": true,
+          "explanation": "Right! Grandma's experience makes her see danger. Little Red Riding Hood is young and focused on what is pretty. Different experiences lead to different views."
+        },
+        {
+          "id": "b",
+          "label": "They both think the forest is safe",
+          "correct": false,
+          "explanation": "Grandma clearly warns that the forest is dangerous -- she does not think it is safe."
+        },
+        {
+          "id": "c",
+          "label": "They both think the forest is dangerous",
+          "correct": false,
+          "explanation": "Little Red Riding Hood thinks the flowers off the path look beautiful -- she is not focused on danger."
+        },
+        {
+          "id": "d",
+          "label": "Neither character has an opinion about the forest",
+          "correct": false,
+          "explanation": "Both characters clearly have opinions -- they just have different ones."
+        }
+      ],
+      "explanation_md": "Grandma's experience gives her a different perspective from Little Red Riding Hood's youthful focus on beauty. Experience shapes point of view."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "In the story of 'Goldilocks and the Three Bears,' how might the THREE BEARS feel about Goldilocks entering their house? How might GOLDILOCKS feel?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The bears feel upset and scared; Goldilocks feels curious and later guilty",
+          "correct": true,
+          "explanation": "Right! The bears come home to find their things disturbed -- they feel upset and scared. Goldilocks was just curious but would feel guilty when caught."
+        },
+        {
+          "id": "b",
+          "label": "Both the bears and Goldilocks feel happy",
+          "correct": false,
+          "explanation": "The bears come home to find their home disturbed -- they are not happy. Goldilocks runs away in fright when caught."
+        },
+        {
+          "id": "c",
+          "label": "The bears feel happy that a guest came; Goldilocks feels angry",
+          "correct": false,
+          "explanation": "The bears are not happy -- their porridge, chairs, and beds were all used. They feel upset, not welcoming."
+        },
+        {
+          "id": "d",
+          "label": "Neither character has any feelings about what happened",
+          "correct": false,
+          "explanation": "Both the bears and Goldilocks have strong feelings about the events. Their points of view are very different."
+        }
+      ],
+      "explanation_md": "The bears feel violated (their home was entered without permission). Goldilocks feels curious at first, then scared when caught. Same events, opposite perspectives."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read:\n\n> 'I cannot wait to try the rollercoaster!' shouted Kim, pulling her friend's hand.\n> 'Maybe we can just watch,' said Tom, looking at the ground.\n\nIf you read this aloud, how should Kim and Tom's voices sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Kim: loud and energetic; Tom: quiet and hesitant",
+          "correct": true,
+          "explanation": "Right! Kim shouts and pulls -- excited and energetic. Tom looks at the ground and wants to just watch -- quiet and hesitant."
+        },
+        {
+          "id": "b",
+          "label": "Both: loud and energetic",
+          "correct": false,
+          "explanation": "Tom is clearly not excited. Using the same energetic voice for both hides the difference in their points of view."
+        },
+        {
+          "id": "c",
+          "label": "Kim: quiet; Tom: loud",
+          "correct": false,
+          "explanation": "This is backward. Kim shouts (loud); Tom looks at the ground and suggests watching (quiet)."
+        },
+        {
+          "id": "d",
+          "label": "Both: whisper quietly",
+          "correct": false,
+          "explanation": "Kim SHOUTS -- her voice should be loud and excited. Tom should be quieter and hesitant."
+        }
+      ],
+      "explanation_md": "Kim is excited (loud, energetic voice); Tom is hesitant (quiet voice). Different voices show different points of view."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read:\n\n> The new kid walked into class. 'I hope someone talks to me,' she thought.\n> Most students kept working. 'I wonder if she is nice,' thought one boy.\n\nHow are the new kid and the other students' points of view similar?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both are curious and hoping to connect, but are nervous about making the first move",
+          "correct": true,
+          "explanation": "Right! The new kid hopes someone talks to her. The boy wonders if she is nice. Both want to connect but neither acts yet -- similar nervousness."
+        },
+        {
+          "id": "b",
+          "label": "Both are completely uninterested in each other",
+          "correct": false,
+          "explanation": "Both characters think about the other person -- the new kid hopes someone talks to her, and the boy wonders if she is nice."
+        },
+        {
+          "id": "c",
+          "label": "The new kid wants to be alone; the students want to be friends",
+          "correct": false,
+          "explanation": "The new kid hopes someone talks to her -- she does not want to be alone. Both sides are curious about each other."
+        },
+        {
+          "id": "d",
+          "label": "The students are angry; the new kid is happy",
+          "correct": false,
+          "explanation": "The students are curious, not angry. The new kid is hopeful but nervous, not simply happy."
+        }
+      ],
+      "explanation_md": "Both the new kid and the boy are curious and hoping to connect -- but neither has made a move yet. Their views are more similar than different."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student is asked to read this dialogue aloud:\n\n> 'Give me that cookie!' snapped the giant.\n> 'Please, it is the last one,' whispered the child.\n\nHow should the student read these lines to show the characters' different points of view?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Read the giant's line in a loud, demanding voice; read the child's line in a soft, pleading voice",
+          "correct": true,
+          "explanation": "Right! The giant snaps -- loud and demanding. The child whispers and says 'please' -- soft and pleading. Different voices show their very different situations."
+        },
+        {
+          "id": "b",
+          "label": "Read both lines in a calm, even voice",
+          "correct": false,
+          "explanation": "A calm voice for both characters hides their very different situations and feelings. Each needs a distinct voice."
+        },
+        {
+          "id": "c",
+          "label": "Read the child's line louder than the giant's",
+          "correct": false,
+          "explanation": "The giant snaps (loud and demanding) while the child whispers (soft). The giant's line should be louder."
+        },
+        {
+          "id": "d",
+          "label": "Skip the giant's line because it is not polite",
+          "correct": false,
+          "explanation": "Skipping a character's line removes important information about their point of view. Read all dialogue, using voice to show the contrast."
+        }
+      ],
+      "explanation_md": "The giant snaps (loud, demanding voice); the child whispers and pleads (soft, gentle voice). Contrasting voices show contrasting points of view."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *'I love pizza!' said Ana. 'I prefer salad,' said Ben.*\n\nHow do Ana and Ben feel DIFFERENTLY?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ana loves pizza; Ben prefers salad",
+          "correct": true,
+          "explanation": "Right! Ana loves pizza; Ben prefers salad. They have different opinions about food."
+        },
+        {
+          "id": "b",
+          "label": "Both love pizza",
+          "correct": false,
+          "explanation": "Ben says he prefers salad, not pizza. Their opinions are different."
+        },
+        {
+          "id": "c",
+          "label": "Both prefer salad",
+          "correct": false,
+          "explanation": "Ana says she loves pizza, not salad. Their opinions are different."
+        },
+        {
+          "id": "d",
+          "label": "Neither character likes food",
+          "correct": false,
+          "explanation": "Both characters express a food preference. They just prefer different things."
+        }
+      ],
+      "explanation_md": "Ana loves pizza; Ben prefers salad. Same topic, different points of view."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are quotation marks used for in a story?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They show the words a character says (dialogue)",
+          "correct": true,
+          "explanation": "Right! Quotation marks show dialogue -- the exact words a character speaks."
+        },
+        {
+          "id": "b",
+          "label": "They show the title of the story",
+          "correct": false,
+          "explanation": "Titles are usually underlined or put in italics. Quotation marks in a story show what characters say."
+        },
+        {
+          "id": "c",
+          "label": "They show where the story starts",
+          "correct": false,
+          "explanation": "Quotation marks show dialogue, not where the story starts."
+        },
+        {
+          "id": "d",
+          "label": "They show the author's name",
+          "correct": false,
+          "explanation": "The author's name is on the cover. Quotation marks inside a story show what characters say."
+        }
+      ],
+      "explanation_md": "Quotation marks show dialogue -- the exact words a character says in the story."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A character is very happy. How should their voice sound when you read their dialogue aloud?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cheerful and bright",
+          "correct": true,
+          "explanation": "Right! A happy character's voice should sound cheerful and bright to match how they feel."
+        },
+        {
+          "id": "b",
+          "label": "Slow and sad",
+          "correct": false,
+          "explanation": "A slow, sad voice does not match a happy feeling. Use a cheerful, bright voice."
+        },
+        {
+          "id": "c",
+          "label": "Very angry",
+          "correct": false,
+          "explanation": "An angry voice does not match happiness. Use a cheerful voice."
+        },
+        {
+          "id": "d",
+          "label": "The same as every other character",
+          "correct": false,
+          "explanation": "Using different voices for different characters helps show their different feelings. A happy character should sound cheerful."
+        }
+      ],
+      "explanation_md": "A happy character's voice should sound cheerful and bright to match their feelings."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read:\n\n> 'The dog is so cute,' said Mia with a big smile.\n> 'Dogs scare me a little,' admitted her brother Luis.\n\nWhat is Luis's point of view about the dog?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He is a little scared of the dog",
+          "correct": true,
+          "explanation": "Right! Luis says dogs scare him a little. That is his point of view -- he feels scared."
+        },
+        {
+          "id": "b",
+          "label": "He thinks the dog is cute",
+          "correct": false,
+          "explanation": "Mia thinks the dog is cute. Luis admits to being a little scared."
+        },
+        {
+          "id": "c",
+          "label": "He is angry at the dog",
+          "correct": false,
+          "explanation": "Luis says he is scared, not angry. His point of view is one of fear."
+        },
+        {
+          "id": "d",
+          "label": "He wants to pet the dog right away",
+          "correct": false,
+          "explanation": "Luis says dogs scare him -- he is unlikely to want to pet it right away. His point of view is fearful."
+        }
+      ],
+      "explanation_md": "Luis admits that dogs scare him a little -- that is his point of view about the dog."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to use DIFFERENT VOICES for different characters when reading aloud?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It shows that you understand each character has their own feelings and point of view",
+          "correct": true,
+          "explanation": "Right! Using different voices is a reading skill that shows you understand characters as distinct people with different perspectives."
+        },
+        {
+          "id": "b",
+          "label": "It makes you read faster",
+          "correct": false,
+          "explanation": "Using different voices is not about speed. It shows understanding of character differences."
+        },
+        {
+          "id": "c",
+          "label": "It is required by all teachers all the time",
+          "correct": false,
+          "explanation": "Different voices are a reading skill to show understanding -- the reason is understanding, not just a rule."
+        },
+        {
+          "id": "d",
+          "label": "It helps you memorize every word",
+          "correct": false,
+          "explanation": "Using different voices is about showing understanding of character feelings, not memorizing words."
+        }
+      ],
+      "explanation_md": "Using different voices shows you understand that each character has their own feelings and point of view."
+    }
+  ]
+}
