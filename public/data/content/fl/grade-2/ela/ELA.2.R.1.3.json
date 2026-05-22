@@ -1,0 +1,253 @@
+{
+  "skill_id": "ELA.2.R.1.3",
+  "benchmark_description": "Compare and contrast two or more versions of the same story, including different authors or different cultures, discussing similarities and differences in their characters, settings, and events.",
+  "course": "ela",
+  "strand": "R",
+  "lesson": {
+    "title": "Comparing Two Versions of a Story",
+    "intro": "Have you ever noticed that the same story can be told in different ways? Cinderella appears in stories from many countries! When you compare two versions, you look at what is the same AND what is different. That makes you a deeper reader.",
+    "body_md": "## Compare and Contrast\n\n**Compare** = tell how two things are the SAME  \n**Contrast** = tell how two things are DIFFERENT\n\n## What to Compare in Two Story Versions\n\n| Story Element | Compare-Contrast Questions |\n|---|---|\n| **Characters** | Do both stories have the same characters? Are they similar or different? |\n| **Setting** | Do both stories happen in the same place and time? |\n| **Events** | Do the same things happen? Do events appear in the same order? |\n| **Problem & Solution** | Is the problem the same? How is it solved differently? |\n| **Theme** | Do both stories teach the same lesson? |\n\n## A Helpful Tool: The Venn Diagram\n\nA Venn diagram uses two overlapping circles.\n- Left circle: things only in Version 1\n- Middle (overlap): things in BOTH versions\n- Right circle: things only in Version 2\n\n## Signal Words for Comparing\n\n- **Same/Both/Also/Similarly** — for similarities\n- **But/However/On the other hand/Different** — for differences\n\n**Example:** *Both versions have a magic helper. However, in the Japanese version the helper is a crab, while in the European version it is a fairy godmother.*",
+    "worked_example_md": "**Version 1 (American):** *The Three Little Pigs* — pigs build houses of straw, sticks, and bricks. The wolf blows down the first two houses.\n\n**Version 2 (different version):** *The Three Ninja Pigs* — the pigs use ninja skills instead of building houses to defeat the wolf.\n\n**Comparison:**\n\n| | Both | Different |\n|---|---|---|\n| Characters | Three pigs + wolf | Ninja skills vs. houses |\n| Problem | Wolf is a threat | Same threat, different solution |\n| Solution | Third pig defeats the wolf | Ninja skills vs. brick house |\n| Theme | Work hard and be prepared | Both teach being prepared, but the ninja version adds cleverness |",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you **compare** two stories, you are looking for:",
+      "choices": [
+        {"id": "a", "label": "Only the differences", "correct": false, "explanation": "Looking for only differences is contrasting — comparing looks for BOTH similarities and differences."},
+        {"id": "b", "label": "What is the same between the two stories", "correct": true, "explanation": "Yes! Comparing means finding what is the same. Contrasting means finding what is different."},
+        {"id": "c", "label": "Which story you like better", "correct": false, "explanation": "Comparing is about facts — not personal preference."},
+        {"id": "d", "label": "The longer story", "correct": false, "explanation": "Length is not relevant to comparing story elements."}
+      ],
+      "explanation_md": "Compare = look for what is the SAME."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When you **contrast** two stories, you are looking for:",
+      "choices": [
+        {"id": "a", "label": "What is the same", "correct": false, "explanation": "Finding what is the same is comparing — contrasting looks for differences."},
+        {"id": "b", "label": "What is different between the two stories", "correct": true, "explanation": "Yes! Contrast = differences."},
+        {"id": "c", "label": "The title of each story", "correct": false, "explanation": "Titles are details — contrasting means looking at story elements like characters, settings, and events."},
+        {"id": "d", "label": "Who wrote the story", "correct": false, "explanation": "The author is not a story element you contrast in a comparison."}
+      ],
+      "explanation_md": "Contrast = look for what is DIFFERENT."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In a Venn diagram, where do you write things that are the SAME in BOTH stories?",
+      "choices": [
+        {"id": "a", "label": "In the left circle only", "correct": false, "explanation": "The left circle is only for Version 1 — not for shared things."},
+        {"id": "b", "label": "In the right circle only", "correct": false, "explanation": "The right circle is only for Version 2 — not for shared things."},
+        {"id": "c", "label": "In the overlapping middle section", "correct": true, "explanation": "Yes! The overlapping middle section is where you write what both stories share."},
+        {"id": "d", "label": "Outside both circles", "correct": false, "explanation": "Outside both circles is not part of either story."}
+      ],
+      "explanation_md": "The overlapping middle section of a Venn diagram = what BOTH stories have."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two sentences:\n\n*Story 1: Cinderella lives with her mean stepmother in a kingdom long ago.*  \n*Story 2: Yeh-Shen lives with her mean stepmother in ancient China.*\n\nWhat is SIMILAR in both stories?",
+      "choices": [
+        {"id": "a", "label": "Both stories are set in the same country", "correct": false, "explanation": "Story 1 is in a kingdom (probably Europe) and Story 2 is in China — different countries."},
+        {"id": "b", "label": "Both main characters live with a mean stepmother", "correct": true, "explanation": "Yes! Both Cinderella and Yeh-Shen share the same type of problem — a cruel stepmother."},
+        {"id": "c", "label": "Both stories are set in ancient China", "correct": false, "explanation": "Only Story 2 is set in ancient China."},
+        {"id": "d", "label": "Both characters are named Cinderella", "correct": false, "explanation": "Story 2 names the character Yeh-Shen — not Cinderella."}
+      ],
+      "explanation_md": "Both Cinderella and Yeh-Shen live with a mean stepmother — that is a similarity."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two sentences:\n\n*Story 1: Cinderella's fairy godmother gives her a beautiful gown and glass slippers.*  \n*Story 2: Yeh-Shen's magical fish helps her get a beautiful gown and golden shoes.*\n\nWhat is DIFFERENT between the two stories?",
+      "choices": [
+        {"id": "a", "label": "Both stories have a magic helper", "correct": false, "explanation": "That is a SIMILARITY, not a difference."},
+        {"id": "b", "label": "The magic helper is different — a fairy godmother vs. a magical fish", "correct": true, "explanation": "Yes! Both have a magic helper, but the helper is different in each story."},
+        {"id": "c", "label": "Only one story has a beautiful gown", "correct": false, "explanation": "Both stories give the main character a beautiful gown — that is a similarity."},
+        {"id": "d", "label": "Neither story has magic", "correct": false, "explanation": "Both stories have magic — that is the opposite of what is true."}
+      ],
+      "explanation_md": "The magic helper is different: fairy godmother (Story 1) vs. magical fish (Story 2)."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two students compare two Cinderella stories. Maria says: \"Both stories teach that kindness and hard work can lead to a better life.\" Ethan says: \"The endings are different — in one story Cinderella marries a prince, and in the other Yeh-Shen moves to a new kingdom.\" Who is correct?",
+      "choices": [
+        {"id": "a", "label": "Only Maria is correct", "correct": false, "explanation": "Both students are making valid observations — Maria about similarities and Ethan about differences."},
+        {"id": "b", "label": "Only Ethan is correct", "correct": false, "explanation": "Both students are correct — one is comparing (Maria) and the other is contrasting (Ethan)."},
+        {"id": "c", "label": "Both are correct — Maria found a similarity and Ethan found a difference", "correct": true, "explanation": "Yes! Maria is comparing (similar theme) and Ethan is contrasting (different ending)."},
+        {"id": "d", "label": "Neither is correct", "correct": false, "explanation": "Both students are making valid points about similarities and differences."}
+      ],
+      "explanation_md": "Both are correct: Maria found a similarity (theme), Ethan found a difference (ending)."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses a good **signal word** to show a DIFFERENCE between two stories?",
+      "choices": [
+        {"id": "a", "label": "Both stories have a brave main character.", "correct": false, "explanation": "\"Both\" signals a similarity — not a difference."},
+        {"id": "b", "label": "Similarly, both stories end with a celebration.", "correct": false, "explanation": "\"Similarly\" signals a similarity — not a difference."},
+        {"id": "c", "label": "However, the setting in Story 2 is a rain forest instead of a castle.", "correct": true, "explanation": "Yes! \"However\" signals a contrast — a difference between the two stories."},
+        {"id": "d", "label": "Also, the main characters both face danger.", "correct": false, "explanation": "\"Also\" signals another similarity."}
+      ],
+      "explanation_md": "\"However\" is a signal word for showing a DIFFERENCE."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read these two descriptions:\n\n*Version 1 of Little Red Riding Hood: Set in a dark European forest; the wolf tricks grandma.*  \n*Version 2 (Native American style): Set in a prairie; a coyote tricks a grandmother figure.*\n\nWhich story element is MOST different?",
+      "choices": [
+        {"id": "a", "label": "The theme — one is scary, one is happy", "correct": false, "explanation": "Both versions include trickery — the theme is similar. The biggest change is setting and characters."},
+        {"id": "b", "label": "The setting and the trickster character", "correct": true, "explanation": "Yes! The setting changes from European forest to prairie, and the wolf becomes a coyote. These are the biggest differences."},
+        {"id": "c", "label": "The problem — only one has a problem", "correct": false, "explanation": "Both versions have a problem (a trickster causes trouble). The problem is similar."},
+        {"id": "d", "label": "The number of characters", "correct": false, "explanation": "Both versions have a small number of characters — that is not the biggest difference."}
+      ],
+      "explanation_md": "Setting (forest vs. prairie) and the trickster character (wolf vs. coyote) are the biggest differences."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two versions of *The Three Billy Goats Gruff* share the same basic problem (a troll blocks a bridge) but differ in solution: in one the big goat fights the troll, and in the other the goats trick the troll. What story element is SIMILAR and what is DIFFERENT?",
+      "choices": [
+        {"id": "a", "label": "Similar: the solution. Different: the problem.", "correct": false, "explanation": "The problem is the same (troll on bridge), and the solution differs — not the other way around."},
+        {"id": "b", "label": "Similar: the problem. Different: the solution.", "correct": true, "explanation": "Yes! Both stories share the same problem (troll blocks bridge), but the solution — how the goats deal with the troll — differs."},
+        {"id": "c", "label": "Similar: the setting. Different: the characters.", "correct": false, "explanation": "While setting may be similar, the key comparison here is the problem (same) vs. the solution (different)."},
+        {"id": "d", "label": "Both the problem and solution are different in each version.", "correct": false, "explanation": "The problem (troll blocks bridge) is the same in both versions."}
+      ],
+      "explanation_md": "Similar: problem (troll blocks bridge). Different: solution (fight vs. trick)."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student compares two fables. She writes: *\"Both stories have animals. Both teach a lesson. In Story 1, the lesson is that slow and steady wins the race. In Story 2, the lesson is that kindness beats cleverness.\"*\n\nIs the student comparing, contrasting, or both?",
+      "choices": [
+        {"id": "a", "label": "Only comparing — she found no differences", "correct": false, "explanation": "She found differences in the themes — that is contrasting."},
+        {"id": "b", "label": "Only contrasting — she found only differences", "correct": false, "explanation": "She also found similarities (both have animals, both teach lessons) — that is comparing."},
+        {"id": "c", "label": "Both — she found similarities and differences", "correct": true, "explanation": "Yes! She found similarities (animals, lessons) and differences (the specific lessons). That is a complete compare-and-contrast."},
+        {"id": "d", "label": "Neither — she only summarized the stories", "correct": false, "explanation": "She did more than summarize — she actively compared and contrasted the elements."}
+      ],
+      "explanation_md": "She did both: found similarities (animals, lessons) and differences (the specific lessons)."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Story A is set in Japan; Story B is set in Mexico. Both stories have a young girl who must solve a mystery. What is SIMILAR and what is DIFFERENT?",
+      "choices": [
+        {"id": "a", "label": "Similar: the main character (a girl solving a mystery). Different: the setting.", "correct": true, "explanation": "Yes! The main character type is similar; the setting (Japan vs. Mexico) is different."},
+        {"id": "b", "label": "Similar: the setting. Different: the main character.", "correct": false, "explanation": "The settings are different — Japan and Mexico. The main characters (girls solving mysteries) are similar."},
+        {"id": "c", "label": "Both the setting and characters are the same.", "correct": false, "explanation": "The settings are different — Japan and Mexico are not the same place."},
+        {"id": "d", "label": "Both the setting and characters are different.", "correct": false, "explanation": "The characters share a key similarity: both are young girls solving a mystery."}
+      ],
+      "explanation_md": "Similar: main character (girl solving mystery). Different: setting (Japan vs. Mexico)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: \"Both Cinderella stories teach that kindness is rewarded. However, in the French version the magic helper is a fairy, but in the Chinese version the magic helper is a fish.\" Which of these BEST describes what the student did?",
+      "choices": [
+        {"id": "a", "label": "She only compared — she found only similarities", "correct": false, "explanation": "She also contrasted (different magic helpers) — she did both."},
+        {"id": "b", "label": "She compared and contrasted — she found both a similarity and a difference", "correct": true, "explanation": "Yes! She compared the theme (both reward kindness) and contrasted the magic helpers. That is a strong compare-and-contrast."},
+        {"id": "c", "label": "She summarized — she told the whole plot of both stories", "correct": false, "explanation": "She focused on one element at a time — that is comparing and contrasting, not summarizing."},
+        {"id": "d", "label": "She only contrasted — she found only differences", "correct": false, "explanation": "She also found a similarity (the theme). Both comparing and contrasting were done."}
+      ],
+      "explanation_md": "She compared (similar theme) and contrasted (different magic helper). Both skills are shown."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool is MOST helpful for organizing a compare-and-contrast response?",
+      "choices": [
+        {"id": "a", "label": "A timeline", "correct": false, "explanation": "A timeline shows events in order — not similarities and differences."},
+        {"id": "b", "label": "A Venn diagram", "correct": true, "explanation": "Yes! A Venn diagram organizes what is the same (middle) and what is different (outer circles) between two stories."},
+        {"id": "c", "label": "A word web", "correct": false, "explanation": "A word web shows connections to one main idea — not two-story comparisons."},
+        {"id": "d", "label": "A glossary", "correct": false, "explanation": "A glossary defines words — it does not help compare two stories."}
+      ],
+      "explanation_md": "A Venn diagram is the best tool for organizing similarities and differences between two stories."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word **compare** mean?",
+      "choices": [
+        {"id": "a", "label": "Find what is different", "correct": false, "explanation": "Finding differences is called contrasting."},
+        {"id": "b", "label": "Find what is the same", "correct": true, "explanation": "Yes! Comparing means finding what is the same between two things."},
+        {"id": "c", "label": "Write a retelling", "correct": false, "explanation": "A retelling is different from a comparison."},
+        {"id": "d", "label": "Pick the better story", "correct": false, "explanation": "Comparing is about facts — not about which is better."}
+      ],
+      "explanation_md": "Compare = find what is the SAME."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Story 1 is set in a cold mountain. Story 2 is set in a hot desert. What story element is DIFFERENT?",
+      "choices": [
+        {"id": "a", "label": "The characters", "correct": false, "explanation": "We have no information about the characters — the setting is what we are comparing."},
+        {"id": "b", "label": "The setting", "correct": true, "explanation": "Yes! The setting is different — one is a cold mountain and the other is a hot desert."},
+        {"id": "c", "label": "The theme", "correct": false, "explanation": "We do not know the themes — the setting is what is described."},
+        {"id": "d", "label": "The problem", "correct": false, "explanation": "We do not know the problems — the setting is what is described."}
+      ],
+      "explanation_md": "The setting is different: cold mountain vs. hot desert."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence shows a SIMILARITY between two stories?",
+      "choices": [
+        {"id": "a", "label": "Story 1 has a wolf, but Story 2 has a fox.", "correct": false, "explanation": "\"But\" signals a difference — wolf vs. fox are different animals."},
+        {"id": "b", "label": "Both stories have a clever animal as the main character.", "correct": true, "explanation": "Yes! \"Both\" signals a similarity — both stories share a clever animal main character."},
+        {"id": "c", "label": "Story 1 is set in a forest, while Story 2 is set in a city.", "correct": false, "explanation": "\"While\" signals a difference — different settings."},
+        {"id": "d", "label": "Story 1 ends happily, unlike Story 2.", "correct": false, "explanation": "\"Unlike\" signals a difference."}
+      ],
+      "explanation_md": "\"Both stories have a clever animal\" uses the signal word *Both* to show a SIMILARITY."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Story A and Story B both have a character who is afraid of something but faces that fear. What story element is SIMILAR?",
+      "choices": [
+        {"id": "a", "label": "The setting", "correct": false, "explanation": "We do not know the settings — the similarity is in the character's challenge."},
+        {"id": "b", "label": "The problem — a character facing fear", "correct": true, "explanation": "Yes! Both characters face fear — that is a similar problem."},
+        {"id": "c", "label": "The solution — both solve the problem the same way", "correct": false, "explanation": "We are not told the solutions are the same — only that both characters face fear."},
+        {"id": "d", "label": "The theme — they must be different since the books are different", "correct": false, "explanation": "Different books can share the same theme — and the problem (facing fear) is clearly similar here."}
+      ],
+      "explanation_md": "Both characters face fear — the PROBLEM is similar."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which part of a Venn diagram holds information that is ONLY true about Story 2?",
+      "choices": [
+        {"id": "a", "label": "The left circle", "correct": false, "explanation": "The left circle is for Story 1 only — not Story 2."},
+        {"id": "b", "label": "The overlapping middle section", "correct": false, "explanation": "The middle holds what BOTH stories share."},
+        {"id": "c", "label": "The right circle", "correct": true, "explanation": "Yes! The right circle holds what is only true about Story 2."},
+        {"id": "d", "label": "Outside both circles", "correct": false, "explanation": "Outside the circles is not part of either story."}
+      ],
+      "explanation_md": "Right circle = Story 2 only. Left circle = Story 1 only. Middle = both stories."
+    }
+  ]
+}
