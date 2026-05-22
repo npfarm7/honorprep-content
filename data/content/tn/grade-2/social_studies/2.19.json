@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.19",
+  "benchmark_description": "Identify and explain the significance of national symbols, landmarks, and patriotic traditions, including the American flag, the Pledge of Allegiance, and national holidays such as Independence Day, Veterans Day, and Thanksgiving.",
+  "course": "social_studies",
+  "strand": "GOV",
+  "lesson": {
+    "title": "National Symbols and Patriotic Traditions",
+    "intro": "Every country has special symbols and traditions that bring its people together. In the United States, we share symbols like the American flag and traditions like saying the Pledge of Allegiance. These help us show pride in our country and remember what America stands for.",
+    "body_md": "## What Are National Symbols?\n\nNational symbols represent a whole country and its values. The United States has many national symbols that you may recognize.\n\n### The American Flag\n\nThe American flag is one of our most important national symbols. It has:\n- **50 stars** \u2014 one for each state in the country\n- **13 stripes** \u2014 seven red and six white, representing the original 13 colonies\n- **Red, white, and blue colors** \u2014 representing bravery, purity, and justice\n\nWe treat the flag with great respect. We fold it carefully, never let it touch the ground, and raise it high.\n\n### The Pledge of Allegiance\n\nThe Pledge of Allegiance is a promise we make to our country. When we say it, we stand, face the flag, and place our right hand over our heart. It begins: *\"I pledge allegiance to the Flag of the United States of America...\"*\n\nSaying the Pledge reminds us that we are all part of one nation.\n\n### Other National Symbols\n\n| Symbol | What It Represents |\n|---|---|\n| Bald Eagle | Strength and freedom |\n| Liberty Bell | Freedom and independence |\n| Statue of Liberty | Welcome and liberty for all |\n| White House | The home and office of the President |\n\n## National Holidays\n\nNational holidays are special days when the whole country comes together to celebrate or remember something important.\n\n### Independence Day (July 4)\nOn July 4, 1776, the United States declared independence from Britain. We celebrate this birthday of our nation with fireworks, parades, and gatherings with family and friends.\n\n### Veterans Day (November 11)\nVeterans Day honors the men and women who have served in the U.S. military. We thank veterans for protecting our country and our freedoms.\n\n### Thanksgiving\nThanksgiving is celebrated on the fourth Thursday of November. It began as a harvest celebration and a time to give thanks. Today, families gather to share a meal and express gratitude.\n\n### Memorial Day\nMemorial Day (last Monday of May) remembers soldiers who gave their lives protecting our country.\n\n## Patriotic Traditions in Tennessee\n\nTennesseans celebrate national holidays just like everyone else in the country. Many Tennessee towns hold Fourth of July parades and fireworks. Veterans Day ceremonies are held at war memorials across the state, including the Tennessee War Memorial in Nashville.",
+    "worked_example_md": "**Question:** Why do we say the Pledge of Allegiance?\n\n**Think it through:**\n- The Pledge is a promise \u2014 we pledge, or promise, to be loyal to the United States.\n- We say it to show that we are part of one nation, even though we come from different communities.\n- It reminds us of the values America stands for: liberty and justice for all.\n\n**Answer:** We say the Pledge of Allegiance as a way to show respect for our country and to promise to be loyal to the United States. It reminds us that all Americans share the same country and its values.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many stars are on the American flag?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "13",
+          "correct": false,
+          "explanation": "13 is the number of stripes, not stars."
+        },
+        {
+          "id": "b",
+          "label": "50",
+          "correct": true,
+          "explanation": "There are 50 stars \u2014 one for each state in the U.S."
+        },
+        {
+          "id": "c",
+          "label": "48",
+          "correct": false,
+          "explanation": "The U.S. has 50 states, so there are 50 stars."
+        },
+        {
+          "id": "d",
+          "label": "100",
+          "correct": false,
+          "explanation": "The flag has 50 stars, one for each state."
+        }
+      ],
+      "explanation_md": "The American flag has **50 stars**, one for each of the 50 states in the United States."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What do we do when we say the Pledge of Allegiance?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sit down and be quiet",
+          "correct": false,
+          "explanation": "We stand up, not sit down."
+        },
+        {
+          "id": "b",
+          "label": "Stand, face the flag, and put our right hand over our heart",
+          "correct": true,
+          "explanation": "This is how we show respect when saying the Pledge."
+        },
+        {
+          "id": "c",
+          "label": "Wave the flag above our heads",
+          "correct": false,
+          "explanation": "We do not wave the flag \u2014 we put our hand over our heart."
+        },
+        {
+          "id": "d",
+          "label": "Sing a song about freedom",
+          "correct": false,
+          "explanation": "The Pledge is a spoken promise, not a song."
+        }
+      ],
+      "explanation_md": "When we say the Pledge, we **stand, face the flag, and place our right hand over our heart** to show respect."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which national holiday celebrates the birthday of the United States?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Veterans Day",
+          "correct": false,
+          "explanation": "Veterans Day honors people who served in the military."
+        },
+        {
+          "id": "b",
+          "label": "Thanksgiving",
+          "correct": false,
+          "explanation": "Thanksgiving is a harvest celebration and time of gratitude."
+        },
+        {
+          "id": "c",
+          "label": "Independence Day",
+          "correct": true,
+          "explanation": "Independence Day (July 4) celebrates when the U.S. declared independence in 1776."
+        },
+        {
+          "id": "d",
+          "label": "Memorial Day",
+          "correct": false,
+          "explanation": "Memorial Day honors soldiers who died serving the country."
+        }
+      ],
+      "explanation_md": "**Independence Day (July 4)** celebrates when the United States declared independence from Britain in 1776 \u2014 the birthday of our nation."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What do the 13 stripes on the American flag represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The 13 presidents",
+          "correct": false,
+          "explanation": "The stripes do not represent presidents."
+        },
+        {
+          "id": "b",
+          "label": "The original 13 colonies",
+          "correct": true,
+          "explanation": "The 13 stripes honor the first 13 colonies that became states."
+        },
+        {
+          "id": "c",
+          "label": "The 13 largest states",
+          "correct": false,
+          "explanation": "The stripes are not about the largest states."
+        },
+        {
+          "id": "d",
+          "label": "The 13 national holidays",
+          "correct": false,
+          "explanation": "There are more than 13 national holidays."
+        }
+      ],
+      "explanation_md": "The **13 stripes** on the flag represent the **original 13 colonies** that declared independence and became the first states."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Veterans Day is a holiday to honor \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "people who grow food for the country",
+          "correct": false,
+          "explanation": "Veterans are not specifically farmers \u2014 they are military service members."
+        },
+        {
+          "id": "b",
+          "label": "men and women who have served in the military",
+          "correct": true,
+          "explanation": "Veterans Day thanks those who served in the U.S. armed forces."
+        },
+        {
+          "id": "c",
+          "label": "the founders who signed the Declaration of Independence",
+          "correct": false,
+          "explanation": "Independence Day, not Veterans Day, is connected to the Declaration."
+        },
+        {
+          "id": "d",
+          "label": "families who share a Thanksgiving meal",
+          "correct": false,
+          "explanation": "That describes Thanksgiving, not Veterans Day."
+        }
+      ],
+      "explanation_md": "**Veterans Day** honors men and women who have served in the United States military. We thank them for protecting our country."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The bald eagle is a national symbol of the United States. What does it represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Friendship and kindness",
+          "correct": false,
+          "explanation": "The bald eagle represents strength and freedom, not friendship."
+        },
+        {
+          "id": "b",
+          "label": "Strength and freedom",
+          "correct": true,
+          "explanation": "The bald eagle was chosen as a symbol of American strength and freedom."
+        },
+        {
+          "id": "c",
+          "label": "Hard work and farming",
+          "correct": false,
+          "explanation": "The bald eagle is not a symbol of farming or hard work."
+        },
+        {
+          "id": "d",
+          "label": "Peace and rest",
+          "correct": false,
+          "explanation": "The bald eagle represents strength, not peace."
+        }
+      ],
+      "explanation_md": "The **bald eagle** is the national bird and symbol of the United States. It represents **strength and freedom**."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is the Pledge of Allegiance important?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It tells people what laws to follow",
+          "correct": false,
+          "explanation": "Laws are in the Constitution, not the Pledge."
+        },
+        {
+          "id": "b",
+          "label": "It shows loyalty and reminds us we are all part of one nation",
+          "correct": true,
+          "explanation": "The Pledge is a promise of loyalty and unity for all Americans."
+        },
+        {
+          "id": "c",
+          "label": "It lists all 50 states in order",
+          "correct": false,
+          "explanation": "The Pledge does not list states."
+        },
+        {
+          "id": "d",
+          "label": "It explains who can vote in elections",
+          "correct": false,
+          "explanation": "Voting rules are not in the Pledge."
+        }
+      ],
+      "explanation_md": "The Pledge of Allegiance is important because it shows **loyalty** to the United States and reminds us that all Americans are **part of one nation**."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is explaining why we celebrate Thanksgiving. Which statement best explains the origin of the holiday?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Thanksgiving began as a day to honor soldiers who died in wars.",
+          "correct": false,
+          "explanation": "That describes Memorial Day, not Thanksgiving."
+        },
+        {
+          "id": "b",
+          "label": "Thanksgiving began as a harvest celebration and a time to give thanks.",
+          "correct": true,
+          "explanation": "Thanksgiving's origins are as a harvest celebration and expression of gratitude."
+        },
+        {
+          "id": "c",
+          "label": "Thanksgiving started when the U.S. won independence from Britain.",
+          "correct": false,
+          "explanation": "That describes Independence Day. Thanksgiving has different origins."
+        },
+        {
+          "id": "d",
+          "label": "Thanksgiving was created to welcome immigrants to America.",
+          "correct": false,
+          "explanation": "Thanksgiving's origins are rooted in a harvest celebration, not welcoming immigrants."
+        }
+      ],
+      "explanation_md": "**Thanksgiving** began as a **harvest celebration** and a time to give thanks. Today, it's a day for families to gather and express gratitude."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How are national symbols and national holidays similar?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both change every year to include new events.",
+          "correct": false,
+          "explanation": "Neither national symbols nor holidays change every year."
+        },
+        {
+          "id": "b",
+          "label": "Both help unite Americans and remind us of shared values and history.",
+          "correct": true,
+          "explanation": "Symbols and holidays both strengthen national identity and shared heritage."
+        },
+        {
+          "id": "c",
+          "label": "Both were created only by people who lived in Tennessee.",
+          "correct": false,
+          "explanation": "Symbols and holidays represent all Americans, not just Tennesseans."
+        },
+        {
+          "id": "d",
+          "label": "Both only apply to people who serve in the military.",
+          "correct": false,
+          "explanation": "Symbols and holidays apply to all Americans, not only military members."
+        }
+      ],
+      "explanation_md": "National symbols and national holidays are similar because both help **unite Americans** and remind us of our **shared values, history, and identity**."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student says, \"The American flag has changed over the years.\" Which piece of evidence best supports this statement?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The colors of the flag have been changed to match each state's favorite color.",
+          "correct": false,
+          "explanation": "The flag's colors (red, white, and blue) have not changed."
+        },
+        {
+          "id": "b",
+          "label": "New stars were added to the flag each time a new state joined the United States.",
+          "correct": true,
+          "explanation": "The flag started with 13 stars and grew to 50 as each new state joined."
+        },
+        {
+          "id": "c",
+          "label": "The number of stripes changes every 10 years to match the newest census.",
+          "correct": false,
+          "explanation": "The stripes have stayed at 13 since the early United States \u2014 they do not change."
+        },
+        {
+          "id": "d",
+          "label": "The flag's design is voted on by citizens every four years.",
+          "correct": false,
+          "explanation": "Citizens do not vote to change the flag every four years."
+        }
+      ],
+      "explanation_md": "The flag changed over time because **new stars were added each time a new state joined**. It started with 13 stars (for the original colonies) and now has 50 stars for all 50 states."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which national symbol represents freedom and welcomes people to America?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The White House",
+          "correct": false,
+          "explanation": "The White House is where the President lives and works."
+        },
+        {
+          "id": "b",
+          "label": "The Liberty Bell",
+          "correct": false,
+          "explanation": "The Liberty Bell is a symbol of freedom, but not specifically of welcoming people."
+        },
+        {
+          "id": "c",
+          "label": "The Statue of Liberty",
+          "correct": true,
+          "explanation": "The Statue of Liberty is a famous symbol of welcome and liberty for all."
+        },
+        {
+          "id": "d",
+          "label": "The American flag",
+          "correct": false,
+          "explanation": "The flag represents the nation, but the Statue of Liberty is the symbol of welcome."
+        }
+      ],
+      "explanation_md": "The **Statue of Liberty** stands as a symbol of **welcome and liberty**. It has greeted millions of people arriving in America."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How does celebrating national holidays help a community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It helps people earn more money for their work.",
+          "correct": false,
+          "explanation": "National holidays are about connection and remembrance, not earning money."
+        },
+        {
+          "id": "b",
+          "label": "It brings people together and reminds them of their shared history.",
+          "correct": true,
+          "explanation": "Holidays create community bonds and connect people to their shared past."
+        },
+        {
+          "id": "c",
+          "label": "It tells people which laws they must follow.",
+          "correct": false,
+          "explanation": "Laws are separate from holidays."
+        },
+        {
+          "id": "d",
+          "label": "It decides which people become community leaders.",
+          "correct": false,
+          "explanation": "Leaders are not chosen through holidays."
+        }
+      ],
+      "explanation_md": "Celebrating national holidays **brings people together** and helps communities **remember and honor their shared history**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher asks students to explain why national symbols are important. Which answer is best?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They tell us which state is the most important.",
+          "correct": false,
+          "explanation": "No state is more important than another \u2014 symbols represent the whole country."
+        },
+        {
+          "id": "b",
+          "label": "They represent the country's values and help people feel connected to their nation.",
+          "correct": true,
+          "explanation": "Symbols unify citizens and stand for shared values like freedom and justice."
+        },
+        {
+          "id": "c",
+          "label": "They show people where the country's borders are located.",
+          "correct": false,
+          "explanation": "Maps show borders \u2014 symbols represent values and identity."
+        },
+        {
+          "id": "d",
+          "label": "They list the rules that citizens must obey.",
+          "correct": false,
+          "explanation": "Laws and constitutions list rules \u2014 symbols represent values and pride."
+        }
+      ],
+      "explanation_md": "National symbols are important because they **represent the country's values** (like freedom and justice) and help all citizens feel **connected to their nation**."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What colors are on the American flag?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Red, white, and blue",
+          "correct": true,
+          "explanation": "The American flag is red, white, and blue."
+        },
+        {
+          "id": "b",
+          "label": "Green, yellow, and black",
+          "correct": false,
+          "explanation": "Those are not the colors of the American flag."
+        },
+        {
+          "id": "c",
+          "label": "Purple, orange, and white",
+          "correct": false,
+          "explanation": "The American flag does not have purple or orange."
+        },
+        {
+          "id": "d",
+          "label": "Blue and gold",
+          "correct": false,
+          "explanation": "The American flag has three colors: red, white, and blue."
+        }
+      ],
+      "explanation_md": "The American flag has three colors: **red, white, and blue**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which holiday do Americans celebrate on July 4?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Veterans Day",
+          "correct": false,
+          "explanation": "Veterans Day is November 11."
+        },
+        {
+          "id": "b",
+          "label": "Independence Day",
+          "correct": true,
+          "explanation": "July 4 is Independence Day \u2014 the birthday of the United States."
+        },
+        {
+          "id": "c",
+          "label": "Thanksgiving",
+          "correct": false,
+          "explanation": "Thanksgiving is in November, not July."
+        },
+        {
+          "id": "d",
+          "label": "Memorial Day",
+          "correct": false,
+          "explanation": "Memorial Day is in May."
+        }
+      ],
+      "explanation_md": "**Independence Day** is celebrated on **July 4**. It is the birthday of the United States."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does the Pledge of Allegiance ask us to do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Promise to be loyal to the United States",
+          "correct": true,
+          "explanation": "A pledge is a promise \u2014 we promise loyalty to our country."
+        },
+        {
+          "id": "b",
+          "label": "Learn the names of all 50 states",
+          "correct": false,
+          "explanation": "The Pledge is a promise of loyalty, not a list of states."
+        },
+        {
+          "id": "c",
+          "label": "Vote for a new president",
+          "correct": false,
+          "explanation": "Voting and the Pledge are separate things."
+        },
+        {
+          "id": "d",
+          "label": "Sing the national anthem",
+          "correct": false,
+          "explanation": "The Pledge is spoken, not sung. The national anthem is a different tradition."
+        }
+      ],
+      "explanation_md": "The Pledge of Allegiance asks us to **promise to be loyal** to the United States."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Veterans Day honors \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "people who cooked the first Thanksgiving meal",
+          "correct": false,
+          "explanation": "Veterans Day is about military service, not Thanksgiving."
+        },
+        {
+          "id": "b",
+          "label": "people who have served in the U.S. military",
+          "correct": true,
+          "explanation": "Veterans are people who have served in the military, and Veterans Day honors them."
+        },
+        {
+          "id": "c",
+          "label": "people who wrote the Declaration of Independence",
+          "correct": false,
+          "explanation": "Veterans Day is not specifically about the founders."
+        },
+        {
+          "id": "d",
+          "label": "people who build our schools and roads",
+          "correct": false,
+          "explanation": "Veterans Day honors military service members, not construction workers."
+        }
+      ],
+      "explanation_md": "**Veterans Day** honors people who have **served in the U.S. military**."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Look at the list: American flag, bald eagle, Liberty Bell, Statue of Liberty. What do all of these have in common?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They are all found only in Tennessee.",
+          "correct": false,
+          "explanation": "These are national symbols \u2014 they represent the whole United States."
+        },
+        {
+          "id": "b",
+          "label": "They are all national symbols of the United States.",
+          "correct": true,
+          "explanation": "All of these are symbols that represent the United States."
+        },
+        {
+          "id": "c",
+          "label": "They are all national holidays.",
+          "correct": false,
+          "explanation": "These are symbols, not holidays."
+        },
+        {
+          "id": "d",
+          "label": "They are all animals.",
+          "correct": false,
+          "explanation": "Only the bald eagle is an animal \u2014 the others are objects or structures."
+        }
+      ],
+      "explanation_md": "The flag, bald eagle, Liberty Bell, and Statue of Liberty are all **national symbols** \u2014 they represent the entire United States."
+    }
+  ]
+}
