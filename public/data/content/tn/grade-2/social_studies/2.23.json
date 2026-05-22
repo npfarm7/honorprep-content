@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.23",
+  "benchmark_description": "Explain basic financial literacy concepts, including earning money through work, spending, saving, and the importance of making wise choices about using money.",
+  "course": "social_studies",
+  "strand": "ECO",
+  "lesson": {
+    "title": "Earning, Spending, and Saving Money",
+    "intro": "Money is something we use every day. People earn money by working, and then they can use that money to buy things they need and want. But money does not grow on trees \u2014 it is limited! That means we have to make smart choices about how to use it.",
+    "body_md": "## How People Earn Money\n\nPeople earn money by **working**. When someone works \u2014 at a job, a farm, a store, or their own business \u2014 they receive money in return for their time and effort.\n\n**Examples of earning money:**\n- A parent earns a paycheck from their job.\n- A child earns allowance by doing chores.\n- A farmer earns money by selling crops.\n- A store owner earns money by selling products.\n\n## What You Can Do With Money\n\nOnce someone earns money, they can make choices about what to do with it. There are three main choices:\n\n### 1. Spend\n**Spending** means using money to buy goods (things) and services (work done for you).\n\n- Buying food at a grocery store = spending\n- Paying for a haircut = spending on a service\n- Buying a toy = spending\n\n### 2. Save\n**Saving** means keeping money to use later instead of spending it right away.\n\n- Putting money in a piggy bank = saving\n- Depositing money in a bank account = saving\n- Saving to buy something expensive later = delayed spending\n\n### 3. Give (Donate)\nSome people choose to share their money with others \u2014 giving to a church, a charity, or someone in need.\n\n## Needs vs. Wants (Review)\n\nMaking wise money choices starts with knowing the difference:\n\n| Needs | Wants |\n|---|---|\n| Food | Candy or snacks |\n| Clothing | New sneakers when old ones still work |\n| Shelter | A video game |\n| Basic healthcare | A movie ticket |\n\nSmart money users **pay for needs first**, then use what is left for wants.\n\n## Making Wise Money Choices\n\nWise money choices help people meet their goals. Some tips:\n\n1. **Make a plan (budget)**: Know how much money you have and decide how to split it between saving and spending.\n2. **Think before you buy**: Ask yourself, \"Do I really need this? Can I wait?\"\n3. **Save for big goals**: If you want something expensive, save a little money over time.\n4. **Avoid impulse buying**: Don't spend money just because something looks fun \u2014 think first.\n\n## Why Saving Matters\n\nSaving money is important because:\n- It lets you buy things that cost more than you earn at one time.\n- It helps in emergencies (if something breaks or you have an unexpected need).\n- It helps you reach goals \u2014 like a bicycle, a trip, or college.\n\n**Example**: Marcus earns $5 per week for doing chores. He wants a new book that costs $15. If he saves $5 each week for 3 weeks, he can buy the book without needing to borrow money.\n\n## Tennessee Connections\n\nIn Tennessee communities, people earn money in many ways \u2014 working in factories, farms, restaurants, hospitals, schools, and businesses. Tennessee families make spending and saving choices just like families everywhere in the country. Learning to make wise money choices is a skill that helps Tennesseans throughout their lives.",
+    "worked_example_md": "**Question:** Sofia earns $8 helping a neighbor with yard work. She wants to buy a book for $5 and save the rest. How much will Sofia save?\n\n**Think it through:**\n- Sofia earned: $8\n- Sofia will spend on the book: $5\n- Amount saved: $8 - $5 = $3\n\n**Answer:** Sofia will **save $3**. By spending $5 on the book and saving $3, she is making a plan to use her money for both a want (the book) and saving for the future.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How do most people earn money?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "By finding it on the street",
+          "correct": false,
+          "explanation": "Money is typically earned through work, not found."
+        },
+        {
+          "id": "b",
+          "label": "By working at a job or doing tasks",
+          "correct": true,
+          "explanation": "People earn money by working \u2014 at jobs, farms, businesses, or by doing tasks."
+        },
+        {
+          "id": "c",
+          "label": "By wishing for it",
+          "correct": false,
+          "explanation": "Money is earned through effort and work, not wishes."
+        },
+        {
+          "id": "d",
+          "label": "By going to school",
+          "correct": false,
+          "explanation": "School prepares people to work, but going to school alone does not earn money."
+        }
+      ],
+      "explanation_md": "Most people earn money by **working** \u2014 at a job, on a farm, in a business, or doing tasks for others."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to \"save\" money?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To spend all your money at once",
+          "correct": false,
+          "explanation": "Spending all at once is the opposite of saving."
+        },
+        {
+          "id": "b",
+          "label": "To keep money to use later instead of spending it right away",
+          "correct": true,
+          "explanation": "Saving means setting money aside for future use."
+        },
+        {
+          "id": "c",
+          "label": "To give money away to friends",
+          "correct": false,
+          "explanation": "That describes donating or sharing, not saving."
+        },
+        {
+          "id": "d",
+          "label": "To borrow money from someone else",
+          "correct": false,
+          "explanation": "Borrowing is taking money from someone else \u2014 saving is keeping your own money."
+        }
+      ],
+      "explanation_md": "**Saving** means **keeping money to use later** instead of spending it right away \u2014 like putting money in a piggy bank or bank account."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of spending money?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Putting coins in a piggy bank",
+          "correct": false,
+          "explanation": "Putting money in a piggy bank is saving, not spending."
+        },
+        {
+          "id": "b",
+          "label": "Buying a sandwich at a restaurant",
+          "correct": true,
+          "explanation": "Paying for food at a restaurant is spending \u2014 using money to get something."
+        },
+        {
+          "id": "c",
+          "label": "Earning money by raking leaves",
+          "correct": false,
+          "explanation": "Raking leaves for pay is earning, not spending."
+        },
+        {
+          "id": "d",
+          "label": "Receiving a birthday gift of cash",
+          "correct": false,
+          "explanation": "Receiving cash is income, not spending."
+        }
+      ],
+      "explanation_md": "**Buying a sandwich at a restaurant** is an example of **spending** \u2014 using money to purchase a good or service."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Aisha has $10. She needs to buy lunch for $4. After buying lunch, how much does she have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "$4",
+          "correct": false,
+          "explanation": "$4 was spent on lunch. $10 - $4 = $6."
+        },
+        {
+          "id": "b",
+          "label": "$6",
+          "correct": true,
+          "explanation": "$10 - $4 = $6 remaining."
+        },
+        {
+          "id": "c",
+          "label": "$14",
+          "correct": false,
+          "explanation": "You subtract what you spend, not add it."
+        },
+        {
+          "id": "d",
+          "label": "$2",
+          "correct": false,
+          "explanation": "$10 - $4 = $6, not $2."
+        }
+      ],
+      "explanation_md": "$10 - $4 = **$6**. After buying lunch, Aisha has $6 left."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Tyler wants to buy a toy that costs $12. He earns $3 each week doing chores. How many weeks will he need to save to buy the toy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2 weeks",
+          "correct": false,
+          "explanation": "2 weeks \u00d7 $3 = $6, which is not enough for the $12 toy."
+        },
+        {
+          "id": "b",
+          "label": "4 weeks",
+          "correct": true,
+          "explanation": "4 weeks \u00d7 $3 = $12 \u2014 exactly enough to buy the toy."
+        },
+        {
+          "id": "c",
+          "label": "6 weeks",
+          "correct": false,
+          "explanation": "6 weeks \u00d7 $3 = $18 \u2014 more than needed. 4 weeks is enough."
+        },
+        {
+          "id": "d",
+          "label": "12 weeks",
+          "correct": false,
+          "explanation": "12 weeks \u00d7 $3 = $36 \u2014 far more than the $12 toy costs."
+        }
+      ],
+      "explanation_md": "Tyler earns $3 per week. $12 \u00f7 $3 = **4 weeks** to save enough to buy the toy."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to pay for needs before spending money on wants?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because wants are always more expensive than needs.",
+          "correct": false,
+          "explanation": "Wants are not always more expensive \u2014 but needs are essential for survival."
+        },
+        {
+          "id": "b",
+          "label": "Because needs are necessary for survival and well-being, while wants are extras.",
+          "correct": true,
+          "explanation": "Needs (food, shelter, clothing) are essential; wants are nice to have but not required."
+        },
+        {
+          "id": "c",
+          "label": "Because wants are against the law.",
+          "correct": false,
+          "explanation": "Buying wants is legal \u2014 but it should come after meeting needs."
+        },
+        {
+          "id": "d",
+          "label": "Because everyone must spend money on needs first by law.",
+          "correct": false,
+          "explanation": "There is no law \u2014 but wise money management prioritizes needs."
+        }
+      ],
+      "explanation_md": "Needs (like food, shelter, and clothing) are **necessary for survival** \u2014 spending on wants before meeting needs can leave people without essentials."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student has $20. She decides to save $10, spend $7 on a book, and give $3 to a food bank. Which of these BEST describes her money plan?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She spent all her money on things she wants.",
+          "correct": false,
+          "explanation": "She divided her money between saving, spending, and giving \u2014 not all on wants."
+        },
+        {
+          "id": "b",
+          "label": "She divided her money between saving, spending, and giving.",
+          "correct": true,
+          "explanation": "Splitting money this way shows a balanced, thoughtful money plan."
+        },
+        {
+          "id": "c",
+          "label": "She only saved her money and bought nothing.",
+          "correct": false,
+          "explanation": "She spent and gave money as well as saved \u2014 not only saved."
+        },
+        {
+          "id": "d",
+          "label": "She borrowed money from a friend.",
+          "correct": false,
+          "explanation": "She used her own $20 \u2014 she did not borrow money."
+        }
+      ],
+      "explanation_md": "The student **divided her $20 between saving, spending, and giving** \u2014 a balanced and thoughtful money plan."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is an \"impulse buy\"?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Buying something you planned and saved for",
+          "correct": false,
+          "explanation": "That is a planned purchase, not an impulse buy."
+        },
+        {
+          "id": "b",
+          "label": "Spending money quickly on something without thinking it through",
+          "correct": true,
+          "explanation": "An impulse buy is unplanned \u2014 buying something suddenly without considering if it's wise."
+        },
+        {
+          "id": "c",
+          "label": "Saving money in a bank account",
+          "correct": false,
+          "explanation": "Saving is the opposite of impulsive spending."
+        },
+        {
+          "id": "d",
+          "label": "Buying only things that are needs",
+          "correct": false,
+          "explanation": "Wise shopping is the opposite of impulse buying."
+        }
+      ],
+      "explanation_md": "An **impulse buy** is **spending money quickly without thinking it through** \u2014 buying something because it looks fun, not because you planned for it."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A family's car breaks down unexpectedly and they need $200 for repairs. They had $300 in savings. How does their savings help them?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The savings makes the repair cost less.",
+          "correct": false,
+          "explanation": "Savings doesn't change the cost \u2014 it just means they have the money available."
+        },
+        {
+          "id": "b",
+          "label": "The savings allows them to pay for the unexpected repair without borrowing money.",
+          "correct": true,
+          "explanation": "Having savings means they can handle emergencies without going into debt."
+        },
+        {
+          "id": "c",
+          "label": "The savings means the car does not need repairs.",
+          "correct": false,
+          "explanation": "Savings is money, not a mechanical fix for a car."
+        },
+        {
+          "id": "d",
+          "label": "The savings causes the problem to go away.",
+          "correct": false,
+          "explanation": "Savings provides financial security, not solutions to mechanical problems."
+        }
+      ],
+      "explanation_md": "Their savings **allows them to pay for the unexpected repair without borrowing money** \u2014 this is why saving is important for handling emergencies."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Two children each earn $10. Child A spends it all right away. Child B saves $5 and spends $5. After four weeks, who has more money saved and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Child A has more saved because he spent less per week.",
+          "correct": false,
+          "explanation": "Child A spent everything \u2014 he has nothing saved."
+        },
+        {
+          "id": "b",
+          "label": "Child B has more saved because she consistently saved part of her earnings each week.",
+          "correct": true,
+          "explanation": "Saving $5/week for 4 weeks = $20 saved. Child A has $0 saved."
+        },
+        {
+          "id": "c",
+          "label": "Both children have the same amount saved.",
+          "correct": false,
+          "explanation": "Child A saved $0; Child B saved $20 \u2014 these are different amounts."
+        },
+        {
+          "id": "d",
+          "label": "Child A has more saved because he earned more money.",
+          "correct": false,
+          "explanation": "Both earned the same amount \u2014 Child A just didn't save any of it."
+        }
+      ],
+      "explanation_md": "After 4 weeks, **Child B has $20 saved** (4 weeks \u00d7 $5/week) while **Child A has $0** \u2014 this shows that **consistently saving part of your earnings builds wealth over time**."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of making a wise money choice?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Spending all your birthday money on candy the same day you receive it.",
+          "correct": false,
+          "explanation": "Spending all money at once on only candy is not a wise money choice."
+        },
+        {
+          "id": "b",
+          "label": "Saving half of your birthday money and spending the other half on something you need.",
+          "correct": true,
+          "explanation": "Saving half and spending wisely shows good money management."
+        },
+        {
+          "id": "c",
+          "label": "Borrowing money from a friend to buy something you want.",
+          "correct": false,
+          "explanation": "Borrowing for a want is not a wise money choice \u2014 it creates debt."
+        },
+        {
+          "id": "d",
+          "label": "Spending money on wants before buying needed school supplies.",
+          "correct": false,
+          "explanation": "Needs should come before wants in wise money management."
+        }
+      ],
+      "explanation_md": "**Saving half and spending half on something needed** is a wise money choice \u2014 it balances current needs with future goals."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jordan earns $6 per week. He wants to save $24 to buy new headphones. How many weeks will he need to save ALL of his earnings?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2 weeks",
+          "correct": false,
+          "explanation": "2 \u00d7 $6 = $12, not $24."
+        },
+        {
+          "id": "b",
+          "label": "4 weeks",
+          "correct": true,
+          "explanation": "4 \u00d7 $6 = $24 \u2014 exactly the amount he needs."
+        },
+        {
+          "id": "c",
+          "label": "6 weeks",
+          "correct": false,
+          "explanation": "6 \u00d7 $6 = $36 \u2014 more than needed. 4 weeks is enough."
+        },
+        {
+          "id": "d",
+          "label": "8 weeks",
+          "correct": false,
+          "explanation": "8 \u00d7 $6 = $48 \u2014 too many weeks."
+        }
+      ],
+      "explanation_md": "$24 \u00f7 $6/week = **4 weeks** of saving all earnings to afford the headphones."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it helpful to make a spending and saving plan (budget) before using your money?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because a budget guarantees you will always have enough money.",
+          "correct": false,
+          "explanation": "A budget helps you manage money wisely but doesn't guarantee unlimited funds."
+        },
+        {
+          "id": "b",
+          "label": "Because a budget helps you decide how to divide your money between needs, wants, and savings before spending it.",
+          "correct": true,
+          "explanation": "Planning how to use money before spending it leads to wiser choices."
+        },
+        {
+          "id": "c",
+          "label": "Because a budget means you never have to work again.",
+          "correct": false,
+          "explanation": "Budgeting is a money management tool \u2014 it doesn't replace earning money."
+        },
+        {
+          "id": "d",
+          "label": "Because a budget forces you to give away all your money.",
+          "correct": false,
+          "explanation": "A budget divides money between needs, wants, and savings \u2014 not gives it all away."
+        }
+      ],
+      "explanation_md": "A **budget** helps you **plan how to divide your money** between needs, wants, and savings **before spending it** \u2014 leading to wiser, more intentional choices."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Maya does chores each week and her parents pay her $4. This $4 is her \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "spending",
+          "correct": false,
+          "explanation": "Spending is using money. Maya received money \u2014 that is earning."
+        },
+        {
+          "id": "b",
+          "label": "earnings",
+          "correct": true,
+          "explanation": "Money received for doing work is called earnings."
+        },
+        {
+          "id": "c",
+          "label": "savings",
+          "correct": false,
+          "explanation": "Savings is money set aside \u2014 Maya just received money for work."
+        },
+        {
+          "id": "d",
+          "label": "a loan",
+          "correct": false,
+          "explanation": "A loan is borrowed money. Maya earned this money by working."
+        }
+      ],
+      "explanation_md": "Money received for doing work is called **earnings**. Maya earned $4 by doing chores."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is an example of saving money?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Buying candy at the store",
+          "correct": false,
+          "explanation": "Buying candy is spending, not saving."
+        },
+        {
+          "id": "b",
+          "label": "Putting money in a piggy bank to use later",
+          "correct": true,
+          "explanation": "Storing money to use later is saving."
+        },
+        {
+          "id": "c",
+          "label": "Giving money to a friend as a birthday gift",
+          "correct": false,
+          "explanation": "Giving money away is donating, not saving."
+        },
+        {
+          "id": "d",
+          "label": "Borrowing money from a parent",
+          "correct": false,
+          "explanation": "Borrowing is receiving money temporarily \u2014 not saving."
+        }
+      ],
+      "explanation_md": "**Putting money in a piggy bank to use later** is an example of **saving**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Caleb has $8. He spends $3 on a snack. How much does he have left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "$3",
+          "correct": false,
+          "explanation": "$8 - $3 = $5, not $3."
+        },
+        {
+          "id": "b",
+          "label": "$5",
+          "correct": true,
+          "explanation": "$8 - $3 = $5 remaining."
+        },
+        {
+          "id": "c",
+          "label": "$11",
+          "correct": false,
+          "explanation": "You subtract the amount spent: $8 - $3 = $5."
+        },
+        {
+          "id": "d",
+          "label": "$6",
+          "correct": false,
+          "explanation": "$8 - $3 = $5, not $6."
+        }
+      ],
+      "explanation_md": "$8 - $3 = **$5**. Caleb has $5 left after buying the snack."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a NEED?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A video game",
+          "correct": false,
+          "explanation": "A video game is a want \u2014 it is fun but not necessary for survival."
+        },
+        {
+          "id": "b",
+          "label": "Food to eat",
+          "correct": true,
+          "explanation": "Food is a need \u2014 people must eat to survive."
+        },
+        {
+          "id": "c",
+          "label": "A new toy",
+          "correct": false,
+          "explanation": "A toy is a want \u2014 entertaining but not a survival necessity."
+        },
+        {
+          "id": "d",
+          "label": "A movie ticket",
+          "correct": false,
+          "explanation": "A movie ticket is a want \u2014 enjoyable but not a basic need."
+        }
+      ],
+      "explanation_md": "**Food to eat** is a **need** \u2014 it is something people must have to survive."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is saving money a good idea?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So you never have to work again",
+          "correct": false,
+          "explanation": "Saving helps you meet goals and handle emergencies, not replace all future work."
+        },
+        {
+          "id": "b",
+          "label": "So you have money for emergencies and future goals",
+          "correct": true,
+          "explanation": "Savings provides security for unexpected events and helps reach long-term goals."
+        },
+        {
+          "id": "c",
+          "label": "Because spending money is not allowed",
+          "correct": false,
+          "explanation": "Spending is a normal part of using money \u2014 but saving is also important."
+        },
+        {
+          "id": "d",
+          "label": "Because money expires if you do not save it",
+          "correct": false,
+          "explanation": "Money does not expire \u2014 but saving it helps you plan for the future."
+        }
+      ],
+      "explanation_md": "Saving money is good because it provides **money for emergencies and future goals** \u2014 helping you be prepared for unexpected needs."
+    }
+  ]
+}
