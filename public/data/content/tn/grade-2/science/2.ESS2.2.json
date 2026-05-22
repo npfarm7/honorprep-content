@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.ESS2.2",
+  "benchmark_description": "Map the shapes and kinds of land and bodies of water in an area and where water is found on Earth.",
+  "course": "science",
+  "strand": "ESS",
+  "lesson": {
+    "title": "Land, Water, and Maps",
+    "intro": "Earth is covered with different kinds of land and water. Scientists use maps to show where all these features are. Let's learn to read maps and find out where water is found on Earth!",
+    "body_md": "## Kinds of Land\n\nLand comes in many shapes and sizes:\n\n| Land feature | What it is |\n|---|---|\n| **Mountain** | Very tall land that rises up high |\n| **Hill** | Smaller raised land, not as tall as a mountain |\n| **Valley** | Low land between hills or mountains |\n| **Plain** | Flat, wide area of low land |\n| **Island** | Land completely surrounded by water |\n| **Peninsula** | Land almost completely surrounded by water, connected on one side |\n\n## Bodies of Water\n\n| Water body | What it is |\n|---|---|\n| **Ocean** | The largest body of salt water on Earth |\n| **Lake** | A body of water completely surrounded by land |\n| **River** | Water that flows in a long path from higher land to lower land |\n| **Pond** | A small, still body of water |\n| **Bay** | Part of an ocean or lake that curves into the land |\n| **Stream** | A small, flowing body of water |\n\n## Reading Maps\n\nMaps use colors and symbols to show land and water:\n- **Blue** = water (oceans, rivers, lakes)\n- **Green** = low land (plains, valleys)\n- **Brown or orange** = high land (mountains, hills)\n- **Map symbols**: triangles for mountains, wavy lines for water\n\n## Where Is Water on Earth?\n\n- Most of Earth's water is in the **oceans** (salt water)\n- Freshwater is found in **rivers**, **lakes**, **ponds**, **glaciers** (ice), and **underground**\n- Most drinking water comes from rivers, lakes, and underground sources\n\n**Key idea:** Scientists use maps with symbols and colors to record where different types of land and water are found on Earth.",
+    "worked_example_md": "## Worked Example: Reading a Simple Map\n\n**Question:** A student looks at a map of a region. The map shows:\n- A large blue area on the left side\n- A blue winding line going from right to left\n- A brown triangle in the upper right\n- A flat green area in the middle\n\nWhat land and water features does this map show?\n\n**Reading the map:**\n- Large blue area on the left = **ocean**\n- Blue winding line from right to left = **river** (flowing toward the ocean)\n- Brown triangle in upper right = **mountain**\n- Flat green area in the middle = **plain**\n\n**Map description:** This region has an ocean on the western coast, a mountain in the northeast, a plain in the center, and a river flowing from the mountain across the plain and into the ocean.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "On a map, what does the color BLUE usually represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Mountains and high land",
+          "correct": false,
+          "explanation": "Mountains and high land are usually shown in brown or orange on maps."
+        },
+        {
+          "id": "b",
+          "label": "Water (oceans, rivers, lakes)",
+          "correct": true,
+          "explanation": "Blue is the standard color for water on most maps \u2014 oceans, rivers, lakes, and ponds."
+        },
+        {
+          "id": "c",
+          "label": "Forests and green areas",
+          "correct": false,
+          "explanation": "Forests are shown in green. Water is shown in blue."
+        },
+        {
+          "id": "d",
+          "label": "Cities and roads",
+          "correct": false,
+          "explanation": "Cities and roads are shown with special symbols like dots and lines. Blue represents water."
+        }
+      ],
+      "explanation_md": "Blue represents water on maps \u2014 including oceans, rivers, lakes, and ponds. This is a standard map convention."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a lake?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A body of water that flows from mountains to the sea",
+          "correct": false,
+          "explanation": "That describes a river. A lake is still water surrounded by land."
+        },
+        {
+          "id": "b",
+          "label": "A large body of salt water covering most of Earth",
+          "correct": false,
+          "explanation": "That describes an ocean. A lake is smaller and is usually surrounded by land."
+        },
+        {
+          "id": "c",
+          "label": "A body of water completely surrounded by land",
+          "correct": true,
+          "explanation": "A lake is water with land all around it. It can be small (like a pond) or large (like Lake Michigan)."
+        },
+        {
+          "id": "d",
+          "label": "A small stream running through a forest",
+          "correct": false,
+          "explanation": "That describes a stream. A lake is a body of still water surrounded by land."
+        }
+      ],
+      "explanation_md": "A lake is a body of water completely surrounded by land. It can range from a small pond to a very large body of water like the Great Lakes."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student draws a map. She uses a winding blue line to show a feature that starts in the mountains and flows down to the ocean. What feature is she showing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A lake",
+          "correct": false,
+          "explanation": "A lake does not flow. It is still water surrounded by land."
+        },
+        {
+          "id": "b",
+          "label": "A river",
+          "correct": true,
+          "explanation": "A river is a flowing body of water that often starts at higher ground (like mountains) and flows downhill to a larger body of water like an ocean or lake."
+        },
+        {
+          "id": "c",
+          "label": "A mountain",
+          "correct": false,
+          "explanation": "Mountains are high land, not water. They are shown with brown or orange on maps, not blue winding lines."
+        },
+        {
+          "id": "d",
+          "label": "A peninsula",
+          "correct": false,
+          "explanation": "A peninsula is a land feature \u2014 land almost surrounded by water. It would not be shown as a winding blue line."
+        }
+      ],
+      "explanation_md": "A winding blue line flowing from mountains to the ocean represents a river. Rivers flow downhill from high areas to lower areas."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student studies a map and sees: a large brown triangle, a flat green area around it, and a blue winding line starting near the triangle. What does this map show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A lake, a plain, and a river",
+          "correct": false,
+          "explanation": "A brown triangle represents a mountain, not a lake. A lake would be a blue oval or shape."
+        },
+        {
+          "id": "b",
+          "label": "A mountain, a plain, and a river starting near the mountain",
+          "correct": true,
+          "explanation": "Brown triangle = mountain. Flat green area = plain. Blue winding line starting near the mountain = river flowing from the mountain."
+        },
+        {
+          "id": "c",
+          "label": "An ocean, a hill, and a stream",
+          "correct": false,
+          "explanation": "The large blue area would be an ocean, but here the large area is green (plain). The triangle is a mountain, not a hill."
+        },
+        {
+          "id": "d",
+          "label": "A valley, an island, and a pond",
+          "correct": false,
+          "explanation": "Valleys are low areas between mountains. Islands are land surrounded by water. None of those match the description."
+        }
+      ],
+      "explanation_md": "Brown triangle = mountain. Flat green area = plain. Blue winding line starting near the mountain = river. This map shows a mountain, a plain, and a river starting near the mountain."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Most of Earth's water is found in the oceans. Why can people NOT easily drink ocean water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because ocean water is too cold",
+          "correct": false,
+          "explanation": "Temperature is not the reason people cannot drink ocean water. The water temperature varies around the world."
+        },
+        {
+          "id": "b",
+          "label": "Because ocean water is salty \u2014 people need freshwater to drink",
+          "correct": true,
+          "explanation": "Ocean water contains large amounts of salt. Drinking salt water is harmful to humans. People need freshwater from rivers, lakes, and underground sources."
+        },
+        {
+          "id": "c",
+          "label": "Because oceans are too far from where people live",
+          "correct": false,
+          "explanation": "Many people live near oceans, but they still cannot drink the salty water."
+        },
+        {
+          "id": "d",
+          "label": "Because ocean water moves and cannot be collected",
+          "correct": false,
+          "explanation": "Ocean water can be collected. The problem is that it is salty, not that it moves."
+        }
+      ],
+      "explanation_md": "Ocean water is salty, and humans cannot drink salt water. People need freshwater, which comes from rivers, lakes, ponds, and underground sources."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is an island?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very tall land that rises up from the ground",
+          "correct": false,
+          "explanation": "That describes a mountain. An island is land surrounded by water."
+        },
+        {
+          "id": "b",
+          "label": "Land completely surrounded by water",
+          "correct": true,
+          "explanation": "An island is a piece of land with water all around it \u2014 like Hawaii or Manhattan."
+        },
+        {
+          "id": "c",
+          "label": "A body of water completely surrounded by land",
+          "correct": false,
+          "explanation": "That describes a lake. An island is the opposite \u2014 land surrounded by water."
+        },
+        {
+          "id": "d",
+          "label": "Low, flat land between two mountains",
+          "correct": false,
+          "explanation": "That describes a valley. An island is land surrounded by water."
+        }
+      ],
+      "explanation_md": "An island is a piece of land completely surrounded by water. Examples include the Hawaiian Islands and the island of Manhattan."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student maps her neighborhood. She marks: a flat area where houses are built, a small body of still water with ducks, and a low area between two hills where a road runs. What features is she mapping?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A plain, a pond, and a valley",
+          "correct": true,
+          "explanation": "Flat area where houses are built = plain. Small still body of water with ducks = pond. Low area between two hills = valley. All three are correctly identified."
+        },
+        {
+          "id": "b",
+          "label": "A mountain, a lake, and an island",
+          "correct": false,
+          "explanation": "Mountains are very tall (not flat). Lakes are bigger than ponds. Islands are surrounded by water. None of these fit the description."
+        },
+        {
+          "id": "c",
+          "label": "An ocean, a river, and a plain",
+          "correct": false,
+          "explanation": "An ocean is huge. A river flows and does not stand still. These do not match."
+        },
+        {
+          "id": "d",
+          "label": "A peninsula, a bay, and a hill",
+          "correct": false,
+          "explanation": "A peninsula is land almost surrounded by water. A bay curves into land. These do not match the description."
+        }
+      ],
+      "explanation_md": "Flat area with houses = plain. Small still water body with ducks = pond. Low area between hills = valley. All three are correctly matched."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Where do most rivers start?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In the ocean",
+          "correct": false,
+          "explanation": "Rivers flow INTO oceans, not from them. Rivers start at higher ground."
+        },
+        {
+          "id": "b",
+          "label": "At higher ground like mountains or hills, where water flows downhill",
+          "correct": true,
+          "explanation": "Rivers begin at higher elevations (mountains or hills) where rain collects and water flows downhill due to gravity."
+        },
+        {
+          "id": "c",
+          "label": "In the middle of plains",
+          "correct": false,
+          "explanation": "Plains are flat lowland areas. Rivers may flow across plains but typically start at higher ground."
+        },
+        {
+          "id": "d",
+          "label": "In underground caves",
+          "correct": false,
+          "explanation": "Some rivers do emerge from underground springs, but most rivers start at higher ground where rainwater collects and flows down."
+        }
+      ],
+      "explanation_md": "Rivers start at higher ground (like mountains or hills) where rainwater collects and flows downhill due to gravity, eventually reaching the ocean or a lake."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student makes a map of a coastal area and uses symbols and colors. The ocean is on one side, a river flows from mountains to the ocean, and there is a bay where the river meets the ocean. A student uses blue for water and brown triangles for mountains. What color and symbol should she use for the bay?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Brown triangle, because the bay is near the mountains",
+          "correct": false,
+          "explanation": "The bay is water, not land. It should be shown in blue, not brown."
+        },
+        {
+          "id": "b",
+          "label": "Blue, because the bay is part of the ocean (water)",
+          "correct": true,
+          "explanation": "A bay is where part of the ocean curves into the land. It is water, so it should be shown in blue \u2014 the same color as the ocean."
+        },
+        {
+          "id": "c",
+          "label": "Green, because bays are covered with plants",
+          "correct": false,
+          "explanation": "Green represents land (plants). A bay is water, not land, so it should be blue."
+        },
+        {
+          "id": "d",
+          "label": "No color \u2014 bays do not need to be shown on maps",
+          "correct": false,
+          "explanation": "Bays are important water features shown on maps. They would be shown in blue."
+        }
+      ],
+      "explanation_md": "A bay is a body of water (part of an ocean or lake that curves into the land). It should be shown in blue on a map, just like the ocean and rivers."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student's map shows a region with two large blue areas separated by a narrow strip of land. Ships travel through a narrow water passage between the two large water bodies. What features does this map show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Two lakes and a mountain between them",
+          "correct": false,
+          "explanation": "Two lakes would be water bodies surrounded by land on all sides. The narrow strip of land between two large water bodies sounds like a different feature."
+        },
+        {
+          "id": "b",
+          "label": "Two oceans (or large water bodies) with a narrow strip of land (isthmus) and a water passage (strait) between them",
+          "correct": true,
+          "explanation": "Two large blue areas = two large bodies of water. Narrow strip of land between them = isthmus. Narrow water passage for ships = strait. This is a classic coastal map description."
+        },
+        {
+          "id": "c",
+          "label": "Two rivers flowing into each other",
+          "correct": false,
+          "explanation": "Two rivers joining would show two blue lines coming together, not two large blue areas."
+        },
+        {
+          "id": "d",
+          "label": "An island surrounded by one ocean",
+          "correct": false,
+          "explanation": "An island would be a land shape surrounded by one body of water. This map shows TWO large water bodies."
+        }
+      ],
+      "explanation_md": "Two large water bodies separated by a narrow strip of land is a classic map feature. The land strip is called an isthmus, and the narrow water passage between the two large water bodies is called a strait."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student's map uses: blue oval shapes, brown triangles, flat green areas, and blue winding lines. Which correctly matches the symbols to features?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Blue ovals = mountains, brown triangles = lakes, green areas = rivers",
+          "correct": false,
+          "explanation": "This is backwards. Blue represents water (lakes), and brown triangles represent mountains."
+        },
+        {
+          "id": "b",
+          "label": "Blue ovals = lakes, brown triangles = mountains, green areas = plains, blue winding lines = rivers",
+          "correct": true,
+          "explanation": "Blue = water (ovals are lakes, winding lines are rivers). Brown triangles = mountains. Flat green areas = plains. All correctly matched."
+        },
+        {
+          "id": "c",
+          "label": "Brown triangles = valleys, blue winding lines = mountains, green areas = oceans",
+          "correct": false,
+          "explanation": "Triangles represent mountains (high land), not valleys. Winding blue lines are rivers, not mountains. Oceans are large blue areas, not green."
+        },
+        {
+          "id": "d",
+          "label": "Blue ovals = deserts, green areas = oceans, brown triangles = plains",
+          "correct": false,
+          "explanation": "Deserts are not typically shown in blue. Oceans are large blue areas, not green. Brown triangles represent mountains, not plains."
+        }
+      ],
+      "explanation_md": "Blue ovals = lakes. Brown triangles = mountains. Flat green areas = plains. Blue winding lines = rivers. These are standard map conventions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to find freshwater for a town that needs drinking water. She looks at a map. Which water feature should she look for?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The ocean \u2014 because it has the most water",
+          "correct": false,
+          "explanation": "Oceans have the most water on Earth, but it is salt water. People cannot drink salt water."
+        },
+        {
+          "id": "b",
+          "label": "A river or lake \u2014 because they contain freshwater",
+          "correct": true,
+          "explanation": "Rivers and lakes contain freshwater that, when treated, can be used for drinking. Oceans are salty and cannot be drunk without expensive processing."
+        },
+        {
+          "id": "c",
+          "label": "A mountain \u2014 because mountains have the most water",
+          "correct": false,
+          "explanation": "Mountains are land, not water. Freshwater comes from rivers, lakes, and underground sources."
+        },
+        {
+          "id": "d",
+          "label": "A plain \u2014 because plains are wet",
+          "correct": false,
+          "explanation": "Plains are flat land areas. Freshwater is found in rivers, lakes, and underground sources."
+        }
+      ],
+      "explanation_md": "Rivers and lakes contain freshwater that can be used for drinking when properly treated. Oceans are salty and not suitable for drinking without desalination."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the difference between a lake and a river?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Lakes are blue; rivers are green",
+          "correct": false,
+          "explanation": "Both lakes and rivers are shown in blue on maps. The difference is in their shape and movement."
+        },
+        {
+          "id": "b",
+          "label": "A lake is still water surrounded by land; a river is flowing water that moves from higher to lower ground",
+          "correct": true,
+          "explanation": "Lakes are still bodies of water enclosed by land. Rivers flow continuously from higher ground (mountains or hills) to lower ground (ocean, lake)."
+        },
+        {
+          "id": "c",
+          "label": "Lakes are smaller than rivers",
+          "correct": false,
+          "explanation": "Lakes can actually be very large (like Lake Superior). Size is not the defining difference."
+        },
+        {
+          "id": "d",
+          "label": "Rivers are always near mountains; lakes are always near the ocean",
+          "correct": false,
+          "explanation": "Rivers and lakes can be found in many different locations. Location near mountains or oceans is not the defining difference."
+        }
+      ],
+      "explanation_md": "A lake is still water completely surrounded by land. A river is flowing water that moves from higher ground to lower ground. This is the key difference."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What color represents water on most maps?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Blue",
+          "correct": true,
+          "explanation": "Blue is the standard color for water on maps \u2014 oceans, rivers, lakes, and ponds are all shown in blue."
+        },
+        {
+          "id": "b",
+          "label": "Green",
+          "correct": false,
+          "explanation": "Green represents land (plants and forests) on maps. Water is shown in blue."
+        },
+        {
+          "id": "c",
+          "label": "Brown",
+          "correct": false,
+          "explanation": "Brown or orange represents high land (mountains and hills). Water is shown in blue."
+        },
+        {
+          "id": "d",
+          "label": "Red",
+          "correct": false,
+          "explanation": "Red is sometimes used for roads or borders on maps. Water is always shown in blue."
+        }
+      ],
+      "explanation_md": "Blue is the standard color for water on maps. Oceans, rivers, lakes, and ponds are all shown in blue."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a river?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A body of water surrounded by land on all sides",
+          "correct": false,
+          "explanation": "That describes a lake. A river flows and has banks (sides) but is not surrounded on all sides."
+        },
+        {
+          "id": "b",
+          "label": "Water that flows in a long path from higher land to lower land",
+          "correct": true,
+          "explanation": "A river is flowing water that moves downhill from higher land (like mountains) to lower areas (like the ocean or a lake)."
+        },
+        {
+          "id": "c",
+          "label": "A very large body of salt water",
+          "correct": false,
+          "explanation": "That describes an ocean. A river is flowing freshwater, not a large salt water body."
+        },
+        {
+          "id": "d",
+          "label": "A flat area of land where people live",
+          "correct": false,
+          "explanation": "That describes a plain. A river is water, not land."
+        }
+      ],
+      "explanation_md": "A river is flowing water that moves downhill from higher land to lower land. Rivers are shown as winding blue lines on maps."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student sees a brown triangle on a map. What does it represent?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A lake",
+          "correct": false,
+          "explanation": "Lakes are shown as blue shapes on maps. Brown triangles represent mountains."
+        },
+        {
+          "id": "b",
+          "label": "A mountain",
+          "correct": true,
+          "explanation": "Brown triangles are a common symbol for mountains on maps. Mountains are high land."
+        },
+        {
+          "id": "c",
+          "label": "A river",
+          "correct": false,
+          "explanation": "Rivers are shown as winding blue lines on maps. Brown triangles represent mountains."
+        },
+        {
+          "id": "d",
+          "label": "A plain",
+          "correct": false,
+          "explanation": "Plains are flat areas shown in green on maps. Brown triangles represent mountains."
+        }
+      ],
+      "explanation_md": "Brown triangles are a common map symbol for mountains \u2014 high areas of land that rise up above the surrounding area."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is an ocean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A large body of water completely surrounded by land",
+          "correct": false,
+          "explanation": "That describes a lake. An ocean is a vast body of salt water that surrounds the continents."
+        },
+        {
+          "id": "b",
+          "label": "The largest body of salt water on Earth, covering much of Earth's surface",
+          "correct": true,
+          "explanation": "Oceans are the largest bodies of water on Earth. They cover about 71% of Earth's surface and are filled with salt water."
+        },
+        {
+          "id": "c",
+          "label": "Water that flows from mountains to low areas",
+          "correct": false,
+          "explanation": "That describes a river. Oceans are large, mostly still bodies of salt water."
+        },
+        {
+          "id": "d",
+          "label": "A small body of still water in a park",
+          "correct": false,
+          "explanation": "That describes a pond. Oceans are massive \u2014 much larger than any pond."
+        }
+      ],
+      "explanation_md": "Oceans are the largest bodies of water on Earth. They are filled with salt water and cover about 71% of Earth's surface."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student's map has: a large blue area, a blue winding line, and a flat green area. Which features does the map show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An ocean, a river, and a plain",
+          "correct": true,
+          "explanation": "Large blue area = ocean. Blue winding line = river. Flat green area = plain. These are correctly matched to the colors and shapes."
+        },
+        {
+          "id": "b",
+          "label": "A lake, a mountain, and a forest",
+          "correct": false,
+          "explanation": "A mountain would be a brown triangle, not a blue winding line. A lake would be a blue oval shape, not a large blue area."
+        },
+        {
+          "id": "c",
+          "label": "An island, a pond, and a valley",
+          "correct": false,
+          "explanation": "Islands are shown as land shapes surrounded by blue water. This map's features do not match islands, ponds, and valleys."
+        },
+        {
+          "id": "d",
+          "label": "A river, a plain, and a hill",
+          "correct": false,
+          "explanation": "A hill would not be shown as a large blue area. Large blue areas represent oceans or large lakes."
+        }
+      ],
+      "explanation_md": "Large blue area = ocean. Blue winding line = river. Flat green area = plain. These are standard map conventions."
+    }
+  ]
+}
