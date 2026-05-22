@@ -1,0 +1,632 @@
+{
+  "skill_id": "2.SL.CC.1",
+  "benchmark_description": "Participate in collaborative conversations with diverse partners about grade 2 topics and texts with peers and adults in small and large groups. Follow agreed-upon rules for discussions; build on others' talk by linking comments to the remarks of others; ask for clarification and further explanation as needed.",
+  "course": "ela",
+  "strand": "SL",
+  "lesson": {
+    "title": "Taking Turns and Building on Ideas in Discussion",
+    "objective": "Students will participate in collaborative discussions by following agreed-upon rules, building on others' comments, and asking questions for clarification.",
+    "overview": "When we talk with others about books, topics, or ideas, we are having a discussion. Good discussion partners listen carefully, take turns speaking, build on what others say, and ask questions when they do not understand. These rules help everyone learn and share ideas.",
+    "key_concepts": [
+      "Collaborative conversation: a discussion where everyone shares ideas respectfully",
+      "Discussion rules: agreed-upon ways to take turns and listen (raise hand, look at the speaker, wait your turn)",
+      "Building on talk: connecting your idea to what someone else said (e.g., 'I agree with Maya because...' or 'That makes me think of...')",
+      "Clarifying question: a question you ask when you do not understand something (e.g., 'Can you explain what you mean?' or 'What do you mean by...?')"
+    ],
+    "examples": [
+      {
+        "label": "Building on a classmate's comment",
+        "text": "Classmate: 'I think the main character was brave because she crossed the bridge alone.' | You: 'I agree with Jaylen \u2014 and I think she was also brave at the end when she stood up for her friend.'"
+      },
+      {
+        "label": "Asking for clarification",
+        "text": "Classmate: 'The story had a lot of tension.' | You: 'Can you explain what you mean by tension? I want to make sure I understand.'"
+      }
+    ],
+    "common_errors": [
+      "Interrupting a speaker before they are finished",
+      "Only sharing your own idea without connecting to what others said",
+      "Not asking when you do not understand"
+    ]
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should you do when a classmate is speaking during a discussion?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Talk to your neighbor",
+          "correct": false,
+          "explanation": "Talking to your neighbor while someone is speaking is disrespectful and distracting."
+        },
+        {
+          "id": "B",
+          "label": "Listen carefully and look at the speaker",
+          "correct": true,
+          "explanation": "Good discussion partners listen carefully and give eye contact to the speaker."
+        },
+        {
+          "id": "C",
+          "label": "Start writing your own idea",
+          "correct": false,
+          "explanation": "Writing during someone's turn means you are not listening \u2014 wait until it is your turn."
+        },
+        {
+          "id": "D",
+          "label": "Raise your hand and interrupt",
+          "correct": false,
+          "explanation": "Raising your hand is correct, but you should wait \u2014 not interrupt \u2014 until the speaker is done."
+        }
+      ],
+      "explanation_md": "**Active listening** \u2014 looking at the speaker and focusing on their words \u2014 is the first rule of a good collaborative discussion."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which action follows discussion rules?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Shouting your answer before the teacher finishes the question",
+          "correct": false,
+          "explanation": "Shouting out breaks discussion rules \u2014 wait to be called on."
+        },
+        {
+          "id": "B",
+          "label": "Raising your hand and waiting to be called on",
+          "correct": true,
+          "explanation": "Raising your hand and waiting your turn follows agreed-upon discussion rules."
+        },
+        {
+          "id": "C",
+          "label": "Telling your neighbor the answer while someone else is talking",
+          "correct": false,
+          "explanation": "Side conversations during discussion break the rules \u2014 wait for your turn."
+        },
+        {
+          "id": "D",
+          "label": "Leaving the discussion when you disagree",
+          "correct": false,
+          "explanation": "Leaving is not a discussion rule \u2014 staying and respectfully sharing your view is."
+        }
+      ],
+      "explanation_md": "Discussion rules include raising your hand, waiting to be called on, and listening while others speak. These help the whole group share ideas fairly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: *'I agree with Marcus, and I think the wolf was also mean to the pigs because he scared them away from their homes.'*\n\nWhat is this student doing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Interrupting Marcus",
+          "correct": false,
+          "explanation": "The student is not interrupting \u2014 they referenced Marcus's comment and added to it."
+        },
+        {
+          "id": "B",
+          "label": "Building on Marcus's comment by linking their idea to what he said",
+          "correct": true,
+          "explanation": "Starting with 'I agree with Marcus' shows the student listened and is building on his comment."
+        },
+        {
+          "id": "C",
+          "label": "Asking Marcus a clarifying question",
+          "correct": false,
+          "explanation": "The student is adding an idea, not asking a question."
+        },
+        {
+          "id": "D",
+          "label": "Changing the topic of the discussion",
+          "correct": false,
+          "explanation": "The student is staying on the same topic (the wolf) and adding a new detail."
+        }
+      ],
+      "explanation_md": "**Building on talk** means connecting your idea to what a classmate said. Phrases like 'I agree with ___' or 'That makes me think of...' show you are listening and adding to the discussion."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Your classmate says, 'The text had a lot of implicit meaning.' You do not understand the words 'implicit meaning.' What should you do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Pretend you understand and say nothing",
+          "correct": false,
+          "explanation": "Pretending to understand does not help you learn \u2014 ask for clarification."
+        },
+        {
+          "id": "B",
+          "label": "Ask your classmate to explain what 'implicit meaning' means",
+          "correct": true,
+          "explanation": "Asking for clarification helps you understand and shows you are engaged in the discussion."
+        },
+        {
+          "id": "C",
+          "label": "Change the topic so you do not have to think about it",
+          "correct": false,
+          "explanation": "Changing the topic avoids the issue instead of seeking understanding."
+        },
+        {
+          "id": "D",
+          "label": "Tell the teacher your classmate used a wrong word",
+          "correct": false,
+          "explanation": "Asking for clarification is more productive than telling the teacher the classmate was wrong."
+        }
+      ],
+      "explanation_md": "Asking a **clarifying question** (like 'Can you explain what you mean?') shows you are listening and helps you understand. It is a good discussion skill."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which response BEST builds on a classmate's idea?\n\nClassmate said: *'I think the author wrote this book to teach us about being kind.'*",
+      "choices": [
+        {
+          "id": "A",
+          "label": "My favorite color is blue.",
+          "correct": false,
+          "explanation": "This does not connect to the classmate's idea at all."
+        },
+        {
+          "id": "B",
+          "label": "I agree \u2014 and the scene where Maria shares her lunch shows that message best.",
+          "correct": true,
+          "explanation": "This builds on the classmate's idea by agreeing AND adding specific text evidence to support the point."
+        },
+        {
+          "id": "C",
+          "label": "I already knew that.",
+          "correct": false,
+          "explanation": "This does not add any new idea or connection to the discussion."
+        },
+        {
+          "id": "D",
+          "label": "That's wrong \u2014 the book is about sharing.",
+          "correct": false,
+          "explanation": "Sharing IS being kind \u2014 this response contradicts without adding to the idea. Respectful disagreement would acknowledge the classmate's idea first."
+        }
+      ],
+      "explanation_md": "The strongest discussion responses **agree or disagree respectfully** and add **specific evidence** or reasoning that connects to what the previous speaker said."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **clarifying question** someone might ask in a book discussion?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I liked the book.",
+          "correct": false,
+          "explanation": "This is a statement of opinion, not a clarifying question."
+        },
+        {
+          "id": "B",
+          "label": "What do you mean when you say the ending was surprising?",
+          "correct": true,
+          "explanation": "This is a clarifying question \u2014 it asks the speaker to explain their idea more fully."
+        },
+        {
+          "id": "C",
+          "label": "The main character is named Sofia.",
+          "correct": false,
+          "explanation": "This is a statement of fact, not a clarifying question."
+        },
+        {
+          "id": "D",
+          "label": "Let me add to that by saying the author uses vivid imagery.",
+          "correct": false,
+          "explanation": "This is building on talk \u2014 adding to an idea \u2014 not asking a clarifying question."
+        }
+      ],
+      "explanation_md": "A **clarifying question** asks someone to explain or expand on what they said. It usually starts with 'What do you mean by...?' or 'Can you say more about...?'"
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A group is discussing their science reading about weather. Leo talks for five minutes without stopping. What should Leo do to be a better discussion partner?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Talk even longer so he can share all his ideas",
+          "correct": false,
+          "explanation": "Monopolizing the conversation is not a discussion rule \u2014 everyone deserves a turn."
+        },
+        {
+          "id": "B",
+          "label": "Pause, invite others to respond, and take turns speaking",
+          "correct": true,
+          "explanation": "Good discussion partners give others a chance to speak by pausing, asking questions, and not dominating the conversation."
+        },
+        {
+          "id": "C",
+          "label": "Stop talking completely for the rest of class",
+          "correct": false,
+          "explanation": "Participation is important \u2014 Leo should share, but leave room for others too."
+        },
+        {
+          "id": "D",
+          "label": "Only speak when the teacher calls on him",
+          "correct": false,
+          "explanation": "Collaborative discussions involve everyone \u2014 not just teacher-directed turns \u2014 but sharing should be balanced."
+        }
+      ],
+      "explanation_md": "Good discussion partners **share the floor** \u2014 they speak and then pause so others can respond. Balanced participation helps everyone contribute."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "During a discussion about a story, your classmate says something you disagree with. What is the BEST way to respond?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Say 'That's totally wrong!' loudly.",
+          "correct": false,
+          "explanation": "This is disrespectful \u2014 disagreement should be expressed calmly and with reasons."
+        },
+        {
+          "id": "B",
+          "label": "Stay quiet and say nothing so no conflict starts.",
+          "correct": false,
+          "explanation": "Staying silent when you disagree misses a chance to contribute your perspective respectfully."
+        },
+        {
+          "id": "C",
+          "label": "Say 'I see it differently \u2014 I think... because...'",
+          "correct": true,
+          "explanation": "This respectfully signals disagreement and explains your reasoning \u2014 a strong discussion move."
+        },
+        {
+          "id": "D",
+          "label": "Interrupt your classmate before they finish.",
+          "correct": false,
+          "explanation": "Interrupting is not respectful \u2014 wait for them to finish before responding."
+        }
+      ],
+      "explanation_md": "Respectful disagreement uses phrases like **'I see it differently'** or **'I'm not sure I agree because...'** followed by reasoning. This keeps the discussion productive."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read this exchange:\n\nStudent A: 'The author repeated the phrase \"stay brave\" to remind us of the theme.'\nStudent B: 'Building on what you said \u2014 I noticed the author used that phrase three times, always when the character faced a hard choice.'\n\nWhat is Student B doing?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Changing the subject",
+          "correct": false,
+          "explanation": "Student B is on the same subject \u2014 the phrase and the theme."
+        },
+        {
+          "id": "B",
+          "label": "Building on Student A's comment with specific text evidence",
+          "correct": true,
+          "explanation": "Student B connects to Student A's point ('Building on what you said') and adds specific evidence (three times, hard choices) \u2014 strong discussion technique."
+        },
+        {
+          "id": "C",
+          "label": "Asking a clarifying question",
+          "correct": false,
+          "explanation": "Student B is adding information, not asking a question."
+        },
+        {
+          "id": "D",
+          "label": "Disagreeing with Student A",
+          "correct": false,
+          "explanation": "Student B is agreeing and extending Student A's idea, not disagreeing."
+        }
+      ],
+      "explanation_md": "**Building on talk** means acknowledging what someone said and adding new supporting detail. Using the phrase 'Building on what you said...' is a strong discussion move."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which discussion behavior shows ALL three skills: following rules, building on talk, and asking for clarification?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Shouting an answer, repeating what a classmate said, and asking a question loudly",
+          "correct": false,
+          "explanation": "Shouting breaks discussion rules \u2014 good discussion involves patient, respectful participation."
+        },
+        {
+          "id": "B",
+          "label": "Raising your hand, saying 'I agree with Jade and want to add...' then asking 'Can you explain what you meant by interesting setting?'",
+          "correct": true,
+          "explanation": "Raising hand = following rules. 'I agree with Jade...' = building on talk. 'Can you explain...?' = clarifying question. All three skills shown."
+        },
+        {
+          "id": "C",
+          "label": "Listening quietly, saying 'I agree,' and never asking anything",
+          "correct": false,
+          "explanation": "This shows listening and some agreement, but lacks building on talk and asking for clarification."
+        },
+        {
+          "id": "D",
+          "label": "Speaking first without waiting, adding a new topic, then asking an off-topic question",
+          "correct": false,
+          "explanation": "Speaking without waiting breaks rules, adding a new topic doesn't build on talk, and an off-topic question is not a clarifying question."
+        }
+      ],
+      "explanation_md": "Strong discussion partners **follow rules** (raise hand, wait), **build on talk** (connect their ideas to others'), and **ask clarifying questions** when they need more explanation."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which phrase is the BEST way to build on a classmate's comment?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Whatever.",
+          "correct": false,
+          "explanation": "This is dismissive and does not engage with the classmate's idea."
+        },
+        {
+          "id": "B",
+          "label": "That's what I was going to say.",
+          "correct": false,
+          "explanation": "This does not add anything new or connect specifically to the classmate's comment."
+        },
+        {
+          "id": "C",
+          "label": "Adding to what Priya said, I also think the character changed because of the storm scene.",
+          "correct": true,
+          "explanation": "This names the classmate, builds on their point, and adds a new specific idea \u2014 all hallmarks of strong discussion talk."
+        },
+        {
+          "id": "D",
+          "label": "My turn now.",
+          "correct": false,
+          "explanation": "This only claims a turn without connecting to or building on anyone's ideas."
+        }
+      ],
+      "explanation_md": "To **build on talk**, reference the classmate by name, connect to their idea, and add a new thought or piece of evidence."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When is the BEST time to ask a clarifying question?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Before anyone has spoken",
+          "correct": false,
+          "explanation": "There is nothing to clarify before anyone has spoken."
+        },
+        {
+          "id": "B",
+          "label": "When you do not understand something a classmate said",
+          "correct": true,
+          "explanation": "Ask a clarifying question when you need a speaker to explain or expand on what they said."
+        },
+        {
+          "id": "C",
+          "label": "To interrupt a classmate mid-sentence",
+          "correct": false,
+          "explanation": "Interrupting is not a good discussion rule \u2014 wait until the speaker is finished."
+        },
+        {
+          "id": "D",
+          "label": "Only when the teacher tells you to ask one",
+          "correct": false,
+          "explanation": "Clarifying questions come naturally from the discussion \u2014 you do not need teacher permission to ask one."
+        }
+      ],
+      "explanation_md": "Ask a **clarifying question** whenever you are unsure what a speaker meant. This shows you are listening and helps the whole group understand."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A small group is discussing a story. Read what happens:\n\n- Kenji interrupts before others finish.\n- He does not reference what anyone said.\n- He never asks questions.\n\nWhich description BEST fits Kenji's discussion behavior?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "He is following all discussion rules.",
+          "correct": false,
+          "explanation": "Kenji is breaking rules (interrupting), not building on talk, and not asking questions \u2014 he is NOT following discussion rules."
+        },
+        {
+          "id": "B",
+          "label": "He is building on talk and asking clarifying questions.",
+          "correct": false,
+          "explanation": "He is not building on others' comments and is not asking questions."
+        },
+        {
+          "id": "C",
+          "label": "He is not following discussion rules, not building on talk, and not asking clarifying questions.",
+          "correct": true,
+          "explanation": "Kenji breaks all three skills: he interrupts (rules), ignores others' comments (building on talk), and asks no questions (clarification)."
+        },
+        {
+          "id": "D",
+          "label": "He is an excellent discussion partner.",
+          "correct": false,
+          "explanation": "An excellent discussion partner listens, takes turns, builds on talk, and asks questions \u2014 Kenji does none of these."
+        }
+      ],
+      "explanation_md": "Strong discussion partners follow rules, build on what others say, and ask clarifying questions. Kenji is not demonstrating any of these skills."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should you do when it is someone else's turn to speak?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Listen carefully",
+          "correct": true,
+          "explanation": "When it is someone else's turn, listen carefully so you understand their idea."
+        },
+        {
+          "id": "B",
+          "label": "Talk at the same time",
+          "correct": false,
+          "explanation": "Talking at the same time is interrupting \u2014 wait for your turn."
+        },
+        {
+          "id": "C",
+          "label": "Think about something else",
+          "correct": false,
+          "explanation": "Thinking about other things means you are not listening \u2014 you need to focus on the speaker."
+        },
+        {
+          "id": "D",
+          "label": "Walk away",
+          "correct": false,
+          "explanation": "Leaving the discussion is not respectful or productive."
+        }
+      ],
+      "explanation_md": "When it is someone else's turn to speak, **listen carefully**. This helps you understand their idea so you can build on it when it is your turn."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a good discussion rule?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Talk whenever you want",
+          "correct": false,
+          "explanation": "Taking turns is a discussion rule \u2014 talking whenever you want interrupts others."
+        },
+        {
+          "id": "B",
+          "label": "Raise your hand and wait to be called on",
+          "correct": true,
+          "explanation": "Raising your hand and waiting is a key discussion rule \u2014 it makes sure everyone gets a turn."
+        },
+        {
+          "id": "C",
+          "label": "Only the loudest voice wins",
+          "correct": false,
+          "explanation": "Volume is not how discussion works \u2014 everyone's ideas matter."
+        },
+        {
+          "id": "D",
+          "label": "Only the teacher can talk",
+          "correct": false,
+          "explanation": "Collaborative discussions include all students sharing ideas, not just the teacher."
+        }
+      ],
+      "explanation_md": "Discussion rules like **raising your hand and waiting your turn** make sure everyone gets a chance to share ideas."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A classmate says something you do not understand. What should you do?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Ask them to explain what they mean",
+          "correct": true,
+          "explanation": "Asking for clarification helps you understand \u2014 it is a sign of a good listener."
+        },
+        {
+          "id": "B",
+          "label": "Pretend you understand and say 'okay'",
+          "correct": false,
+          "explanation": "Pretending does not help you learn. It is better to ask."
+        },
+        {
+          "id": "C",
+          "label": "Tell them they are wrong",
+          "correct": false,
+          "explanation": "You may not understand yet \u2014 ask for clarification before deciding if you disagree."
+        },
+        {
+          "id": "D",
+          "label": "Stop listening and think about lunch",
+          "correct": false,
+          "explanation": "Tuning out means you will miss important ideas \u2014 keep listening and ask if confused."
+        }
+      ],
+      "explanation_md": "When you do not understand, ask a **clarifying question** like 'Can you explain what you mean?' \u2014 this helps you and everyone in the discussion."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence BEST builds on a classmate's idea?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I want to talk about something different.",
+          "correct": false,
+          "explanation": "Changing topics does not build on the classmate's idea."
+        },
+        {
+          "id": "B",
+          "label": "I agree with Zara, and I also think the dog was the real hero.",
+          "correct": true,
+          "explanation": "This names Zara, agrees, and adds a new idea \u2014 it builds on Zara's comment."
+        },
+        {
+          "id": "C",
+          "label": "That is a weird thing to say.",
+          "correct": false,
+          "explanation": "This is dismissive and does not add to the discussion."
+        },
+        {
+          "id": "D",
+          "label": "My lunch today was good.",
+          "correct": false,
+          "explanation": "This is completely off-topic."
+        }
+      ],
+      "explanation_md": "To **build on a classmate's idea**, name them, connect to their point, and add something new. 'I agree with ___ and I also think...' is a great discussion starter."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "You want to add an idea to the discussion. What should you do FIRST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Start talking immediately",
+          "correct": false,
+          "explanation": "Starting without waiting may interrupt someone \u2014 raise your hand first."
+        },
+        {
+          "id": "B",
+          "label": "Raise your hand and wait to be called on",
+          "correct": true,
+          "explanation": "Raising your hand shows you want to talk and waiting shows respect for the speaker."
+        },
+        {
+          "id": "C",
+          "label": "Write your idea down and show no one",
+          "correct": false,
+          "explanation": "Keeping your idea to yourself does not contribute to the discussion."
+        },
+        {
+          "id": "D",
+          "label": "Tell the person next to you first",
+          "correct": false,
+          "explanation": "Side conversations during discussion are distracting \u2014 share your idea with the whole group."
+        }
+      ],
+      "explanation_md": "To share in a discussion, **raise your hand** and wait to be called on. Then connect your idea to what others have said."
+    }
+  ]
+}
