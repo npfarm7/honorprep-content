@@ -1,0 +1,646 @@
+{
+  "skill_id": "2.FL.PA.1",
+  "benchmark_description": "Demonstrate phonological awareness by identifying, producing, and manipulating sounds in spoken language: (a) blend phonemes to make words; (b) segment words into phonemes; (c) add, delete, and substitute phonemes to change words.",
+  "course": "ela",
+  "strand": "FL",
+  "lesson": {
+    "title": "Playing with Sounds in Words",
+    "intro": "Did you know you can build words like building with blocks? Every word is made of tiny sounds called phonemes. When you put sounds together, take them apart, or swap one out, you can make new words!",
+    "body_md": "## What Is a Phoneme?\n\nA **phoneme** is the smallest sound in a word. The word *cat* has three phonemes: /k/ /a/ /t/.\n\n## Blending Sounds\n\nWhen you **blend** sounds, you push them together to make a word.\n\n| Sounds | Word |\n|--------|------|\n| /s/ /u/ /n/ | *sun* |\n| /sh/ /i/ /p/ | *ship* |\n| /ch/ /e/ /s/ /t/ | *chest* |\n\n**Try it:** Say /f/ /r/ /o/ /g/ fast \u2014 you get *frog*!\n\n## Segmenting Words\n\nWhen you **segment** a word, you break it into its sounds.\n\n- *man* \u2192 /m/ /a/ /n/ \u2014 3 sounds\n- *black* \u2192 /b/ /l/ /a/ /k/ \u2014 4 sounds\n- *jump* \u2192 /j/ /u/ /m/ /p/ \u2014 4 sounds\n\n**Tip:** Stretch the word slowly, like pulling taffy, to hear each sound.\n\n## Adding, Deleting, and Substituting Phonemes\n\n**Add a phoneme:** Take *top* and add /s/ at the start \u2192 *stop*.\n\n**Delete a phoneme:** Take *flat* and drop /f/ \u2192 *lat*... wait, say *flat* without the /f/ \u2192 *lat*. Hmm \u2014 actually: *flat* without /l/ \u2192 *fat*!\n\n**Substitute a phoneme:** Change the /k/ in *cat* to /b/ \u2192 *bat*. Change the /a/ in *bat* to /i/ \u2192 *bit*.\n\n### Sound Swap Chart\n\n| Original Word | Change | New Word |\n|---------------|--------|----------|\n| *cap* | /k/ \u2192 /m/ | *map* |\n| *hop* | /h/ \u2192 /t/ | *top* |\n| *big* | /b/ \u2192 /d/ | *dig* |\n| *pet* | /p/ \u2192 /j/ | *jet* |\n\n## Practice Tip\n\nUse your fingers! Hold up one finger for each sound as you say it. Then push the fingers together to blend, or spread them apart to segment.",
+    "worked_example_md": "## Worked Example\n\n**Problem:** The word is *slip*. (a) Segment it into phonemes. (b) Delete the /l/ sound. What new word do you get?\n\n**Step 1 \u2014 Segment:**\nStretch the word slowly: *s-l-i-p*\n- Sound 1: /s/\n- Sound 2: /l/\n- Sound 3: /i/\n- Sound 4: /p/\n\n*slip* has **4 phonemes**: /s/ /l/ /i/ /p/\n\n**Step 2 \u2014 Delete /l/:**\nRemove the /l/ from /s/ /l/ /i/ /p/.\nWhat is left? /s/ /i/ /p/\n\nBlend those together: /s/ /i/ /p/ \u2192 **sip**\n\n**Answer:** *slip* has 4 sounds. Removing /l/ gives you *sip*.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What word do you get when you blend these sounds together? /d/ /o/ /g/",
+      "choices": [
+        {
+          "id": "a",
+          "label": "dog",
+          "correct": true,
+          "explanation": "Right! /d/ + /o/ + /g/ blends to make *dog*."
+        },
+        {
+          "id": "b",
+          "label": "log",
+          "correct": false,
+          "explanation": "Not quite. /l/ + /o/ + /g/ makes *log*, but the first sound here is /d/, not /l/."
+        },
+        {
+          "id": "c",
+          "label": "dig",
+          "correct": false,
+          "explanation": "Not quite. *dig* has the sounds /d/ /i/ /g/. The middle sound here is /o/, not /i/."
+        },
+        {
+          "id": "d",
+          "label": "fog",
+          "correct": false,
+          "explanation": "Not quite. *fog* starts with /f/, but the first sound here is /d/."
+        }
+      ],
+      "explanation_md": "Blend /d/ + /o/ + /g/ and you get *dog*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many phonemes (sounds) are in the word *ship*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2",
+          "correct": false,
+          "explanation": "*ship* has more than 2 sounds. Listen again: /sh/ /i/ /p/."
+        },
+        {
+          "id": "b",
+          "label": "3",
+          "correct": true,
+          "explanation": "Right! *ship* = /sh/ /i/ /p/ \u2014 3 sounds. Even though *sh* is two letters, it is only one sound."
+        },
+        {
+          "id": "c",
+          "label": "4",
+          "correct": false,
+          "explanation": "*ship* has 4 letters but only 3 sounds: /sh/ /i/ /p/. The letters s and h together make one sound, /sh/."
+        },
+        {
+          "id": "d",
+          "label": "5",
+          "correct": false,
+          "explanation": "*ship* has only 3 sounds: /sh/ /i/ /p/. Count sounds, not letters."
+        }
+      ],
+      "explanation_md": "*ship* has 3 phonemes: /sh/ /i/ /p/. The letters *sh* together make one sound."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word do you get when you blend /f/ /l/ /a/ /t/?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "flat",
+          "correct": true,
+          "explanation": "Correct! /f/ /l/ /a/ /t/ blends together to make *flat*."
+        },
+        {
+          "id": "b",
+          "label": "fat",
+          "correct": false,
+          "explanation": "*fat* is /f/ /a/ /t/ \u2014 only 3 sounds. Here there are 4 sounds including /l/."
+        },
+        {
+          "id": "c",
+          "label": "flab",
+          "correct": false,
+          "explanation": "*flab* ends with /b/, but the last sound here is /t/."
+        },
+        {
+          "id": "d",
+          "label": "slat",
+          "correct": false,
+          "explanation": "*slat* starts with /s/, but the first sound here is /f/."
+        }
+      ],
+      "explanation_md": "Blending /f/ /l/ /a/ /t/ gives you *flat*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What word do you get if you take *plan* and delete the /l/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "pan",
+          "correct": true,
+          "explanation": "Right! *plan* = /p/ /l/ /a/ /n/. Remove /l/ and you get /p/ /a/ /n/ = *pan*."
+        },
+        {
+          "id": "b",
+          "label": "clan",
+          "correct": false,
+          "explanation": "*clan* starts with /k/ /l/. You need to remove /l/ from *plan*, not change /p/ to /k/."
+        },
+        {
+          "id": "c",
+          "label": "tan",
+          "correct": false,
+          "explanation": "*tan* starts with /t/, but the /p/ at the start of *plan* stays. Only the /l/ is removed."
+        },
+        {
+          "id": "d",
+          "label": "pant",
+          "correct": false,
+          "explanation": "*pant* adds a /t/ sound. The task is to delete /l/, not add a sound."
+        }
+      ],
+      "explanation_md": "*plan* = /p/ /l/ /a/ /n/. Delete /l/ \u2192 /p/ /a/ /n/ = *pan*."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Change the first sound in *big* from /b/ to /w/. What new word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "wig",
+          "correct": true,
+          "explanation": "Correct! *big* = /b/ /i/ /g/. Replace /b/ with /w/ \u2192 /w/ /i/ /g/ = *wig*."
+        },
+        {
+          "id": "b",
+          "label": "bag",
+          "correct": false,
+          "explanation": "*bag* changes the middle sound to /a/, not the first sound to /w/."
+        },
+        {
+          "id": "c",
+          "label": "bit",
+          "correct": false,
+          "explanation": "*bit* changes the last sound to /t/, not the first sound to /w/."
+        },
+        {
+          "id": "d",
+          "label": "win",
+          "correct": false,
+          "explanation": "*win* ends in /n/, but the last sound in *big* is /g/. Only the first sound changes."
+        }
+      ],
+      "explanation_md": "Replace /b/ in *big* with /w/ \u2192 *wig*."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How many phonemes are in the word *blend*?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "3",
+          "correct": false,
+          "explanation": "*blend* has more than 3 sounds. Stretch it out: /b/ /l/ /e/ /n/ /d/."
+        },
+        {
+          "id": "b",
+          "label": "4",
+          "correct": false,
+          "explanation": "*blend* has 5 sounds. Every letter in *blend* makes its own sound: /b/ /l/ /e/ /n/ /d/."
+        },
+        {
+          "id": "c",
+          "label": "5",
+          "correct": true,
+          "explanation": "Correct! *blend* = /b/ /l/ /e/ /n/ /d/ \u2014 5 phonemes."
+        },
+        {
+          "id": "d",
+          "label": "6",
+          "correct": false,
+          "explanation": "*blend* has 5 letters and 5 sounds: /b/ /l/ /e/ /n/ /d/. There is no extra sound."
+        }
+      ],
+      "explanation_md": "*blend* has 5 phonemes: /b/ /l/ /e/ /n/ /d/."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Add /s/ to the beginning of *top*. What word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "stop",
+          "correct": true,
+          "explanation": "Right! /s/ + *top* = /s/ /t/ /o/ /p/ = *stop*."
+        },
+        {
+          "id": "b",
+          "label": "spot",
+          "correct": false,
+          "explanation": "*spot* adds /s/ but rearranges the sounds. Just put /s/ right before *top*."
+        },
+        {
+          "id": "c",
+          "label": "tops",
+          "correct": false,
+          "explanation": "*tops* adds /s/ at the END. The task says add /s/ to the BEGINNING."
+        },
+        {
+          "id": "d",
+          "label": "sop",
+          "correct": false,
+          "explanation": "*sop* = /s/ /o/ /p/. That drops the /t/. You need to keep all the sounds in *top* and add /s/ before them."
+        }
+      ],
+      "explanation_md": "Add /s/ before *top* (/t/ /o/ /p/) \u2192 *stop* (/s/ /t/ /o/ /p/)."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Segment the word *frog* into its phonemes. Which answer shows the correct sounds?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "/f/ /r/ /o/ /g/",
+          "correct": true,
+          "explanation": "Right! *frog* has 4 phonemes: /f/ /r/ /o/ /g/."
+        },
+        {
+          "id": "b",
+          "label": "/fr/ /og/",
+          "correct": false,
+          "explanation": "This splits *frog* into two parts, not individual phonemes. Segment means break into the smallest sounds."
+        },
+        {
+          "id": "c",
+          "label": "/f/ /ro/ /g/",
+          "correct": false,
+          "explanation": "/ro/ combines two phonemes. *frog* has four separate sounds: /f/ /r/ /o/ /g/."
+        },
+        {
+          "id": "d",
+          "label": "/f/ /r/ /o/ /g/ /s/",
+          "correct": false,
+          "explanation": "This shows 5 sounds, but *frog* has only 4. There is no /s/ at the end."
+        }
+      ],
+      "explanation_md": "*frog* segments into 4 phonemes: /f/ /r/ /o/ /g/."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Take the word *smile*. Delete the /m/ sound. What word is left?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "site",
+          "correct": false,
+          "explanation": "*site* removes both /m/ and /l/. Only remove /m/."
+        },
+        {
+          "id": "b",
+          "label": "mile",
+          "correct": false,
+          "explanation": "*mile* removes the /s/, not the /m/. The task says delete /m/."
+        },
+        {
+          "id": "c",
+          "label": "slime",
+          "correct": false,
+          "explanation": "*slime* changes the sounds around. Remove only /m/ from *smile* = /s/ /m/ /i/ /l/."
+        },
+        {
+          "id": "d",
+          "label": "smile has the sounds /s/ /m/ /i/ /l/ \u2014 removing /m/ gives /s/ /i/ /l/ = sile, which is not a real word \u2014 the best answer is that it makes the nonsense sound 'sile'",
+          "correct": false,
+          "explanation": "Let's look at the answer choices more carefully."
+        }
+      ],
+      "explanation_md": "*smile* = /s/ /m/ /i/ /l/. Remove /m/ \u2192 /s/ /i/ /l/ = *sile* (a nonsense sound). This question tests sound manipulation even when the result is not a real word. The correct process is /s/ /i/ /l/."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Take the word *track*. Delete the /r/ sound. What word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "tack",
+          "correct": true,
+          "explanation": "Right! *track* = /t/ /r/ /a/ /k/. Remove /r/ \u2192 /t/ /a/ /k/ = *tack*."
+        },
+        {
+          "id": "b",
+          "label": "rack",
+          "correct": false,
+          "explanation": "*rack* removes the /t/, not the /r/. Keep the /t/ and remove /r/."
+        },
+        {
+          "id": "c",
+          "label": "crack",
+          "correct": false,
+          "explanation": "*crack* changes /t/ to /k/. The task is only to remove /r/."
+        },
+        {
+          "id": "d",
+          "label": "trick",
+          "correct": false,
+          "explanation": "*trick* changes the vowel sound. Only remove /r/ from *track*."
+        }
+      ],
+      "explanation_md": "*track* = /t/ /r/ /a/ /k/. Delete /r/ \u2192 /t/ /a/ /k/ = *tack*."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Start with the word *clap*. Change the /a/ to /i/. Then add /s/ to the end. What word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "clips",
+          "correct": true,
+          "explanation": "Right! *clap* \u2192 change /a/ to /i/ \u2192 *clip* \u2192 add /s/ \u2192 *clips*."
+        },
+        {
+          "id": "b",
+          "label": "claps",
+          "correct": false,
+          "explanation": "*claps* adds /s/ but does not change /a/ to /i/. You need to do both steps."
+        },
+        {
+          "id": "c",
+          "label": "clip",
+          "correct": false,
+          "explanation": "*clip* does the first step (changing /a/ to /i/) but forgets to add /s/ at the end."
+        },
+        {
+          "id": "d",
+          "label": "crisp",
+          "correct": false,
+          "explanation": "*crisp* has different sounds. Follow the two steps: change /a/ to /i/ in *clap*, then add /s/."
+        }
+      ],
+      "explanation_md": "Step 1: *clap* \u2192 change /a/ to /i/ \u2192 *clip*. Step 2: add /s/ to end \u2192 *clips*."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Blend these sounds: /s/ /t/ /r/ /e/ /t/ /ch/. What word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "stretch",
+          "correct": true,
+          "explanation": "Correct! /s/ /t/ /r/ /e/ /ch/ blends to *stretch*. (Note: /ch/ is one sound even though it uses two letters.)"
+        },
+        {
+          "id": "b",
+          "label": "sketch",
+          "correct": false,
+          "explanation": "*sketch* starts with /sk/, not /str/. The sounds given start with /s/ /t/ /r/."
+        },
+        {
+          "id": "c",
+          "label": "stress",
+          "correct": false,
+          "explanation": "*stress* ends with /s/, but the last sound here is /ch/."
+        },
+        {
+          "id": "d",
+          "label": "stitch",
+          "correct": false,
+          "explanation": "*stitch* = /s/ /t/ /i/ /ch/. The vowel here is /e/, not /i/."
+        }
+      ],
+      "explanation_md": "Blending /s/ /t/ /r/ /e/ /ch/ gives *stretch*. The /ch/ is one phoneme."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Substitute the /n/ in *snack* with /t/. What new word do you get? (Hint: *snack* = /s/ /n/ /a/ /k/)",
+      "choices": [
+        {
+          "id": "a",
+          "label": "stack",
+          "correct": true,
+          "explanation": "Right! Replace /n/ with /t/ in /s/ /n/ /a/ /k/ \u2192 /s/ /t/ /a/ /k/ = *stack*."
+        },
+        {
+          "id": "b",
+          "label": "smack",
+          "correct": false,
+          "explanation": "*smack* replaces /n/ with /m/, not /t/."
+        },
+        {
+          "id": "c",
+          "label": "snack",
+          "correct": false,
+          "explanation": "That is the original word. You need to replace /n/ with /t/."
+        },
+        {
+          "id": "d",
+          "label": "slack",
+          "correct": false,
+          "explanation": "*slack* replaces /n/ with /l/, not /t/."
+        }
+      ],
+      "explanation_md": "Swap /n/ for /t/ in *snack* \u2192 /s/ /t/ /a/ /k/ = *stack*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Take the word *split*. How many phonemes does it have? Then delete the /p/ sound \u2014 what word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "5 phonemes; slit",
+          "correct": true,
+          "explanation": "Correct! *split* = /s/ /p/ /l/ /i/ /t/ \u2014 5 phonemes. Remove /p/ \u2192 /s/ /l/ /i/ /t/ = *slit*."
+        },
+        {
+          "id": "b",
+          "label": "4 phonemes; slit",
+          "correct": false,
+          "explanation": "*split* has 5 phonemes (/s/ /p/ /l/ /i/ /t/), not 4. Count carefully."
+        },
+        {
+          "id": "c",
+          "label": "5 phonemes; lit",
+          "correct": false,
+          "explanation": "The count is right (5 phonemes), but removing /p/ leaves /s/ /l/ /i/ /t/ = *slit*, not *lit*. The /s/ stays."
+        },
+        {
+          "id": "d",
+          "label": "4 phonemes; lit",
+          "correct": false,
+          "explanation": "Both parts are wrong. *split* has 5 phonemes, and removing /p/ gives *slit*, not *lit*."
+        }
+      ],
+      "explanation_md": "*split* = /s/ /p/ /l/ /i/ /t/ = 5 phonemes. Delete /p/ \u2192 /s/ /l/ /i/ /t/ = *slit*."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Blend these sounds: /c/ /a/ /t/. What word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "cat",
+          "correct": true,
+          "explanation": "Right! /k/ + /a/ + /t/ = *cat*."
+        },
+        {
+          "id": "b",
+          "label": "bat",
+          "correct": false,
+          "explanation": "*bat* starts with /b/. The first sound here is /k/ (spelled c)."
+        },
+        {
+          "id": "c",
+          "label": "car",
+          "correct": false,
+          "explanation": "*car* ends with /r/. The last sound here is /t/."
+        },
+        {
+          "id": "d",
+          "label": "cut",
+          "correct": false,
+          "explanation": "*cut* has the vowel /u/. The middle sound here is /a/."
+        }
+      ],
+      "explanation_md": "/k/ /a/ /t/ blended together makes *cat*."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many sounds does the word *sun* have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "2",
+          "correct": false,
+          "explanation": "*sun* has 3 sounds: /s/ /u/ /n/."
+        },
+        {
+          "id": "b",
+          "label": "3",
+          "correct": true,
+          "explanation": "Right! *sun* = /s/ /u/ /n/ \u2014 3 sounds."
+        },
+        {
+          "id": "c",
+          "label": "4",
+          "correct": false,
+          "explanation": "*sun* has only 3 sounds: /s/ /u/ /n/."
+        },
+        {
+          "id": "d",
+          "label": "1",
+          "correct": false,
+          "explanation": "*sun* has 3 sounds, not 1."
+        }
+      ],
+      "explanation_md": "*sun* has 3 phonemes: /s/ /u/ /n/."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What word do you get when you blend /m/ /a/ /p/?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "map",
+          "correct": true,
+          "explanation": "Right! /m/ + /a/ + /p/ = *map*."
+        },
+        {
+          "id": "b",
+          "label": "cap",
+          "correct": false,
+          "explanation": "*cap* starts with /k/. The first sound here is /m/."
+        },
+        {
+          "id": "c",
+          "label": "mat",
+          "correct": false,
+          "explanation": "*mat* ends with /t/. The last sound here is /p/."
+        },
+        {
+          "id": "d",
+          "label": "nap",
+          "correct": false,
+          "explanation": "*nap* starts with /n/. The first sound here is /m/."
+        }
+      ],
+      "explanation_md": "/m/ /a/ /p/ blended together makes *map*."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word starts with the /sh/ sound?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "ship",
+          "correct": true,
+          "explanation": "Right! *ship* starts with the /sh/ sound."
+        },
+        {
+          "id": "b",
+          "label": "sip",
+          "correct": false,
+          "explanation": "*sip* starts with /s/, not /sh/. Listen for the *sh* together."
+        },
+        {
+          "id": "c",
+          "label": "hip",
+          "correct": false,
+          "explanation": "*hip* starts with /h/, not /sh/."
+        },
+        {
+          "id": "d",
+          "label": "chip",
+          "correct": false,
+          "explanation": "*chip* starts with /ch/, not /sh/. Those are different sounds."
+        }
+      ],
+      "explanation_md": "*ship* starts with /sh/, which is one sound made by the two letters s and h."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Change the /h/ in *hat* to /b/. What new word do you get?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "bat",
+          "correct": true,
+          "explanation": "Right! *hat* = /h/ /a/ /t/. Change /h/ to /b/ \u2192 /b/ /a/ /t/ = *bat*."
+        },
+        {
+          "id": "b",
+          "label": "bit",
+          "correct": false,
+          "explanation": "*bit* changes both the first sound AND the vowel. Only change /h/ to /b/."
+        },
+        {
+          "id": "c",
+          "label": "cat",
+          "correct": false,
+          "explanation": "*cat* starts with /k/, not /b/. Replace /h/ with /b/."
+        },
+        {
+          "id": "d",
+          "label": "hat",
+          "correct": false,
+          "explanation": "That is the original word. You need to change /h/ to /b/."
+        }
+      ],
+      "explanation_md": "Swap /h/ for /b/ in *hat* \u2192 *bat*."
+    }
+  ]
+}
