@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.W.TTP.2",
+  "benchmark_description": "Write informative/explanatory texts in which they introduce a topic, use facts and definitions to develop points, and provide a concluding statement or section.",
+  "course": "ela",
+  "strand": "W",
+  "lesson": {
+    "title": "Writing to Inform: Sharing What You Know",
+    "intro": "Informative writing is how you share real knowledge with others! When you write to explain something or share facts, you are writing informative text. Scientists, teachers, and reporters all use informative writing. Today you will learn how to do it well.",
+    "body_md": "## What Is Informative Writing?\n\n**Informative/explanatory writing** teaches the reader about a real topic using facts, definitions, and details. It is NOT a story, and it does NOT share your opinion. It shares information.\n\nExamples of informative writing:\n- A report about dolphins\n- An explanation of how volcanoes work\n- A paragraph about the life cycle of a butterfly\n\n## The Parts of Informative Writing\n\n### 1. Introduction\nStart with a sentence that introduces the TOPIC. This tells the reader what they are about to learn.\n\n*Example: Dolphins are fascinating sea animals with many amazing abilities.*\n\n**Strong introduction starters:**\n- [Topic] is/are...\n- Did you know that [topic]...\n- [Topic] can be found...\n- Have you ever wondered about [topic]?\n\n### 2. Developing Points with Facts and Definitions\n\nThe body of your writing gives FACTS and DEFINITIONS.\n\n**Fact:** A specific, true piece of information.\n*Example: Dolphins can swim up to 25 miles per hour.*\n\n**Definition:** An explanation of what something means.\n*Example: Echolocation is a skill dolphins use to find food by making sounds that bounce back from objects.*\n\n**Tips for adding information:**\n- Use specific numbers and names when possible\n- Define any hard vocabulary words\n- Group related facts together\n- Use signal words: *also, another, in addition, for example*\n\n### 3. Concluding Statement\nEnd with a sentence that wraps up what you taught the reader.\n\n*Example: As you can see, dolphins are intelligent animals that have adapted wonderfully to life in the ocean.*\n\n**Concluding statement starters:**\n- As you can see,...\n- In conclusion,...\n- Now you know...\n- These facts show that...\n\n## Informative vs. Opinion Writing\n\n| Informative | Opinion |\n|-------------|----------|\n| States facts | States what you believe |\n| Does not say 'I think' | Uses 'I think,' 'I believe' |\n| Goal: teach the reader | Goal: persuade the reader |\n| Example: Dolphins are mammals | Example: Dolphins are the smartest animals |",
+    "worked_example_md": "## Worked Example\n\n**Prompt:** Write an informative paragraph about frogs.\n\n**Introduction:**\nFrogs are fascinating amphibians that live in many different habitats around the world.\n\n**Body (facts and definitions):**\nFrogs are **amphibians**, which means they can live both in water and on land. They lay their eggs in water, and the eggs hatch into tadpoles. Tadpoles have tails and gills for breathing underwater. Over time, a tadpole grows legs, loses its tail, and becomes a frog. Frogs breathe through their lungs and also through their skin. There are more than 6,000 species of frogs on Earth.\n\n**Concluding Statement:**\nAs you can see, frogs go through an amazing life cycle and are perfectly adapted for both land and water.\n\n**Notice:**\n- Introduction names the topic (frogs)\n- Body has multiple facts and a definition (amphibians)\n- Concluding statement wraps it up without adding new facts",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the PURPOSE of informative writing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To teach the reader facts about a real topic",
+          "correct": true,
+          "explanation": "Right! Informative writing shares real facts and information to teach the reader about a topic."
+        },
+        {
+          "id": "b",
+          "label": "To share the writer's personal feelings",
+          "correct": false,
+          "explanation": "Sharing personal feelings is more common in opinion or narrative writing. Informative writing shares facts about real topics."
+        },
+        {
+          "id": "c",
+          "label": "To write a creative story with made-up characters",
+          "correct": false,
+          "explanation": "That describes fiction writing. Informative writing uses real facts about real topics."
+        },
+        {
+          "id": "d",
+          "label": "To convince the reader to agree with an opinion",
+          "correct": false,
+          "explanation": "That describes opinion writing. Informative writing teaches facts, not persuades readers to agree."
+        }
+      ],
+      "explanation_md": "Informative writing teaches the reader facts about a real topic. It is not a story and does not share opinions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a FACT (not an opinion)?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Dolphins can swim up to 25 miles per hour",
+          "correct": true,
+          "explanation": "Right! This is a fact -- it is a specific, measurable piece of information that can be checked."
+        },
+        {
+          "id": "b",
+          "label": "I think dolphins are the most beautiful animals",
+          "correct": false,
+          "explanation": "That is an opinion -- 'I think' shows it is a personal belief. A fact can be checked and is true for everyone."
+        },
+        {
+          "id": "c",
+          "label": "Dolphins are more fun to watch than fish",
+          "correct": false,
+          "explanation": "That is an opinion -- 'more fun to watch' is a personal judgment. A fact is something that can be proven."
+        },
+        {
+          "id": "d",
+          "label": "The best thing about dolphins is their friendly faces",
+          "correct": false,
+          "explanation": "That is an opinion -- 'best thing' is a judgment. A fact is specific information that can be verified."
+        }
+      ],
+      "explanation_md": "'Dolphins can swim up to 25 miles per hour' is a fact -- specific, measurable, and verifiable."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should the INTRODUCTION of an informative piece do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Introduce the topic and let the reader know what they will learn about",
+          "correct": true,
+          "explanation": "Right! The introduction names the topic and gets the reader interested in what they are about to learn."
+        },
+        {
+          "id": "b",
+          "label": "Give all the facts and then end",
+          "correct": false,
+          "explanation": "The introduction just introduces the topic -- the facts go in the body. The ending is the concluding statement."
+        },
+        {
+          "id": "c",
+          "label": "State the writer's opinion about the topic",
+          "correct": false,
+          "explanation": "Opinion writing states an opinion. Informative writing introduces the topic without giving a personal opinion."
+        },
+        {
+          "id": "d",
+          "label": "Repeat what the concluding statement says",
+          "correct": false,
+          "explanation": "The introduction comes first and introduces the topic. The concluding statement wraps up at the end."
+        }
+      ],
+      "explanation_md": "The introduction introduces the topic and lets the reader know what they will learn. It comes first in the piece."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*The Amazon rainforest is one of the most important places on Earth. It is located mainly in Brazil in South America. The Amazon produces about 20% of the world's oxygen. It is also home to more than 10% of all species on Earth. Without the Amazon, our planet would be very different.*\n\nWhat is the TOPIC of this paragraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Amazon rainforest",
+          "correct": true,
+          "explanation": "Right! The first sentence introduces the Amazon rainforest, and all the facts in the paragraph are about it."
+        },
+        {
+          "id": "b",
+          "label": "Brazil",
+          "correct": false,
+          "explanation": "Brazil is mentioned as the location, but the topic of the whole paragraph is the Amazon rainforest."
+        },
+        {
+          "id": "c",
+          "label": "Why rainforests need to be saved",
+          "correct": false,
+          "explanation": "While the paragraph shows the rainforest's importance, it does not argue for saving it. The topic is the Amazon rainforest."
+        },
+        {
+          "id": "d",
+          "label": "Oxygen on Earth",
+          "correct": false,
+          "explanation": "Oxygen is one fact mentioned, but the topic is the Amazon rainforest, not oxygen itself."
+        }
+      ],
+      "explanation_md": "The topic is the Amazon rainforest. All facts in the paragraph are about the Amazon."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this:\n\n*The Amazon rainforest is one of the most important places on Earth. It is located mainly in Brazil in South America. The Amazon produces about 20% of the world's oxygen. It is also home to more than 10% of all species on Earth. Without the Amazon, our planet would be very different.*\n\nWhich sentence is the CONCLUDING STATEMENT?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Without the Amazon, our planet would be very different",
+          "correct": true,
+          "explanation": "Right! The last sentence wraps up the paragraph by emphasizing how important the Amazon is -- a concluding idea, not a new fact."
+        },
+        {
+          "id": "b",
+          "label": "It is located mainly in Brazil in South America",
+          "correct": false,
+          "explanation": "That is a fact (supporting detail) in the body. The concluding statement is the last sentence."
+        },
+        {
+          "id": "c",
+          "label": "The Amazon produces about 20% of the world's oxygen",
+          "correct": false,
+          "explanation": "That is a specific fact in the body. The concluding statement wraps up the whole paragraph at the end."
+        },
+        {
+          "id": "d",
+          "label": "The Amazon rainforest is one of the most important places on Earth",
+          "correct": false,
+          "explanation": "That is the introduction sentence. The concluding statement is the last sentence: 'Without the Amazon...'"
+        }
+      ],
+      "explanation_md": "The last sentence wraps up the paragraph. It is the concluding statement: 'Without the Amazon, our planet would be very different.'"
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing about honey bees. Which sentence belongs in the BODY of her informative paragraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Honey bees live in large groups called colonies, with one queen bee who lays all the eggs",
+          "correct": true,
+          "explanation": "Right! This is a specific fact with a definition (colony) -- exactly what belongs in the body of an informative paragraph."
+        },
+        {
+          "id": "b",
+          "label": "I think honey bees are really cool insects",
+          "correct": false,
+          "explanation": "That is an opinion. Informative writing uses facts, not personal opinions."
+        },
+        {
+          "id": "c",
+          "label": "This paragraph is about honey bees",
+          "correct": false,
+          "explanation": "That is an introduction sentence that names the topic. Body sentences give facts and details."
+        },
+        {
+          "id": "d",
+          "label": "As you can see, honey bees are amazing creatures",
+          "correct": false,
+          "explanation": "That sounds like a concluding statement. Body sentences give specific facts and definitions."
+        }
+      ],
+      "explanation_md": "Body sentences give specific facts and definitions. 'Bees live in colonies with a queen who lays eggs' is a good informative body sentence."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is a DEFINITION in informative writing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An explanation of what a word or term means",
+          "correct": true,
+          "explanation": "Right! A definition tells the reader what a vocabulary word means. Informative writing often defines key terms so readers understand them."
+        },
+        {
+          "id": "b",
+          "label": "A personal opinion about a topic",
+          "correct": false,
+          "explanation": "Opinions are not definitions. Definitions explain what words mean."
+        },
+        {
+          "id": "c",
+          "label": "The ending sentence of a paragraph",
+          "correct": false,
+          "explanation": "The ending sentence is the concluding statement. A definition explains what a word or term means."
+        },
+        {
+          "id": "d",
+          "label": "A made-up word the writer invents",
+          "correct": false,
+          "explanation": "Definitions explain real words. A definition tells the reader what a specific term means."
+        }
+      ],
+      "explanation_md": "A definition explains what a word or term means. Informative writing defines key vocabulary to help readers understand."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST introduction sentence for an informative paragraph about the moon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The moon is Earth's only natural satellite and has fascinated people for thousands of years",
+          "correct": true,
+          "explanation": "Right! This sentence introduces the topic (moon) clearly and gets the reader interested with interesting facts."
+        },
+        {
+          "id": "b",
+          "label": "Once there was a rabbit who lived on the moon",
+          "correct": false,
+          "explanation": "That sounds like the start of a fictional story. An informative introduction introduces real facts about a real topic."
+        },
+        {
+          "id": "c",
+          "label": "I think the moon is the most beautiful thing in the sky",
+          "correct": false,
+          "explanation": "That is an opinion, not a fact. An informative introduction introduces the topic with a factual statement."
+        },
+        {
+          "id": "d",
+          "label": "In conclusion, the moon is interesting",
+          "correct": false,
+          "explanation": "'In conclusion' is used at the end, not the beginning. An introduction introduces the topic at the start."
+        }
+      ],
+      "explanation_md": "A good introduction introduces the topic with a factual, interesting statement: 'The moon is Earth's only natural satellite...'"
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes this informative paragraph:\n\n*Penguins are interesting birds. Penguins live in cold places. I think penguins are cute. Penguins eat fish. That's all about penguins.*\n\nWhat is WRONG with this paragraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It includes an opinion ('I think penguins are cute') and the conclusion is too weak",
+          "correct": true,
+          "explanation": "Right! Informative writing should not include personal opinions ('I think'). The conclusion 'That's all about penguins' is also too weak and casual."
+        },
+        {
+          "id": "b",
+          "label": "The paragraph has too many facts",
+          "correct": false,
+          "explanation": "The paragraph actually has too FEW specific facts and includes an opinion. More specific facts would improve it."
+        },
+        {
+          "id": "c",
+          "label": "The topic is too hard for second grade",
+          "correct": false,
+          "explanation": "Penguins is a fine topic. The problem is the inclusion of opinion and the weak conclusion."
+        },
+        {
+          "id": "d",
+          "label": "The paragraph has no introduction",
+          "correct": false,
+          "explanation": "The first sentence ('Penguins are interesting birds') is an introduction. The main problems are the opinion sentence and weak conclusion."
+        }
+      ],
+      "explanation_md": "The opinion ('I think penguins are cute') does not belong in informative writing. The conclusion ('That's all') is too casual and weak."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence would work best as a CONCLUDING STATEMENT for an informative paragraph about volcanoes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "As you can see, volcanoes are powerful forces of nature that have shaped the Earth for millions of years",
+          "correct": true,
+          "explanation": "Right! This conclusion wraps up with a big idea ('powerful forces of nature') without adding new facts. It references the topic in a broad, finishing way."
+        },
+        {
+          "id": "b",
+          "label": "Volcanoes are made of lava and rock",
+          "correct": false,
+          "explanation": "That is a fact -- it belongs in the body. The concluding statement should wrap up, not add new information."
+        },
+        {
+          "id": "c",
+          "label": "I think volcanoes are scary",
+          "correct": false,
+          "explanation": "That is an opinion. Concluding statements in informative writing do not give personal opinions."
+        },
+        {
+          "id": "d",
+          "label": "The topic of this paragraph is volcanoes",
+          "correct": false,
+          "explanation": "That just names the topic without wrapping up the information. A good conclusion leaves the reader with a big, closing thought."
+        }
+      ],
+      "explanation_md": "A strong concluding statement wraps up the big idea without adding new facts: 'Volcanoes are powerful forces of nature that shaped Earth for millions of years.'"
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph:\n\n*Spiders are arachnids, not insects. Unlike insects, which have six legs, spiders have eight legs. Spiders spin silk webs to catch insects for food. A spider's web can be stronger than steel wire of the same thickness. There are more than 45,000 known species of spiders on Earth.*\n\nWhat is the paragraph doing in the body?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Giving facts and a definition (arachnids) to teach about spiders",
+          "correct": true,
+          "explanation": "Right! The body defines 'arachnids' and gives multiple specific facts about spiders. That is exactly what informative body paragraphs do."
+        },
+        {
+          "id": "b",
+          "label": "Sharing the writer's opinion that spiders are interesting",
+          "correct": false,
+          "explanation": "No opinion is shared. The paragraph uses facts and a definition -- informative writing."
+        },
+        {
+          "id": "c",
+          "label": "Telling a story about a spider",
+          "correct": false,
+          "explanation": "This is not a story. The paragraph gives facts and a definition about spiders."
+        },
+        {
+          "id": "d",
+          "label": "Arguing that spiders are better than insects",
+          "correct": false,
+          "explanation": "No argument is made. The paragraph compares spiders and insects factually but does not say one is better."
+        }
+      ],
+      "explanation_md": "The body paragraph gives facts (eight legs, silk webs, 45,000 species) and a definition (arachnids) -- that is informative body writing."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing an informative paragraph about the life cycle of a butterfly. Which sentence does NOT belong?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "I think butterflies are more beautiful than moths",
+          "correct": true,
+          "explanation": "Right! This is an opinion and does not belong in informative writing, which uses only facts and definitions."
+        },
+        {
+          "id": "b",
+          "label": "A butterfly starts its life as an egg",
+          "correct": false,
+          "explanation": "That is a fact about the butterfly life cycle. It belongs in the body of an informative paragraph."
+        },
+        {
+          "id": "c",
+          "label": "A caterpillar forms a chrysalis before it becomes a butterfly",
+          "correct": false,
+          "explanation": "That is a fact about the life cycle. It belongs in the informative paragraph."
+        },
+        {
+          "id": "d",
+          "label": "A metamorphosis is the process of changing from one form to another",
+          "correct": false,
+          "explanation": "That is a definition of metamorphosis. Definitions belong in informative writing."
+        }
+      ],
+      "explanation_md": "The opinion sentence ('I think butterflies are more beautiful') does not belong. Informative writing uses only facts and definitions."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to write an informative paragraph about the water cycle. Which set of sentences would make the BEST body for this paragraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Water evaporates from oceans, rises, cools, and falls as rain. The water cycle is a continuous loop. Evaporation is when liquid water turns into water vapor.",
+          "correct": true,
+          "explanation": "Right! These sentences give factual steps of the water cycle, describe it as a continuous loop, and define evaporation -- all ideal informative body content."
+        },
+        {
+          "id": "b",
+          "label": "I love the rain. Rain is nice. Water is important.",
+          "correct": false,
+          "explanation": "These are opinions and very vague statements, not specific facts about the water cycle."
+        },
+        {
+          "id": "c",
+          "label": "Once there was a raindrop who went on an adventure through clouds",
+          "correct": false,
+          "explanation": "This is a fictional story, not informative writing. The body of an informative paragraph uses real facts."
+        },
+        {
+          "id": "d",
+          "label": "As you can see, the water cycle is amazing",
+          "correct": false,
+          "explanation": "That is a concluding statement, not body content. Body sentences give specific facts and definitions."
+        }
+      ],
+      "explanation_md": "The best body uses specific facts (evaporation process, continuous loop) and a definition (evaporation) -- exactly what informative body paragraphs need."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which type of writing shares FACTS about a real topic?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Informative writing",
+          "correct": true,
+          "explanation": "Right! Informative writing shares real facts to teach the reader about a topic."
+        },
+        {
+          "id": "b",
+          "label": "Opinion writing",
+          "correct": false,
+          "explanation": "Opinion writing shares what you think or believe. Informative writing shares facts."
+        },
+        {
+          "id": "c",
+          "label": "Narrative writing (a story)",
+          "correct": false,
+          "explanation": "Narrative writing tells a story. Informative writing shares facts about a real topic."
+        },
+        {
+          "id": "d",
+          "label": "Poetry",
+          "correct": false,
+          "explanation": "Poetry uses rhythm and imagery. Informative writing shares facts about a real topic."
+        }
+      ],
+      "explanation_md": "Informative writing shares facts to teach the reader about a real topic."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What should a good CONCLUDING STATEMENT do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wrap up the main idea without adding brand-new facts",
+          "correct": true,
+          "explanation": "Right! A concluding statement ends the piece by restating the main idea in a fresh way -- it should not introduce brand-new information."
+        },
+        {
+          "id": "b",
+          "label": "Add five more facts that were not in the paragraph",
+          "correct": false,
+          "explanation": "New facts belong in the body, not the conclusion. The concluding statement wraps up what was already said."
+        },
+        {
+          "id": "c",
+          "label": "Start with 'Once upon a time'",
+          "correct": false,
+          "explanation": "'Once upon a time' starts a story. Concluding statements often start with 'As you can see...' or 'In conclusion...'"
+        },
+        {
+          "id": "d",
+          "label": "Ask the reader a question that has no answer",
+          "correct": false,
+          "explanation": "While some conclusions end with a thought-provoking question, a basic concluding statement wraps up the main idea clearly."
+        }
+      ],
+      "explanation_md": "A concluding statement wraps up the main idea without adding brand-new facts. It ends the piece smoothly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence would work as a good informative INTRODUCTION about bears?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Bears are large mammals that live in forests and mountains around the world",
+          "correct": true,
+          "explanation": "Right! This sentence introduces the topic (bears) with a fact and tells the reader what they will learn about."
+        },
+        {
+          "id": "b",
+          "label": "I love bears because they are cute",
+          "correct": false,
+          "explanation": "That is an opinion. Informative introductions introduce the topic with facts, not personal feelings."
+        },
+        {
+          "id": "c",
+          "label": "Once there was a big brown bear named Bruno",
+          "correct": false,
+          "explanation": "That starts a fictional story. Informative introductions introduce real facts about real topics."
+        },
+        {
+          "id": "d",
+          "label": "As you can see, bears are fascinating",
+          "correct": false,
+          "explanation": "'As you can see' is for concluding statements. An introduction comes first and introduces the topic."
+        }
+      ],
+      "explanation_md": "A good informative introduction introduces the topic with a factual statement: 'Bears are large mammals...'"
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a FACT that belongs in an informative paragraph?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Whales are the largest animals on Earth",
+          "correct": true,
+          "explanation": "Right! This is a fact -- it is specific, true, and can be checked. It belongs in an informative paragraph."
+        },
+        {
+          "id": "b",
+          "label": "I think whales are amazing",
+          "correct": false,
+          "explanation": "'I think' marks this as an opinion. Informative writing uses facts, not opinions."
+        },
+        {
+          "id": "c",
+          "label": "Whales are so cool to watch",
+          "correct": false,
+          "explanation": "'So cool to watch' is a personal opinion. Informative writing uses specific facts."
+        },
+        {
+          "id": "d",
+          "label": "Whales are the best animals ever",
+          "correct": false,
+          "explanation": "'Best animals ever' is an opinion -- it cannot be proven. Informative writing uses facts."
+        }
+      ],
+      "explanation_md": "'Whales are the largest animals on Earth' is a fact -- specific and verifiable. It belongs in informative writing."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes a paragraph about the sun. She gives two facts and then writes: 'That is the end of my paragraph about the sun.' What should she IMPROVE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Write a stronger concluding statement, like 'The sun is a powerful star that makes life on Earth possible'",
+          "correct": true,
+          "explanation": "Right! 'That is the end' is too casual and weak. A strong conclusion restates the big idea in a fresh, interesting way."
+        },
+        {
+          "id": "b",
+          "label": "Remove one of her facts so the paragraph is shorter",
+          "correct": false,
+          "explanation": "Removing facts makes the paragraph weaker. She should improve the concluding statement."
+        },
+        {
+          "id": "c",
+          "label": "Change all her facts to opinions",
+          "correct": false,
+          "explanation": "Facts belong in informative writing. She should keep her facts and just improve her conclusion."
+        },
+        {
+          "id": "d",
+          "label": "Add her name at the top of the paragraph",
+          "correct": false,
+          "explanation": "Adding a name is not the content issue. She needs a stronger concluding statement."
+        }
+      ],
+      "explanation_md": "'That is the end' is a weak conclusion. A strong concluding statement restates the big idea: 'The sun is a powerful star that makes life on Earth possible.'"
+    }
+  ]
+}
