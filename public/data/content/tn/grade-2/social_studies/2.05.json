@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.05",
+  "benchmark_description": "Explain how communities create and change rules and laws to meet the needs of their citizens.",
+  "course": "social_studies",
+  "strand": "GOV",
+  "lesson": {
+    "title": "Rules, Laws, and How They Change",
+    "intro": "Did you ever think a school rule was not fair? Communities can change their rules when they do not work well. Let's learn how communities create and change laws to help everyone!",
+    "body_md": "## Rules vs. Laws\n\n- **Rules** are guidelines for small groups, like families or schools.\n- **Laws** are official rules for a whole community, city, or country. Breaking a law has bigger consequences.\n\nBoth rules and laws are created to keep people safe and treat everyone fairly.\n\n## Why Communities Need Laws\n\nLaws help communities by:\n- Keeping people safe (speed limits, fire codes)\n- Protecting people's rights\n- Solving disagreements fairly\n- Making sure everyone is treated equally\n\n## How Communities Create Laws\n\nIn the United States, laws are made by elected leaders. Here is how a local law is created:\n\n1. **A problem is noticed** \u2014 Citizens or leaders see something that needs fixing.\n2. **An idea is proposed** \u2014 A city council member writes a new law idea (called a **bill** or **ordinance**).\n3. **People discuss it** \u2014 Citizens and leaders talk about the idea. Citizens can share opinions.\n4. **A vote is held** \u2014 The city council votes. If most vote \"yes,\" it becomes a law.\n5. **The mayor signs it** \u2014 The mayor approves the new law.\n6. **The law is enforced** \u2014 Police and community officials make sure people follow it.\n\n## How Communities Change Laws\n\nSometimes old laws no longer fit the community's needs. Communities can change them:\n\n- **Citizens speak up** at city council meetings\n- **Leaders propose** a change to the old law\n- **The city council votes** on the change\n- **The mayor signs** the updated law\n\n## Examples of Law Changes\n\n| Old situation | Problem | New law |\n|---|---|---|\n| No speed limit near school | Children getting hurt | Speed limit of 15 mph near school zones |\n| No leash law for dogs | Dogs running loose, biting people | Dogs must be on leash in parks |\n| No helmet law for bikes | Kids getting head injuries | Children must wear helmets |\n\n## What Citizens Can Do\n\n- Attend town hall meetings\n- Vote for leaders who share their views\n- Sign petitions\n- Write letters to city officials\n- Follow new laws even while working to change unfair ones",
+    "worked_example_md": "## Worked Example: A Community Changes a Law\n\n**Story:** Maplewood's park had no lights. Kids were not safe playing after dark. Residents complained. A city council member proposed a new ordinance to add lights to the park.\n\n**Step 1 \u2014 Identify the problem:** No lights in the park made it unsafe at night.\n\n**Step 2 \u2014 How was the change proposed?** A city council member wrote a new ordinance (local law) about park lights.\n\n**Step 3 \u2014 What happened next?** Citizens came to the city council meeting to share their opinions. The council discussed the idea.\n\n**Step 4 \u2014 How was it decided?** The city council voted. Most members voted \"yes.\" The mayor signed the new ordinance.\n\n**Step 5 \u2014 What changed?** Lights were installed in the park. Citizens helped make their community safer by working through the law-making process.\n\n**Key idea:** When communities identify a need, they can create or change laws to meet that need.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An official rule for a whole community",
+          "correct": true,
+          "explanation": "Laws are official rules that all members of a community, city, or country must follow."
+        },
+        {
+          "id": "b",
+          "label": "A rule only for one classroom",
+          "correct": false,
+          "explanation": "Classroom rules are not laws. Laws apply to whole communities or countries."
+        },
+        {
+          "id": "c",
+          "label": "A suggestion that people can ignore",
+          "correct": false,
+          "explanation": "Laws are not just suggestions. People must follow them."
+        },
+        {
+          "id": "d",
+          "label": "A type of community celebration",
+          "correct": false,
+          "explanation": "Celebrations are part of culture. Laws are official community rules."
+        }
+      ],
+      "explanation_md": "A law is an official rule for a whole community. Everyone must follow it."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do communities create laws?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To make life harder for citizens",
+          "correct": false,
+          "explanation": "Laws are made to protect people, not to make their lives harder."
+        },
+        {
+          "id": "b",
+          "label": "To keep people safe and treat everyone fairly",
+          "correct": true,
+          "explanation": "Communities create laws to protect citizens and make sure everyone is treated fairly."
+        },
+        {
+          "id": "c",
+          "label": "So leaders can tell everyone what to do all day",
+          "correct": false,
+          "explanation": "Laws exist to protect rights and safety, not just to give orders."
+        },
+        {
+          "id": "d",
+          "label": "To make some people more important than others",
+          "correct": false,
+          "explanation": "Good laws are meant to treat everyone equally, not to favor some over others."
+        }
+      ],
+      "explanation_md": "Communities create laws to keep people safe and treat everyone fairly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is the FIRST step in creating a new community law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The mayor signs it",
+          "correct": false,
+          "explanation": "The mayor signs a law near the end of the process, after it has been proposed and voted on."
+        },
+        {
+          "id": "b",
+          "label": "A problem or need is noticed in the community",
+          "correct": true,
+          "explanation": "Laws usually begin because someone notices a problem that needs to be fixed."
+        },
+        {
+          "id": "c",
+          "label": "Police begin enforcing it",
+          "correct": false,
+          "explanation": "Police enforce laws after they are created. Enforcement is the last step."
+        },
+        {
+          "id": "d",
+          "label": "Citizens vote in a national election",
+          "correct": false,
+          "explanation": "Local laws are decided by local city councils, not national elections."
+        }
+      ],
+      "explanation_md": "The first step is noticing a problem or need in the community that a new law could help fix."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Who votes to approve a new local law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The mayor alone",
+          "correct": false,
+          "explanation": "The mayor signs the law, but the city council votes on it first."
+        },
+        {
+          "id": "b",
+          "label": "The city council",
+          "correct": true,
+          "explanation": "The city council votes to approve or reject new local laws."
+        },
+        {
+          "id": "c",
+          "label": "Only the police chief",
+          "correct": false,
+          "explanation": "The police chief enforces laws but does not vote to create them."
+        },
+        {
+          "id": "d",
+          "label": "Second-grade students",
+          "correct": false,
+          "explanation": "City council members, not students, vote on local laws."
+        }
+      ],
+      "explanation_md": "The city council votes on new local laws. If most members vote yes, the law is passed."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community makes a new rule that all dogs must be on a leash in parks. Why might they have created this law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because dogs are not allowed in any community",
+          "correct": false,
+          "explanation": "Dogs are allowed in communities. This law is about safety in parks, not banning dogs."
+        },
+        {
+          "id": "b",
+          "label": "To keep people safe from dogs running loose and possibly biting",
+          "correct": true,
+          "explanation": "A leash law protects park visitors from loose dogs that might bite or scare people."
+        },
+        {
+          "id": "c",
+          "label": "Because the mayor does not like dogs",
+          "correct": false,
+          "explanation": "Laws are made for safety and fairness, not because of personal feelings."
+        },
+        {
+          "id": "d",
+          "label": "To stop people from bringing dogs to parks at all",
+          "correct": false,
+          "explanation": "A leash law allows dogs in parks, just on a leash. It does not ban dogs from parks."
+        }
+      ],
+      "explanation_md": "A leash law keeps park visitors safe from loose dogs that might bite or scare people."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Citizens attend a city council meeting to talk about a new park curfew law. Why is it important for citizens to attend?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Citizens must attend or they will be fined",
+          "correct": false,
+          "explanation": "Attending city council meetings is a choice, not a requirement."
+        },
+        {
+          "id": "b",
+          "label": "Citizens can share their opinions to influence the decision",
+          "correct": true,
+          "explanation": "Citizens attending meetings can voice their views, helping leaders make better decisions."
+        },
+        {
+          "id": "c",
+          "label": "Citizens will vote directly on the law at the meeting",
+          "correct": false,
+          "explanation": "In most communities, the city council votes on local laws, not citizens directly at a meeting."
+        },
+        {
+          "id": "d",
+          "label": "Citizens have no power to influence local laws",
+          "correct": false,
+          "explanation": "Citizens have a powerful voice by attending meetings, writing letters, and voting in elections."
+        }
+      ],
+      "explanation_md": "Citizens attend meetings to share opinions, which helps leaders make better decisions that meet the community's needs."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An old town law says stores must close by 5:00 PM. Many people work late and cannot shop. What should happen?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nothing \u2014 old laws can never be changed",
+          "correct": false,
+          "explanation": "Communities can and do change laws when they no longer meet the community's needs."
+        },
+        {
+          "id": "b",
+          "label": "Citizens and leaders should work together to change the law",
+          "correct": true,
+          "explanation": "When a law no longer works, citizens can speak up and leaders can propose a change."
+        },
+        {
+          "id": "c",
+          "label": "Stores should break the law and stay open anyway",
+          "correct": false,
+          "explanation": "Breaking laws is not the right way to handle an unfair law. Citizens should work to change it through proper steps."
+        },
+        {
+          "id": "d",
+          "label": "The President should make a new national law about store hours",
+          "correct": false,
+          "explanation": "Store hours in a town are a local issue, not a national one."
+        }
+      ],
+      "explanation_md": "When a law no longer meets community needs, citizens and leaders work together to change it through the proper steps."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does the mayor do after the city council approves a new law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The mayor throws the law away",
+          "correct": false,
+          "explanation": "The mayor approves new laws, not discards them."
+        },
+        {
+          "id": "b",
+          "label": "The mayor signs the law to make it official",
+          "correct": true,
+          "explanation": "After the city council votes yes, the mayor signs the law. Then it is official."
+        },
+        {
+          "id": "c",
+          "label": "The mayor rewrites the law completely",
+          "correct": false,
+          "explanation": "The mayor reviews and signs the law, but does not typically rewrite it after the council vote."
+        },
+        {
+          "id": "d",
+          "label": "The mayor asks all citizens to vote on it again",
+          "correct": false,
+          "explanation": "After the city council votes, the mayor signs it. A second citizen vote is not required for local ordinances."
+        }
+      ],
+      "explanation_md": "After the city council approves a law, the mayor signs it to make it an official law."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A community did not have a law requiring bike helmets. Two children were injured in bike accidents. Which is the BEST next step?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ban all bikes from the community",
+          "correct": false,
+          "explanation": "Banning all bikes is too extreme. A targeted helmet law would address the safety issue."
+        },
+        {
+          "id": "b",
+          "label": "Do nothing since accidents are a normal part of life",
+          "correct": false,
+          "explanation": "Leaders and citizens work to make communities safer when problems are identified."
+        },
+        {
+          "id": "c",
+          "label": "Propose a new ordinance requiring children to wear helmets when biking",
+          "correct": true,
+          "explanation": "Noticing a safety problem and proposing a targeted law is the right way to respond."
+        },
+        {
+          "id": "d",
+          "label": "Ask children never to ride bikes",
+          "correct": false,
+          "explanation": "A helmet law is a better solution than banning bike riding completely."
+        }
+      ],
+      "explanation_md": "When a safety problem is identified, the community can create a targeted law, like a helmet requirement, to address it."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement BEST explains why community laws change over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Laws change because leaders get bored and want something new",
+          "correct": false,
+          "explanation": "Laws change when the community's needs change, not because of boredom."
+        },
+        {
+          "id": "b",
+          "label": "Laws change as communities grow and develop new needs that old laws do not address",
+          "correct": true,
+          "explanation": "As communities grow and change, new problems arise. Laws are updated to meet new needs and keep communities safe and fair."
+        },
+        {
+          "id": "c",
+          "label": "Laws never change; they are always the same as when they were first written",
+          "correct": false,
+          "explanation": "Communities regularly update laws to meet changing needs."
+        },
+        {
+          "id": "d",
+          "label": "Laws change only when all citizens agree they should",
+          "correct": false,
+          "explanation": "Laws are changed through the city council vote, not by unanimous citizen agreement."
+        }
+      ],
+      "explanation_md": "Laws change because communities grow and develop new needs that old laws do not address."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Put these steps in order to show how a new local law is made:\n\n1. Mayor signs the law\n2. A problem is noticed\n3. City council votes\n4. A law idea is proposed",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1, 3, 4, 2",
+          "correct": false,
+          "explanation": "The problem must be noticed first, then a law idea is proposed, then voted on, then signed."
+        },
+        {
+          "id": "b",
+          "label": "2, 4, 3, 1",
+          "correct": true,
+          "explanation": "Problem noticed (2), law proposed (4), council votes (3), mayor signs (1) is the correct order."
+        },
+        {
+          "id": "c",
+          "label": "3, 2, 1, 4",
+          "correct": false,
+          "explanation": "The vote comes after the problem is noticed and a law is proposed, not before."
+        },
+        {
+          "id": "d",
+          "label": "4, 3, 2, 1",
+          "correct": false,
+          "explanation": "The problem must be noticed before a law is proposed. This order is wrong."
+        }
+      ],
+      "explanation_md": "The correct order is: problem noticed, law proposed, council votes, mayor signs."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why would a community want to CHANGE an existing law?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Just because it is old",
+          "correct": false,
+          "explanation": "Age alone is not a reason to change a law. Laws change when they no longer meet community needs."
+        },
+        {
+          "id": "b",
+          "label": "Because the law no longer meets the community's needs or is unfair",
+          "correct": true,
+          "explanation": "Laws are changed when they do not work well for the community, are unfair, or do not address a problem."
+        },
+        {
+          "id": "c",
+          "label": "Because laws must be changed every year",
+          "correct": false,
+          "explanation": "There is no rule that laws must change every year."
+        },
+        {
+          "id": "d",
+          "label": "Because the mayor decides alone to change it for fun",
+          "correct": false,
+          "explanation": "Laws are changed through a process involving the city council, not just one leader for fun."
+        }
+      ],
+      "explanation_md": "Communities change laws when they no longer meet the community's needs or treat people fairly."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student disagrees with a new school rule. What should the student do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ignore the rule since it is unfair",
+          "correct": false,
+          "explanation": "Good citizens follow rules while working to change unfair ones through proper ways."
+        },
+        {
+          "id": "b",
+          "label": "Follow the rule and speak to the principal or school council about changing it",
+          "correct": true,
+          "explanation": "Following the rule while speaking up through proper channels is the right citizenship approach."
+        },
+        {
+          "id": "c",
+          "label": "Get other students to break the rule together",
+          "correct": false,
+          "explanation": "Getting others to break a rule is not the right response. Work to change it through proper steps."
+        },
+        {
+          "id": "d",
+          "label": "Ask the mayor to change the school rule",
+          "correct": false,
+          "explanation": "The mayor handles city laws, not individual school rules. The student should speak to school officials."
+        }
+      ],
+      "explanation_md": "Good citizens follow rules while working to change unfair ones through proper channels, like talking to the principal."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Laws help communities by:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Making people unhappy",
+          "correct": false,
+          "explanation": "Laws are designed to protect people and make communities safer, not to make them unhappy."
+        },
+        {
+          "id": "b",
+          "label": "Keeping people safe and treating everyone fairly",
+          "correct": true,
+          "explanation": "Laws exist to keep people safe and make sure everyone is treated fairly."
+        },
+        {
+          "id": "c",
+          "label": "Giving leaders all the power",
+          "correct": false,
+          "explanation": "Laws are meant to protect everyone's rights, not to give one group all the power."
+        },
+        {
+          "id": "d",
+          "label": "Making some people more important than others",
+          "correct": false,
+          "explanation": "Good laws treat everyone equally."
+        }
+      ],
+      "explanation_md": "Laws keep people safe and help treat everyone in the community fairly."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Who votes to approve new local laws?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only the mayor",
+          "correct": false,
+          "explanation": "The mayor signs laws, but the city council votes on them first."
+        },
+        {
+          "id": "b",
+          "label": "The city council",
+          "correct": true,
+          "explanation": "The city council votes on new local laws."
+        },
+        {
+          "id": "c",
+          "label": "The school principal",
+          "correct": false,
+          "explanation": "The principal runs a school. The city council makes local laws."
+        },
+        {
+          "id": "d",
+          "label": "The fire chief",
+          "correct": false,
+          "explanation": "The fire chief leads firefighters. The city council makes local laws."
+        }
+      ],
+      "explanation_md": "The city council votes on new local laws."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Can communities change laws that are not working?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, laws can never be changed",
+          "correct": false,
+          "explanation": "Communities can and do change laws when they are not working or are unfair."
+        },
+        {
+          "id": "b",
+          "label": "Yes, leaders can propose changes and the city council can vote to change them",
+          "correct": true,
+          "explanation": "Laws can be updated when they no longer meet the community's needs."
+        },
+        {
+          "id": "c",
+          "label": "Only the President can change local laws",
+          "correct": false,
+          "explanation": "Local laws are changed by local leaders like the city council and mayor."
+        },
+        {
+          "id": "d",
+          "label": "Laws change automatically every five years",
+          "correct": false,
+          "explanation": "Laws change when the community decides to change them, not on a fixed schedule."
+        }
+      ],
+      "explanation_md": "Yes, communities can change laws when they are not working. The city council votes to make changes."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A park is unsafe because of loose trash. Citizens want a new trash law. What should they do first?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wait for someone else to fix it",
+          "correct": false,
+          "explanation": "Citizens can take action by speaking to their leaders about community problems."
+        },
+        {
+          "id": "b",
+          "label": "Speak at a city council meeting about the problem",
+          "correct": true,
+          "explanation": "The right first step is to bring the problem to the city council's attention."
+        },
+        {
+          "id": "c",
+          "label": "Throw more trash in the park to show the problem",
+          "correct": false,
+          "explanation": "Throwing trash makes the problem worse. Citizens should speak to leaders about it."
+        },
+        {
+          "id": "d",
+          "label": "Move to a different city",
+          "correct": false,
+          "explanation": "Good citizens work to improve their community rather than leaving."
+        }
+      ],
+      "explanation_md": "Citizens can speak at city council meetings to bring problems to their leaders' attention."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "After the city council votes to approve a new law, what does the mayor do?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ignores the law",
+          "correct": false,
+          "explanation": "The mayor does not ignore laws passed by the city council."
+        },
+        {
+          "id": "b",
+          "label": "Signs the law to make it official",
+          "correct": true,
+          "explanation": "The mayor signs the new law. After signing, it becomes an official law of the community."
+        },
+        {
+          "id": "c",
+          "label": "Goes on vacation",
+          "correct": false,
+          "explanation": "The mayor has important responsibilities including signing new laws."
+        },
+        {
+          "id": "d",
+          "label": "Asks the President for permission",
+          "correct": false,
+          "explanation": "The mayor does not need the President's permission for local laws."
+        }
+      ],
+      "explanation_md": "After the city council votes yes, the mayor signs the new law to make it official."
+    }
+  ]
+}
