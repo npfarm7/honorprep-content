@@ -1,0 +1,541 @@
+{
+  "skill_id": "MA.2.DP.1.1",
+  "benchmark_description": "Collect, categorize and represent data using tally marks, tables, pictographs or bar graphs.",
+  "course": "math",
+  "strand": "Data Analysis & Probability",
+  "lesson": {
+    "title": "Collecting and Representing Data",
+    "objective": "Students will collect data, organize it into categories, and represent it using tally marks, tables, pictographs, or bar graphs.",
+    "vocabulary": [
+      "data",
+      "tally mark",
+      "table",
+      "pictograph",
+      "bar graph",
+      "category",
+      "survey"
+    ],
+    "introduction": "Data is information we collect about the world around us. We can ask questions, count things, or measure things to gather data. Once we have data, we organize it into groups called categories. Then we can show the data in different ways \u2014 using tally marks, tables, pictographs, or bar graphs \u2014 so it is easy to read and understand.",
+    "content": [
+      {
+        "section": "Collecting Data",
+        "explanation": "To collect data, you ask a question and record the answers. For example, you might ask your classmates: 'What is your favorite fruit?' As each person answers, you record a tally mark in the correct category. Each tally mark stands for one answer. After every four tally marks, the fifth mark is drawn across the group (||||). This makes counting easier.",
+        "example": "Favorite Fruit Survey:\nApple: |||| (4 students)\nBanana: ||| (3 students)\nGrape: |||| | (6 students)\nOrange: || (2 students)\nTotal students surveyed: 15"
+      },
+      {
+        "section": "Organizing Data in a Table",
+        "explanation": "A table uses rows and columns to organize data. One column shows the categories. Another column shows the number for each category. Tables make it easy to look up exact counts.",
+        "example": "Favorite Fruit Table:\n| Fruit   | Number of Students |\n|---------|--------------------|\n| Apple   | 4                  |\n| Banana  | 3                  |\n| Grape   | 6                  |\n| Orange  | 2                  |"
+      },
+      {
+        "section": "Pictographs",
+        "explanation": "A pictograph uses pictures or symbols to show data. Each picture stands for a certain number of items. The key tells you what each picture means. If the key says each apple picture = 1 student, you draw 4 apple pictures for 4 students.",
+        "example": "Favorite Fruit Pictograph (each \ud83c\udf4e = 1 student):\nApple:  \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\nBanana: \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\nGrape:  \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\nOrange: \ud83c\udf4e\ud83c\udf4e"
+      },
+      {
+        "section": "Bar Graphs",
+        "explanation": "A bar graph uses bars to show data. The longer the bar, the more items in that category. The bottom of the graph (horizontal axis) shows categories. The side of the graph (vertical axis) shows numbers. You read the top of each bar to find the count.",
+        "example": "A bar graph for the fruit data would show four bars. The Grape bar would be tallest (reaching 6). The Orange bar would be shortest (reaching 2). The Apple bar reaches 4 and the Banana bar reaches 3."
+      }
+    ],
+    "summary": "We collect data by counting or surveying. We organize data using tally marks and tables. We show data using pictographs and bar graphs. Each method helps us read and understand information quickly."
+  },
+  "practice_questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Ms. Rivera asked her class to vote for their favorite pet. She made tally marks. Which tool is she using to record her data?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A bar graph",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A pictograph",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Tally marks",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A ruler",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Look at these tally marks: |||| ||. How many tally marks are there in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "7",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A class surveyed students about their favorite color. Blue got 8 votes, Red got 5 votes, and Green got 3 votes. Which category had the most votes?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Green",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Blue",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "They all had the same",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "In a pictograph, the key says each star = 2 students. There are 3 stars next to 'Soccer.' How many students chose Soccer?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows students' favorite seasons. The bar for Summer reaches 9, Winter reaches 4, Fall reaches 6, and Spring reaches 7. How many more students chose Summer than Winter?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Students voted on their favorite school subject. The tally marks showed: Math |||| |, Reading ||||, Science |||, Art |||| ||. Which subject got the second most votes?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Math",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Reading",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Art",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Math and Art tied for first, Reading is second",
+          "correct": false
+        }
+      ],
+      "override_correct": "a",
+      "explanation": "Math: 6, Reading: 4, Science: 3, Art: 7. Art (7) is most. Math (6) is second most."
+    },
+    {
+      "id": "q6_fixed",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Students voted on their favorite school subject. The tally marks showed: Math |||| | (6 votes), Reading |||| (4 votes), Science ||| (3 votes), Art |||| || (7 votes). Which subject got the SECOND most votes?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Math",
+          "correct": true
+        },
+        {
+          "label": "b",
+          "text": "Reading",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Science",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Art",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A table shows how many books students read: Ana read 5, Ben read 3, Cora read 7, Dan read 5. How many books did the students read in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "15",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "18",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "20",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "23",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A pictograph shows types of weather last month. Sunny: 4 suns, Cloudy: 3 suns, Rainy: 2 suns. The key says each sun = 3 days. How many sunny days were there last month?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A bar graph shows students' favorite animals: Dog = 10, Cat = 7, Bird = 4, Fish = 3. How many students were surveyed altogether?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "20",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "21",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "24",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "28",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "Ms. Lopez's class voted for their favorite sport. Soccer got 8 votes, Basketball got 5 votes, and Baseball got 3 votes. How many MORE students chose Soccer than Baseball?",
+      "correct_answer": "5"
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A class collected data on how students get to school. The table shows: Walk = 6, Bus = 9, Car = 4, Bike = 2. Which display would show this data correctly using a bar graph?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "The Bus bar would be the tallest bar",
+          "correct": true
+        },
+        {
+          "label": "b",
+          "text": "The Walk bar would be the tallest bar",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "The Car bar would be the tallest bar",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "All bars would be the same height",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A pictograph shows ice cream flavors chosen by students. The key says each cone = 2 students. Chocolate: 5 cones, Vanilla: 3 cones, Strawberry: 4 cones. How many students chose Vanilla?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc3",
+      "type": "numeric",
+      "difficulty": 4,
+      "question": "Students counted birds at a feeder: Monday = 7, Tuesday = 4, Wednesday = 9, Thursday = 6. They recorded this in a table. What was the total number of birds counted over all four days?",
+      "correct_answer": "26"
+    }
+  ],
+  "remediation": [
+    {
+      "id": "r1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "How many tally marks does this show: ||| ?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "In a bar graph, what does the HEIGHT of a bar tell you?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "The name of the category",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "The number of items in that category",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "The color of the bar",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "The title of the graph",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A pictograph has a key that says: 1 star = 1 student. There are 5 stars next to 'Tennis.' How many students like Tennis?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "10",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A class made a table showing their favorite snacks. Pretzels: 4, Crackers: 6, Fruit: 3. Which snack is most popular?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Pretzels",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Crackers",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Fruit",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "They are all the same",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Sam collected data by asking 10 friends about their favorite season. She recorded each answer with a tally mark. After asking all 10 friends, how many tally marks should she have in all?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "12",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
