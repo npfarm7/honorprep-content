@@ -5,9 +5,9 @@
   "strand": "N",
   "lesson": {
     "title": "Comparing What We Found",
-    "intro": "Imagine two groups of students both measured how tall their bean plants grew. Did they get the same answer? Scientists always check each other's work! Comparing results helps everyone learn more and find out if something went wrong.",
-    "body_md": "## Why Compare Results?\n\nWhen different groups investigate the **same question** using the **same tools**, their results should be close to each other. Comparing results helps us:\n\n- Check if our measurements are correct\n- Find out if one group made a mistake\n- Get a more complete picture of what really happens\n\n## Using the Same Tools\n\nIf Group A uses a ruler to measure a rock and Group B uses their hand, the results will be hard to compare. That is why scientists always use the **same tools**. Tools like rulers, thermometers, and balances give numbers everyone can compare.\n\n| Tool | What It Measures |\n|------|------------------|\n| Ruler | Length or height |\n| Thermometer | Temperature |\n| Balance | Mass (how heavy) |\n| Cup | Volume (how much liquid) |\n\n## Communicating Findings\n\n**Communicating** means sharing what you found. Scientists share results by:\n- Telling the class out loud\n- Writing numbers in a table\n- Drawing a picture or chart\n- Showing measurements on a graph\n\nWhen you share clearly, other people can understand and check your work.\n\n## What If Results Are Different?\n\nSometimes groups get different numbers. That is okay! It means you should:\n1. Check the measurements again\n2. Look for mistakes (did someone count wrong?)\n3. Try the investigation one more time\n\nSmall differences are normal. Big differences mean someone needs to check their work.",
-    "worked_example_md": "## Worked Example\n\n**Investigation:** How long does an ice cube take to melt at room temperature?\n\n**Group 1 result:** 12 minutes  \n**Group 2 result:** 13 minutes  \n**Group 3 result:** 12 minutes\n\n**Comparing:** All three groups got very close results (12, 13, 12 minutes). The small difference of 1 minute is likely because the ice cubes were slightly different sizes.\n\n**Communicating the findings:** 'Our class found that an ice cube takes about 12 to 13 minutes to melt at room temperature. All three groups used the same size cups and the same thermometer to check the room temperature. Our results were very close to each other, so we feel confident in our answer.'\n\n**Why this works:** Using the same tools (same size cups, same thermometer) made the results easy to compare. The findings were communicated clearly with numbers.",
+    "intro": "Imagine two groups both measured how tall their bean plants grew. Did they get the same answer? Scientists always check each other's work! Comparing results helps everyone learn more and find out if something went wrong.",
+    "body_md": "## Why Compare Results?\n\nWhen different groups investigate the **same question** using the **same tools**, their results should be close. Comparing results helps us:\n- Check if our measurements are correct\n- Find out if one group made a mistake\n- Get a more complete picture of what really happens\n\n## Using the Same Tools\n\nIf Group A uses a ruler and Group B uses their hand, the results are hard to compare. Scientists always use the **same tools**.\n\n| Tool | What It Measures |\n|------|------------------|\n| Ruler | Length or height |\n| Thermometer | Temperature |\n| Balance | Mass |\n| Cup | Volume of liquid |\n\n## Communicating Findings\n\n**Communicating** means sharing what you found \u2014 out loud, in a table, in a drawing, or on a chart. When you share clearly, others can understand and check your work.\n\n## What If Results Are Different?\n\nSometimes groups get different numbers. Check the measurements again. Look for mistakes. Try the investigation one more time. Small differences are normal. Big differences mean someone needs to check their work.",
+    "worked_example_md": "## Worked Example\n\n**How long does an ice cube take to melt?**\n\nGroup 1: 12 min | Group 2: 13 min | Group 3: 12 min\n\n**Comparing:** All three got very close results. The 1-minute difference is likely because the ice cubes were slightly different sizes.\n\n**Communicating:** 'Our class found that an ice cube takes about 12 to 13 minutes to melt at room temperature. All three groups used the same size cups and the same thermometer. Our results were very close, so we feel confident in our answer.'",
     "estimated_minutes": 9
   },
   "practice_questions": [
@@ -27,22 +27,22 @@
           "id": "b",
           "label": "So their results can be compared fairly",
           "correct": true,
-          "explanation": "Using the same tools means differences in results come from the investigation, not from different measuring tools."
+          "explanation": "Using the same tools means differences come from the investigation, not from different measuring tools."
         },
         {
           "id": "c",
           "label": "Because tools are expensive and should be shared",
           "correct": false,
-          "explanation": "Sharing tools is fine, but the reason for using the same tools is to get comparable results."
+          "explanation": "Sharing tools is fine, but the scientific reason is comparability."
         },
         {
           "id": "d",
           "label": "So one group can copy the other group's work",
           "correct": false,
-          "explanation": "Copying is not science \u2014 each group should do their own investigation."
+          "explanation": "Each group should do their own investigation."
         }
       ],
-      "explanation_md": "Using the same tools ensures results can be fairly compared. If one group uses a ruler and another uses a string, their measurements are hard to compare."
+      "explanation_md": "Using the same tools ensures results can be fairly compared."
     },
     {
       "ordering": 2,
@@ -54,7 +54,7 @@
           "id": "a",
           "label": "Keep your results to yourself",
           "correct": false,
-          "explanation": "Keeping results secret is the opposite of communicating \u2014 scientists share their findings."
+          "explanation": "Keeping results secret is the opposite of communicating."
         },
         {
           "id": "b",
@@ -66,22 +66,22 @@
           "id": "c",
           "label": "Change your results to match your partner",
           "correct": false,
-          "explanation": "Changing results is dishonest and not scientific."
+          "explanation": "Changing results is dishonest."
         },
         {
           "id": "d",
           "label": "Forget what you observed",
           "correct": false,
-          "explanation": "Forgetting observations makes them useless \u2014 you need to record and share them."
+          "explanation": "Forgetting observations makes them useless."
         }
       ],
-      "explanation_md": "Communicating findings means sharing results clearly \u2014 through words, numbers, charts, or drawings \u2014 so others can understand and verify your work."
+      "explanation_md": "Communicating means sharing results clearly so others can understand and verify your work."
     },
     {
       "ordering": 3,
       "difficulty": 2,
       "type": "multiple_choice",
-      "prompt_md": "Group A measured a leaf and got 8 cm. Group B measured the same leaf and got 8 cm too. What does this tell you?",
+      "prompt_md": "Group A measured a leaf and got 8 cm. Group B measured the same leaf and got 8 cm. What does this tell you?",
       "choices": [
         {
           "id": "a",
@@ -93,88 +93,88 @@
           "id": "b",
           "label": "The measurement is likely correct because both groups agreed",
           "correct": true,
-          "explanation": "When two groups independently get the same result, it gives more confidence that the measurement is accurate."
+          "explanation": "Two groups independently getting the same result gives confidence that 8 cm is accurate."
         },
         {
           "id": "c",
           "label": "One group copied the other",
           "correct": false,
-          "explanation": "It is possible to get the same result independently when measuring the same object accurately."
+          "explanation": "It is possible to get the same result independently by measuring accurately."
         },
         {
           "id": "d",
           "label": "The leaf is probably 16 cm because you add the two results",
           "correct": false,
-          "explanation": "You do not add results together \u2014 both groups measured the same leaf and got the same answer."
+          "explanation": "You do not add results from measuring the same object."
         }
       ],
-      "explanation_md": "Matching results from two independent groups are a sign that the measurement is accurate. This is one reason comparing results is so valuable."
+      "explanation_md": "Matching results from two independent groups are a sign the measurement is accurate."
     },
     {
       "ordering": 4,
       "difficulty": 2,
       "type": "multiple_choice",
-      "prompt_md": "Group A found that a rock had a mass of 50 grams. Group B found the same rock had a mass of 75 grams. What is the BEST next step?",
+      "prompt_md": "Group A found a rock had a mass of 50 grams. Group B found 75 grams. What is the BEST next step?",
       "choices": [
         {
           "id": "a",
-          "label": "Use the average of 50 and 75 (62.5 grams) without checking",
+          "label": "Average the two numbers without checking",
           "correct": false,
-          "explanation": "A big difference like this means someone likely made a mistake \u2014 averaging is not the right fix."
+          "explanation": "A big difference means someone likely made a mistake \u2014 averaging is not the right fix."
         },
         {
           "id": "b",
-          "label": "Check if the groups used the same balance and re-measure the rock",
+          "label": "Check if groups used the same balance and re-measure the rock",
           "correct": true,
-          "explanation": "A 25-gram difference is large and likely means a tool error or measuring mistake \u2014 checking and re-measuring is the scientific response."
+          "explanation": "A 25-gram difference signals a likely tool error or measuring mistake."
         },
         {
           "id": "c",
           "label": "Decide Group B is wrong because they got a bigger number",
           "correct": false,
-          "explanation": "A bigger number is not automatically wrong \u2014 you need to actually check the measurement."
+          "explanation": "A bigger number is not automatically wrong."
         },
         {
           "id": "d",
           "label": "Ignore the difference and pick the result you like",
           "correct": false,
-          "explanation": "Ignoring a big difference means your conclusion may be wrong \u2014 always investigate the cause."
+          "explanation": "Ignoring a big difference means your conclusion may be wrong."
         }
       ],
-      "explanation_md": "A large difference between two groups measuring the same thing signals a possible error. The best step is to re-measure carefully using the same tool."
+      "explanation_md": "A large difference between two groups measuring the same thing signals a possible error. Re-measure carefully using the same tool."
     },
     {
       "ordering": 5,
       "difficulty": 3,
       "type": "multiple_choice",
-      "prompt_md": "Three groups measured how far a toy car rolled down a ramp. Their results were: 45 cm, 46 cm, and 44 cm. What can you say about their results?",
+      "prompt_md": "Three groups measured how far a toy car rolled: 45 cm, 46 cm, and 44 cm. What can you say?",
       "choices": [
         {
           "id": "a",
           "label": "Their results are all different so the investigation was wrong",
           "correct": false,
-          "explanation": "Small differences (1-2 cm) are normal and expected \u2014 they do not mean the investigation was wrong."
+          "explanation": "Small differences (1-2 cm) are normal and expected."
         },
         {
           "id": "b",
-          "label": "Their results are very close, which means the investigation was done carefully",
+          "label": "Their results are very close, showing the investigation was done carefully",
           "correct": true,
-          "explanation": "Results of 44, 45, and 46 cm are only 1-2 cm apart \u2014 that is a small, expected variation showing careful measurement."
+          "explanation": "Results of 44-46 cm are only 1-2 cm apart \u2014 small, expected variation showing careful measurement."
         },
         {
           "id": "c",
           "label": "The car traveled exactly 45 cm every time",
           "correct": false,
-          "explanation": "Each group got slightly different numbers \u2014 45 cm was just one group's result."
+          "explanation": "Each group got slightly different numbers \u2014 45 was just one group's result."
         },
         {
           "id": "d",
           "label": "They should repeat until all groups get exactly the same number",
           "correct": false,
-          "explanation": "Getting exactly the same number every time is very rare \u2014 small natural variation is expected and acceptable."
+          "explanation": "Exactly the same result every time is very rare \u2014 small variation is expected."
         }
       ],
-      "explanation_md": "Small differences between groups (1-2 cm here) are normal. Close results show the investigation was done carefully and the results are reliable."
+      "explanation_md": "Small differences between groups (1-2 cm) are normal. Close results show the investigation was done carefully."
     },
     {
       "ordering": 6,
@@ -186,11 +186,11 @@
           "id": "a",
           "label": "Whisper only to your best friend",
           "correct": false,
-          "explanation": "Sharing only with one friend does not let the whole class check or learn from your results."
+          "explanation": "Sharing only with one person does not let the class check or learn from your results."
         },
         {
           "id": "b",
-          "label": "Write your results in a chart and read them aloud to the class",
+          "label": "Write your results in a chart and read them aloud",
           "correct": true,
           "explanation": "A chart makes results clear and easy to compare; reading them aloud lets everyone hear the findings."
         },
@@ -198,133 +198,133 @@
           "id": "c",
           "label": "Throw away your data sheet after the investigation",
           "correct": false,
-          "explanation": "Throwing away data means the evidence is lost \u2014 you need it to communicate findings."
+          "explanation": "Throwing away data removes the evidence you worked hard to gather."
         },
         {
           "id": "d",
-          "label": "Make up what your results were because you forgot to write them down",
+          "label": "Make up what your results were",
           "correct": false,
-          "explanation": "Making up results is dishonest and not scientific. This is why recording during the investigation is so important."
+          "explanation": "Making up results is dishonest and ruins the investigation."
         }
       ],
-      "explanation_md": "The best way to communicate findings is clearly and to everyone \u2014 a chart plus verbal explanation is a strong scientific communication."
+      "explanation_md": "The best way to communicate findings is clearly and to everyone \u2014 a chart plus verbal explanation is strong scientific communication."
     },
     {
       "ordering": 7,
       "difficulty": 3,
       "type": "multiple_choice",
-      "prompt_md": "Rosa and James both measured the temperature of water after heating it for 2 minutes. Rosa got 55\u00b0C; James got 56\u00b0C. What most likely caused the small difference?",
+      "prompt_md": "Rosa got 55 degrees C and James got 56 degrees C measuring the same heated water. What MOST LIKELY caused the small difference?",
       "choices": [
         {
           "id": "a",
           "label": "One of them is lying",
           "correct": false,
-          "explanation": "A 1-degree difference is too small to be dishonesty \u2014 it is a normal measurement variation."
+          "explanation": "A 1-degree difference is too small to be dishonesty \u2014 it is normal measurement variation."
         },
         {
           "id": "b",
           "label": "Normal small differences in timing or thermometer reading",
           "correct": true,
-          "explanation": "Tiny differences (1 degree) are expected and can come from slight differences in when they read the thermometer or where they placed it."
+          "explanation": "Tiny differences (1 degree) are expected from slight differences in when they read or where they placed the thermometer."
         },
         {
           "id": "c",
           "label": "They used completely different tools so results cannot be compared",
           "correct": false,
-          "explanation": "A 1-degree difference does not mean they used different tools \u2014 it is normal variation with the same tool."
+          "explanation": "A 1-degree difference does not mean they used different tools."
         },
         {
           "id": "d",
           "label": "The water temperature changed between readings",
           "correct": false,
-          "explanation": "While possible, a 1\u00b0C difference is better explained by normal measurement variation."
+          "explanation": "While possible, a 1 degree C difference is better explained by normal measurement variation."
         }
       ],
-      "explanation_md": "Small differences of 1 degree are normal and expected. They come from tiny variations in how or when a measurement was taken \u2014 not from error or dishonesty."
+      "explanation_md": "Small differences of 1 degree are normal. They come from tiny variations in how or when a measurement was taken."
     },
     {
       "ordering": 8,
       "difficulty": 4,
       "type": "multiple_choice",
-      "prompt_md": "A class investigated how much rain fell in a week. Group 1 used a ruler and got 3 cm. Group 2 estimated using a stick marked in inches and got about 1 inch. Are these results easy to compare? Why or why not?",
+      "prompt_md": "Group 1 measured rain with a ruler: 3 cm. Group 2 used a stick marked in inches: about 1 inch. Are these easy to compare?",
       "choices": [
         {
           "id": "a",
           "label": "Yes, because both groups measured the same rain",
           "correct": false,
-          "explanation": "Measuring the same thing but in different units makes direct comparison difficult without conversion."
+          "explanation": "Measuring the same thing in different units makes direct comparison difficult."
         },
         {
           "id": "b",
           "label": "No, because they used different units \u2014 cm and inches are not the same",
           "correct": true,
-          "explanation": "1 inch equals about 2.54 cm. When units differ, you must convert before comparing \u2014 this is why scientists agree on units beforehand."
+          "explanation": "1 inch equals about 2.54 cm. Different units require conversion before comparing."
         },
         {
           "id": "c",
           "label": "Yes, because 3 and 1 are both numbers",
           "correct": false,
-          "explanation": "Numbers in different units cannot be directly compared \u2014 3 cm and 1 inch are not the same measurement."
+          "explanation": "Numbers in different units cannot be directly compared."
         },
         {
           "id": "d",
           "label": "No, because rain cannot be measured",
           "correct": false,
-          "explanation": "Rain can definitely be measured \u2014 this is done every day by weather stations around the world."
+          "explanation": "Rain is measured every day by weather stations around the world."
         }
       ],
-      "explanation_md": "Comparing 3 cm to 1 inch requires knowing that 1 inch = 2.54 cm. The results are actually very close (3 cm \u2248 1.18 inches), but different units make direct comparison hard \u2014 this is why using the same tools and units matters."
+      "explanation_md": "Different units make direct comparison hard \u2014 this is why using the same tools and units matters."
     },
     {
       "ordering": 9,
       "difficulty": 4,
       "type": "multiple_choice",
-      "prompt_md": "After comparing results from four groups, the teacher says Group 3's result is an **outlier** \u2014 it is very different from the other three. What should the class do with Group 3's data?",
+      "prompt_md": "Group 3's result is very different from the other three groups. What should the class do with Group 3's data?",
       "choices": [
         {
           "id": "a",
           "label": "Include it without question because all data matters equally",
           "correct": false,
-          "explanation": "An outlier that is very different from all others should be investigated for errors before being included."
+          "explanation": "An outlier very different from all others should be investigated before being included."
         },
         {
           "id": "b",
-          "label": "Investigate whether Group 3 made a measuring error before deciding what to do with it",
+          "label": "Investigate whether Group 3 made a measuring error before deciding what to do",
           "correct": true,
-          "explanation": "An outlier often signals a mistake. The right step is to check Group 3's process and possibly re-measure before deciding whether to include or exclude it."
+          "explanation": "An outlier often signals a mistake. Check Group 3's process and possibly re-measure before deciding."
         },
         {
           "id": "c",
           "label": "Delete it immediately because it makes the class look bad",
           "correct": false,
-          "explanation": "Deleting data just because it is different is dishonest \u2014 the reason for the difference must be investigated."
+          "explanation": "Deleting data just because it is different is dishonest."
         },
         {
           "id": "d",
           "label": "Award Group 3 a prize for being different",
           "correct": false,
-          "explanation": "An outlier is not a prize-winning result \u2014 it is a signal to investigate further."
+          "explanation": "An outlier is a signal to investigate further, not a prize."
         }
       ],
-      "explanation_md": "Outliers \u2014 results very different from the rest \u2014 should trigger an investigation. Group 3 may have made a measuring error, used the wrong tool, or misread their instrument. Check first, then decide."
+      "explanation_md": "Outliers should trigger an investigation. Check for measuring errors first, then decide whether to include or exclude."
     },
     {
       "ordering": 10,
       "difficulty": 5,
       "type": "multiple_choice",
-      "prompt_md": "Two second-grade classes each grew bean seeds with the same amount of water and sunlight. Class A's seeds sprouted in 5 days on average. Class B's seeds sprouted in 8 days on average. The classes used the same rulers but kept the seeds in different rooms. What is the MOST LIKELY reason their results are different?",
+      "prompt_md": "Class A's bean seeds sprouted in 5 days on average; Class B's in 8 days. Both used the same water and sunlight amounts but were in different rooms. What is MOST LIKELY responsible?",
       "choices": [
         {
           "id": "a",
           "label": "One class did not water their seeds",
           "correct": false,
-          "explanation": "The question states both classes gave the same amount of water."
+          "explanation": "Both classes gave the same amount of water."
         },
         {
           "id": "b",
           "label": "The rooms had different temperatures, which affected sprouting speed",
           "correct": true,
-          "explanation": "Room temperature is a variable that was NOT controlled. Warmer rooms speed up sprouting. Different rooms likely had different temperatures."
+          "explanation": "Room temperature is a variable that was NOT controlled. Warmer rooms speed up sprouting."
         },
         {
           "id": "c",
@@ -334,12 +334,12 @@
         },
         {
           "id": "d",
-          "label": "Seeds always sprout in exactly 5 or 8 days depending on the color",
+          "label": "Seeds always sprout in exactly 5 or 8 days depending on their color",
           "correct": false,
           "explanation": "Seed color does not determine sprouting time. Temperature and moisture are the main factors."
         }
       ],
-      "explanation_md": "When two groups follow the same procedure but get different results, look for a variable that was NOT controlled. Room temperature differs between classrooms and is a known factor in sprouting speed."
+      "explanation_md": "When two groups follow the same procedure but get different results, look for an uncontrolled variable. Room temperature differs between classrooms and is a known factor in sprouting speed."
     }
   ],
   "mastery_check": [
@@ -347,34 +347,34 @@
       "ordering": 1,
       "difficulty": 3,
       "type": "multiple_choice",
-      "prompt_md": "Four groups each measured the height of the same sunflower. Their results were: 42 cm, 43 cm, 42 cm, and 41 cm. What is the BEST conclusion about the sunflower's height?",
+      "prompt_md": "Four groups measured the same sunflower: 42, 43, 42, 41 cm. What is the BEST conclusion?",
       "choices": [
         {
           "id": "a",
-          "label": "The sunflower is exactly 42 cm tall because that is the most common result",
+          "label": "The sunflower is exactly 42 cm because that is most common",
           "correct": false,
-          "explanation": "While 42 is the most common, the best conclusion covers the range of all results."
+          "explanation": "The best conclusion covers the range of all results."
         },
         {
           "id": "b",
-          "label": "The sunflower is about 41 to 43 cm tall based on the close results from all groups",
+          "label": "The sunflower is about 41 to 43 cm based on the close results from all groups",
           "correct": true,
-          "explanation": "Results ranging from 41-43 cm show the sunflower is approximately 41-43 cm tall. The close results give confidence in this range."
+          "explanation": "Results ranging 41-43 cm show the sunflower is approximately that range."
         },
         {
           "id": "c",
-          "label": "The sunflower's height cannot be determined",
+          "label": "The height cannot be determined",
           "correct": false,
-          "explanation": "Four close measurements give plenty of information to estimate the height."
+          "explanation": "Four close measurements give plenty of information."
         },
         {
           "id": "d",
           "label": "The sunflower grows taller every time it is measured",
           "correct": false,
-          "explanation": "Measuring does not make things grow \u2014 the slightly different numbers come from measurement variation."
+          "explanation": "Measuring does not make things grow."
         }
       ],
-      "explanation_md": "Close results from multiple groups show that the true value is within that range. Results of 41-43 cm mean the sunflower is about 42 cm tall \u2014 reporting the range is the most accurate communication."
+      "explanation_md": "Close results from multiple groups show the true value is within that range."
     },
     {
       "ordering": 2,
@@ -386,19 +386,19 @@
           "id": "a",
           "label": "Because writing is good handwriting practice",
           "correct": false,
-          "explanation": "Handwriting practice is not the scientific reason for recording data."
+          "explanation": "Handwriting practice is not the scientific reason."
         },
         {
           "id": "b",
           "label": "Because written records are accurate and can be shared and compared with other groups",
           "correct": true,
-          "explanation": "Written records preserve the exact numbers so they can be shared, compared, and checked by others."
+          "explanation": "Written records preserve exact numbers so they can be shared, compared, and checked."
         },
         {
           "id": "c",
           "label": "Because the teacher will take them away at the end",
           "correct": false,
-          "explanation": "Teachers use student data to help learning \u2014 that is a reason to record, but not the main scientific reason."
+          "explanation": "Teachers use student data to help learning, but that is not the main scientific reason."
         },
         {
           "id": "d",
@@ -407,7 +407,7 @@
           "explanation": "Memories fade and change over time \u2014 written records stay exact."
         }
       ],
-      "explanation_md": "Written records preserve exact data that can be shared, compared with other groups, and checked for accuracy. Memory alone is not reliable for scientific communication."
+      "explanation_md": "Written records preserve exact data that can be shared, compared, and checked for accuracy."
     },
     {
       "ordering": 3,
@@ -419,7 +419,7 @@
           "id": "a",
           "label": "A ruler",
           "correct": false,
-          "explanation": "A ruler measures length, not mass (weight)."
+          "explanation": "A ruler measures length, not mass."
         },
         {
           "id": "b",
@@ -437,10 +437,10 @@
           "id": "d",
           "label": "A hand lens",
           "correct": false,
-          "explanation": "A hand lens magnifies objects for closer viewing \u2014 it does not measure mass."
+          "explanation": "A hand lens magnifies objects \u2014 it does not measure mass."
         }
       ],
-      "explanation_md": "A balance is the correct tool for comparing mass. It can show which rock is heavier and give a number in grams for fair comparison."
+      "explanation_md": "A balance is the correct tool for comparing mass."
     }
   ],
   "remediation": [
@@ -472,40 +472,40 @@
           "id": "d",
           "label": "A balance",
           "correct": false,
-          "explanation": "A balance measures mass (weight), not length."
+          "explanation": "A balance measures mass, not length."
         }
       ],
-      "explanation_md": "A ruler measures length. To measure how long a worm is, you would place a ruler beside it and read the number."
+      "explanation_md": "A ruler measures length. To measure a worm, place a ruler beside it and read the number."
     },
     {
       "ordering": 2,
       "difficulty": 1,
       "type": "multiple_choice",
-      "prompt_md": "Two groups both measured the same plant. Group A got 10 cm. Group B got 10 cm. What does this tell you?",
+      "prompt_md": "Group A got 10 cm and Group B got 10 cm measuring the same plant. What does this tell you?",
       "choices": [
         {
           "id": "a",
           "label": "Both groups are wrong",
           "correct": false,
-          "explanation": "Getting the same result is a good sign, not a sign of being wrong."
+          "explanation": "Getting the same result is a good sign."
         },
         {
           "id": "b",
           "label": "The plant is probably 10 cm tall",
           "correct": true,
-          "explanation": "Two groups measuring the same plant and getting the same result gives confidence that 10 cm is correct."
+          "explanation": "Two groups getting the same result gives confidence that 10 cm is correct."
         },
         {
           "id": "c",
           "label": "The plant is 20 cm because you add the results",
           "correct": false,
-          "explanation": "You do not add results from the same measurement \u2014 both groups measured the same plant."
+          "explanation": "You do not add results from measuring the same object."
         },
         {
           "id": "d",
           "label": "You need to measure a third time to know for sure",
           "correct": false,
-          "explanation": "Two matching results already give strong confidence \u2014 a third measurement can help but is not required."
+          "explanation": "Two matching results already give strong confidence."
         }
       ],
       "explanation_md": "When two groups measure the same thing and get the same answer, that result is very likely correct."
@@ -520,11 +520,11 @@
           "id": "a",
           "label": "Write the number on the board so everyone can see it",
           "correct": true,
-          "explanation": "Writing the result where everyone can see it communicates your finding clearly."
+          "explanation": "Writing the result where everyone can see communicates your finding clearly."
         },
         {
           "id": "b",
-          "label": "Hide your result so other groups do not copy",
+          "label": "Hide your result so other groups cannot copy",
           "correct": false,
           "explanation": "Hiding results is not scientific \u2014 sharing allows everyone to learn and compare."
         },
@@ -538,40 +538,40 @@
           "id": "d",
           "label": "Make up a bigger number so your group looks good",
           "correct": false,
-          "explanation": "Making up numbers is dishonest and ruins the whole investigation."
+          "explanation": "Making up numbers is dishonest."
         }
       ],
-      "explanation_md": "Scientists communicate results by sharing them clearly \u2014 writing on the board lets everyone compare your finding with theirs."
+      "explanation_md": "Scientists communicate results by sharing them clearly \u2014 writing on the board lets everyone compare your finding."
     },
     {
       "ordering": 4,
       "difficulty": 1,
       "type": "multiple_choice",
-      "prompt_md": "Group A used a big ruler. Group B used a tiny ruler. Will their results be easy to compare?",
+      "prompt_md": "Group A used a big ruler and Group B used a tiny ruler, both measuring in centimeters. Will their results be easy to compare?",
       "choices": [
         {
           "id": "a",
-          "label": "Yes, because they both used rulers",
-          "correct": false,
-          "explanation": "Both are rulers, but if they have different scales or units, comparison is harder."
-        },
-        {
-          "id": "b",
-          "label": "It depends \u2014 if both rulers measure in centimeters, yes; if one is in inches, comparison is harder",
-          "correct": true,
-          "explanation": "As long as both rulers use the same units, size does not matter much. Different units make comparison difficult."
-        },
-        {
-          "id": "c",
           "label": "No, because one ruler is bigger",
           "correct": false,
           "explanation": "The size of the ruler does not matter as much as the units it measures in."
         },
         {
-          "id": "d",
-          "label": "Yes, because every ruler gives the same answer",
+          "id": "b",
+          "label": "Yes, because both rulers measure in centimeters so the units match",
+          "correct": true,
+          "explanation": "As long as both use the same units (centimeters), size does not matter \u2014 results will be comparable."
+        },
+        {
+          "id": "c",
+          "label": "No, because rulers never give the same result",
           "correct": false,
-          "explanation": "Rulers using different units (cm vs inches) give different numbers for the same length."
+          "explanation": "Rulers measuring in the same units will give the same measurement for the same object."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because every ruler gives the same answer always",
+          "correct": false,
+          "explanation": "Rulers using different units (cm vs. inches) would give different numbers for the same length."
         }
       ],
       "explanation_md": "Using the same units is key for comparison. Two centimeter rulers \u2014 even different sizes \u2014 will give the same measurement for the same object."
@@ -584,30 +584,30 @@
       "choices": [
         {
           "id": "a",
-          "label": "'I do not remember what happened'",
+          "label": "I do not remember what happened",
           "correct": false,
-          "explanation": "This is why recording during the investigation is so important \u2014 so you can answer this question."
+          "explanation": "This is why recording during the investigation is so important."
         },
         {
           "id": "b",
-          "label": "'Our group found that the rock sank in 2 seconds, and Group B found 3 seconds'",
+          "label": "Our group found that the rock sank in 2 seconds, and Group B found 3 seconds",
           "correct": true,
-          "explanation": "This answer shares your result clearly and also compares it to another group \u2014 good scientific communication."
+          "explanation": "This answer shares your result clearly and compares it to another group."
         },
         {
           "id": "c",
-          "label": "'I think rocks are cool'",
+          "label": "I think rocks are cool",
           "correct": false,
-          "explanation": "An opinion is not a scientific finding \u2014 you need to share the actual result."
+          "explanation": "An opinion is not a scientific finding."
         },
         {
           "id": "d",
-          "label": "'Whatever the teacher said the answer should be'",
+          "label": "Whatever the teacher said the answer should be",
           "correct": false,
-          "explanation": "The answer comes from your own investigation, not from guessing what the teacher wants."
+          "explanation": "The answer comes from your own investigation."
         }
       ],
-      "explanation_md": "Good scientific communication shares your actual result clearly, and comparing it with other groups' results makes it even stronger."
+      "explanation_md": "Good scientific communication shares your actual result clearly, and comparing with other groups' results makes it even stronger."
     }
   ]
 }
