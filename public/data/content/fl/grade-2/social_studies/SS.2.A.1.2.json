@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.A.1.2",
+  "benchmark_description": "Use a timeline to sequence events that have taken place in the classroom, school, and community.",
+  "course": "social_studies",
+  "strand": "A",
+  "lesson": {
+    "title": "Reading a Timeline",
+    "intro": "A timeline is a line that shows events in the order they happened. Timelines help us see what happened first, next, and last.",
+    "body_md": "## What Is a Timeline?\n\nA **timeline** is a tool that shows events in the order they happened. Events on the left are oldest; events on the right are most recent.\n\n## Parts of a Timeline\n\n- **Dates:** numbers that tell us when events happened\n- **Events:** things that happened at each date\n- **Direction:** read left to right\n\n## Key Sequencing Words\n\n| Word | Meaning |\n|------|---------|\n| **First** | happened before all others |\n| **Next / Then** | happened after the first |\n| **Last / Finally** | happened most recently |\n| **Before** | happened earlier |\n| **After** | happened later |\n\n## Kinds of Timelines\n\n**Classroom timeline:** shows events during your school year, like the first day of school, field trips, and holidays.\n\n**School timeline:** shows when a school opened, when a library or gym was added.\n\n**Community timeline:** shows when a town was started, when a park opened, or when a library was built.\n\n## How to Read a Timeline\n\n1. Find the oldest date (far left)\n2. Find the most recent date (far right)\n3. Read events from left to right\n4. Notice how much time passes between events",
+    "worked_example_md": "## Worked Example\n\nSchool timeline:\n\n| Year | Event |\n|------|-------|\n| 1985 | School opens |\n| 1990 | Library added |\n| 2000 | Computer lab built |\n| 2015 | New gym opened |\n\n**Question:** What happened FIRST?\n\n**Answer:** The school opened in 1985. It is farthest left, so it happened first.\n\n**Question:** What happened AFTER the library was added?\n\n**Answer:** The computer lab was built in 2000. That is the next event after 1990.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "On a timeline, events on the LEFT happened ___ events on the right.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "after",
+          "correct": false,
+          "explanation": "Events on the left are older, meaning they happened before events on the right."
+        },
+        {
+          "id": "b",
+          "label": "before",
+          "correct": true,
+          "explanation": "Timelines go left to right from oldest to newest. Left events happened before right events."
+        },
+        {
+          "id": "c",
+          "label": "at the same time as",
+          "correct": false,
+          "explanation": "Different positions on a timeline mean different times."
+        },
+        {
+          "id": "d",
+          "label": "bigger than",
+          "correct": false,
+          "explanation": "Timelines show order in time, not size."
+        }
+      ],
+      "explanation_md": "On a timeline, events on the left happened **before** events on the right."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A class timeline shows: First Day of School -- Halloween Party -- Winter Break -- Last Day. Which happened LAST?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "First Day of School",
+          "correct": false,
+          "explanation": "First Day is listed first, so it happened first, not last."
+        },
+        {
+          "id": "b",
+          "label": "Halloween Party",
+          "correct": false,
+          "explanation": "Halloween Party happens after the first day but before the end of the year."
+        },
+        {
+          "id": "c",
+          "label": "Winter Break",
+          "correct": false,
+          "explanation": "Winter Break happens before the Last Day."
+        },
+        {
+          "id": "d",
+          "label": "Last Day of School",
+          "correct": true,
+          "explanation": "Last Day is at the far right of the timeline, so it happened last."
+        }
+      ],
+      "explanation_md": "The Last Day of School is at the far right of the timeline, which means it happened **last**."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Community timeline: Oak Town founded 1850. Library opened 1900. Park built 1950. Which event happened FIRST?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The library opened.",
+          "correct": false,
+          "explanation": "The library opened in 1900, after the town was founded in 1850."
+        },
+        {
+          "id": "b",
+          "label": "The park was built.",
+          "correct": false,
+          "explanation": "The park was built in 1950, the latest date."
+        },
+        {
+          "id": "c",
+          "label": "Oak Town was founded.",
+          "correct": true,
+          "explanation": "1850 is the earliest date. The town was founded before the library or park existed."
+        },
+        {
+          "id": "d",
+          "label": "All happened at the same time.",
+          "correct": false,
+          "explanation": "Each event has a different date, so they happened at different times."
+        }
+      ],
+      "explanation_md": "Oak Town was founded in 1850, the earliest date. The smallest number on a timeline happened first."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "School timeline: 1970 school built; 1985 cafeteria added; 2005 computer lab added; 2020 playground built. What happened right AFTER the cafeteria was added?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The school was built.",
+          "correct": false,
+          "explanation": "The school was built in 1970, before the cafeteria in 1985."
+        },
+        {
+          "id": "b",
+          "label": "The computer lab was added.",
+          "correct": true,
+          "explanation": "After the cafeteria (1985), the next listed event is the computer lab in 2005."
+        },
+        {
+          "id": "c",
+          "label": "The playground was built.",
+          "correct": false,
+          "explanation": "The playground was built in 2020, which is after the computer lab."
+        },
+        {
+          "id": "d",
+          "label": "The cafeteria was removed.",
+          "correct": false,
+          "explanation": "The timeline does not say the cafeteria was removed."
+        }
+      ],
+      "explanation_md": "After the cafeteria was added in 1985, the next event on the timeline is the computer lab in 2005."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word tells you an event came BEFORE another event?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "after",
+          "correct": false,
+          "explanation": "After means something happened later."
+        },
+        {
+          "id": "b",
+          "label": "next",
+          "correct": false,
+          "explanation": "Next means something that followed."
+        },
+        {
+          "id": "c",
+          "label": "before",
+          "correct": true,
+          "explanation": "Before means something happened earlier. Example: The school opened before the gym was built."
+        },
+        {
+          "id": "d",
+          "label": "last",
+          "correct": false,
+          "explanation": "Last means most recent."
+        }
+      ],
+      "explanation_md": "The word **before** tells us one event happened earlier than another."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A classroom timeline runs from September to June. Which month appears farthest to the LEFT?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "June",
+          "correct": false,
+          "explanation": "June is the last month. It appears farthest right."
+        },
+        {
+          "id": "b",
+          "label": "December",
+          "correct": false,
+          "explanation": "December comes after September, so it is not oldest."
+        },
+        {
+          "id": "c",
+          "label": "September",
+          "correct": true,
+          "explanation": "September is the first month of the school year. The oldest event goes farthest left."
+        },
+        {
+          "id": "d",
+          "label": "March",
+          "correct": false,
+          "explanation": "March is in the middle of the school year."
+        }
+      ],
+      "explanation_md": "September is the first month of the school year. The **oldest** event appears **farthest left** on a timeline."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Student timeline: 2010 baby born; 2013 preschool; 2016 first grade; 2021 second grade. How many years passed between birth and preschool?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 year",
+          "correct": false,
+          "explanation": "2013 minus 2010 equals 3, not 1."
+        },
+        {
+          "id": "b",
+          "label": "3 years",
+          "correct": true,
+          "explanation": "2013 - 2010 = 3. Three years passed."
+        },
+        {
+          "id": "c",
+          "label": "6 years",
+          "correct": false,
+          "explanation": "6 years after 2010 is 2016, which is when first grade started."
+        },
+        {
+          "id": "d",
+          "label": "10 years",
+          "correct": false,
+          "explanation": "10 years after 2010 is 2020, which is not on the timeline."
+        }
+      ],
+      "explanation_md": "2013 minus 2010 equals **3 years**. Subtract the earlier date from the later date to find the time between events."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A community timeline: park built 1975; swimming pool added to the park 1990. Which sentence is TRUE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The pool was built before the park.",
+          "correct": false,
+          "explanation": "The park was built in 1975 and the pool in 1990. 1975 comes before 1990, so the park was first."
+        },
+        {
+          "id": "b",
+          "label": "The park was built before the pool.",
+          "correct": true,
+          "explanation": "The park (1975) was built before the pool (1990)."
+        },
+        {
+          "id": "c",
+          "label": "The pool and park were built at the same time.",
+          "correct": false,
+          "explanation": "They have different dates: 1975 and 1990."
+        },
+        {
+          "id": "d",
+          "label": "The park was built after the pool.",
+          "correct": false,
+          "explanation": "1975 comes before 1990, so the park came first."
+        }
+      ],
+      "explanation_md": "The park (1975) was built before the pool (1990). Since 1975 comes before 1990, the park was built first."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "School timeline: 1960 founded; 1975 gym built; 1995 library expanded; 2010 solar panels added. A student says the gym was built AFTER the library was expanded. Is this correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, because the gym is listed first.",
+          "correct": false,
+          "explanation": "Being listed first means it happened first, not after later events."
+        },
+        {
+          "id": "b",
+          "label": "No, the gym was built BEFORE the library was expanded.",
+          "correct": true,
+          "explanation": "Gym: 1975. Library expanded: 1995. 1975 comes before 1995, so the gym was built first."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 1975 is greater than 1995.",
+          "correct": false,
+          "explanation": "1975 is less than 1995. The gym (1975) was built before the library expansion (1995)."
+        },
+        {
+          "id": "d",
+          "label": "No, they happened in the same year.",
+          "correct": false,
+          "explanation": "The gym was built in 1975 and the library was expanded in 1995. Those are different years."
+        }
+      ],
+      "explanation_md": "The gym was built in 1975. The library was expanded in 1995. Since 1975 comes before 1995, the gym was built **before** the library was expanded. The student is wrong."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Which list shows classroom events in CORRECT order from first to last?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Winter break, First day, Spring field trip, Last day",
+          "correct": false,
+          "explanation": "First day of school happens before winter break. This order is wrong."
+        },
+        {
+          "id": "b",
+          "label": "First day, Winter break, Spring field trip, Last day",
+          "correct": true,
+          "explanation": "The school year goes: First day (fall) -> Winter break (Dec/Jan) -> Spring field trip -> Last day (May/June)."
+        },
+        {
+          "id": "c",
+          "label": "Spring field trip, Last day, First day, Winter break",
+          "correct": false,
+          "explanation": "First day must come before all other school-year events."
+        },
+        {
+          "id": "d",
+          "label": "Last day, Spring field trip, Winter break, First day",
+          "correct": false,
+          "explanation": "This is completely backwards. First day comes first, not last."
+        }
+      ],
+      "explanation_md": "The school year runs fall to spring: First day -> Winter break -> Spring field trip -> Last day. This is the correct timeline order."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "On a timeline, where is the OLDEST event placed?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In the middle",
+          "correct": false,
+          "explanation": "The middle shows events between the oldest and most recent."
+        },
+        {
+          "id": "b",
+          "label": "On the far left",
+          "correct": true,
+          "explanation": "Timelines go oldest (left) to most recent (right). The oldest event is on the far left."
+        },
+        {
+          "id": "c",
+          "label": "On the far right",
+          "correct": false,
+          "explanation": "The far right is where the most recent event goes."
+        },
+        {
+          "id": "d",
+          "label": "Under the line",
+          "correct": false,
+          "explanation": "Events are placed along the timeline, not under it."
+        }
+      ],
+      "explanation_md": "The oldest event goes on the far **left** of a timeline."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Community timeline: 1900 town founded; 1920 first school built; 1945 hospital opened. A student says the hospital opened before the school was built. Is the student correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, because hospitals are more important than schools.",
+          "correct": false,
+          "explanation": "Importance does not determine timeline order. Dates do."
+        },
+        {
+          "id": "b",
+          "label": "No, the school was built in 1920 and the hospital opened in 1945, so the school came first.",
+          "correct": true,
+          "explanation": "1920 comes before 1945. The school was built before the hospital."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 1945 is listed last on the timeline.",
+          "correct": false,
+          "explanation": "Being listed last means it happened most recently, which means it came after the other events."
+        },
+        {
+          "id": "d",
+          "label": "No, they both opened in 1920.",
+          "correct": false,
+          "explanation": "The school opened in 1920 and the hospital in 1945. These are different years."
+        }
+      ],
+      "explanation_md": "The school was built in 1920 and the hospital opened in 1945. Since 1920 comes before 1945, the school was built first. The student is wrong."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which word describes an event that happened MOST RECENTLY on a timeline?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "First",
+          "correct": false,
+          "explanation": "First describes the oldest event."
+        },
+        {
+          "id": "b",
+          "label": "Before",
+          "correct": false,
+          "explanation": "Before means earlier than another event."
+        },
+        {
+          "id": "c",
+          "label": "Last",
+          "correct": true,
+          "explanation": "Last describes the most recent event on the timeline, appearing farthest to the right."
+        },
+        {
+          "id": "d",
+          "label": "Long ago",
+          "correct": false,
+          "explanation": "Long ago describes the distant past, not the most recent event."
+        }
+      ],
+      "explanation_md": "The word **last** describes the event that happened most recently. It appears farthest to the right on the timeline."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A timeline shows events in the order they ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "might happen someday",
+          "correct": false,
+          "explanation": "Timelines show events that already happened."
+        },
+        {
+          "id": "b",
+          "label": "happened",
+          "correct": true,
+          "explanation": "A timeline shows real events in the order they happened."
+        },
+        {
+          "id": "c",
+          "label": "were imagined",
+          "correct": false,
+          "explanation": "Timelines show real events, not imagined ones."
+        },
+        {
+          "id": "d",
+          "label": "were forgotten",
+          "correct": false,
+          "explanation": "Timelines help us remember events."
+        }
+      ],
+      "explanation_md": "A timeline shows real events in the order they **happened**, from oldest to most recent."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which event happened FIRST? Event A: Year 2000. Event B: Year 2010. Event C: Year 2020.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Event A (Year 2000)",
+          "correct": true,
+          "explanation": "Year 2000 is the smallest number, so it happened first."
+        },
+        {
+          "id": "b",
+          "label": "Event B (Year 2010)",
+          "correct": false,
+          "explanation": "2010 comes after 2000."
+        },
+        {
+          "id": "c",
+          "label": "Event C (Year 2020)",
+          "correct": false,
+          "explanation": "2020 is the largest number, so it happened last."
+        },
+        {
+          "id": "d",
+          "label": "They all happened at the same time.",
+          "correct": false,
+          "explanation": "Each event has a different year."
+        }
+      ],
+      "explanation_md": "Event A (Year 2000) happened first. The smallest year on a timeline happened first."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Class timeline: September -- School starts; December -- Winter show; June -- Last day. What happened right AFTER the winter show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "School starts",
+          "correct": false,
+          "explanation": "School starts in September, which is before the winter show."
+        },
+        {
+          "id": "b",
+          "label": "Last day of school",
+          "correct": true,
+          "explanation": "After the winter show (December), the next event is the Last day (June)."
+        },
+        {
+          "id": "c",
+          "label": "The winter show happens again",
+          "correct": false,
+          "explanation": "The timeline only lists the winter show once."
+        },
+        {
+          "id": "d",
+          "label": "Nothing, the timeline ends at winter.",
+          "correct": false,
+          "explanation": "The timeline continues to June."
+        }
+      ],
+      "explanation_md": "After the winter show in December, the next event on the timeline is the Last day of school in June."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "We read a timeline from ___ to right.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "top",
+          "correct": false,
+          "explanation": "We read timelines from left to right, not top to bottom."
+        },
+        {
+          "id": "b",
+          "label": "bottom",
+          "correct": false,
+          "explanation": "We read timelines from left to right."
+        },
+        {
+          "id": "c",
+          "label": "left",
+          "correct": true,
+          "explanation": "We read a timeline from left to right, starting with the oldest events."
+        },
+        {
+          "id": "d",
+          "label": "right",
+          "correct": false,
+          "explanation": "We start reading from the left, not the right."
+        }
+      ],
+      "explanation_md": "We read a timeline from **left** to right, starting with the oldest events."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A school was built in 1980. A new gym was added in 2000. Which happened first?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The gym was added.",
+          "correct": false,
+          "explanation": "The gym was added in 2000, which is after 1980."
+        },
+        {
+          "id": "b",
+          "label": "The school was built.",
+          "correct": true,
+          "explanation": "The school was built in 1980, which comes before 2000."
+        },
+        {
+          "id": "c",
+          "label": "They were both done at the same time.",
+          "correct": false,
+          "explanation": "The school was built in 1980 and the gym in 2000. That is 20 years apart."
+        },
+        {
+          "id": "d",
+          "label": "We cannot tell from the dates.",
+          "correct": false,
+          "explanation": "The dates clearly show 1980 came before 2000."
+        }
+      ],
+      "explanation_md": "The school was built in 1980 and the gym was added in 2000. Since 1980 comes before 2000, the **school was built first**."
+    }
+  ]
+}
