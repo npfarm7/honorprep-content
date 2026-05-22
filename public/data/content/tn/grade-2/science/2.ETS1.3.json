@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.ETS1.3",
+  "benchmark_description": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
+  "course": "science",
+  "strand": "ETS",
+  "lesson": {
+    "title": "Testing and Comparing Designs",
+    "intro": "When engineers build something new, they test it to see if it works. Then they compare results with other designs. Which one works better? Let's learn how engineers test and compare!",
+    "body_md": "## Why Test Designs?\n\nEngineers test their designs to:\n- Find out if the design works as expected\n- Compare two or more designs to find the BEST one\n- Discover weaknesses (problems) to fix\n- Prove that the design meets the requirements\n\n## Testing Designs Fairly\n\nTo compare two designs fairly:\n- Test BOTH designs under the same conditions\n- Measure the same things in both tests\n- Use numbers when possible (harder, farther, heavier, faster)\n- Repeat the test to make sure results are not accidental\n\n## Analyzing Test Data\n\nWhen you look at test results:\n1. Look for **strengths** \u2014 what each design does well\n2. Look for **weaknesses** \u2014 what each design does not do as well\n3. Compare using numbers when available\n4. Choose the better design OR combine the best features of both\n\n## Example Comparison Table\n\n| Test | Design A | Design B |\n|---|---|---|\n| How far did it travel? | 3 meters | 5 meters |\n| Did it stay together? | Yes | No \u2014 fell apart |\n| Is it easy to build? | No \u2014 hard | Yes \u2014 easy |\n\n**Analysis:** Design B travels farther but fell apart. Design A is stronger but slower. The best final design might combine Design B's shape with Design A's strength.\n\n**Key idea:** Comparing test data reveals each design's strengths and weaknesses. Engineers use this information to improve their designs.",
+    "worked_example_md": "## Worked Example: Comparing Two Paper Bridges\n\n**Problem:** Students build bridges from paper to hold pennies. They test two designs:\n\n**Design A (flat paper bridge):** \n- Held 3 pennies before bending\n- Easy to build (5 minutes)\n- Lay flat with no support\n\n**Design B (paper folded into an arch):**\n- Held 15 pennies before bending\n- Takes longer to build (15 minutes)\n- Has a curved arch shape underneath\n\n**Comparison:**\n\n| Feature | Design A | Design B |\n|---|---|---|\n| Pennies held | 3 | 15 |\n| Build time | 5 min | 15 min |\n| Ease of build | Easy | Harder |\n| Strength | Weak | Strong |\n\n**Strengths and weaknesses:**\n- Design A: easy/fast to build, but weak\n- Design B: strong, but takes more time and effort\n\n**Conclusion:** Design B is much stronger (15 vs. 3 pennies). If the goal is maximum strength, Design B wins. The arch shape gives it strength.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Two students build boats to see which holds more weight before sinking:\n- Boat A (aluminum foil): held 15 pennies\n- Boat B (clay): held 4 pennies\n\nWhich boat held MORE weight?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Boat A (aluminum foil) \u2014 it held 15 pennies",
+          "correct": true,
+          "explanation": "Boat A held 15 pennies, which is more than Boat B's 4 pennies. Boat A performed better in this test."
+        },
+        {
+          "id": "b",
+          "label": "Boat B (clay) \u2014 it held 4 pennies",
+          "correct": false,
+          "explanation": "Boat B held only 4 pennies, less than Boat A's 15. Boat A held more weight."
+        },
+        {
+          "id": "c",
+          "label": "Both boats held the same amount",
+          "correct": false,
+          "explanation": "15 pennies and 4 pennies are different amounts. Boat A held more."
+        },
+        {
+          "id": "d",
+          "label": "Neither boat held any weight",
+          "correct": false,
+          "explanation": "Both boats floated and held pennies. Boat A held 15 and Boat B held 4."
+        }
+      ],
+      "explanation_md": "Boat A (aluminum foil) held 15 pennies, which is more than Boat B's 4 pennies. Comparing these numbers shows Boat A performed better for holding weight."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests two toy cars on a ramp. Car A traveled 2 meters. Car B traveled 4 meters. What does this data tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Car A is better than Car B",
+          "correct": false,
+          "explanation": "Car A traveled only 2 meters, half as far as Car B. If traveling farther is the goal, Car B is better."
+        },
+        {
+          "id": "b",
+          "label": "Car B traveled farther than Car A",
+          "correct": true,
+          "explanation": "4 meters (Car B) is farther than 2 meters (Car A). If the goal is traveling as far as possible, Car B performed better."
+        },
+        {
+          "id": "c",
+          "label": "Both cars traveled the same distance",
+          "correct": false,
+          "explanation": "2 meters and 4 meters are different distances."
+        },
+        {
+          "id": "d",
+          "label": "Neither car moved",
+          "correct": false,
+          "explanation": "Both cars traveled down the ramp. Car B just traveled farther."
+        }
+      ],
+      "explanation_md": "Car B traveled 4 meters, which is twice as far as Car A's 2 meters. Comparing the distances shows Car B performed better at traveling farther."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two designs are tested for how well they keep water out:\n- Design A (plastic bag): let 0 drops of water through in 5 minutes\n- Design B (cotton bag): let 12 drops through in 5 minutes\n\nWhich design is BETTER at keeping water out?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Design B \u2014 it let 12 drops through, which is more",
+          "correct": false,
+          "explanation": "Letting more water through means it is WORSE at keeping water out, not better."
+        },
+        {
+          "id": "b",
+          "label": "Design A \u2014 it let 0 drops through, keeping water completely out",
+          "correct": true,
+          "explanation": "Design A let no water through (0 drops), making it completely waterproof. Design B let 12 drops through. Design A is better at keeping water out."
+        },
+        {
+          "id": "c",
+          "label": "Both designs kept water out equally",
+          "correct": false,
+          "explanation": "0 drops and 12 drops are different. Design A kept all water out; Design B let some through."
+        },
+        {
+          "id": "d",
+          "label": "Neither design kept any water out",
+          "correct": false,
+          "explanation": "Design A let 0 drops through, meaning it kept all water out."
+        }
+      ],
+      "explanation_md": "Design A let 0 drops of water through, making it completely waterproof. Design B let 12 drops through. Design A is clearly better at keeping water out."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two paper bridges are tested:\n\n| Feature | Bridge A | Bridge B |\n|---|---|---|\n| Pennies held | 8 | 20 |\n| Time to build | 5 min | 25 min |\n| Cost of materials | $0.10 | $0.50 |\n\nWhat is a WEAKNESS of Bridge B?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Bridge B held fewer pennies than Bridge A",
+          "correct": false,
+          "explanation": "Bridge B held 20 pennies \u2014 more than Bridge A's 8. This is a strength, not a weakness."
+        },
+        {
+          "id": "b",
+          "label": "Bridge B takes longer to build and costs more money",
+          "correct": true,
+          "explanation": "Bridge B takes 25 minutes (vs. 5 for A) and costs $0.50 (vs. $0.10 for A). These are weaknesses \u2014 it requires more time and money."
+        },
+        {
+          "id": "c",
+          "label": "Bridge B held too many pennies",
+          "correct": false,
+          "explanation": "Holding more pennies is a strength, not a weakness. There is no such thing as 'too strong' in this test."
+        },
+        {
+          "id": "d",
+          "label": "Bridge B is faster and cheaper to build",
+          "correct": false,
+          "explanation": "This is backwards. Bridge B is slower (25 min) and more expensive ($0.50) \u2014 Bridge A is faster and cheaper."
+        }
+      ],
+      "explanation_md": "Bridge B's weaknesses are that it takes much longer to build (25 min vs. 5 min) and costs more ($0.50 vs. $0.10). Its strength is holding more weight (20 pennies vs. 8)."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests two parachutes to see which slows a falling weight more:\n- Parachute A (small, plastic): weight fell in 2 seconds\n- Parachute B (large, fabric): weight fell in 8 seconds\n\nWhich parachute is BETTER at slowing the fall?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Parachute A \u2014 the weight fell in 2 seconds",
+          "correct": false,
+          "explanation": "Falling in 2 seconds means it fell FASTER. A shorter time means the parachute did less to slow the fall."
+        },
+        {
+          "id": "b",
+          "label": "Parachute B \u2014 the weight took 8 seconds to fall, meaning it fell more slowly",
+          "correct": true,
+          "explanation": "8 seconds is a longer fall time, meaning the weight fell more slowly. A slower fall means the parachute is working better to slow the descent."
+        },
+        {
+          "id": "c",
+          "label": "Both parachutes performed the same",
+          "correct": false,
+          "explanation": "2 seconds and 8 seconds are very different times. They did not perform the same."
+        },
+        {
+          "id": "d",
+          "label": "Parachute A is better because the weight fell faster",
+          "correct": false,
+          "explanation": "Falling faster means the parachute slowed the fall LESS. A parachute should slow the fall, so longer fall time = better performance."
+        }
+      ],
+      "explanation_md": "Parachute B allowed the weight to fall for 8 seconds (vs. 2 seconds for A), meaning the weight fell much more slowly. A longer time in the air means the parachute is slowing the fall better."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "After testing two designs, a student concludes: 'Design A is faster but breaks easily. Design B is slower but very strong.' What should the student consider doing NEXT?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Choose Design A because it is faster",
+          "correct": false,
+          "explanation": "Design A breaks easily, which is a major weakness. Just choosing the faster design ignores an important problem."
+        },
+        {
+          "id": "b",
+          "label": "Choose Design B because it is stronger",
+          "correct": false,
+          "explanation": "Design B is slower, which might matter depending on the goal. Just choosing the stronger one ignores the speed weakness."
+        },
+        {
+          "id": "c",
+          "label": "Try to improve Design A by making it stronger, or Design B by making it faster \u2014 or combine the best features of both",
+          "correct": true,
+          "explanation": "When one design is faster and the other is stronger, the next step is to try to combine the best features or improve whichever design's weakness matters most."
+        },
+        {
+          "id": "d",
+          "label": "Give up \u2014 there is no perfect design",
+          "correct": false,
+          "explanation": "Engineers do not give up after one round of testing. They use test data to improve their designs."
+        }
+      ],
+      "explanation_md": "When tests show one design is faster and another is stronger, engineers try to combine the best features or improve the weaker aspect of their preferred design. Test data drives improvement."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important to test BOTH designs under the same conditions?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So both tests take the same amount of time",
+          "correct": false,
+          "explanation": "Time is not the primary reason. Testing under the same conditions is about fairness."
+        },
+        {
+          "id": "b",
+          "label": "So any difference in results is due to the design, not the testing conditions",
+          "correct": true,
+          "explanation": "If both designs are tested under the same conditions (same height ramp, same weight tested, same time), any difference in results must come from the designs themselves \u2014 not from unfair testing."
+        },
+        {
+          "id": "c",
+          "label": "So both designs always get the same results",
+          "correct": false,
+          "explanation": "Testing under the same conditions does not make results the same. It makes the comparison fair. Different designs will still give different results."
+        },
+        {
+          "id": "d",
+          "label": "Because testing different conditions is too dangerous",
+          "correct": false,
+          "explanation": "Safety can matter, but the primary reason for consistent conditions is fairness of comparison."
+        }
+      ],
+      "explanation_md": "Testing both designs under the same conditions ensures the comparison is fair. Any difference in results must come from the designs, not from different testing conditions."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to identify the 'strengths' of a design?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Finding everything that is wrong with the design",
+          "correct": false,
+          "explanation": "That describes weaknesses, not strengths. Strengths are what the design does well."
+        },
+        {
+          "id": "b",
+          "label": "Finding what the design does well or better than other designs",
+          "correct": true,
+          "explanation": "Strengths are the things a design does well \u2014 what it excels at or does better than other options."
+        },
+        {
+          "id": "c",
+          "label": "Finding how much the design costs",
+          "correct": false,
+          "explanation": "Cost is one factor that might be noted, but strengths specifically refer to what the design does well."
+        },
+        {
+          "id": "d",
+          "label": "Finding the weight of the design",
+          "correct": false,
+          "explanation": "Weight is one measurement. Strengths are what the design does well functionally."
+        }
+      ],
+      "explanation_md": "Strengths are what a design does well \u2014 what it excels at or does better than the other design. Identifying strengths helps engineers know what to keep in future improvements."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests two shelter designs in simulated wind:\n\n| Feature | Design A | Design B |\n|---|---|---|\n| Withstood wind speed | 20 km/h | 35 km/h |\n| Build time | 10 min | 40 min |\n| Used materials | 4 sticks + paper | 12 sticks + cardboard |\n| Cost | $0.20 | $0.75 |\n\nIf the goal is to build a shelter that must survive winds of 30 km/h, which design MEETS the requirement?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Design A \u2014 it is cheaper and faster",
+          "correct": false,
+          "explanation": "Design A withstood only 20 km/h. The requirement is 30 km/h. Design A does NOT meet the requirement, regardless of cost or speed."
+        },
+        {
+          "id": "b",
+          "label": "Design B \u2014 it withstood 35 km/h, which is above the 30 km/h requirement",
+          "correct": true,
+          "explanation": "Design B withstood 35 km/h winds, which exceeds the 30 km/h requirement. It meets the goal, even though it costs more and takes longer."
+        },
+        {
+          "id": "c",
+          "label": "Both designs meet the requirement equally",
+          "correct": false,
+          "explanation": "Design A only withstood 20 km/h \u2014 below the 30 km/h requirement. Design B withstood 35 km/h \u2014 above the requirement. They are not equal."
+        },
+        {
+          "id": "d",
+          "label": "Neither design meets the requirement",
+          "correct": false,
+          "explanation": "Design B withstood 35 km/h, which is above the 30 km/h requirement. Design B does meet it."
+        }
+      ],
+      "explanation_md": "Design B withstood 35 km/h, exceeding the 30 km/h requirement. Design A only reached 20 km/h, which does NOT meet the requirement. Meeting the requirement is the first test for any design."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "After multiple tests, an engineer has this data:\n- Design A: very strong (held 50 kg), but heavy (weighs 20 kg) and expensive ($500)\n- Design B: moderately strong (held 30 kg), light (weighs 5 kg), and cheap ($100)\n\nFor designing a drone (flying vehicle) that needs to hold 20 kg of cargo, which design is better, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Design A \u2014 it is stronger, so it is always better",
+          "correct": false,
+          "explanation": "Strength matters, but drones must fly. Design A's extra weight (20 kg) makes flying much harder or impossible. Both designs can hold 20 kg, but Design A's weight is a major drawback for a flying vehicle."
+        },
+        {
+          "id": "b",
+          "label": "Design B \u2014 it holds 30 kg (meets the 20 kg requirement), is lighter (easier for a drone to fly), and is cheaper",
+          "correct": true,
+          "explanation": "Design B holds 30 kg (meets the 20 kg requirement), weighs only 5 kg (much easier for a drone motor to lift), and costs $500 less. For a flying vehicle, lighter weight is critical."
+        },
+        {
+          "id": "c",
+          "label": "Design A \u2014 it costs more, so it must be better",
+          "correct": false,
+          "explanation": "Cost does not equal quality. Design B meets the requirement and is better suited for a flying vehicle."
+        },
+        {
+          "id": "d",
+          "label": "Neither design can work for a drone",
+          "correct": false,
+          "explanation": "Design B holds 30 kg (more than the 20 kg requirement) and is much lighter. It is well-suited for a drone."
+        }
+      ],
+      "explanation_md": "Design B holds 30 kg (above the 20 kg requirement), weighs only 5 kg (much lighter for flying), and costs $100 less. For a drone, weight is critical \u2014 a lighter structure is much easier to fly. Design B meets the requirement and has the right balance of strength and weight."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two teams test paper towers:\n- Team A tower: 45 cm tall, fell down when touched\n- Team B tower: 30 cm tall, stayed upright when touched\n\nWhat is a STRENGTH of Team A's tower and a WEAKNESS?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Strength: tall. Weakness: not stable (fell when touched)",
+          "correct": true,
+          "explanation": "Team A's tower was taller (45 cm vs. 30 cm) \u2014 that is its strength. But it fell when touched \u2014 that is its weakness (instability)."
+        },
+        {
+          "id": "b",
+          "label": "Strength: fell easily. Weakness: too tall",
+          "correct": false,
+          "explanation": "Falling easily is a weakness, not a strength. Being tall is a strength if the goal is maximum height."
+        },
+        {
+          "id": "c",
+          "label": "Strength: shorter than Team B. Weakness: stayed upright",
+          "correct": false,
+          "explanation": "Being shorter is not a strength compared to Team B. Staying upright (like Team B's tower did) is a strength."
+        },
+        {
+          "id": "d",
+          "label": "Both towers had the same strengths and weaknesses",
+          "correct": false,
+          "explanation": "The towers had different results. One was taller but fell; one was shorter but stable. They have different strengths and weaknesses."
+        }
+      ],
+      "explanation_md": "Team A's strength: taller (45 cm vs. 30 cm). Team A's weakness: fell when touched (unstable). Team B was shorter but stronger. Both have different strengths and weaknesses."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests two designs for a rain shelter:\n\n| Test | Design A | Design B |\n|---|---|---|\n| Water got in? | No | Yes (3 drops) |\n| Can 4 people fit? | Yes | No (only 2 fit) |\n| Build time | 20 min | 10 min |\n\nFor a group of 3 people in heavy rain, which design BEST meets the needs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Design B \u2014 it is faster to build",
+          "correct": false,
+          "explanation": "Design B only fits 2 people and lets water in. For a group of 3 people in heavy rain, Design B fails on both key requirements."
+        },
+        {
+          "id": "b",
+          "label": "Design A \u2014 it keeps water out and fits all 4 people (and certainly 3)",
+          "correct": true,
+          "explanation": "Design A kept all water out AND fits 4 people (so 3 people will fit comfortably). Design B lets water in and only fits 2 people. Design A meets both requirements for 3 people in heavy rain."
+        },
+        {
+          "id": "c",
+          "label": "Both designs work equally well for 3 people in rain",
+          "correct": false,
+          "explanation": "Design B only fits 2 people and lets water in. Design A fits more people and keeps water out. They are not equal for this situation."
+        },
+        {
+          "id": "d",
+          "label": "Neither design is good enough",
+          "correct": false,
+          "explanation": "Design A fits 4 people and keeps water out. It meets the needs of 3 people in heavy rain."
+        }
+      ],
+      "explanation_md": "Design A keeps water out (no drops got in) and fits 4 people \u2014 easily accommodating 3. Design B lets water in and only fits 2 people. For 3 people in heavy rain, Design A clearly meets the requirements."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "After testing two designs, an engineer says: 'Neither design is perfect.' What should she do next?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Stop \u2014 if no design is perfect, the problem cannot be solved",
+          "correct": false,
+          "explanation": "Engineers do not give up after finding imperfections. They use test data to improve."
+        },
+        {
+          "id": "b",
+          "label": "Use the test data to identify each design's strengths and weaknesses, then create an improved design that combines the best features",
+          "correct": true,
+          "explanation": "Test data reveals what works and what does not in each design. Engineers use this to create improved designs that keep the strengths and address the weaknesses."
+        },
+        {
+          "id": "c",
+          "label": "Choose the most expensive design because it must be better",
+          "correct": false,
+          "explanation": "Cost does not determine quality. Engineers choose based on test performance, not price."
+        },
+        {
+          "id": "d",
+          "label": "Test again without changing anything \u2014 eventually results will improve on their own",
+          "correct": false,
+          "explanation": "Results do not improve on their own without changing the design. Engineers must use test data to make intentional improvements."
+        }
+      ],
+      "explanation_md": "Test data reveals each design's strengths and weaknesses. Engineers use this information to create improved designs that combine the best features of both and address each design's weaknesses."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student tests two boats. Boat A held 10 pennies. Boat B held 5 pennies. Which boat is STRONGER?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Boat A \u2014 it held more pennies",
+          "correct": true,
+          "explanation": "Boat A held 10 pennies, which is more than Boat B's 5. Holding more weight before sinking means it is the stronger design."
+        },
+        {
+          "id": "b",
+          "label": "Boat B \u2014 it held fewer pennies",
+          "correct": false,
+          "explanation": "Holding fewer pennies means Boat B is weaker, not stronger."
+        },
+        {
+          "id": "c",
+          "label": "Both boats held the same number of pennies",
+          "correct": false,
+          "explanation": "10 pennies and 5 pennies are different. Boat A held more."
+        },
+        {
+          "id": "d",
+          "label": "Pennies are not a good test for boats",
+          "correct": false,
+          "explanation": "Pennies are a common, easy-to-count test for boat strength. Boat A held more, making it the stronger design."
+        }
+      ],
+      "explanation_md": "Boat A held 10 pennies, which is more than Boat B's 5. Holding more weight before sinking shows Boat A is the stronger design."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to find a design's 'weakness'?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Find something the design does poorly",
+          "correct": true,
+          "explanation": "A weakness is something a design does not do well \u2014 a problem or limitation. Knowing weaknesses helps engineers improve their designs."
+        },
+        {
+          "id": "b",
+          "label": "Find what the design looks like",
+          "correct": false,
+          "explanation": "Appearance is not a weakness in the engineering sense. Weaknesses are things the design does not do well."
+        },
+        {
+          "id": "c",
+          "label": "Find the design's best feature",
+          "correct": false,
+          "explanation": "Best features are strengths, not weaknesses. A weakness is something the design does poorly."
+        },
+        {
+          "id": "d",
+          "label": "Find how long the design took to build",
+          "correct": false,
+          "explanation": "Build time is one measurement. A weakness is when the design does not perform well at its intended function."
+        }
+      ],
+      "explanation_md": "A weakness is something a design does not do well \u2014 a limitation or problem area. Identifying weaknesses helps engineers improve their designs."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two students test paper airplanes:\n- Plane A flew 5 meters\n- Plane B flew 2 meters\n\nWhich plane flew farther?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Plane A \u2014 it flew 5 meters",
+          "correct": true,
+          "explanation": "5 meters is farther than 2 meters. Plane A flew farther."
+        },
+        {
+          "id": "b",
+          "label": "Plane B \u2014 it flew 2 meters",
+          "correct": false,
+          "explanation": "2 meters is less than 5 meters. Plane A flew farther."
+        },
+        {
+          "id": "c",
+          "label": "Both planes flew the same distance",
+          "correct": false,
+          "explanation": "5 meters and 2 meters are different distances."
+        },
+        {
+          "id": "d",
+          "label": "Neither plane flew at all",
+          "correct": false,
+          "explanation": "Both planes flew. Plane A flew 5 meters and Plane B flew 2 meters."
+        }
+      ],
+      "explanation_md": "Plane A flew 5 meters, which is farther than Plane B's 2 meters. Comparing these numbers shows Plane A performed better in this test."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why do engineers test their designs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To find out if the design works and how it compares to other designs",
+          "correct": true,
+          "explanation": "Testing shows whether a design works, how well it performs, and how it compares to other designs. This helps engineers choose or improve the best design."
+        },
+        {
+          "id": "b",
+          "label": "Because testing is required to get paid",
+          "correct": false,
+          "explanation": "Engineers test to find out how well a design works \u2014 the motivation is learning, not payment."
+        },
+        {
+          "id": "c",
+          "label": "To make the design look more official",
+          "correct": false,
+          "explanation": "Testing is about performance, not appearance."
+        },
+        {
+          "id": "d",
+          "label": "Because they need to use up all their materials",
+          "correct": false,
+          "explanation": "Testing is about measuring performance, not using up materials."
+        }
+      ],
+      "explanation_md": "Engineers test designs to find out if they work, how well they perform, and how they compare to other designs. Testing data helps engineers choose and improve designs."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two cups are tested to hold water without leaking:\n- Cup A: let 0 drops of water leak in 5 minutes\n- Cup B: let 8 drops of water leak in 5 minutes\n\nWhich cup is BETTER at holding water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Cup A \u2014 it let 0 drops leak",
+          "correct": true,
+          "explanation": "Cup A let no water leak (0 drops). Cup B let 8 drops leak. Cup A is better at holding water."
+        },
+        {
+          "id": "b",
+          "label": "Cup B \u2014 it let more drops leak, so more water moved",
+          "correct": false,
+          "explanation": "Letting more water leak means Cup B is WORSE at holding water. The goal is to keep water in, not let it out."
+        },
+        {
+          "id": "c",
+          "label": "Both cups held water equally well",
+          "correct": false,
+          "explanation": "0 drops and 8 drops are different. Cup A held water better."
+        },
+        {
+          "id": "d",
+          "label": "Neither cup held any water",
+          "correct": false,
+          "explanation": "Cup A held all the water (0 drops leaked). Cup A worked very well."
+        }
+      ],
+      "explanation_md": "Cup A let no water leak (0 drops), while Cup B let 8 drops leak. Cup A is clearly better at holding water without leaking."
+    }
+  ]
+}
