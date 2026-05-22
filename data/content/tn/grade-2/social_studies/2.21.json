@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.21",
+  "benchmark_description": "Describe how families change over time, including changes in family members, family traditions, and family history, and explain how families pass down culture and history through stories, photographs, and artifacts.",
+  "course": "social_studies",
+  "strand": "CUL",
+  "lesson": {
+    "title": "Family History and How Families Change",
+    "intro": "Every family has a story. Your family has changed over time \u2014 babies were born, family members moved, and new traditions started. Learning about your family history helps you understand who you are and where you come from.",
+    "body_md": "## How Families Change Over Time\n\nFamilies are always changing. Some ways families change include:\n\n- **New family members** are born or join through adoption.\n- **Family members move** to new places for work, school, or other reasons.\n- **Family members pass away**, leaving memories behind.\n- **Families blend** when parents remarry and bring together children from different families.\n- **Roles change** \u2014 children grow up and become parents themselves.\n\nEven as families change, the love and connection between family members often stays the same.\n\n## Family History\n\nFamily history is the story of your family over time. It includes:\n\n- **Where your family came from** \u2014 your ancestors may have lived in other states or countries.\n- **What jobs family members had** \u2014 a great-grandparent might have been a farmer, a miner, or a factory worker.\n- **Big events in family history** \u2014 marriages, moves, or important moments.\n- **Family traditions** \u2014 special activities or celebrations that families repeat over time.\n\n## Generations\n\nA **generation** is a group of family members who are about the same age. Families are made of many generations:\n\n| Generation | Example |\n|---|---|\n| You | Child |\n| Your parents | Adults |\n| Your grandparents | Older adults |\n| Your great-grandparents | Very old or passed away |\n\nEach generation passes information to the next.\n\n## How Families Pass Down Culture and History\n\nFamilies use many ways to share their history with younger generations:\n\n### Stories and Oral History\nWhen grandparents or parents tell stories about their lives, they pass down **oral history** \u2014 history shared through talking. These stories teach younger family members about the past.\n\n### Photographs\nOld photographs show what family members looked like, what they wore, and what their homes and communities were like. Photos are windows into the past.\n\n### Artifacts\nArtifacts are objects from the past. A family artifact might be:\n- A quilt made by a great-grandmother\n- A military medal earned by a grandfather\n- An old recipe written by hand\n- A musical instrument played for generations\n\n### Written Records\nFamilies sometimes keep journals, letters, or diaries. These written records tell us what people were thinking and feeling long ago.\n\n### Traditions\nA **tradition** is something families do regularly \u2014 often passed down through generations. Examples:\n- Making a special dish at holidays\n- Attending the same church or community event\n- Visiting the same vacation spot every year\n- Telling the same family stories at gatherings\n\n## Tennessee Families\n\nMany Tennessee families have deep roots in the state going back many generations. Some families have lived in the same mountain communities for 200 years. Others are newer arrivals who brought traditions from other states or countries. All of these families are part of Tennessee's story.",
+    "worked_example_md": "**Question:** Rosa's grandmother shows her an old quilt that was made by Rosa's great-great-grandmother. The grandmother explains who made each section of the quilt and why. What kind of artifact is the quilt, and how does it help Rosa learn about her family history?\n\n**Think it through:**\n- The quilt is a **physical artifact** \u2014 an object from the past.\n- The grandmother's explanation is **oral history** \u2014 a story passed down through talking.\n- Together, they help Rosa understand who her ancestors were and what skills and traditions they had.\n\n**Answer:** The quilt is a **family artifact** that connects Rosa to her great-great-grandmother. Combined with the grandmother's oral history, it helps Rosa learn about her family's traditions, skills, and history.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is an artifact?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A picture taken on a phone today",
+          "correct": false,
+          "explanation": "A current photo is not an artifact \u2014 artifacts are objects from the past."
+        },
+        {
+          "id": "b",
+          "label": "An object from the past that tells us about history",
+          "correct": true,
+          "explanation": "Artifacts are objects that help us learn about the past."
+        },
+        {
+          "id": "c",
+          "label": "A new law made by the government",
+          "correct": false,
+          "explanation": "Laws are not artifacts."
+        },
+        {
+          "id": "d",
+          "label": "A story told by a news reporter",
+          "correct": false,
+          "explanation": "That is a news report, not an artifact."
+        }
+      ],
+      "explanation_md": "An **artifact** is an **object from the past** that helps us learn about history \u2014 like an old quilt, medal, or hand-written recipe."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a family tradition?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A rule that all families in a city must follow",
+          "correct": false,
+          "explanation": "Traditions are not laws \u2014 they are personal family activities."
+        },
+        {
+          "id": "b",
+          "label": "A special activity that a family does regularly and passes down over time",
+          "correct": true,
+          "explanation": "Traditions are repeated practices that families pass from generation to generation."
+        },
+        {
+          "id": "c",
+          "label": "A type of school project about the past",
+          "correct": false,
+          "explanation": "School projects are not family traditions."
+        },
+        {
+          "id": "d",
+          "label": "A meal that is only eaten once",
+          "correct": false,
+          "explanation": "Traditions are repeated \u2014 not just done once."
+        }
+      ],
+      "explanation_md": "A **family tradition** is a **special activity that families do regularly** and pass down through generations \u2014 like cooking a special dish or gathering for holidays."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How can a grandparent help pass down family history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "By making new laws for the family to follow",
+          "correct": false,
+          "explanation": "Grandparents pass history through stories, not laws."
+        },
+        {
+          "id": "b",
+          "label": "By telling stories about the past",
+          "correct": true,
+          "explanation": "Oral history \u2014 sharing stories \u2014 is a key way grandparents pass down family history."
+        },
+        {
+          "id": "c",
+          "label": "By only using technology",
+          "correct": false,
+          "explanation": "Telling stories is one of the oldest and most important ways to share history."
+        },
+        {
+          "id": "d",
+          "label": "By never talking about the past",
+          "correct": false,
+          "explanation": "Sharing the past is how families preserve history."
+        }
+      ],
+      "explanation_md": "Grandparents can pass down family history by **telling stories about the past** \u2014 this is called oral history."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does the word \"generation\" mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of family celebration",
+          "correct": false,
+          "explanation": "Generation refers to a group of people at similar life stages, not a celebration."
+        },
+        {
+          "id": "b",
+          "label": "A group of family members who are about the same age",
+          "correct": true,
+          "explanation": "A generation includes people at the same stage of life \u2014 like parents or grandparents."
+        },
+        {
+          "id": "c",
+          "label": "A story passed down through the family",
+          "correct": false,
+          "explanation": "That describes oral history, not a generation."
+        },
+        {
+          "id": "d",
+          "label": "A type of artifact from the past",
+          "correct": false,
+          "explanation": "Artifacts are objects; a generation is a group of people."
+        }
+      ],
+      "explanation_md": "A **generation** is a **group of family members who are about the same age** \u2014 like children, parents, or grandparents in a family."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Marcus's great-grandmother kept a journal while growing up in East Tennessee in the 1940s. How does this journal help Marcus?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It gives Marcus directions to school.",
+          "correct": false,
+          "explanation": "Journals from the 1940s do not contain directions to current schools."
+        },
+        {
+          "id": "b",
+          "label": "It helps Marcus learn what his great-grandmother's life was like in the past.",
+          "correct": true,
+          "explanation": "A personal journal tells us what people were thinking and experiencing in their time."
+        },
+        {
+          "id": "c",
+          "label": "It tells Marcus what laws to follow today.",
+          "correct": false,
+          "explanation": "Personal journals record life experiences, not laws."
+        },
+        {
+          "id": "d",
+          "label": "It shows Marcus what his community will look like in the future.",
+          "correct": false,
+          "explanation": "The journal is about the past, not the future."
+        }
+      ],
+      "explanation_md": "The journal helps Marcus **learn what his great-grandmother's life was like** in East Tennessee in the 1940s \u2014 written records preserve personal history."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is the BEST example of oral history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A photograph of a great-grandparent's wedding",
+          "correct": false,
+          "explanation": "A photograph is a visual record, not oral history."
+        },
+        {
+          "id": "b",
+          "label": "A grandfather telling his grandchildren about growing up on a farm in Tennessee",
+          "correct": true,
+          "explanation": "Oral history is the sharing of history through spoken stories."
+        },
+        {
+          "id": "c",
+          "label": "A quilt made by a family member 100 years ago",
+          "correct": false,
+          "explanation": "A quilt is an artifact, not oral history."
+        },
+        {
+          "id": "d",
+          "label": "A birth certificate from the county courthouse",
+          "correct": false,
+          "explanation": "A birth certificate is a written official record, not oral history."
+        }
+      ],
+      "explanation_md": "**Oral history** is history shared through **spoken stories** \u2014 like a grandfather telling grandchildren about growing up on a farm."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A family looks at old photographs from the early 1900s and notices that clothes, hairstyles, and homes look very different from today. What does this show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Families have not changed at all over time.",
+          "correct": false,
+          "explanation": "The differences in the photos show that families and communities have changed."
+        },
+        {
+          "id": "b",
+          "label": "Families and communities change over time.",
+          "correct": true,
+          "explanation": "Photographs from the past show visual evidence of how life has changed."
+        },
+        {
+          "id": "c",
+          "label": "The people in the photos lived in a different country.",
+          "correct": false,
+          "explanation": "Different clothes and styles do not mean they lived in another country."
+        },
+        {
+          "id": "d",
+          "label": "Old photographs are not a reliable source of history.",
+          "correct": false,
+          "explanation": "Old photographs are a valuable source of historical evidence."
+        }
+      ],
+      "explanation_md": "Old photographs show **visual evidence of how families and communities have changed** over time \u2014 in clothing, homes, and daily life."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why might different families in the same community have different traditions?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because some families are allowed to have traditions and others are not.",
+          "correct": false,
+          "explanation": "All families can have their own traditions."
+        },
+        {
+          "id": "b",
+          "label": "Because families come from different backgrounds, cultures, and places.",
+          "correct": true,
+          "explanation": "Different cultural backgrounds lead to different family traditions."
+        },
+        {
+          "id": "c",
+          "label": "Because only old families are allowed to have traditions.",
+          "correct": false,
+          "explanation": "All families \u2014 old and new \u2014 can have traditions."
+        },
+        {
+          "id": "d",
+          "label": "Because traditions are assigned by the government.",
+          "correct": false,
+          "explanation": "Traditions are chosen by families, not the government."
+        }
+      ],
+      "explanation_md": "Different families have different traditions because they come from **different cultural backgrounds, places, and histories** \u2014 each family's traditions reflect where they came from."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How does learning about family history help a child understand their own identity?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It tells the child which career to choose when they grow up.",
+          "correct": false,
+          "explanation": "Family history shares culture and values, not career paths."
+        },
+        {
+          "id": "b",
+          "label": "It connects the child to their roots and helps them understand where their traditions, values, and skills come from.",
+          "correct": true,
+          "explanation": "Family history provides a sense of origin and identity by connecting past to present."
+        },
+        {
+          "id": "c",
+          "label": "It shows the child that their family is more important than their community.",
+          "correct": false,
+          "explanation": "Family history helps with identity but does not rank family above community."
+        },
+        {
+          "id": "d",
+          "label": "It teaches the child to only follow traditions from the past.",
+          "correct": false,
+          "explanation": "Understanding family history includes both preserving and creating new traditions."
+        }
+      ],
+      "explanation_md": "Learning about family history **connects a child to their roots** and helps them understand where their **traditions, values, and skills** come from \u2014 building a sense of identity."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student's family moved from Mexico to Tennessee three generations ago. The student celebrates both Mexican holidays and American holidays. What does this show about how culture is passed down?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It shows that families forget their original culture after moving.",
+          "correct": false,
+          "explanation": "This family has kept their Mexican traditions \u2014 showing that culture is preserved."
+        },
+        {
+          "id": "b",
+          "label": "It shows that culture can be preserved across generations while also adopting new traditions.",
+          "correct": true,
+          "explanation": "This family demonstrates how multiple cultural traditions can be maintained and blended over time."
+        },
+        {
+          "id": "c",
+          "label": "It shows that Mexican culture and American culture are exactly the same.",
+          "correct": false,
+          "explanation": "Celebrating both suggests there are differences worth celebrating."
+        },
+        {
+          "id": "d",
+          "label": "It shows that traditions can only come from one place.",
+          "correct": false,
+          "explanation": "Families can hold traditions from multiple places and cultures."
+        }
+      ],
+      "explanation_md": "This shows that **culture can be preserved across generations** \u2014 the family kept Mexican traditions while also adopting American ones, demonstrating how families **blend and carry forward their heritage**."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these BEST shows how families pass down history through artifacts?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A family watches the news together every evening.",
+          "correct": false,
+          "explanation": "Watching the news is not passing down family history through artifacts."
+        },
+        {
+          "id": "b",
+          "label": "A grandmother shares an old handmade quilt and explains who made it and why.",
+          "correct": true,
+          "explanation": "Sharing an artifact with its story is a direct way of passing down family history."
+        },
+        {
+          "id": "c",
+          "label": "A family builds a new house.",
+          "correct": false,
+          "explanation": "Building a new house is not passing down history through an artifact."
+        },
+        {
+          "id": "d",
+          "label": "A child reads a textbook about history.",
+          "correct": false,
+          "explanation": "A textbook is a general history source, not a family artifact."
+        }
+      ],
+      "explanation_md": "Sharing an **old handmade quilt** and its story is a direct example of how families pass down history through **artifacts**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How can a family's story change over time?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Family stories never change \u2014 they stay exactly the same.",
+          "correct": false,
+          "explanation": "Families change as new members arrive, others pass away, and people move."
+        },
+        {
+          "id": "b",
+          "label": "New family members are born, some move away, and new traditions begin.",
+          "correct": true,
+          "explanation": "Families evolve through births, deaths, moves, and new experiences."
+        },
+        {
+          "id": "c",
+          "label": "Only the government can change a family's story.",
+          "correct": false,
+          "explanation": "Families change through their own experiences, not through government decisions."
+        },
+        {
+          "id": "d",
+          "label": "Families only change when they move to a different country.",
+          "correct": false,
+          "explanation": "Families change in many ways \u2014 not only when they move to another country."
+        }
+      ],
+      "explanation_md": "A family's story changes as **new members are born, some move or pass away, and new traditions begin** \u2014 families are always growing and changing."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A second-grade class collects family artifacts and stories to create a class museum. Why is this a good way to learn about community history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it shows that all families have exactly the same history.",
+          "correct": false,
+          "explanation": "Family histories are diverse \u2014 this activity shows differences, not sameness."
+        },
+        {
+          "id": "b",
+          "label": "Because it shows how different family histories come together to make up the whole community's story.",
+          "correct": true,
+          "explanation": "Many individual family stories combine to create a richer, more complete community history."
+        },
+        {
+          "id": "c",
+          "label": "Because it proves that only older families have important history.",
+          "correct": false,
+          "explanation": "All families' histories are important, whether they are old or new to the community."
+        },
+        {
+          "id": "d",
+          "label": "Because artifacts from families are worth a lot of money.",
+          "correct": false,
+          "explanation": "The value of family artifacts is in their historical and cultural meaning, not their monetary worth."
+        }
+      ],
+      "explanation_md": "Collecting family artifacts and stories creates a **community museum** because **different family histories combine** to tell the broader story of the whole community."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is family history?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The story of your family over time",
+          "correct": true,
+          "explanation": "Family history is the story of who your family is and where they came from."
+        },
+        {
+          "id": "b",
+          "label": "A list of rules all families must follow",
+          "correct": false,
+          "explanation": "Rules are not family history \u2014 history is the story of events and people."
+        },
+        {
+          "id": "c",
+          "label": "A school subject about maps",
+          "correct": false,
+          "explanation": "Family history is about your specific family, not maps."
+        },
+        {
+          "id": "d",
+          "label": "A type of holiday",
+          "correct": false,
+          "explanation": "Family history is not a holiday \u2014 it is the story of a family over time."
+        }
+      ],
+      "explanation_md": "**Family history** is the **story of your family over time** \u2014 where they came from, what they did, and how they changed."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is an example of a family artifact?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A new toy bought at a store today",
+          "correct": false,
+          "explanation": "A new toy is not an artifact \u2014 artifacts are objects from the past."
+        },
+        {
+          "id": "b",
+          "label": "An old quilt made by a great-grandmother",
+          "correct": true,
+          "explanation": "An old quilt from a family member is a family artifact."
+        },
+        {
+          "id": "c",
+          "label": "A school textbook",
+          "correct": false,
+          "explanation": "A textbook is not a personal family artifact."
+        },
+        {
+          "id": "d",
+          "label": "A homework assignment",
+          "correct": false,
+          "explanation": "Homework is not a family artifact."
+        }
+      ],
+      "explanation_md": "An old quilt made by a **great-grandmother** is a **family artifact** \u2014 an object from the past that connects us to family history."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do families look at old photographs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To see what family members looked like and learn about the past",
+          "correct": true,
+          "explanation": "Old photographs show us what life looked like in the past."
+        },
+        {
+          "id": "b",
+          "label": "To find out what the weather will be tomorrow",
+          "correct": false,
+          "explanation": "Old photographs do not predict weather."
+        },
+        {
+          "id": "c",
+          "label": "To learn which laws to follow",
+          "correct": false,
+          "explanation": "Photographs show history, not laws."
+        },
+        {
+          "id": "d",
+          "label": "To find out what stores sell the best prices",
+          "correct": false,
+          "explanation": "Old photographs are for learning about the past, not shopping."
+        }
+      ],
+      "explanation_md": "Families look at old photographs to **see what family members looked like** and to **learn about the past**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "When a grandmother tells her grandchildren stories about growing up, what is she sharing?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Oral history",
+          "correct": true,
+          "explanation": "Sharing history through talking is called oral history."
+        },
+        {
+          "id": "b",
+          "label": "A written report",
+          "correct": false,
+          "explanation": "She is speaking, not writing a report."
+        },
+        {
+          "id": "c",
+          "label": "A national holiday",
+          "correct": false,
+          "explanation": "Personal stories are not national holidays."
+        },
+        {
+          "id": "d",
+          "label": "A news broadcast",
+          "correct": false,
+          "explanation": "A grandmother's personal stories are oral history, not a news broadcast."
+        }
+      ],
+      "explanation_md": "When a grandmother tells stories about growing up, she is sharing **oral history** \u2014 history passed down through talking."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A family makes the same special soup every New Year's Day. This soup recipe has been passed down for five generations. What is this an example of?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A community rule",
+          "correct": false,
+          "explanation": "A family recipe is not a community rule."
+        },
+        {
+          "id": "b",
+          "label": "A family tradition",
+          "correct": true,
+          "explanation": "Making the same soup each year and passing the recipe down is a family tradition."
+        },
+        {
+          "id": "c",
+          "label": "A national holiday",
+          "correct": false,
+          "explanation": "A family recipe is a personal tradition, not a national holiday."
+        },
+        {
+          "id": "d",
+          "label": "A change in the community",
+          "correct": false,
+          "explanation": "A family recipe passed down for generations is continuity, not community change."
+        }
+      ],
+      "explanation_md": "Making the same special soup every New Year's and passing the recipe down for five generations is a **family tradition**."
+    }
+  ]
+}
