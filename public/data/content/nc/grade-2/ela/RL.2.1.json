@@ -1,0 +1,613 @@
+{
+  "skill_id": "RL.2.1",
+  "benchmark_description": "Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in a text.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Ask and Answer Questions About Stories",
+    "intro": "Good readers ask questions before, during, and after they read. When you ask WHO, WHAT, WHERE, WHEN, WHY, and HOW questions, you understand the story much better!",
+    "body_md": "## The Six Big Questions\n\nWhen you read a story, use these six questions to understand what is happening:\n\n| Question Word | What It Asks About |\n|---|---|\n| **Who** | The people or animals in the story |\n| **What** | What happens or what the characters do |\n| **Where** | The place where the story happens |\n| **When** | The time the story happens |\n| **Why** | The reason something happens |\n| **How** | The way something happens |\n\n## Finding Key Details\n\nKey details are the important pieces of information in a story. They help you understand what the story is really about.\n\n**Example:** Read this short passage:\n\n> Maya ran to the park on Saturday morning because she wanted to fly her new kite before it got too windy.\n\n- **Who?** Maya\n- **What?** She ran to the park to fly her kite\n- **Where?** The park\n- **When?** Saturday morning\n- **Why?** She wanted to fly her kite before it got too windy\n- **How?** She ran\n\n## Tips for Finding Answers\n\n- Look back in the text when you are not sure of an answer.\n- The answer is often right in the words of the story.\n- Sometimes you have to think about clues to figure out the answer.",
+    "worked_example_md": "## Worked Example\n\nRead this passage:\n\n> On a cold winter night, Sam put on his boots and coat. He walked outside to feed his dog, Rex. Rex was hungry and barked loudly until Sam poured food into the bowl.\n\n**Question:** Why did Rex bark loudly?\n\n**Step 1:** Find the question word. The question asks WHY.\n\n**Step 2:** Look for the reason in the story. The story says Rex barked \"until Sam poured food into the bowl.\"\n\n**Step 3:** Look a little earlier in the passage. It says \"Rex was hungry.\"\n\n**Answer:** Rex barked loudly because he was hungry and wanted Sam to feed him.\n\nYou used details right from the story to answer the question!",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Lily found a small blue bird on her porch. The bird had a hurt wing. Lily put the bird in a box and called her dad for help.\n\n**Who** found the bird?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Lily's dad",
+          "correct": false,
+          "explanation": "Lily's dad helped later, but he did not find the bird."
+        },
+        {
+          "id": "b",
+          "label": "Lily",
+          "correct": true,
+          "explanation": "The story says 'Lily found a small blue bird,' so Lily is the one who found it."
+        },
+        {
+          "id": "c",
+          "label": "A neighbor",
+          "correct": false,
+          "explanation": "The story does not mention a neighbor finding the bird."
+        },
+        {
+          "id": "d",
+          "label": "The bird found itself",
+          "correct": false,
+          "explanation": "Birds cannot find themselves. The story says Lily found the bird."
+        }
+      ],
+      "explanation_md": "The passage says 'Lily found a small blue bird,' so the answer is Lily."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Lily found a small blue bird on her porch. The bird had a hurt wing. Lily put the bird in a box and called her dad for help.\n\n**Where** did Lily find the bird?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In a tree",
+          "correct": false,
+          "explanation": "The story does not say the bird was in a tree."
+        },
+        {
+          "id": "b",
+          "label": "In her bedroom",
+          "correct": false,
+          "explanation": "The story does not say the bird was in a bedroom."
+        },
+        {
+          "id": "c",
+          "label": "On her porch",
+          "correct": true,
+          "explanation": "The story says 'Lily found a small blue bird on her porch.'"
+        },
+        {
+          "id": "d",
+          "label": "At school",
+          "correct": false,
+          "explanation": "The story does not mention school."
+        }
+      ],
+      "explanation_md": "The passage clearly states 'on her porch,' so that is where the bird was found."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Lily found a small blue bird on her porch. The bird had a hurt wing. Lily put the bird in a box and called her dad for help.\n\n**Why** did Lily call her dad?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because she was scared of the bird",
+          "correct": false,
+          "explanation": "The story does not say Lily was scared. She put the bird in a box, which shows she wanted to help it."
+        },
+        {
+          "id": "b",
+          "label": "Because the bird was singing",
+          "correct": false,
+          "explanation": "The story does not mention the bird singing."
+        },
+        {
+          "id": "c",
+          "label": "Because she needed help with the hurt bird",
+          "correct": true,
+          "explanation": "The story says the bird had a hurt wing, and Lily called her dad for help. She needed help caring for the injured bird."
+        },
+        {
+          "id": "d",
+          "label": "Because she wanted to go to the park",
+          "correct": false,
+          "explanation": "The story does not mention going to the park."
+        }
+      ],
+      "explanation_md": "Lily called her dad because the bird had a hurt wing and she needed help. The question asks WHY, and the reason is in the details about the bird's hurt wing."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Jake went to the library every Tuesday after school. He loved finding books about dinosaurs. One day, the librarian helped him find a book about the biggest dinosaur ever discovered.\n\n**When** does Jake go to the library?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Every Saturday",
+          "correct": false,
+          "explanation": "The story says Tuesday, not Saturday."
+        },
+        {
+          "id": "b",
+          "label": "Every Tuesday after school",
+          "correct": true,
+          "explanation": "The story clearly states 'Jake went to the library every Tuesday after school.'"
+        },
+        {
+          "id": "c",
+          "label": "On Monday mornings",
+          "correct": false,
+          "explanation": "The story does not mention Monday."
+        },
+        {
+          "id": "d",
+          "label": "During lunch",
+          "correct": false,
+          "explanation": "The story says after school, not during lunch."
+        }
+      ],
+      "explanation_md": "The passage states 'every Tuesday after school,' which answers the WHEN question."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Every morning, Ben's grandmother made him oatmeal with honey. Ben did not like oatmeal at first, but he ate it every day. After a few weeks, Ben started to look forward to breakfast.\n\n**How** did Ben's feelings about oatmeal change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He hated it more and more each day",
+          "correct": false,
+          "explanation": "The story says the opposite. Ben started to look forward to breakfast, not dislike it more."
+        },
+        {
+          "id": "b",
+          "label": "He always loved oatmeal from the start",
+          "correct": false,
+          "explanation": "The story says 'Ben did not like oatmeal at first,' so he did not always love it."
+        },
+        {
+          "id": "c",
+          "label": "He went from not liking it to looking forward to it",
+          "correct": true,
+          "explanation": "The story says he did not like oatmeal at first, but after a few weeks he looked forward to breakfast. His feelings changed from dislike to enjoyment."
+        },
+        {
+          "id": "d",
+          "label": "He stopped eating breakfast",
+          "correct": false,
+          "explanation": "The story says Ben started looking forward to breakfast, not that he stopped eating it."
+        }
+      ],
+      "explanation_md": "The HOW question asks about the change. At first Ben did not like oatmeal, but after a few weeks he looked forward to it. His feelings changed from dislike to enjoyment."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Maria had been saving her allowance for two months. On Saturday, she finally had enough money to buy the art set she wanted. She rushed to the store with her mom and picked out the biggest set on the shelf.\n\n**What** did Maria buy at the store?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A book",
+          "correct": false,
+          "explanation": "The story does not mention a book. Maria wanted an art set."
+        },
+        {
+          "id": "b",
+          "label": "The biggest art set on the shelf",
+          "correct": true,
+          "explanation": "The story says Maria 'picked out the biggest set on the shelf,' and she had been saving for an art set."
+        },
+        {
+          "id": "c",
+          "label": "A small art set",
+          "correct": false,
+          "explanation": "The story says she picked the biggest set, not a small one."
+        },
+        {
+          "id": "d",
+          "label": "Some new shoes",
+          "correct": false,
+          "explanation": "The story mentions an art set, not shoes."
+        }
+      ],
+      "explanation_md": "Maria bought the biggest art set on the shelf. The story says she had been saving for 'the art set she wanted' and picked out 'the biggest set on the shelf.'"
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Tom and his little sister Ana played in the backyard on a sunny afternoon. Tom taught Ana how to kick a soccer ball. Ana missed the ball three times but kept trying. Finally, she kicked it all the way to the fence.\n\n**Why** is it important that Ana kept trying?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because Tom told her to stop",
+          "correct": false,
+          "explanation": "The story does not say Tom told her to stop. Tom was teaching her."
+        },
+        {
+          "id": "b",
+          "label": "Because she eventually kicked the ball all the way to the fence",
+          "correct": true,
+          "explanation": "Ana kept trying even after missing three times, and because she did not give up, she finally kicked the ball all the way to the fence."
+        },
+        {
+          "id": "c",
+          "label": "Because the ball was too heavy",
+          "correct": false,
+          "explanation": "The story does not say the ball was too heavy."
+        },
+        {
+          "id": "d",
+          "label": "Because she did not want to play anymore",
+          "correct": false,
+          "explanation": "The story shows Ana kept trying, which means she did want to play."
+        }
+      ],
+      "explanation_md": "Ana kept trying after missing three times. Because she did not give up, she finally succeeded and kicked the ball all the way to the fence. Her persistence paid off."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Every fall, the old oak tree in Mrs. Green's yard dropped thousands of acorns on the sidewalk. The squirrels from the nearby park came to bury the acorns in the ground. Mrs. Green never minded because she said the squirrels were helping plant new trees for the future.\n\n**Why** did Mrs. Green say she did not mind the squirrels?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because she liked the noise the squirrels made",
+          "correct": false,
+          "explanation": "The story does not say anything about the squirrels making noise that Mrs. Green liked."
+        },
+        {
+          "id": "b",
+          "label": "Because the squirrels cleaned up the acorns",
+          "correct": false,
+          "explanation": "The squirrels buried the acorns but the story does not say they cleaned up the yard for Mrs. Green."
+        },
+        {
+          "id": "c",
+          "label": "Because the squirrels were helping plant new trees for the future",
+          "correct": true,
+          "explanation": "Mrs. Green said the squirrels were 'helping plant new trees for the future.' She saw value in what the squirrels were doing."
+        },
+        {
+          "id": "d",
+          "label": "Because she wanted to catch the squirrels",
+          "correct": false,
+          "explanation": "The story does not say Mrs. Green wanted to catch the squirrels."
+        }
+      ],
+      "explanation_md": "The story says Mrs. Green 'said the squirrels were helping plant new trees for the future.' That is the reason she did not mind them."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Leo had always been afraid of the dark. One night, the power went out during a thunderstorm. His older sister brought him a flashlight and sat with him. By the time the storm ended, Leo realized he felt much calmer when someone was with him.\n\n**How** did Leo's experience during the storm help him?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He learned that storms are not dangerous",
+          "correct": false,
+          "explanation": "The story does not say Leo learned storms are not dangerous. He learned something about being afraid of the dark."
+        },
+        {
+          "id": "b",
+          "label": "He discovered that having someone with him made him feel calmer",
+          "correct": true,
+          "explanation": "Leo realized that when his sister sat with him, he felt much calmer. He learned that company helped him with his fear."
+        },
+        {
+          "id": "c",
+          "label": "He decided to be afraid of storms too",
+          "correct": false,
+          "explanation": "The story does not say Leo became afraid of storms. His fear was about the dark."
+        },
+        {
+          "id": "d",
+          "label": "He learned to fix the power",
+          "correct": false,
+          "explanation": "The story does not mention Leo fixing the power."
+        }
+      ],
+      "explanation_md": "The story says Leo 'realized he felt much calmer when someone was with him.' Having his sister nearby helped him cope with being afraid of the dark."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> Every spring, Mrs. Patel planted seeds in her garden. This year, even though the summer was very dry, she watered her plants every single day. In September, her tomatoes, peppers, and beans were so plentiful that she brought baskets of vegetables to her neighbors.\n\n**What** can you tell about Mrs. Patel based on the details in this passage?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She did not like gardening very much",
+          "correct": false,
+          "explanation": "The story says she planted every spring and watered every day during a dry summer. These actions show she cared a great deal about her garden."
+        },
+        {
+          "id": "b",
+          "label": "She gave up easily when things got hard",
+          "correct": false,
+          "explanation": "She watered her plants every single day even during a dry summer, which shows she did not give up easily."
+        },
+        {
+          "id": "c",
+          "label": "She is hardworking and generous",
+          "correct": true,
+          "explanation": "She worked hard every day to water her plants during a dry summer. Then she shared her vegetables with neighbors. These details show she is both hardworking and generous."
+        },
+        {
+          "id": "d",
+          "label": "She only grew tomatoes",
+          "correct": false,
+          "explanation": "The story says she grew tomatoes, peppers, and beans, not just tomatoes."
+        }
+      ],
+      "explanation_md": "The details show Mrs. Patel watered her garden every day during a dry summer (hardworking) and then shared her harvest with neighbors (generous). You have to put these details together to understand what kind of person she is."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> On the first day of winter, Grandpa took his grandchildren to the pond to look for animal tracks in the snow. He pointed out deer tracks, rabbit tracks, and what he thought were fox tracks near the frozen edge of the pond.\n\n**Where** did Grandpa take the children?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To the woods",
+          "correct": false,
+          "explanation": "The story says the pond, not the woods."
+        },
+        {
+          "id": "b",
+          "label": "To a park",
+          "correct": false,
+          "explanation": "The story does not mention a park."
+        },
+        {
+          "id": "c",
+          "label": "To the pond",
+          "correct": true,
+          "explanation": "The passage says 'Grandpa took his grandchildren to the pond.'"
+        },
+        {
+          "id": "d",
+          "label": "To his backyard",
+          "correct": false,
+          "explanation": "The story mentions a pond, not his backyard."
+        }
+      ],
+      "explanation_md": "The passage clearly states that Grandpa took the children 'to the pond.' That answers the WHERE question."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> On the first day of winter, Grandpa took his grandchildren to the pond to look for animal tracks in the snow. He pointed out deer tracks, rabbit tracks, and what he thought were fox tracks near the frozen edge of the pond.\n\n**Why** did Grandpa take the children to the pond?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To go swimming",
+          "correct": false,
+          "explanation": "It was winter and the pond was frozen. Swimming is not mentioned."
+        },
+        {
+          "id": "b",
+          "label": "To look for animal tracks in the snow",
+          "correct": true,
+          "explanation": "The story says Grandpa took them 'to look for animal tracks in the snow.'"
+        },
+        {
+          "id": "c",
+          "label": "To feed the ducks",
+          "correct": false,
+          "explanation": "The story does not mention ducks or feeding animals."
+        },
+        {
+          "id": "d",
+          "label": "To collect ice",
+          "correct": false,
+          "explanation": "The story does not say they collected ice."
+        }
+      ],
+      "explanation_md": "The passage says Grandpa took the children to look for animal tracks in the snow. That is the reason, which answers the WHY question."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the passage below, then answer the question.\n\n> On the first day of winter, Grandpa took his grandchildren to the pond to look for animal tracks in the snow. He pointed out deer tracks, rabbit tracks, and what he thought were fox tracks near the frozen edge of the pond.\n\n**What** does the phrase 'what he thought were fox tracks' tell you about Grandpa?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Grandpa had never seen a fox before",
+          "correct": false,
+          "explanation": "The story does not say Grandpa had never seen a fox."
+        },
+        {
+          "id": "b",
+          "label": "Grandpa was not completely sure those were fox tracks",
+          "correct": true,
+          "explanation": "The words 'what he thought' show that Grandpa was not 100% sure. He believed they were fox tracks but was not certain."
+        },
+        {
+          "id": "c",
+          "label": "Grandpa was sure the tracks belonged to a fox",
+          "correct": false,
+          "explanation": "If he were sure, the story would say 'fox tracks.' The phrase 'what he thought' shows he was uncertain."
+        },
+        {
+          "id": "d",
+          "label": "Grandpa did not know what animal tracks looked like",
+          "correct": false,
+          "explanation": "Grandpa correctly identified deer and rabbit tracks, so he does know about animal tracks. He just was not sure about the fox tracks."
+        }
+      ],
+      "explanation_md": "The phrase 'what he thought were fox tracks' uses the word 'thought,' which means he was not certain. He made his best guess but was not 100% sure."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence, then answer the question.\n\n> Sam ate a sandwich for lunch.\n\n**Who** ate a sandwich?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sam",
+          "correct": true,
+          "explanation": "The sentence says 'Sam ate a sandwich,' so Sam is the who."
+        },
+        {
+          "id": "b",
+          "label": "Sara",
+          "correct": false,
+          "explanation": "The sentence does not mention Sara."
+        },
+        {
+          "id": "c",
+          "label": "Mom",
+          "correct": false,
+          "explanation": "The sentence does not mention Mom."
+        },
+        {
+          "id": "d",
+          "label": "The dog",
+          "correct": false,
+          "explanation": "The sentence does not mention a dog."
+        }
+      ],
+      "explanation_md": "The sentence starts with 'Sam,' so Sam is the WHO."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence, then answer the question.\n\n> Sam ate a sandwich for lunch.\n\n**What** did Sam eat?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A cookie",
+          "correct": false,
+          "explanation": "The sentence says sandwich, not cookie."
+        },
+        {
+          "id": "b",
+          "label": "A sandwich",
+          "correct": true,
+          "explanation": "The sentence says 'Sam ate a sandwich.'"
+        },
+        {
+          "id": "c",
+          "label": "Soup",
+          "correct": false,
+          "explanation": "The sentence says sandwich, not soup."
+        },
+        {
+          "id": "d",
+          "label": "A burger",
+          "correct": false,
+          "explanation": "The sentence says sandwich, not burger."
+        }
+      ],
+      "explanation_md": "The sentence says Sam ate 'a sandwich.' That is the WHAT."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the sentence, then answer the question.\n\n> Sam ate a sandwich for lunch.\n\n**When** did Sam eat the sandwich?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "For breakfast",
+          "correct": false,
+          "explanation": "The sentence says lunch, not breakfast."
+        },
+        {
+          "id": "b",
+          "label": "For dinner",
+          "correct": false,
+          "explanation": "The sentence says lunch, not dinner."
+        },
+        {
+          "id": "c",
+          "label": "For lunch",
+          "correct": true,
+          "explanation": "The sentence says 'for lunch,' which tells us when Sam ate."
+        },
+        {
+          "id": "d",
+          "label": "At midnight",
+          "correct": false,
+          "explanation": "The sentence says lunch, not midnight."
+        }
+      ],
+      "explanation_md": "The sentence says 'for lunch.' That word tells us WHEN Sam ate the sandwich."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short passage below, then answer the question.\n\n> The cat sat on the mat. It was a soft, blue mat.\n\n**Where** did the cat sit?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "On a chair",
+          "correct": false,
+          "explanation": "The passage says the cat sat on the mat, not a chair."
+        },
+        {
+          "id": "b",
+          "label": "On the mat",
+          "correct": true,
+          "explanation": "The passage says 'The cat sat on the mat.'"
+        },
+        {
+          "id": "c",
+          "label": "On the floor",
+          "correct": false,
+          "explanation": "The passage says the mat, not the floor."
+        },
+        {
+          "id": "d",
+          "label": "On the table",
+          "correct": false,
+          "explanation": "The passage says the mat, not the table."
+        }
+      ],
+      "explanation_md": "The passage says 'The cat sat on the mat.' On the mat is WHERE the cat sat."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the short passage below, then answer the question.\n\n> Dan was late for school. He ran all the way there so he would not miss the bell.\n\n**Why** did Dan run?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because he liked running",
+          "correct": false,
+          "explanation": "The story says he ran because he was late, not because he liked running."
+        },
+        {
+          "id": "b",
+          "label": "Because he was late for school",
+          "correct": true,
+          "explanation": "The story says Dan was late for school and ran so he would not miss the bell."
+        },
+        {
+          "id": "c",
+          "label": "Because it was raining",
+          "correct": false,
+          "explanation": "The story does not mention rain."
+        },
+        {
+          "id": "d",
+          "label": "Because his dog was chasing him",
+          "correct": false,
+          "explanation": "The story does not mention a dog."
+        }
+      ],
+      "explanation_md": "The story says Dan was late for school, so he ran so he would not miss the bell. Being late is the WHY."
+    }
+  ]
+}
