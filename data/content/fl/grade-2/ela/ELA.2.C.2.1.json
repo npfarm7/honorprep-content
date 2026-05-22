@@ -1,0 +1,613 @@
+{
+  "skill_id": "ELA.2.C.2.1",
+  "benchmark_description": "Demonstrate command of the conventions of standard English grammar and usage when writing; use correct capitalization, punctuation, and spelling in writing.",
+  "course": "ela",
+  "strand": "C",
+  "lesson": {
+    "title": "Language Conventions: Capitalization, Punctuation, and Spelling",
+    "intro": "When we write, we follow rules that help readers understand our words. These rules are called conventions. In grade 2, we learn to use correct capitalization, end punctuation, commas, and spelling.",
+    "body_md": "## Capitalization Rules\n\nCapitalize:\n1. **The first word of every sentence** - *The dog barks at night.*\n2. **Names of specific people, places, and animals** - *Maria*, *Orlando*, *Spot*\n3. **The word I** - *My brother and I play soccer.*\n4. **Days of the week and months** - *Monday*, *January*\n5. **Titles before a name** - *Dr. Kim*, *Mrs. Johnson*\n\nDo NOT capitalize common nouns unless they are at the start of a sentence:\n- Correct: *We have a cat.* (not Cat)\n- Correct: *I love summer.* (not Summer)\n\n## End Punctuation\n\n- **Period (.)** - ends a statement: *The sun is bright.*\n- **Question mark (?)** - ends a question: *Is it raining outside?*\n- **Exclamation mark (!)** - ends a sentence showing strong feeling: *Watch out!*\n\n## Commas\n\nUse a comma:\n- **In a list of three or more items**: *I packed a sandwich, an apple, and a water bottle.*\n- **After a greeting in a letter**: *Dear Grandma,*\n- **After a closing in a letter**: *Love,*\n\n## Spelling\n\n- Use what you know about phonics patterns (long vowels, consonant blends, vowel teams).\n- Use common high-frequency words you have memorized.\n- When you are unsure, try sounding out the word by syllable.\n\nCommon second-grade spelling patterns:\n- Long vowel with silent e: *make*, *ride*, *hope*\n- Vowel teams: *rain*, *green*, *float*\n- R-controlled vowels: *bird*, *burn*, *park*",
+    "worked_example_md": "## Worked Example\n\nRead this sentence with mistakes. Then see how to fix each one.\n\n**Before:** *my friend emma and i went to the park on saturday*\n\n**Problems:**\n- 'my' should be 'My' (first word of sentence)\n- 'emma' should be 'Emma' (person's name)\n- 'i' should be 'I' (always capitalize I)\n- 'saturday' should be 'Saturday' (day of the week)\n- No period at the end\n\n**After:** *My friend Emma and I went to the park on Saturday.*\n\n---\n\n**List comma example:**\n\nBefore: *I see a dog a cat and a bird.*\nAfter: *I see a dog, a cat, and a bird.*\n\nCommas separate the items in the list and the word 'and' comes before the last item.",
+    "estimated_minutes": 30
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word should ALWAYS be capitalized, even in the middle of a sentence?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "cat",
+          "correct": false,
+          "explanation": "'Cat' is a common noun. Capitalize it only at the start of a sentence."
+        },
+        {
+          "id": "B",
+          "label": "I",
+          "correct": true,
+          "explanation": "Correct! The pronoun 'I' is always capitalized, no matter where it appears in a sentence."
+        },
+        {
+          "id": "C",
+          "label": "tree",
+          "correct": false,
+          "explanation": "'Tree' is a common noun. Capitalize it only at the start of a sentence."
+        },
+        {
+          "id": "D",
+          "label": "happy",
+          "correct": false,
+          "explanation": "'Happy' is an adjective. Capitalize it only at the start of a sentence."
+        }
+      ],
+      "explanation_md": "The pronoun 'I' is always capitalized in English, even in the middle or at the end of a sentence. Example: 'She and I are friends.'"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses the CORRECT end punctuation?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Where did you go.",
+          "correct": false,
+          "explanation": "This is a question. It needs a question mark (?), not a period."
+        },
+        {
+          "id": "B",
+          "label": "The cat sat on the mat?",
+          "correct": false,
+          "explanation": "This is a statement, not a question. It needs a period (.)."
+        },
+        {
+          "id": "C",
+          "label": "Watch out for the car!",
+          "correct": true,
+          "explanation": "Correct! This sentence shows strong feeling (a warning). An exclamation mark is correct."
+        },
+        {
+          "id": "D",
+          "label": "My dog is brown!",
+          "correct": false,
+          "explanation": "This is a calm statement of fact. It should end with a period, not an exclamation mark."
+        }
+      ],
+      "explanation_md": "Match punctuation to the type of sentence: period for statements, question mark for questions, exclamation mark for strong feelings or commands."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word in this sentence needs to be capitalized?\n\n*my dog loves to run in the park.*",
+      "choices": [
+        {
+          "id": "A",
+          "label": "dog",
+          "correct": false,
+          "explanation": "'Dog' is a common noun in the middle of the sentence. It does not need to be capitalized."
+        },
+        {
+          "id": "B",
+          "label": "my",
+          "correct": true,
+          "explanation": "Correct! 'My' is the first word of the sentence and must be capitalized."
+        },
+        {
+          "id": "C",
+          "label": "park",
+          "correct": false,
+          "explanation": "'Park' is a common noun and is not at the start of the sentence. It does not need to be capitalized."
+        },
+        {
+          "id": "D",
+          "label": "run",
+          "correct": false,
+          "explanation": "'Run' is a verb in the middle of the sentence. It does not need to be capitalized."
+        }
+      ],
+      "explanation_md": "Always capitalize the first word of a sentence. 'My' is the first word and must start with a capital M."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses commas CORRECTLY?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I like apples oranges and grapes.",
+          "correct": false,
+          "explanation": "This list needs commas between items: 'apples, oranges, and grapes.'"
+        },
+        {
+          "id": "B",
+          "label": "I like, apples, oranges and, grapes.",
+          "correct": false,
+          "explanation": "The commas are in the wrong places. Do not put a comma right after 'like.'"
+        },
+        {
+          "id": "C",
+          "label": "I like apples, oranges, and grapes.",
+          "correct": true,
+          "explanation": "Correct! Commas separate the items in the list: apples, oranges, and grapes."
+        },
+        {
+          "id": "D",
+          "label": "I like, apples oranges and grapes.",
+          "correct": false,
+          "explanation": "The comma after 'like' is in the wrong place. Commas go between list items."
+        }
+      ],
+      "explanation_md": "In a list of three or more items, use commas to separate them. Put the word 'and' before the last item: 'apples, oranges, and grapes.'"
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is capitalized CORRECTLY?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "my friend Sarah lives in miami.",
+          "correct": false,
+          "explanation": "'My' (first word) and 'Miami' (city name) need to be capitalized."
+        },
+        {
+          "id": "B",
+          "label": "My friend sarah lives in Miami.",
+          "correct": false,
+          "explanation": "'Sarah' is a person's name and must be capitalized."
+        },
+        {
+          "id": "C",
+          "label": "My friend Sarah lives in Miami.",
+          "correct": true,
+          "explanation": "Correct! 'My' (first word), 'Sarah' (person's name), and 'Miami' (city name) are all correctly capitalized."
+        },
+        {
+          "id": "D",
+          "label": "My Friend Sarah Lives In Miami.",
+          "correct": false,
+          "explanation": "'Friend' and 'Lives' and 'In' are not proper nouns. They do not need to be capitalized in the middle of a sentence."
+        }
+      ],
+      "explanation_md": "Capitalize: the first word of the sentence (My), names of people (Sarah), and names of cities (Miami). Do not capitalize common words like 'friend' in the middle of a sentence."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sam wrote: *i went to the store with mrs jones on tuesday.*\n\nHow many capitalization errors does this sentence have?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "1",
+          "correct": false,
+          "explanation": "There is more than one error. Count all the words that should be capitalized."
+        },
+        {
+          "id": "B",
+          "label": "2",
+          "correct": false,
+          "explanation": "There are more than two errors in this sentence."
+        },
+        {
+          "id": "C",
+          "label": "4",
+          "correct": true,
+          "explanation": "Correct! 'i' (first word and the pronoun I), 'mrs' (title), 'jones' (last name), and 'tuesday' (day of the week) all need to be capitalized."
+        },
+        {
+          "id": "D",
+          "label": "5",
+          "correct": false,
+          "explanation": "Count again. 'i,' 'mrs,' 'jones,' and 'tuesday' - that is 4 errors."
+        }
+      ],
+      "explanation_md": "The 4 errors: 'i' should be 'I' (first word + pronoun I), 'mrs' should be 'Mrs.' (title), 'jones' should be 'Jones' (last name), 'tuesday' should be 'Tuesday' (day of the week). Corrected: *I went to the store with Mrs. Jones on Tuesday.*"
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence ends with the CORRECT punctuation mark?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Can you help me with my homework.",
+          "correct": false,
+          "explanation": "This is a question. It needs a question mark, not a period."
+        },
+        {
+          "id": "B",
+          "label": "Can you help me with my homework?",
+          "correct": true,
+          "explanation": "Correct! 'Can you...' is a question, so it ends with a question mark."
+        },
+        {
+          "id": "C",
+          "label": "Can you help me with my homework!",
+          "correct": false,
+          "explanation": "This is a question, not an exclamation. Questions end with a question mark."
+        },
+        {
+          "id": "D",
+          "label": "Can you help me with my homework",
+          "correct": false,
+          "explanation": "Every sentence must end with a punctuation mark. Questions end with a question mark."
+        }
+      ],
+      "explanation_md": "Questions begin with question words (Who, What, Where, When, Why, How, Can, Do, Is) or a subject-verb flip, and they always end with a question mark."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the letter opening:\n\n*Dear grandma*\n\nWhat TWO things are wrong?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "grandma should be capitalized; a period is needed",
+          "correct": false,
+          "explanation": "'Grandma' when used as a name should be capitalized, but a letter greeting ends with a comma, not a period."
+        },
+        {
+          "id": "B",
+          "label": "grandma should be capitalized; a comma is needed after grandma",
+          "correct": true,
+          "explanation": "Correct! 'Grandma' used as a name is capitalized, and greetings in letters end with a comma: 'Dear Grandma,'"
+        },
+        {
+          "id": "C",
+          "label": "Dear should not be capitalized; a question mark is needed",
+          "correct": false,
+          "explanation": "'Dear' is the first word and should be capitalized. A letter greeting ends with a comma."
+        },
+        {
+          "id": "D",
+          "label": "Nothing is wrong",
+          "correct": false,
+          "explanation": "Both 'grandma' (should be 'Grandma') and the missing comma are errors."
+        }
+      ],
+      "explanation_md": "Letter greetings follow the format: *Dear [Name],* with a capital letter on the name and a comma after it. Correct: *Dear Grandma,*"
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is spelled CORRECTLY?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "rayn",
+          "correct": false,
+          "explanation": "The vowel team for the long a sound is 'ai' not 'ay' before a consonant. The correct spelling is 'rain.'"
+        },
+        {
+          "id": "B",
+          "label": "rain",
+          "correct": true,
+          "explanation": "Correct! 'Rain' uses the 'ai' vowel team to make the long a sound."
+        },
+        {
+          "id": "C",
+          "label": "rane",
+          "correct": false,
+          "explanation": "'Rane' is not a word. The correct spelling is 'rain' with the 'ai' vowel team."
+        },
+        {
+          "id": "D",
+          "label": "rein",
+          "correct": false,
+          "explanation": "'Rein' exists but means something used to guide a horse. The word for water falling from clouds is 'rain.'"
+        }
+      ],
+      "explanation_md": "The word for water that falls from clouds is spelled 'rain.' It uses the 'ai' vowel team, which makes the long a sound."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read this paragraph. Count how many conventions errors you find:\n\n*last friday my friend tom and i went to see dr patel. we had apples juice and crackers in the waiting room.*",
+      "choices": [
+        {
+          "id": "A",
+          "label": "4 errors",
+          "correct": false,
+          "explanation": "Count again. Check for capitalization errors (first words, names, titles, days) and missing punctuation."
+        },
+        {
+          "id": "B",
+          "label": "5 errors",
+          "correct": false,
+          "explanation": "Look more carefully at each sentence for all capitalization rules."
+        },
+        {
+          "id": "C",
+          "label": "6 errors",
+          "correct": true,
+          "explanation": "Correct! Errors: 'last' (first word), 'friday' (day), 'tom' (name), 'i' (pronoun I), 'dr' (title), 'we' (first word of second sentence) = 6 capitalization errors. Also missing commas in the list (apples, juice, and crackers)."
+        },
+        {
+          "id": "D",
+          "label": "3 errors",
+          "correct": false,
+          "explanation": "There are more than 3 errors. Check the first word of each sentence, names, titles, days, and the pronoun I."
+        }
+      ],
+      "explanation_md": "Corrected paragraph: *Last Friday, my friend Tom and I went to see Dr. Patel. We had apples, juice, and crackers in the waiting room.* Errors: last/Last, friday/Friday, tom/Tom, i/I, dr/Dr., we/We, and missing commas in the list."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is written with CORRECT conventions (capitalization, punctuation, and spelling)?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "my dog rex loves to Play in the yard!",
+          "correct": false,
+          "explanation": "'my' (first word) needs a capital M. 'Play' should not be capitalized - it is not a proper noun."
+        },
+        {
+          "id": "B",
+          "label": "My dog Rex loves to play in the yard.",
+          "correct": true,
+          "explanation": "Correct! 'My' (first word) and 'Rex' (dog's name) are capitalized. 'Play' is correctly lowercase. The sentence ends with a period."
+        },
+        {
+          "id": "C",
+          "label": "My Dog Rex loves to play in the Yard.",
+          "correct": false,
+          "explanation": "'Dog' and 'Yard' are common nouns. They should not be capitalized in the middle of a sentence."
+        },
+        {
+          "id": "D",
+          "label": "My dog rex loves to play in the yard.",
+          "correct": false,
+          "explanation": "'Rex' is the dog's name (a proper noun) and should be capitalized: 'Rex.'"
+        }
+      ],
+      "explanation_md": "Capitalize the first word, proper nouns (names), and the pronoun I. Do not capitalize common nouns in the middle of a sentence. End statements with a period."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence uses commas and end punctuation CORRECTLY?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I need milk, eggs and butter.",
+          "correct": false,
+          "explanation": "Missing the comma before 'and' in the three-item list: 'milk, eggs, and butter.'"
+        },
+        {
+          "id": "B",
+          "label": "I need milk, eggs, and butter?",
+          "correct": false,
+          "explanation": "This is a statement, not a question. It should end with a period."
+        },
+        {
+          "id": "C",
+          "label": "I need milk, eggs, and butter.",
+          "correct": true,
+          "explanation": "Correct! Commas separate the three items in the list, and the statement ends with a period."
+        },
+        {
+          "id": "D",
+          "label": "I need, milk eggs, and butter.",
+          "correct": false,
+          "explanation": "The comma after 'need' is in the wrong place. Commas go between list items, not after the verb."
+        }
+      ],
+      "explanation_md": "For a list of three items: use a comma after each item except the last, add 'and' before the last item, and end the statement with a period. Example: 'milk, eggs, and butter.'"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Find the ONE sentence that has NO errors in capitalization or punctuation.",
+      "choices": [
+        {
+          "id": "A",
+          "label": "did you see the movie on Saturday",
+          "correct": false,
+          "explanation": "'Did' should be capitalized (first word) and a question mark is needed at the end."
+        },
+        {
+          "id": "B",
+          "label": "I live on Oak street in orlando.",
+          "correct": false,
+          "explanation": "'Street' when part of an address name should be capitalized (Oak Street), and 'Orlando' (city name) needs a capital O."
+        },
+        {
+          "id": "C",
+          "label": "We visited Aunt Rosa last Sunday.",
+          "correct": true,
+          "explanation": "Correct! 'We' (first word), 'Aunt Rosa' (used as a name/title), and 'Sunday' (day of the week) are all correctly capitalized. The sentence ends with a period."
+        },
+        {
+          "id": "D",
+          "label": "my sister and i baked Cookies.",
+          "correct": false,
+          "explanation": "'My' (first word) and 'I' (pronoun) need capitals. 'Cookies' is a common noun and should NOT be capitalized in the middle of a sentence."
+        }
+      ],
+      "explanation_md": "Choice C has no errors: 'We' (first word), 'Aunt Rosa' (used as a name - when aunt precedes a name it is capitalized), and 'Sunday' (day of the week) are all correctly capitalized."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is a **proper noun** and should ALWAYS be capitalized?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "school",
+          "correct": false,
+          "explanation": "'School' is a common noun. Capitalize it only at the start of a sentence."
+        },
+        {
+          "id": "B",
+          "label": "Tuesday",
+          "correct": true,
+          "explanation": "Correct! Days of the week are proper nouns and are always capitalized."
+        },
+        {
+          "id": "C",
+          "label": "book",
+          "correct": false,
+          "explanation": "'Book' is a common noun. Capitalize it only at the start of a sentence."
+        },
+        {
+          "id": "D",
+          "label": "play",
+          "correct": false,
+          "explanation": "'Play' is a verb. Capitalize it only at the start of a sentence."
+        }
+      ],
+      "explanation_md": "Proper nouns name specific people, places, or things. Days of the week (Monday, Tuesday, etc.) are proper nouns and are always capitalized."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A question ends with a...",
+      "choices": [
+        {
+          "id": "A",
+          "label": "period (.)",
+          "correct": false,
+          "explanation": "A period ends a statement, not a question."
+        },
+        {
+          "id": "B",
+          "label": "question mark (?)",
+          "correct": true,
+          "explanation": "Correct! Questions always end with a question mark."
+        },
+        {
+          "id": "C",
+          "label": "exclamation mark (!)",
+          "correct": false,
+          "explanation": "An exclamation mark ends a sentence with strong feeling, not a regular question."
+        },
+        {
+          "id": "D",
+          "label": "comma (,)",
+          "correct": false,
+          "explanation": "A comma is used inside sentences to separate items. It does not end a sentence."
+        }
+      ],
+      "explanation_md": "Questions end with a question mark (?). Statements end with a period (.). Excited or strong sentences end with an exclamation mark (!)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence has the FIRST word correctly capitalized?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "the bird flew over the house.",
+          "correct": false,
+          "explanation": "'The' at the start of a sentence must be capitalized: 'The.'"
+        },
+        {
+          "id": "B",
+          "label": "The bird flew over the house.",
+          "correct": true,
+          "explanation": "Correct! 'The' is the first word of the sentence and is correctly capitalized."
+        },
+        {
+          "id": "C",
+          "label": "the Bird flew over the house.",
+          "correct": false,
+          "explanation": "'The' (first word) is still lowercase, and 'Bird' (a common noun) should NOT be capitalized mid-sentence."
+        },
+        {
+          "id": "D",
+          "label": "The Bird flew over the house.",
+          "correct": false,
+          "explanation": "'The' is correctly capitalized, but 'Bird' is a common noun and should NOT be capitalized in the middle of a sentence."
+        }
+      ],
+      "explanation_md": "Always capitalize the first letter of the first word of a sentence. 'The bird flew over the house.' - only 'The' is capitalized."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence correctly uses a comma in a LIST?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "I see red blue and yellow.",
+          "correct": false,
+          "explanation": "Missing commas: 'red, blue, and yellow.'"
+        },
+        {
+          "id": "B",
+          "label": "I see red, blue, and yellow.",
+          "correct": true,
+          "explanation": "Correct! Commas separate the three colors in the list."
+        },
+        {
+          "id": "C",
+          "label": "I see, red blue and yellow.",
+          "correct": false,
+          "explanation": "The comma after 'see' is in the wrong place. Commas go between list items."
+        },
+        {
+          "id": "D",
+          "label": "I see red, blue and, yellow.",
+          "correct": false,
+          "explanation": "The comma goes BEFORE 'and,' not after it: 'red, blue, and yellow.'"
+        }
+      ],
+      "explanation_md": "In a list of three items, put commas between them: 'red, blue, and yellow.' The comma before 'and' is called the Oxford comma and comes before the last item."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which word is spelled CORRECTLY?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "grene",
+          "correct": false,
+          "explanation": "'Grene' is not spelled correctly. The color is spelled 'green' with the 'ee' vowel team."
+        },
+        {
+          "id": "B",
+          "label": "grean",
+          "correct": false,
+          "explanation": "'Grean' is not spelled correctly. The vowel team for this long e sound is 'ee,' not 'ea': 'green.'"
+        },
+        {
+          "id": "C",
+          "label": "green",
+          "correct": true,
+          "explanation": "Correct! 'Green' uses the 'ee' vowel team to make the long e sound."
+        },
+        {
+          "id": "D",
+          "label": "grein",
+          "correct": false,
+          "explanation": "'Grein' is not a word. The color is spelled 'green.'"
+        }
+      ],
+      "explanation_md": "The color is spelled 'green' with the 'ee' vowel team. The 'ee' pattern makes the long e sound: green, see, tree, bee."
+    }
+  ]
+}
