@@ -1,0 +1,613 @@
+{
+  "skill_id": "L.2.4",
+  "benchmark_description": "Determine or clarify the meaning of unknown and multiple-meaning words based on grade 2 reading and content, using context clues, known root words/affixes, and reference materials.",
+  "course": "ela",
+  "strand": "L",
+  "lesson": {
+    "title": "Figuring Out Unknown Words: Context, Roots, and Dictionaries",
+    "intro": "When you read an unknown word, use smart strategies: look at clues nearby, look at word parts, or check a dictionary.",
+    "body_md": "## Strategy 1: Context Clues\n\nLook at words and sentences around the unknown word.\n\n*The kitten was **timid** \u2014 she hid and would not come out.*\nClue: hid, would not come out \u2192 timid = shy.\n\n## Strategy 2: Root Words and Affixes\n\n| Prefix | Meaning | Example |\n|---|---|---|\n| re- | again | redo |\n| un- | not | unhappy |\n| pre- | before | preheat |\n\n| Suffix | Meaning | Example |\n|---|---|---|\n| -ful | full of | helpful |\n| -less | without | careless |\n| -er | one who | teacher |\n\n## Strategy 3: Reference Materials\n\nA **dictionary** gives definition, pronunciation, part of speech.\nA **glossary** gives meanings for words in a specific book.\n\n## Choosing the Best Strategy\n\n- Good nearby clues \u2192 context clues first.\n- Recognizable prefix/suffix \u2192 word parts.\n- Both fail \u2192 dictionary or glossary.",
+    "worked_example_md": "**Unknown word:** *The scientist studied **nocturnal** habits of bats, which only come out at night.*\n\nContext: 'only come out at night' \u2192 nocturnal = active at night.\nDictionary confirms: nocturnal = active during night hours.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The enormous elephant was so big it could barely fit through the gate.* What does **enormous** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very small",
+          "correct": false,
+          "explanation": "The clue says 'so big' \u2014 enormous means very large."
+        },
+        {
+          "id": "b",
+          "label": "Very large",
+          "correct": true,
+          "explanation": "Context: 'so big it could barely fit' shows enormous = very large."
+        },
+        {
+          "id": "c",
+          "label": "Very fast",
+          "correct": false,
+          "explanation": "Size, not speed, is described."
+        },
+        {
+          "id": "d",
+          "label": "Very old",
+          "correct": false,
+          "explanation": "Size, not age."
+        }
+      ],
+      "explanation_md": "**Enormous** = very large. Context clue: 'so big it could barely fit through the gate.'"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The prefix **un-** means ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "again",
+          "correct": false,
+          "explanation": "Again = re-."
+        },
+        {
+          "id": "b",
+          "label": "not",
+          "correct": true,
+          "explanation": "Un- means not. Unhappy = not happy."
+        },
+        {
+          "id": "c",
+          "label": "before",
+          "correct": false,
+          "explanation": "Before = pre-."
+        },
+        {
+          "id": "d",
+          "label": "full of",
+          "correct": false,
+          "explanation": "Full of = -ful (suffix)."
+        }
+      ],
+      "explanation_md": "The prefix **un-** means *not*."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does **rewrite** mean based on the prefix re-?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Write for the first time",
+          "correct": false,
+          "explanation": "Re- means again, not first time."
+        },
+        {
+          "id": "b",
+          "label": "Write again",
+          "correct": true,
+          "explanation": "Re- = again, so rewrite = write again."
+        },
+        {
+          "id": "c",
+          "label": "Write slowly",
+          "correct": false,
+          "explanation": "Re- means again, not slowly."
+        },
+        {
+          "id": "d",
+          "label": "Not write",
+          "correct": false,
+          "explanation": "Not = un-."
+        }
+      ],
+      "explanation_md": "**Re-** = again. **Rewrite** = write again."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *She was so **parched** after the long run that she drank three glasses of water.* What does parched mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tired",
+          "correct": false,
+          "explanation": "The clue is about drinking water \u2014 thirst, not tiredness."
+        },
+        {
+          "id": "b",
+          "label": "Very thirsty",
+          "correct": true,
+          "explanation": "Three glasses of water after a run \u2192 parched = very thirsty."
+        },
+        {
+          "id": "c",
+          "label": "Hungry",
+          "correct": false,
+          "explanation": "Drinking water points to thirst, not hunger."
+        },
+        {
+          "id": "d",
+          "label": "Excited",
+          "correct": false,
+          "explanation": "Context points to thirst."
+        }
+      ],
+      "explanation_md": "**Parched** = very thirsty. Context clue: drank three glasses of water."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The suffix **-less** means 'without.' What does **hopeless** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Full of hope",
+          "correct": false,
+          "explanation": "-less = without, not full of."
+        },
+        {
+          "id": "b",
+          "label": "Without hope",
+          "correct": true,
+          "explanation": "-less = without, so hopeless = without hope."
+        },
+        {
+          "id": "c",
+          "label": "A little hope",
+          "correct": false,
+          "explanation": "-less means without, not a little."
+        },
+        {
+          "id": "d",
+          "label": "More hope",
+          "correct": false,
+          "explanation": "-less means without."
+        }
+      ],
+      "explanation_md": "**-less** = without. **Hopeless** = without hope."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "When should you use a **dictionary** to find a word's meaning?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Always, even if context clues work.",
+          "correct": false,
+          "explanation": "Context clues are faster \u2014 use them first."
+        },
+        {
+          "id": "b",
+          "label": "When context clues and word parts do not help.",
+          "correct": true,
+          "explanation": "Dictionary is a backup when faster strategies fail."
+        },
+        {
+          "id": "c",
+          "label": "Never \u2014 always guess from context.",
+          "correct": false,
+          "explanation": "Guessing is unreliable \u2014 dictionaries give exact meanings."
+        },
+        {
+          "id": "d",
+          "label": "Only when a teacher says so.",
+          "correct": false,
+          "explanation": "Use a dictionary any time you need one."
+        }
+      ],
+      "explanation_md": "Use a **dictionary** when context clues and word parts are not enough."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The museum was filled with **ancient** artifacts \u2014 some were thousands of years old.* What does ancient mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "New and modern",
+          "correct": false,
+          "explanation": "Thousands of years old = opposite of new."
+        },
+        {
+          "id": "b",
+          "label": "Very old",
+          "correct": true,
+          "explanation": "Thousands of years old \u2192 ancient = very old."
+        },
+        {
+          "id": "c",
+          "label": "Colorful",
+          "correct": false,
+          "explanation": "Context is about age, not color."
+        },
+        {
+          "id": "d",
+          "label": "Small and fragile",
+          "correct": false,
+          "explanation": "Context is about age."
+        }
+      ],
+      "explanation_md": "**Ancient** = very old. Context clue: 'thousands of years old.'"
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "**Preheat** contains the prefix *pre-* (before). What does preheat mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To heat again",
+          "correct": false,
+          "explanation": "Again = re-, not pre-."
+        },
+        {
+          "id": "b",
+          "label": "To heat before (something else happens)",
+          "correct": true,
+          "explanation": "Pre- = before. Preheat = heat before (e.g., before baking)."
+        },
+        {
+          "id": "c",
+          "label": "To stop heating",
+          "correct": false,
+          "explanation": "Pre- means before, not stop."
+        },
+        {
+          "id": "d",
+          "label": "To not heat",
+          "correct": false,
+          "explanation": "Not = un-."
+        }
+      ],
+      "explanation_md": "**Pre-** = before. **Preheat** = heat before (usually before cooking)."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student knows -ful means 'full of.' What does **sorrowful** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Without sadness",
+          "correct": false,
+          "explanation": "-less = without. -ful = full of."
+        },
+        {
+          "id": "b",
+          "label": "Full of sorrow (sadness)",
+          "correct": true,
+          "explanation": "-ful = full of + sorrow (sadness) = sorrowful = full of sadness."
+        },
+        {
+          "id": "c",
+          "label": "A little sad",
+          "correct": false,
+          "explanation": "-ful means full of, not a little."
+        },
+        {
+          "id": "d",
+          "label": "Happy",
+          "correct": false,
+          "explanation": "Sorrow = sadness \u2014 opposite of happy."
+        }
+      ],
+      "explanation_md": "**-ful** = full of. **Sorrow** = sadness. **Sorrowful** = full of sadness."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The siblings had a **cordial** relationship \u2014 they always greeted each other warmly and helped one another.*\n\nA student guesses cordial means 'friendly.' Is this correct, and what strategy did they use?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Incorrect; should have used dictionary.",
+          "correct": false,
+          "explanation": "Context strongly supports 'friendly' \u2014 context clues are a valid strategy."
+        },
+        {
+          "id": "b",
+          "label": "Correct; they used context clues (greeted warmly, helped).",
+          "correct": true,
+          "explanation": "Greeted warmly and helped = context clues showing cordial = friendly."
+        },
+        {
+          "id": "c",
+          "label": "Correct; they used the prefix 'cord-'.",
+          "correct": false,
+          "explanation": "No common prefix here \u2014 they used context."
+        },
+        {
+          "id": "d",
+          "label": "Incorrect; cordial means angry.",
+          "correct": false,
+          "explanation": "Cordial means warm and friendly \u2014 context confirms."
+        }
+      ],
+      "explanation_md": "**Context clues** work here: 'greeted warmly' and 'helped one another' show cordial = friendly/warm."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The puppy was **playful** \u2014 she chased her tail and jumped on everyone.* What does playful mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sleepy",
+          "correct": false,
+          "explanation": "Chasing and jumping = active, not sleepy."
+        },
+        {
+          "id": "b",
+          "label": "Full of play and fun",
+          "correct": true,
+          "explanation": "-ful = full of. Context: chasing, jumping = playful."
+        },
+        {
+          "id": "c",
+          "label": "Afraid",
+          "correct": false,
+          "explanation": "Context shows fun, not fear."
+        },
+        {
+          "id": "d",
+          "label": "Angry",
+          "correct": false,
+          "explanation": "Context shows playfulness, not anger."
+        }
+      ],
+      "explanation_md": "**Playful** = full of play. Context confirms: chasing tail, jumping."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does **unkind** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very kind",
+          "correct": false,
+          "explanation": "Un- means not \u2014 unkind is the opposite."
+        },
+        {
+          "id": "b",
+          "label": "Kind again",
+          "correct": false,
+          "explanation": "Again = re-."
+        },
+        {
+          "id": "c",
+          "label": "Not kind",
+          "correct": true,
+          "explanation": "Un- = not. Unkind = not kind."
+        },
+        {
+          "id": "d",
+          "label": "Full of kindness",
+          "correct": false,
+          "explanation": "-ful = full of. Un- = not."
+        }
+      ],
+      "explanation_md": "**Un-** = not. **Unkind** = not kind."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads **bewildered** in: *She stared at the problem, bewildered \u2014 she had never seen anything so confusing.* What strategy works first, and what does bewildered mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Dictionary first; it means happy.",
+          "correct": false,
+          "explanation": "Context works first. Bewildered = confused, not happy."
+        },
+        {
+          "id": "b",
+          "label": "Context clues first; it means very confused.",
+          "correct": true,
+          "explanation": "'Never seen anything so confusing' \u2192 bewildered = confused."
+        },
+        {
+          "id": "c",
+          "label": "Thesaurus; it means excited.",
+          "correct": false,
+          "explanation": "Context clues are faster. Bewildered = confused, not excited."
+        },
+        {
+          "id": "d",
+          "label": "Skip the word.",
+          "correct": false,
+          "explanation": "Key vocabulary matters for comprehension."
+        }
+      ],
+      "explanation_md": "**Context clues** first: 'never seen anything so confusing' \u2192 bewildered = very confused."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Read: *The baby was **tiny** \u2014 she fit in her dad's hands.* What does tiny mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very big",
+          "correct": false,
+          "explanation": "Fitting in hands = very small."
+        },
+        {
+          "id": "b",
+          "label": "Very small",
+          "correct": true,
+          "explanation": "Fit in dad's hands \u2192 tiny = very small."
+        },
+        {
+          "id": "c",
+          "label": "Very loud",
+          "correct": false,
+          "explanation": "Size, not sound."
+        },
+        {
+          "id": "d",
+          "label": "Very fast",
+          "correct": false,
+          "explanation": "Size, not speed."
+        }
+      ],
+      "explanation_md": "**Tiny** = very small. Clue: 'fit in her dad's hands.'"
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "The prefix **re-** means ___.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Not",
+          "correct": false,
+          "explanation": "Not = un-."
+        },
+        {
+          "id": "b",
+          "label": "Again",
+          "correct": true,
+          "explanation": "Re- = again. Redo = do again."
+        },
+        {
+          "id": "c",
+          "label": "Before",
+          "correct": false,
+          "explanation": "Before = pre-."
+        },
+        {
+          "id": "d",
+          "label": "Without",
+          "correct": false,
+          "explanation": "Without = -less."
+        }
+      ],
+      "explanation_md": "**Re-** = again."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does **unhappy** mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very happy",
+          "correct": false,
+          "explanation": "Un- = not \u2014 opposite."
+        },
+        {
+          "id": "b",
+          "label": "Not happy",
+          "correct": true,
+          "explanation": "Un- = not. Unhappy = not happy."
+        },
+        {
+          "id": "c",
+          "label": "Happy again",
+          "correct": false,
+          "explanation": "Again = re-."
+        },
+        {
+          "id": "d",
+          "label": "A little happy",
+          "correct": false,
+          "explanation": "Un- = not, not 'a little.'"
+        }
+      ],
+      "explanation_md": "**Un-** = not. **Unhappy** = not happy."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "When you do not know a word, what is a good first strategy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Skip the word.",
+          "correct": false,
+          "explanation": "Skipping key words hurts comprehension."
+        },
+        {
+          "id": "b",
+          "label": "Look for clues in surrounding words and sentences.",
+          "correct": true,
+          "explanation": "Context clues are often the fastest strategy."
+        },
+        {
+          "id": "c",
+          "label": "Ask someone to read the book for you.",
+          "correct": false,
+          "explanation": "Use your own strategies first."
+        },
+        {
+          "id": "d",
+          "label": "Close the book.",
+          "correct": false,
+          "explanation": "Do not give up \u2014 use a strategy."
+        }
+      ],
+      "explanation_md": "Look for **context clues** \u2014 words around the unknown word often give hints about meaning."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does a **dictionary** help you find?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pictures of words",
+          "correct": false,
+          "explanation": "Dictionaries give definitions."
+        },
+        {
+          "id": "b",
+          "label": "The meaning of a word",
+          "correct": true,
+          "explanation": "Dictionaries give definition, pronunciation, and part of speech."
+        },
+        {
+          "id": "c",
+          "label": "How many words are in a sentence",
+          "correct": false,
+          "explanation": "Dictionaries define words."
+        },
+        {
+          "id": "d",
+          "label": "Words that rhyme",
+          "correct": false,
+          "explanation": "Rhyming dictionaries do that \u2014 regular dictionaries give definitions."
+        }
+      ],
+      "explanation_md": "A **dictionary** gives you the **meaning** (definition) of a word."
+    }
+  ]
+}
