@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.NBT.B.9",
+  "benchmark_description": "Explain why addition and subtraction strategies work, using place value and the properties of operations.",
+  "course": "math",
+  "strand": "NBT",
+  "lesson": {
+    "title": "Understanding Why Math Strategies Work",
+    "intro": "Have you ever wondered WHY a math trick works? In this lesson, you will learn how to explain your thinking using place value and math rules. Being able to explain your strategy is just as important as getting the right answer!",
+    "body_md": "## Place Value is the Foundation\n\nPlace value tells us the value of each digit in a number. Our strategies work BECAUSE of place value.\n\n**Why does 47 + 30 = 77?**\n- 47 is 4 tens and 7 ones\n- 30 is 3 tens\n- Adding the tens: 4 tens + 3 tens = 7 tens\n- The ones stay the same: 7 ones\n- Result: 7 tens and 7 ones = **77**\n- Explanation: We added tens to tens. The ones did not change.\n\n## Properties of Operations\n\n### Commutative Property\nYou can add numbers in any order \u2014 the sum stays the same.\n- 23 + 45 = 45 + 23\n- Why? Switching order does not change the total.\n\n### Associative Property\nYou can group addends any way \u2014 the sum stays the same.\n- (14 + 6) + 23 = 14 + (6 + 23)\n- 20 + 23 = 14 + 29\n- 43 = 43\n- Why? The grouping changed, but the total is the same.\n\n## Explaining Making a 10\n\n**Why does 8 + 5 = 13?**\n- Decompose 5 into 2 + 3\n- 8 + 2 = 10 (a friendly ten!)\n- 10 + 3 = 13\n- Explanation: We broke apart 5 into 2 and 3. We gave 2 to the 8 to make 10. Then adding 3 to 10 is easy.\n\n## Explaining Adding to 100\n\n**Why does 64 + 36 = 100?**\n- Ones: 4 + 6 = 10 (10 ones = 1 new ten)\n- Tens: 6 + 3 + 1 (new ten) = 10 tens = 1 hundred\n- Explanation: The ones composed a new ten, and the tens composed a new hundred.\n\n## Relationship Between Addition and Subtraction\n\nAddition and subtraction are opposites (inverse operations).\n- If 34 + 28 = 62, then 62 - 28 = 34.\n- We can check subtraction by adding back: 34 + 28 = 62? Yes!\n- Explanation: Subtraction undoes addition.",
+    "worked_example_md": "**Problem:** Maria says 35 + 29 = 64 because she added 35 + 30 = 65, then subtracted 1. Is she right? Explain why.\n\n**Answer:** Yes, Maria is correct!\n\n**Explanation:**\n1. She changed 29 to 30 because 30 is easier to add.\n2. 29 is the same as 30 - 1.\n3. So adding 29 is the same as adding 30, then subtracting 1.\n4. 35 + 30 = 65 (add the tens)\n5. 65 - 1 = 64 (take away the extra 1 she added)\n6. This works because of place value and properties of operations.\n\n**35 + 29 = 64**",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why does 23 + 45 = 45 + 23?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because you can subtract them the same way.",
+          "correct": false,
+          "explanation": "This is not about subtraction. The reason is the Commutative Property: you can add numbers in any order."
+        },
+        {
+          "id": "b",
+          "label": "Because you can add numbers in any order.",
+          "correct": true,
+          "explanation": "Correct! This is the Commutative Property. Switching the order of addends does not change the sum."
+        },
+        {
+          "id": "c",
+          "label": "Because 23 and 45 are the same number.",
+          "correct": false,
+          "explanation": "23 and 45 are different numbers. You can swap the order of addition because of the Commutative Property."
+        },
+        {
+          "id": "d",
+          "label": "Because both numbers end in the same digit.",
+          "correct": false,
+          "explanation": "That is not why. The Commutative Property says order does not matter in addition."
+        }
+      ],
+      "explanation_md": "23 + 45 = 45 + 23 because of the Commutative Property. You can add in any order."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Jake adds 54 + 40 by saying '5 tens + 4 tens = 9 tens, so the answer is 94.' Is his reasoning correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, he used place value correctly.",
+          "correct": true,
+          "explanation": "Correct! Jake added the tens (5+4=9 tens = 90) and kept the 4 ones unchanged. 54+40=94."
+        },
+        {
+          "id": "b",
+          "label": "No, he should have added the ones too.",
+          "correct": false,
+          "explanation": "40 has 0 ones. Adding 0 ones to 4 ones gives 4 ones \u2014 same as before. Jake's reasoning is correct."
+        },
+        {
+          "id": "c",
+          "label": "No, he should have subtracted.",
+          "correct": false,
+          "explanation": "This is an addition problem. Jake's method of adding tens is correct: 54+40=94."
+        },
+        {
+          "id": "d",
+          "label": "No, because 5+4=9 does not work here.",
+          "correct": false,
+          "explanation": "5 tens + 4 tens = 9 tens is correct! That is 50 + 40 = 90, plus 4 ones = 94."
+        }
+      ],
+      "explanation_md": "Jake is correct. 5 tens + 4 tens = 9 tens. Adding 40 (4 tens) to 54 only changes the tens digit."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Maya says 67 - 20 = 47 because she subtracted 2 tens from 6 tens. Is she right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, she should subtract from the ones too.",
+          "correct": false,
+          "explanation": "20 has 0 ones. Subtracting 0 ones does not change the 7 ones. Maya's reasoning is correct."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because 6 tens - 2 tens = 4 tens, and the ones stay the same.",
+          "correct": true,
+          "explanation": "Correct! 67 has 6 tens and 7 ones. Subtracting 20 (2 tens): 6-2=4 tens. Ones stay 7. Answer: 47."
+        },
+        {
+          "id": "c",
+          "label": "No, she should subtract the hundreds.",
+          "correct": false,
+          "explanation": "67 and 20 have no hundreds. Maya subtracted only the tens, which is correct."
+        },
+        {
+          "id": "d",
+          "label": "No, she should add instead.",
+          "correct": false,
+          "explanation": "Maya is subtracting 20, which is correct. Her answer 47 is right."
+        }
+      ],
+      "explanation_md": "Maya is right. 6 tens - 2 tens = 4 tens. Ones stay 7. 67 - 20 = 47."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Tom says: 'I know 45 + 37 = 82, so 82 - 37 must equal 45.' Is Tom correct? Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, you cannot use addition to check subtraction.",
+          "correct": false,
+          "explanation": "You can use addition to check subtraction. Addition and subtraction are inverse operations."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because addition and subtraction are opposites.",
+          "correct": true,
+          "explanation": "Correct! If 45 + 37 = 82, then 82 - 37 = 45. They undo each other (inverse operations)."
+        },
+        {
+          "id": "c",
+          "label": "No, he would need to recalculate.",
+          "correct": false,
+          "explanation": "Tom does not need to recalculate. Since 45 + 37 = 82, it must be true that 82 - 37 = 45."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because 82 is the largest number.",
+          "correct": false,
+          "explanation": "The reason is inverse operations \u2014 addition and subtraction undo each other. Not because 82 is large."
+        }
+      ],
+      "explanation_md": "Tom is correct. Addition and subtraction are inverse operations. If 45+37=82, then 82-37=45."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sara solves 8 + 7 by thinking '8 + 2 = 10, then 10 + 5 = 15.' Which strategy is she using?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Skip counting",
+          "correct": false,
+          "explanation": "Skip counting means counting by 2s, 5s, or 10s. Sara is using the make-a-ten strategy."
+        },
+        {
+          "id": "b",
+          "label": "Making a 10",
+          "correct": true,
+          "explanation": "Correct! Sara decomposed 7 into 2+5. She gave 2 to the 8 to make 10, then added the remaining 5."
+        },
+        {
+          "id": "c",
+          "label": "Doubles plus one",
+          "correct": false,
+          "explanation": "Doubles plus one would use 7+7=14, then +1=15. Sara is using make-a-ten."
+        },
+        {
+          "id": "d",
+          "label": "Counting on",
+          "correct": false,
+          "explanation": "Counting on means starting at 8 and counting up 7. Sara is using make-a-ten."
+        }
+      ],
+      "explanation_md": "Sara used the make-a-ten strategy. She broke 7 into 2+5, made 10 with the 8, then added 5."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Ben says he can solve (12 + 8) + 15 as 12 + (8 + 15). He says he gets the same answer. Why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because 12, 8, and 15 are all even numbers.",
+          "correct": false,
+          "explanation": "15 is odd. The reason is the Associative Property, not whether numbers are even or odd."
+        },
+        {
+          "id": "b",
+          "label": "Because the Associative Property says grouping does not change the sum.",
+          "correct": true,
+          "explanation": "Correct! (12+8)+15 = 20+15 = 35, and 12+(8+15) = 12+23 = 35. Same answer, different grouping."
+        },
+        {
+          "id": "c",
+          "label": "Because addition always works the same way.",
+          "correct": false,
+          "explanation": "The specific reason is the Associative Property: you can regroup addends without changing the sum."
+        },
+        {
+          "id": "d",
+          "label": "Because he subtracted incorrectly.",
+          "correct": false,
+          "explanation": "This problem uses addition. The Associative Property explains why the grouping does not matter."
+        }
+      ],
+      "explanation_md": "Associative Property: you can group addends differently without changing the sum. (12+8)+15 = 12+(8+15) = 35."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why does adding 36 + 24 give you 60?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because 3 + 2 = 6 and 6 + 4 = 10, so you get 60.",
+          "correct": false,
+          "explanation": "Close! The ones (6+4) compose a new ten. The tens (3+2=5, plus the new ten from ones = 6). So 60."
+        },
+        {
+          "id": "b",
+          "label": "Because the ones compose a new ten (6+4=10), making 6 total tens.",
+          "correct": true,
+          "explanation": "Correct! Ones: 6+4=10 (compose a new ten). Tens: 3+2+1(new ten) = 6 tens = 60."
+        },
+        {
+          "id": "c",
+          "label": "Because 36 and 24 are friendly numbers.",
+          "correct": false,
+          "explanation": "They are friendly, but the reason the sum is 60 is that the ones (6+4=10) compose a new ten, giving 6 tens total."
+        },
+        {
+          "id": "d",
+          "label": "Because 60 is the nearest ten.",
+          "correct": false,
+          "explanation": "The sum is exactly 60, not an approximation. The ones compose a new ten, making 6 total tens."
+        }
+      ],
+      "explanation_md": "36+24=60. Ones: 6+4=10 (compose 1 new ten). Tens: 3+2+1=6 tens = 60."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Lily solves 52 - 19 by computing 52 - 20 + 1. She gets 33. Is this correct? Why does it work?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, you cannot add after subtracting.",
+          "correct": false,
+          "explanation": "You can add and subtract in a problem. Lily added 1 back because she subtracted 1 too many (20 instead of 19). Her answer 33 is correct."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because she subtracted 1 more than needed, so she added 1 back.",
+          "correct": true,
+          "explanation": "Correct! 19 = 20 - 1. She subtracted 20 (easier), then added back the 1 she over-subtracted. 52-20=32, 32+1=33."
+        },
+        {
+          "id": "c",
+          "label": "No, the answer should be 32.",
+          "correct": false,
+          "explanation": "52-19=33. She subtracted 20 instead of 19, so she had to add 1 back. 52-20=32, 32+1=33."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because 20 + 1 = 19.",
+          "correct": false,
+          "explanation": "20 - 1 = 19, not 20 + 1. She used the fact that 19 = 20 - 1 to make the subtraction easier."
+        }
+      ],
+      "explanation_md": "52-19=33. Lily used 19=20-1. She subtracted 20 then added 1 back. 52-20=32, 32+1=33."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sam says '247 + 300 = 547 because I only add hundreds to hundreds.' Which property explains his strategy?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Commutative Property",
+          "correct": false,
+          "explanation": "Commutative Property is about changing order. Sam is using place value understanding."
+        },
+        {
+          "id": "b",
+          "label": "Place value understanding",
+          "correct": true,
+          "explanation": "Correct! Sam understands that 300 is 3 hundreds, and he only needs to add the hundreds digits. Tens and ones stay the same."
+        },
+        {
+          "id": "c",
+          "label": "Associative Property",
+          "correct": false,
+          "explanation": "Associative Property is about grouping addends. Sam is using place value \u2014 adding hundreds to hundreds."
+        },
+        {
+          "id": "d",
+          "label": "Counting on",
+          "correct": false,
+          "explanation": "Counting on means counting up one by one. Sam used place value to add only the hundreds."
+        }
+      ],
+      "explanation_md": "Sam's strategy is based on place value: adding 300 only changes the hundreds digit. 247 + 300 = 547."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Kim says: 'To add 99 + 45, I add 100 + 45 = 145, then subtract 1 to get 144.' Is she correct and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, you cannot mix addition and subtraction.",
+          "correct": false,
+          "explanation": "You can mix them! Kim used the fact that 99 = 100 - 1. Adding 100 then subtracting 1 is the same as adding 99."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because 99 = 100 - 1, so adding 99 equals adding 100 then subtracting 1.",
+          "correct": true,
+          "explanation": "Correct! 99 = 100 - 1. So 45 + 99 = 45 + 100 - 1 = 145 - 1 = 144."
+        },
+        {
+          "id": "c",
+          "label": "No, the answer is 145.",
+          "correct": false,
+          "explanation": "99 + 45 = 144, not 145. Kim correctly subtracted 1 because she added 100 instead of 99."
+        },
+        {
+          "id": "d",
+          "label": "Yes, because 100 - 45 = 55.",
+          "correct": false,
+          "explanation": "That reasoning is wrong. Kim's answer is correct (144), but her explanation is: 99 = 100-1, so add 100 then subtract 1."
+        }
+      ],
+      "explanation_md": "Kim is correct. 99 = 100 - 1. 45 + 99 = 45 + 100 - 1 = 145 - 1 = 144."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Alex adds 47 + 30 by saying he only needs to change the tens digit. Why does this work?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because 30 has no ones, so only the tens change.",
+          "correct": true,
+          "explanation": "Correct! 30 = 3 tens + 0 ones. Adding 0 ones does not change the ones digit. Only the tens digit changes."
+        },
+        {
+          "id": "b",
+          "label": "Because 47 and 30 have the same digits.",
+          "correct": false,
+          "explanation": "They do not have the same digits. Adding 30 to 47 only changes the tens because 30 has 0 ones."
+        },
+        {
+          "id": "c",
+          "label": "Because tens are always larger than ones.",
+          "correct": false,
+          "explanation": "The reason is that 30 has 0 ones. Since the ones of 30 are 0, the ones digit of 47 does not change."
+        },
+        {
+          "id": "d",
+          "label": "Because of the Commutative Property.",
+          "correct": false,
+          "explanation": "Commutative Property is about order. The reason only the tens change is that 30 has 0 ones."
+        }
+      ],
+      "explanation_md": "30 has 0 ones. Adding 0 ones to 47 does not change the ones. Only the tens change."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Paulo uses the strategy 'doubles plus one' to solve 6 + 7. He says 6 + 6 = 12, so 6 + 7 = 13. Why does this work?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because 7 is 1 more than 6, so the answer is 1 more than the double.",
+          "correct": true,
+          "explanation": "Correct! 7 = 6 + 1. So 6 + 7 = 6 + 6 + 1 = 12 + 1 = 13. The extra 1 added to the addend adds 1 to the sum."
+        },
+        {
+          "id": "b",
+          "label": "Because 6 and 7 are both even.",
+          "correct": false,
+          "explanation": "7 is odd. The reason is that 7 = 6 + 1. Adding one more to an addend adds one more to the sum."
+        },
+        {
+          "id": "c",
+          "label": "Because the Commutative Property makes it easier.",
+          "correct": false,
+          "explanation": "Commutative Property just swaps order. Doubles plus one works because 7 is 1 more than 6."
+        },
+        {
+          "id": "d",
+          "label": "Because 12 and 13 are consecutive numbers.",
+          "correct": false,
+          "explanation": "They are consecutive, but that is the RESULT, not the reason. The reason is 7 = 6 + 1."
+        }
+      ],
+      "explanation_md": "7 = 6 + 1. So 6+7 = 6+(6+1) = (6+6)+1 = 12+1 = 13. Adding 1 more to the addend adds 1 to the sum."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Emma knows 58 + 34 = 92. She says 92 - 34 = 58. Is she correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, she needs to recalculate.",
+          "correct": false,
+          "explanation": "She does not need to recalculate. Because addition and subtraction are inverse operations, if 58+34=92 then 92-34=58."
+        },
+        {
+          "id": "b",
+          "label": "Yes, because addition and subtraction undo each other.",
+          "correct": true,
+          "explanation": "Correct! Inverse operations. If 58+34=92, then 92-34=58. Subtraction undoes addition."
+        },
+        {
+          "id": "c",
+          "label": "Yes, because 92 is larger than 58 and 34.",
+          "correct": false,
+          "explanation": "The reason is inverse operations, not just the size of the numbers."
+        },
+        {
+          "id": "d",
+          "label": "No, 92 - 34 = 48.",
+          "correct": false,
+          "explanation": "92 - 34 = 58 (not 48). Emma is correct because addition and subtraction are inverse operations."
+        }
+      ],
+      "explanation_md": "Emma is correct. Addition and subtraction are inverse operations. If 58+34=92, then 92-34=58."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Does 5 + 8 equal the same as 8 + 5?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, the order changes the answer.",
+          "correct": false,
+          "explanation": "Order does NOT change the answer in addition. 5+8 = 8+5 = 13. This is the Commutative Property."
+        },
+        {
+          "id": "b",
+          "label": "Yes, you can add in any order.",
+          "correct": true,
+          "explanation": "Correct! 5+8 = 13 and 8+5 = 13. The Commutative Property says order does not matter in addition."
+        },
+        {
+          "id": "c",
+          "label": "Only sometimes.",
+          "correct": false,
+          "explanation": "Always! Addition is always commutative. 5+8 = 8+5 = 13 every time."
+        },
+        {
+          "id": "d",
+          "label": "Only with small numbers.",
+          "correct": false,
+          "explanation": "The Commutative Property works for all numbers. 5+8 = 8+5 always."
+        }
+      ],
+      "explanation_md": "Yes! 5+8 = 8+5 = 13. You can always add in any order."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "If 10 + 7 = 17, what is 17 - 7?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "24",
+          "correct": false,
+          "explanation": "You added. 17-7 means take away 7. Since 10+7=17, taking away 7 gives back 10."
+        },
+        {
+          "id": "b",
+          "label": "7",
+          "correct": false,
+          "explanation": "7 is the number we take away. Since 10+7=17, then 17-7=10."
+        },
+        {
+          "id": "c",
+          "label": "10",
+          "correct": true,
+          "explanation": "Correct! If 10+7=17, then 17-7=10. Addition and subtraction undo each other."
+        },
+        {
+          "id": "d",
+          "label": "17",
+          "correct": false,
+          "explanation": "17 is the starting number. 17-7=10 because 10+7=17."
+        }
+      ],
+      "explanation_md": "If 10+7=17, then 17-7=10. They undo each other."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Sue adds 25 + 40. She says: '40 has no ones, so only the tens change.' Is she right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, you always add the ones too.",
+          "correct": false,
+          "explanation": "40 has 0 ones. Adding 0 ones does not change anything. Sue is right."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 40 has 0 ones so the ones digit stays 5.",
+          "correct": true,
+          "explanation": "Correct! 40 = 4 tens + 0 ones. Adding 0 ones leaves the ones digit unchanged. 25+40=65."
+        },
+        {
+          "id": "c",
+          "label": "No, you change the hundreds.",
+          "correct": false,
+          "explanation": "25 and 40 have no hundreds to change. Sue is right that only the tens change."
+        },
+        {
+          "id": "d",
+          "label": "No, she needs to carry.",
+          "correct": false,
+          "explanation": "2 tens + 4 tens = 6 tens. No carrying needed. Sue is correct."
+        }
+      ],
+      "explanation_md": "Sue is right. 40 has 0 ones, so the ones stay the same. Only the tens change. 25+40=65."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "To solve 9 + 6, Tony thinks '10 + 5 = 15.' What did he do to the 9?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "He subtracted 1 from 9 to get 8.",
+          "correct": false,
+          "explanation": "Tony added 1 to 9 to make 10 (a friendly ten). 9 + 1 = 10. Then he took 1 from 6, leaving 5."
+        },
+        {
+          "id": "b",
+          "label": "He added 1 to 9 to make 10, then took 1 from 6.",
+          "correct": true,
+          "explanation": "Correct! Tony made a 10 by giving 1 from the 6 to the 9. 9+1=10, 6-1=5. So 10+5=15."
+        },
+        {
+          "id": "c",
+          "label": "He multiplied 9 by something.",
+          "correct": false,
+          "explanation": "No multiplication. Tony added 1 to 9 to make 10, then used the remaining 5 from the 6."
+        },
+        {
+          "id": "d",
+          "label": "He doubled 9.",
+          "correct": false,
+          "explanation": "9+9=18. Tony used make-a-ten: added 1 to 9 to make 10, used 5 remaining."
+        }
+      ],
+      "explanation_md": "Tony used make-a-ten. He gave 1 from the 6 to the 9. 9+1=10, and 6-1=5. So 10+5=15."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why is 32 + 45 the same as 45 + 32?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because 3+4=7 both ways.",
+          "correct": false,
+          "explanation": "That is part of it, but the real reason is the Commutative Property: you can add numbers in any order."
+        },
+        {
+          "id": "b",
+          "label": "Because the Commutative Property says order does not matter in addition.",
+          "correct": true,
+          "explanation": "Correct! The Commutative Property says a + b = b + a for any numbers."
+        },
+        {
+          "id": "c",
+          "label": "Because both equal 77.",
+          "correct": false,
+          "explanation": "That is the result, not the reason. The reason is the Commutative Property."
+        },
+        {
+          "id": "d",
+          "label": "Because they are both two-digit numbers.",
+          "correct": false,
+          "explanation": "The Commutative Property works for all numbers, not just two-digit ones."
+        }
+      ],
+      "explanation_md": "Commutative Property: you can add in any order. 32+45 = 45+32 = 77."
+    }
+  ]
+}
