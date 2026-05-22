@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.ESS2.3",
+  "benchmark_description": "Obtain information to identify where water is found on Earth and that it can be solid or liquid.",
+  "course": "science",
+  "strand": "ESS",
+  "lesson": {
+    "title": "Where Is Water on Earth?",
+    "intro": "Water is everywhere on Earth \u2014 in the ocean, in rivers, as ice in glaciers, and even underground! Water can be liquid (like a river) or solid (like ice). Let's explore where water is found.",
+    "body_md": "## Water Is Found in Many Places\n\nWater covers about 71% of Earth's surface. It is found in many places:\n\n| Where? | Type of water | Liquid or solid? |\n|---|---|---|\n| **Oceans** | Salt water | Liquid |\n| **Rivers and streams** | Freshwater | Liquid |\n| **Lakes and ponds** | Freshwater | Usually liquid |\n| **Glaciers** | Freshwater | Solid (ice) |\n| **Ice caps (North and South Poles)** | Freshwater | Solid (ice) |\n| **Underground (aquifers)** | Freshwater | Liquid |\n| **Clouds** | Water vapor (gas) | Gas (water droplets in clouds) |\n| **Puddles and rain** | Freshwater | Liquid |\n\n## Water Can Be Liquid or Solid\n\n- **Liquid water** flows and takes the shape of its container. Examples: oceans, rivers, lakes, rain.\n- **Solid water (ice)** holds its own shape and is hard. Examples: glaciers, polar ice caps, icebergs, snow, ice cubes.\n\n## What Makes Water Freeze?\n\nWater freezes when the temperature drops to **0\u00b0C (32\u00b0F)** or below. When it gets warmer, ice melts back to liquid water.\n\n## Most Water Is Salty\n\n- About **97%** of Earth's water is in the oceans and is **salty**.\n- Only about **3%** is freshwater.\n- Most freshwater is frozen in glaciers and ice caps at the poles.\n- A small amount of freshwater is in rivers, lakes, and underground \u2014 and that is what most living things drink.\n\n**Key idea:** Water is found all over Earth as liquid (oceans, rivers, lakes) or solid (glaciers, ice caps). Most of Earth's water is salty ocean water.",
+    "worked_example_md": "## Worked Example: Liquid or Solid?\n\n**Question:** A student visits three places:\n1. The Atlantic Ocean\n2. A glacier in Alaska\n3. A river in Tennessee\n\nAt each place, is the water liquid or solid?\n\n**Atlantic Ocean:** The water is **liquid**. Ocean water is liquid salt water.\n\n**Glacier in Alaska:** The glacier is **solid ice**. Glaciers form when snow builds up and presses together into ice over thousands of years. Glaciers are solid water.\n\n**River in Tennessee:** The water is **liquid**. Rivers flow as liquid water.\n\n**Conclusion:** The same substance \u2014 water \u2014 can be liquid (ocean, river) or solid (glacier) depending on the temperature of the environment.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A glacier is a large mass of ice that moves slowly. Is a glacier liquid water or solid water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid water \u2014 glaciers flow like rivers",
+          "correct": false,
+          "explanation": "Glaciers do move very slowly, but they are solid ice, not liquid water. They flow much more slowly than rivers."
+        },
+        {
+          "id": "b",
+          "label": "Solid water \u2014 glaciers are made of compressed ice",
+          "correct": true,
+          "explanation": "Glaciers are made of solid ice that formed when snow compressed over thousands of years. They are solid water."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 glaciers are not made of water",
+          "correct": false,
+          "explanation": "Glaciers are made entirely of ice, which is solid water."
+        },
+        {
+          "id": "d",
+          "label": "Both \u2014 glaciers are half liquid and half solid",
+          "correct": false,
+          "explanation": "Glaciers are solid ice. They may have some liquid water on the surface when they melt, but glaciers themselves are solid."
+        }
+      ],
+      "explanation_md": "Glaciers are made of solid ice \u2014 solid water. They form when snow presses together over thousands of years into solid ice."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Where is most of Earth's water found?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In rivers and lakes",
+          "correct": false,
+          "explanation": "Rivers and lakes hold a small fraction of Earth's water. Most is in the oceans."
+        },
+        {
+          "id": "b",
+          "label": "In the oceans",
+          "correct": true,
+          "explanation": "About 97% of Earth's water is in the oceans. The oceans are the largest water bodies on Earth."
+        },
+        {
+          "id": "c",
+          "label": "Underground",
+          "correct": false,
+          "explanation": "Underground water (aquifers) hold freshwater, but the oceans hold far more water overall."
+        },
+        {
+          "id": "d",
+          "label": "In clouds",
+          "correct": false,
+          "explanation": "Clouds hold a tiny fraction of Earth's water. The oceans hold the vast majority."
+        }
+      ],
+      "explanation_md": "About 97% of Earth's water is in the oceans. The oceans cover about 71% of Earth's surface."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student records the state of water in different places:\n- Atlantic Ocean: liquid\n- Greenland ice sheet: solid\n- Mississippi River: liquid\n- Antarctica: solid\n\nWhat determines whether the water is liquid or solid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The color of the water",
+          "correct": false,
+          "explanation": "Color does not determine whether water is liquid or solid. Temperature does."
+        },
+        {
+          "id": "b",
+          "label": "The temperature \u2014 water freezes below 0\u00b0C and melts above 0\u00b0C",
+          "correct": true,
+          "explanation": "Water is liquid above 0\u00b0C (32\u00b0F) and solid (ice) at or below 0\u00b0C. The cold polar regions keep water frozen."
+        },
+        {
+          "id": "c",
+          "label": "The size of the water body \u2014 small water bodies freeze and large ones do not",
+          "correct": false,
+          "explanation": "Size does not determine freezing. Temperature does. Small ponds in warm climates stay liquid; vast ice sheets form in cold polar regions."
+        },
+        {
+          "id": "d",
+          "label": "The location \u2014 ocean water cannot freeze",
+          "correct": false,
+          "explanation": "Ocean water can freeze \u2014 the Arctic Ocean and waters around Antarctica have sea ice."
+        }
+      ],
+      "explanation_md": "Temperature determines whether water is liquid or solid. Water freezes below 0\u00b0C (32\u00b0F) and melts above that temperature. Cold polar regions have solid ice; warm areas have liquid water."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds information that says: 'Most freshwater on Earth is frozen in glaciers and polar ice caps.' What does this mean for people who need freshwater to drink?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "People can drink glacier water directly",
+          "correct": false,
+          "explanation": "Glaciers are far away and the water is solid. People drink freshwater from rivers, lakes, and underground sources, not directly from glaciers."
+        },
+        {
+          "id": "b",
+          "label": "Most freshwater is not directly available for drinking because it is frozen \u2014 people rely on rivers, lakes, and underground water",
+          "correct": true,
+          "explanation": "The freshwater in glaciers and ice caps is solid and not available for drinking directly. People depend on rivers, lakes, ponds, and groundwater for drinking water."
+        },
+        {
+          "id": "c",
+          "label": "People can melt glaciers whenever they need water",
+          "correct": false,
+          "explanation": "While glacier meltwater does feed rivers, you cannot just melt a glacier on demand. Glaciers are important long-term freshwater reserves."
+        },
+        {
+          "id": "d",
+          "label": "People can drink saltwater from the oceans instead",
+          "correct": false,
+          "explanation": "Ocean water is salty and harmful to drink without expensive desalination treatment."
+        }
+      ],
+      "explanation_md": "Most freshwater is locked in glaciers and ice caps as solid ice. People rely on rivers, lakes, and groundwater (the remaining small fraction) for their drinking water."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "On a very cold winter day, the pond in a park freezes over. The water in the pond has changed from liquid to solid. What caused this change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The pond dried up",
+          "correct": false,
+          "explanation": "Drying up would make the water disappear. Freezing turns liquid water into solid ice \u2014 the water is still there but in solid form."
+        },
+        {
+          "id": "b",
+          "label": "The temperature dropped below 0\u00b0C (32\u00b0F), causing the water to freeze into ice",
+          "correct": true,
+          "explanation": "Water freezes when temperature drops to 0\u00b0C or below. On a very cold winter day, the pond temperature dropped enough to freeze the water into ice."
+        },
+        {
+          "id": "c",
+          "label": "The pond became an ocean",
+          "correct": false,
+          "explanation": "A pond cannot become an ocean. Freezing and becoming an ocean are two different things."
+        },
+        {
+          "id": "d",
+          "label": "The water turned into a different substance when it froze",
+          "correct": false,
+          "explanation": "Frozen water (ice) is still water \u2014 just in solid form. It has not turned into a different substance."
+        }
+      ],
+      "explanation_md": "Water freezes when the temperature drops to 0\u00b0C (32\u00b0F) or below. On a very cold day, the pond's temperature dropped enough to freeze the surface water into ice."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds the following information:\n- 71% of Earth's surface is covered by water\n- 97% of that water is salt water in the oceans\n- 3% is freshwater\n- Most freshwater is frozen in glaciers and polar ice\n\nWhich conclusion is BEST supported by this information?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Freshwater is easy to find \u2014 most of Earth is covered in water",
+          "correct": false,
+          "explanation": "While most of Earth is covered in water, 97% of it is salt water. The small fraction of freshwater is mostly frozen and not easily accessible."
+        },
+        {
+          "id": "b",
+          "label": "Most of Earth's water is salty, and the freshwater that living things can drink is a small fraction \u2014 and most of that is frozen",
+          "correct": true,
+          "explanation": "97% of Earth's water is salty ocean water. Only 3% is freshwater, and most of that is frozen in glaciers. Only a small amount is in rivers and lakes for living things to use."
+        },
+        {
+          "id": "c",
+          "label": "Earth has more freshwater than salt water",
+          "correct": false,
+          "explanation": "The opposite is true. 97% is salt water. Only 3% is freshwater."
+        },
+        {
+          "id": "d",
+          "label": "All water on Earth is liquid",
+          "correct": false,
+          "explanation": "Much of Earth's water is frozen \u2014 in glaciers and polar ice caps."
+        }
+      ],
+      "explanation_md": "97% of Earth's water is salty ocean water. Of the 3% that is freshwater, most is frozen. Only a small fraction is accessible liquid freshwater in rivers, lakes, and underground."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "An iceberg is a large piece of ice floating in the ocean. Is the iceberg solid or liquid water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid \u2014 it is in the ocean",
+          "correct": false,
+          "explanation": "Just because something is in the ocean does not make it liquid. An iceberg is solid ice floating in liquid ocean water."
+        },
+        {
+          "id": "b",
+          "label": "Solid \u2014 icebergs are made of ice",
+          "correct": true,
+          "explanation": "Icebergs are solid ice. They float in the liquid ocean water because ice is slightly less dense than liquid water."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 icebergs are made of salt",
+          "correct": false,
+          "explanation": "Icebergs are made of frozen freshwater, not salt."
+        },
+        {
+          "id": "d",
+          "label": "Both liquid and solid at the same time",
+          "correct": false,
+          "explanation": "An iceberg is solid ice. The ocean water around it is liquid. The iceberg itself is solid."
+        }
+      ],
+      "explanation_md": "Icebergs are solid ice \u2014 solid water. They float in liquid ocean water because ice is less dense than liquid water."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What is an aquifer?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A type of glacier found in cold mountains",
+          "correct": false,
+          "explanation": "Glaciers are solid ice. An aquifer is underground liquid water stored in rock or soil."
+        },
+        {
+          "id": "b",
+          "label": "Underground freshwater stored in rock or soil that people can pump up for drinking",
+          "correct": true,
+          "explanation": "Aquifers are layers of rock or soil underground that hold freshwater. People drill wells to pump up this water for drinking and farming."
+        },
+        {
+          "id": "c",
+          "label": "A large ocean current that flows around the world",
+          "correct": false,
+          "explanation": "Ocean currents are different from aquifers. Aquifers are underground freshwater sources."
+        },
+        {
+          "id": "d",
+          "label": "A type of cloud that holds rain",
+          "correct": false,
+          "explanation": "Clouds hold water vapor. An aquifer is underground water in rock and soil."
+        }
+      ],
+      "explanation_md": "An aquifer is an underground layer of rock or soil that holds freshwater. People drill wells to pump this water up for drinking and other uses."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist says: 'If global temperatures increase, glaciers may melt.' What effect would this have on Earth's water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "There would be less water on Earth",
+          "correct": false,
+          "explanation": "Water does not disappear when ice melts. It changes from solid to liquid. The amount of water stays the same."
+        },
+        {
+          "id": "b",
+          "label": "Solid water (glaciers) would become liquid water, potentially raising sea levels",
+          "correct": true,
+          "explanation": "If glaciers melt, the solid ice turns into liquid water and flows into the ocean, which could raise sea levels. The same water changes from solid to liquid form."
+        },
+        {
+          "id": "c",
+          "label": "The water would turn to gas and leave Earth forever",
+          "correct": false,
+          "explanation": "Melted glacier water flows into oceans. While some water evaporates, it comes back as rain. Water does not leave Earth permanently."
+        },
+        {
+          "id": "d",
+          "label": "Nothing would change \u2014 the state of water does not matter",
+          "correct": false,
+          "explanation": "Solid and liquid water behave very differently. Melting glaciers adds liquid water to the oceans, which can affect sea levels and coastlines."
+        }
+      ],
+      "explanation_md": "If glaciers melt, their solid ice turns into liquid water and flows into the ocean. This could raise sea levels because there is now more liquid water in the ocean."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student researches the water cycle. She learns that water evaporates from oceans, forms clouds, falls as rain or snow, and flows back to the ocean. How does this cycle relate to water being found in different places on Earth?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The water cycle keeps water only in the ocean and nowhere else",
+          "correct": false,
+          "explanation": "The water cycle moves water between oceans, atmosphere, land, glaciers, and rivers. It does not keep water only in the ocean."
+        },
+        {
+          "id": "b",
+          "label": "The water cycle continuously moves water between liquid (oceans, rivers), gas (clouds, vapor), and sometimes solid (snow, glaciers) states and locations",
+          "correct": true,
+          "explanation": "The water cycle moves water through all three states: liquid (oceans, rivers, lakes), gas (water vapor, clouds), and solid (snow, ice, glaciers). This is why water is found in so many places."
+        },
+        {
+          "id": "c",
+          "label": "The water cycle only involves oceans and clouds \u2014 rivers and glaciers are not part of it",
+          "correct": false,
+          "explanation": "Rivers, glaciers, lakes, and underground water are all part of the water cycle. Water moves through all of them."
+        },
+        {
+          "id": "d",
+          "label": "The water cycle creates new water that did not exist before",
+          "correct": false,
+          "explanation": "The water cycle moves and changes the state of water that already exists on Earth. It does not create new water."
+        }
+      ],
+      "explanation_md": "The water cycle continuously moves water through liquid (oceans, rivers, lakes), gas (water vapor, clouds), and solid (snow, glaciers, ice) states. This is why water is found in so many places and in different forms on Earth."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student lists places where water is found: ocean, glacier, river, pond, underground. Which of these are SOLID water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ocean and river",
+          "correct": false,
+          "explanation": "Oceans and rivers are liquid water. Glaciers are solid water."
+        },
+        {
+          "id": "b",
+          "label": "Glacier only",
+          "correct": true,
+          "explanation": "Of the places listed, only the glacier is solid water. Oceans, rivers, ponds, and underground water are all liquid."
+        },
+        {
+          "id": "c",
+          "label": "Pond and underground",
+          "correct": false,
+          "explanation": "Ponds and underground water are liquid. Glaciers are solid."
+        },
+        {
+          "id": "d",
+          "label": "All of the above are solid water",
+          "correct": false,
+          "explanation": "Only glaciers are solid water. The others are liquid."
+        }
+      ],
+      "explanation_md": "Of the places listed, only the glacier is solid water (ice). Oceans, rivers, ponds, and underground water are all liquid."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student finds: '97% of Earth's water is in the oceans and is salty. 3% is freshwater, but most of that is frozen.' If you were an animal that needed freshwater to survive, where would you most likely find it?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The ocean \u2014 it has 97% of Earth's water",
+          "correct": false,
+          "explanation": "Ocean water is salty \u2014 animals that need freshwater cannot drink salt water."
+        },
+        {
+          "id": "b",
+          "label": "In rivers, lakes, ponds, and underground water \u2014 the small fraction of liquid freshwater",
+          "correct": true,
+          "explanation": "The liquid freshwater in rivers, lakes, ponds, and underground sources is where animals that need freshwater drink. Most freshwater is frozen and not accessible."
+        },
+        {
+          "id": "c",
+          "label": "In glaciers \u2014 they have the most freshwater",
+          "correct": false,
+          "explanation": "Glaciers hold most of Earth's freshwater, but it is frozen and not accessible for drinking."
+        },
+        {
+          "id": "d",
+          "label": "In clouds \u2014 clouds have lots of water",
+          "correct": false,
+          "explanation": "While clouds contain water, the water in them is in tiny droplets or vapor form. Animals drink liquid water from rivers and lakes."
+        }
+      ],
+      "explanation_md": "Animals needing freshwater drink from rivers, lakes, ponds, and underground water \u2014 the small fraction of liquid freshwater. Most freshwater is frozen in glaciers and not accessible."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Water in a river is liquid. The same water in a glacier is solid. What does this show?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rivers and glaciers have different types of water",
+          "correct": false,
+          "explanation": "Glaciers and rivers both contain water \u2014 the same substance. The difference is temperature."
+        },
+        {
+          "id": "b",
+          "label": "Water can exist as liquid or solid depending on temperature",
+          "correct": true,
+          "explanation": "Water is liquid above 0\u00b0C and solid (ice) at or below 0\u00b0C. The same substance (water) can be in different states depending on the temperature."
+        },
+        {
+          "id": "c",
+          "label": "Rivers are natural but glaciers are man-made",
+          "correct": false,
+          "explanation": "Glaciers are natural formations. Both rivers and glaciers are natural water features."
+        },
+        {
+          "id": "d",
+          "label": "Glacier water is a different chemical from river water",
+          "correct": false,
+          "explanation": "Glacier water and river water are both H2O \u2014 the same chemical. The state (solid vs. liquid) depends on temperature."
+        }
+      ],
+      "explanation_md": "Water is the same substance (H2O) in both a river and a glacier. It is liquid in rivers (above 0\u00b0C) and solid ice in glaciers (at or below 0\u00b0C). Temperature determines the state."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is ocean water liquid or solid?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Solid \u2014 oceans are frozen",
+          "correct": false,
+          "explanation": "Most ocean water is liquid. Oceans are huge bodies of liquid salt water."
+        },
+        {
+          "id": "b",
+          "label": "Liquid \u2014 oceans are vast bodies of liquid water",
+          "correct": true,
+          "explanation": "Oceans are liquid salt water. They are the largest bodies of liquid water on Earth."
+        },
+        {
+          "id": "c",
+          "label": "Gas \u2014 ocean water evaporates",
+          "correct": false,
+          "explanation": "Some ocean water does evaporate, but the ocean itself is liquid water, not gas."
+        },
+        {
+          "id": "d",
+          "label": "Half solid and half liquid",
+          "correct": false,
+          "explanation": "Most of the ocean is liquid water. Some areas near the poles may have sea ice, but the ocean itself is liquid."
+        }
+      ],
+      "explanation_md": "Oceans are vast bodies of liquid salt water. They are the largest liquid water bodies on Earth."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Is a glacier solid or liquid water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Liquid \u2014 glaciers flow",
+          "correct": false,
+          "explanation": "Glaciers do move slowly, but they are solid ice. They move much more slowly than liquid water."
+        },
+        {
+          "id": "b",
+          "label": "Solid \u2014 glaciers are made of ice",
+          "correct": true,
+          "explanation": "Glaciers are massive bodies of solid ice. They form when snow compresses over thousands of years into solid ice."
+        },
+        {
+          "id": "c",
+          "label": "Neither \u2014 glaciers are made of rock",
+          "correct": false,
+          "explanation": "Glaciers are made of ice, which is solid water."
+        },
+        {
+          "id": "d",
+          "label": "Gas \u2014 glaciers produce steam",
+          "correct": false,
+          "explanation": "Glaciers are solid ice. They do not produce steam normally."
+        }
+      ],
+      "explanation_md": "Glaciers are made of solid ice \u2014 solid water. They form when snow presses together over thousands of years."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Where is MOST of Earth's water found?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In rivers and lakes",
+          "correct": false,
+          "explanation": "Rivers and lakes hold a tiny fraction of Earth's water. Most is in the oceans."
+        },
+        {
+          "id": "b",
+          "label": "In the oceans",
+          "correct": true,
+          "explanation": "About 97% of Earth's water is in the oceans. Oceans cover about 71% of Earth's surface."
+        },
+        {
+          "id": "c",
+          "label": "In glaciers at the poles",
+          "correct": false,
+          "explanation": "Glaciers hold most of Earth's freshwater, but the oceans hold far more water overall (including salt water)."
+        },
+        {
+          "id": "d",
+          "label": "Underground",
+          "correct": false,
+          "explanation": "Underground aquifers hold freshwater, but the oceans hold the vast majority of Earth's water."
+        }
+      ],
+      "explanation_md": "About 97% of Earth's water is in the oceans. The oceans cover about 71% of Earth's surface and are the largest water bodies on Earth."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What happens to water when the temperature drops to 0\u00b0C (32\u00b0F) or below?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Water evaporates and becomes gas",
+          "correct": false,
+          "explanation": "Water evaporates when it gets warmer, not colder. At 0\u00b0C, water freezes."
+        },
+        {
+          "id": "b",
+          "label": "Water freezes and becomes solid ice",
+          "correct": true,
+          "explanation": "Water freezes at 0\u00b0C (32\u00b0F). When the temperature drops to or below this point, liquid water becomes solid ice."
+        },
+        {
+          "id": "c",
+          "label": "Water stays the same \u2014 temperature does not change water",
+          "correct": false,
+          "explanation": "Temperature absolutely changes water. At 0\u00b0C, liquid water freezes into solid ice."
+        },
+        {
+          "id": "d",
+          "label": "Water turns into salt water",
+          "correct": false,
+          "explanation": "Freezing does not add salt to water. Fresh water freezes into freshwater ice."
+        }
+      ],
+      "explanation_md": "Water freezes at 0\u00b0C (32\u00b0F). When temperature drops to or below that point, liquid water becomes solid ice."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Can people drink water directly from the ocean? Why or why not?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes \u2014 ocean water is the cleanest water on Earth",
+          "correct": false,
+          "explanation": "Ocean water is salty, not clean for drinking. Drinking salt water is harmful."
+        },
+        {
+          "id": "b",
+          "label": "No \u2014 ocean water is salty, and people need freshwater to drink",
+          "correct": true,
+          "explanation": "Ocean water contains large amounts of salt. Drinking salt water is harmful to people because it can cause dehydration."
+        },
+        {
+          "id": "c",
+          "label": "Yes \u2014 people can drink any water found on Earth",
+          "correct": false,
+          "explanation": "Not all water is safe to drink. Salt water and contaminated water are harmful."
+        },
+        {
+          "id": "d",
+          "label": "No \u2014 ocean water is solid",
+          "correct": false,
+          "explanation": "Ocean water is liquid, not solid. The problem is that it is salty, not that it is solid."
+        }
+      ],
+      "explanation_md": "Ocean water is salty and harmful to drink. People need freshwater from rivers, lakes, and underground sources for drinking."
+    }
+  ]
+}
