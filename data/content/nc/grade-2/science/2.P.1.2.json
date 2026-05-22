@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.P.1.2",
+  "benchmark_description": "Compare the properties of several minerals using a chart including color, luster, hardness, and cleavage.",
+  "course": "science",
+  "strand": "P",
+  "lesson": {
+    "title": "Comparing Minerals",
+    "intro": "Have you ever seen a shiny gem or a sparkly rock? Those are minerals! Scientists compare minerals by looking at their special properties \u2014 like how they look, how shiny they are, how hard they are, and how they break.",
+    "body_md": "## What Is a Mineral?\n\nA mineral is a natural, solid material with its own special set of physical properties. We can compare minerals using four main properties:\n\n1. **Color**\n2. **Luster**\n3. **Hardness**\n4. **Cleavage**\n\n## Color\n\nColor is the easiest property to see, but it is not always the most helpful. Some minerals can be many different colors! For example, quartz can be clear, white, pink, or purple.\n\n## Luster\n\nLuster describes how a mineral looks when light hits its surface. Types of luster:\n- **Metallic luster** \u2014 looks like shiny metal (like gold or silver)\n- **Glassy luster** \u2014 looks like glass (like quartz)\n- **Pearly luster** \u2014 looks like a pearl (like mica)\n- **Dull luster** \u2014 does not shine much\n\n## Hardness\n\nHardness tells us how hard it is to scratch a mineral. We use the **Mohs Hardness Scale** (1\u201310):\n\n| Number | Example | Hardness |\n|--------|---------|----------|\n| 1 | Talc | Very soft \u2014 fingernail scratches it easily |\n| 3 | Calcite | A copper coin can scratch it |\n| 7 | Quartz | Steel can scratch it |\n| 10 | Diamond | The hardest mineral \u2014 scratches everything |\n\nTo test hardness, we try to scratch one mineral with another. The harder mineral will scratch the softer one.\n\n## Cleavage\n\nCleavage describes how a mineral **breaks**. When a mineral breaks along flat, smooth surfaces, it has cleavage. When it breaks in jagged, uneven pieces, it has **fracture** (no cleavage).\n\n- **Mica** \u2014 breaks into thin flat sheets (excellent cleavage)\n- **Quartz** \u2014 breaks unevenly, like broken glass (fracture, no true cleavage)\n- **Feldspar** \u2014 breaks along two flat directions (two-directional cleavage)\n\n## Comparing Minerals on a Chart\n\n| Mineral | Color | Luster | Hardness | Cleavage |\n|---------|-------|--------|----------|----------|\n| Quartz | Clear or white | Glassy | 7 (hard) | None (fracture) |\n| Mica | Silver or gold | Pearly | 2\u20133 (soft) | Yes \u2014 thin sheets |\n| Feldspar | Pink or white | Glassy | 6 (medium-hard) | Yes \u2014 two directions |\n| Talc | White or gray | Pearly | 1 (very soft) | Yes \u2014 flaky |\n| Calcite | White or clear | Glassy | 3 (soft-medium) | Yes \u2014 three directions |",
+    "worked_example_md": "## Worked Example: Using a Mineral Chart\n\nDana has three minerals. She tests them and records her results:\n\n| Mineral | Color | Luster | Hardness | Cleavage |\n|---------|-------|--------|----------|----------|\n| Mineral A | White | Glassy | 7 | None |\n| Mineral B | Silver | Pearly | 2 | Thin sheets |\n| Mineral C | Pink | Glassy | 6 | Two directions |\n\n**Question:** Which mineral is the hardest?\n\n**Step 1:** Look at the hardness column.\n- Mineral A = 7\n- Mineral B = 2\n- Mineral C = 6\n\n**Step 2:** The highest number is 7 (Mineral A).\n\n**Answer:** Mineral A is the hardest. Based on all the properties, Mineral A is most likely **quartz**, Mineral B is most likely **mica**, and Mineral C is most likely **feldspar**.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which property tells us how shiny a mineral is?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color",
+          "correct": false,
+          "explanation": "Color tells us the hue (red, blue, white), not how shiny the mineral is."
+        },
+        {
+          "id": "b",
+          "label": "Hardness",
+          "correct": false,
+          "explanation": "Hardness tells us how easy it is to scratch the mineral, not how shiny it is."
+        },
+        {
+          "id": "c",
+          "label": "Luster",
+          "correct": true,
+          "explanation": "Luster describes how shiny or dull a mineral looks when light hits it."
+        },
+        {
+          "id": "d",
+          "label": "Cleavage",
+          "correct": false,
+          "explanation": "Cleavage describes how a mineral breaks, not how shiny it is."
+        }
+      ],
+      "explanation_md": "**Luster** is the word scientists use to describe how shiny or dull a mineral looks. Metallic luster looks like shiny metal; glassy luster looks like glass."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A mineral can be scratched by a fingernail but not by a copper coin. This tells us the mineral has \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Very high hardness",
+          "correct": false,
+          "explanation": "If a fingernail (which is soft) can scratch it, the mineral is not very hard."
+        },
+        {
+          "id": "b",
+          "label": "Low hardness (very soft)",
+          "correct": true,
+          "explanation": "If something as soft as a fingernail can scratch it, the mineral is very soft \u2014 low on the hardness scale (around 1\u20132)."
+        },
+        {
+          "id": "c",
+          "label": "High luster",
+          "correct": false,
+          "explanation": "The scratch test tells us about hardness, not luster. These are different properties."
+        },
+        {
+          "id": "d",
+          "label": "Good cleavage",
+          "correct": false,
+          "explanation": "Cleavage is about how a mineral breaks, not how it responds to a scratch test."
+        }
+      ],
+      "explanation_md": "A fingernail has a hardness of about 2.5 on the Mohs scale. If a fingernail scratches the mineral, the mineral's hardness is below 2.5 \u2014 very soft. Talc (hardness 1) is an example."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Mica breaks into thin, flat sheets. Scientists say mica has \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Fracture",
+          "correct": false,
+          "explanation": "Fracture means the mineral breaks unevenly \u2014 in jagged pieces. Mica breaks in smooth, flat sheets, which is cleavage."
+        },
+        {
+          "id": "b",
+          "label": "Cleavage",
+          "correct": true,
+          "explanation": "Cleavage means a mineral breaks along smooth, flat surfaces. Mica is famous for its perfect cleavage into thin, flat sheets."
+        },
+        {
+          "id": "c",
+          "label": "Metallic luster",
+          "correct": false,
+          "explanation": "Metallic luster describes how shiny mica is (actually pearly luster), not how it breaks."
+        },
+        {
+          "id": "d",
+          "label": "High hardness",
+          "correct": false,
+          "explanation": "Mica is quite soft (hardness 2\u20133). The question is about how it breaks, and soft minerals can still have cleavage."
+        }
+      ],
+      "explanation_md": "**Cleavage** is when a mineral breaks along flat, smooth surfaces. Mica has excellent cleavage \u2014 it peels apart into thin flat sheets. This is different from fracture, where the break is uneven."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Look at this chart:\n\n| Mineral | Hardness |\n|---------|----------|\n| Talc | 1 |\n| Calcite | 3 |\n| Quartz | 7 |\n\nWhich mineral can scratch calcite?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Talc",
+          "correct": false,
+          "explanation": "Talc has hardness 1, which is less than calcite's hardness of 3. A softer mineral cannot scratch a harder one."
+        },
+        {
+          "id": "b",
+          "label": "Calcite scratches itself",
+          "correct": false,
+          "explanation": "A mineral cannot scratch itself in a hardness comparison \u2014 you need a harder material to scratch a softer one."
+        },
+        {
+          "id": "c",
+          "label": "Quartz",
+          "correct": true,
+          "explanation": "Quartz has hardness 7, which is greater than calcite's hardness of 3. A harder mineral can scratch a softer one."
+        },
+        {
+          "id": "d",
+          "label": "None of them can scratch calcite",
+          "correct": false,
+          "explanation": "Quartz, with hardness 7, is definitely harder than calcite (hardness 3) and will scratch it."
+        }
+      ],
+      "explanation_md": "A mineral can scratch another mineral only if it is **harder**. Quartz (hardness 7) is harder than calcite (hardness 3), so quartz can scratch calcite. Talc (hardness 1) is softer than calcite, so talc cannot scratch it."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is color alone NOT the best property to use when identifying a mineral?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color changes when you touch a mineral.",
+          "correct": false,
+          "explanation": "Color does not change just from touching a mineral. The problem with using color is different."
+        },
+        {
+          "id": "b",
+          "label": "Some minerals come in many different colors.",
+          "correct": true,
+          "explanation": "Many minerals \u2014 like quartz \u2014 can be clear, white, pink, purple, or other colors. Using color alone could lead you to the wrong identification."
+        },
+        {
+          "id": "c",
+          "label": "Color is invisible and cannot be seen.",
+          "correct": false,
+          "explanation": "Color is one of the easiest properties to see \u2014 it is visible to the eye. The problem is that it is not unique to one mineral."
+        },
+        {
+          "id": "d",
+          "label": "You need special tools to see color.",
+          "correct": false,
+          "explanation": "You can see color with just your eyes \u2014 no special tools needed. The problem is that color alone does not always identify a mineral correctly."
+        }
+      ],
+      "explanation_md": "Color is easy to observe but not reliable by itself because many minerals come in **multiple colors**. For example, quartz can be clear, white, pink, or purple. You need to use **several properties together** (color + luster + hardness + cleavage) to accurately identify a mineral."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A mineral looks like shiny metal when light hits it. What type of luster does it have?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Glassy luster",
+          "correct": false,
+          "explanation": "Glassy luster looks like glass, not shiny metal. Quartz has glassy luster."
+        },
+        {
+          "id": "b",
+          "label": "Dull luster",
+          "correct": false,
+          "explanation": "Dull luster means the mineral does not shine much. A metallic-looking mineral is definitely not dull."
+        },
+        {
+          "id": "c",
+          "label": "Pearly luster",
+          "correct": false,
+          "explanation": "Pearly luster looks like a pearl \u2014 soft and silky, not like shiny metal."
+        },
+        {
+          "id": "d",
+          "label": "Metallic luster",
+          "correct": true,
+          "explanation": "Metallic luster means the mineral looks like shiny metal. Pyrite (fool's gold) and galena are examples of minerals with metallic luster."
+        }
+      ],
+      "explanation_md": "**Metallic luster** describes minerals that look like shiny metal when light hits them. Gold, silver, and pyrite (fool's gold) all have metallic luster."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which tool would a scientist most likely use to test the hardness of a mineral in a classroom?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A ruler",
+          "correct": false,
+          "explanation": "A ruler measures length or distance, not hardness. You would need something to scratch the mineral with."
+        },
+        {
+          "id": "b",
+          "label": "A thermometer",
+          "correct": false,
+          "explanation": "A thermometer measures temperature, not hardness."
+        },
+        {
+          "id": "c",
+          "label": "A fingernail or copper coin",
+          "correct": true,
+          "explanation": "Scientists use objects of known hardness \u2014 like a fingernail (hardness ~2.5) or a copper coin (hardness ~3.5) \u2014 to compare with the mineral being tested."
+        },
+        {
+          "id": "d",
+          "label": "A magnet",
+          "correct": false,
+          "explanation": "A magnet tests whether a material is magnetic, not how hard it is."
+        }
+      ],
+      "explanation_md": "To test hardness, scientists scratch the mineral with objects of **known hardness**: a fingernail (about 2.5), a copper coin (about 3.5), a steel nail (about 5.5), or glass (about 5.5). This is a simple, practical hardness test students can do in class."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Mineral X breaks into jagged, uneven pieces. Mineral Y breaks into smooth, flat sheets. Which statement is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both minerals have cleavage.",
+          "correct": false,
+          "explanation": "Only Mineral Y breaks into smooth, flat surfaces \u2014 that is cleavage. Mineral X breaks unevenly, which is fracture."
+        },
+        {
+          "id": "b",
+          "label": "Mineral X has cleavage; Mineral Y has fracture.",
+          "correct": false,
+          "explanation": "It is the opposite. Cleavage = smooth, flat breaks. Mineral Y has cleavage. Mineral X has fracture."
+        },
+        {
+          "id": "c",
+          "label": "Mineral X has fracture; Mineral Y has cleavage.",
+          "correct": true,
+          "explanation": "Fracture = jagged, uneven breaks (Mineral X). Cleavage = smooth, flat breaks (Mineral Y). The descriptions match these definitions."
+        },
+        {
+          "id": "d",
+          "label": "Both minerals have fracture.",
+          "correct": false,
+          "explanation": "Mineral Y breaks into smooth flat sheets \u2014 that is cleavage, not fracture."
+        }
+      ],
+      "explanation_md": "**Fracture** = when a mineral breaks in jagged, irregular pieces (Mineral X). **Cleavage** = when a mineral breaks along smooth, flat surfaces (Mineral Y). These are opposite types of breaking."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Use this chart:\n\n| Mineral | Color | Luster | Hardness | Cleavage |\n|---------|-------|--------|----------|----------|\n| A | White | Glassy | 7 | None |\n| B | Silver | Pearly | 2 | Sheets |\n| C | Pink | Glassy | 6 | Two ways |\n\nWhich mineral would a copper coin (hardness 3.5) be able to scratch?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only Mineral A",
+          "correct": false,
+          "explanation": "Mineral A has hardness 7, which is much harder than a copper coin (3.5). The coin cannot scratch Mineral A."
+        },
+        {
+          "id": "b",
+          "label": "Only Mineral B",
+          "correct": true,
+          "explanation": "Mineral B has hardness 2, which is softer than the copper coin (3.5). The coin can scratch it. Minerals A (7) and C (6) are harder than the coin and cannot be scratched by it."
+        },
+        {
+          "id": "c",
+          "label": "Minerals A and C",
+          "correct": false,
+          "explanation": "Minerals A (7) and C (6) are both harder than the copper coin (3.5). The coin cannot scratch harder minerals."
+        },
+        {
+          "id": "d",
+          "label": "All three minerals",
+          "correct": false,
+          "explanation": "Minerals A (7) and C (6) are harder than the copper coin (3.5), so the coin cannot scratch them."
+        }
+      ],
+      "explanation_md": "A copper coin has hardness about 3.5. It can only scratch minerals that are **softer** than 3.5. Mineral B has hardness 2 (softer than 3.5), so the coin can scratch Mineral B. Minerals A (7) and C (6) are harder than the coin, so it cannot scratch them."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A scientist wants to identify an unknown mineral. She checks color and it is white \u2014 but three minerals in her chart are white. What should she do next to narrow down the identification?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Check the color again more carefully.",
+          "correct": false,
+          "explanation": "Checking color a second time will not help if all three minerals are white. She needs a different property."
+        },
+        {
+          "id": "b",
+          "label": "Stop \u2014 color is enough to identify any mineral.",
+          "correct": false,
+          "explanation": "Color alone is not enough, especially when multiple minerals share the same color. Scientists always use multiple properties."
+        },
+        {
+          "id": "c",
+          "label": "Test hardness and luster to narrow the choices.",
+          "correct": true,
+          "explanation": "Since color alone gives three possibilities, she should test another property like hardness or luster. Each mineral has a unique combination of properties, so testing more properties will eliminate wrong choices."
+        },
+        {
+          "id": "d",
+          "label": "Guess which mineral it is.",
+          "correct": false,
+          "explanation": "Scientists do not guess \u2014 they use evidence. Testing additional properties gives evidence to make a confident identification."
+        }
+      ],
+      "explanation_md": "When one property (like color) gives multiple possible matches, the scientist must test **additional properties** such as hardness, luster, or cleavage. Each mineral has a unique combination of all four properties, so using more properties together narrows the identification to one correct answer."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Look at this chart:\n\n| Mineral | Hardness |\n|---------|----------|\n| Mica | 2 |\n| Feldspar | 6 |\n| Diamond | 10 |\n\nWhich mineral is the hardest?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Mica",
+          "correct": false,
+          "explanation": "Mica has the lowest hardness (2) of the three \u2014 it is the softest, not the hardest."
+        },
+        {
+          "id": "b",
+          "label": "Feldspar",
+          "correct": false,
+          "explanation": "Feldspar (hardness 6) is harder than mica but not the hardest \u2014 diamond has a higher number."
+        },
+        {
+          "id": "c",
+          "label": "Diamond",
+          "correct": true,
+          "explanation": "Diamond has hardness 10, the highest number \u2014 it is the hardest known natural mineral."
+        },
+        {
+          "id": "d",
+          "label": "All the same hardness",
+          "correct": false,
+          "explanation": "The chart shows different hardness numbers for each mineral \u2014 they are not the same."
+        }
+      ],
+      "explanation_md": "On the Mohs Hardness Scale, higher numbers mean harder. Diamond (10) is higher than feldspar (6) and mica (2), so diamond is the hardest."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which TWO properties would best help identify a mineral when two minerals have the same color?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Color and color again",
+          "correct": false,
+          "explanation": "Checking the same property twice will not give new information if both minerals are the same color."
+        },
+        {
+          "id": "b",
+          "label": "Luster and hardness",
+          "correct": true,
+          "explanation": "Since color is already known to be the same, checking luster (how shiny) and hardness (scratch test) will likely reveal differences between the two minerals."
+        },
+        {
+          "id": "c",
+          "label": "Size and weight",
+          "correct": false,
+          "explanation": "Size and weight of a specific specimen are not standard mineral properties \u2014 they change depending on the sample size."
+        },
+        {
+          "id": "d",
+          "label": "Shape of the container it came in",
+          "correct": false,
+          "explanation": "The container is not a property of the mineral itself. Mineral properties come from the mineral, not how it is stored."
+        }
+      ],
+      "explanation_md": "When two minerals share the same color, checking **luster** (shiny vs. dull) and **hardness** (scratch test) helps tell them apart. Most minerals have unique combinations of these properties."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Quartz has hardness 7 and fracture (no cleavage). Mica has hardness 2 and perfect cleavage into sheets. A student finds a mineral that breaks into flat sheets and can be scratched by a fingernail. Which mineral is it most likely to be?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Quartz",
+          "correct": false,
+          "explanation": "Quartz has hardness 7 (cannot be scratched by a fingernail) and fracture (no flat sheets). Both clues point away from quartz."
+        },
+        {
+          "id": "b",
+          "label": "Mica",
+          "correct": true,
+          "explanation": "Mica has hardness 2 (soft enough to be scratched by a fingernail, hardness ~2.5) and breaks into flat sheets (perfect cleavage). Both clues match mica."
+        },
+        {
+          "id": "c",
+          "label": "Diamond",
+          "correct": false,
+          "explanation": "Diamond has hardness 10 \u2014 the hardest mineral. A fingernail (hardness ~2.5) cannot scratch diamond at all."
+        },
+        {
+          "id": "d",
+          "label": "Feldspar",
+          "correct": false,
+          "explanation": "Feldspar has hardness 6 and cleavage in two directions (not thin sheets). A fingernail cannot scratch feldspar (too hard)."
+        }
+      ],
+      "explanation_md": "The unknown mineral breaks into **flat sheets** (cleavage) and can be **scratched by a fingernail** (low hardness). Mica matches both clues: it has perfect sheet cleavage and hardness of 2, which is below the fingernail's ~2.5."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does hardness describe about a mineral?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "How shiny it is",
+          "correct": false,
+          "explanation": "How shiny something is describes luster, not hardness."
+        },
+        {
+          "id": "b",
+          "label": "What color it is",
+          "correct": false,
+          "explanation": "Color describes the hue of the mineral, not hardness."
+        },
+        {
+          "id": "c",
+          "label": "How easy it is to scratch",
+          "correct": true,
+          "explanation": "Hardness tells us how resistant a mineral is to being scratched. Hard minerals are very difficult to scratch."
+        },
+        {
+          "id": "d",
+          "label": "How it breaks",
+          "correct": false,
+          "explanation": "How a mineral breaks is called cleavage or fracture, not hardness."
+        }
+      ],
+      "explanation_md": "**Hardness** describes how easy or hard it is to scratch a mineral. Hard minerals (like diamond) are very difficult to scratch. Soft minerals (like talc) can be scratched with a fingernail."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which word means how a mineral breaks into flat, smooth pieces?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Luster",
+          "correct": false,
+          "explanation": "Luster is about how shiny a mineral looks, not how it breaks."
+        },
+        {
+          "id": "b",
+          "label": "Color",
+          "correct": false,
+          "explanation": "Color describes the hue of a mineral, not how it breaks."
+        },
+        {
+          "id": "c",
+          "label": "Hardness",
+          "correct": false,
+          "explanation": "Hardness is about how easy a mineral is to scratch, not how it breaks."
+        },
+        {
+          "id": "d",
+          "label": "Cleavage",
+          "correct": true,
+          "explanation": "Cleavage is when a mineral breaks along smooth, flat surfaces. Mica is a great example \u2014 it peels into flat sheets."
+        }
+      ],
+      "explanation_md": "**Cleavage** means a mineral breaks along smooth, flat surfaces. Mica is a good example \u2014 it peels apart into thin flat sheets."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A mineral has glassy luster. What does that mean?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It looks like shiny metal.",
+          "correct": false,
+          "explanation": "Looking like shiny metal is metallic luster, not glassy luster."
+        },
+        {
+          "id": "b",
+          "label": "It looks like glass.",
+          "correct": true,
+          "explanation": "Glassy luster means the mineral's surface looks similar to glass \u2014 clear or transparent and shiny in a glass-like way."
+        },
+        {
+          "id": "c",
+          "label": "It is very dull and does not shine.",
+          "correct": false,
+          "explanation": "A dull mineral has dull luster, not glassy luster. Glassy minerals do shine like glass."
+        },
+        {
+          "id": "d",
+          "label": "It looks like a pearl.",
+          "correct": false,
+          "explanation": "Looking like a pearl is called pearly luster, not glassy luster."
+        }
+      ],
+      "explanation_md": "**Glassy luster** means a mineral's surface looks like glass \u2014 smooth and somewhat see-through or bright. Quartz often has glassy luster."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these minerals is the softest?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Diamond (hardness 10)",
+          "correct": false,
+          "explanation": "Diamond is the hardest known mineral \u2014 a hardness of 10 is the highest possible, not soft."
+        },
+        {
+          "id": "b",
+          "label": "Quartz (hardness 7)",
+          "correct": false,
+          "explanation": "Quartz is hard \u2014 hardness 7 is well above the softest minerals on the scale."
+        },
+        {
+          "id": "c",
+          "label": "Feldspar (hardness 6)",
+          "correct": false,
+          "explanation": "Feldspar has hardness 6 \u2014 medium-hard, not the softest."
+        },
+        {
+          "id": "d",
+          "label": "Talc (hardness 1)",
+          "correct": true,
+          "explanation": "Talc has a hardness of 1 \u2014 the lowest possible on the Mohs scale, making it the softest common mineral."
+        }
+      ],
+      "explanation_md": "**Talc** has a hardness of 1 \u2014 the softest score on the Mohs scale. You can scratch it with a fingernail easily. It is so soft it is used to make baby powder."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student has two minerals. She scratches one with the other and leaves a mark. What does this tell her?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both minerals are the same hardness.",
+          "correct": false,
+          "explanation": "If they were the same hardness, they would scratch each other equally \u2014 or not at all. One scratching the other shows a difference."
+        },
+        {
+          "id": "b",
+          "label": "The mineral that made the mark is harder.",
+          "correct": true,
+          "explanation": "The mineral that scratches the other is harder. Harder minerals scratch softer ones."
+        },
+        {
+          "id": "c",
+          "label": "The mineral that got scratched is harder.",
+          "correct": false,
+          "explanation": "It is the opposite \u2014 the mineral that got scratched is softer. The one doing the scratching is harder."
+        },
+        {
+          "id": "d",
+          "label": "Both minerals have cleavage.",
+          "correct": false,
+          "explanation": "A scratch test measures hardness, not cleavage. Cleavage is tested by looking at how the mineral breaks."
+        }
+      ],
+      "explanation_md": "When one mineral scratches another, the one **doing the scratching is harder**. The one that got the mark is softer. This is how scientists compare hardness."
+    }
+  ]
+}
