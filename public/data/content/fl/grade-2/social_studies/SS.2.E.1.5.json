@@ -1,0 +1,613 @@
+{
+  "skill_id": "SS.2.E.1.5",
+  "benchmark_description": "Explain how people earn income by working and how income is used to satisfy wants and needs.",
+  "course": "social_studies",
+  "strand": "E",
+  "lesson": {
+    "title": "Earning Income and Satisfying Wants and Needs",
+    "intro": "People work at jobs to earn money. The money people earn from work is called income. People use their income to buy things they need and want. Understanding how income works helps us make good choices with money.",
+    "body_md": "## What Is Income?\n\n**Income** is the money a person earns from working. When a person does a job, they receive pay \u2014 that pay is their income.\n\n## How Do People Earn Income?\n\nPeople earn income in different ways:\n\n- A teacher earns income by teaching students.\n- A farmer earns income by growing and selling crops.\n- A store owner earns income by selling goods.\n- A carpenter earns income by building and repairing things.\n\nThe amount of income depends on the job. Some jobs pay more than others because they require more training, skills, or education.\n\n## Needs vs. Wants\n\n- **Needs** are things people must have to survive: food, water, clothing, and shelter.\n- **Wants** are things people would like to have but can survive without: toys, video games, vacations, and extra clothing.\n\n## Using Income to Satisfy Needs and Wants\n\nPeople use their income to pay for both needs and wants.\n\n- First, people pay for **needs** (rent, food, utilities).\n- Then, if there is money left over, people pay for **wants** (toys, dining out, entertainment).\n\nThis order matters: needs come first.\n\n## Saving Income\n\nSmart money management includes **saving** some income for later. Savings can be used for future needs or wants, or for emergencies.\n\n## Producers and Workers\n\nWorkers are also **producers** \u2014 they produce goods or services that others want or need. When producers are paid for their work, that is how they earn income.\n\n- A baker produces bread and earns income from selling it.\n- A doctor produces a service (medical care) and earns income from patients or insurance.",
+    "worked_example_md": "**Marco's Week:**\n\n- Marco's dad works as a plumber. He earns income each week for fixing pipes.\n- His family uses income to pay for food (a need) and their apartment rent (a need).\n- After needs are paid, they save some money and use the rest to take Marco to the movies (a want).\n\n*Think: Which spending was for a need? Food and rent. Which was for a want? The movies.*",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is **income**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Money people find on the ground",
+          "correct": false,
+          "explanation": "Income is money earned from working, not money found by chance."
+        },
+        {
+          "id": "B",
+          "label": "Money a person earns from working",
+          "correct": true,
+          "explanation": "Income is the money people receive as pay for doing a job."
+        },
+        {
+          "id": "C",
+          "label": "Gifts from family members",
+          "correct": false,
+          "explanation": "Gifts are not income. Income is money earned by working."
+        },
+        {
+          "id": "D",
+          "label": "Money borrowed from a bank",
+          "correct": false,
+          "explanation": "Money borrowed is a loan, not income. Income is earned through work."
+        }
+      ],
+      "explanation_md": "Income is the money a person earns from working at a job."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher works at a school and gets paid each month. What is the teacher's monthly pay called?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A gift",
+          "correct": false,
+          "explanation": "Pay earned from working is income, not a gift."
+        },
+        {
+          "id": "B",
+          "label": "Income",
+          "correct": true,
+          "explanation": "The teacher earns money by working. Money earned from working is called income."
+        },
+        {
+          "id": "C",
+          "label": "A loan",
+          "correct": false,
+          "explanation": "A loan is borrowed money that must be paid back. Pay for working is income."
+        },
+        {
+          "id": "D",
+          "label": "A tax",
+          "correct": false,
+          "explanation": "A tax is money paid to the government. Pay for working is income."
+        }
+      ],
+      "explanation_md": "Money earned from working is called income. The teacher's monthly pay is their income."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **need**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A new video game",
+          "correct": false,
+          "explanation": "A video game is a want. People can survive without video games."
+        },
+        {
+          "id": "B",
+          "label": "Food to eat",
+          "correct": true,
+          "explanation": "Food is a need. People must have food to survive."
+        },
+        {
+          "id": "C",
+          "label": "A vacation at the beach",
+          "correct": false,
+          "explanation": "A vacation is a want. People can survive without vacations."
+        },
+        {
+          "id": "D",
+          "label": "A bicycle",
+          "correct": false,
+          "explanation": "A bicycle is generally a want, not a survival necessity."
+        }
+      ],
+      "explanation_md": "Food is a need \u2014 people must have food to survive. Needs also include water, shelter, and clothing."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **want**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Shelter (a place to live)",
+          "correct": false,
+          "explanation": "Shelter is a need. People must have a place to live to stay safe."
+        },
+        {
+          "id": "B",
+          "label": "Water to drink",
+          "correct": false,
+          "explanation": "Water is a need. People cannot survive without water."
+        },
+        {
+          "id": "C",
+          "label": "A new pair of sneakers when you already have shoes",
+          "correct": true,
+          "explanation": "Extra shoes are a want. You already have shoes (a need), so additional sneakers are a want."
+        },
+        {
+          "id": "D",
+          "label": "Clothing to wear",
+          "correct": false,
+          "explanation": "Basic clothing is a need. People need clothing for protection."
+        }
+      ],
+      "explanation_md": "Extra sneakers are a want. You need basic shoes, but extra pairs beyond what you have are wants."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why should people pay for **needs** before **wants**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Needs are always more expensive",
+          "correct": false,
+          "explanation": "Some wants cost more than needs. The reason to pay for needs first is because they are required for survival."
+        },
+        {
+          "id": "B",
+          "label": "Needs are things required for survival, so they must be taken care of first",
+          "correct": true,
+          "explanation": "Needs like food and shelter are required to survive. Wants are extras. Taking care of needs first keeps people safe."
+        },
+        {
+          "id": "C",
+          "label": "Wants disappear if you do not buy them immediately",
+          "correct": false,
+          "explanation": "Wants do not disappear. The reason to pay for needs first is their importance for survival."
+        },
+        {
+          "id": "D",
+          "label": "The government requires people to pay for needs first",
+          "correct": false,
+          "explanation": "The government does not require this order. It is smart personal money management."
+        }
+      ],
+      "explanation_md": "Needs like food, water, and shelter are required for survival. Paying for needs first ensures people stay safe before spending on extras."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer grows and sells vegetables. How does the farmer earn income?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "By buying vegetables from the market",
+          "correct": false,
+          "explanation": "Buying things costs money; it does not earn income."
+        },
+        {
+          "id": "B",
+          "label": "By producing vegetables and selling them to others",
+          "correct": true,
+          "explanation": "The farmer produces a good (vegetables) and earns income by selling them."
+        },
+        {
+          "id": "C",
+          "label": "By giving vegetables away for free",
+          "correct": false,
+          "explanation": "Giving things away does not earn income."
+        },
+        {
+          "id": "D",
+          "label": "By asking the government for money",
+          "correct": false,
+          "explanation": "Earning income means getting paid for work, not asking for government money."
+        }
+      ],
+      "explanation_md": "The farmer earns income by producing vegetables and selling them. Producers earn income when they sell their goods or services."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why might a doctor earn more income than a cashier?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because doctors work more hours every week",
+          "correct": false,
+          "explanation": "Some cashiers work many hours too. The main reason is that doctors require much more training and education."
+        },
+        {
+          "id": "B",
+          "label": "Because becoming a doctor requires many more years of education and training",
+          "correct": true,
+          "explanation": "Jobs that require more education, training, and skill typically pay more income."
+        },
+        {
+          "id": "C",
+          "label": "Because doctors are taller",
+          "correct": false,
+          "explanation": "Height has nothing to do with income."
+        },
+        {
+          "id": "D",
+          "label": "Because doctors do not have to pay taxes",
+          "correct": false,
+          "explanation": "All workers pay taxes. Income level is related to the skill and training required by the job."
+        }
+      ],
+      "explanation_md": "Jobs that require more education and training, like being a doctor, typically pay more income. The doctor's medical training takes many years and costs a lot."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is **saving** income?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Spending all income as fast as possible",
+          "correct": false,
+          "explanation": "Spending all income quickly is the opposite of saving."
+        },
+        {
+          "id": "B",
+          "label": "Setting aside some income for future use",
+          "correct": true,
+          "explanation": "Saving means keeping some income instead of spending it, so you have money later for future needs, wants, or emergencies."
+        },
+        {
+          "id": "C",
+          "label": "Giving all income to others",
+          "correct": false,
+          "explanation": "Giving away all income would mean having none left."
+        },
+        {
+          "id": "D",
+          "label": "Earning income from a second job",
+          "correct": false,
+          "explanation": "Earning income is different from saving income. Saving means keeping some for later."
+        }
+      ],
+      "explanation_md": "Saving means setting aside some income for future use. Savings can pay for future needs, wants, or unexpected emergencies."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Sofia earns $20 babysitting. She spends $8 on food, $5 on a book she needs for school, and saves $4. She has $3 left. She wants to buy a candy bar. What should she think about first?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Buy the candy bar because she has enough money",
+          "correct": false,
+          "explanation": "Having money does not mean she should spend it. She should think about whether it is a want or need and if saving more would be smarter."
+        },
+        {
+          "id": "B",
+          "label": "Whether the candy bar is a want or need, and whether saving the $3 might be better",
+          "correct": true,
+          "explanation": "Good money management means thinking about needs vs. wants and the value of saving. A candy bar is a want. Saving $3 more could be wiser."
+        },
+        {
+          "id": "C",
+          "label": "Ask her parents to give her more money first",
+          "correct": false,
+          "explanation": "She already has $3. She should think about how to use it wisely."
+        },
+        {
+          "id": "D",
+          "label": "Spend all remaining $3 on candy to avoid wasting it",
+          "correct": false,
+          "explanation": "Money is not wasted by saving it. Saving is a smart choice."
+        }
+      ],
+      "explanation_md": "Good money management includes thinking about whether a purchase is a need or want, and considering whether saving is the better choice."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A store owner uses income from selling shoes to pay rent for the store, pay workers, buy new shoes to sell, and take a family vacation. Which uses of income are for **needs** of the business?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Family vacation only",
+          "correct": false,
+          "explanation": "A family vacation is a personal want, not a business need."
+        },
+        {
+          "id": "B",
+          "label": "Rent, paying workers, and buying shoes to sell",
+          "correct": true,
+          "explanation": "Rent (shelter for the business), paying workers, and buying inventory are business needs \u2014 necessary to keep the store running."
+        },
+        {
+          "id": "C",
+          "label": "Family vacation and paying workers",
+          "correct": false,
+          "explanation": "The family vacation is a want. Paying workers is a business need."
+        },
+        {
+          "id": "D",
+          "label": "All four uses are business needs",
+          "correct": false,
+          "explanation": "The family vacation is a personal want, not a business need. The other three are business needs."
+        }
+      ],
+      "explanation_md": "Rent, worker pay, and buying inventory are business needs \u2014 required to keep the store running. The family vacation is a personal want."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What is the correct order for using income?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Wants first, then needs, then saving",
+          "correct": false,
+          "explanation": "Needs must come before wants. Paying for wants first could leave you without money for essentials."
+        },
+        {
+          "id": "B",
+          "label": "Needs first, then saving, then wants",
+          "correct": true,
+          "explanation": "Smart money management means covering needs (food, shelter) first, setting aside some savings, and then spending on wants."
+        },
+        {
+          "id": "C",
+          "label": "Saving only \u2014 never spend on wants",
+          "correct": false,
+          "explanation": "Saving is important, but people also need to pay for needs and may reasonably spend some on wants."
+        },
+        {
+          "id": "D",
+          "label": "Needs first, then all remaining money on wants",
+          "correct": false,
+          "explanation": "Spending everything beyond needs on wants leaves no savings for emergencies or future needs."
+        }
+      ],
+      "explanation_md": "The smart order is: needs first, then saving some, then wants. This ensures essentials are covered and you have funds for the future."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Maria babysits children on weekends. She earns $30 each weekend. What is the $30 she earns called?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A tax",
+          "correct": false,
+          "explanation": "A tax is money paid to the government. Maria's pay is income."
+        },
+        {
+          "id": "B",
+          "label": "Income",
+          "correct": true,
+          "explanation": "Money earned by working is called income. Maria earns income from babysitting."
+        },
+        {
+          "id": "C",
+          "label": "A gift",
+          "correct": false,
+          "explanation": "Gifts are not earned. Maria earns this money by working."
+        },
+        {
+          "id": "D",
+          "label": "Savings",
+          "correct": false,
+          "explanation": "Savings is income set aside for later. The $30 she earns each weekend is income, not savings yet."
+        }
+      ],
+      "explanation_md": "Money earned from working is income. Maria earns $30 of income each weekend from babysitting."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is **saving** part of income important, even if a person can afford all their wants right now?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Because the government requires people to save",
+          "correct": false,
+          "explanation": "Saving is smart personal finance, not a government requirement."
+        },
+        {
+          "id": "B",
+          "label": "Because unexpected events (like illness or job loss) require money, and savings provide a safety net",
+          "correct": true,
+          "explanation": "Saving provides money for future needs and emergencies. Even people who can afford their wants now may face unexpected expenses later."
+        },
+        {
+          "id": "C",
+          "label": "Because saved money earns nothing and can just sit",
+          "correct": false,
+          "explanation": "Saved money can earn interest in a bank, and it provides financial security for the future."
+        },
+        {
+          "id": "D",
+          "label": "Because wants will always cost more in the future",
+          "correct": false,
+          "explanation": "Saving is important for security and emergencies, not just because prices change."
+        }
+      ],
+      "explanation_md": "Saving provides financial security for emergencies and future needs, even when current wants are affordable. Unexpected events like job loss or illness require money."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does a person receive when they work at a job?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Free vacations",
+          "correct": false,
+          "explanation": "Working earns income (money), not free vacations."
+        },
+        {
+          "id": "B",
+          "label": "Income (money for working)",
+          "correct": true,
+          "explanation": "When a person works, they earn income \u2014 money paid for their work."
+        },
+        {
+          "id": "C",
+          "label": "A trophy",
+          "correct": false,
+          "explanation": "Working earns income, not trophies."
+        },
+        {
+          "id": "D",
+          "label": "Nothing \u2014 work is always free",
+          "correct": false,
+          "explanation": "Most jobs pay income to workers."
+        }
+      ],
+      "explanation_md": "When a person works, they earn income \u2014 money paid for doing the job."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **need** that people must have to survive?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "A new toy",
+          "correct": false,
+          "explanation": "A toy is a want. People can survive without toys."
+        },
+        {
+          "id": "B",
+          "label": "Food",
+          "correct": true,
+          "explanation": "Food is a need. People must eat to survive."
+        },
+        {
+          "id": "C",
+          "label": "A video game",
+          "correct": false,
+          "explanation": "A video game is a want, not a need for survival."
+        },
+        {
+          "id": "D",
+          "label": "A vacation",
+          "correct": false,
+          "explanation": "A vacation is a want. People do not need vacations to survive."
+        }
+      ],
+      "explanation_md": "Food is a need \u2014 people must have food to survive. Needs also include water, shelter, and clothing."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **want**?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Water to drink",
+          "correct": false,
+          "explanation": "Water is a need. People cannot survive without water."
+        },
+        {
+          "id": "B",
+          "label": "Clothing to stay warm",
+          "correct": false,
+          "explanation": "Basic clothing is a need."
+        },
+        {
+          "id": "C",
+          "label": "A toy robot",
+          "correct": true,
+          "explanation": "A toy robot is a want. People can survive and live well without it."
+        },
+        {
+          "id": "D",
+          "label": "A home to live in",
+          "correct": false,
+          "explanation": "Shelter is a need."
+        }
+      ],
+      "explanation_md": "A toy robot is a want \u2014 something people would like to have but do not need to survive."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A baker bakes and sells bread. How does the baker earn income?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "By buying bread from other stores",
+          "correct": false,
+          "explanation": "Buying bread costs money; it does not earn income."
+        },
+        {
+          "id": "B",
+          "label": "By producing and selling bread to customers",
+          "correct": true,
+          "explanation": "The baker earns income by producing (baking) bread and selling it to customers."
+        },
+        {
+          "id": "C",
+          "label": "By giving bread away",
+          "correct": false,
+          "explanation": "Giving things away does not earn income."
+        },
+        {
+          "id": "D",
+          "label": "By asking for donations",
+          "correct": false,
+          "explanation": "Income is earned through work, not donations."
+        }
+      ],
+      "explanation_md": "The baker earns income by producing bread and selling it. Producers earn income by selling their goods or services."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "After paying for needs, what is the smart thing to do with extra income?",
+      "choices": [
+        {
+          "id": "A",
+          "label": "Spend all of it on wants immediately",
+          "correct": false,
+          "explanation": "Spending everything on wants leaves nothing for savings or future needs."
+        },
+        {
+          "id": "B",
+          "label": "Save some and spend the rest wisely on wants",
+          "correct": true,
+          "explanation": "After paying for needs, saving some income and spending the rest wisely on wants is good money management."
+        },
+        {
+          "id": "C",
+          "label": "Give all of it away",
+          "correct": false,
+          "explanation": "Giving away all extra income leaves nothing for future needs or emergencies."
+        },
+        {
+          "id": "D",
+          "label": "Never spend it on wants \u2014 only on needs",
+          "correct": false,
+          "explanation": "It is fine to spend some income on wants after needs are covered, as long as some is also saved."
+        }
+      ],
+      "explanation_md": "After paying for needs, it is smart to save some income and spend the rest wisely on wants."
+    }
+  ]
+}
