@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.E.1.1",
+  "benchmark_description": "Explain how and why people in a community trade for goods and services.",
+  "course": "social_studies",
+  "strand": "E",
+  "lesson": {
+    "title": "Trading Goods and Services in Our Community",
+    "intro": "Have you ever swapped a sandwich for chips at lunch? That is a type of trade! Communities trade goods and services every day. Let us learn why people trade and how it helps everyone.",
+    "body_md": "## What Are Goods and Services?\n\n**Goods** are things that can be made and sold. You can touch and hold them.\n- Examples: food, clothes, toys, books\n\n**Services** are things that people DO for others. You cannot hold a service.\n- Examples: haircut, doctor visit, teaching, fixing a car\n\n## What Is Trade?\n\n**Trade** happens when people exchange goods or services with each other. There are two main kinds:\n\n1. **Barter** -- swapping one good or service for another, without using money\n - Example: A farmer trades eggs for a neighbor's bread.\n2. **Buying and selling** -- using money to exchange goods or services\n - Example: You pay $2 for a carton of milk at the store.\n\n## Why Do People Trade?\n\nPeople trade because no one can make or do everything they need by themselves. Trade allows:\n\n| Reason | Example |\n|---|---|\n| Getting things you cannot make yourself | A shoe seller buys leather from a farmer |\n| Using special skills | A doctor trades medical care for payment |\n| Getting things from faraway places | A store sells bananas grown in another country |\n| Saving time | A family buys bread instead of baking it |\n\n## How Does Trade Help Communities?\n\n- Trade lets people **specialize** -- focus on doing one thing really well.\n- A baker bakes bread all day; a plumber fixes pipes all day. They buy what the other makes.\n- Communities grow stronger because everyone shares what they do best.\n- Trade connects our community to communities far away.\n\n**Key Words:**\n- **goods** -- things that can be made and sold\n- **services** -- things that people do for others\n- **trade** -- exchanging goods or services\n- **barter** -- swapping goods or services without money\n- **specialize** -- to focus on doing one type of work really well",
+    "worked_example_md": "## Worked Example\n\n**Maria is a baker. Carlos is a doctor.**\n\n- Maria bakes delicious bread but does not know how to treat a sick child.\n- Carlos is a great doctor but does not have time to bake bread.\n\n**Trade happens:**\n- Carlos pays money to buy bread from Maria's bakery.\n- Maria pays money when she and her children visit Dr. Carlos.\n\n**How does this trade help both of them?**\n- Maria specializes in baking -- she does not need to go to medical school.\n- Carlos specializes in medicine -- he does not need to learn to bake.\n- Both get what they need by trading through buying and selling.\n\n**Conclusion:** Trade allows people to specialize in what they do best, then exchange with others to get everything they need.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a GOOD?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A haircut",
+          "correct": false,
+          "explanation": "A haircut is a service -- something a person DOES for you. You cannot hold a haircut."
+        },
+        {
+          "id": "b",
+          "label": "A pair of shoes",
+          "correct": true,
+          "explanation": "A pair of shoes is a good -- it is a physical object that is made and sold. You can hold and wear it."
+        },
+        {
+          "id": "c",
+          "label": "A doctor visit",
+          "correct": false,
+          "explanation": "A doctor visit is a service -- the doctor does something for you. You cannot hold a doctor visit."
+        },
+        {
+          "id": "d",
+          "label": "Teaching students to read",
+          "correct": false,
+          "explanation": "Teaching is a service -- the teacher does something for students. You cannot hold teaching."
+        }
+      ],
+      "explanation_md": "A pair of shoes is a good -- it is a physical object that is made and sold. Services like haircuts, doctor visits, and teaching are things people DO, not things you can hold."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a SERVICE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A loaf of bread",
+          "correct": false,
+          "explanation": "A loaf of bread is a good -- it is a physical object you can hold and eat."
+        },
+        {
+          "id": "b",
+          "label": "A book",
+          "correct": false,
+          "explanation": "A book is a good -- it is a physical object you can hold and read."
+        },
+        {
+          "id": "c",
+          "label": "Fixing a leaky pipe",
+          "correct": true,
+          "explanation": "Fixing a leaky pipe is a service -- the plumber does something for you. You cannot hold 'fixing a pipe.'"
+        },
+        {
+          "id": "d",
+          "label": "A toy car",
+          "correct": false,
+          "explanation": "A toy car is a good -- it is a physical object you can hold and play with."
+        }
+      ],
+      "explanation_md": "Fixing a leaky pipe is a service -- the plumber does something for you. Goods like bread, books, and toys are physical objects you can hold."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer gives a neighbor a dozen eggs in exchange for a jar of honey. No money is used. This is called --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Buying and selling",
+          "correct": false,
+          "explanation": "Buying and selling uses money. This exchange does not use money -- it is barter."
+        },
+        {
+          "id": "b",
+          "label": "Barter",
+          "correct": true,
+          "explanation": "Barter is swapping goods or services without using money. The farmer gave eggs and received honey -- no money was exchanged."
+        },
+        {
+          "id": "c",
+          "label": "Specializing",
+          "correct": false,
+          "explanation": "Specializing means focusing on one type of work. The exchange of eggs for honey is barter, not specializing."
+        },
+        {
+          "id": "d",
+          "label": "A service",
+          "correct": false,
+          "explanation": "A service is something a person does for another. Eggs and honey are goods. Trading them is barter."
+        }
+      ],
+      "explanation_md": "Barter is swapping goods or services without using money. The farmer gave eggs and received honey -- no money changed hands, making this a classic example of barter."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do people in communities trade for goods and services?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because they have too many goods and need to get rid of them",
+          "correct": false,
+          "explanation": "People trade to GET things they need, not just to get rid of extras. Trade is about meeting needs."
+        },
+        {
+          "id": "b",
+          "label": "Because no one can make or do everything they need, so they exchange with others",
+          "correct": true,
+          "explanation": "No single person or family can make or do everything they need. Trade lets people get goods and services from others who make or provide them."
+        },
+        {
+          "id": "c",
+          "label": "Because the government tells them they must trade",
+          "correct": false,
+          "explanation": "People choose to trade because it meets their needs -- they are not forced to by the government."
+        },
+        {
+          "id": "d",
+          "label": "Because trading is only allowed in markets",
+          "correct": false,
+          "explanation": "Trade can happen anywhere -- at a market, at home, or online. The reason people trade is to get what they need."
+        }
+      ],
+      "explanation_md": "People trade because no one can make or do everything they need. Trade lets people get goods and services from others who specialize in making or providing them."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A baker bakes bread and sells it to buy shoes from a shoemaker. The shoemaker buys bread from the baker. How does this trade help BOTH people?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They both get money without working",
+          "correct": false,
+          "explanation": "Both the baker and shoemaker work hard at their specialty. Trade lets them exchange the results of their work."
+        },
+        {
+          "id": "b",
+          "label": "Each person can specialize in what they do best and get what they need from the other",
+          "correct": true,
+          "explanation": "The baker specializes in baking; the shoemaker specializes in making shoes. By trading, each gets what they need without having to learn the other's skill."
+        },
+        {
+          "id": "c",
+          "label": "Only the baker benefits because bread is more important than shoes",
+          "correct": false,
+          "explanation": "Both benefit equally -- the baker needs shoes and the shoemaker needs bread. Trade benefits everyone involved."
+        },
+        {
+          "id": "d",
+          "label": "Trade only works when money is used",
+          "correct": false,
+          "explanation": "Trade can work with money or through barter. The baker and shoemaker use money, but trade does not require it."
+        }
+      ],
+      "explanation_md": "Each person specializes in what they do best. By trading, both get what they need without having to learn the other's skill. This is the key benefit of trade."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A grocery store in your town sells bananas grown in another country. What does this tell you about trade?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Trade only happens within your own community",
+          "correct": false,
+          "explanation": "The bananas grown in another country and sold in your town show that trade happens between communities and countries -- not just within one community."
+        },
+        {
+          "id": "b",
+          "label": "Trade can connect your community to people far away",
+          "correct": true,
+          "explanation": "Bananas grown in another country ending up in a local store shows that trade connects communities across great distances. Your community gets goods it cannot produce locally."
+        },
+        {
+          "id": "c",
+          "label": "People should only buy goods made in their own town",
+          "correct": false,
+          "explanation": "Trade from faraway places gives communities goods they cannot grow or make locally. Limiting trade would mean giving up many goods."
+        },
+        {
+          "id": "d",
+          "label": "Bananas grow in North Carolina",
+          "correct": false,
+          "explanation": "Bananas cannot grow in North Carolina's climate. The fact they are in NC stores shows they were traded from tropical regions."
+        }
+      ],
+      "explanation_md": "Bananas grown in another country sold in a local store show that trade connects communities across great distances. Your community can get goods it cannot produce locally."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What does it mean to SPECIALIZE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To make a little of everything",
+          "correct": false,
+          "explanation": "Specializing is the opposite of making a little of everything. It means focusing on one type of work and becoming very good at it."
+        },
+        {
+          "id": "b",
+          "label": "To focus on doing one type of work really well",
+          "correct": true,
+          "explanation": "Specializing means focusing on one thing -- like a baker who only bakes, or a doctor who only practices medicine. This makes them very skilled at that one thing."
+        },
+        {
+          "id": "c",
+          "label": "To refuse to trade with others",
+          "correct": false,
+          "explanation": "Specializing actually leads to MORE trading -- you make one thing very well and trade it for the other things you need."
+        },
+        {
+          "id": "d",
+          "label": "To work in a special education classroom",
+          "correct": false,
+          "explanation": "In economics, specializing means focusing on one type of work or product -- not a reference to special education."
+        }
+      ],
+      "explanation_md": "To specialize means to focus on doing one type of work really well -- like a baker who only bakes, or a doctor who only practices medicine."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "In the early days of American communities, families often bartered with their neighbors. Today, most people buy and sell using money. Why might money be MORE useful than barter?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Money is heavier and easier to carry than goods",
+          "correct": false,
+          "explanation": "Money is lighter, not heavier, than goods. But weight is not the main reason money replaced barter."
+        },
+        {
+          "id": "b",
+          "label": "Money can be used to buy anything, while barter requires both people to want what the other has",
+          "correct": true,
+          "explanation": "Barter only works when both people want what the other has -- this is the 'double coincidence of wants' problem. Money solves this because it can be exchanged for anything."
+        },
+        {
+          "id": "c",
+          "label": "The government outlawed bartering",
+          "correct": false,
+          "explanation": "Barter is not illegal. People simply found money more convenient because it solves the limitations of barter."
+        },
+        {
+          "id": "d",
+          "label": "Bartering always leads to unfair trades",
+          "correct": false,
+          "explanation": "Barter can be perfectly fair when both parties agree on the value. Money simply makes trading more flexible and convenient."
+        }
+      ],
+      "explanation_md": "Barter only works when both people want what the other has. Money solves this problem because it can be exchanged for anything -- making trade much more flexible and efficient."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A community has a baker, a doctor, a farmer, and a teacher. Each one only does their own job. Why is this better than each person trying to do ALL four jobs?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it creates more paperwork",
+          "correct": false,
+          "explanation": "Paperwork is not the reason specialization is beneficial. The benefit is getting better results from focused skill."
+        },
+        {
+          "id": "b",
+          "label": "Because each person becomes very skilled at their one job and can do it better than someone who does many jobs",
+          "correct": true,
+          "explanation": "When someone focuses on one job all day every day, they get very good at it. A baker who bakes all day makes much better bread than someone who also tries to practice medicine, teach, and farm."
+        },
+        {
+          "id": "c",
+          "label": "Because it means fewer people need to work",
+          "correct": false,
+          "explanation": "Specialization does not reduce the number of workers needed -- everyone still works, but each focuses on their specialty."
+        },
+        {
+          "id": "d",
+          "label": "Because the government requires everyone to have only one job",
+          "correct": false,
+          "explanation": "The government does not require people to have only one job. Specialization happens because it is more efficient and productive."
+        }
+      ],
+      "explanation_md": "When someone focuses on one job, they become very skilled at it. Specialization leads to higher quality goods and services than if everyone tried to do everything."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student argues that communities should make everything themselves and not trade with other communities. What is the STRONGEST reason this idea would NOT work?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Communities would have too many goods and not know what to do with them",
+          "correct": false,
+          "explanation": "If a community made everything itself, it would actually have FEWER goods, not too many -- it would struggle to produce everything efficiently."
+        },
+        {
+          "id": "b",
+          "label": "No community has all the resources, skills, and land to produce everything it needs -- trade fills in the gaps",
+          "correct": true,
+          "explanation": "No single community has everything needed to make all goods and provide all services. NC cannot grow tropical fruit; tropical regions cannot mine Appalachian minerals. Trade lets each region provide what it does best."
+        },
+        {
+          "id": "c",
+          "label": "Making things is too difficult and people should not try",
+          "correct": false,
+          "explanation": "Making things is not the problem -- the issue is that no community has ALL the resources and skills needed for everything."
+        },
+        {
+          "id": "d",
+          "label": "Other communities would feel left out if they could not trade",
+          "correct": false,
+          "explanation": "While social connections matter, the strongest reason is the practical impossibility of producing everything locally -- not feelings."
+        }
+      ],
+      "explanation_md": "No single community has all the resources, skills, and land needed to produce everything it needs. Trade fills in the gaps, letting each community provide what it does best and get what it cannot make locally."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which pair shows one GOOD and one SERVICE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A book and a pencil",
+          "correct": false,
+          "explanation": "A book and a pencil are both goods -- they are physical objects you can hold."
+        },
+        {
+          "id": "b",
+          "label": "A haircut and a car wash",
+          "correct": false,
+          "explanation": "A haircut and a car wash are both services -- they are things people DO for you."
+        },
+        {
+          "id": "c",
+          "label": "A loaf of bread and teaching a lesson",
+          "correct": true,
+          "explanation": "A loaf of bread is a good (you can hold and eat it). Teaching a lesson is a service (something a teacher does for students). This pair has one of each."
+        },
+        {
+          "id": "d",
+          "label": "A toy and a video game",
+          "correct": false,
+          "explanation": "A toy and a video game are both goods -- physical objects you can hold."
+        }
+      ],
+      "explanation_md": "A loaf of bread is a good (physical object) and teaching a lesson is a service (something done for others). This pair has one good and one service."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Two children swap lunches -- one trades a sandwich for the other's apple. No money is used. This is an example of --",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Specializing",
+          "correct": false,
+          "explanation": "Specializing means focusing on one type of work. Swapping lunches is a trade -- specifically, barter."
+        },
+        {
+          "id": "b",
+          "label": "Barter",
+          "correct": true,
+          "explanation": "Barter is swapping goods or services without money. Trading a sandwich for an apple is barter -- two goods exchanged without any money."
+        },
+        {
+          "id": "c",
+          "label": "Buying and selling",
+          "correct": false,
+          "explanation": "Buying and selling uses money. No money was used in this sandwich-for-apple trade."
+        },
+        {
+          "id": "d",
+          "label": "A service",
+          "correct": false,
+          "explanation": "A service is something a person does for another. This is an exchange of goods (sandwich and apple) -- specifically, barter."
+        }
+      ],
+      "explanation_md": "Swapping a sandwich for an apple without money is barter -- exchanging goods directly without using money."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why does specialization and trade make a community stronger?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because it means everyone gets paid the same amount",
+          "correct": false,
+          "explanation": "Specialization and trade do not mean equal pay -- different specialists earn different amounts based on their skills and the demand for their work."
+        },
+        {
+          "id": "b",
+          "label": "Because each person does what they do best, producing more and better goods and services for everyone",
+          "correct": true,
+          "explanation": "When people specialize, they get very good at their one skill and produce better and more efficiently. Trade then distributes these goods and services throughout the community, making everyone better off."
+        },
+        {
+          "id": "c",
+          "label": "Because it reduces the number of jobs in a community",
+          "correct": false,
+          "explanation": "Specialization and trade do not reduce jobs -- they create a wider variety of specialized jobs and make the community more productive."
+        },
+        {
+          "id": "d",
+          "label": "Because it means communities no longer need to grow their own food",
+          "correct": false,
+          "explanation": "Specialization and trade do not eliminate food production -- they allow food producers to specialize and trade their food for other goods and services."
+        }
+      ],
+      "explanation_md": "Specialization allows each person to become very skilled at one thing and produce it efficiently. Trade then distributes these goods and services, making everyone in the community better off."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these can you hold in your hands?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A haircut",
+          "correct": false,
+          "explanation": "A haircut is a service -- something done to your hair. You cannot hold a haircut in your hands."
+        },
+        {
+          "id": "b",
+          "label": "A book",
+          "correct": true,
+          "explanation": "A book is a good -- it is a physical object you can hold in your hands."
+        },
+        {
+          "id": "c",
+          "label": "A doctor visit",
+          "correct": false,
+          "explanation": "A doctor visit is a service -- the doctor does something for you. You cannot hold a doctor visit."
+        },
+        {
+          "id": "d",
+          "label": "Teaching a student",
+          "correct": false,
+          "explanation": "Teaching is a service -- something a teacher does for students. You cannot hold teaching in your hands."
+        }
+      ],
+      "explanation_md": "A book is a good -- it is a physical object you can hold in your hands. Services like haircuts, doctor visits, and teaching are things people DO -- you cannot hold them."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is TRADE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Making your own goods at home",
+          "correct": false,
+          "explanation": "Making things at home is production -- not trade. Trade is exchanging goods or services with someone else."
+        },
+        {
+          "id": "b",
+          "label": "Exchanging goods or services with another person",
+          "correct": true,
+          "explanation": "Trade is exchanging goods or services with another person. This can be done with money (buying and selling) or without money (barter)."
+        },
+        {
+          "id": "c",
+          "label": "Using something until it is used up",
+          "correct": false,
+          "explanation": "Using something up is consuming -- not trading. Trade is giving something to get something else."
+        },
+        {
+          "id": "d",
+          "label": "Making rules for a community",
+          "correct": false,
+          "explanation": "Making rules is governance -- not trade. Trade is exchanging goods or services."
+        }
+      ],
+      "explanation_md": "Trade is exchanging goods or services with another person. You give something to get something else -- with money (buying and selling) or without money (barter)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Sam gives his friend three apples in exchange for a cookie. No money is used. What is this called?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Buying and selling",
+          "correct": false,
+          "explanation": "Buying and selling uses money. Sam and his friend did not use money -- they swapped goods directly."
+        },
+        {
+          "id": "b",
+          "label": "Barter",
+          "correct": true,
+          "explanation": "Barter is swapping goods or services without money. Sam gave apples and got a cookie -- no money was used. That is barter."
+        },
+        {
+          "id": "c",
+          "label": "Specializing",
+          "correct": false,
+          "explanation": "Specializing means focusing on one type of work. This exchange is barter."
+        },
+        {
+          "id": "d",
+          "label": "A service",
+          "correct": false,
+          "explanation": "A service is something a person does for another. This is an exchange of goods (apples and cookie) -- barter."
+        }
+      ],
+      "explanation_md": "Barter is swapping goods or services without using money. Sam gave apples and got a cookie -- no money was used. That is barter."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A teacher teaches students and gets paid money. The teacher uses that money to buy food. The food seller is happy. Who BENEFITS from this trade?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Only the teacher",
+          "correct": false,
+          "explanation": "Both the teacher and the food seller benefit. The teacher gets food; the food seller gets money to run their business."
+        },
+        {
+          "id": "b",
+          "label": "Only the food seller",
+          "correct": false,
+          "explanation": "Both benefit. The food seller gets money; the teacher gets food. Trade benefits both sides."
+        },
+        {
+          "id": "c",
+          "label": "Both the teacher and the food seller",
+          "correct": true,
+          "explanation": "Trade benefits both sides. The teacher gets food; the food seller gets money. Both get something they need."
+        },
+        {
+          "id": "d",
+          "label": "Neither -- trade only benefits communities, not people",
+          "correct": false,
+          "explanation": "Trade benefits individual people AND communities. The teacher and food seller both benefit directly from this exchange."
+        }
+      ],
+      "explanation_md": "Trade benefits both sides. The teacher gets food she needs; the food seller gets money to run her business. Both get something they need from the exchange."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do communities trade with other communities?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To make other communities feel bad",
+          "correct": false,
+          "explanation": "Communities trade to get what they need -- not to compete or make others feel bad."
+        },
+        {
+          "id": "b",
+          "label": "Because each community can get goods and services it cannot make or do on its own",
+          "correct": true,
+          "explanation": "No single community can produce everything it needs. Trade with other communities lets each community get goods and services it cannot produce locally."
+        },
+        {
+          "id": "c",
+          "label": "Because it is against the law to keep everything for yourself",
+          "correct": false,
+          "explanation": "There is no law requiring trade. Communities trade because it helps them get what they need."
+        },
+        {
+          "id": "d",
+          "label": "Only large cities trade with other communities",
+          "correct": false,
+          "explanation": "Communities of all sizes trade with other communities -- not just large cities."
+        }
+      ],
+      "explanation_md": "Communities trade with other communities because no single community can produce everything it needs. Trade lets each community get goods and services it cannot make or provide on its own."
+    }
+  ]
+}
