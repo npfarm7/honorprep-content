@@ -1,0 +1,552 @@
+{
+  "skill_id": "MA.2.GR.2.2",
+  "benchmark_description": "Compose and decompose two-dimensional figures. Determine if a figure is composed of two or more smaller shapes.",
+  "course": "math",
+  "strand": "Geometric Reasoning",
+  "lesson": {
+    "title": "Building and Breaking Apart Shapes",
+    "objective": "Students will compose (build) larger shapes from smaller shapes, and decompose (break apart) larger shapes into smaller shapes.",
+    "vocabulary": [
+      "compose",
+      "decompose",
+      "two-dimensional",
+      "combine",
+      "partition",
+      "triangle",
+      "rectangle",
+      "square",
+      "hexagon",
+      "trapezoid",
+      "rhombus"
+    ],
+    "introduction": "COMPOSE means to put pieces together to make something bigger. DECOMPOSE means to take something apart into smaller pieces. When we work with shapes, we can compose smaller shapes to make a bigger shape. We can also decompose (break apart) a bigger shape to see what smaller shapes are hiding inside it! This is like building puzzles or taking them apart.",
+    "content": [
+      {
+        "section": "Composing Shapes",
+        "explanation": "To COMPOSE shapes, we put two or more smaller shapes together to make a new, larger shape. Here are some examples:\n\n\u2022 Two triangles \u2192 can make a rectangle or a square\n\u2022 Two squares \u2192 can make a rectangle\n\u2022 Three squares \u2192 can make a larger rectangle\n\u2022 Two rectangles \u2192 can make a larger rectangle or an L-shape\n\u2022 Six triangles \u2192 can make a hexagon\n\u2022 Two trapezoids \u2192 can make a hexagon",
+        "example": "Take two right triangles and put them together along their longest side. What new shape do you get? A rectangle!\n\nTake two small squares and put them side by side. What new shape do you get? A larger rectangle!"
+      },
+      {
+        "section": "Decomposing Shapes",
+        "explanation": "To DECOMPOSE a shape, we draw lines inside it to break it into smaller shapes. Here are some examples:\n\n\u2022 A square can be decomposed into:\n  - 2 triangles (draw a diagonal)\n  - 2 rectangles (draw a line down the middle)\n  - 4 smaller squares (draw one line across and one line down)\n\n\u2022 A rectangle can be decomposed into:\n  - 2 squares (if it is twice as long as it is wide)\n  - 2 triangles\n  - 4 smaller rectangles\n\n\u2022 A hexagon can be decomposed into:\n  - 2 trapezoids\n  - 6 triangles\n  - 3 rhombuses",
+        "example": "Look at a rectangle. If you draw a line diagonally from one corner to the opposite corner, you split it into 2 triangles!"
+      },
+      {
+        "section": "Is This Shape Made of Smaller Shapes?",
+        "explanation": "We can look at a shape and ask: 'What smaller shapes make this up?' This is decomposing with our eyes.\n\nSteps:\n1. Look at the big shape.\n2. Can you see any straight lines inside it, or where you could draw them?\n3. Identify the smaller shapes.\n4. Name them.",
+        "example": "You see a shape that looks like a house (a pentagon with a flat bottom and a pointed top). If you look carefully, you can see it is composed of:\n- A square or rectangle (the house body)\n- A triangle (the roof)"
+      }
+    ],
+    "summary": "Compose means to PUT shapes TOGETHER to make bigger shapes. Decompose means to BREAK shapes APART into smaller shapes. Two triangles can make a rectangle. A rectangle can be split into two squares. A hexagon can be split into 2 trapezoids or 6 triangles. Shapes can be built or broken apart in different ways!"
+  },
+  "practice_questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Two triangles are put together along their longest sides. What new shape do they make?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A rectangle",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "A circle",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "A hexagon",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Two squares are placed side by side. What shape do they make?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A square",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A rectangle",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A circle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A square is divided into 2 equal parts by drawing a line from the top-left corner to the bottom-right corner. What 2 shapes are made?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Two rectangles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Two squares",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Two triangles",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Two circles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A regular hexagon is split into equal parts. Which shapes could the hexagon be made of?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "6 circles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "6 triangles",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "6 squares",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "6 rectangles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Elena sees a shape that looks like a house. It has a rectangle on the bottom and a triangle on top. What is the name of the shape formed by putting these two shapes together?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A rectangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A hexagon",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A pentagon",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A square",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A large rectangle can be decomposed into 4 equal smaller rectangles. How many sides does each small rectangle have?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Jake used 3 small squares to make one large shape. He placed them all in a row. What shape did he make?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A large square",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A long rectangle",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "A hexagon",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A rectangle is divided into 2 equal squares. What must be true about the rectangle?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "The rectangle is taller than it is wide",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "The length of the rectangle is exactly twice its width",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "The rectangle has only 3 sides",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "The rectangle is the same as a triangle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Sofia composed a shape using 2 triangles and 1 rectangle. Which large shape could she have made?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A circle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A larger triangle",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A pentagon or irregular shape",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A hexagon",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A shape is decomposed into 2 trapezoids that are equal in size. What shape was the original figure?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A circle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A hexagon",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A square",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Carlos looks at a large square. He draws one line across the middle (horizontally). What two shapes does he create?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Two triangles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Two rectangles",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Two squares",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Two hexagons",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Mia uses pattern blocks. She puts 2 trapezoids together to make one bigger shape. What shape does she make?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A square",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A hexagon",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A rectangle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A large shape is made of a square and 4 triangles \u2014 one on each side of the square, pointing outward. How many sides does the large shape have?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "remediation": [
+    {
+      "id": "r1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "What does 'compose' mean when working with shapes?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Break a shape apart",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Put shapes together to make a bigger shape",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Draw a shape on paper",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Color a shape",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "What does 'decompose' mean when working with shapes?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Make a shape bigger",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Color a shape",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Break a shape into smaller shapes",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Copy a shape",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Two squares are put together side by side. What bigger shape do they make?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A circle",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A rectangle",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A hexagon",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A square is cut in half with a straight line from corner to corner. What two shapes are made?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Two squares",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Two triangles",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Two rectangles",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Two circles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Ava is making a picture. She puts a rectangle and a triangle together to make a shape that looks like a house. How many shapes did she use?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
