@@ -1,0 +1,564 @@
+{
+  "skill_id": "MA.2.GR.2.1",
+  "benchmark_description": "Explore and describe the relationship between two-dimensional and three-dimensional figures.",
+  "course": "math",
+  "strand": "Geometric Reasoning",
+  "lesson": {
+    "title": "Connecting 2D and 3D Shapes",
+    "objective": "Students will explore the relationship between two-dimensional shapes and three-dimensional figures and identify 2D faces on 3D shapes.",
+    "vocabulary": [
+      "two-dimensional",
+      "three-dimensional",
+      "flat",
+      "solid",
+      "face",
+      "edge",
+      "vertex",
+      "vertices",
+      "cube",
+      "sphere",
+      "cylinder",
+      "cone",
+      "rectangular prism",
+      "pyramid",
+      "circle",
+      "square",
+      "rectangle",
+      "triangle"
+    ],
+    "introduction": "Some shapes are FLAT \u2014 they have only length and width. We call these two-dimensional (2D) shapes. Other shapes are SOLID \u2014 they have length, width, AND height. We call these three-dimensional (3D) figures. Many 3D figures have FACES, which are the flat 2D shapes that make up their surfaces. You can see the connection between 2D and 3D: the flat faces ON a 3D shape are 2D shapes!",
+    "content": [
+      {
+        "section": "Two-Dimensional Shapes",
+        "explanation": "Two-dimensional shapes are flat. They have only two measurements: length and width. Examples: circle, square, rectangle, triangle, hexagon. You can draw them on paper. They have NO depth.",
+        "example": "A square is 2D \u2014 it is flat. You can draw it on paper.\nA circle is 2D \u2014 it is flat. Like a coin lying flat."
+      },
+      {
+        "section": "Three-Dimensional Figures",
+        "explanation": "Three-dimensional figures are solid. They have THREE measurements: length, width, AND height (or depth). They take up space. Examples: cube, sphere, cylinder, cone, rectangular prism, pyramid. You can hold them in your hands.",
+        "example": "A cube is 3D \u2014 like a block or a die. It has length, width, AND height.\nA sphere is 3D \u2014 like a ball. It is perfectly round in all directions."
+      },
+      {
+        "section": "Faces of 3D Figures",
+        "explanation": "A FACE is a flat surface on a 3D figure. The face IS a 2D shape. This is the key relationship: 3D figures are built from 2D shapes!\n\nCube: has 6 faces \u2014 all are squares\nRectangular Prism: has 6 faces \u2014 all are rectangles (some may be squares too)\nPyramid: has a rectangle or square on bottom, and triangles on the sides\nCone: has 1 circular face (the base)\nCylinder: has 2 circular faces (top and bottom)\nSphere: has NO flat faces \u2014 it is completely round",
+        "example": "Look at a tissue box. It is a rectangular prism. Each flat side you can see is a rectangle \u2014 that's a face!\nLook at an ice cream cone. The opening at the top is a circle \u2014 that's a face on the cone!"
+      },
+      {
+        "section": "Edges and Vertices",
+        "explanation": "Edges are the straight lines where two faces meet. Vertices (singular: vertex) are the corner points where edges meet. 2D shapes also have sides and vertices. The sides of a 2D shape become faces and edges on a 3D figure.",
+        "example": "A square has 4 sides and 4 vertices.\nA cube has 12 edges and 8 vertices, and all 6 faces are squares.\nSo the square (2D) is the face of a cube (3D)."
+      }
+    ],
+    "summary": "Two-dimensional shapes are flat (circle, square, rectangle, triangle). Three-dimensional figures are solid (cube, sphere, cylinder, cone, rectangular prism, pyramid). The flat surfaces on a 3D figure are called FACES, and faces are 2D shapes. A cube's faces are squares. A cylinder's bases are circles. This is the connection between 2D and 3D."
+  },
+  "practice_questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Which of these is a THREE-DIMENSIONAL figure?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Circle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Square",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Cube",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Triangle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Which of these is a TWO-DIMENSIONAL shape?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Sphere",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Cone",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Cylinder",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Rectangle",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "What 2D shape are the FACES on a cube?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Circles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangles",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Squares",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Rectangles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A cylinder has two circular bases. Which 2D shape is the face of a cylinder?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Square",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Rectangle",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Circle",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Pedro traced the bottom of a cone on a piece of paper. What shape did he draw?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Square",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Circle",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Rectangle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A rectangular prism is like a cereal box. Which 2D shapes make up its faces?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Circles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangles",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Squares only",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Rectangles (and sometimes squares)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A square pyramid has a square base and four sides. What 2D shapes are the four SIDE faces of a pyramid?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Circles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangles",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Squares",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Rectangles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A sphere looks like a ball. How many FLAT faces does a sphere have?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "0",
+          "correct": true
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Lily pressed each face of a cube into paint and stamped it on paper. What shapes appeared on the paper?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Circles",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangles",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Squares",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Rectangles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Marcus has a 3D figure. When he traces any face onto paper, he always gets a rectangle. What 3D figure does Marcus most likely have?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Cone",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Sphere",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Rectangular prism",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Pyramid",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Ms. Kim asked students to build a 3D figure using flat faces that are all squares. Which 3D figure could they build?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Sphere",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Cylinder",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Cube",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Cone",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "Tom is sorting shapes. He puts circles, squares, and triangles in one group. He puts cubes, cylinders, and cones in another group. What is the BEST name for the second group?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Two-dimensional shapes",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Three-dimensional figures",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Flat shapes",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Shapes with corners",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "Ana traced the bottom of a cylinder onto paper. Then she traced one face of a cube onto paper. Which statement is true?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "She drew a circle and a triangle",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "She drew a circle and a square",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "She drew a square and a circle",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "She drew two squares",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "remediation": [
+    {
+      "id": "r1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Which of these is FLAT (two-dimensional)?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A ball",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A block",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A triangle drawn on paper",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A can",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "Which of these is SOLID (three-dimensional)?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "A circle drawn on paper",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "A square drawn on paper",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "A box of cereal",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "A triangle drawn on paper",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "The flat surface of a 3D figure is called a ___.",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Edge",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Face",
+          "correct": true
+        },
+        {
+          "label": "c",
+          "text": "Vertex",
+          "correct": false
+        },
+        {
+          "label": "d",
+          "text": "Corner",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A soup can looks like a cylinder. What shape are the two ends (top and bottom) of the can?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "Squares",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "Triangles",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "Circles",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "Rectangles",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "Mia has a cube. She counts the flat faces. How many faces does a cube have?",
+      "choices": [
+        {
+          "label": "a",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
