@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.02",
+  "benchmark_description": "Compare and contrast communities, including urban, suburban, and rural communities.",
+  "course": "social_studies",
+  "strand": "GEO",
+  "lesson": {
+    "title": "Urban, Suburban, and Rural Communities",
+    "intro": "Did you know that communities come in different sizes and shapes? Some are big and busy, some are in between, and some are quiet with wide open spaces. Let's learn how to tell them apart!",
+    "body_md": "## Three Kinds of Communities\n\nThere are three main types of communities:\n\n1. **Urban** \u2014 big city\n2. **Suburban** \u2014 near a city\n3. **Rural** \u2014 in the country\n\n## Urban Communities\n\nAn **urban** community is a large city. Cities like Nashville, Memphis, and Knoxville are urban communities.\n\n- Many tall buildings\n- Lots of people\n- Busy streets and traffic\n- Apartments and houses close together\n- Many stores and restaurants\n- Public transportation like buses\n\n## Suburban Communities\n\nA **suburban** community is located **near** a big city. Suburbs are smaller than cities but bigger than country towns.\n\n- Houses with yards\n- Shopping centers and schools\n- Quieter than a city\n- Many families with children\n- People often drive to the city for work\n\n## Rural Communities\n\nA **rural** community is out in the country, away from cities.\n\n- Farms and fields\n- Few buildings\n- Small population (fewer people)\n- Wide open spaces\n- Neighbors may live far apart\n- May have a small town center\n\n## Comparing the Three Types\n\n| Feature | Urban | Suburban | Rural |\n|---|---|---|---|\n| Size | Very large | Medium | Small |\n| Population | Many people | Some people | Few people |\n| Buildings | Tall, close together | Houses with yards | Spread out |\n| Land use | Business, apartments | Homes, schools | Farms, fields |\n| Distance from city | IN the city | Near the city | Far from city |\n\n## Things That Are the Same\n\nAll three types of communities have:\n- People who work and go to school\n- Local leaders (like a mayor)\n- Stores and places to buy food\n- People who help each other\n\n## Tennessee Examples\n\n- **Urban:** Nashville, Memphis, Knoxville, Chattanooga\n- **Suburban:** Brentwood (near Nashville), Collierville (near Memphis)\n- **Rural:** Many small towns across Tennessee, like Pikeville or Surgoinsville",
+    "worked_example_md": "## Worked Example: Sorting Communities\n\n**Question:** Read each description. Decide if the community is urban, suburban, or rural.\n\n**Community A:** \"Our town has one grocery store, three farms, and wide open fields. Our nearest neighbor is half a mile away.\"\n\n**Community B:** \"My neighborhood has houses with backyards. There are good schools and a shopping center. My parents drive 15 minutes to the big city for work.\"\n\n**Community C:** \"Our city has skyscrapers, subway trains, and thousands of people walking on every street.\"\n\n**Step 1:** Look for clue words.\n- A: farms, wide open fields, neighbor far away = **Rural**\n- B: houses with yards, near a city, drive to work = **Suburban**\n- C: skyscrapers, subway trains, thousands of people = **Urban**\n\n**Answer:** Community A is **rural**, Community B is **suburban**, Community C is **urban**.",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which type of community is a large city with tall buildings?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are in the country with farms, not tall buildings."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban communities are near cities but are not large cities themselves."
+        },
+        {
+          "id": "c",
+          "label": "Urban",
+          "correct": true,
+          "explanation": "Urban communities are large cities with tall buildings and many people."
+        },
+        {
+          "id": "d",
+          "label": "Island",
+          "correct": false,
+          "explanation": "Island is not one of the three community types."
+        }
+      ],
+      "explanation_md": "Urban communities are large cities with tall buildings, busy streets, and many people."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which type of community has farms and wide open fields?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban communities are near cities and have houses, not mainly farms."
+        },
+        {
+          "id": "b",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban communities are cities with buildings, not farms."
+        },
+        {
+          "id": "c",
+          "label": "Rural",
+          "correct": true,
+          "explanation": "Rural communities are in the country with farms and wide open fields."
+        },
+        {
+          "id": "d",
+          "label": "Downtown",
+          "correct": false,
+          "explanation": "Downtown is part of a city (urban), not a community type."
+        }
+      ],
+      "explanation_md": "Rural communities are in the country. They have farms, fields, and few people."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Anna lives in a neighborhood with houses and yards. She rides a school bus to her nearby school. Her parents drive 20 minutes to the city to work. What type of community does Anna live in?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban communities are cities. Anna's neighborhood is near the city but not in it."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": true,
+          "explanation": "Suburban communities are near cities, have houses with yards, and good schools."
+        },
+        {
+          "id": "c",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are far from cities and have farms. Anna lives near a city."
+        },
+        {
+          "id": "d",
+          "label": "Mountain",
+          "correct": false,
+          "explanation": "Mountain is not one of the three community types."
+        }
+      ],
+      "explanation_md": "Anna's community is suburban. Suburban communities are near cities and have houses with yards and good schools."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which community has the **most** people?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities have the fewest people."
+        },
+        {
+          "id": "b",
+          "label": "Urban",
+          "correct": true,
+          "explanation": "Urban communities are large cities with the most people."
+        },
+        {
+          "id": "c",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban communities have more people than rural but fewer than urban."
+        },
+        {
+          "id": "d",
+          "label": "All communities have the same number",
+          "correct": false,
+          "explanation": "The three types have different population sizes."
+        }
+      ],
+      "explanation_md": "Urban communities are the largest and have the most people."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How are suburban and rural communities **alike**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Both are located in the country far from cities",
+          "correct": false,
+          "explanation": "Only rural communities are far from cities. Suburban communities are near cities."
+        },
+        {
+          "id": "b",
+          "label": "Both have skyscrapers and busy streets",
+          "correct": false,
+          "explanation": "Skyscrapers and busy streets are features of urban communities, not suburban or rural."
+        },
+        {
+          "id": "c",
+          "label": "Both have fewer people than urban communities",
+          "correct": true,
+          "explanation": "Both suburban and rural communities have smaller populations than large urban cities."
+        },
+        {
+          "id": "d",
+          "label": "Both are exactly the same size",
+          "correct": false,
+          "explanation": "Suburban communities are generally larger than rural communities."
+        }
+      ],
+      "explanation_md": "Both suburban and rural communities have fewer people than urban cities, even though they are different from each other."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Nashville, Tennessee is a community with skyscrapers, many restaurants, and public buses. Nashville is best described as:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are country areas with farms. Nashville is a large city."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban communities are smaller neighborhoods near cities. Nashville itself is the city."
+        },
+        {
+          "id": "c",
+          "label": "Urban",
+          "correct": true,
+          "explanation": "Nashville is a large city with skyscrapers and public transit, making it urban."
+        },
+        {
+          "id": "d",
+          "label": "Farming",
+          "correct": false,
+          "explanation": "Farming is not a community type. Nashville is an urban city."
+        }
+      ],
+      "explanation_md": "Nashville is an urban community because it is a large city with skyscrapers and public transportation."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which is a difference between urban and rural communities?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban communities have people; rural ones do not",
+          "correct": false,
+          "explanation": "Both urban and rural communities have people living in them."
+        },
+        {
+          "id": "b",
+          "label": "Urban communities have many buildings close together; rural communities have open land",
+          "correct": true,
+          "explanation": "Cities have buildings packed together. Rural areas have open fields and farms."
+        },
+        {
+          "id": "c",
+          "label": "Rural communities have more people than urban ones",
+          "correct": false,
+          "explanation": "Urban communities have more people. Rural communities have fewer people."
+        },
+        {
+          "id": "d",
+          "label": "Both types look exactly the same",
+          "correct": false,
+          "explanation": "Urban and rural communities look very different from each other."
+        }
+      ],
+      "explanation_md": "Urban communities have many buildings close together. Rural communities have open land, farms, and fewer buildings."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which community type is located **between** a large city and the country?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban communities ARE the large city."
+        },
+        {
+          "id": "b",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are in the country, far from cities."
+        },
+        {
+          "id": "c",
+          "label": "Suburban",
+          "correct": true,
+          "explanation": "Suburban communities are located between large cities and the open country."
+        },
+        {
+          "id": "d",
+          "label": "Coastal",
+          "correct": false,
+          "explanation": "Coastal is not one of the three community types."
+        }
+      ],
+      "explanation_md": "Suburban communities sit between large cities and rural country areas."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Jaylen's family moved from a farm with many open fields to a busy city neighborhood with apartment buildings. What change did they make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "From suburban to urban",
+          "correct": false,
+          "explanation": "A farm with open fields is rural, not suburban."
+        },
+        {
+          "id": "b",
+          "label": "From rural to urban",
+          "correct": true,
+          "explanation": "A farm with open fields is rural. A busy city with apartments is urban."
+        },
+        {
+          "id": "c",
+          "label": "From urban to suburban",
+          "correct": false,
+          "explanation": "This choice has the direction backwards. They moved to the city, not away from it."
+        },
+        {
+          "id": "d",
+          "label": "From suburban to rural",
+          "correct": false,
+          "explanation": "This choice also has the direction backwards and misidentifies the farm as suburban."
+        }
+      ],
+      "explanation_md": "A farm with open fields is a rural community. A busy city with apartment buildings is an urban community."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "All three community types (urban, suburban, rural) are alike in which way?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They all have farms and open fields",
+          "correct": false,
+          "explanation": "Only rural communities typically have farms and open fields."
+        },
+        {
+          "id": "b",
+          "label": "They all have skyscrapers and subway systems",
+          "correct": false,
+          "explanation": "Skyscrapers and subways are found in urban communities, not all three types."
+        },
+        {
+          "id": "c",
+          "label": "They all have people, leaders, and places to buy food",
+          "correct": true,
+          "explanation": "All communities, no matter the type, have people, some form of local leadership, and places where people can get food."
+        },
+        {
+          "id": "d",
+          "label": "They are all the same size",
+          "correct": false,
+          "explanation": "The three types vary greatly in size and population."
+        }
+      ],
+      "explanation_md": "All communities have people, local leaders, and stores or markets for food, no matter their size."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student visits three communities. Community 1 has skyscrapers. Community 2 has farms. Community 3 has houses near a city. Which labels match?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "1 = Suburban, 2 = Rural, 3 = Urban",
+          "correct": false,
+          "explanation": "Skyscrapers belong to urban, not suburban."
+        },
+        {
+          "id": "b",
+          "label": "1 = Urban, 2 = Rural, 3 = Suburban",
+          "correct": true,
+          "explanation": "Skyscrapers = urban, farms = rural, houses near a city = suburban."
+        },
+        {
+          "id": "c",
+          "label": "1 = Rural, 2 = Suburban, 3 = Urban",
+          "correct": false,
+          "explanation": "Skyscrapers are urban, not rural. Farms are rural, not suburban."
+        },
+        {
+          "id": "d",
+          "label": "1 = Urban, 2 = Suburban, 3 = Rural",
+          "correct": false,
+          "explanation": "Farms are rural, not suburban. Houses near a city are suburban, not rural."
+        }
+      ],
+      "explanation_md": "Skyscrapers = urban, farms = rural, houses near a city = suburban."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which statement is true about rural communities?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural communities have the most people",
+          "correct": false,
+          "explanation": "Urban communities have the most people. Rural communities have the fewest."
+        },
+        {
+          "id": "b",
+          "label": "Rural communities are found inside large cities",
+          "correct": false,
+          "explanation": "Rural communities are in the country, far from large cities."
+        },
+        {
+          "id": "c",
+          "label": "Rural communities have fewer people and more open land than urban communities",
+          "correct": true,
+          "explanation": "Rural communities are in the country with fewer people and lots of open land like farms and fields."
+        },
+        {
+          "id": "d",
+          "label": "Rural communities always have skyscrapers",
+          "correct": false,
+          "explanation": "Skyscrapers are in cities (urban communities), not rural areas."
+        }
+      ],
+      "explanation_md": "Rural communities have fewer people and more open land, like farms and fields, compared to urban communities."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How is a suburban community different from a rural community?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Suburban communities are far from cities; rural communities are close to cities",
+          "correct": false,
+          "explanation": "This is backwards. Suburban communities are near cities; rural communities are far from them."
+        },
+        {
+          "id": "b",
+          "label": "Suburban communities are near cities; rural communities are far from cities",
+          "correct": true,
+          "explanation": "Suburban communities are located near large cities. Rural communities are in the country, far from cities."
+        },
+        {
+          "id": "c",
+          "label": "Both suburban and rural communities are in large cities",
+          "correct": false,
+          "explanation": "Neither suburban nor rural communities are large cities. Urban communities are large cities."
+        },
+        {
+          "id": "d",
+          "label": "They are not different; they are the same type of community",
+          "correct": false,
+          "explanation": "Suburban and rural communities are two different types with clear differences."
+        }
+      ],
+      "explanation_md": "Suburban communities are near large cities. Rural communities are far from cities, out in the country."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A big city with many buildings is called a(n) _____ community.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural means in the country with farms, not a big city."
+        },
+        {
+          "id": "b",
+          "label": "Urban",
+          "correct": true,
+          "explanation": "Urban means a big city with many buildings and people."
+        },
+        {
+          "id": "c",
+          "label": "Farm",
+          "correct": false,
+          "explanation": "Farm is not a community type. Farms are found in rural communities."
+        },
+        {
+          "id": "d",
+          "label": "Island",
+          "correct": false,
+          "explanation": "Island is not one of the three community types."
+        }
+      ],
+      "explanation_md": "Urban communities are big cities with many buildings and lots of people."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A community with farms and open fields is called:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban means a big city, not farms."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban means near a city, not in the country with farms."
+        },
+        {
+          "id": "c",
+          "label": "Rural",
+          "correct": true,
+          "explanation": "Rural communities are in the country and often have farms and open fields."
+        },
+        {
+          "id": "d",
+          "label": "Harbor",
+          "correct": false,
+          "explanation": "Harbor is not one of the three community types."
+        }
+      ],
+      "explanation_md": "Rural communities are in the country. They have farms, fields, and open land."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A community that is located near a big city is called:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban is the big city itself, not the community near it."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": true,
+          "explanation": "Suburban communities are located near big cities."
+        },
+        {
+          "id": "c",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are in the country, far from big cities."
+        },
+        {
+          "id": "d",
+          "label": "Plain",
+          "correct": false,
+          "explanation": "Plain is a land feature, not a community type."
+        }
+      ],
+      "explanation_md": "Suburban communities are located near big cities."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which community has the fewest people?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban communities have the most people."
+        },
+        {
+          "id": "b",
+          "label": "Suburban",
+          "correct": false,
+          "explanation": "Suburban communities have more people than rural areas."
+        },
+        {
+          "id": "c",
+          "label": "Rural",
+          "correct": true,
+          "explanation": "Rural communities have the fewest people because they are in the country."
+        },
+        {
+          "id": "d",
+          "label": "All have the same amount",
+          "correct": false,
+          "explanation": "The three community types have different numbers of people."
+        }
+      ],
+      "explanation_md": "Rural communities have the fewest people. They are in the country with farms and open land."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Mia's house has a yard. She goes to a school nearby. The city is 10 minutes away. Mia lives in a _____ community.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Rural",
+          "correct": false,
+          "explanation": "Rural communities are in the country far from cities. Mia is only 10 minutes from a city."
+        },
+        {
+          "id": "b",
+          "label": "Urban",
+          "correct": false,
+          "explanation": "Urban communities are big cities. Mia lives near the city, not in it."
+        },
+        {
+          "id": "c",
+          "label": "Suburban",
+          "correct": true,
+          "explanation": "Mia's house has a yard, there is a school nearby, and the city is close. That is suburban."
+        },
+        {
+          "id": "d",
+          "label": "Farming",
+          "correct": false,
+          "explanation": "Farming is not a community type."
+        }
+      ],
+      "explanation_md": "Mia's community is suburban. Suburban communities have houses with yards and are near big cities."
+    }
+  ]
+}
