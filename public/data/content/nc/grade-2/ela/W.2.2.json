@@ -1,0 +1,613 @@
+{
+  "skill_id": "W.2.2",
+  "benchmark_description": "Write informative/explanatory texts in which they introduce a topic, use facts and definitions to develop points, and provide a concluding statement or section.",
+  "course": "ela",
+  "strand": "W",
+  "lesson": {
+    "title": "Writing to Inform: Share What You Know!",
+    "intro": "Informational writing teaches the reader about a topic. Instead of sharing your opinion, you share facts and information that help the reader understand something new. Let's learn how to write a great informational text!",
+    "body_md": "## What Is Informational Writing?\n\nInformational writing (also called **explanatory writing**) teaches readers about a real topic. You are not trying to convince anyone of anything \u2014 you are sharing facts!\n\n**Opinion:** 'Dolphins are amazing animals.'\n**Informational:** 'Dolphins are mammals that live in the ocean. They breathe air through a blowhole on top of their head.'\n\n## Parts of an Informational Text\n\n| Part | What It Does |\n|---|---|\n| **Introduction** | Introduces the topic and gets the reader interested |\n| **Facts and definitions** | Teaches the reader about the topic using true information |\n| **Concluding statement** | Wraps up the text and gives the reader a sense of completion |\n\n## Using Facts and Definitions\n\n**Facts** are true statements that can be checked.\n- 'Butterflies have four wings.'\n- 'The Amazon River is in South America.'\n\n**Definitions** explain what a word or term means.\n- 'A habitat is the natural place where an animal lives.'\n- 'Photosynthesis is the process plants use to make food from sunlight.'\n\n## Strong Informational Writing Tips\n\n- Stay on topic \u2014 every sentence should be about your main topic\n- Use specific facts, not vague ones ('Elephants can weigh up to 13,000 pounds' is better than 'Elephants are big')\n- Define words your reader might not know\n- Write a conclusion that wraps up your explanation",
+    "worked_example_md": "## Worked Example\n\n**Topic:** Honeybees\n\n**Informational Text:**\n\n> Honeybees are one of the most important insects on Earth. A honeybee is a small, flying insect with yellow and black stripes. Bees live together in large groups called colonies. Inside each colony, there is one queen bee whose job is to lay eggs. Worker bees gather nectar from flowers and turn it into honey. Bees also help plants grow by carrying pollen from flower to flower. Without bees, many of the fruits and vegetables we eat would not exist. Honeybees play a vital role in keeping our world's food supply healthy.\n\n**Analysis:**\n- **Introduction:** 'Honeybees are one of the most important insects on Earth.'\n- **Definition:** 'A colony is a large group of bees.'\n- **Facts:** Size of colony, queen's job, worker bees' job, pollination\n- **Conclusion:** 'Honeybees play a vital role in keeping our world's food supply healthy.'",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence belongs in an **informational text** about rain?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "I love rain because it makes the flowers bloom.",
+          "correct": false,
+          "explanation": "This sentence includes the writer's opinion ('I love rain'). Informational writing uses facts, not personal opinions."
+        },
+        {
+          "id": "b",
+          "label": "Rain is water that falls from clouds when they become too heavy.",
+          "correct": true,
+          "explanation": "This is a fact about how rain forms. It does not include the writer's opinion. It belongs in an informational text."
+        },
+        {
+          "id": "c",
+          "label": "Rain is the best kind of weather.",
+          "correct": false,
+          "explanation": "'Best kind' is an opinion. Informational text uses facts."
+        },
+        {
+          "id": "d",
+          "label": "I wish it would rain more often.",
+          "correct": false,
+          "explanation": "This is the writer's personal wish, not a fact. Informational writing uses facts."
+        }
+      ],
+      "explanation_md": "'Rain is water that falls from clouds when they become too heavy' is a fact that explains what rain is. Facts belong in informational text."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'A habitat is the natural place where an animal lives.'\n\nWhat is this sentence an example of?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An opinion",
+          "correct": false,
+          "explanation": "This is not an opinion. It does not say what the writer thinks or feels."
+        },
+        {
+          "id": "b",
+          "label": "A definition",
+          "correct": true,
+          "explanation": "This sentence explains what the word 'habitat' means. Definitions explain what words or terms mean."
+        },
+        {
+          "id": "c",
+          "label": "A concluding statement",
+          "correct": false,
+          "explanation": "A concluding statement wraps up the whole text. This sentence defines one word."
+        },
+        {
+          "id": "d",
+          "label": "A linking word",
+          "correct": false,
+          "explanation": "Linking words are words like because, and, also. This is a full sentence defining a term."
+        }
+      ],
+      "explanation_md": "'A habitat is the natural place where an animal lives' defines the word habitat. This is a definition, which is an important tool in informational writing."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing about the sun. Which sentence is the BEST **introduction** for an informational piece?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The sun is yellow and round.",
+          "correct": false,
+          "explanation": "While true, this is too simple as an introduction. A good introduction gets the reader interested and introduces the topic broadly."
+        },
+        {
+          "id": "b",
+          "label": "The sun is a star at the center of our solar system, and without it, no life on Earth would exist.",
+          "correct": true,
+          "explanation": "This introduction names the topic (the sun), gives a key fact (it is a star at the center of our solar system), and hooks the reader with an interesting fact (life needs it)."
+        },
+        {
+          "id": "c",
+          "label": "I really like the sun because it is warm.",
+          "correct": false,
+          "explanation": "This is a personal opinion, not an informational introduction."
+        },
+        {
+          "id": "d",
+          "label": "The sun is the conclusion of our solar system.",
+          "correct": false,
+          "explanation": "This sentence is not factually accurate and does not serve as a good introduction."
+        }
+      ],
+      "explanation_md": "A good informational introduction introduces the topic broadly and hooks the reader. 'The sun is a star at the center of our solar system, and without it, no life on Earth would exist' does both."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the paragraph below, then answer the question.\n\n> Frogs are amphibians. An amphibian is an animal that can live both on land and in water. Frogs have long legs that help them jump great distances. Some frogs can jump up to 20 times their own body length!\n\nWhich sentence in this paragraph is a **definition**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Frogs are amphibians.'",
+          "correct": false,
+          "explanation": "This is a fact that classifies frogs. It does not define what an amphibian is."
+        },
+        {
+          "id": "b",
+          "label": "'An amphibian is an animal that can live both on land and in water.'",
+          "correct": true,
+          "explanation": "This sentence explains what the word 'amphibian' means. It is a definition."
+        },
+        {
+          "id": "c",
+          "label": "'Frogs have long legs that help them jump great distances.'",
+          "correct": false,
+          "explanation": "This is a fact about frog body structure. It does not define a word."
+        },
+        {
+          "id": "d",
+          "label": "'Some frogs can jump up to 20 times their own body length!'",
+          "correct": false,
+          "explanation": "This is a specific fact about how far frogs can jump, not a definition."
+        }
+      ],
+      "explanation_md": "'An amphibian is an animal that can live both on land and in water' defines the word amphibian. It explains what the term means. That is a definition."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing about how spiders make webs. Read the two sentences below:\n\n**Sentence A:** 'Spiders are cool animals.'\n**Sentence B:** 'Spiders produce silk from organs in their body called spinnerets.'\n\nWhich sentence is more useful for an informational text, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sentence A, because it tells how the writer feels about spiders.",
+          "correct": false,
+          "explanation": "Informational writing does not focus on how the writer feels. Sentence A is an opinion, not a fact."
+        },
+        {
+          "id": "b",
+          "label": "Sentence B, because it gives a specific fact and defines an important term (spinnerets).",
+          "correct": true,
+          "explanation": "Sentence B gives a specific fact about how spiders make silk and defines the term 'spinnerets.' This is exactly what informational writing should do."
+        },
+        {
+          "id": "c",
+          "label": "Sentence A, because it is easier to understand.",
+          "correct": false,
+          "explanation": "Simplicity is not the goal of informational writing. Specific, accurate information (like in Sentence B) is more valuable."
+        },
+        {
+          "id": "d",
+          "label": "Both sentences are equally good for informational writing.",
+          "correct": false,
+          "explanation": "Sentence A is an opinion and belongs in opinion writing. Sentence B is a specific fact with a definition. They are not equally useful for informational writing."
+        }
+      ],
+      "explanation_md": "Sentence B gives a specific fact (spiders produce silk from spinnerets) and defines the word 'spinnerets.' This is what informational writing needs: specific facts and definitions. Sentence A is just an opinion."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the paragraph below. Which sentence does NOT belong because it is off topic?\n\n> Penguins are fascinating birds that live in cold regions. They cannot fly, but they are excellent swimmers. I think penguins are cute. Penguins use their wings like flippers to move quickly through the water.\n\nWhich sentence does NOT belong?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Penguins are fascinating birds that live in cold regions.'",
+          "correct": false,
+          "explanation": "This is the introduction. It belongs in the informational text."
+        },
+        {
+          "id": "b",
+          "label": "'They cannot fly, but they are excellent swimmers.'",
+          "correct": false,
+          "explanation": "This is a fact about penguins that belongs in the informational text."
+        },
+        {
+          "id": "c",
+          "label": "'I think penguins are cute.'",
+          "correct": true,
+          "explanation": "This is a personal opinion ('I think'). Informational text should use facts, not personal opinions. This sentence does not belong."
+        },
+        {
+          "id": "d",
+          "label": "'Penguins use their wings like flippers to move quickly through the water.'",
+          "correct": false,
+          "explanation": "This is a fact about penguins that belongs in the informational text."
+        }
+      ],
+      "explanation_md": "'I think penguins are cute' is a personal opinion. Informational writing uses facts, not personal opinions. This sentence should be removed or replaced with a fact."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes this ending for an informational text about volcanoes:\n\n> 'Volcanoes are powerful natural events that have shaped Earth's surface for millions of years. Whether they are erupting or dormant, volcanoes remain one of the most dramatic features of our planet.'\n\nWhat makes this a **strong concluding statement**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It introduces new facts that were not in the text.",
+          "correct": false,
+          "explanation": "A conclusion should wrap up, not introduce new information."
+        },
+        {
+          "id": "b",
+          "label": "It brings the reader back to the main topic and leaves them with a big idea about volcanoes.",
+          "correct": true,
+          "explanation": "The conclusion restates the topic (volcanoes) and gives the reader a large, memorable idea to take away (they are dramatic features that shaped Earth). It wraps up rather than starting something new."
+        },
+        {
+          "id": "c",
+          "label": "It asks the reader to do more research.",
+          "correct": false,
+          "explanation": "The conclusion does not ask readers to do research. It wraps up what was learned."
+        },
+        {
+          "id": "d",
+          "label": "It gives the writer's opinion about volcanoes.",
+          "correct": false,
+          "explanation": "The conclusion does not say 'I think' or share a personal opinion. It restates facts about the topic."
+        }
+      ],
+      "explanation_md": "A strong conclusion brings the reader back to the main topic and ends with a memorable big idea. This conclusion does both: it restates that volcanoes are powerful and dramatic, giving the reader something to think about."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes two facts about dolphins:\n\n**Fact A:** 'Dolphins are big.'\n**Fact B:** 'Dolphins can grow up to 12 feet long and weigh up to 1,400 pounds.'\n\nWhich fact is better for an informational text, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Fact A, because it is easier to read.",
+          "correct": false,
+          "explanation": "Simplicity alone is not a reason to use a fact. Informational texts need specific, accurate information."
+        },
+        {
+          "id": "b",
+          "label": "Fact B, because it gives specific measurements that help readers understand how big dolphins really are.",
+          "correct": true,
+          "explanation": "Fact B uses numbers (12 feet, 1,400 pounds) that help the reader form a real picture of a dolphin's size. Specific facts are more informative and credible than vague ones."
+        },
+        {
+          "id": "c",
+          "label": "Fact A, because it is shorter and saves space.",
+          "correct": false,
+          "explanation": "Short and vague is not better. Informational writing should be specific."
+        },
+        {
+          "id": "d",
+          "label": "Both are equally informative.",
+          "correct": false,
+          "explanation": "'Dolphins are big' gives the reader very little information. Fact B gives specific measurements. They are not equally informative."
+        }
+      ],
+      "explanation_md": "Specific facts help readers form a real picture. 'Up to 12 feet long and 1,400 pounds' tells the reader exactly how big. 'Big' is too vague to be informative. Good informational writing uses specific, measurable facts."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes an informational text about the water cycle. The text has an introduction and facts, but no conclusion. What would be the BEST approach for writing a conclusion?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Start the text over from the beginning.",
+          "correct": false,
+          "explanation": "The introduction and facts are already written. The student just needs to add a conclusion."
+        },
+        {
+          "id": "b",
+          "label": "Write a sentence or two that wraps up the main ideas and leaves the reader with an understanding of why the water cycle matters.",
+          "correct": true,
+          "explanation": "A good conclusion wraps up the main ideas and shows why the topic is important. For the water cycle, this could explain how the cycle keeps water available for all living things."
+        },
+        {
+          "id": "c",
+          "label": "Add more facts instead of a conclusion.",
+          "correct": false,
+          "explanation": "The text needs a conclusion, not more facts. A conclusion signals the end of the text."
+        },
+        {
+          "id": "d",
+          "label": "Write a new opinion about whether the water cycle is interesting.",
+          "correct": false,
+          "explanation": "Informational writing should not switch to opinions at the end. A conclusion wraps up the facts, not shares an opinion."
+        }
+      ],
+      "explanation_md": "A conclusion wraps up the main ideas and shows why the topic matters. For the water cycle, the conclusion should mention how the cycle keeps water available for all living things on Earth \u2014 making the information feel complete and important."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "Read the three informational texts below. Which one is the STRONGEST example of informational writing?\n\n**Text A:** 'I love sea turtles. They are really cool.'\n\n**Text B:** 'Sea turtles are reptiles that can live for up to 80 years. They travel thousands of miles across oceans to lay their eggs on the same beach where they were born. Sea turtles are important to ocean health because they eat jellyfish and help maintain healthy seagrass beds.'\n\n**Text C:** 'Sea turtles are neat animals and some scientists study them. Scientists use boats.'",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Text A",
+          "correct": false,
+          "explanation": "Text A includes opinions ('I love,' 'really cool') and no facts. It is not informational writing."
+        },
+        {
+          "id": "b",
+          "label": "Text B",
+          "correct": true,
+          "explanation": "Text B has specific facts (80 years, thousands of miles), explains behaviors (traveling to lay eggs), and connects sea turtles to ocean health. This is strong informational writing."
+        },
+        {
+          "id": "c",
+          "label": "Text C",
+          "correct": false,
+          "explanation": "Text C is vague ('neat animals') and its facts about scientists using boats do not connect clearly to information about sea turtles. It lacks specific, relevant facts."
+        },
+        {
+          "id": "d",
+          "label": "All three are equally strong.",
+          "correct": false,
+          "explanation": "Text B is clearly the strongest. It has specific facts, explains behaviors, and connects the topic to broader importance. The other two lack these qualities."
+        }
+      ],
+      "explanation_md": "Text B is the strongest. It has specific facts (80 years, thousands of miles), describes real behaviors, and explains why sea turtles matter to ocean health. Text A is opinion-based. Text C is vague and unfocused."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the paragraph below, then answer the question.\n\n> Earthquakes happen when large pieces of Earth's crust, called tectonic plates, move suddenly. A seismograph is a tool scientists use to measure the strength of an earthquake. Scientists measure earthquake strength on a scale. A bigger number means a stronger earthquake.\n\nWhich sentence contains a **definition**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Earthquakes happen when large pieces of Earth's crust...move suddenly.'",
+          "correct": false,
+          "explanation": "This sentence explains what causes earthquakes. It is a fact about how earthquakes happen, not a definition of a word."
+        },
+        {
+          "id": "b",
+          "label": "'A seismograph is a tool scientists use to measure the strength of an earthquake.'",
+          "correct": true,
+          "explanation": "This sentence defines the word 'seismograph' by explaining what it is and what it does. It is a definition."
+        },
+        {
+          "id": "c",
+          "label": "'Scientists measure earthquake strength on a scale.'",
+          "correct": false,
+          "explanation": "This is a fact about how earthquakes are measured. It does not define a word."
+        },
+        {
+          "id": "d",
+          "label": "'A bigger number means a stronger earthquake.'",
+          "correct": false,
+          "explanation": "This explains how to read the earthquake scale. It is a fact, not a definition."
+        }
+      ],
+      "explanation_md": "'A seismograph is a tool scientists use to measure earthquake strength' defines the word seismograph. Definitions explain what a word or term means."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the paragraph below, then answer the question.\n\n> Earthquakes happen when large pieces of Earth's crust, called tectonic plates, move suddenly. A seismograph is a tool scientists use to measure the strength of an earthquake. Scientists measure earthquake strength on a scale. A bigger number means a stronger earthquake.\n\nWhich sentence from the paragraph would work best as a **concluding statement** for a longer piece about earthquakes?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'A seismograph is a tool scientists use to measure the strength of an earthquake.'",
+          "correct": false,
+          "explanation": "This is a definition that introduces a new term. It belongs in the body of the text, not at the end."
+        },
+        {
+          "id": "b",
+          "label": "'Understanding earthquakes and how to measure them helps communities prepare for and respond to these powerful natural events.'",
+          "correct": true,
+          "explanation": "This is not in the passage, but it is an example of a strong conclusion. It wraps up the topic by connecting the information (measuring earthquakes) to a larger purpose (community preparedness). Note: the question tests knowledge of what a good conclusion does."
+        },
+        {
+          "id": "c",
+          "label": "'Earthquakes happen when large pieces of Earth's crust...move suddenly.'",
+          "correct": false,
+          "explanation": "This is the introductory fact that would go near the beginning, not the end."
+        },
+        {
+          "id": "d",
+          "label": "'Scientists measure earthquake strength on a scale.'",
+          "correct": false,
+          "explanation": "This is a body fact. It does not wrap up the topic."
+        }
+      ],
+      "explanation_md": "A concluding statement wraps up the topic and shows why it matters. The example conclusion connects earthquake measurement to community safety and preparedness, giving the text a sense of completion and purpose."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes this paragraph about owls:\n\n> 'Owls are nocturnal birds. Nocturnal means active at night. Owls have special feathers that allow them to fly silently. They use their excellent hearing to find mice and other small animals in the dark. I saw an owl once at the zoo and it was really big. Owls are predators that help control the population of small animals.'\n\nWhich sentence should be REMOVED to make the paragraph a better informational text?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Owls are nocturnal birds.'",
+          "correct": false,
+          "explanation": "This is the topic sentence that introduces the subject. It belongs in the paragraph."
+        },
+        {
+          "id": "b",
+          "label": "'Nocturnal means active at night.'",
+          "correct": false,
+          "explanation": "This is a definition that helps the reader understand the term. It belongs in the paragraph."
+        },
+        {
+          "id": "c",
+          "label": "'I saw an owl once at the zoo and it was really big.'",
+          "correct": true,
+          "explanation": "This sentence is a personal anecdote (personal story). Informational writing uses facts, not personal experiences or opinions. This sentence should be removed or replaced with a fact about owl size."
+        },
+        {
+          "id": "d",
+          "label": "'Owls are predators that help control the population of small animals.'",
+          "correct": false,
+          "explanation": "This is a strong fact that explains owls' role in the ecosystem. It belongs in the paragraph."
+        }
+      ],
+      "explanation_md": "'I saw an owl once at the zoo and it was really big' is a personal anecdote that does not belong in informational writing. It should be replaced with a fact, such as 'Great horned owls can grow up to 25 inches tall.'"
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the goal of **informational writing**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "To share your opinion about a topic",
+          "correct": false,
+          "explanation": "Opinion writing shares what you think. Informational writing shares facts to teach the reader."
+        },
+        {
+          "id": "b",
+          "label": "To teach the reader true facts about a topic",
+          "correct": true,
+          "explanation": "Informational writing uses facts to teach the reader about a real topic."
+        },
+        {
+          "id": "c",
+          "label": "To entertain the reader with a made-up story",
+          "correct": false,
+          "explanation": "Made-up stories are fiction. Informational writing uses real facts."
+        },
+        {
+          "id": "d",
+          "label": "To ask the reader questions",
+          "correct": false,
+          "explanation": "Informational writing answers questions; it does not just ask them."
+        }
+      ],
+      "explanation_md": "Informational writing teaches the reader about a real topic using facts and definitions."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a **fact** that belongs in an informational text?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sharks are the most terrifying animals.",
+          "correct": false,
+          "explanation": "This is an opinion. Not everyone finds sharks terrifying."
+        },
+        {
+          "id": "b",
+          "label": "Sharks have been on Earth for more than 400 million years.",
+          "correct": true,
+          "explanation": "This is a fact that can be checked. It belongs in informational writing."
+        },
+        {
+          "id": "c",
+          "label": "I am afraid of sharks.",
+          "correct": false,
+          "explanation": "This is a personal feeling. Informational writing uses facts, not personal feelings."
+        },
+        {
+          "id": "d",
+          "label": "Sharks are boring to learn about.",
+          "correct": false,
+          "explanation": "This is an opinion. Informational text uses facts."
+        }
+      ],
+      "explanation_md": "'Sharks have been on Earth for more than 400 million years' is a fact that can be verified. Facts belong in informational text."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'A chrysalis is the case that covers a caterpillar while it changes into a butterfly.'\n\nWhat is this sentence?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "An opinion",
+          "correct": false,
+          "explanation": "This is not an opinion. It does not say what the writer thinks."
+        },
+        {
+          "id": "b",
+          "label": "A definition",
+          "correct": true,
+          "explanation": "This sentence explains what the word 'chrysalis' means. That is a definition."
+        },
+        {
+          "id": "c",
+          "label": "A concluding statement",
+          "correct": false,
+          "explanation": "This sentence defines a word, not wraps up a text."
+        },
+        {
+          "id": "d",
+          "label": "A title",
+          "correct": false,
+          "explanation": "This is a full sentence defining a term, not a title."
+        }
+      ],
+      "explanation_md": "A definition explains what a word means. 'A chrysalis is the case that covers a caterpillar while it changes into a butterfly' defines the word chrysalis."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence would make a good **introduction** for an informational text about the moon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The moon is so pretty at night.",
+          "correct": false,
+          "explanation": "This is an opinion. A good informational introduction uses facts to get the reader interested."
+        },
+        {
+          "id": "b",
+          "label": "The moon is Earth's only natural satellite and can be seen from almost anywhere on Earth.",
+          "correct": true,
+          "explanation": "This introduction gives a fact (Earth's only natural satellite) and something interesting (visible from almost anywhere). It introduces the topic without using opinions."
+        },
+        {
+          "id": "c",
+          "label": "I learned about the moon in second grade.",
+          "correct": false,
+          "explanation": "This is personal information, not a fact about the moon."
+        },
+        {
+          "id": "d",
+          "label": "The moon goes around and around.",
+          "correct": false,
+          "explanation": "This is vague and not very informative. A good introduction should be specific."
+        }
+      ],
+      "explanation_md": "A good informational introduction introduces the topic with a specific, interesting fact. 'The moon is Earth's only natural satellite' is specific and informative."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence best **concludes** an informational text about recycling?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "So in conclusion, I like recycling.",
+          "correct": false,
+          "explanation": "This is a personal opinion. A concluding statement for informational writing should wrap up the facts, not state a personal preference."
+        },
+        {
+          "id": "b",
+          "label": "Recycling helps save energy, reduces waste, and keeps our environment cleaner for future generations.",
+          "correct": true,
+          "explanation": "This conclusion wraps up the key ideas (energy, waste, environment) and connects them to a bigger idea (future generations). It is a strong informational conclusion."
+        },
+        {
+          "id": "c",
+          "label": "Recycling is something you do.",
+          "correct": false,
+          "explanation": "This is too vague to be a useful conclusion. A conclusion should tie together the main facts."
+        },
+        {
+          "id": "d",
+          "label": "I am done writing about recycling.",
+          "correct": false,
+          "explanation": "This is too informal and does not wrap up any information. A good conclusion restates or summarizes the key ideas."
+        }
+      ],
+      "explanation_md": "'Recycling helps save energy, reduces waste, and keeps our environment cleaner for future generations' wraps up the key ideas and connects them to why recycling matters. That is a strong informational conclusion."
+    }
+  ]
+}
