@@ -1,0 +1,648 @@
+{
+  "skill_id": "NC.2.MD.10",
+  "benchmark_description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems using information presented in a bar graph.",
+  "course": "math",
+  "strand": "Measurement and Data",
+  "lesson": {
+    "objective": "Students will organize data into picture graphs and bar graphs with a single-unit scale, and use graphs to solve put-together, take-apart, and compare problems.",
+    "vocabulary": [
+      "picture graph",
+      "bar graph",
+      "scale",
+      "category",
+      "data",
+      "tally"
+    ],
+    "introduction": "A picture graph uses pictures or symbols to show data. Each picture stands for one item. A bar graph uses bars (rectangles) to show how many are in each group. The scale on a bar graph tells you how to count \u2014 when the scale is 1, each unit of bar length means one item. You can use these graphs to answer questions like: How many in all? How many fewer? How many more?",
+    "examples": [
+      {
+        "problem": "A bar graph shows favorite colors: Red = 4, Blue = 7, Green = 3. How many more students chose Blue than Green?",
+        "solution": "Subtract: 7 - 3 = 4. Four more students chose Blue than Green.",
+        "explanation": "A 'compare' problem asks for the difference between two bars. Find each bar's value and subtract the smaller from the larger."
+      },
+      {
+        "problem": "A picture graph shows pets: 5 dogs, 3 cats, 2 fish. How many pets are there in all?",
+        "solution": "Add all categories: 5 + 3 + 2 = 10 pets in all.",
+        "explanation": "A 'put-together' problem asks for the total. Add all the values from each category."
+      }
+    ]
+  },
+  "practice_questions": [
+    {
+      "id": "NC.2.MD.10_pq1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "In a picture graph, each picture stands for 1 item. There are 5 apple pictures in the Apple row. How many apples does the graph show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "50",
+          "correct": false
+        }
+      ],
+      "explanation": "When each picture equals 1 item, you just count the pictures. 5 pictures = 5 apples.",
+      "wrong_answer_explanations": {
+        "B": "10 would be correct if each picture stood for 2, but here each picture stands for 1. Count the pictures: 5.",
+        "C": "1 is what each picture is worth, not the total. There are 5 pictures, so 5 apples.",
+        "D": "50 is not correct. Each picture equals 1, and there are 5 pictures: 5 \u00d7 1 = 5 apples."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows: Soccer = 6 students, Basketball = 4 students, Swimming = 5 students. How many students are there in all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "11",
+          "correct": false
+        }
+      ],
+      "explanation": "Add all categories: 6 + 4 + 5 = 15 students in all.",
+      "wrong_answer_explanations": {
+        "B": "10 comes from adding only two of the sports. Add all three: 6 + 4 + 5 = 15.",
+        "C": "6 is only the count for Soccer. You must add all three categories: 6 + 4 + 5 = 15.",
+        "D": "11 comes from adding only Soccer and Swimming (6 + 5). Include Basketball too: 6 + 4 + 5 = 15."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Dogs = 8, Cats = 5, Birds = 3. How many more dogs are there than cats?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "13",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "Subtract: 8 - 5 = 3. There are 3 more dogs than cats.",
+      "wrong_answer_explanations": {
+        "B": "13 comes from adding 8 + 5 instead of subtracting. The question asks how many MORE, which means subtract: 8 - 5 = 3.",
+        "C": "5 is the number of cats alone. Subtract the cats from the dogs: 8 - 5 = 3.",
+        "D": "8 is the number of dogs alone. Subtract: 8 - 5 = 3 more dogs than cats."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A picture graph shows books read: Ana = 4, Ben = 7, Cam = 2. How many fewer books did Cam read than Ben?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "correct": false
+        }
+      ],
+      "explanation": "Subtract: 7 - 2 = 5. Cam read 5 fewer books than Ben.",
+      "wrong_answer_explanations": {
+        "B": "9 comes from adding 7 + 2 instead of subtracting. How many FEWER means subtract: 7 - 2 = 5.",
+        "C": "2 is the number of books Cam read alone. Subtract from Ben's total: 7 - 2 = 5.",
+        "D": "7 is the number of books Ben read alone. Subtract Cam's books: 7 - 2 = 5 fewer."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows stickers: Stars = 9, Hearts = 6, Circles = 4. How many stickers are there in all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "19",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "15",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "10",
+          "correct": false
+        }
+      ],
+      "explanation": "Add all the bars: 9 + 6 + 4 = 19 stickers in all.",
+      "wrong_answer_explanations": {
+        "B": "15 comes from adding only Stars and Hearts (9 + 6). Include Circles too: 9 + 6 + 4 = 19.",
+        "C": "9 is only the Stars count. Add all three categories: 9 + 6 + 4 = 19.",
+        "D": "10 is not correct. Add all bars: 9 + 6 + 4 = 19."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq6",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows apples picked: Monday = 3, Tuesday = 7, Wednesday = 5. How many more apples were picked on Tuesday than on Monday?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "correct": false
+        }
+      ],
+      "explanation": "Subtract Monday from Tuesday: 7 - 3 = 4 more apples on Tuesday.",
+      "wrong_answer_explanations": {
+        "B": "10 comes from adding 3 + 7. The question asks how many MORE, which means subtract: 7 - 3 = 4.",
+        "C": "7 is Tuesday's count alone. Subtract Monday's count: 7 - 3 = 4 more.",
+        "D": "2 is not the correct difference. Subtract: 7 - 3 = 4, not 2."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq7",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A picture graph shows fish in tanks: Tank A = 5, Tank B = 3, Tank C = 4, Tank D = 2. How many fish are in all four tanks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "Add all four tanks: 5 + 3 + 4 + 2 = 14 fish in all.",
+      "wrong_answer_explanations": {
+        "B": "9 comes from adding only some tanks. Add all four: 5 + 3 + 4 + 2 = 14.",
+        "C": "5 is only Tank A. You must add all four tanks together: 5 + 3 + 4 + 2 = 14.",
+        "D": "8 comes from adding only two tanks (5 + 3 or 4 + ... ). Add all four: 5 + 3 + 4 + 2 = 14."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq8",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows: Vanilla = 10, Chocolate = 6, Strawberry = 8. Which flavor was chosen LEAST?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chocolate",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Vanilla",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Strawberry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "They are all the same",
+          "correct": false
+        }
+      ],
+      "explanation": "Chocolate has the smallest bar (6), which is less than Vanilla (10) and Strawberry (8). So Chocolate was chosen least.",
+      "wrong_answer_explanations": {
+        "B": "Vanilla has the highest count (10), so it was chosen MOST, not least.",
+        "C": "Strawberry has 8, which is more than Chocolate's 6. Chocolate is the least.",
+        "D": "The bars are different heights: 10, 6, and 8. They are not the same."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq9",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A bar graph shows toys: Cars = 5, Dolls = 8, Blocks = 3. Some blocks were added so that Blocks now equal Cars. How many blocks were added?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "Blocks need to go from 3 to 5 (to equal Cars). 5 - 3 = 2 blocks need to be added.",
+      "wrong_answer_explanations": {
+        "B": "5 is the number of Cars. You need to find how many to ADD to Blocks (3) to reach 5: 5 - 3 = 2.",
+        "C": "3 is the current number of Blocks, not what was added. Add 2 to get from 3 to 5.",
+        "D": "8 is the number of Dolls. The question asks about getting Blocks to equal Cars (5): 5 - 3 = 2."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_pq10",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "question": "A bar graph shows birds seen: Robins = 4, Blue Jays = 6, Sparrows = 9. How many more birds would you need to see so that all three groups together equal 25?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "19",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "25",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "correct": false
+        }
+      ],
+      "explanation": "Current total: 4 + 6 + 9 = 19. To reach 25: 25 - 19 = 6 more birds needed.",
+      "wrong_answer_explanations": {
+        "B": "19 is the current total of birds seen. The question asks how many MORE to reach 25: 25 - 19 = 6.",
+        "C": "25 is the goal total, not the number to add. Subtract the current total: 25 - 19 = 6.",
+        "D": "4 is the count of Robins alone. First find the total (4 + 6 + 9 = 19), then subtract from 25: 25 - 19 = 6."
+      }
+    }
+  ],
+  "mastery_check": [
+    {
+      "id": "NC.2.MD.10_mc1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Bananas = 7, Oranges = 4, Grapes = 6. How many fruits are there in all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "17",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "11",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "13",
+          "correct": false
+        }
+      ],
+      "explanation": "Add all the bars: 7 + 4 + 6 = 17 fruits in all.",
+      "wrong_answer_explanations": {
+        "B": "11 comes from adding only two categories (7 + 4). Include Grapes too: 7 + 4 + 6 = 17.",
+        "C": "7 is only the Bananas count. Add all three: 7 + 4 + 6 = 17.",
+        "D": "13 comes from adding 7 + 6 and missing Oranges. Add all three: 7 + 4 + 6 = 17."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_mc2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A picture graph shows: Red = 8, Blue = 5, Yellow = 3. How many more red items are there than yellow items?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "11",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "explanation": "Subtract: 8 - 3 = 5. There are 5 more red items than yellow items.",
+      "wrong_answer_explanations": {
+        "B": "11 comes from adding 8 + 3. How many MORE means subtract: 8 - 3 = 5.",
+        "C": "3 is the Yellow count alone. Subtract from Red: 8 - 3 = 5.",
+        "D": "8 is the Red count alone. You need to subtract Yellow from Red: 8 - 3 = 5."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_mc3",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "question": "A bar graph shows flowers: Roses = 6, Tulips = 9, Daisies = 4. After picking 3 tulips, how many tulips are left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "12",
+          "correct": false
+        }
+      ],
+      "explanation": "Start with 9 tulips. Subtract the 3 that were picked: 9 - 3 = 6 tulips left.",
+      "wrong_answer_explanations": {
+        "B": "3 is how many tulips were picked, not how many remain. Subtract: 9 - 3 = 6 left.",
+        "C": "9 is the original count before picking. After picking 3: 9 - 3 = 6.",
+        "D": "12 comes from adding 9 + 3 instead of subtracting. Picking means taking away: 9 - 3 = 6."
+      }
+    }
+  ],
+  "remediation": [
+    {
+      "id": "NC.2.MD.10_rem1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "In a picture graph, each picture equals 1. There are 4 star pictures. How many stars does the graph show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "40",
+          "correct": false
+        }
+      ],
+      "explanation": "When each picture equals 1, the count equals the number of pictures. 4 pictures = 4 stars.",
+      "wrong_answer_explanations": {
+        "B": "8 would be correct if each picture stood for 2. Here each picture equals 1, so 4 pictures = 4 stars.",
+        "C": "1 is the value of each picture, not the total. 4 pictures \u00d7 1 each = 4 stars.",
+        "D": "40 is not correct. Each picture equals 1, and there are 4 pictures: 4 stars."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_rem2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "question": "A bar graph shows: Apples = 3, Bananas = 5. How many fruits are there in all?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "15",
+          "correct": false
+        }
+      ],
+      "explanation": "Add the two bars: 3 + 5 = 8 fruits in all.",
+      "wrong_answer_explanations": {
+        "B": "5 is only the Bananas count. Add both: 3 + 5 = 8.",
+        "C": "2 is the difference between the bars. The question asks for the total: 3 + 5 = 8.",
+        "D": "15 comes from multiplying 3 \u00d7 5. The question asks for the total, which means add: 3 + 5 = 8."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_rem3",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows: Red = 6, Blue = 9. How many more blue than red?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "15",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6",
+          "correct": false
+        }
+      ],
+      "explanation": "Subtract: 9 - 6 = 3. There are 3 more blue than red.",
+      "wrong_answer_explanations": {
+        "B": "15 comes from adding 9 + 6. How many MORE means subtract: 9 - 6 = 3.",
+        "C": "9 is the Blue count alone. You need to compare: 9 - 6 = 3 more blue.",
+        "D": "6 is the Red count alone. Subtract Red from Blue: 9 - 6 = 3."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_rem4",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "question": "A bar graph shows toys: Trains = 4, Cars = 7, Planes = 2. Which group has the fewest toys?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Planes",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Trains",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cars",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "They all have the same",
+          "correct": false
+        }
+      ],
+      "explanation": "Planes has only 2, which is less than Trains (4) and Cars (7). Planes has the fewest.",
+      "wrong_answer_explanations": {
+        "B": "Trains has 4, which is more than Planes (2). Planes has fewer.",
+        "C": "Cars has the most (7). The group with the fewest is Planes with 2.",
+        "D": "The bars are different: 4, 7, and 2. They are not the same amount."
+      }
+    },
+    {
+      "id": "NC.2.MD.10_rem5",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "question": "A bar graph shows: Monday = 5, Tuesday = 3, Wednesday = 6. How many items total were counted across all three days?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "11",
+          "correct": false
+        }
+      ],
+      "explanation": "Add all three bars: 5 + 3 + 6 = 14 total items.",
+      "wrong_answer_explanations": {
+        "B": "8 comes from adding only Monday and Wednesday (5 + 3? or skipping one). Add all three: 5 + 3 + 6 = 14.",
+        "C": "6 is only Wednesday's count. Add all three days: 5 + 3 + 6 = 14.",
+        "D": "11 comes from adding only Monday and Wednesday (5 + 6). Include Tuesday too: 5 + 3 + 6 = 14."
+      }
+    }
+  ]
+}
