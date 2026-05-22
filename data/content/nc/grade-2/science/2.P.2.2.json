@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.P.2.2",
+  "benchmark_description": "Compare the amount of change in the surface of objects (rocks, wood, metal) when acted on by weathering processes (water, wind, ice, temperature changes).",
+  "course": "science",
+  "strand": "P",
+  "lesson": {
+    "title": "Weathering: How Forces Change Surfaces",
+    "intro": "Have you ever seen smooth, round rocks in a river? Those rocks used to be rough and jagged! Water, wind, ice, and temperature changes break rocks and other materials into smaller pieces over time. This is called weathering.",
+    "body_md": "## What Is Weathering?\n\n**Weathering** breaks down rocks and other Earth materials into smaller pieces. It happens slowly. Causes include **water**, **wind**, **ice**, and **temperature changes**.\n\n## Water Weathering\nFlowing water rubs rocks together, wearing away sharp edges and making them smooth. Rain can slowly dissolve some rocks.\n\n**Example:** River rocks are smooth because water rubbed them for thousands of years.\n\n## Wind Weathering\nWind carries sand particles that scrape rock surfaces like sandpaper.\n\n**Example:** Desert rock formations have smooth, curved shapes carved by wind-blown sand.\n\n## Ice Weathering\nWater enters rock cracks. When it freezes, it **expands** and pushes the crack wider. Repeated freezing and thawing splits rocks.\n\n**Example:** Potholes form when water in road cracks freezes and expands.\n\n## Temperature Changes\nRocks expand when heated and contract when cooled. Years of this repeated cycle cause cracks to form.\n\n**Example:** Desert rocks heat up each day and cool each night \u2014 slow cracking follows.\n\n## Comparing How Much Materials Change\n\n| Material | Resistance to weathering | Change amount |\n|----------|------------------------|---------------|\n| Hard granite | High | Small \u2014 changes slowly |\n| Soft limestone | Low | Large \u2014 changes faster |\n| Wood | Low | Large \u2014 rots and splits |\n| Metal | Medium | Medium \u2014 rusts in water |\n\nSofter materials change more from the same weathering force.",
+    "worked_example_md": "## Worked Example\n\nTwo students put materials outside for one year (lots of rain, wind, temperature changes):\n\n- **Material A:** Soft limestone piece\n- **Material B:** Hard granite piece\n\n**After one year:**\n- Limestone: Surface rougher, small pieces flaked off, edges rounded. **More change.**\n- Granite: Almost unchanged, only tiny scratches visible. **Less change.**\n\n**Conclusion:** Softer materials (limestone) change more from the same weathering forces than harder materials (granite). Hardness determines resistance to weathering.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is weathering?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Moving broken rock to a new location",
+          "correct": false,
+          "explanation": "Moving material is erosion. Weathering is the breaking down of material in place."
+        },
+        {
+          "id": "b",
+          "label": "Breaking rocks and materials into smaller pieces",
+          "correct": true,
+          "explanation": "Weathering is the process of breaking down rocks and Earth materials into smaller pieces through water, wind, ice, and temperature changes."
+        },
+        {
+          "id": "c",
+          "label": "Water evaporating from a rock surface",
+          "correct": false,
+          "explanation": "Evaporation is part of the water cycle, not the definition of weathering."
+        },
+        {
+          "id": "d",
+          "label": "Rocks growing bigger over time",
+          "correct": false,
+          "explanation": "Weathering makes rocks smaller, not bigger."
+        }
+      ],
+      "explanation_md": "**Weathering** breaks rocks and Earth materials into **smaller pieces** through forces like water, wind, ice, and temperature changes."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a cause of weathering?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A bird sitting on a rock",
+          "correct": false,
+          "explanation": "A bird's weight is far too small to cause weathering of rocks."
+        },
+        {
+          "id": "b",
+          "label": "Wind blowing sand against rocks",
+          "correct": true,
+          "explanation": "Sand carried by wind scratches rock surfaces \u2014 this is called abrasion, a form of weathering."
+        },
+        {
+          "id": "c",
+          "label": "A cloud passing by",
+          "correct": false,
+          "explanation": "A passing cloud does not cause weathering \u2014 rain from clouds might, but not the cloud itself."
+        },
+        {
+          "id": "d",
+          "label": "A child drawing on a rock with chalk",
+          "correct": false,
+          "explanation": "Drawing on a rock is not natural weathering. Weathering is caused by natural forces."
+        }
+      ],
+      "explanation_md": "**Wind-blown sand** is a weathering force. Sand particles carried by wind scrape and abrade rock surfaces over long periods."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How does ice cause rocks to break apart?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ice makes rocks hotter, cracking them.",
+          "correct": false,
+          "explanation": "Ice cools things \u2014 it does not heat rocks. The cracking comes from expansion when water freezes."
+        },
+        {
+          "id": "b",
+          "label": "Water freezes in cracks and expands, pushing cracks wider.",
+          "correct": true,
+          "explanation": "Water expands as it freezes. This expanding force pushes on crack walls, widening them. Repeated cycles eventually split the rock."
+        },
+        {
+          "id": "c",
+          "label": "Ice polishes rocks smooth.",
+          "correct": false,
+          "explanation": "Polishing comes from water or wind abrasion \u2014 not from ice freezing inside cracks."
+        },
+        {
+          "id": "d",
+          "label": "Ice falls on rocks and crushes them.",
+          "correct": false,
+          "explanation": "While falling ice can chip surfaces, the main way ice weathers rocks is by expanding inside cracks when water freezes."
+        }
+      ],
+      "explanation_md": "Ice weathers rocks through freeze-thaw cycles: water seeps into cracks, **expands when frozen**, pushing cracks wider. Repeated cycles eventually break the rock."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which rock changes MORE from weathering \u2014 soft limestone or hard granite?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Granite, because harder rocks weather faster.",
+          "correct": false,
+          "explanation": "Harder rocks actually resist weathering better \u2014 they change less than softer rocks."
+        },
+        {
+          "id": "b",
+          "label": "Limestone, because softer materials break down more easily.",
+          "correct": true,
+          "explanation": "Softer materials like limestone are easier for weathering forces to break down. They change more than hard materials like granite."
+        },
+        {
+          "id": "c",
+          "label": "Both change the same amount.",
+          "correct": false,
+          "explanation": "Different materials have different hardness, so they respond differently to the same weathering force."
+        },
+        {
+          "id": "d",
+          "label": "Neither \u2014 rocks never change.",
+          "correct": false,
+          "explanation": "All rocks change from weathering over time. The amount of change depends on the rock's hardness."
+        }
+      ],
+      "explanation_md": "**Soft limestone** changes more. Softer materials are worn away more easily by weathering forces. Granite is much harder and resists weathering better."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "River rocks are smooth and round. What caused this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Wind blowing sand across them",
+          "correct": false,
+          "explanation": "River rocks are smoothed by flowing water, not primarily by wind."
+        },
+        {
+          "id": "b",
+          "label": "Temperature changes cracking them",
+          "correct": false,
+          "explanation": "Temperature changes cause cracking, not the smooth, round shape of river rocks."
+        },
+        {
+          "id": "c",
+          "label": "Flowing water tumbling rocks against each other",
+          "correct": true,
+          "explanation": "Flowing water carries rocks and tumbles them against each other and the riverbed. Sharp edges are slowly worn away, making rocks smooth and round."
+        },
+        {
+          "id": "d",
+          "label": "Ice expanding inside them",
+          "correct": false,
+          "explanation": "Freeze-thaw weathering breaks rocks into sharp pieces \u2014 it does not create smooth, rounded shapes."
+        }
+      ],
+      "explanation_md": "River rocks become smooth through **water abrasion** \u2014 flowing water tumbles rocks against each other, wearing away sharp corners over thousands of years."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A piece of wood and a piece of granite sit outside in rain and wind for 50 years. Which changes MORE?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Granite, because it is bigger.",
+          "correct": false,
+          "explanation": "Size is not the key factor. Hardness determines weathering resistance. Granite is very hard and changes little."
+        },
+        {
+          "id": "b",
+          "label": "Wood, because it is softer and less resistant.",
+          "correct": true,
+          "explanation": "Wood is soft, can rot, split, and erode from water and wind much faster than hard granite. After 50 years, wood will show far more change."
+        },
+        {
+          "id": "c",
+          "label": "Both change equally.",
+          "correct": false,
+          "explanation": "Different materials respond differently to weathering. Wood and granite will show very different amounts of change."
+        },
+        {
+          "id": "d",
+          "label": "Granite, because water melts it faster.",
+          "correct": false,
+          "explanation": "Granite does not melt in normal water. It is very resistant to weathering \u2014 far more so than wood."
+        }
+      ],
+      "explanation_md": "**Wood** changes more because it is softer and less resistant to water, wind, and rot. Granite resists weathering much better due to its hardness."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "How do temperature changes cause weathering in rocks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "High temperatures melt rocks completely.",
+          "correct": false,
+          "explanation": "Normal surface temperatures cannot melt rocks. Rocks melt only at thousands of degrees deep inside Earth."
+        },
+        {
+          "id": "b",
+          "label": "Rocks expand when hot and contract when cold; repeated cycles cause cracks.",
+          "correct": true,
+          "explanation": "When rocks heat up they expand slightly; when they cool they contract. Years of repeated expansion and contraction create stress and cracks."
+        },
+        {
+          "id": "c",
+          "label": "Cold temperatures make rocks grow larger.",
+          "correct": false,
+          "explanation": "Rocks do not grow. Cold makes rocks contract slightly, but repeated cycles of expanding and contracting cause cracks."
+        },
+        {
+          "id": "d",
+          "label": "Temperature changes have no effect on rocks.",
+          "correct": false,
+          "explanation": "Temperature changes are a real weathering force \u2014 repeated expansion and contraction cause cracks over long periods."
+        }
+      ],
+      "explanation_md": "Rocks **expand** when heated and **contract** when cooled. Repeated daily cycles of expansion and contraction build stress, eventually causing **cracks** in the rock."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A desert rock was jagged 1,000 years ago and is now smooth. What most likely caused this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ice expanding in cracks",
+          "correct": false,
+          "explanation": "Deserts are generally too dry and warm for regular freeze-thaw cycles to shape rocks this way."
+        },
+        {
+          "id": "b",
+          "label": "Wind-blown sand abrading the rock surface",
+          "correct": true,
+          "explanation": "In deserts, wind carries sand particles that act like sandpaper on rocks. Over 1,000 years, this smooths sharp surfaces."
+        },
+        {
+          "id": "c",
+          "label": "River water tumbling it",
+          "correct": false,
+          "explanation": "Deserts have no rivers to tumble rocks. Wind is the main weathering force in deserts."
+        },
+        {
+          "id": "d",
+          "label": "Rain dissolving it",
+          "correct": false,
+          "explanation": "Deserts receive very little rain, so rain weathering is minimal. Wind is the primary force."
+        }
+      ],
+      "explanation_md": "In deserts, **wind-blown sand** (abrasion) is the main weathering force. Sand grains scrape rock surfaces over centuries, smoothing and sculpting them."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Students put chalk, granite, and a metal spoon in front of a sand blower for 30 minutes. Which shows the MOST change?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Granite",
+          "correct": false,
+          "explanation": "Granite is very hard \u2014 wind-blown sand will barely scratch it."
+        },
+        {
+          "id": "b",
+          "label": "Chalk",
+          "correct": true,
+          "explanation": "Chalk is the softest material. Wind-blown sand will wear it away the fastest."
+        },
+        {
+          "id": "c",
+          "label": "Metal spoon",
+          "correct": false,
+          "explanation": "Metal is harder than chalk. The chalk will show more change than the metal spoon."
+        },
+        {
+          "id": "d",
+          "label": "All three change equally.",
+          "correct": false,
+          "explanation": "Hardness differs among the three materials, so they respond differently to the same weathering force."
+        }
+      ],
+      "explanation_md": "**Chalk** is the softest of the three and will be worn away most by wind-blown sand. This shows that softer materials change more from the same weathering force."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student notices sidewalk cracks get wider every winter. What sequence best explains this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Falling ice hits the sidewalk and makes cracks.",
+          "correct": false,
+          "explanation": "Falling ice can chip surfaces, but widening winter cracks is caused by the freeze-thaw cycle inside existing cracks."
+        },
+        {
+          "id": "b",
+          "label": "Water enters cracks \u2192 freezes and expands \u2192 pushes crack wider \u2192 thaws \u2192 cycle repeats.",
+          "correct": true,
+          "explanation": "This is the freeze-thaw cycle: water in a crack freezes and expands, pushing the crack open. Each winter the cycle repeats and the crack grows larger."
+        },
+        {
+          "id": "c",
+          "label": "Cold air makes sidewalk shrink into cracks.",
+          "correct": false,
+          "explanation": "While cold causes slight contraction, the primary mechanism is water expanding as it freezes inside cracks \u2014 not shrinking of the pavement."
+        },
+        {
+          "id": "d",
+          "label": "Water evaporates from cracks leaving gaps.",
+          "correct": false,
+          "explanation": "Evaporation removes water but does not push cracks open. Expansion from freezing is the correct mechanism."
+        }
+      ],
+      "explanation_md": "The **freeze-thaw cycle** explains widening cracks: (1) Water seeps in. (2) Water freezes and **expands**, pushing crack wider. (3) Thaws. (4) More water enters wider crack. (5) Repeat each winter. Cracks grow progressively larger."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which weathering process smooths rocks in a stream?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Ice expanding in cracks",
+          "correct": false,
+          "explanation": "Ice weathering breaks rocks into sharp pieces \u2014 it does not smooth them."
+        },
+        {
+          "id": "b",
+          "label": "Flowing water tumbling rocks together",
+          "correct": true,
+          "explanation": "Flowing water tumbles rocks against each other, wearing away sharp edges and making them smooth and round."
+        },
+        {
+          "id": "c",
+          "label": "Wind blowing sand",
+          "correct": false,
+          "explanation": "Wind weathering occurs in dry, exposed places \u2014 not underwater in streams."
+        },
+        {
+          "id": "d",
+          "label": "Temperature changes",
+          "correct": false,
+          "explanation": "Temperature changes cause cracking, not the smoothing of stream rocks."
+        }
+      ],
+      "explanation_md": "**Flowing water** smooths river rocks by tumbling them together (abrasion), wearing away sharp corners over long periods."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "If a soft rock and a hard rock are both weathered by wind for 500 years, which shows MORE change and why?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Hard rock, because hard rocks attract more wind.",
+          "correct": false,
+          "explanation": "Wind does not prefer hard rocks. Hardness affects resistance, not how much wind hits the rock."
+        },
+        {
+          "id": "b",
+          "label": "Soft rock, because it is less resistant to being worn away.",
+          "correct": true,
+          "explanation": "Soft rocks have less resistance to abrasion. The same wind wears away more of a soft rock than a hard rock over the same time."
+        },
+        {
+          "id": "c",
+          "label": "Both change the same \u2014 wind is the same.",
+          "correct": false,
+          "explanation": "The same force causes different amounts of change depending on material hardness."
+        },
+        {
+          "id": "d",
+          "label": "Hard rock, because it is older.",
+          "correct": false,
+          "explanation": "Age alone does not determine weathering. Hardness is the key factor."
+        }
+      ],
+      "explanation_md": "The **soft rock** shows more change. Softer materials are less resistant to weathering forces. Over 500 years, a soft rock loses more material than a hard rock exposed to the same wind."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which list includes THREE causes of weathering?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Water, wind, ice",
+          "correct": true,
+          "explanation": "Water, wind, and ice are all real weathering forces that break down rocks and Earth materials."
+        },
+        {
+          "id": "b",
+          "label": "Sunlight, gravity, sound",
+          "correct": false,
+          "explanation": "Gravity moves material (erosion), sunlight contributes through temperature, but sound is not a weathering force."
+        },
+        {
+          "id": "c",
+          "label": "Rocks, soil, minerals",
+          "correct": false,
+          "explanation": "These are Earth materials \u2014 what gets weathered \u2014 not causes of weathering."
+        },
+        {
+          "id": "d",
+          "label": "Animals, plants, insects",
+          "correct": false,
+          "explanation": "While roots can break rocks and animals burrow, the primary causes of weathering are water, wind, ice, and temperature changes."
+        }
+      ],
+      "explanation_md": "The three main causes of weathering are **water**, **wind**, and **ice** \u2014 along with temperature changes. All three break down rocks over time."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What does weathering do to rocks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Makes them grow bigger",
+          "correct": false,
+          "explanation": "Weathering breaks rocks smaller \u2014 not bigger."
+        },
+        {
+          "id": "b",
+          "label": "Breaks them into smaller pieces",
+          "correct": true,
+          "explanation": "Weathering breaks rocks and materials into smaller and smaller pieces over time."
+        },
+        {
+          "id": "c",
+          "label": "Turns them into plants",
+          "correct": false,
+          "explanation": "Rocks cannot turn into plants. Weathered rock pieces can become part of soil that plants grow in."
+        },
+        {
+          "id": "d",
+          "label": "Moves them to another place",
+          "correct": false,
+          "explanation": "Moving broken pieces is erosion, not weathering."
+        }
+      ],
+      "explanation_md": "**Weathering** breaks rocks and Earth materials into **smaller pieces** through water, wind, ice, and temperature changes."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Water flowing in a river makes rocks \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Sharper and more jagged",
+          "correct": false,
+          "explanation": "Water wears away sharp edges \u2014 river rocks become smooth and round, not sharper."
+        },
+        {
+          "id": "b",
+          "label": "Smooth and round over time",
+          "correct": true,
+          "explanation": "Flowing water tumbles rocks together, wearing away sharp corners over a long time."
+        },
+        {
+          "id": "c",
+          "label": "Bigger and heavier",
+          "correct": false,
+          "explanation": "Weathering makes rocks smaller, not bigger."
+        },
+        {
+          "id": "d",
+          "label": "Turn into sand immediately",
+          "correct": false,
+          "explanation": "Rock weathering is very slow \u2014 it takes thousands of years to wear rocks to sand."
+        }
+      ],
+      "explanation_md": "Flowing water **smooths** rocks by tumbling them together. This is why river rocks are often smooth and round."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why do soft rocks change more from weathering than hard rocks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Soft rocks are closer to the sun.",
+          "correct": false,
+          "explanation": "Distance from the sun is not the reason. It is about resistance to weathering forces."
+        },
+        {
+          "id": "b",
+          "label": "Soft rocks are easier to break and wear away.",
+          "correct": true,
+          "explanation": "Soft rocks do not resist weathering forces as well as hard rocks. They are worn away more easily."
+        },
+        {
+          "id": "c",
+          "label": "Hard rocks are always wet so they weather less.",
+          "correct": false,
+          "explanation": "Wetness depends on environment, not hardness. The key factor is resistance to breaking."
+        },
+        {
+          "id": "d",
+          "label": "Soft rocks are always bigger.",
+          "correct": false,
+          "explanation": "Size is not the key factor. Hardness determines how much a rock changes from weathering."
+        }
+      ],
+      "explanation_md": "**Soft rocks** change more because they are **less resistant** to weathering forces. Hard rocks withstand scraping and cracking better."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How does ice break rocks?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It cools rocks until they shatter.",
+          "correct": false,
+          "explanation": "Cooling alone does not shatter rocks. The force comes from water expanding as it freezes inside cracks."
+        },
+        {
+          "id": "b",
+          "label": "Water freezes in cracks and expands, pushing them open.",
+          "correct": true,
+          "explanation": "When water in a rock crack freezes, it expands, pushing the crack open wider. Repeated cycles break the rock apart."
+        },
+        {
+          "id": "c",
+          "label": "Ice makes rocks melt.",
+          "correct": false,
+          "explanation": "Ice makes things cold \u2014 it does not melt rocks."
+        },
+        {
+          "id": "d",
+          "label": "Ice slides rocks off mountains.",
+          "correct": false,
+          "explanation": "Glaciers can move rocks, but that is erosion. Ice weathering works by expanding inside cracks."
+        }
+      ],
+      "explanation_md": "Ice weathers rocks when water enters cracks, **freezes, and expands** \u2014 pushing crack walls apart. Repeated freezing and thawing eventually splits the rock."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Wind weathers rocks most like \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A hammer hitting a rock once",
+          "correct": false,
+          "explanation": "A hammer hit is a sudden impact. Wind weathering is slow, steady abrasion over long periods."
+        },
+        {
+          "id": "b",
+          "label": "Sandpaper slowly scratching a surface over a long time",
+          "correct": true,
+          "explanation": "Wind-blown sand grains act like sandpaper \u2014 slowly scratching and wearing away rock surfaces over long periods."
+        },
+        {
+          "id": "c",
+          "label": "Water soaking into rock and dissolving it",
+          "correct": false,
+          "explanation": "That describes chemical water weathering, not physical wind abrasion."
+        },
+        {
+          "id": "d",
+          "label": "Ice cracking a rock in half",
+          "correct": false,
+          "explanation": "Ice cracking is a different weathering process. Wind weathers by physical abrasion."
+        }
+      ],
+      "explanation_md": "Wind weathering is like **sandpaper** \u2014 sand particles carried by wind slowly scratch and abrade rock surfaces over thousands of years."
+    }
+  ]
+}
