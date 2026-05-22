@@ -1,0 +1,388 @@
+{
+  "skill_id": "2.MD.A.4",
+  "benchmark_description": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit.",
+  "course": "math",
+  "strand": "MD",
+  "lesson": {
+    "title": "How Much Longer? Comparing Lengths",
+    "intro": "When you have two objects, you might want to know which is longer AND how much longer. You can measure both and subtract to find the difference. Let's practice!",
+    "body_md": "## How to Compare Lengths\n\n**Step 1:** Measure the first object.\n**Step 2:** Measure the second object.\n**Step 3:** Subtract the shorter length from the longer length.\n**Step 4:** Write the answer with a unit!\n\n## Example\n\nA red marker is 6 inches long.\nA blue marker is 4 inches long.\n\nHow much longer is the red marker?\n\n6 inches - 4 inches = **2 inches**\n\nThe red marker is **2 inches** longer than the blue marker.\n\n## Always Include the Unit\n\nDo not just say 'the red one is 2 longer.' Say **2 inches** (or 2 cm, or 2 feet, etc.)!\n\n## Example with Centimeters\n\nA pencil is 15 cm long.\nAn eraser is 6 cm long.\n\n15 cm - 6 cm = **9 cm**\n\nThe pencil is **9 centimeters** longer than the eraser.\n\n## Two Ways to Find the Difference\n\n1. **Subtract:** longer - shorter = difference\n2. **Count up:** Start at the shorter length, count up to the longer.\n\nBoth give the same answer!",
+    "worked_example_md": "**Problem:** A ribbon is 12 cm long. A straw is 8 cm long. How much longer is the ribbon?\n\n**Step 1:** Ribbon = 12 cm, Straw = 8 cm.\n**Step 2:** 12 - 8 = 4 cm.\n**Answer:** The ribbon is **4 centimeters** longer.\n**Check:** 8 + 4 = 12. Yes!",
+    "estimated_minutes": 7
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "A book is 10 inches long. A notebook is 8 inches long. How much longer is the book?",
+      "correct_answer": "2",
+      "explanation_md": "10 - 8 = 2. The book is 2 inches longer."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A pencil is 18 cm. An eraser is 5 cm. How much longer is the pencil?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "23 cm",
+          "correct": false,
+          "explanation": "23 = 18+5. Subtract: 18-5=13 cm."
+        },
+        {
+          "id": "b",
+          "label": "13 cm",
+          "correct": true,
+          "explanation": "Correct! 18-5=13 cm."
+        },
+        {
+          "id": "c",
+          "label": "12 cm",
+          "correct": false,
+          "explanation": "18-5=13, not 12."
+        },
+        {
+          "id": "d",
+          "label": "10 cm",
+          "correct": false,
+          "explanation": "18-5=13 cm."
+        }
+      ],
+      "explanation_md": "18-5=13. The pencil is 13 centimeters longer."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A straw is 9 inches. A jump rope is 54 inches. How much longer is the jump rope?",
+      "correct_answer": "45",
+      "explanation_md": "54-9=45. The jump rope is 45 inches longer."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A snake is 36 inches. A lizard is 14 inches. How much longer is the snake?",
+      "correct_answer": "22",
+      "explanation_md": "36-14=22. The snake is 22 inches longer."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Jake's pencil is 7 inches. Maria's is 4 inches. Maria says her pencil is 3 inches shorter. Is she right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "No, 3 inches longer.",
+          "correct": false,
+          "explanation": "Maria's is shorter. 7-4=3 shorter. She is right."
+        },
+        {
+          "id": "b",
+          "label": "Yes, 7-4=3 inches shorter.",
+          "correct": true,
+          "explanation": "Correct! 7-4=3. Maria's pencil is 3 inches shorter."
+        },
+        {
+          "id": "c",
+          "label": "No, 4 inches shorter.",
+          "correct": false,
+          "explanation": "7-4=3, not 4."
+        },
+        {
+          "id": "d",
+          "label": "No, 11 inches.",
+          "correct": false,
+          "explanation": "7-4=3, not 11. Subtract, do not add."
+        }
+      ],
+      "explanation_md": "7-4=3. Maria's pencil is 3 inches shorter."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A green ribbon is 24 cm. A purple ribbon is 31 cm. How much longer is the purple ribbon?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "55 cm",
+          "correct": false,
+          "explanation": "55=24+31. Subtract: 31-24=7 cm."
+        },
+        {
+          "id": "b",
+          "label": "5 cm",
+          "correct": false,
+          "explanation": "31-24=7 cm."
+        },
+        {
+          "id": "c",
+          "label": "7 cm",
+          "correct": true,
+          "explanation": "Correct! 31-24=7 cm."
+        },
+        {
+          "id": "d",
+          "label": "8 cm",
+          "correct": false,
+          "explanation": "31-24=7. Check: 24+7=31."
+        }
+      ],
+      "explanation_md": "31-24=7. The purple ribbon is 7 centimeters longer."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A blue crayon is 13 cm. A red crayon is 9 cm. How many centimeters longer is the blue crayon?",
+      "correct_answer": "4",
+      "explanation_md": "13-9=4. The blue crayon is 4 centimeters longer."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A worm crawled 48 inches on day 1 and 29 inches on day 2. How much farther did it crawl on day 1?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "77 inches",
+          "correct": false,
+          "explanation": "77=48+29. Subtract: 48-29=19 inches."
+        },
+        {
+          "id": "b",
+          "label": "19 inches",
+          "correct": true,
+          "explanation": "Correct! 48-29=19 inches farther."
+        },
+        {
+          "id": "c",
+          "label": "29 inches",
+          "correct": false,
+          "explanation": "29 is day 2 distance. 48-29=19 inches farther on day 1."
+        },
+        {
+          "id": "d",
+          "label": "18 inches",
+          "correct": false,
+          "explanation": "48-29=19, not 18."
+        }
+      ],
+      "explanation_md": "48-29=19. The worm crawled 19 inches farther on day 1."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A rope is 100 cm. It is cut: short piece = 37 cm. How much longer is the long piece than the short piece?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "63 cm",
+          "correct": false,
+          "explanation": "63 is the long piece length (100-37=63). Compare: 63-37=26 cm."
+        },
+        {
+          "id": "b",
+          "label": "26 cm",
+          "correct": true,
+          "explanation": "Correct! Long piece=63 cm. 63-37=26 cm longer than short piece."
+        },
+        {
+          "id": "c",
+          "label": "37 cm",
+          "correct": false,
+          "explanation": "37 is the short piece. Long piece=63. 63-37=26 cm."
+        },
+        {
+          "id": "d",
+          "label": "100 cm",
+          "correct": false,
+          "explanation": "100 is total. Long=63, short=37. 63-37=26 cm."
+        }
+      ],
+      "explanation_md": "Long piece=100-37=63 cm. Difference: 63-37=26 cm."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "numeric",
+      "prompt_md": "Object A is 45 inches. Object B is 10 inches shorter than A. Object C is 7 inches longer than B. How many inches longer is A than C?",
+      "correct_answer": "3",
+      "explanation_md": "A=45. B=45-10=35. C=35+7=42. A-C=45-42=3 inches."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "numeric",
+      "prompt_md": "A stick is 27 cm. A straw is 19 cm. How much longer is the stick?",
+      "correct_answer": "8",
+      "explanation_md": "27-19=8. The stick is 8 centimeters longer."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A rope is 45 inches. A ribbon is 28 inches. How much longer is the rope?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "73 inches",
+          "correct": false,
+          "explanation": "73=45+28. Subtract: 45-28=17 inches."
+        },
+        {
+          "id": "b",
+          "label": "18 inches",
+          "correct": false,
+          "explanation": "45-28=17, not 18."
+        },
+        {
+          "id": "c",
+          "label": "17 inches",
+          "correct": true,
+          "explanation": "Correct! 45-28=17 inches longer."
+        },
+        {
+          "id": "d",
+          "label": "23 inches",
+          "correct": false,
+          "explanation": "45-28=17 inches."
+        }
+      ],
+      "explanation_md": "45-28=17. The rope is 17 inches longer."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Fish A is 14 inches. Fish B is 9 inches. The fisherman says A is 5 inches longer. Is he right?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Yes, 14-9=5.",
+          "correct": true,
+          "explanation": "Correct! 14-9=5. Fish A is 5 inches longer."
+        },
+        {
+          "id": "b",
+          "label": "No, 4 inches longer.",
+          "correct": false,
+          "explanation": "14-9=5, not 4."
+        },
+        {
+          "id": "c",
+          "label": "No, 23 inches longer.",
+          "correct": false,
+          "explanation": "Subtract: 14-9=5."
+        },
+        {
+          "id": "d",
+          "label": "No, Fish B is longer.",
+          "correct": false,
+          "explanation": "14>9 so A is longer. 14-9=5 inches."
+        }
+      ],
+      "explanation_md": "14-9=5. Fish A is 5 inches longer."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "numeric",
+      "prompt_md": "A pencil is 8 inches. A crayon is 4 inches. How much longer is the pencil?",
+      "correct_answer": "4",
+      "explanation_md": "8-4=4. The pencil is 4 inches longer."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A ruler is 12 cm. A sticker is 3 cm. How much longer is the ruler?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "15 cm",
+          "correct": false,
+          "explanation": "15=12+3. Subtract: 12-3=9 cm."
+        },
+        {
+          "id": "b",
+          "label": "9 cm",
+          "correct": true,
+          "explanation": "Correct! 12-3=9 centimeters longer."
+        },
+        {
+          "id": "c",
+          "label": "8 cm",
+          "correct": false,
+          "explanation": "12-3=9 cm."
+        },
+        {
+          "id": "d",
+          "label": "4 cm",
+          "correct": false,
+          "explanation": "12-3=9 cm."
+        }
+      ],
+      "explanation_md": "12-3=9. The ruler is 9 centimeters longer."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A book is 20 cm. A pencil is 15 cm. How much longer is the book?",
+      "correct_answer": "5",
+      "explanation_md": "20-15=5. The book is 5 centimeters longer."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A string is 30 inches. A ribbon is 18 inches. How much longer is the string?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "48 inches",
+          "correct": false,
+          "explanation": "48=30+18. Subtract: 30-18=12 inches."
+        },
+        {
+          "id": "b",
+          "label": "12 inches",
+          "correct": true,
+          "explanation": "Correct! 30-18=12 inches longer."
+        },
+        {
+          "id": "c",
+          "label": "10 inches",
+          "correct": false,
+          "explanation": "30-18=12."
+        },
+        {
+          "id": "d",
+          "label": "20 inches",
+          "correct": false,
+          "explanation": "30-18=12 inches."
+        }
+      ],
+      "explanation_md": "30-18=12. The string is 12 inches longer."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "numeric",
+      "prompt_md": "A caterpillar is 9 cm. A worm is 5 cm. How much longer is the caterpillar?",
+      "correct_answer": "4",
+      "explanation_md": "9-5=4. The caterpillar is 4 centimeters longer."
+    }
+  ]
+}
