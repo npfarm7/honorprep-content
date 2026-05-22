@@ -1,0 +1,253 @@
+{
+  "skill_id": "RL.2.6",
+  "benchmark_description": "Acknowledge differences in the points of view of characters, including by speaking in a different voice for each character when reading dialogue aloud.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Who's Talking? Characters and Their Points of View",
+    "intro": "Have you ever noticed that different people in a story think differently about the same situation? Characters have their own points of view — their own thoughts, feelings, and opinions. Today we will learn how to find each character's point of view and how to use different voices when reading dialogue.",
+    "body_md": "## What Is Point of View?\n\nA character's **point of view** is how that character sees, thinks, and feels about what is happening. Two characters in the same scene can have very different points of view!\n\n**Example:** A cat and a mouse are in the same kitchen.\n- Cat's point of view: *\"This is perfect — dinner is right here!\"*\n- Mouse's point of view: *\"I am in danger — I need to hide!\"*\n\nSame scene, opposite points of view.\n\n## What Is Dialogue?\n\n**Dialogue** is the words characters speak, shown in quotation marks. Dialogue tells you exactly what a character is thinking and feeling.\n\n> \"I am NOT going to share my cookies,\" said Lucy.\n> \"But you always share,\" said Sam.\n\nLucy and Sam have different feelings about sharing — you can see it in their words.\n\n## Reading Dialogue Aloud\n\nWhen you read dialogue aloud, use a **different voice for each character**:\n- A grumpy character might speak slowly and deeply.\n- A scared character might speak fast and quietly.\n- A happy character might speak with a bright, cheerful tone.\n\nUsing different voices shows you understand each character's point of view.\n\n## How to Find a Character's Point of View\n\n1. **Read their words** (dialogue) — what do they say?\n2. **Read their actions** — what do they do?\n3. **Read the author's descriptions** — what does the author tell us?\n4. **Ask:** How does this character FEEL about the situation?",
+    "worked_example_md": "**Passage:**\n*\"I love stormy days,\" said Rosa, twirling in the rain. \"The puddles are the best part!\"*\n*\"I hate storms,\" groaned Felix, pulling his hood tight. \"They're too loud and too wet.\"*\n\n**Question:** What is each character's point of view about the storm?\n\n**Step 1:** Find Rosa's words and actions → She loves it, twirls, enjoys puddles.\n**Step 2:** Find Felix's words and actions → He hates it, groans, pulls his hood.\n**Step 3:** Compare → Rosa's POV = storms are fun and exciting. Felix's POV = storms are unpleasant and scary.\n\n**Reading aloud:** Read Rosa's lines with a cheerful, energetic voice. Read Felix's lines with a slow, gloomy, reluctant voice.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a character's **point of view**?",
+      "choices": [
+        {"id": "a", "label": "The place where the story happens.", "correct": false, "explanation": "That is the setting, not point of view."},
+        {"id": "b", "label": "How a character thinks and feels about what is happening.", "correct": true, "explanation": "A character's point of view is their unique perspective — their thoughts and feelings."},
+        {"id": "c", "label": "The problem the character faces.", "correct": false, "explanation": "That is the conflict, not point of view."},
+        {"id": "d", "label": "The ending of the story.", "correct": false, "explanation": "The ending is the conclusion, not point of view."}
+      ],
+      "explanation_md": "A character's **point of view** is how they think and feel about what is happening in the story."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What are the words characters speak in a story called?",
+      "choices": [
+        {"id": "a", "label": "Narration", "correct": false, "explanation": "Narration is what the narrator tells us, not the characters' spoken words."},
+        {"id": "b", "label": "Dialogue", "correct": true, "explanation": "Dialogue is the spoken words of characters, shown in quotation marks."},
+        {"id": "c", "label": "Setting", "correct": false, "explanation": "Setting is the time and place of the story."},
+        {"id": "d", "label": "Theme", "correct": false, "explanation": "Theme is the big message or lesson of the story."}
+      ],
+      "explanation_md": "**Dialogue** is the spoken words of characters. You can find dialogue inside quotation marks."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the dialogue:\n\n*\"The roller coaster looks amazing!\" shouted Mia, jumping up and down.*\n*\"I am not getting on that thing,\" whispered Noah, stepping backward.*\n\nWhat is **Noah's** point of view about the roller coaster?",
+      "choices": [
+        {"id": "a", "label": "He is very excited and wants to ride.", "correct": false, "explanation": "Noah says 'I am not getting on that thing' and steps backward — he is not excited."},
+        {"id": "b", "label": "He is scared and does not want to ride.", "correct": true, "explanation": "Noah whispers and steps backward — he is afraid of the roller coaster."},
+        {"id": "c", "label": "He thinks the roller coaster is boring.", "correct": false, "explanation": "Noah is scared, not bored."},
+        {"id": "d", "label": "He wants to ride but is waiting for Mia.", "correct": false, "explanation": "Noah clearly refuses — he is not waiting, he is afraid."}
+      ],
+      "explanation_md": "Noah's **point of view** is that the roller coaster is scary. He whispers (fear) and steps backward (retreating)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Why should you use **different voices** when reading dialogue aloud?",
+      "choices": [
+        {"id": "a", "label": "To make the reading longer.", "correct": false, "explanation": "Using different voices doesn't change length."},
+        {"id": "b", "label": "To show that you understand each character's point of view.", "correct": true, "explanation": "Different voices show you understand how each character feels and help listeners follow who is speaking."},
+        {"id": "c", "label": "Because the author asks you to in the book.", "correct": false, "explanation": "Authors don't usually give these instructions — readers choose how to read aloud."},
+        {"id": "d", "label": "To make it harder for others to follow along.", "correct": false, "explanation": "Different voices make it easier, not harder, for listeners."}
+      ],
+      "explanation_md": "Using **different voices** shows you understand each character's feelings and helps listeners follow who is speaking."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A bird and a worm are looking at the same garden. The bird thinks: *\"What a great place to find breakfast!\"* The worm thinks: *\"I must hide before I become breakfast!\"* How do their points of view differ?",
+      "choices": [
+        {"id": "a", "label": "They both think the garden is dangerous.", "correct": false, "explanation": "The bird thinks the garden is a good place to find food — it is not dangerous to the bird."},
+        {"id": "b", "label": "The bird sees opportunity; the worm sees danger.", "correct": true, "explanation": "Same place, opposite perspectives: the bird is excited; the worm is frightened."},
+        {"id": "c", "label": "The worm thinks the garden is nice for hiding, so both like it.", "correct": false, "explanation": "The worm doesn't like the garden — it is hiding out of fear, not comfort."},
+        {"id": "d", "label": "They have the same point of view because they are in the same place.", "correct": false, "explanation": "Being in the same place does not mean having the same point of view."}
+      ],
+      "explanation_md": "The **same situation looks completely different** depending on the character's perspective: the bird sees a meal; the worm sees a threat."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which voice would best fit this dialogue when read aloud?\n\n*\"FIRE! We need to get out NOW!\" yelled the firefighter.*",
+      "choices": [
+        {"id": "a", "label": "Soft and slow, as if the firefighter is whispering.", "correct": false, "explanation": "The firefighter is yelling urgently — a soft, slow voice would be wrong."},
+        {"id": "b", "label": "Loud and fast, showing urgency and alarm.", "correct": true, "explanation": "The firefighter is yelling with urgency — a loud, fast voice matches the point of view perfectly."},
+        {"id": "c", "label": "Cheerful and sing-song, like a lullaby.", "correct": false, "explanation": "A lullaby voice would not fit a fire emergency."},
+        {"id": "d", "label": "Bored and flat, as if nothing is happening.", "correct": false, "explanation": "A bored voice contradicts the urgency shown in the dialogue."}
+      ],
+      "explanation_md": "The firefighter is shouting urgently — a **loud, fast voice** matches that point of view and shows the reader understands the character's emotion."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In *Goldilocks and the Three Bears*, Baby Bear says, *\"Someone's been sleeping in my bed — and she's still there!\"* What does this dialogue tell you about Baby Bear's point of view?",
+      "choices": [
+        {"id": "a", "label": "Baby Bear is excited to have a new friend.", "correct": false, "explanation": "Baby Bear is surprised and upset that his bed has been used — not excited about a friend."},
+        {"id": "b", "label": "Baby Bear is surprised and concerned that someone used his things.", "correct": true, "explanation": "Baby Bear discovers his bed is occupied — the dialogue shows surprise and distress."},
+        {"id": "c", "label": "Baby Bear thinks Goldilocks is asleep on purpose to be helpful.", "correct": false, "explanation": "There is no indication Baby Bear thinks this is helpful."},
+        {"id": "d", "label": "Baby Bear doesn't care about his bed.", "correct": false, "explanation": "Baby Bear clearly cares — the exclamation mark and his words show strong emotion."}
+      ],
+      "explanation_md": "Baby Bear's point of view is **surprise and upset** — his exclamation shows he did not expect to find Goldilocks in his bed."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two characters argue about a new park:\n\n*\"This park will bring kids and families together,\" said the mayor.*\n*\"But it will knock down all the old trees!\" protested the nature teacher.*\n\nHow do their points of view differ, and what causes the difference?",
+      "choices": [
+        {"id": "a", "label": "They agree — both want a better community.", "correct": false, "explanation": "They have opposing views and are arguing, not agreeing."},
+        {"id": "b", "label": "The mayor focuses on community benefits; the teacher focuses on the environmental cost. Their different values cause the difference.", "correct": true, "explanation": "The mayor values community; the teacher values nature. Same park, different priorities."},
+        {"id": "c", "label": "The teacher wants the park built faster than the mayor does.", "correct": false, "explanation": "The teacher doesn't want the park at all — she objects to the tree loss."},
+        {"id": "d", "label": "They differ because they haven't visited the park.", "correct": false, "explanation": "The difference comes from their values, not lack of information."}
+      ],
+      "explanation_md": "Their **different values** drive different points of view: the mayor prioritizes community; the teacher prioritizes nature."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A reader reads a character's dialogue in a bored, flat voice, but the character is actually terrified. What problem does this cause?",
+      "choices": [
+        {"id": "a", "label": "It makes the story longer.", "correct": false, "explanation": "Voice does not change the story's length."},
+        {"id": "b", "label": "It shows the reader misunderstood the character's point of view.", "correct": true, "explanation": "A mismatched voice signals that the reader did not pick up on the character's true feelings."},
+        {"id": "c", "label": "It makes the story more exciting for listeners.", "correct": false, "explanation": "A flat, bored voice for a terrified character would confuse listeners, not excite them."},
+        {"id": "d", "label": "It helps listeners understand the character better.", "correct": false, "explanation": "An incorrect voice would confuse — not help — the audience."}
+      ],
+      "explanation_md": "Reading a terrified character in a bored voice shows the reader **misunderstood the point of view** — the voice and the character's feelings do not match."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "In *The True Story of the Three Little Pigs* by Jon Scieszka, the wolf tells the story from HIS point of view. He says he was just trying to borrow sugar and his sneezes blew down the houses by accident. How does this change the reader's experience compared to the traditional story?",
+      "choices": [
+        {"id": "a", "label": "It makes the wolf seem more evil.", "correct": false, "explanation": "The wolf's point of view makes him seem sympathetic, not more evil."},
+        {"id": "b", "label": "It shows that the same events can look very different depending on who is telling the story.", "correct": true, "explanation": "The wolf's point of view makes him the victim, not the villain — showing that perspective shapes meaning."},
+        {"id": "c", "label": "It proves that the wolf's version is the true story.", "correct": false, "explanation": "The book is called 'the TRUE story' sarcastically — it shows a different perspective, not the definitive truth."},
+        {"id": "d", "label": "It shows that the pigs were the real villains.", "correct": false, "explanation": "The book plays with perspective — it does not prove anyone is the villain."}
+      ],
+      "explanation_md": "The wolf's point of view transforms him from villain to victim, showing that **the same events look different from different perspectives** — the core idea of point of view."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the dialogue:\n\n*\"I cannot believe we have to walk so far,\" grumbled Aunt Rita.*\n*\"I love walking — we'll see so much more!\" exclaimed Lily.*\n\nHow are their points of view about walking **different**?",
+      "choices": [
+        {"id": "a", "label": "Aunt Rita loves walking; Lily hates it.", "correct": false, "explanation": "It is the opposite — Aunt Rita grumbles (dislikes); Lily exclaims (loves)."},
+        {"id": "b", "label": "Aunt Rita dislikes the long walk; Lily enjoys it and sees it as an adventure.", "correct": true, "explanation": "Aunt Rita grumbles (negative), while Lily exclaims with excitement (positive)."},
+        {"id": "c", "label": "Both characters enjoy walking equally.", "correct": false, "explanation": "Aunt Rita clearly does not enjoy it — they have opposite feelings."},
+        {"id": "d", "label": "Lily is scared of walking; Aunt Rita is not.", "correct": false, "explanation": "Lily is excited, not scared. Aunt Rita is annoyed, not scared either."}
+      ],
+      "explanation_md": "**Aunt Rita grumbles** → she dislikes the walk. **Lily exclaims with joy** → she loves it. Opposite points of view."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A character named Max shouts: *\"I found it! I FOUND THE TREASURE!\"* When reading this line aloud, a student should use ___.",
+      "choices": [
+        {"id": "a", "label": "A quiet, slow, sad voice.", "correct": false, "explanation": "Max is thrilled — a quiet, sad voice does not match his point of view."},
+        {"id": "b", "label": "An excited, loud, energetic voice.", "correct": true, "explanation": "Max has just found treasure — his exclamation points show extreme excitement. The voice should match."},
+        {"id": "c", "label": "A confused, uncertain voice.", "correct": false, "explanation": "Max is certain and overjoyed — not confused."},
+        {"id": "d", "label": "A flat, monotone voice.", "correct": false, "explanation": "A flat voice would not reflect Max's excitement and joy."}
+      ],
+      "explanation_md": "Max's excitement (shown by capitalization and exclamation) calls for an **excited, loud voice** when reading aloud."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "In a story about a snowstorm, one character says, *\"This is the best day ever — school is cancelled!\"* Another says, *\"Now I cannot get to my job and my family will go hungry tonight.\"*\n\nWhat do their different points of view tell you about how **life experience** shapes perspective?",
+      "choices": [
+        {"id": "a", "label": "Both characters are being selfish.", "correct": false, "explanation": "The second character is worried about their family — that is not selfish."},
+        {"id": "b", "label": "The same event can be joyful for one person and a hardship for another based on their life situation.", "correct": true, "explanation": "A child celebrates (no school), while an adult worries (lost income). Same storm, opposite impacts."},
+        {"id": "c", "label": "The first character is right because snow days are fun.", "correct": false, "explanation": "Neither perspective is more 'right' — they reflect different life circumstances."},
+        {"id": "d", "label": "The second character should be happy like the first.", "correct": false, "explanation": "Their different situations cause different points of view — the second character's concern is valid."}
+      ],
+      "explanation_md": "The **same event** (snowstorm) creates **opposite emotions** because of different life situations — this shows how experience shapes point of view."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which marks show that a character is **speaking** in a story?",
+      "choices": [
+        {"id": "a", "label": "Parentheses ( )", "correct": false, "explanation": "Parentheses are used for extra information, not dialogue."},
+        {"id": "b", "label": "Quotation marks \" \"", "correct": true, "explanation": "Quotation marks show the exact words a character says."},
+        {"id": "c", "label": "Exclamation marks !", "correct": false, "explanation": "Exclamation marks show strong emotion, but they don't mark all dialogue."},
+        {"id": "d", "label": "Commas ,", "correct": false, "explanation": "Commas are used in many ways, but they don't mark dialogue by themselves."}
+      ],
+      "explanation_md": "**Quotation marks** \" \" show that a character is speaking — the words inside are the character's exact words."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A dog sees a ball and barks excitedly. A cat sees the same ball and walks away. What is different?",
+      "choices": [
+        {"id": "a", "label": "The ball", "correct": false, "explanation": "The ball is the same for both — what is different is how each animal feels about it."},
+        {"id": "b", "label": "Their points of view — the dog loves it, the cat does not care.", "correct": true, "explanation": "Same ball, different reactions — the dog and cat have different points of view."},
+        {"id": "c", "label": "Their settings — they are in different rooms.", "correct": false, "explanation": "The question does not say they are in different rooms."},
+        {"id": "d", "label": "The size of the ball", "correct": false, "explanation": "The ball size is not what changes — their feelings about the ball differ."}
+      ],
+      "explanation_md": "The dog and cat have **different points of view** about the ball — same object, different feelings."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A character named Gus says: *\"I am so scared,\"* he whispered, hiding under the bed. What voice should you use when reading this aloud?",
+      "choices": [
+        {"id": "a", "label": "A loud, happy voice.", "correct": false, "explanation": "Gus is scared and whispering — a loud, happy voice would not match."},
+        {"id": "b", "label": "A quiet, shaky, scared voice.", "correct": true, "explanation": "Gus is scared and whispering — your voice should be quiet and show fear."},
+        {"id": "c", "label": "A fast, excited voice.", "correct": false, "explanation": "Excited does not match scared and hiding."},
+        {"id": "d", "label": "A deep, growling voice.", "correct": false, "explanation": "Gus is whispering in fear — a deep growl does not fit."}
+      ],
+      "explanation_md": "Gus is scared and whispering — read in a **quiet, shaky, fearful voice** to match his point of view."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Two friends look at the same rainstorm. Anna says, \"Great — no recess today!\" Kenji says, \"Perfect — the garden needed water!\" Whose point of view is **positive**?",
+      "choices": [
+        {"id": "a", "label": "Anna's — she is glad there is no recess.", "correct": false, "explanation": "Anna is upset about no recess — that is a negative point of view for her."},
+        {"id": "b", "label": "Kenji's — he sees the rain as helpful.", "correct": true, "explanation": "Kenji is glad the garden gets water — that is a positive point of view."},
+        {"id": "c", "label": "Both are negative.", "correct": false, "explanation": "Kenji's point of view is positive."},
+        {"id": "d", "label": "Neither has a point of view.", "correct": false, "explanation": "Both characters have clear points of view about the rain."}
+      ],
+      "explanation_md": "**Kenji's** point of view is positive — he sees the rain as helpful to the garden."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "To find a character's point of view, a good reader should look at the character's ___.",
+      "choices": [
+        {"id": "a", "label": "Height and age only.", "correct": false, "explanation": "Physical descriptions don't reveal point of view."},
+        {"id": "b", "label": "Words (dialogue) and actions.", "correct": true, "explanation": "What a character says and does reveals how they think and feel — their point of view."},
+        {"id": "c", "label": "The title of the story.", "correct": false, "explanation": "The title names the story, not the character's feelings."},
+        {"id": "d", "label": "The illustrations only.", "correct": false, "explanation": "Illustrations help, but the character's words and actions are the main clues."}
+      ],
+      "explanation_md": "A character's **dialogue** (words) and **actions** are the best clues to their point of view."
+    }
+  ]
+}
