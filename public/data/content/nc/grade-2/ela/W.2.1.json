@@ -1,0 +1,613 @@
+{
+  "skill_id": "W.2.1",
+  "benchmark_description": "Write opinion pieces in which they introduce the topic or book they are writing about, state an opinion, supply reasons that support the opinion, use linking words (e.g., because, and, also) to connect opinion and reasons, and provide a concluding statement or section.",
+  "course": "ela",
+  "strand": "W",
+  "lesson": {
+    "title": "Writing an Opinion: Share What You Think!",
+    "intro": "An opinion is what you think or believe about something. In an opinion piece, you tell your readers what you think AND give them reasons why. Let's learn how to write one!",
+    "body_md": "## What Is an Opinion Piece?\n\nAn **opinion piece** shares what the writer thinks about a topic. It is different from a fact piece because opinions can be argued. Different people can have different opinions.\n\n**Fact:** Dogs have four legs. (Everyone agrees.)\n**Opinion:** Dogs make better pets than cats. (People can disagree.)\n\n## Parts of an Opinion Piece\n\nA good opinion piece has FOUR parts:\n\n| Part | What It Does | Example |\n|---|---|---|\n| **Introduction** | Introduces the topic and states your opinion | 'Summer is the best season.' |\n| **Reasons** | Explain WHY you think this | 'Because you can swim and play outside all day.' |\n| **Linking words** | Connect your opinion and reasons | because, and, also, for example |\n| **Conclusion** | Wraps up your opinion | 'That is why summer is my favorite time of year.' |\n\n## Linking Words\n\nLinking words connect your ideas and make writing flow smoothly.\n\n| Linking Word | How to Use It |\n|---|---|\n| **because** | Gives the reason: 'I like art because it is creative.' |\n| **and** | Adds another idea: 'I like art and music.' |\n| **also** | Adds a second reason: 'Also, art is relaxing.' |\n| **for example** | Gives a specific example: 'For example, painting helps me feel calm.' |\n\n## Strong Opinions vs. Weak Opinions\n\nA strong opinion piece:\n- States the opinion clearly\n- Gives TWO or more reasons\n- Uses linking words\n- Has a conclusion",
+    "worked_example_md": "## Worked Example\n\n**Prompt:** Write an opinion about your favorite school subject.\n\n**Opinion Piece:**\n\n> My favorite subject in school is science. I think science is the best subject because it lets us do experiments. For example, our class made a volcano that really erupted! Also, science teaches us about the world around us, like how weather works and why the sky is blue. Because of all these reasons, science is the most exciting subject I have ever studied.\n\n**Let's analyze it:**\n\n- **Introduction + opinion:** 'My favorite subject is science. I think science is the best subject...'\n- **Reason 1:** 'because it lets us do experiments'\n- **Example:** 'For example, our class made a volcano...'\n- **Reason 2:** 'Also, science teaches us about the world around us'\n- **Linking words:** because, For example, Also, Because of all these reasons\n- **Conclusion:** '...science is the most exciting subject I have ever studied.'",
+    "estimated_minutes": 10
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is an **opinion**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Pizza is a food with cheese and sauce.",
+          "correct": false,
+          "explanation": "This is a fact that describes what pizza is. Everyone would agree with this statement."
+        },
+        {
+          "id": "b",
+          "label": "Pizza is the best food in the world.",
+          "correct": true,
+          "explanation": "This is an opinion. People can agree or disagree about whether pizza is the best food. It shows what the writer thinks."
+        },
+        {
+          "id": "c",
+          "label": "Pizza is served in many restaurants.",
+          "correct": false,
+          "explanation": "This is a fact. You could check this by looking at restaurants."
+        },
+        {
+          "id": "d",
+          "label": "Pizza was invented in Italy.",
+          "correct": false,
+          "explanation": "This is a historical fact that can be confirmed."
+        }
+      ],
+      "explanation_md": "'Pizza is the best food in the world' is an opinion because it tells what the writer thinks. Not everyone would agree. Opinions can be argued; facts cannot."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'I think every child should have a pet.'\n\nWhat part of an opinion piece is this?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A reason",
+          "correct": false,
+          "explanation": "A reason explains why the opinion is true. This sentence states what the student thinks, not why."
+        },
+        {
+          "id": "b",
+          "label": "The opinion statement",
+          "correct": true,
+          "explanation": "This sentence states the writer's opinion clearly. 'I think every child should have a pet' tells what the writer believes."
+        },
+        {
+          "id": "c",
+          "label": "The conclusion",
+          "correct": false,
+          "explanation": "A conclusion wraps up the piece. This is the beginning of the piece, where the opinion is introduced."
+        },
+        {
+          "id": "d",
+          "label": "A linking word",
+          "correct": false,
+          "explanation": "Linking words are words like because, also, and, for example. This is a full sentence stating an opinion."
+        }
+      ],
+      "explanation_md": "'I think every child should have a pet' states what the writer believes. That is the opinion statement \u2014 the heart of an opinion piece."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes: 'I love recess. _______ it gives us time to run and play.'\n\nWhich **linking word** best fills in the blank?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Also",
+          "correct": false,
+          "explanation": "'Also' is used to add another reason, not to explain why. 'Because' better connects the opinion to its reason."
+        },
+        {
+          "id": "b",
+          "label": "Because",
+          "correct": true,
+          "explanation": "'Because' connects an opinion to its reason. 'I love recess because it gives us time to run and play' \u2014 'because' introduces the reason."
+        },
+        {
+          "id": "c",
+          "label": "But",
+          "correct": false,
+          "explanation": "'But' signals a contrast. It would suggest something that goes against the love of recess, not a reason to love it."
+        },
+        {
+          "id": "d",
+          "label": "Then",
+          "correct": false,
+          "explanation": "'Then' signals a sequence in time. It does not connect an opinion to its reason."
+        }
+      ],
+      "explanation_md": "'Because' is the linking word that introduces a reason. 'I love recess because it gives us time to run and play' \u2014 'because' directly connects the opinion to the reason."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Read the opinion piece below, then answer the question.\n\n> Every classroom should have a class pet. First, taking care of a pet teaches responsibility. Also, it would make school more fun. For these reasons, I believe every class should have an animal to care for.\n\nWhat does the **last sentence** do in this piece?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It introduces a new reason.",
+          "correct": false,
+          "explanation": "The last sentence does not introduce a new reason. It wraps up the piece."
+        },
+        {
+          "id": "b",
+          "label": "It provides a concluding statement that restates the opinion.",
+          "correct": true,
+          "explanation": "'For these reasons, I believe every class should have an animal to care for' wraps up the opinion piece by restating the main opinion. This is the conclusion."
+        },
+        {
+          "id": "c",
+          "label": "It is the opinion statement.",
+          "correct": false,
+          "explanation": "The opinion statement is the first sentence. The last sentence is the conclusion."
+        },
+        {
+          "id": "d",
+          "label": "It is a linking word.",
+          "correct": false,
+          "explanation": "Linking words are words like because, also, and. The last sentence is a full concluding statement, not just a linking word."
+        }
+      ],
+      "explanation_md": "The last sentence says 'For these reasons, I believe...' and restates the main opinion. This is a concluding statement that wraps up the opinion piece."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student wants to add a **second reason** to this opinion piece:\n\n> 'I think our school should have a garden. Because growing food teaches us where it comes from.'\n\nWhich sentence best adds a second reason with a linking word?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Gardens have dirt and plants.'",
+          "correct": false,
+          "explanation": "This is a fact about gardens, not a reason why the school should have one."
+        },
+        {
+          "id": "b",
+          "label": "'Also, working in a garden gives students a chance to exercise and get fresh air.'",
+          "correct": true,
+          "explanation": "This adds a second reason (exercise and fresh air) using the linking word 'Also.' It supports the opinion that the school should have a garden."
+        },
+        {
+          "id": "c",
+          "label": "'Some students do not like gardens.'",
+          "correct": false,
+          "explanation": "This goes against the opinion. An opinion piece should support the writer's view, not argue against it."
+        },
+        {
+          "id": "d",
+          "label": "'Gardens exist all over the world.'",
+          "correct": false,
+          "explanation": "This is a fact about gardens in general. It does not support the opinion about why the school should have one."
+        }
+      ],
+      "explanation_md": "'Also, working in a garden gives students a chance to exercise and get fresh air' uses the linking word 'Also' and adds a new, specific reason that supports the opinion. This is how you add a second reason with a linking word."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the opinion piece below, then answer the question.\n\n> Books are better than TV. Books help you use your imagination because you have to picture everything in your head. Also, reading helps you learn new words. For example, I learned what 'enormous' meant from a book about elephants. That is why I think everyone should read more books.\n\nHow many **reasons** does the student give to support the opinion?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One",
+          "correct": false,
+          "explanation": "The student gives two reasons: books help with imagination, and reading helps you learn new words."
+        },
+        {
+          "id": "b",
+          "label": "Two",
+          "correct": true,
+          "explanation": "Reason 1: Books help you use your imagination. Reason 2: Reading helps you learn new words. The elephant example is support for Reason 2, not a separate reason."
+        },
+        {
+          "id": "c",
+          "label": "Three",
+          "correct": false,
+          "explanation": "The elephant example is an illustration of Reason 2 (learning new words), not a separate third reason."
+        },
+        {
+          "id": "d",
+          "label": "Four",
+          "correct": false,
+          "explanation": "There are only two main reasons. The conclusion and introduction do not count as reasons."
+        }
+      ],
+      "explanation_md": "Reason 1: Books help with imagination. Reason 2: Reading helps you learn new words. The elephant example supports Reason 2. There are two main reasons in this opinion piece."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which **concluding statement** best wraps up this opinion?\n\n**Opinion:** 'Students should get more free reading time in school.'",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Books are made of paper and words.'",
+          "correct": false,
+          "explanation": "This is a basic fact about books. It does not wrap up the opinion about free reading time."
+        },
+        {
+          "id": "b",
+          "label": "'For all these reasons, more reading time would make school better for everyone.'",
+          "correct": true,
+          "explanation": "This concluding statement refers back to the reasons given ('for all these reasons') and restates that more reading time would benefit school. It wraps up the piece effectively."
+        },
+        {
+          "id": "c",
+          "label": "'Some students do not like to read.'",
+          "correct": false,
+          "explanation": "This goes against the opinion and is not a conclusion. A conclusion wraps up and restates support for the opinion."
+        },
+        {
+          "id": "d",
+          "label": "'Reading is something people do.'",
+          "correct": false,
+          "explanation": "This is a vague statement that does not restate or wrap up the opinion about free reading time."
+        }
+      ],
+      "explanation_md": "A good conclusion restates the opinion and signals that the piece is ending. 'For all these reasons, more reading time would make school better for everyone' does both."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student's opinion piece has a strong opinion and two good reasons but no conclusion. What is **missing** and why does it matter?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Nothing is missing; two reasons are enough.",
+          "correct": false,
+          "explanation": "An opinion piece needs a conclusion to wrap up the writing. Without it, the piece feels unfinished."
+        },
+        {
+          "id": "b",
+          "label": "A concluding statement is missing. Without it, the piece ends abruptly and the reader does not have a sense of completion.",
+          "correct": true,
+          "explanation": "A conclusion wraps up the opinion piece and leaves the reader with a final impression of the writer's point. Without it, the writing feels cut off."
+        },
+        {
+          "id": "c",
+          "label": "More linking words are missing; the conclusion can wait.",
+          "correct": false,
+          "explanation": "Linking words help, but the missing element is the conclusion. All four parts (introduction, reasons, linking words, conclusion) are needed."
+        },
+        {
+          "id": "d",
+          "label": "The opinion statement is missing.",
+          "correct": false,
+          "explanation": "The problem states that the opinion is already there. The missing part is the conclusion."
+        }
+      ],
+      "explanation_md": "The four parts of an opinion piece are: introduction with opinion, reasons, linking words, and a conclusion. Without the conclusion, the piece ends abruptly and feels incomplete. A conclusion leaves the reader with a final, satisfying wrap-up of the writer's point."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Read the two opinion openings below. Which one is **stronger**, and why?\n\n**Opening A:** 'I think dogs are good.'\n\n**Opening B:** 'Dogs make the best pets because they are loyal, loving, and can even be trained to help people.'",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Opening A, because it is shorter and easier to write.",
+          "correct": false,
+          "explanation": "Being shorter is not the same as being stronger. A strong opinion opening clearly states the opinion and gives reasons."
+        },
+        {
+          "id": "b",
+          "label": "Opening B, because it clearly states the opinion and immediately begins supporting it with specific reasons.",
+          "correct": true,
+          "explanation": "Opening B states the opinion (dogs are best) and lists three reasons right away (loyal, loving, can help people). This is a much stronger start than a vague statement like 'I think dogs are good.'"
+        },
+        {
+          "id": "c",
+          "label": "Opening A, because it does not give away the reasons too early.",
+          "correct": false,
+          "explanation": "Including reasons early is a strength, not a weakness. Readers want to know immediately what the opinion is and why."
+        },
+        {
+          "id": "d",
+          "label": "Both are equally strong.",
+          "correct": false,
+          "explanation": "Opening B is clearly more specific and includes reasons. Opening A is vague."
+        }
+      ],
+      "explanation_md": "Opening B is stronger because it clearly states the opinion (dogs are best pets) and immediately gives specific reasons (loyal, loving, can help people). Strong opinion openings are specific and begin supporting the opinion right away."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student writes an opinion about a book:\n\n> 'Charlotte's Web is the best book I have ever read. Because the story is about a real friendship, because Charlotte works hard to save Wilbur, and because the ending is surprising.'\n\nWhat is the BIGGEST problem with how this opinion piece is written?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The student does not have a real opinion.",
+          "correct": false,
+          "explanation": "The student does have an opinion: Charlotte's Web is the best book. The problem is with how the reasons are connected."
+        },
+        {
+          "id": "b",
+          "label": "The student uses 'because' three times in a row instead of connecting reasons with varied linking words and complete sentences.",
+          "correct": true,
+          "explanation": "Starting three reasons all with 'because' and running them together creates an awkward list that does not flow. Each reason should be its own sentence. Varied linking words (also, in addition, for example) would help. The reasons also need to be written as complete sentences."
+        },
+        {
+          "id": "c",
+          "label": "The student mentions too many things about the book.",
+          "correct": false,
+          "explanation": "Giving multiple specific reasons is good. The problem is the structure and word choice, not the number of reasons."
+        },
+        {
+          "id": "d",
+          "label": "The student includes a conclusion.",
+          "correct": false,
+          "explanation": "The student does NOT have a conclusion. And including a conclusion would be a good thing, not a problem."
+        }
+      ],
+      "explanation_md": "The student repeats 'because' three times in a row without complete sentences or varied linking words. Better writing would use 'also,' 'in addition,' or 'for example' and write each reason as a full sentence. The piece also lacks a conclusion."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read the opinion piece below, then answer the question.\n\n> I believe art class should happen every day. Because art helps students relax after a long morning of work. Also, art teaches creativity that students use in other subjects. For these reasons, having art every day would make school better.\n\nWhich part of the piece is the **conclusion**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'I believe art class should happen every day.'",
+          "correct": false,
+          "explanation": "This is the opinion statement that introduces the piece. The conclusion comes at the end."
+        },
+        {
+          "id": "b",
+          "label": "'Because art helps students relax after a long morning of work.'",
+          "correct": false,
+          "explanation": "This is the first reason. Reasons come in the middle of the piece."
+        },
+        {
+          "id": "c",
+          "label": "'For these reasons, having art every day would make school better.'",
+          "correct": true,
+          "explanation": "This is the concluding statement. It uses 'For these reasons' to signal the end and restates the main opinion."
+        },
+        {
+          "id": "d",
+          "label": "'Also, art teaches creativity that students use in other subjects.'",
+          "correct": false,
+          "explanation": "This is the second reason. It supports the opinion but is not the conclusion."
+        }
+      ],
+      "explanation_md": "The last sentence ('For these reasons, having art every day would make school better') is the conclusion. It uses 'For these reasons' to signal it is wrapping up, and it restates the opinion."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing an opinion piece about their favorite season. Which sentence below is the **best opinion statement** to begin the piece?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'There are four seasons: winter, spring, summer, and fall.'",
+          "correct": false,
+          "explanation": "This is a fact about seasons, not an opinion. An opinion states what the writer thinks."
+        },
+        {
+          "id": "b",
+          "label": "'Winter is the best season because snow is beautiful and you can go sledding.'",
+          "correct": true,
+          "explanation": "This is a strong opinion statement. It clearly states what the writer thinks (winter is best) and begins giving a reason (snow, sledding)."
+        },
+        {
+          "id": "c",
+          "label": "'Some people like summer and some people like winter.'",
+          "correct": false,
+          "explanation": "This describes different preferences but does not state the writer's own opinion."
+        },
+        {
+          "id": "d",
+          "label": "'Seasons change throughout the year.'",
+          "correct": false,
+          "explanation": "This is a fact about seasons, not an opinion."
+        }
+      ],
+      "explanation_md": "'Winter is the best season because snow is beautiful and you can go sledding' clearly states an opinion and begins providing a reason. That is what a strong opinion statement does."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A student has written this opinion piece:\n\n> 'I think homework should be shorter. It is too long. Also I do not like it. I am done now.'\n\nWhat are **two improvements** the student should make?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Add more linking words and make the opinion clearer.",
+          "correct": false,
+          "explanation": "While linking words could help, the bigger problems are the lack of real reasons (just saying 'It is too long' and 'I do not like it' are not strong reasons with explanation) and the poor conclusion ('I am done now')."
+        },
+        {
+          "id": "b",
+          "label": "Add specific reasons that explain WHY homework should be shorter, and replace 'I am done now' with a proper concluding statement.",
+          "correct": true,
+          "explanation": "The piece gives no specific reasons (just that it is too long and is disliked). Strong reasons would explain the impact (e.g., 'less homework would give students time to read and play, which also helps them learn'). The conclusion 'I am done now' is informal and does not wrap up the opinion properly."
+        },
+        {
+          "id": "c",
+          "label": "Change the opinion to 'homework should be longer.'",
+          "correct": false,
+          "explanation": "Changing the opinion is not an improvement. The writer should strengthen their existing argument."
+        },
+        {
+          "id": "d",
+          "label": "Remove the opinion statement and just write reasons.",
+          "correct": false,
+          "explanation": "An opinion piece needs an opinion statement. The problem is the weak reasons and poor conclusion, not the presence of an opinion."
+        }
+      ],
+      "explanation_md": "The piece has a weak opinion statement (no clear topic introduction), no specific reasons (just 'too long' and 'don't like it'), and an informal conclusion ('I am done now'). The student needs specific reasons with explanations and a proper concluding statement."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following is an **opinion**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Apples grow on trees.",
+          "correct": false,
+          "explanation": "This is a fact. Everyone agrees that apples grow on trees."
+        },
+        {
+          "id": "b",
+          "label": "Apples are the best fruit.",
+          "correct": true,
+          "explanation": "This is an opinion. People can disagree about which fruit is best."
+        },
+        {
+          "id": "c",
+          "label": "Apples are red, green, or yellow.",
+          "correct": false,
+          "explanation": "This is a fact about apple colors."
+        },
+        {
+          "id": "d",
+          "label": "Apples have seeds inside.",
+          "correct": false,
+          "explanation": "This is a fact about apples."
+        }
+      ],
+      "explanation_md": "'Apples are the best fruit' is an opinion because people can disagree. Facts can be proved; opinions are what someone thinks."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is a **reason** in an opinion piece?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A question the reader might ask",
+          "correct": false,
+          "explanation": "A reason supports the opinion. Questions are not reasons."
+        },
+        {
+          "id": "b",
+          "label": "An explanation for why the writer thinks something",
+          "correct": true,
+          "explanation": "A reason explains WHY the writer holds the opinion. It supports the opinion and makes it more believable."
+        },
+        {
+          "id": "c",
+          "label": "The title of the opinion piece",
+          "correct": false,
+          "explanation": "The title names the piece. Reasons support the opinion."
+        },
+        {
+          "id": "d",
+          "label": "A word that connects ideas",
+          "correct": false,
+          "explanation": "Words that connect ideas are called linking words. A reason is an explanation that supports the opinion."
+        }
+      ],
+      "explanation_md": "A reason explains WHY the writer holds the opinion. It answers the question 'Why do you think that?'"
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which linking word shows you are **adding another reason**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "But",
+          "correct": false,
+          "explanation": "'But' shows a contrast or goes against what was just said."
+        },
+        {
+          "id": "b",
+          "label": "Also",
+          "correct": true,
+          "explanation": "'Also' signals that another reason is being added. Example: 'I like art. Also, I enjoy music.'"
+        },
+        {
+          "id": "c",
+          "label": "Because",
+          "correct": false,
+          "explanation": "'Because' introduces the reason for something, not adds another one."
+        },
+        {
+          "id": "d",
+          "label": "When",
+          "correct": false,
+          "explanation": "'When' signals a time. It does not add a second reason."
+        }
+      ],
+      "explanation_md": "'Also' is used to add another reason or idea. 'I like cats. Also, I think they are very clean animals.' The word 'also' signals that another point is being added."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student is writing about why the school cafeteria should serve more fruit. Which sentence is the best **reason**?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Fruit is a food.",
+          "correct": false,
+          "explanation": "This is a fact, not a reason why the cafeteria should serve more fruit."
+        },
+        {
+          "id": "b",
+          "label": "Eating fruit gives students energy and vitamins they need to learn.",
+          "correct": true,
+          "explanation": "This reason explains a specific benefit of eating more fruit (energy and vitamins for learning), directly supporting the opinion."
+        },
+        {
+          "id": "c",
+          "label": "The cafeteria is in the school.",
+          "correct": false,
+          "explanation": "This is a fact about where the cafeteria is. It does not support the opinion about serving more fruit."
+        },
+        {
+          "id": "d",
+          "label": "Not all students like fruit.",
+          "correct": false,
+          "explanation": "This goes against the opinion. A reason should support the opinion."
+        }
+      ],
+      "explanation_md": "'Eating fruit gives students energy and vitamins they need to learn' is a specific reason that directly supports the opinion that the cafeteria should serve more fruit."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence is a good **concluding statement** for an opinion piece about why students should drink more water?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "'Water is made of hydrogen and oxygen.'",
+          "correct": false,
+          "explanation": "This is a science fact. It does not wrap up the opinion."
+        },
+        {
+          "id": "b",
+          "label": "'For all these reasons, drinking more water would help students feel better and do their best at school.'",
+          "correct": true,
+          "explanation": "This conclusion uses 'For all these reasons' to wrap up and restates that drinking water helps students. It is a proper concluding statement."
+        },
+        {
+          "id": "c",
+          "label": "'That is all I have to say.'",
+          "correct": false,
+          "explanation": "This is too vague and informal. A good conclusion restates the opinion in a meaningful way."
+        },
+        {
+          "id": "d",
+          "label": "'My teacher said to write a conclusion.'",
+          "correct": false,
+          "explanation": "This tells why the student is writing a conclusion, not what the conclusion says. A conclusion should wrap up the opinion."
+        }
+      ],
+      "explanation_md": "'For all these reasons, drinking more water would help students feel better and do their best at school' restates the opinion and wraps up the piece. That is a proper concluding statement."
+    }
+  ]
+}
