@@ -1,0 +1,253 @@
+{
+  "skill_id": "2.06",
+  "benchmark_description": "Identify and describe ways people in communities depend on each other through the exchange of goods and services.",
+  "course": "social_studies",
+  "strand": "ECO",
+  "lesson": {
+    "title": "Goods, Services, and Working Together",
+    "intro": "Nobody in a community can do everything alone! People share jobs and trade with each other. Let's learn how people depend on each other every single day.",
+    "body_md": "## Goods vs. Services\n\n**Goods** are things that can be touched and bought.\n- Food at a grocery store\n- Clothes at a clothing store\n- Books, toys, tools\n\n**Services** are things people do for others.\n- A doctor checks your health\n- A teacher helps you learn\n- A firefighter keeps you safe\n- A barber gives haircuts\n\n## Interdependence\n\n**Interdependence** means people depend on each other. In a community, workers provide goods and services that other people need.\n\n**Example chain:**\n1. A **farmer** grows wheat.\n2. A **truck driver** brings the wheat to a bakery.\n3. A **baker** makes bread.\n4. A **store clerk** sells the bread.\n5. A **family** buys and eats the bread.\n\nEvery person in this chain depended on the others!\n\n## Jobs in the Community\n\n| Worker | Provides | Good or Service? |\n|---|---|---|\n| Farmer | Vegetables, grain | Good |\n| Doctor | Medical care | Service |\n| Teacher | Education | Service |\n| Baker | Bread, pastries | Good |\n| Plumber | Fixing pipes | Service |\n| Storekeeper | Products to buy | Good |\n| Bus driver | Transportation | Service |\n\n## Exchanging Goods and Services\n\nPeople exchange goods and services using **money**. When you buy something, you give money. The seller gives you the good or service.\n\nThis is called a **transaction**:\n- You give money to a store.\n- The store gives you food (a good).\n- You give money to a barber.\n- The barber gives you a haircut (a service).\n\n## Trade in the Community\n\nSometimes communities trade with other communities. One town might grow apples. Another town makes furniture. They trade their goods with each other.\n\n## Why Communities Depend on Each Other\n\nNo single person can grow their own food, build their own house, teach themselves, and provide their own medical care all at once. Communities work better when people share skills and trade goods and services.",
+    "worked_example_md": "## Worked Example\n\n**Question:** Read this story. Identify goods and services. Explain how people in the story depend on each other.\n\n**Story:** \"Emma's mom works as a nurse at the hospital. She gets paid. On the way home, she stops at the farmer's market and buys vegetables from Mr. Park. Emma's dad is a plumber. He fixes leaks for neighbors, who pay him. At dinner, the family uses vegetables from the market.\"\n\n**Step 1 — Find the goods:**\n- Vegetables from Mr. Park = **goods** (can be touched and bought)\n\n**Step 2 — Find the services:**\n- Emma's mom provides nursing care = **service**\n- Emma's dad fixes leaks = **service**\n\n**Step 3 — How do they depend on each other?**\n- Emma's mom earns money as a nurse to buy Mr. Park's vegetables.\n- Mr. Park earns money by selling vegetables.\n- Neighbors depend on Emma's dad for plumbing help.\n- Emma's dad earns money from neighbors who need his skill.\n\n**Answer:** People in this story provide and exchange goods and services. They depend on each other: the nurse helps patients, the plumber fixes pipes, and the farmer grows food. Each person's work benefits others.",
+    "estimated_minutes": 9
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **good**?",
+      "choices": [
+        {"id": "a", "label": "A haircut", "correct": false, "explanation": "A haircut is a service — something someone does for you, not a thing you can take home."},
+        {"id": "b", "label": "A loaf of bread", "correct": true, "explanation": "Bread is a good — a physical item you can touch and buy."},
+        {"id": "c", "label": "A doctor's checkup", "correct": false, "explanation": "A checkup is a service — something a doctor does for you."},
+        {"id": "d", "label": "A bus ride", "correct": false, "explanation": "A bus ride is a service — transportation provided for you."}
+      ],
+      "explanation_md": "A loaf of bread is a good. Goods are things you can touch and buy."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a **service**?",
+      "choices": [
+        {"id": "a", "label": "A pair of shoes", "correct": false, "explanation": "Shoes are a good — a physical item you can touch and wear."},
+        {"id": "b", "label": "A bag of apples", "correct": false, "explanation": "Apples are a good — you can touch and eat them."},
+        {"id": "c", "label": "A teacher helping you learn", "correct": true, "explanation": "Teaching is a service — it is something done for you, not a physical item."},
+        {"id": "d", "label": "A toy car", "correct": false, "explanation": "A toy car is a good — you can touch it and play with it."}
+      ],
+      "explanation_md": "A teacher helping you learn is a service — it is work done for you, not a physical item."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "What does **interdependence** mean?",
+      "choices": [
+        {"id": "a", "label": "People living alone and not needing anyone else", "correct": false, "explanation": "Interdependence is the opposite — it means people need each other."},
+        {"id": "b", "label": "People depending on each other for goods and services", "correct": true, "explanation": "Interdependence means people in a community rely on each other for goods and services."},
+        {"id": "c", "label": "A community that has only one store", "correct": false, "explanation": "The number of stores is not what interdependence means."},
+        {"id": "d", "label": "A rule that says people must share everything", "correct": false, "explanation": "Interdependence is not a law. It is the natural way communities rely on each other."}
+      ],
+      "explanation_md": "Interdependence means people in a community depend on each other for goods and services."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A farmer grows corn and sells it to a store. A family buys the corn at the store. What does this show?",
+      "choices": [
+        {"id": "a", "label": "That the family does not need the farmer", "correct": false, "explanation": "The family depends on the farmer for corn. This is exactly the opposite."},
+        {"id": "b", "label": "That communities depend on each other through exchanging goods", "correct": true, "explanation": "The farmer, store, and family all depend on each other in this exchange of goods."},
+        {"id": "c", "label": "That the farmer works alone with no help", "correct": false, "explanation": "The farmer depends on the store to sell the corn and on the family to buy it."},
+        {"id": "d", "label": "That services are more important than goods", "correct": false, "explanation": "The example shows goods being exchanged. Neither goods nor services are more important."}
+      ],
+      "explanation_md": "This shows how communities depend on each other through the exchange of goods."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A truck driver brings food from farms to city grocery stores. How is the truck driver important to the community?",
+      "choices": [
+        {"id": "a", "label": "The truck driver is not important because stores can get food by themselves", "correct": false, "explanation": "Stores depend on truck drivers to bring food from farms. Without truck drivers, stores would run out of food."},
+        {"id": "b", "label": "The truck driver connects farmers to stores and helps people get the food they need", "correct": true, "explanation": "Truck drivers are a key link in the chain that brings food from farms to people in the community."},
+        {"id": "c", "label": "The truck driver is only important during emergencies", "correct": false, "explanation": "Truck drivers are needed every day to keep stores stocked with food."},
+        {"id": "d", "label": "The truck driver makes the bread that families eat", "correct": false, "explanation": "Truck drivers transport food; bakers make bread."}
+      ],
+      "explanation_md": "Truck drivers connect farmers and stores. They are a vital link in getting food to the community."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Mia pays a dentist to clean her teeth. The dentist uses the money to buy groceries. What does this show?",
+      "choices": [
+        {"id": "a", "label": "That dentists should not buy groceries", "correct": false, "explanation": "There is nothing wrong with dentists buying groceries. This example shows interdependence."},
+        {"id": "b", "label": "That money is not important in communities", "correct": false, "explanation": "Money is how people exchange goods and services. It is important in communities."},
+        {"id": "c", "label": "That people in a community depend on each other through exchange", "correct": true, "explanation": "Mia needs the dentist's service. The dentist needs grocery goods. They exchange using money. This is interdependence."},
+        {"id": "d", "label": "That dentists only care about money", "correct": false, "explanation": "The example shows how money flows through the community, not that dentists only care about money."}
+      ],
+      "explanation_md": "This shows interdependence. Mia needs the dentist's service; the dentist needs groceries. Money helps them exchange."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which worker provides a **service**?",
+      "choices": [
+        {"id": "a", "label": "A farmer who grows and sells apples", "correct": false, "explanation": "Growing and selling apples are goods, not services."},
+        {"id": "b", "label": "A factory worker who makes cars", "correct": false, "explanation": "Making cars produces goods, not services."},
+        {"id": "c", "label": "A plumber who fixes a leaking pipe", "correct": true, "explanation": "A plumber fixes pipes. Fixing is work done for someone else — a service."},
+        {"id": "d", "label": "A baker who sells loaves of bread", "correct": false, "explanation": "Bread is a good. Selling it is exchanging goods, not providing a service."}
+      ],
+      "explanation_md": "A plumber fixes pipes. Fixing something for someone is a service."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why can't one person do everything in a community alone?",
+      "choices": [
+        {"id": "a", "label": "Because laws say people must work together", "correct": false, "explanation": "There is no law forcing people to work together. Communities cooperate naturally because it is more efficient."},
+        {"id": "b", "label": "Because there are too many different skills and goods needed for one person to provide them all", "correct": true, "explanation": "One person cannot grow all food, provide all medical care, teach, build houses, and do all other jobs at once."},
+        {"id": "c", "label": "Because people in communities do not like working alone", "correct": false, "explanation": "The reason for interdependence is practical. Too many different goods and services are needed."},
+        {"id": "d", "label": "Because only leaders can provide goods and services", "correct": false, "explanation": "All community workers provide goods and services, not just leaders."}
+      ],
+      "explanation_md": "One person cannot provide all the goods and services a community needs. That is why people depend on each other."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Town A grows lots of peaches. Town B makes furniture. Neither town has what the other produces. What should they do?",
+      "choices": [
+        {"id": "a", "label": "Both towns should grow their own peaches and make their own furniture", "correct": false, "explanation": "It would be less efficient for each town to try to produce everything. Trade allows each to focus on what it does best."},
+        {"id": "b", "label": "Trade — Town A gives peaches to Town B, and Town B gives furniture to Town A", "correct": true, "explanation": "Trading allows each community to share what it produces best with others who need it."},
+        {"id": "c", "label": "Town A should take furniture from Town B without paying", "correct": false, "explanation": "Taking things without paying is stealing. Communities trade, not steal."},
+        {"id": "d", "label": "Town B should stop making furniture since it cannot grow peaches", "correct": false, "explanation": "Making furniture is Town B's strength. They should keep making it and trade with Town A for peaches."}
+      ],
+      "explanation_md": "Communities trade goods they produce with others who need them. Town A trades peaches; Town B trades furniture."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "If all the truck drivers in a city stopped working for a week, what would MOST LIKELY happen?",
+      "choices": [
+        {"id": "a", "label": "Nothing would change because stores have their own food", "correct": false, "explanation": "Stores depend on regular deliveries. Without truck drivers, store shelves would quickly empty."},
+        {"id": "b", "label": "Stores would run low on food and other goods because deliveries would stop", "correct": true, "explanation": "Truck drivers are key to the supply chain. Without deliveries, stores would run out of goods."},
+        {"id": "c", "label": "Farmers would bring their food directly to every family's door", "correct": false, "explanation": "Most farmers do not deliver food door to door. They rely on truck drivers and stores."},
+        {"id": "d", "label": "Stores would have more food because they would grow their own", "correct": false, "explanation": "Stores do not grow food. They rely on deliveries from truck drivers."}
+      ],
+      "explanation_md": "Truck drivers keep goods flowing from farms and factories to stores. Without them, stores would run low on goods."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Sort the following into goods or services:\n- Haircut\n- Bag of potatoes\n- Nurse visit\n- Pair of sneakers\n\nWhich list is correct?",
+      "choices": [
+        {"id": "a", "label": "Goods: Haircut, Nurse visit. Services: Bag of potatoes, Sneakers.", "correct": false, "explanation": "Haircut and nurse visit are services. Potatoes and sneakers are goods."},
+        {"id": "b", "label": "Goods: Bag of potatoes, Sneakers. Services: Haircut, Nurse visit.", "correct": true, "explanation": "Potatoes and sneakers are physical goods. Haircuts and nurse visits are services."},
+        {"id": "c", "label": "Goods: Haircut, Sneakers. Services: Nurse visit, Potatoes.", "correct": false, "explanation": "A haircut is a service, not a good. Potatoes are a good, not a service."},
+        {"id": "d", "label": "Everything is a service.", "correct": false, "explanation": "Potatoes and sneakers are goods — physical items you can touch."}
+      ],
+      "explanation_md": "Goods are physical items (potatoes, sneakers). Services are work done for you (haircut, nurse visit)."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "In a community, a baker makes bread and sells it to neighbors. The neighbors pay the baker. What does this exchange show?",
+      "choices": [
+        {"id": "a", "label": "That the baker does not need neighbors", "correct": false, "explanation": "The baker depends on neighbors to buy bread. This shows interdependence."},
+        {"id": "b", "label": "That communities depend on each other through exchange of goods using money", "correct": true, "explanation": "The baker provides a good (bread) and receives money. This is a community exchange showing interdependence."},
+        {"id": "c", "label": "That only bakers are important in communities", "correct": false, "explanation": "Many different workers are important in communities, not just bakers."},
+        {"id": "d", "label": "That bread is the most important good in a community", "correct": false, "explanation": "Many goods are important in communities, not just bread."}
+      ],
+      "explanation_md": "This exchange shows how communities use money to trade goods. The baker and neighbors depend on each other."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for communities to have many different kinds of workers?",
+      "choices": [
+        {"id": "a", "label": "So that leaders have more people to boss around", "correct": false, "explanation": "Having many workers is about meeting community needs, not about giving leaders more people to manage."},
+        {"id": "b", "label": "Because no single person can provide all the goods and services a community needs", "correct": true, "explanation": "Communities need farmers, doctors, teachers, builders, and many more workers because no one person can do it all."},
+        {"id": "c", "label": "So communities can win competitions against other communities", "correct": false, "explanation": "Communities have many workers to meet needs, not to compete."},
+        {"id": "d", "label": "Because having one kind of worker is boring", "correct": false, "explanation": "The reason for having many types of workers is practical — meeting community needs."}
+      ],
+      "explanation_md": "Communities need many different workers because no single person can provide all the goods and services needed."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A good is something you can:",
+      "choices": [
+        {"id": "a", "label": "Only see on TV", "correct": false, "explanation": "Goods are real items you can buy and touch, not just things on TV."},
+        {"id": "b", "label": "Touch and buy", "correct": true, "explanation": "Goods are physical things you can touch and purchase, like food or clothes."},
+        {"id": "c", "label": "Never buy", "correct": false, "explanation": "Goods are bought and sold every day."},
+        {"id": "d", "label": "Only get for free", "correct": false, "explanation": "Goods are exchanged for money, not always given for free."}
+      ],
+      "explanation_md": "A good is a physical item you can touch and buy, like food, clothing, or toys."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A service is something that someone:",
+      "choices": [
+        {"id": "a", "label": "Makes with their hands and sells in a store", "correct": false, "explanation": "Making something with hands and selling it in a store is providing goods, not a service."},
+        {"id": "b", "label": "Does for someone else, like fixing a car or teaching a class", "correct": true, "explanation": "Services are work or help provided by one person for another."},
+        {"id": "c", "label": "Grows in a garden", "correct": false, "explanation": "Things grown in a garden are goods, not services."},
+        {"id": "d", "label": "Finds on the ground", "correct": false, "explanation": "Services are work done for others, not things found on the ground."}
+      ],
+      "explanation_md": "A service is work done for someone else, like a haircut, doctor's visit, or teaching."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which worker provides a good?",
+      "choices": [
+        {"id": "a", "label": "A dentist who cleans teeth", "correct": false, "explanation": "Cleaning teeth is a service. A dentist provides a service."},
+        {"id": "b", "label": "A baker who makes and sells bread", "correct": true, "explanation": "Bread is a good. The baker makes and sells a physical item."},
+        {"id": "c", "label": "A teacher who teaches math", "correct": false, "explanation": "Teaching is a service, not a good."},
+        {"id": "d", "label": "A firefighter who puts out fires", "correct": false, "explanation": "Putting out fires is a service provided by firefighters."}
+      ],
+      "explanation_md": "A baker makes and sells bread. Bread is a good — a physical item you can buy and eat."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "People in communities depend on each other. This is called:",
+      "choices": [
+        {"id": "a", "label": "Voting", "correct": false, "explanation": "Voting is choosing leaders. Depending on each other is called interdependence."},
+        {"id": "b", "label": "Interdependence", "correct": true, "explanation": "Interdependence means people depend on each other for goods and services."},
+        {"id": "c", "label": "Geography", "correct": false, "explanation": "Geography is the study of land and water, not how people depend on each other."},
+        {"id": "d", "label": "Culture", "correct": false, "explanation": "Culture is traditions and celebrations. Depending on each other is interdependence."}
+      ],
+      "explanation_md": "Interdependence means people in a community depend on each other for goods and services."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "When you give a store money and get a toy in return, this is called:",
+      "choices": [
+        {"id": "a", "label": "An election", "correct": false, "explanation": "An election is when people vote for leaders. Buying and selling is an exchange."},
+        {"id": "b", "label": "An exchange", "correct": true, "explanation": "When you give money and get a good or service in return, that is an exchange."},
+        {"id": "c", "label": "A community law", "correct": false, "explanation": "A law is a community rule. Buying something is an exchange."},
+        {"id": "d", "label": "A geography lesson", "correct": false, "explanation": "Buying a toy has nothing to do with geography."}
+      ],
+      "explanation_md": "When you give money and get a good or service in return, that is called an exchange."
+    }
+  ]
+}
