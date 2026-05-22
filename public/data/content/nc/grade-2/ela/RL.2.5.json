@@ -1,0 +1,253 @@
+{
+  "skill_id": "RL.2.5",
+  "benchmark_description": "Describe the overall structure of a story, including how the beginning introduces the story and the ending concludes the action.",
+  "course": "ela",
+  "strand": "RL",
+  "lesson": {
+    "title": "Story Structure: Beginning, Middle, and End",
+    "intro": "Every story has a shape — a structure. The beginning, middle, and end each have a special job. Learning how stories are built helps you understand and remember what you read.",
+    "body_md": "## The Three Parts of Every Story\n\n### Beginning\nThe beginning introduces the story. In the beginning, the author tells us:\n- **Who** is in the story (characters)\n- **Where** the story takes place (setting)\n- **What** problem or situation starts the action\n\n### Middle\nThe middle is where most of the action happens. The character(s) face challenges and try to solve the problem. Things get complicated or exciting here.\n\n### End\nThe ending **concludes the action**. This means:\n- The problem gets solved (or not solved)\n- The characters learn something\n- The story wraps up — loose ends are tied\n\n## Why Structure Matters\n\nAuthors plan the structure carefully. A strong beginning hooks the reader. A satisfying ending gives the reader a feeling of completion. Without a clear ending, readers feel confused or unsatisfied.\n\n## A Simple Map\n\n| Part | Job | Questions Answered |\n|---|---|---|\n| Beginning | Introduce | Who? Where? What is the problem? |\n| Middle | Build action | What do characters try? What happens? |\n| End | Conclude | How is the problem solved? What changed? |",
+    "worked_example_md": "**Mini-story:** Maya lost her favorite red hat. She searched her room, the playground, and the library. Finally, she found it on the hook by the front door where she always left it.\n\n**Beginning:** Maya loses her hat — we learn who (Maya), the problem (lost hat), and the setting (her home/neighborhood).\n**Middle:** Maya searches three places — the conflict and action build.\n**End:** She finds the hat at home — the problem is solved and the story concludes.\n\n**Question:** How does the ending *conclude* the action?\n\n**Answer:** The ending solves the problem (hat is found) and closes the story — we know Maya's search is over.",
+    "estimated_minutes": 8
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In a story, which part introduces the characters and setting?",
+      "choices": [
+        {"id": "a", "label": "The end", "correct": false, "explanation": "The end wraps up the story; it does not introduce it."},
+        {"id": "b", "label": "The middle", "correct": false, "explanation": "The middle builds the action after the introduction."},
+        {"id": "c", "label": "The beginning", "correct": true, "explanation": "The beginning introduces the characters, setting, and starting situation."},
+        {"id": "d", "label": "The title", "correct": false, "explanation": "The title names the story, but the beginning introduces everything."}
+      ],
+      "explanation_md": "The **beginning** of a story introduces who is in the story, where it takes place, and what the problem is."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "What is the job of the **ending** of a story?",
+      "choices": [
+        {"id": "a", "label": "To introduce the main character.", "correct": false, "explanation": "Characters are introduced in the beginning."},
+        {"id": "b", "label": "To start the problem.", "correct": false, "explanation": "The problem begins in the beginning or middle."},
+        {"id": "c", "label": "To conclude the action and wrap up the story.", "correct": true, "explanation": "The ending solves the problem and gives the reader a sense of completion."},
+        {"id": "d", "label": "To add more problems for the character.", "correct": false, "explanation": "New problems usually appear in the middle, not the end."}
+      ],
+      "explanation_md": "The **ending** of a story **concludes the action** — it wraps things up so the reader feels the story is complete."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "A student reads a story. The first paragraph says: *\"Zoe was a small turtle who lived by a big pond. One morning, she woke up to find a giant fence had been built around her favorite log.\"* What part of the story is this?",
+      "choices": [
+        {"id": "a", "label": "The middle — because there is already a problem.", "correct": false, "explanation": "This is still the beginning — we are just now learning about the character and the starting problem."},
+        {"id": "b", "label": "The beginning — it introduces the character and the starting situation.", "correct": true, "explanation": "This is the beginning: we meet Zoe, learn her setting (pond), and discover the starting problem (fence)."},
+        {"id": "c", "label": "The end — because the fence is the solution.", "correct": false, "explanation": "The fence is the problem, not the solution. This is not the end."},
+        {"id": "d", "label": "The climax — because it is exciting.", "correct": false, "explanation": "The climax is the most exciting point, which usually comes later in the middle."}
+      ],
+      "explanation_md": "This is the **beginning** because it introduces the character (Zoe), the setting (pond), and the starting problem (fence)."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which of the following describes what happens in the **middle** of most stories?",
+      "choices": [
+        {"id": "a", "label": "The characters are introduced for the first time.", "correct": false, "explanation": "Characters are introduced in the beginning."},
+        {"id": "b", "label": "The characters face challenges and try to solve the problem.", "correct": true, "explanation": "The middle is where the action builds and characters work on solving the problem."},
+        {"id": "c", "label": "The problem is solved and the story wraps up.", "correct": false, "explanation": "That describes the ending."},
+        {"id": "d", "label": "The author tells you the title and theme.", "correct": false, "explanation": "The title is on the cover; theme is a separate concept."}
+      ],
+      "explanation_md": "The **middle** is where characters face challenges and try to solve the problem — the action builds here."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A story ends with: *\"Ben hugged his grandma and promised to write letters every week. He had learned that distance could not break a family's love.\"* What does this ending do?",
+      "choices": [
+        {"id": "a", "label": "It introduces the setting.", "correct": false, "explanation": "Settings are introduced at the beginning."},
+        {"id": "b", "label": "It concludes the action and shows what Ben learned.", "correct": true, "explanation": "The ending wraps up the story and shows the character's growth (learning a lesson)."},
+        {"id": "c", "label": "It starts a new problem.", "correct": false, "explanation": "The ending should resolve problems, not start new ones."},
+        {"id": "d", "label": "It describes the middle of the action.", "correct": false, "explanation": "This is clearly the conclusion — the character has learned a lesson."}
+      ],
+      "explanation_md": "This ending **concludes the action** (Ben makes a promise) and shows what the character learned — both are key jobs of a story's ending."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "If a story does NOT have a clear ending, what problem might a reader have?",
+      "choices": [
+        {"id": "a", "label": "They might not know who the characters are.", "correct": false, "explanation": "Character information comes from the beginning, not the end."},
+        {"id": "b", "label": "They might feel confused because the problem was never solved.", "correct": true, "explanation": "Without a clear ending, readers feel unsatisfied because they don't know how the story concludes."},
+        {"id": "c", "label": "They might not understand the setting.", "correct": false, "explanation": "Setting is described in the beginning."},
+        {"id": "d", "label": "They might skip the middle.", "correct": false, "explanation": "The ending being missing affects how the story concludes, not whether readers skip the middle."}
+      ],
+      "explanation_md": "Without a clear ending, readers feel **confused and unsatisfied** — they don't know if or how the problem was resolved."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "A student summarizes a story: *\"A girl wants to be on the soccer team but keeps missing practice. Finally, she asks her dad to drive her and makes the team.\"* Which part is missing from this summary?",
+      "choices": [
+        {"id": "a", "label": "The beginning — we don't know where the story takes place.", "correct": true, "explanation": "The summary jumps straight to the problem without introducing who the girl is, where she lives, or the full starting context."},
+        {"id": "b", "label": "The middle — we don't know what she tried.", "correct": false, "explanation": "The middle is somewhat present (she keeps missing practice)."},
+        {"id": "c", "label": "The ending — we don't know if she made the team.", "correct": false, "explanation": "The ending is there — she makes the team."},
+        {"id": "d", "label": "Nothing is missing — this is a complete summary.", "correct": false, "explanation": "The beginning (introducing character/setting fully) is underdeveloped."}
+      ],
+      "explanation_md": "A strong summary needs all three parts. The **beginning** here is weak — we don't know the character's full name, setting, or how the story opens."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "Two stories have the same problem: a child is lost in the woods. Story A ends with the child finding a path home. Story B ends with the child still lost and crying. How does the **ending** change the overall feeling of each story?",
+      "choices": [
+        {"id": "a", "label": "Both endings give the reader the same feeling.", "correct": false, "explanation": "The two endings create very different feelings."},
+        {"id": "b", "label": "Story A's ending feels resolved and hopeful; Story B's feels unresolved and sad.", "correct": true, "explanation": "The ending shapes the reader's emotional experience — a solved problem feels satisfying; an unsolved one feels sad or tense."},
+        {"id": "c", "label": "Story B's ending is better because it is more exciting.", "correct": false, "explanation": "Whether an ending is 'better' depends on the author's purpose, but neither is objectively better."},
+        {"id": "d", "label": "The ending does not change the feeling — only the middle matters.", "correct": false, "explanation": "The ending has a major impact on how the reader feels after finishing the story."}
+      ],
+      "explanation_md": "The **ending** shapes the overall mood and feeling. A resolved ending (finding home) feels hopeful; an unresolved ending (still lost) feels sad or tense."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "An author writes a story where the first sentence is: *\"On a dark and stormy night, twelve-year-old Leo heard a knock at the door.\"* What does this beginning do well?",
+      "choices": [
+        {"id": "a", "label": "It wraps up the story's problem.", "correct": false, "explanation": "Wrapping up the problem is the job of the ending."},
+        {"id": "b", "label": "It introduces the character, setting, and a hint of conflict that hooks the reader.", "correct": true, "explanation": "We learn who (Leo), the setting (stormy night), and there is a mysterious knock — an immediate hook."},
+        {"id": "c", "label": "It tells us what Leo will learn at the end.", "correct": false, "explanation": "A good beginning does not reveal the ending."},
+        {"id": "d", "label": "It solves the mystery of the knock.", "correct": false, "explanation": "The knock is an unsolved mystery — that is the point. It draws the reader in."}
+      ],
+      "explanation_md": "A strong beginning introduces character (Leo), setting (dark and stormy night), and creates an immediate mystery (knock at door) to **hook the reader**."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student says: *\"The beginning of a story is the least important part because the exciting stuff happens in the middle.\"* Do you agree or disagree? Choose the best response.",
+      "choices": [
+        {"id": "a", "label": "Agree — only the middle matters for understanding the story.", "correct": false, "explanation": "Without the beginning, readers don't know the characters, setting, or problem — the middle would be confusing."},
+        {"id": "b", "label": "Disagree — the beginning is crucial because it sets up everything the middle and end depend on.", "correct": true, "explanation": "The beginning introduces characters, setting, and the problem. Without it, the middle and end cannot be understood."},
+        {"id": "c", "label": "Agree — beginnings are just descriptions and can be skipped.", "correct": false, "explanation": "Beginnings contain essential information — skipping them would leave the reader lost."},
+        {"id": "d", "label": "Disagree — actually the ending is the only important part.", "correct": false, "explanation": "All three parts are important. The ending alone cannot make sense without the beginning and middle."}
+      ],
+      "explanation_md": "**All three parts are essential.** The beginning sets up the characters, setting, and problem — without it, the middle and ending would make no sense."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Read this passage: *\"One sunny morning, Ella the elephant woke up to find she had lost her favorite flower. She searched the savanna all day. At last, she spotted it tucked behind a baobab tree.\"*\n\nWhich part is the **ending** of this mini-story?",
+      "choices": [
+        {"id": "a", "label": "Ella woke up to find she had lost her flower.", "correct": false, "explanation": "This is the beginning — the problem is introduced."},
+        {"id": "b", "label": "She searched the savanna all day.", "correct": false, "explanation": "This is the middle — the action building."},
+        {"id": "c", "label": "At last, she spotted it tucked behind a baobab tree.", "correct": true, "explanation": "The problem is solved (flower found) and the story concludes — this is the ending."},
+        {"id": "d", "label": "One sunny morning.", "correct": false, "explanation": "This is the very start of the beginning."}
+      ],
+      "explanation_md": "The **ending** is when Ella finds the flower — the problem is solved and the action concludes."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Why is it important for the beginning of a story to introduce the setting?",
+      "choices": [
+        {"id": "a", "label": "So readers know when the story will end.", "correct": false, "explanation": "The setting tells where and sometimes when, but not when the story ends."},
+        {"id": "b", "label": "So readers understand where and when events are taking place.", "correct": true, "explanation": "Knowing the setting helps readers picture the world of the story and understand events in context."},
+        {"id": "c", "label": "So readers can skip straight to the middle.", "correct": false, "explanation": "Understanding the setting makes the whole story clearer, not a reason to skip."},
+        {"id": "d", "label": "So the author can add more characters later.", "correct": false, "explanation": "Setting is about place and time, not about adding characters."}
+      ],
+      "explanation_md": "Introducing the setting in the beginning helps readers **picture where and when** the story happens, making everything that follows easier to understand."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "A classmate summarizes a book: *\"The beginning introduces Sam and his problem — he can't find his dog. The middle shows all the places he looks. The end is when his neighbor calls to say the dog is at her house.\"*\n\nDoes this summary show a complete story structure? Why or why not?",
+      "choices": [
+        {"id": "a", "label": "No — the summary is missing the middle.", "correct": false, "explanation": "The middle IS there — Sam looks in many places."},
+        {"id": "b", "label": "Yes — all three parts (beginning, middle, end) are clearly described.", "correct": true, "explanation": "Beginning (Sam + problem), middle (searching), and ending (dog found) are all present."},
+        {"id": "c", "label": "No — the summary is missing a conclusion.", "correct": false, "explanation": "The ending (neighbor calls, dog is found) is the conclusion."},
+        {"id": "d", "label": "Yes — but only because it is a long summary.", "correct": false, "explanation": "Length doesn't determine completeness — all three structural parts do."}
+      ],
+      "explanation_md": "All three parts are present: **beginning** (Sam + lost dog), **middle** (searching), **end** (dog found at neighbor's house)."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "A story has three parts. What are they?",
+      "choices": [
+        {"id": "a", "label": "Title, author, illustrator", "correct": false, "explanation": "Those are parts of a book's cover, not the story structure."},
+        {"id": "b", "label": "Beginning, middle, end", "correct": true, "explanation": "Every story has a beginning, a middle, and an end."},
+        {"id": "c", "label": "Chapter 1, Chapter 2, Chapter 3", "correct": false, "explanation": "Chapters are one way to organize, but the structure is beginning, middle, end."},
+        {"id": "d", "label": "Characters, setting, theme", "correct": false, "explanation": "Those are story elements, not the three structural parts."}
+      ],
+      "explanation_md": "Every story has a **beginning, middle, and end**."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "In the beginning of a story, we usually learn about the ___.",
+      "choices": [
+        {"id": "a", "label": "Solution to the problem", "correct": false, "explanation": "The solution comes at the end."},
+        {"id": "b", "label": "Characters and where the story takes place", "correct": true, "explanation": "The beginning introduces who is in the story and where it happens."},
+        {"id": "c", "label": "What the character learns", "correct": false, "explanation": "Lessons are usually at the end."},
+        {"id": "d", "label": "Nothing important", "correct": false, "explanation": "The beginning is very important — it introduces the whole story."}
+      ],
+      "explanation_md": "The **beginning** introduces the characters and the setting (where the story takes place)."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In a fairy tale, the princess finds her lost crown at the very end. What part of the story is this?",
+      "choices": [
+        {"id": "a", "label": "The beginning", "correct": false, "explanation": "Problems are introduced at the beginning; solutions come at the end."},
+        {"id": "b", "label": "The middle", "correct": false, "explanation": "In the middle, the character is still trying to solve the problem."},
+        {"id": "c", "label": "The end", "correct": true, "explanation": "Finding the crown solves the problem and concludes the story — it is the end."},
+        {"id": "d", "label": "The setting", "correct": false, "explanation": "The setting is the place, not a part of the sequence."}
+      ],
+      "explanation_md": "When the problem is solved (finding the crown), the story is at the **end**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which sentence would most likely come at the **beginning** of a story?",
+      "choices": [
+        {"id": "a", "label": "And they all lived happily ever after.", "correct": false, "explanation": "This is a classic ending phrase."},
+        {"id": "b", "label": "Finally, the dragon flew away and the village was safe.", "correct": false, "explanation": "'Finally' signals the end."},
+        {"id": "c", "label": "Once upon a time, a brave girl named Lily lived near a dark forest.", "correct": true, "explanation": "'Once upon a time' is a classic beginning. We learn who (Lily) and where (near a dark forest)."},
+        {"id": "d", "label": "After trying again and again, she succeeded.", "correct": false, "explanation": "'After trying again and again' and 'she succeeded' both suggest a conclusion."}
+      ],
+      "explanation_md": "'Once upon a time' signals the **beginning**, and we learn who Lily is and where she lives."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "In the middle of a story, the main character usually ___.",
+      "choices": [
+        {"id": "a", "label": "Gets introduced for the first time.", "correct": false, "explanation": "Characters are introduced in the beginning."},
+        {"id": "b", "label": "Faces a challenge and tries to solve a problem.", "correct": true, "explanation": "In the middle, the character deals with challenges and works toward a solution."},
+        {"id": "c", "label": "Solves all their problems instantly.", "correct": false, "explanation": "If problems were solved instantly, there would be no middle!"},
+        {"id": "d", "label": "Leaves the story.", "correct": false, "explanation": "Main characters stay throughout the story."}
+      ],
+      "explanation_md": "In the **middle**, the character faces challenges and works to solve the problem — this is where most of the action happens."
+    }
+  ]
+}
