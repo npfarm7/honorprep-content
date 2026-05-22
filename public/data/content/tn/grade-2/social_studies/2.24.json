@@ -1,0 +1,613 @@
+{
+  "skill_id": "2.24",
+  "benchmark_description": "Identify important Tennessee connections to the broader United States, including Tennessee's role in major national events, its contributions to American music, and significant Tennesseans who made contributions at the national level.",
+  "course": "social_studies",
+  "strand": "TN",
+  "lesson": {
+    "title": "Tennessee's Role in the United States",
+    "intro": "Tennessee is a small state, but it has played a big role in American history, culture, and government. From presidents to music to famous battles, Tennessee's story is deeply woven into the story of the United States.",
+    "body_md": "## Tennessee Presidents\n\nThree United States presidents came from Tennessee \u2014 a remarkable number for one state!\n\n| President | Years in Office | Tennessee Connection |\n|---|---|---|\n| Andrew Jackson | 1829\u20131837 | \"Old Hickory\" \u2014 famous soldier and politician from the Hermitage near Nashville |\n| James K. Polk | 1845\u20131849 | Born in NC, served as Tennessee Governor and congressman |\n| Andrew Johnson | 1865\u20131869 | From Greeneville, TN \u2014 became president after Abraham Lincoln was assassinated |\n\nTennessee earned the nickname **\"The Volunteer State\"** because Tennesseans eagerly volunteered to serve the nation in wars throughout history.\n\n## Tennessee in Major National Events\n\n### The Battle of New Orleans (1815)\nTennessee's Andrew Jackson led American forces to a major victory in the War of 1812 at the Battle of New Orleans, making him a national hero.\n\n### The Civil War (1861-1865)\nTennessee was a battleground state during the Civil War. Major battles were fought on Tennessee soil:\n- **Battle of Shiloh** (1862) \u2014 one of the bloodiest battles in American history\n- **Battle of Murfreesboro/Stones River** (1862-1863)\n- **Battle of Chattanooga** (1863) \u2014 a turning point that opened the Deep South to Union forces\n\nTennessee was the last Confederate state to leave the Union and the first to be readmitted after the war.\n\n### The Civil Rights Movement (1950s-1960s)\nTennessee was a significant location for the Civil Rights Movement:\n- **Nashville sit-ins** (1960): Students at Nashville's Black universities staged nonviolent protests at lunch counters to end segregation.\n- Nashville became known as a training ground for civil rights activists.\n- James Lawson, a minister in Nashville, taught nonviolent protest strategies used across the nation.\n\n## Tennessee's Contribution to American Music\n\nTennessee has shaped American music more than almost any other state:\n\n- **Nashville** is called \"Music City USA\" \u2014 the center of country music, with the Grand Ole Opry (opened 1925), the Country Music Hall of Fame, and hundreds of recording studios.\n- **Memphis** gave birth to **blues** and **rock and roll**. Beale Street is famous worldwide for blues music. Elvis Presley recorded at Sun Studio in Memphis.\n- **Knoxville and East Tennessee** contributed to bluegrass and folk music traditions.\n- **Bristol, TN** is known as the \"Birthplace of Country Music\" \u2014 the first commercial country music recordings were made there in 1927.\n\n## Significant Tennesseans\n\n| Tennessean | Contribution |\n|---|---|\n| Davy Crockett | Frontiersman, politician, and American folk hero |\n| Dolly Parton | World-famous singer and philanthropist from Sevier County |\n| Al Gore | U.S. Senator and Vice President from Tennessee |\n| Wilma Rudolph | Olympic gold medalist from Clarksville, TN; pioneering athlete |\n| Ida B. Wells | Born in Holly Springs, MS; lived in Memphis; pioneering civil rights journalist |\n\n## Why Tennessee Matters to America\n\nTennessee's contributions to America include:\n- **Political leadership** through three presidents and many senators\n- **Military service** through countless volunteers in every American war\n- **Cultural contributions** through music, arts, and traditions\n- **Civil rights progress** through activism and peaceful protest\n- **Economic contributions** through farming, manufacturing, and healthcare",
+    "worked_example_md": "**Question:** Why is Tennessee sometimes called \"The Volunteer State\"? How does this nickname connect to Tennessee's role in the United States?\n\n**Think it through:**\n- Tennessee is called the Volunteer State because Tennesseans historically answered the call to serve the country in times of need.\n- During the War of 1812, when President James Madison asked for 3,500 volunteers, Tennessee sent 30,000.\n- This spirit of service continued through the Civil War, World War I, World War II, and other conflicts.\n\n**Answer:** Tennessee earned the nickname **\"The Volunteer State\"** because its citizens consistently volunteered in large numbers to serve the United States in wars and national emergencies \u2014 showing Tennessee's strong national loyalty and dedication to the country.",
+    "estimated_minutes": 11
+  },
+  "practice_questions": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Why is Tennessee called \"The Volunteer State\"?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Because Tennessee has the most volunteers at food banks",
+          "correct": false,
+          "explanation": "The nickname comes from military volunteering, not food bank work."
+        },
+        {
+          "id": "b",
+          "label": "Because Tennesseans eagerly volunteered to serve the nation in wars",
+          "correct": true,
+          "explanation": "Tennessee citizens repeatedly volunteered in large numbers for military service throughout American history."
+        },
+        {
+          "id": "c",
+          "label": "Because Tennessee volunteered to become the first state",
+          "correct": false,
+          "explanation": "Tennessee was the 16th state \u2014 not the first \u2014 and the nickname is about military service."
+        },
+        {
+          "id": "d",
+          "label": "Because Tennessee volunteers teach in schools across the country",
+          "correct": false,
+          "explanation": "The nickname is about military volunteering, not teaching."
+        }
+      ],
+      "explanation_md": "Tennessee is called \"The Volunteer State\" because Tennesseans **eagerly volunteered** to serve in the United States military throughout American history."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which city in Tennessee is known as \"Music City USA\"?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Knoxville",
+          "correct": false,
+          "explanation": "Knoxville is known for many things, but not the \"Music City\" nickname."
+        },
+        {
+          "id": "b",
+          "label": "Memphis",
+          "correct": false,
+          "explanation": "Memphis is famous for blues and rock and roll, but not called \"Music City USA.\""
+        },
+        {
+          "id": "c",
+          "label": "Nashville",
+          "correct": true,
+          "explanation": "Nashville is known worldwide as \"Music City USA,\" the home of country music."
+        },
+        {
+          "id": "d",
+          "label": "Chattanooga",
+          "correct": false,
+          "explanation": "Chattanooga is known for the Chattanooga Choo Choo and Civil War battles, not \"Music City.\""
+        }
+      ],
+      "explanation_md": "**Nashville** is called **\"Music City USA\"** \u2014 it is the center of country music and home to the Grand Ole Opry and Country Music Hall of Fame."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "How many U.S. presidents have come from Tennessee?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "One",
+          "correct": false,
+          "explanation": "Tennessee has produced three presidents, not one."
+        },
+        {
+          "id": "b",
+          "label": "Two",
+          "correct": false,
+          "explanation": "Tennessee has produced three presidents: Andrew Jackson, James K. Polk, and Andrew Johnson."
+        },
+        {
+          "id": "c",
+          "label": "Three",
+          "correct": true,
+          "explanation": "Andrew Jackson, James K. Polk, and Andrew Johnson are the three presidents from Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "Five",
+          "correct": false,
+          "explanation": "Tennessee has produced three presidents, not five."
+        }
+      ],
+      "explanation_md": "**Three** U.S. presidents came from Tennessee: **Andrew Jackson, James K. Polk, and Andrew Johnson**."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which city in Tennessee is known as the \"Birthplace of Country Music\"?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Memphis",
+          "correct": false,
+          "explanation": "Memphis is known for blues and rock and roll, not the birthplace of country music."
+        },
+        {
+          "id": "b",
+          "label": "Nashville",
+          "correct": false,
+          "explanation": "Nashville is \"Music City USA\" and the center of country music today, but Bristol is the birthplace."
+        },
+        {
+          "id": "c",
+          "label": "Bristol",
+          "correct": true,
+          "explanation": "The first commercial country music recordings were made in Bristol in 1927."
+        },
+        {
+          "id": "d",
+          "label": "Knoxville",
+          "correct": false,
+          "explanation": "Knoxville has folk and bluegrass traditions but is not called the birthplace of country music."
+        }
+      ],
+      "explanation_md": "**Bristol, TN** is known as the **\"Birthplace of Country Music\"** \u2014 the first commercial country music recordings were made there in 1927."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Which famous music star grew up in Sevier County, Tennessee and became a beloved singer and philanthropist?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Elvis Presley",
+          "correct": false,
+          "explanation": "Elvis Presley was from Tupelo, Mississippi, and later lived in Memphis."
+        },
+        {
+          "id": "b",
+          "label": "Dolly Parton",
+          "correct": true,
+          "explanation": "Dolly Parton grew up in Sevier County, TN and became a world-famous singer and philanthropist."
+        },
+        {
+          "id": "c",
+          "label": "Wilma Rudolph",
+          "correct": false,
+          "explanation": "Wilma Rudolph was from Clarksville, TN and was an Olympic athlete, not a singer."
+        },
+        {
+          "id": "d",
+          "label": "Davy Crockett",
+          "correct": false,
+          "explanation": "Davy Crockett was a frontiersman and politician, not a singer."
+        }
+      ],
+      "explanation_md": "**Dolly Parton** grew up in Sevier County, Tennessee and became a world-famous country music singer and philanthropist."
+    },
+    {
+      "ordering": 6,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Nashville sit-ins of 1960 were important because \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They were the first time Tennessee ran for president.",
+          "correct": false,
+          "explanation": "States do not run for president \u2014 individuals do."
+        },
+        {
+          "id": "b",
+          "label": "Students used nonviolent protest to fight against segregation at lunch counters.",
+          "correct": true,
+          "explanation": "The Nashville sit-ins were a key civil rights action using peaceful protest to end segregation."
+        },
+        {
+          "id": "c",
+          "label": "They started country music in Nashville.",
+          "correct": false,
+          "explanation": "Country music started earlier than 1960 \u2014 the sit-ins were a civil rights event."
+        },
+        {
+          "id": "d",
+          "label": "They created the Tennessee State Constitution.",
+          "correct": false,
+          "explanation": "The Tennessee Constitution was written much earlier \u2014 the sit-ins were about civil rights."
+        }
+      ],
+      "explanation_md": "The Nashville sit-ins were important because **students used nonviolent protest to fight segregation at lunch counters** \u2014 helping advance the national Civil Rights Movement."
+    },
+    {
+      "ordering": 7,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "The Battle of Shiloh was fought in Tennessee during the Civil War. Why was it significant?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It was the last battle of the Civil War.",
+          "correct": false,
+          "explanation": "Shiloh was fought early in the Civil War (1862) \u2014 not the last battle."
+        },
+        {
+          "id": "b",
+          "label": "It was one of the bloodiest battles in American history, showing the terrible costs of the war.",
+          "correct": true,
+          "explanation": "Shiloh had massive casualties that shocked the nation and showed how devastating the Civil War would be."
+        },
+        {
+          "id": "c",
+          "label": "It was the only battle fought in Tennessee.",
+          "correct": false,
+          "explanation": "Many major Civil War battles were fought in Tennessee."
+        },
+        {
+          "id": "d",
+          "label": "It ended slavery in the United States.",
+          "correct": false,
+          "explanation": "The Emancipation Proclamation and the 13th Amendment ended slavery \u2014 not a single battle."
+        }
+      ],
+      "explanation_md": "The **Battle of Shiloh** was significant because it was **one of the bloodiest battles in American history**, revealing the enormous human cost of the Civil War."
+    },
+    {
+      "ordering": 8,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Wilma Rudolph was from Clarksville, Tennessee. What was her contribution to the United States?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "She became the first woman to serve as a U.S. senator.",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an athlete, not a senator."
+        },
+        {
+          "id": "b",
+          "label": "She won three Olympic gold medals, becoming one of the greatest American athletes.",
+          "correct": true,
+          "explanation": "Wilma Rudolph won three gold medals at the 1960 Rome Olympics \u2014 a pioneering achievement."
+        },
+        {
+          "id": "c",
+          "label": "She wrote the first country music songs in Tennessee.",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an Olympic runner, not a country music songwriter."
+        },
+        {
+          "id": "d",
+          "label": "She led the Battle of Shiloh in the Civil War.",
+          "correct": false,
+          "explanation": "Wilma Rudolph was an Olympic athlete in the 1960s, not a Civil War general."
+        }
+      ],
+      "explanation_md": "**Wilma Rudolph** from Clarksville, TN won **three Olympic gold medals** at the 1960 Rome Olympics \u2014 she was one of the greatest American athletes of her era."
+    },
+    {
+      "ordering": 9,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How has Tennessee's music contributed to American culture as a whole?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee music is only enjoyed by people who live in the South.",
+          "correct": false,
+          "explanation": "Tennessee music \u2014 country, blues, rock and roll \u2014 is loved worldwide, not just in the South."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee created and developed major American musical genres (country, blues, rock and roll) enjoyed by people around the world.",
+          "correct": true,
+          "explanation": "Nashville's country music and Memphis's blues and rock and roll shaped American and global music culture."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee invented classical music and brought it to America.",
+          "correct": false,
+          "explanation": "Classical music came from Europe \u2014 Tennessee is known for country, blues, and rock and roll."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee's music is only famous in Nashville.",
+          "correct": false,
+          "explanation": "Tennessee's musical influence extends across America and around the world."
+        }
+      ],
+      "explanation_md": "Tennessee **created and developed major American musical genres** \u2014 country music in Nashville, blues and rock and roll in Memphis \u2014 that are enjoyed by people around the world."
+    },
+    {
+      "ordering": 10,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "prompt_md": "A student is making a poster about Tennessee's national impact. Which statement would BEST support the idea that Tennessee played an important role in shaping the United States?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee has many state parks and beautiful mountains.",
+          "correct": false,
+          "explanation": "Natural beauty is not the same as national historical impact."
+        },
+        {
+          "id": "b",
+          "label": "Tennessee contributed three U.S. presidents, shaped American music through Nashville and Memphis, and was a key Civil War battleground and Civil Rights Movement site.",
+          "correct": true,
+          "explanation": "This covers multiple dimensions of Tennessee's national impact \u2014 political, cultural, and historical."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee is the biggest state east of the Mississippi River.",
+          "correct": false,
+          "explanation": "Tennessee is not the largest state east of the Mississippi \u2014 and size alone doesn't determine national impact."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee was the first state to join the United States.",
+          "correct": false,
+          "explanation": "Tennessee was the 16th state, not the first."
+        }
+      ],
+      "explanation_md": "Tennessee's national importance is best shown through **three presidents, major musical contributions (Nashville + Memphis), Civil War battles on Tennessee soil, and its role in the Civil Rights Movement** \u2014 a broad, multi-area impact."
+    }
+  ],
+  "mastery_check": [
+    {
+      "ordering": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "Which of these is a contribution Tennessee made to American music?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Tennessee invented jazz music in New Orleans.",
+          "correct": false,
+          "explanation": "Jazz originated in New Orleans, Louisiana \u2014 not Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "Nashville became the center of country music and Memphis developed blues and rock and roll.",
+          "correct": true,
+          "explanation": "Tennessee shaped two major American genres \u2014 country music in Nashville and blues/rock in Memphis."
+        },
+        {
+          "id": "c",
+          "label": "Tennessee musicians only performed for Tennessee audiences.",
+          "correct": false,
+          "explanation": "Tennessee music has a global audience, not just a local one."
+        },
+        {
+          "id": "d",
+          "label": "Tennessee's music is less important than other states' music.",
+          "correct": false,
+          "explanation": "Tennessee's musical contributions are among the most significant of any U.S. state."
+        }
+      ],
+      "explanation_md": "**Nashville became the center of country music** and **Memphis developed blues and rock and roll** \u2014 Tennessee's contributions to American music are enormous."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "prompt_md": "What was significant about the Battle of Chattanooga during the Civil War?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "It was the first battle of the Civil War.",
+          "correct": false,
+          "explanation": "The Civil War began with Fort Sumter in South Carolina \u2014 not Chattanooga."
+        },
+        {
+          "id": "b",
+          "label": "It was a turning point that opened the way for Union forces to advance into the Deep South.",
+          "correct": true,
+          "explanation": "The Union victory at Chattanooga allowed General Sherman to march through the South."
+        },
+        {
+          "id": "c",
+          "label": "It ended the Civil War.",
+          "correct": false,
+          "explanation": "The Civil War ended at Appomattox Court House in Virginia \u2014 not Chattanooga."
+        },
+        {
+          "id": "d",
+          "label": "It was fought between Tennessee and Kentucky.",
+          "correct": false,
+          "explanation": "The Battle of Chattanooga was between Union and Confederate forces, not two states."
+        }
+      ],
+      "explanation_md": "The **Battle of Chattanooga** was a turning point that **opened the Deep South to Union forces** \u2014 a significant moment in the Civil War fought on Tennessee soil."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "prompt_md": "How did the Nashville sit-ins of 1960 connect to the larger Civil Rights Movement in the United States?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "They were a local event that had no impact outside Nashville.",
+          "correct": false,
+          "explanation": "The Nashville sit-ins influenced the national Civil Rights Movement and trained activists."
+        },
+        {
+          "id": "b",
+          "label": "They demonstrated that nonviolent protest could successfully challenge segregation, providing a model for activists across the nation.",
+          "correct": true,
+          "explanation": "Nashville's sit-ins showed the power of peaceful protest, influencing the broader movement."
+        },
+        {
+          "id": "c",
+          "label": "They caused Tennessee to leave the United States.",
+          "correct": false,
+          "explanation": "Tennessee did not leave the U.S. due to the sit-ins."
+        },
+        {
+          "id": "d",
+          "label": "They were started by the U.S. federal government as a test of civil rights laws.",
+          "correct": false,
+          "explanation": "The sit-ins were organized by Black students and activists \u2014 not the federal government."
+        }
+      ],
+      "explanation_md": "The Nashville sit-ins **demonstrated that nonviolent protest could challenge segregation**, providing a model that influenced **activists across the nation** during the Civil Rights Movement."
+    }
+  ],
+  "remediation": [
+    {
+      "ordering": 1,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Which state nickname shows that Tennessee's citizens served their country in wars?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "The Sunshine State",
+          "correct": false,
+          "explanation": "The Sunshine State is Florida's nickname \u2014 not Tennessee's."
+        },
+        {
+          "id": "b",
+          "label": "The Volunteer State",
+          "correct": true,
+          "explanation": "Tennessee is called the Volunteer State because its citizens volunteered for military service."
+        },
+        {
+          "id": "c",
+          "label": "The Lone Star State",
+          "correct": false,
+          "explanation": "The Lone Star State is Texas's nickname."
+        },
+        {
+          "id": "d",
+          "label": "The Peach State",
+          "correct": false,
+          "explanation": "The Peach State is Georgia's nickname."
+        }
+      ],
+      "explanation_md": "Tennessee's nickname is **\"The Volunteer State\"** \u2014 it honors the tradition of Tennesseans volunteering to serve the country in wars."
+    },
+    {
+      "ordering": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Andrew Jackson was a president from Tennessee. What was he famous for before becoming president?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Inventing a new kind of music",
+          "correct": false,
+          "explanation": "Andrew Jackson was a soldier and politician, not a musician."
+        },
+        {
+          "id": "b",
+          "label": "Being a famous soldier and winning battles for the United States",
+          "correct": true,
+          "explanation": "Jackson was a hero of the Battle of New Orleans in the War of 1812."
+        },
+        {
+          "id": "c",
+          "label": "Writing the Tennessee Constitution",
+          "correct": false,
+          "explanation": "Andrew Jackson was primarily known as a military leader and politician."
+        },
+        {
+          "id": "d",
+          "label": "Starting the Grand Ole Opry",
+          "correct": false,
+          "explanation": "The Grand Ole Opry was started in 1925 \u2014 long after Jackson's time."
+        }
+      ],
+      "explanation_md": "Andrew Jackson was famous for being a **soldier and military hero** \u2014 especially for winning the Battle of New Orleans in the War of 1812."
+    },
+    {
+      "ordering": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "Memphis, Tennessee is known for which type of music?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "Classical music and opera",
+          "correct": false,
+          "explanation": "Classical music and opera are associated with other cities and countries."
+        },
+        {
+          "id": "b",
+          "label": "Blues and rock and roll",
+          "correct": true,
+          "explanation": "Memphis is the home of blues music and was a birthplace of rock and roll."
+        },
+        {
+          "id": "c",
+          "label": "Country music only",
+          "correct": false,
+          "explanation": "Country music is centered in Nashville \u2014 Memphis is known for blues and rock and roll."
+        },
+        {
+          "id": "d",
+          "label": "Folk music from the mountains",
+          "correct": false,
+          "explanation": "Mountain folk music is more associated with East Tennessee, not Memphis."
+        }
+      ],
+      "explanation_md": "**Memphis** is famous for **blues and rock and roll** \u2014 Beale Street is the home of blues, and Elvis Presley recorded at Sun Studio in Memphis."
+    },
+    {
+      "ordering": 4,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "prompt_md": "Davy Crockett was a famous Tennessean. He is remembered as \u2014",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A frontiersman and American folk hero",
+          "correct": true,
+          "explanation": "Davy Crockett is remembered as a frontiersman, politician, and folk hero from Tennessee."
+        },
+        {
+          "id": "b",
+          "label": "The first president of the United States",
+          "correct": false,
+          "explanation": "George Washington was the first president \u2014 Davy Crockett was never president."
+        },
+        {
+          "id": "c",
+          "label": "The inventor of country music",
+          "correct": false,
+          "explanation": "Davy Crockett was a frontiersman, not the creator of country music."
+        },
+        {
+          "id": "d",
+          "label": "An Olympic gold medalist",
+          "correct": false,
+          "explanation": "Olympic gold medals are for athletes \u2014 Davy Crockett was a frontiersman and politician."
+        }
+      ],
+      "explanation_md": "Davy Crockett is remembered as a **frontiersman, politician, and American folk hero** from Tennessee."
+    },
+    {
+      "ordering": 5,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "prompt_md": "The Battle of Shiloh was fought in Tennessee during the Civil War. Where did this battle take place?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "In Nashville",
+          "correct": false,
+          "explanation": "Shiloh is in southwest Tennessee near the Tennessee River, not Nashville."
+        },
+        {
+          "id": "b",
+          "label": "In southwest Tennessee near the Tennessee River",
+          "correct": true,
+          "explanation": "The Battle of Shiloh was fought in Hardin County, in southwest Tennessee."
+        },
+        {
+          "id": "c",
+          "label": "In Virginia",
+          "correct": false,
+          "explanation": "Shiloh was fought in Tennessee, not Virginia."
+        },
+        {
+          "id": "d",
+          "label": "In Memphis",
+          "correct": false,
+          "explanation": "Shiloh was not in Memphis \u2014 it was in a rural area of southwest Tennessee."
+        }
+      ],
+      "explanation_md": "The **Battle of Shiloh** was fought in **southwest Tennessee near the Tennessee River** \u2014 it was one of the bloodiest battles of the Civil War."
+    }
+  ]
+}
